@@ -1,7 +1,15 @@
-#!/usr/bin/env rake
-# Add your own tasks in files placed in lib/tasks ending in .rake,
-# for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
+require 'active_record'
+require 'yaml'
+require 'logger'
 
-require File.expand_path('../config/application', __FILE__)
+task :default => :migrate
 
-BaseballMl::Application.load_tasks
+desc "Migrate the database through scripts in db/migrate. Target specific version with VERSION=x"
+task :migrate => :environment do
+  ActiveRecord::Migrator.migrate('db/migrate', ENV["VERSION"] ? ENV["VERSION"].to_i : nil )
+end
+
+task :environment do
+  ActiveRecord::Base.establish_connection(YAML::load(File.open('database.yml')))
+  ActiveRecord::Base.logger = Logger.new(File.open('database.log', 'a'))
+end
