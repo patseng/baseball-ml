@@ -6,7 +6,7 @@ require 'debugger'
 require 'date'
 
 require './models/game.rb'
-
+require './teamMap.rb'
 
 dbconfig = YAML::load(File.open('database.yml'))
 ActiveRecord::Base.establish_connection(dbconfig)
@@ -18,7 +18,6 @@ def parseEVA(file_path)
     delimeter = row[0]
     case delimeter
     when 'id'
-      debugger
       if current_game
         current_game.save
       end
@@ -28,11 +27,9 @@ def parseEVA(file_path)
       third_token = row[2]
       case second_token
       when 'visteam'
-        # debugger
-        # current_game.away_team = third_token
+        current_game.away_team = TeamMap.teamNamesToInt[third_token]
       when 'hometeam'
-        # debugger
-        # current_game.home_team = third_token.to_s       
+        current_game.home_team = TeamMap.teamNamesToInt[third_token]
       when 'daynight'
         current_game.day_game = if third_token == "day" then true else false end
       when 'date'
