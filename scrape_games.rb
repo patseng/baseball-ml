@@ -59,6 +59,7 @@ Dir.entries('./raw_data').each do |dir|
   # 
   file_names.each do |file_name|
     if file_name =~ /.*\.EV(A|N)/
+      puts "./raw_data/#{dir}/#{file_name}"
       parseEVA("./raw_data/#{dir}/#{file_name}")
     end
   end

@@ -9555,7 +9555,7 @@ play,1,0,rodra001,02,CSH,HP
 play,1,0,palmr001,32,BFBCBC,K/C
 com,"ej,myeta001,P,hirsm901,Threw behind batter"
 com,"$Aaron Myette threw 2 pitches behind Melvin Mora and was"
-com,'ejected by HP umpire Mark Hirschbeck"
+com,"ejected by HP umpire Mark Hirschbeck"
 play,1,1,moram002,20,BB,NP
 sub,vanpt001,"Todd Van Poppel",0,0,1
 play,1,1,moram002,30,BBBB,W
