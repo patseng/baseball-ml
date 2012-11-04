@@ -31,19 +31,20 @@ def parseEVA(file_path)
         # debugger
         # current_game.away_team = third_token
       when 'hometeam'
-        current_game.home_team = third_token.to_s       
+        # debugger
+        # current_game.home_team = third_token.to_s       
       when 'daynight'
-        # current_game.day_game = if third_token == "day" then true else false end
+        current_game.day_game = if third_token == "day" then true else false end
       when 'date'
-        # current_game.game_date = DateTime.parse(third_token)
+        current_game.game_date = DateTime.parse(third_token)
       when 'usedh'
-        # current_game.used_designated_hitter = if third_token == "true" then true else false end
+        current_game.used_designated_hitter = if third_token == "true" then true else false end
       when 'temp'
-        # current_game.temperature = third_token.to_i
+        current_game.temperature = third_token.to_i
       when 'windspeed'
-        # current_game.wind_speed = third_token.to_i
+        current_game.wind_speed = third_token.to_i
       when 'number'
-        # current_game.game_number = third_token.to_i
+        current_game.game_number = third_token.to_i
       else
       end
     else
