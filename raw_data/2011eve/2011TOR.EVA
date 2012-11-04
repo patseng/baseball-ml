@@ -719,7 +719,6 @@ play,6,1,encae001,01,CX,7/L
 play,6,1,snidt001,12,CSFBFC,K
 play,7,0,ellim001,00,,NP
 sub,mcdoj003,"John McDonald",1,2,6
-com,"Blue Jays shortstop Yunel Escobar left the game due to an injured head"
 play,7,0,ellim001,31,.BBBCX,4/P
 play,7,0,laroa002,11,BCX,S8/G
 play,7,0,pennc001,00,,NP
@@ -1003,7 +1002,6 @@ play,6,1,hilla001,20,BBX,S9/F
 play,6,1,molij001,11,1B>F>S,SB2
 play,6,1,molij001,00,,NP
 sub,mcdoj003,"John McDonald",1,5,12
-com,"Blue Jays second baseman Aaron Hill left the game due to an injured leg"
 play,6,1,molij001,22,1B>F>S..FBFFX,5/P
 play,6,1,pattc001,32,BBBCCB,W
 play,6,1,encae001,21,B+2BFX,D7/F.2-H;1-3
@@ -1289,8 +1287,6 @@ play,2,0,rodrs002,32,BCSBBB,W
 play,2,0,zobrb001,22,B11C+1C11>FBX,54(1)/FO/G
 play,2,0,johnd004,00,,NP
 sub,mcdoj003,"John McDonald",1,9,4
-com,"Blue Jays third baseman Jayson Nix left the game due to an injured knee after"
-com,"Sean Rodriguez slid into him at second during the play"
 play,2,0,johnd004,22,.1BFCB111S,K
 play,2,0,shopk001,02,CFS,K
 play,2,1,arenj001,00,X,9/F9LF
@@ -1884,9 +1880,6 @@ start,coopd002,"David Cooper",1,7,10
 start,mcdoj003,"John McDonald",1,8,4
 start,davir003,"Rajai Davis",1,9,9
 start,romer002,"Ricky Romero",1,0,1
-com,"$Justin Verlander throws the second no-hitter of his career, allowing only one walk in the"
-com,"eighth inning on a 12-pitch plate appearance; that runner was erased on a double play, thus"
-com,"Verlander faced only 27 batters"
 play,1,0,jacka001,10,BX,13/G-
 play,1,0,sizes001,22,BBFCFS,K
 play,1,0,ordom001,00,X,3/G
@@ -2400,7 +2393,6 @@ play,6,1,pattc001,00,,NP
 sub,hillr001,"Rich Hill",0,0,1
 play,6,1,pattc001,00,,NP
 sub,coopd002,"David Cooper",1,1,12
-com,"Blue Jays shortstop Yunel Escobar left the game due to an injured leg"
 play,6,1,pattc001,11,..BSX,8/F.2-3
 play,6,1,bautj002,11,FBX,64(1)/FO/G
 play,7,0,pedrd001,00,,NP
@@ -2681,9 +2673,6 @@ play,2,0,joycm001,31,BBCBB,W
 play,2,0,uptob001,00,H,HP.1-2
 play,2,0,kotcc001,12,BCSX,43/G.2-3;1-2
 play,2,0,johne002,22,BCBCX,S9/F-.3-H;2-H;B-3(E9/TH2)(E1/TH2)
-com,"$the throw by Blue Jays RF Jose Bautista hit the 2B bag and caromed into the infield"
-com,"where pitcher Jesse Litsch retrieved the ball and threw to second; his throw went into"
-com,"CF, allowing batter Elliot Johnson to advance to 3B"
 play,2,0,jasoj001,32,BCBCBFB,W
 play,2,0,fulds001,00,>X,E3/TH/SH/BG.3-H(UR);1-2;B-1
 play,2,0,zobrb001,22,BBCFFX,7/F
@@ -3578,8 +3567,6 @@ play,3,0,quenc001,00,X,63/G
 play,3,1,pattc001,11,BCX,9/F
 play,3,1,bautj002,12,CSFBS,K
 play,3,1,rivej001,11,FBX,D8/F78XDW
-com,"$the throw in by Alex Rios bounced and hit second baseman Gordon Beckham"
-com,"on the side of the face under the eye; he was taken to the hospital for x-rays"
 play,3,1,arenj001,00,,NP
 sub,vizqo001,"Omar Vizquel",0,8,4
 play,3,1,arenj001,00,,NP
@@ -3959,11 +3946,6 @@ play,4,1,escoy001,00,>B,SB3
 play,4,1,escoy001,22,>B.FCBX,S9/G.3-H
 play,4,1,pattc001,11,BSX,HR/9/L.1-H
 play,4,1,bautj002,32,CBBBCX,6/P
-com,"$Jose Bautista slammed his bat down after popping up and yelled at himself;"
-com,"pitcher John Danks yelled at Bautista as the latter ran to 1B, telling him to just run"
-com,"the bases; Bautista rounded 1B, went part way to 2B and then ran past the mound on the"
-com,"way to the dugout; Bautista and Danks exchanged more words and HP umpire David Rackley"
-com,"was in the vicinity just in case"
 play,4,1,rivej001,31,BCBBX,3/P3F
 play,5,0,moreb001,11,CBX,S7/L+
 play,5,0,pierj002,00,X,7/F
@@ -5391,7 +5373,6 @@ play,6,0,scotl001,12,FFBS,K
 play,6,0,lee-d002,01,FX,9/F
 play,6,1,nix-j001,00,,NP
 sub,johnj010,"Jim Johnson",0,0,1
-com,"Orioles pitcher Jeremy Guthrie left the game due to an injured back"
 play,6,1,nix-j001,10,.BX,S8/G
 play,6,1,escoy001,00,X,E4/FO/G.1-2
 play,6,1,pattc001,00,X,34/SH/BG.2-3;1-2
@@ -5405,8 +5386,6 @@ play,7,0,tatuc001,32,BBFBFC,K
 play,7,1,molij001,00,,NP
 sub,berkj001,"Jason Berken",0,0,1
 play,7,1,molij001,02,.CSS,K
-com,"ej,molij001,P,davib902,Called third strike"
-com,"Blue Jays catcher Jose Molina ejected by HP umpire Bob Davidson"
 play,7,1,davir003,00,,NP
 sub,rivej001,"Juan Rivera",1,8,11
 play,7,1,rivej001,12,..CFBS,K
@@ -5958,7 +5937,6 @@ play,1,0,howar001,02,1CS>X,8/F
 play,1,1,escoy001,11,BFH,HP
 play,1,1,thame001,00,,NP
 sub,hilla001,"Aaron Hill",1,1,12
-com,"Blue Jays shortstop Yunel Escobar left the game due to an injured hand"
 play,1,1,thame001,00,.X,9/F
 play,1,1,bautj002,00,1X,DGR7/F.1-3
 play,1,1,linda001,11,BFX,6/P
@@ -6017,7 +5995,6 @@ play,6,1,arenj001,02,CFFC,K
 play,6,1,davir003,02,LSS,K
 play,7,0,utlec001,01,CX,8/F
 play,7,0,howar001,11,CBX,E6/L
-com,"$This was originally S9, but changed next day"
 play,7,0,victs001,00,,NP
 sub,frasj002,"Jason Frasor",1,0,1
 play,7,0,victs001,21,.CB1BX,T8/F.1-H(UR)
@@ -6191,22 +6168,8 @@ sub,raucj001,"Jon Rauch",1,0,1
 play,9,0,rollj001,22,.BCFBX,S9/L
 play,9,0,polap001,12,C1FFFF1FBX,6/L-
 play,9,0,utlec001,00,X,16(1)/FO/G
-com,"$Blue Jays pitcher Jon Rauch was not happy with a couple of the pitch calls during Ryan Howard's"
-com,"plate appearance"
 play,9,0,howar001,32,CBFBB>B,W.1-2
 play,9,0,victs001,00,X,S7/L.2-H;1-2
-com,"ej,raucj001,P,marqa901,Call at HP"
-com,"ej,farrj001,M,marqa901,Call at HP"
-com,"$the throw home from LF Corey Patterson was up the 1B line; catcher J.P. Arencibia caught the ball"
-com,"and lunged back in an attempt to tag Chase Utley but Utley slid in before he was tagged; pitcher Jon"
-com,"Rauch, who was backing up the play at the plate, started yelling at HP umpire Alfonso Marquez,"
-com,"including pointing his glove at Marquez; Rauch was ejected by Marquez just as Blue Jays manager John"
-com,"Farrell arrived at the plate; Farrell told Rauch to go away, but Rauch went nuts; Farrell tried to"
-com,"restrain Rauch, who is 6-11; while they wrestled, Farrell failed to stay between the pitcher and the"
-com,"umpire; Farrell grabbed Rauch's shirt from behind and the shirt came off; Arencibia got in front of"
-com,"Rauch and the other three umpires ran in from their positions; Farrell got Rauch off the field and"
-com,"them went back to substitute a new pitcher; as Farrell left the field, he continued the argument"
-com,"with Marquez and was ejected"
 play,9,0,ibanr001,00,,NP
 sub,camps002,"Shawn Camp",1,0,1
 play,9,0,ibanr001,32,...BBFBC>X,43/G
@@ -6275,7 +6238,6 @@ play,1,1,bautj002,01,SX,9/F
 play,1,1,linda001,02,C1>FS,K
 play,2,0,howar001,32,BFSBBX,8/F
 play,2,0,victs001,11,BCX,DGR/7/L
-com,"fan interference"
 play,2,0,franb001,10,BX,S8/G+.2-H
 play,2,0,browd004,01,CX,S8/L+.1-2
 play,2,0,ruizc001,32,BBBCFFX,DGR/89/F.2-H;1-3
@@ -6458,7 +6420,6 @@ play,4,1,hilla001,02,TF2FS,K
 play,4,1,encae001,00,X,5(2)3/GDP
 play,5,0,gardb001,00,,NP
 sub,mcdoj003,"John McDonald",1,3,5
-com,"Blue Jays right fielder Jose Bautista left the game due to an injured ankle"
 play,5,0,gardb001,12,.CBCFX,43/G
 play,5,0,jeted001,01,FX,63/G
 play,5,0,granc001,02,CCX,S3/G
@@ -6637,7 +6598,6 @@ play,6,1,molij001,01,.CX,S8/F-
 play,6,1,davir003,31,BTBBB,W.1-2
 play,6,1,thame001,00,,NP
 sub,mccom001,"Mike McCoy",1,2,11
-com,"Blue Jays designated hitter Eric Thames left the game due to an injured leg"
 play,6,1,mccom001,02,.FCS,K
 play,6,1,escoy001,22,BCC*BC,K
 play,6,1,linda001,32,CBBBS>F>C,K
@@ -6752,10 +6712,6 @@ play,3,0,teixm001,22,BCB1FS,K
 play,3,0,canor001,00,11X,S9/L.1-3
 play,3,0,swisn001,32,CBSFF1*B*BC,K
 play,3,0,jonea002,11,BCB,OA.3-H(UR)(NR)(E4/THH);1-3
-com,"$the pitch was in the dirt and blocked by catcher J.P. Arencibia; the ball bounced a couple of feet to"
-com,"his right; Robinson Cano ran towards 2B but Arencibia's throw was there in pletny of time; 2B Aaron"
-com,"Hill ran Cano back towards 1B and Curtis Granderson broke for the plate; Hill's throw home sailed to"
-com,"the left Arencibia and both runners advanced; Cano was sent to 3B because the ball went out of play"
 play,3,0,jonea002,32,BCB.FBX,53/G
 play,3,1,mcdoj003,02,CFX,E5/TH1/G
 play,3,1,davir003,12,CFBX,64(1)3/GDP
@@ -7269,7 +7225,6 @@ play,2,1,molij001,21,CBB>B,SB3
 play,2,1,molij001,32,CBB>B.F>B,W.1-2
 play,2,1,escoy001,30,BBBB,W.3-H;2-3;1-2
 play,2,1,thame001,01,CX,DGR/7.3-H;2-H;1-3
-com,"fan interference"
 play,2,1,bautj002,30,IIII,IW
 play,2,1,linda001,00,X,7!/F
 play,3,0,ryanb002,12,CFFBS,K
@@ -7602,7 +7557,6 @@ play,3,1,thame001,12,CCBFS,K
 play,3,1,bautj002,02,TFH,HP
 play,3,1,linda001,00,,NP
 sub,mcdoj003,"John McDonald",1,3,12
-com,"$Blue Jays 3B Jose Bautista was hit on the head by the pitch"
 play,3,1,linda001,21,.C*B*BX,HR/78/F.2-H;1-H
 play,3,1,encae001,21,BSBX,5/P5F
 play,3,1,snidt001,32,BSSBBS,K
@@ -7643,7 +7597,6 @@ play,6,0,reynm001,01,SX,D8/F
 play,6,0,reimn001,01,CX,43/G
 play,6,1,snidt001,00,,NP
 sub,berkj001,"Jason Berken",0,0,1
-com,"Orioles pitcher Jake Arrieta left the game due to an injured foot"
 play,6,1,snidt001,00,.X,S9/G
 play,6,1,hilla001,21,BCBX,6/P
 play,6,1,pattc001,00,X,S7/L.1-2
@@ -8066,7 +8019,6 @@ play,5,1,hilla001,00,,NP
 sub,chave002,"Endy Chavez",0,5,8
 play,5,1,hilla001,00,,NP
 sub,murpd005,"David Murphy",0,9,9
-com,"Rangers right fielder Nelson Cruz left the game due to an injured leg"
 play,5,1,hilla001,12,...BFCX,S4/G
 play,5,1,snidt001,11,BFX,S7/L.1-2
 play,5,1,arenj001,01,CX,HR/7/F.2-H;1-H
@@ -8207,9 +8159,6 @@ play,6,0,napom001,32,BBSSFBX,7/F
 play,6,0,morem001,32,BBBCFS,K
 play,6,0,torry001,22,BSSBX,63/G
 play,6,1,escoy001,11,CBX,43/G4M
-com,"ej,escoy001,P,hudsm901,Call at 1B"
-com,"$Blue Jays shortstop Yunel Escobar argued the close call and was ejected by 1B umpire Marvin Hudson;"
-com,"the Blue Jays thought Michael Young's foot was off the bag when he caught the throw"
 play,6,1,rasmc001,21,.BFBX,7/F
 play,6,1,bautj002,00,X,S7/L
 play,6,1,linda001,02,C1C+1X,13/G
@@ -9770,8 +9719,6 @@ start,johnk003,"Kelly Johnson",1,7,4
 start,molij001,"Jose Molina",1,8,2
 start,mccom001,"Mike McCoy",1,9,8
 start,alvah001,"Henderson Alvarez",1,0,1
-com,"$bench coach Don Wakamatsu managed the Blue Jays because manager John Farrell missed the"
-com,"game due to a sore back and pneumonia"
 play,1,0,jennd002,10,BX,53/G
 play,1,0,damoj001,02,CFFX,63/G
 play,1,0,longe001,11,BSX,3/P3F
@@ -9818,12 +9765,6 @@ play,6,0,kotcc001,32,BCBBCB,W
 play,6,0,uptob001,00,X,5/P5F
 play,6,0,joycm001,10,BX,13/G
 play,6,1,bautj002,32,CCBBFBS,K
-com,"ej,bautj002,P,welkb901,Balls and strikes"
-com,"$Blue Jays RF Jose Bautista went back to the dugout after his third strikeout"
-com,"of the game angry with HP umpire Bill Welke's strike zone; Bautista swung his bat at the"
-com,"wall, making a dent and a loud sound that could be heard in the press box; Bautista then"
-com,"yelled at Welke, who ejected Bautista; Bautista threw his bat, helmet, elbow pad and a"
-com,"water bottle onto the field before leaving the dugout"
 play,6,1,linda001,11,BS.X,9/F
 play,6,1,encae001,11,CBX,63/G
 play,7,0,jasoj001,00,,NP
@@ -9940,14 +9881,12 @@ play,4,0,longe001,30,BBBB,W
 play,4,0,zobrb001,22,FFBFBX,D8/L+.1-3
 play,4,0,uptob001,12,FBCFS,K
 play,4,0,rodrs002,30,BBBX,DGR/7.3-H;2-H
-com,"fan interference"
 play,4,0,shopk001,11,BS>C,CS3(25)
 play,4,0,shopk001,12,BS>C.C,K
 play,4,1,encae001,32,CBBFFBB,W
 play,4,1,johnk003,11,CBX,3/G.1-2
 play,4,1,lawrb002,32,CFBF*B*BC,K
 play,4,1,arenj001,12,S*BFX,DGR/7/L.2-H
-com,"fan interference"
 play,4,1,wised001,12,BFCS,K
 play,5,0,johne002,20,BBX,53/G
 play,5,0,brigr001,02,CFX,S9/L
@@ -9960,9 +9899,6 @@ play,5,1,thame001,22,BBCFX,8/F
 play,5,1,bautj002,11,SBX,2/P2F
 play,6,0,uptob001,00,,NP
 sub,camps002,"Shawn Camp",1,0,1
-com,"$B.J. Upton hit the third pitch down the LF line; it was hard to tell if it was fair or foul because"
-com,"of the light color of the pole; it was ruled foul; crew chief Tim Tschida watched the replay and"
-com,"upheld the call"
 play,6,0,uptob001,12,.TBFH,HP
 play,6,0,rodrs002,00,X,S7/G+.1-2
 play,6,0,shopk001,00,X,15(2)4/BGDP.1-3(TH1)
@@ -9984,7 +9920,6 @@ sub,jansc001,"Casey Janssen",1,0,1
 play,7,0,rodrs002,11,.CBX,S7/G
 play,7,0,shopk001,11,1SB11,PO1(E1).1-2
 play,7,0,shopk001,11,1SB11,OA.2X3(95)
-com,"Previous two plays actually one, but separated for now"
 play,7,1,lawrb002,00,,NP
 sub,rodrs002,"Sean Rodriguez",0,6,4
 play,7,1,lawrb002,00,,NP
@@ -10436,7 +10371,6 @@ play,4,1,johnk003,01,FX,7/F
 play,4,1,lawrb002,12,F*BC1>B,SB2
 play,4,1,lawrb002,22,F*BC1>B.,NP
 sub,aceva001,"Alfredo Aceves",0,0,1
-com,"Red Sox pitcher Josh Beckett left the game due to a sprained right ankle"
 play,4,1,lawrb002,22,F*BC1>B..>B,SB3
 play,4,1,lawrb002,32,F*BC1>B..>B.*B,W
 play,4,1,molij001,00,X,9/F
@@ -10779,7 +10713,6 @@ play,3,0,ortid001,32,CCBBBX,9/F
 play,3,1,thame001,01,CH,HP
 play,3,1,bautj002,00,B,WP.1-2
 play,3,1,bautj002,20,B.BX,DGR/7/L.2-H
-com,"fan interference"
 play,3,1,encae001,11,FBX,3/P-
 play,3,1,johnk003,22,*BCBFS,K
 play,3,1,lawrb002,31,BBCB>B,W+SB3
@@ -11235,7 +11168,6 @@ play,2,1,wised001,20,BBX,4/P
 play,2,1,escoy001,10,*BH,HP
 play,2,1,thame001,00,,NP
 sub,mccom001,"Mike McCoy",1,1,12
-com,"Blue Jays shortstop Yunel Escobar left the game due to an injured elbow"
 play,2,1,thame001,11,.BS>B,CSH(252).1-2
 play,3,0,andir001,00,,NP
 sub,mccom001,"Mike McCoy",1,1,6

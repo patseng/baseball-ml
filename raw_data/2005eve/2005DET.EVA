@@ -65,7 +65,6 @@ play,2,1,monrc001,01,SX,9/F
 play,2,1,ingeb001,11,C1BX,HR/7/F.1-H
 play,2,1,infao001,00,X,8/F
 play,3,0,teahm001,02,CCFX,8/F
-com,"Debut game for Mark Teahen"
 play,3,0,dejed001,01,SX,7/F
 play,3,0,gotar001,02,FTC,K
 badj,guilc001,R
@@ -82,7 +81,6 @@ play,4,0,longt002,01,SX,43/G
 play,4,1,penac001,00,,NP
 sub,sisca001,"Andy Sisco",0,0,1
 play,4,1,penac001,01,.FX,7/F
-com,"Debut game for Andy Sisco"
 play,4,1,monrc001,30,BBBB,W
 play,4,1,ingeb001,22,BC1B1CS,K
 play,4,1,infao001,10,BX,3/P3F
@@ -251,7 +249,6 @@ play,4,1,whitr001,12,CBFX,S9/L
 play,4,1,penac001,01,SX,36(1)1/GDP
 play,5,0,browe001,00,,NP
 sub,higgb001,"Bobby Higginson",1,4,9
-com,"Tigers right fielder Magglio Ordonez left the game due to an injured head"
 play,5,0,browe001,20,.BBX,S9/L
 play,5,0,berra001,01,C.X,46(1)3/GDP
 play,5,0,staim001,22,BBCCS,K
@@ -378,7 +375,6 @@ play,3,1,infao001,11,BCX,2/P2F
 play,3,1,guilc001,22,CBBSFX,S5/G
 play,3,1,rodri001,00,,NP
 sub,fieln001,"Nate Field",0,0,1
-com,"Royals pitcher Zack Greinke left the game due to an injured arm"
 play,3,1,rodri001,30,.B1BBX,S7/L.1-2
 play,3,1,yound001,02,SSX,4/P/IF
 play,3,1,whitr001,12,CSFBX,3/P3F
@@ -553,7 +549,6 @@ play,5,0,peraj001,21,CBBX,8/SF.3-H(UR)
 play,5,0,crisc001,20,B1PX,S6/G.1-2
 play,5,0,bellr002,00,,NP
 sub,smitj001,"Jason Smith",1,9,6
-com,"Tigers Ramon Martinez left the game due to an injured hand/wrist"
 play,5,0,bellr002,01,.FX,S6/G.2XH(62);1-2
 play,5,0,hafnt001,11,SBX,43/G
 play,5,1,ingeb001,11,CBX,S9/L
@@ -1695,7 +1690,6 @@ start,infao001,"Omar Infante",1,8,4
 start,logan001,"Nook Logan",1,9,8
 start,marom001,"Mike Maroth",1,0,1
 play,1,0,damoj001,10,BX,DGR/9/L
-com,"fan interference"
 play,1,0,rente001,01,LX,S7/L.2-3
 play,1,0,ramim002,00,X,6/P
 play,1,0,varij001,01,CX,S7/L.3-H;1-3
@@ -1898,7 +1892,6 @@ play,7,0,millk005,00,,NP
 sub,farnk001,"Kyle Farnsworth",1,0,1
 play,7,0,millk005,00,,NP
 sub,logan001,"Nook Logan",1,5,8
-com,"Tigers center fielder Craig Monroe left the game due to an injured groin"
 play,7,0,millk005,01,..FX,7/F
 play,7,1,infao001,32,BCBCBS,K
 play,7,1,martr003,22,CFBFFBX,53/G
@@ -2279,7 +2272,6 @@ play,2,1,wilsv001,10,BX,4/P3F
 play,3,0,mcphd001,00,X,S3/G
 play,3,0,molij001,00,H,HP.1-2
 play,3,0,priec001,10,BX,14/SH/BG.2-3;1-2
-com,"Debut game for Chris Prieto"
 play,3,0,figgc001,00,X,9!/F
 play,3,0,erstd001,22,CFFBBX,13/G
 play,3,1,infao001,01,CX,9/F
@@ -2432,7 +2424,6 @@ play,3,0,kenna001,01,CX,S9/F-
 play,3,0,figgc001,20,B1B>X,E1/TH/G.B-1;1-2
 play,3,0,erstd001,00,,NP
 sub,wilsv001,"Vance Wilson",1,2,2
-com,"Tigers Ivan Rodriguez left the game due to an injured foot/ankle"
 play,3,0,erstd001,12,.BFFX,4!6(1)/FO/G.2-3
 play,3,0,guerv001,10,BX,S9/L.3-H;1-3
 play,3,0,andeg001,32,1FBCBBFX,FC3/G.3-H(UR);1-3(TH);B-1
@@ -2484,7 +2475,6 @@ sub,quinr002,"Robb Quinlan",0,7,3
 play,7,1,yound001,00,..X,S6/G
 play,7,1,monrc001,00,,NP
 sub,thamm001,"Marcus Thames",1,5,12
-com,"Tigers Dmitri Young left the game due to an injured foot/ankle"
 play,7,1,monrc001,32,.FBBSBX,D8/L.1-H
 play,7,1,penac001,00,X,43/G.2-3
 play,7,1,infao001,22,*BBFCC,K
@@ -2660,7 +2650,6 @@ play,10,0,hallt001,00,,NP
 sub,martr003,"Ramon Martinez",1,4,6
 play,10,0,hallt001,00,,NP
 sub,urbiu001,"Ugueth Urbina",1,0,1
-com,"Tigers shortstop Carlos Guillen left the game due to an injured knee"
 play,10,0,hallt001,12,..SSBS,K
 play,10,0,gonza001,22,SBCBFFS,K
 play,10,0,crawc002,32,BBCBFFFB,W
@@ -2920,8 +2909,6 @@ play,4,0,crawc002,02,CFX,7/F
 play,4,1,rodri001,32,BBCBFX,9/F
 play,4,1,whitr001,11,BCX,13/G
 play,4,1,yound001,11,SBX,D9/L
-com,"ej,penac001,P,cedeg901,Arguing from bench"
-com,"Tigers Carlos Pena ejected by HP umpire Gary Cederstrom from bench"
 play,4,1,monrc001,12,CCFF.BX,8/F
 play,5,0,lugoj001,00,X,S3/BG
 play,5,0,peree001,11,B1C1X,S8/G.1-3
@@ -3657,7 +3644,6 @@ play,3,0,barar001,00,X,5/L
 play,3,0,delld001,22,CCBBX,8/F
 play,3,1,shelc001,12,CSBX,S9/L
 play,3,1,giart001,22,BFBFX,8/F
-com,"Debut game for Tony Giarratano"
 play,3,1,logan001,01,L>X,S4/G.1-2
 play,3,1,ingeb001,10,BX,64(1)3/GDP
 play,4,0,younm003,00,X,S8/F
@@ -4134,7 +4120,6 @@ play,5,1,giart001,11,1B111F>B,SB2
 play,5,1,giart001,32,1B111F>B.*BFS,K
 play,6,0,gil-g001,00,,NP
 sub,fasas001,"Sal Fasano",0,9,11
-com,"Geronimo Gil left the game due to an injured hand/wrist"
 play,6,0,fasas001,01,.CH,HP
 play,6,0,nivar001,00,X,13/SH/BG.1-2
 play,6,0,moram002,32,BCBFBB,W
@@ -4439,7 +4424,6 @@ play,6,1,yound001,12,CBFS,K
 play,6,1,whitr001,32,CBBFB1>B,W.1-2
 play,6,1,rodri001,12,FBFS,K
 play,6,1,monrc001,00,X,E7/F.2-H(UR);1-H(UR);B-2
-com,"Klesko came in and lost the ball which fell behind him"
 play,6,1,shelc001,02,SSS,K
 play,7,0,greek002,00,X,4/L
 play,7,0,robed001,00,,NP
@@ -6598,7 +6582,6 @@ play,1,0,berra001,00,1X,64(1)3/GDP
 play,1,1,ingeb001,12,CBFH,HP
 play,1,1,guilc001,11,BFX,16(1)3/GDP
 play,1,1,shelc001,11,BCH,HP
-com,"$both teams warned"
 play,1,1,ordom001,02,CFC,K
 play,2,0,buckj001,11,BFX,9/F
 play,2,0,teahm001,02,CFX,HR/7/F
@@ -6636,23 +6619,7 @@ play,6,0,longt002,11,1FB+1X,S7/L.1-2
 play,6,0,berra001,00,X,54(1)3/GDP.2-3
 play,6,0,buckj001,32,CCB*BFBB,W
 play,6,0,teahm001,12,CBFS,K
-com,"$Guillen thought the first pitch hit him and complained to"
-com,"HP umpire Foster; Mgr Trammell also came out to talk to Foster"
 play,6,1,guilc001,10,BH,HP
-com,"ej,guilc001,P,fostm901,Brawl after HBP"
-com,"ej,bondj001,P,fostm901,Brawl after HBP"
-com,"ej,farnk001,P,fostm901,Brawl after HBP"
-com,"ej,hernr003,P,fostm901,Intentional HBP"
-com,"ej,browe001,P,fostm901,Brawl after HBP"
-com,"ej,casta001,P,fostm901,Brawl after HBP"
-com,"ej,bellb001,M,fostm901,Intentional HBP after warning"
-com,"$the second pitch hit Guillen's helmet; Guillen yelled at"
-com,"Hernandez and the two charged each other; both benches and"
-com,"bullpens cleared; no punches were thrown and it appeared to"
-com,"be over when Farnsworth charged Affeldt and threw him to the"
-com,"ground; KC ejections: Runelvys Hernandez, Emil Brown, Alberto"
-com,"Castillo, Mgr Buddy Bell; Detroit ejections: Carlos Guillen,"
-com,"Jeremy Bonderman, Kyle Farnsworth"
 play,6,1,shelc001,00,,NP
 sub,costs001,"Shane Costa",0,4,7
 play,6,1,shelc001,00,,NP
@@ -6799,8 +6766,6 @@ play,4,0,puntn001,12,BCFX,8/F
 play,4,0,stews002,00,X,2/P2F
 play,4,1,monrc001,00,X,HR/7/F
 play,4,1,infao001,32,BBBCCX,53/G
-com,"ej,radkb001,P,iassd901,Arguing from bench (not in game)"
-com,"Twins pitcher Brad Radke ejected from bench by HP umpire Dan Iassogna"
 play,4,1,logan001,11,.CBX,S9/L
 play,4,1,ingeb001,12,BFCF1S,K
 play,4,1,guilc001,12,1FFFB1X,64(1)/FO/G
@@ -7518,9 +7483,7 @@ play,2,0,reedj004,12,CFBFX,43/G
 play,2,0,hansd001,00,X,7/F
 play,2,1,whitr001,00,,NP
 sub,harrj001,"Jeff Harris",0,0,1
-com,"Mariners pitcher Jorge Campillo left the game due to an injured elbow"
 play,2,1,whitr001,32,.BCBFBX,63/G
-com,"Debut game for Jeff Harris"
 play,2,1,rodri001,20,BBX,7/F
 play,2,1,yound001,12,CBFX,9/F
 play,3,0,gonzw001,11,CBX,7/F
@@ -7805,7 +7768,6 @@ start,ingeb001,"Brandon Inge",1,8,5
 start,logan001,"Nook Logan",1,9,8
 start,dougs001,"Sean Douglass",1,0,1
 play,1,0,suzui001,10,BX,5/P5F
-com,"Debut game for Felix Hernandez"
 play,1,0,bloow001,11,CBX,13/L
 play,1,0,ibanr001,22,BBCCS,K
 play,1,1,polap001,11,CBX,S8/G
@@ -8903,7 +8865,6 @@ sub,spurc001,"Chris Spurling",1,0,1
 play,7,0,wellv001,00,.X,54(1)/FO/G
 play,7,1,penac001,00,,NP
 sub,menef001,"Frank Menechino",0,9,4
-com,"Blue Jays second baseman Orlando Hudson left the game due to an injured leg"
 play,7,1,penac001,00,.X,13/G
 play,7,1,ingeb001,21,BSBX,53/G
 play,7,1,mcdoj003,12,CBFFX,43/G
@@ -9364,7 +9325,6 @@ play,4,1,rodri001,02,FSS,K
 play,4,1,ordom001,00,X,43/G
 play,4,1,penac001,00,X,HR/9/F
 play,4,1,monrc001,00,X,DGR/7
-com,"fan interference"
 play,4,1,ingeb001,12,CBCT,K
 play,5,0,johnd004,22,BCCBX,E5/G
 play,5,0,kielb001,00,B,WP.1-2
@@ -9386,7 +9346,6 @@ play,6,1,ingeb001,00,X,S8/G
 play,6,1,infao001,12,1BC1F1X,S8/L.1-2
 play,6,1,granc001,12,CFBFX,7/F
 play,7,0,crosb002,32,CBFBBX,DGR/9
-com,"fan interference"
 play,7,0,paytj001,01,FX,9/F.2-3
 play,7,0,johnd004,02,SSX,8/SF.3-H
 play,7,0,kielb001,22,FBBCX,63/G
@@ -10275,8 +10234,6 @@ play,6,0,hubej001,10,BX,4/P
 play,6,0,blana001,00,X,64(1)/FO/G
 play,6,1,polap001,01,CX,7/F
 play,6,1,shelc001,01,CX,9/F
-com,"ej,greiz001,P,everm901,Balls and strikes"
-com,"Royals pitcher Zack Greinke ejected by HP umpire Mike Everitt"
 play,6,1,rodri001,00,,NP
 sub,snydk001,"Kyle Snyder",0,0,1
 play,6,1,rodri001,10,B..X,S7/G
@@ -10331,7 +10288,6 @@ play,9,0,murpd004,12,CFBS,K
 play,9,1,penac001,00,,NP
 sub,demac001,"Chris Demaria",0,0,1
 play,9,1,penac001,01,.SX,HR/9/F
-com,"Debut game for Chris Demaria"
 play,9,1,monrc001,11,BFX,63/G
 play,9,1,ingeb001,22,SFBBFFS,K
 play,9,1,infao001,12,CFFBX,53/G
@@ -10913,7 +10869,6 @@ play,3,0,cuddm001,22,BSCBFFX,S8/G
 play,3,0,redmm001,12,CFFFBFFFX,S9/L.1-3
 play,3,0,rival001,00,,NP
 sub,heinc001,"Chris Heintz",0,7,12
-com,"Twins catcher Mike Redmond left the game due to an injured foot/ankle"
 play,3,0,rival001,10,.BX,HR/7/L.3-H;1-H
 play,3,0,bartj001,01,CX,53/G
 play,3,1,polap001,00,,NP

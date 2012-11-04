@@ -856,7 +856,6 @@ play,2,0,gutir001,01,CX,53/G
 play,2,0,mattg002,12,CBFX,3/G
 play,2,1,stevl001,10,BX,S8/8S
 play,2,1,blumg001,31,BBBCX,S.1X2(4)
-com,Batted ball hits Stevens.
 play,2,1,cabro001,22,CBFBFS,K
 play,2,1,barrm003,11,CBX,64(1)/FO
 play,3,0,giraj001,22,CBSBX,D/89
@@ -1814,7 +1813,6 @@ play,4,1,vidrj001,10,BX,53/G
 play,4,1,tatif001,00,X,8/P
 play,5,0,finls001,12,CBFX,S9
 play,5,0,milld002,00,X,E1/TH2.1-2;B-1
-com,"originally 1X2(1E6)"
 play,5,0,johnr005,01,CX,54/SH.2-3;1-2
 play,5,0,womat001,22,FBFBX,FC3.3XH(32);2-3;B-2
 play,5,0,bellj001,00,X,63/G
@@ -1945,7 +1943,6 @@ play,3,0,ausmb001,00,X,7/F7
 play,3,0,millw001,00,X,D7
 play,3,0,lugoj001,11,BSX,53/G
 play,3,0,biggc001,01,FX,S4.2-3
-com,"$career hit 2000 for Biggio"
 play,3,0,bagwj001,20,BBX,4/P4
 play,3,1,bradm001,00,X,63/G
 play,3,1,barrm003,22,CCBBFX,53/G
@@ -1962,9 +1959,6 @@ play,4,1,stevl001,12,SFBC,K/C
 play,5,0,lugoj001,32,CBSBFBB,W
 play,5,0,biggc001,12,BCCX,S8.1-2
 play,5,0,bagwj001,00,X,HR/7.2-H;1-H
-com,"ej,alouf101,M,roe-r901,Fair/foul call on HR"
-com,"Expos Manager Felipe Alou ejected by 1B umpire Rocky Roe"
-com,"arguing homer was foul"
 play,5,0,berkl001,20,BBX,43/G
 play,5,0,aloum001,22,FBBSFFS,K
 play,5,0,wardd002,20,BBX,HR/9
@@ -2085,7 +2079,6 @@ play,1,0,biggc001,00,X,9/FL
 play,1,0,bagwj001,22,BCSBX,53/G
 play,1,1,pridc001,20,BBX,S7
 play,1,1,cabro001,00,X,D9.1-H(NR);BX2(96)
-com,"Apparently Cabrera rounded bag too far"
 play,1,1,stevl001,12,SBFC,K/C
 play,1,1,guerv001,00,X,8/F8
 play,2,0,berkl001,02,FFS,K
@@ -2345,7 +2338,6 @@ play,9,0,barkg001,22,CFBBS,K
 play,9,1,cabro001,00,,NP
 sub,oswar001,"Roy Oswalt",0,5,1
 play,9,1,cabro001,22,CFBFBFX,8/F8
-com,"Debut game for Roy Oswalt"
 play,9,1,guerv001,12,BSFS,K
 play,9,1,vidrj001,00,X,S9
 play,9,1,blumg001,31,CBBBX,D8/8D.1-H
@@ -2749,8 +2741,6 @@ play,8,0,bocah001,00,X,D/78
 play,8,0,shefg001,00,,NP
 sub,stris001,"Scott Strickland",1,9,1
 play,8,0,shefg001,22,BCSBC,K/C
-com,"ej,shefg001,P,wendh902,Balls and strikes"
-com,"Gary Sheffield ejected by HP umpire Hunter Wendelstedt"
 play,8,0,grees001,00,,NP
 sub,urbiu001,"Ugueth Urbina",1,9,1
 play,8,0,grees001,22,SSBBX,S7.2-H
@@ -3170,7 +3160,6 @@ play,4,0,davib003,12,BFFX,7/F7
 play,4,1,cabro001,00,X,63/G
 play,4,1,pridc001,32,CBBBFFB,W
 play,4,1,bradm001,12,BFFB,SB2.1-3(E6)
-com,"$obstruction on Mendez for tripping Pride after SB2"
 play,4,1,bradm001,32,BFFBFBFX,5(B)5(3)/LDP
 play,5,0,tramb001,22,SFBBX,S7
 play,5,0,gomec001,01,SX,16(1)3/GDP
@@ -3303,7 +3292,6 @@ play,3,0,alfoe001,00,X,64(1)3/GDP
 play,3,1,barrm003,12,CBFX,D/78
 play,3,1,reamb001,12,BFFX,34/SH.2-3
 play,3,1,cabro001,00,M,CSH(25)
-com,"busted squeeze"
 play,3,1,cabro001,32,MBBFBX,8/F8
 play,4,0,piazm001,10,BX,3/FL
 play,4,0,ventr001,12,BCCX,HR/9
@@ -3350,8 +3338,6 @@ sub,cookd001,"Dennis Cook",0,9,1
 play,7,1,traca001,01,CX,43/G.2-3
 play,7,1,cabro001,31,BBBCB,W
 play,7,1,mordm001,02,FCX,13/G
-com,"$Cook reached behind back, ball knocked his glove off,"
-com,"but ball was in it and he pulled it out to make play"
 play,8,0,ventr001,00,,NP
 sub,petec001,"Chris Peters",1,9,1
 play,8,0,ventr001,21,BCBX,63/G
@@ -3608,7 +3594,6 @@ play,2,1,barrm003,11,CBX,S7/7S
 play,2,1,minor001,01,CX,D9/9D.1-H;B-3(THH)
 play,2,1,thurm002,01,F,NP
 sub,delat001,"Tomas De La Rosa",1,9,11
-com,"$Thurman hit on hand by pitch he swung at"
 play,2,1,delat001,10,BX,63/G
 play,3,0,bragd001,00,,NP
 sub,yoshm001,"Masato Yoshii",1,9,1
@@ -3644,7 +3629,6 @@ play,6,0,shint001,01,SB,WP.1-2
 play,6,0,shint001,11,SBX,HR/89.2-H
 play,6,0,zeilt001,30,BBBX,13/G
 play,6,0,pratt001,31,BBBCX,S4/G
-com,"originally scored E4, changed next day"
 play,6,0,ordor001,00,,NP
 sub,scanb001,"Bob Scanlan",1,9,1
 play,6,0,ordor001,11,CBX,1/L1
@@ -3749,9 +3733,7 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,barrm003,"Michael Barrett",1,7,2
 start,blumg001,"Geoff Blum",1,8,4
 start,irabh001,"Hideki Irabu",1,9,1
-com,"$Montreal Mgr Felipe Alou fired and replaced by Jeff Torborg"
 play,1,0,gland001,10,BX,HR/7
-com,"$off the LF pole"
 play,1,0,rollj001,02,FFX,9/F9
 play,1,0,abreb001,32,BBBCFX,S8/8S
 play,1,0,roles001,11,BFC,SB2
@@ -3804,7 +3786,6 @@ play,6,0,andem003,10,BX,3/FL
 play,6,0,telea001,02,CSS,K
 play,6,0,gland001,22,CFBBC,K/C
 play,6,1,guerv001,00,H,HP
-com,"hit on helmet"
 play,6,1,stevl001,10,BX,64(1)3/GDP
 play,6,1,tatif001,02,CSS,K
 play,7,0,rollj001,11,BSX,3/G
@@ -3848,7 +3829,6 @@ play,9,0,lee-t002,31,BBBCB,W.1-2
 play,9,0,burrp001,12,BSSFS,K
 play,9,0,benng001,12,SSBS,K
 play,9,0,andem003,21,BCBX,E3/G3.3-H(NR)(UR);2-H(NR)(UR);1-H(NR)(UR);B-2
-com,"$right between Stevens' legs, rolled to corner"
 play,9,0,cormr001,00,,NP
 sub,duceb001,"Rob Ducey",0,9,11
 play,9,0,duceb001,02,CCX,53/G
@@ -4572,8 +4552,6 @@ play,2,0,surhb001,02,CFX,63/G
 play,2,1,stevl001,31,BBBCB,W
 play,2,1,cabro001,12,BCFFFX,64(1)/FO
 play,2,1,blumg001,02,CFN,BK.1-2
-com,"ej,cox-b103,M,iassd901,Balk call"
-com,"Braves Manager Bobby Cox ejected by 2B umpire Dan Iassogna"
 play,2,1,blumg001,02,CFC,K/C
 play,2,1,traca001,00,X,13/G
 play,3,0,lopej001,01,FX,D/89D
@@ -4955,7 +4933,6 @@ play,7,1,mordm001,00,X,5/P5
 play,7,1,duceb001,22,CCBFBS,K
 play,7,1,vidrj001,12,BFSX,63/G
 play,8,0,casta001,32,CBSBBX,D7/G
-com,"originally scored E5"
 play,8,0,bushh001,22,BFFFFBS,K
 play,8,0,simmb001,31,CBBBB,W
 play,8,0,escok001,00,,NP
@@ -5189,7 +5166,6 @@ start,smitm004,"Mark Smith",1,6,7
 start,minor001,"Ryan Minor",1,7,3
 start,bradm001,"Milton Bradley",1,8,8
 start,armat002,"Tony Armas",1,9,1
-com,"Debut for umpire Scott Nelson"
 play,1,0,stews002,12,BCFX,63/G
 play,1,0,gonza001,12,CSBS,K
 play,1,0,mondr002,12,FBSX,S7/7S
@@ -5271,7 +5247,6 @@ play,8,1,smitm004,00,,NP
 sub,plesd001,"Dan Plesac",0,9,1
 play,8,1,smitm004,00,X,S8
 play,8,1,blumg001,01,CX,56(1)4/BG/GDP
-com,"bunt assumed"
 play,8,1,bradm001,22,FSBBX,S8
 play,8,1,stris001,00,,NP
 sub,pridc001,"Curtis Pride",1,9,11
@@ -5750,7 +5725,6 @@ play,6,1,vidrj001,00,X,S7/7S.2-3;1-2
 play,6,1,guerv001,02,FFX,53/G.3-H;2-3;1-2
 play,6,1,cabro001,22,BSBFB,WP.3-H;2-3
 play,6,1,cabro001,32,BSBFBX,63/G
-com,"25 minute power outage delay sometime in 7th"
 play,7,0,nunea001,00,,NP
 sub,stris001,"Scott Strickland",1,9,1
 play,7,0,nunea001,00,X,53/G
@@ -6332,7 +6306,6 @@ play,2,0,sturt001,12,BCSS,K
 play,2,1,cabro001,02,CCC,K/C
 play,2,1,barrm003,10,BX,43/G
 play,2,1,wilkb002,21,CBBX,6/P6
-com,"Debut game for Brad Wilkerson"
 play,3,0,tynej001,00,X,8/F8
 play,3,0,aberb001,30,BBBB,W
 play,3,0,vaugg001,11,SBB,CS2(24)
@@ -6937,8 +6910,6 @@ start,blumg001,"Geoff Blum",1,6,5
 start,barrm003,"Michael Barrett",1,7,2
 start,wilkb002,"Brad Wilkerson",1,8,7
 start,munob001,"Bobby Munoz",1,9,1
-com,"ej,guilo001,C,gibsg901,Balls and strikes"
-com,"Expos coach Ozzie Guillen ejected sometime in game by HP umpire Greg Gibson"
 play,1,0,offej001,10,BX,S9
 play,1,0,hatts001,02,CCFX,S9.1-2
 play,1,0,nixot001,01,CX,8/F8.2-3
@@ -7120,8 +7091,6 @@ start,blumg001,"Geoff Blum",1,6,5
 start,barrm003,"Michael Barrett",1,7,2
 start,wilkb002,"Brad Wilkerson",1,8,7
 start,mattt001,"Troy Mattes",1,9,1
-com,"ej,guilo001,C,danlk901,Continued yesterday's argument at pregame meeting"
-com,"Expos Coach Ozzie Guillen ejected by HP umpire Kerwin Danley before game"
 play,1,0,stync001,12,CBSS,K
 play,1,0,hatts001,11,CBX,43/G
 play,1,0,nixot001,22,CBSBX,D/78
@@ -7218,8 +7187,6 @@ play,7,1,duceb001,01,FX,S8/8S.1-2
 play,7,1,bergp001,01,FX,6(1)/FO.2-3
 play,7,1,vidrj001,10,BX,S8.3-H;1-3
 play,7,1,guerv001,20,BBX,64(1)/FO
-com,"ej,willj107,M,drakr901,Unknown reason"
-com,"Red Sox Manager Jimy Williams ejected by 1B umpire Rob Drake in 8th"
 play,8,0,hills002,00,,NP
 sub,lloyg001,"Graeme Lloyd",1,9,1
 play,8,0,hills002,12,CBSX,S7/7S
@@ -7334,8 +7301,6 @@ play,4,1,guerv001,12,CBFX,HR/7
 play,4,1,smitm004,22,BBFCX,63/G
 play,4,1,stevl001,22,FBBFS,K
 play,4,1,cabro001,22,BCBCX,63/G
-com,"ej,vukoj101,C,herna901,Call at 1B"
-com,"Phillies Coach John Vukovich ejected by 1B umpire Angel Hernandez in 5th"
 play,5,0,benng001,22,CCBFBS,K
 play,5,0,daalo001,12,BSFS,K
 play,5,0,gland001,00,X,63/G
@@ -7937,7 +7902,6 @@ play,2,0,camik001,30,BBBB,W
 play,2,0,jonea002,01,CX,9/F9
 play,2,0,lopej001,10,BX,1/L1
 play,2,1,mateh001,10,BX,63/G
-com,"Debut game for Henry Mateo"
 play,2,1,vazqj001,12,CBCS,K
 play,2,1,cabro001,12,CFBX,8/F8S
 play,3,0,derom001,22,CFBBC,K/C
@@ -8081,7 +8045,6 @@ play,1,0,jonec004,30,BBBB,W
 play,1,0,jordb001,32,FSBFFBFBX,63/G
 play,1,1,bergp001,00,,NP
 sub,martd002,"Dave Martinez",0,4,9
-com,"$Jordan hurt knee and ankle on groundout in 1st (mild sprains)"
 play,1,1,bergp001,11,BFX,8/F8
 play,1,1,blumg001,12,CBSS,K
 play,1,1,guerv001,22,CSBBX,63/G
@@ -9206,7 +9169,6 @@ play,7,0,aurir001,00,X,5/L5
 play,7,1,guerv001,00,X,9/L9
 play,7,1,stevl001,32,CBBBSB,W
 play,7,1,cabro001,12,BSFFFX,46(1)/FO
-com,"$Aurilia's wide throw caused DP to be missed"
 play,7,1,smitm004,00,X,S9/9S.1-3
 play,7,1,barrm003,01,FX,54(1)/FO
 play,8,0,bondb001,31,BBBCX,7/F7
@@ -10188,7 +10150,6 @@ start,stevl001,"Lee Stevens",1,6,3
 start,barrm003,"Michael Barrett",1,7,2
 start,bergp001,"Peter Bergeron",1,8,8
 start,armat002,"Tony Armas",1,9,1
-com,"$smallest crowd in Montreal since 1984"
 play,1,0,gilem001,02,SFX,53/G
 play,1,0,franj002,22,BCFFBX,53/G
 play,1,0,jonec004,12,SFBC,K/C
@@ -10228,12 +10189,9 @@ play,5,1,armat002,12,FCFFBFFX,9/F9
 play,5,1,raint001,32,BBSCBB,W
 play,5,1,vidrj001,00,,NP
 sub,bakop001,"Paul Bako",0,7,2
-com,"Lopez hit on foot by foul from Armas, leaves here"
 play,5,1,vidrj001,22,BFBCX,8/F8
 play,5,1,guerv001,00,X,46(1)/FO
 play,6,0,gilem001,21,BBFX,13/G
-com,"hard line drive off right foot of Armas.  Delay"
-com,"while checked and took practice pitches"
 play,6,0,franj002,00,X,4/P4
 play,6,0,jonec004,01,CX,S9
 play,6,0,jordb001,00,X,T7/7D.1-H
@@ -10462,8 +10420,6 @@ sub,aldrc001,"Cory Aldridge",0,4,9
 play,8,1,guerv001,00,,NP
 sub,spoot001,"Tim Spooneybarger",0,9,1
 play,8,1,guerv001,21,BBCX,3/G
-com,"Debut game for Cory Aldridge"
-com,"Debut game for Tim Spooneybarger"
 play,8,1,cabro001,11,BSX,43/G
 play,8,1,blumg001,00,X,S9/9S
 play,8,1,stevl001,31,BBBCB,W.1-2
@@ -10850,7 +10806,6 @@ play,6,0,rollj001,00,X,S5/BG5.2-3;1-2
 play,6,0,huntb002,22,BBCFX,6(1)3/GDP.3-H;2-3
 play,6,0,abreb001,01,CX,S.3-H
 play,6,0,roles001,10,BX,S.1-3;BX2(34)
-com,"$overthrow retrieved"
 play,6,1,jonet004,32,CFBFBBB,W
 play,6,1,vidrj001,00,X,8/F8
 play,6,1,guerv001,10,BX,54(1)3/GDP
@@ -11046,7 +11001,6 @@ play,8,0,estrj001,31,BBBCB,W
 play,8,0,cookd001,00,,NP
 sub,puntn001,"Nick Punto",0,9,11
 play,8,0,puntn001,02,CFX,S9.1-2
-com,"Debut game for Nick Punto"
 play,8,0,rollj001,10,BX,5/P5
 play,8,0,andem003,22,FBBSX,43/G
 play,8,1,jonet004,00,,NP
@@ -11164,7 +11118,6 @@ play,5,1,stevl001,20,BBX,S8/8S
 play,5,1,barrm003,02,FCX,53/G.1-2
 play,5,1,bergp001,10,BX,T8/8D.2-H
 play,5,1,vazqj001,00,H,HP
-com,"$hit flush on front of helmet, broken eye socket"
 play,5,1,raint001,00,,NP
 sub,wilkb002,"Brad Wilkerson",1,9,12
 play,5,1,raint001,10,BX,S7.3-H;1-2
@@ -11438,7 +11391,6 @@ start,stevl001,"Lee Stevens",1,6,3
 start,schnb001,"Brian Schneider",1,7,2
 start,wilkb002,"Brad Wilkerson",1,8,7
 start,pavac001,"Carl Pavano",1,9,1
-com,"$second smallest crowd ever at Olympic Stadium"
 play,1,0,castl001,12,BFCS,K
 play,1,0,lee-d002,22,BBSFX,S7/7S
 play,1,0,floyc001,00,X,S7.1-2
@@ -12011,7 +11963,6 @@ sub,smitm004,"Mark Smith",1,8,11
 play,8,1,smitm004,00,,NP
 sub,powej001,"Jay Powell",0,9,1
 play,8,1,smitm004,31,FBBBX,S8.2-H(NR);BX2(834)
-com,"ruling is run scored as Smith in rundown, no RBI"
 play,8,1,lloyg001,32,BBSCBB,W
 play,8,1,bergp001,00,X,64(1)/FO
 play,9,0,walkl001,00,,NP
@@ -12121,7 +12072,6 @@ play,5,1,barrm003,22,FBFBX,D9.1-3
 play,5,1,thurm002,00,,NP
 sub,minor001,"Ryan Minor",1,9,11
 play,5,1,minor001,11,BCX,7/SF/DP.3-H;2X3(14)
-com,"Barrett out on appeal."
 play,6,0,encam001,00,,NP
 sub,cubid001,"Darwin Cubillan",1,9,1
 play,6,0,encam001,22,BBCCX,8/F8
@@ -12379,7 +12329,6 @@ play,1,0,paytj001,12,BCCX,S9.3-H;2-3;1-2
 play,1,0,ordor001,10,BX,6(1)/FO
 play,1,1,mordm001,21,CBBF,NP
 sub,wilsv001,"Vance Wilson",0,3,2
-com,"$Piazza suffered right thumb contusion on foul tip"
 play,1,1,mordm001,32,CBBFFBX,D/78
 play,1,1,vidrj001,11,FBX,S.2-3
 play,1,1,guerv001,10,BX,E4/G.3-H;1-3;B-2
@@ -12599,9 +12548,6 @@ play,7,0,alfoe001,32,BSCBBFX,3/P3
 play,7,0,ventr001,31,BBSBB,W.1-2
 play,7,0,shint001,31,BBSBX,S7/7S.3-H;2-3;1-2
 play,7,0,zeilt001,02,CFC,K/C
-com,"ej,valeb102,M,wegnm901,Called third strike"
-com,"ej,zeilt001,P,wegnm901,Called third strike"
-com,"Todd Zeile and Mets Manager Bobby Valentine ejected by HP umpire Mark Wegner"
 play,7,0,paytj001,00,X,5(2)/FO.1-2
 play,7,1,mordm001,00,,NP
 sub,tocaj001,"Jorge Toca",0,5,3

@@ -526,9 +526,7 @@ start,credj001,"Joe Crede",1,7,5
 start,rowaa001,"Aaron Rowand",1,8,8
 start,aloms001,"Sandy Alomar",1,9,2
 start,buehm001,"Mark Buehrle",1,0,1
-com,"84 minute delay during game"
 play,1,0,jeted001,01,FX,S3/G
-com,"Debut game for Alex Graman"
 play,1,0,willb002,21,CBBX,S7/L.1-2
 play,1,0,rodra001,00,X,S5/BG.2-H(E5/TH);1-2
 play,1,0,giamj001,00,X,6/P
@@ -570,7 +568,6 @@ play,3,1,rowaa001,20,BBX,D7/L.2-H;1-3
 play,3,1,aloms001,00,,NP
 sub,procs001,"Scott Proctor",0,0,1
 play,3,1,aloms001,12,.CBFS,K
-com,"Debut game for Scott Proctor"
 play,4,0,rodra001,01,CX,S8/G
 play,4,0,giamj001,21,CBBX,46(1)3/GDP
 play,4,0,shefg001,22,CBFBX,S9/L
@@ -1480,7 +1477,6 @@ play,5,0,bellr002,02,CSS,K
 play,5,1,ordom001,00,,NP
 sub,tadak001,"Kazuhito Tadano",0,0,1
 play,5,1,ordom001,11,.BFX,3/P3F
-com,"Debut game for Kazuhito Tadano"
 play,5,1,thomf001,31,BCBBX,S7/L
 play,5,1,lee-c001,00,X,S7/G.1-2
 play,5,1,konep001,00,X,5/P/IF
@@ -2147,7 +2143,6 @@ play,5,0,wellv001,01,CX,S8/L.1-2
 play,5,0,delgc001,12,SS*BFX,7/F
 play,5,1,drank001,00,,NP
 sub,gomec001,"Chris Gomez",0,9,6
-com,"$Woodwrad left with injured leg"
 play,5,1,drank001,22,.BFFBX,63/G
 play,5,1,ordom001,10,BX,9/F9LF
 play,5,1,thomf001,12,BCFX,S7/L
@@ -2410,7 +2405,6 @@ play,1,1,lee-c001,21,F3BBX,52(3)/FO/G.2-3;1-2
 play,1,1,gloar001,10,BX,S7/L.3-H;2-H;1-3
 play,1,1,uribj002,00,,NP
 sub,lopel002,"Luis Lopez",0,3,6
-com,"$Tejada left game with injured leg"
 play,1,1,uribj002,02,.FFX,4/P
 play,1,1,peret004,10,BX,46(1)/FO/G
 play,2,0,palmr001,22,FBCFBX,S8/F
@@ -2559,7 +2553,6 @@ start,peret004,"Timo Perez",1,8,8
 start,aloms001,"Sandy Alomar",1,9,2
 start,garlj001,"Jon Garland",1,0,1
 play,1,0,robeb003,12,CFBX,S8/L
-com,"Debut game for Daniel Cabrera"
 play,1,0,moram002,02,1C1F>B,SB2.1-3(E2/TH)
 play,1,0,moram002,12,1C1F>B.X,S7/G.3-H
 play,1,0,tejam001,22,1BCF1FFB>F1X,54(1)3/GDP
@@ -2695,7 +2688,6 @@ start,rowaa001,"Aaron Rowand",1,8,8
 start,olivm001,"Miguel Olivo",1,9,2
 start,diazf001,"Felix Diaz",1,0,1
 play,1,0,hairj002,02,CCX,7/F
-com,"Debut game for Felix Diaz"
 play,1,0,moram002,10,BX,9/F
 play,1,0,tejam001,10,BX,9/F
 play,1,1,uribj002,32,BBFSFBFS,K
@@ -3193,8 +3185,6 @@ play,5,1,harrw001,31,CBBBB,W.1-2
 play,5,1,uribj002,00,X,64(1)3/GDP.2-3
 play,5,1,ordom001,11,CBX,D8/L.3-H
 play,5,1,thomf001,12,BFCS,K
-com,"ej,thomf001,P,wolfj901,Balls and strikes"
-com,"Frank Thomas ejected by HP umpire Jim Wolf"
 play,6,0,priea002,02,CCFS,K
 play,6,0,offej001,11,BCX,163/G
 play,6,0,ryanm001,01,CX,S9/L
@@ -3376,7 +3366,6 @@ sub,cordf002,"Francisco Cordero",0,0,1
 play,8,1,credj001,12,.FF*BS,K
 play,9,0,soria001,00,,NP
 sub,gloar001,"Ross Gload",1,3,9
-com,"$Ordonez left game with strained left calf"
 play,9,0,soria001,11,.FBX,E5/G
 play,9,0,teixm001,10,1PX,7/F
 play,9,0,perrh001,32,C1B1CBBB,W.1-2
@@ -4379,8 +4368,6 @@ play,4,0,liebm001,31,BBFBB,W.2-3;1-2
 play,4,0,byrdm001,22,BFFBX,S4/G.3-H;2-3;1-2
 play,4,0,rollj001,31,B+3BBCB,W.3-H;2-3;1-2
 play,4,0,polap001,00,X,S7/G.3-H;2-H;1-H(TH)(NR);BX2(754)
-com,"$Polanco rounded too far and was caught. He stayed"
-com,"in rundown long enough for Rollins to score from 1B"
 play,4,1,konep001,01,CX,8/F
 play,4,1,rowaa001,12,BFFX,HR/8/F
 play,4,1,valej003,12,FBSC,K
@@ -4520,7 +4507,6 @@ start,credj001,"Joe Crede",1,8,5
 start,aloms001,"Sandy Alomar",1,9,2
 start,schos001,"Scott Schoeneweis",1,0,1
 play,1,0,furcr001,11,BFX,2/INT/BG
-com,"$Furcal out for batter's interference"
 play,1,0,green001,10,BX,S9/F
 play,1,0,drewj001,12,FBSFS,K
 play,1,0,jonec004,21,11CBBX,3/G
@@ -4719,8 +4705,6 @@ play,5,1,olivm001,12,BCCX,43/G.3-H(UR);2-3
 play,5,1,harrw001,00,X,4/P
 play,6,0,franj002,22,CCBBFX,D9/L
 play,6,0,jonea002,32,FB+2BCBX,43/G.2-3
-com,"ej,guilo001,M,davig901,Balls and strikes"
-com,"White Sox Manager Ozzie Guillen ejected by HP umpire Gerry Davis"
 play,6,0,marre001,22,SBFB.FFC,K
 play,6,0,derom001,01,CX,8/F
 play,6,1,uribj002,00,,NP
@@ -4868,8 +4852,6 @@ play,5,1,peret004,00,1H,HP.1-2
 play,5,1,credj001,32,FBBBFB,W.3-H;2-3;1-2
 play,5,1,burkj003,01,SX,S9/F.3-H;2-H;1-3
 play,5,1,harrw001,32,FBBCBFB,W.1-2
-com,"ej,cox-b103,M,gibsg901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Greg Gibson"
 play,5,1,uribj002,22,BS.FBS,K
 play,5,1,thomf001,12,BFFS,K
 play,6,0,derom001,00,X,S7/G
@@ -5915,9 +5897,7 @@ play,3,0,sosas001,32,CBFFF*BBFX,HR/9/F.1-H
 play,3,0,ramia001,01,CX,S8/G
 play,3,0,hollt001,22,BBCF,NP
 sub,goodt001,"Tom Goodwin",0,6,11
-com,"$Todd Hollandsworth left game with injured knee with 2-2 count"
 play,3,0,goodt001,22,BBCF.S,K
-com,"$strikeout charged to Hollandsworth"
 play,3,0,lee-d002,22,FBBSX,9/F
 play,3,1,lee-c001,00,,NP
 sub,goodt001,"Tom Goodwin",0,6,9
@@ -5956,8 +5936,6 @@ play,6,0,martr003,22,BBCFX,S8/F
 play,6,0,bakop001,12,BFFC,K
 play,6,0,walkt002,32,CBBFB>F>FX,31/G
 play,6,1,thomf001,12,SCBC,K
-com,"ej,thomf001,P,coope901,Called third strike"
-com,"Frank Thomas ejected by HP umpire Eric Cooper"
 play,6,1,lee-c001,21,BBCX,4/P
 play,6,1,valej003,32,FBFBBB,W
 play,6,1,konep001,02,CS1X,7/F
@@ -7173,9 +7151,6 @@ play,2,1,gloar001,01,CX,9/F
 play,2,1,rowaa001,20,BBH,HP
 play,2,1,credj001,00,,NP
 sub,ledew001,"Wil Ledezma",0,0,1
-com,"ej,bondj001,P,kellk901,Intentional HBP"
-com,"ej,trama001,M,kellk901,Intentional HBP"
-com,"Jeremy Bonderman and Manager Alan Trammell ejected by HP umpire Kevin Kelley"
 play,2,1,credj001,21,...1CBB>C,SB2
 play,2,1,credj001,22,...1CBB>C.X,9/F
 play,3,0,munse001,12,CBCFS,K
@@ -7337,7 +7312,6 @@ play,1,0,huntt001,32,CBSBBX,8/F
 play,1,1,harrw001,11,CBX,S4/BG
 play,1,1,valej003,00,,NP
 sub,rival001,"Luis Rivas",0,2,4
-com,"$Punto left game with injured neck"
 play,1,1,valej003,22,.LF*B11BX,3/P3F
 play,1,1,lee-c001,12,>FCB1>B,SB2.1-3(E2/TH)
 play,1,1,lee-c001,22,>FCB1>B.S,K
@@ -7636,10 +7610,6 @@ play,1,1,harrw001,32,BBCBCFFFX,43/G
 play,1,1,peret004,11,CBX,6/P
 play,1,1,lee-c001,01,CX,9/F
 play,2,0,mornj001,22,CFFBBX,DGR/7/F
-com,"$originally called a home run by 3B umpire Ed Montague; White Sox"
-com,"manager Ozzie Guillen and LF Carlos Lee argued that the ball was"
-com,"not a homer; the umpires huddled and changed the ruling to a ball"
-com,"in play; they awarded Morneau, who was in the dugout, a double"
 play,2,0,huntt001,00,X,S8/G.2-H
 play,2,0,jonej003,22,SFBBS,K
 play,2,0,koskc001,00,>S,SB2
@@ -7672,14 +7642,6 @@ play,4,1,konep001,02,FF1F11X,3/P3F
 play,4,1,valej003,10,1P>X,8/F
 play,4,1,uribj002,00,X,6/P
 play,5,0,fordl001,01,FX,6/P5F
-com,"ej,gardr001,M,monte901,Fair/foul call (overturned from homer)"
-com,"$for the second time in the game, a fly ball down the line by"
-com,"Justin Morneau was ruled a homer and then changed; 1B umpire"
-com,"Matt Hollowell signaled a home run on this ball; the umpires"
-com,"huddled and changed it to a foul ball; White Sox manager Ozzie"
-com,"Guillen and RF Timo Perez argued the homer call; Twins Manager"
-com,"Ron Gardenhire ejected by 3B umpire Ed Montague after the call"
-com,"was changed"
 play,5,0,mornj001,00,.X,7/F
 play,5,0,huntt001,21,BSBX,HR/8/F
 play,5,0,jonej003,12,CBFX,63/G
@@ -8269,8 +8231,6 @@ play,1,1,alomr001,11,CBX,13/G
 play,1,1,rowaa001,01,CX,53/G
 play,1,1,lee-c001,00,X,S9/L
 play,1,1,konep001,01,C11>B,CS2(24)
-com,"ej,guilo001,M,wendh902,Call at 2B"
-com,"White Sox Manager Ozzie Guillen ejected by 2B umpire Hunter Wendlestedt"
 play,2,0,broub001,32,BBFBFFFFX,63/G
 play,2,0,bellr002,12,CBSX,S6/P
 play,2,0,sizeg001,22,CSBFBS,K
@@ -9065,7 +9025,6 @@ play,5,1,everc001,11,BCX,3/G
 play,5,1,valej003,12,BFFFS,K
 play,6,0,whitr001,00,,NP
 sub,gloar001,"Ross Gload",1,4,3
-com,"$Konerko left game with injured arm"
 play,6,0,whitr001,12,.CFBFX,7/F
 play,6,0,penac001,02,CCS,K
 play,6,0,munse001,00,X,D9/F
@@ -9525,8 +9484,6 @@ sub,timlm001,"Mike Timlin",0,0,1
 play,6,1,uribj002,00,.B,WP.2-3;1-2
 play,6,1,uribj002,30,.B.BBB,W
 play,6,1,everc001,22,BFBCS,K
-com,"ej,everc001,P,eddid901,Balls and strikes"
-com,"Carl Everett ejected by HP umpire Doug Eddings"
 play,7,0,varij001,32,.CBBBCX,HR/78/L
 play,7,0,millk005,12,SCFBX,53/G
 play,7,0,muelb001,00,,NP
@@ -9728,8 +9685,6 @@ play,9,0,ramim002,22,CBS*BC,K
 play,9,1,harrw001,00,,NP
 sub,foulk001,"Keith Foulke",0,0,1
 play,9,1,harrw001,02,.CLC,K
-com,"ej,harrw001,P,relic901,Balls and strikes"
-com,"Willie Harris ejected by HP umpire Charlie Reliford"
 play,9,1,rowaa001,02,.FFFX,53/G
 play,9,1,lee-c001,32,BFCBFBFS,K
 data,er,lowed001,5
@@ -10296,7 +10251,6 @@ play,6,1,lee-c001,10,..BX,53/G
 play,6,1,konep001,22,BCFBX,8/F
 play,6,1,everc001,00,,NP
 sub,peret004,"Timo Perez",1,5,11
-com,"$Everett left game with injured hand"
 play,6,1,peret004,21,.BCBX,43/G
 play,7,0,scutm001,11,BFX,63/G
 play,7,0,kotsm001,01,SX,43/G
@@ -10623,7 +10577,6 @@ sub,gloar001,"Ross Gload",1,4,3
 play,9,0,lopej003,00,,NP
 sub,bajej001,"Jeff Bajenaru",1,0,1
 play,9,0,lopej003,01,..CX,53/G
-com,"Debut game for Jeff Bajenaru"
 play,9,0,bloow001,02,CSFX,S4/G
 play,9,0,suzui001,10,BX,S9/G.1-3
 play,9,0,winnr001,12,F>FBX,S9/L.3-H;1-3
@@ -11065,8 +11018,6 @@ play,5,1,konep001,32,BBBSF>X,S7/G.2-H;1-3
 play,5,1,gloar001,00,X,D9/F.3-H;1-3
 play,5,1,valej003,31,*BBFBX,6/P
 play,5,1,davib003,31,BCBBB,W
-com,"ej,johnj007,P,tscht901,Balls and strikes"
-com,"Jason Johnson ejected by HP umpire Tim Tschida"
 play,5,1,borcj001,00,,NP
 sub,dingc001,"Craig Dingman",0,0,1
 play,5,1,borcj001,02,..FFH,HP.3-H;2-3;1-2

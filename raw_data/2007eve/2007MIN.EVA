@@ -109,7 +109,6 @@ play,6,1,castl001,00,X,S1/BG.2-3
 play,6,1,puntn001,00,,NP
 sub,parrj003,"John Parrish",0,0,1
 play,6,1,puntn001,11,.MB1X,D6/L.3-H;1-3
-com,"originally scored E6, changed next day to 2B with RBI"
 play,6,1,mauej001,11,C*BX,3/G
 play,6,1,cuddm001,02,SCFFS,K
 play,7,0,bakop001,00,,NP
@@ -395,7 +394,6 @@ play,4,1,cuddm001,12,BCSFFFX,S7/L
 play,4,1,mornj001,10,BX,6(1)3/GDP
 play,5,0,gibbj002,00,,NP
 sub,tynej001,"Jason Tyner",1,4,9
-com,"Twins right fielder Michael Cuddyer left the game due to an injured head"
 play,5,0,gibbj002,01,.CX,43/G
 play,5,0,gomec001,11,CBX,S7/F
 play,5,0,pattc001,00,X,8/F
@@ -821,7 +819,6 @@ play,3,1,rodrl002,11,CBX,S9/F
 play,3,1,casia001,10,1BX,S8/L-.1-2
 play,3,1,castl001,00,,NP
 sub,henns001,"Sean Henn",0,0,1
-com,"Yankees pitcher Mike Mussina left the game due to an injured leg"
 play,3,1,castl001,21,BLB.X,6/P/IF
 play,3,1,puntn001,01,CX,6!/P/DP.2X2(64)
 play,4,0,damoj001,22,BBCFX,S8/L
@@ -1024,10 +1021,6 @@ play,9,0,zobrb001,00,,NP
 sub,nathj001,"Joe Nathan",1,0,1
 play,9,0,zobrb001,11,.CBX,S7/G
 play,9,0,crawc002,11,C1BX,D9/L9L/DP.1X3(942);BX3(26)
-com,"Crawford ran to third even though Zobrist was held there;"
-com,"Castillo took the throw from Cuddyer and threw it to Mauer who"
-com,"chased Zobrist back towards third; Crawford then left the bag"
-com,"and broke back toward second for an unusual double play"
 play,9,0,wiggt001,22,CSBBX,43/G
 play,9,1,mornj001,12,BFFX,HR/78/F
 data,er,fossc001,2
@@ -2019,8 +2012,6 @@ play,2,0,gorda001,30,BBBB,W.1-2
 play,2,0,buckj001,12,SC*BS,K
 play,2,0,penat002,22,BCBSS,K
 play,2,1,huntt001,22,CFFBBH,HP
-com,"$Hunter hit on the face by a fastball; taken to hospital where"
-com,"three stitches were used to close a cut inside his lip"
 play,2,1,redmm001,00,,NP
 sub,tynej001,"Jason Tyner",1,6,12
 play,2,1,redmm001,01,.CX,S9/L.1-2
@@ -2405,7 +2396,6 @@ play,8,1,puntn001,12,CFBX,8/F
 play,8,1,redmm001,10,BX,43/G
 play,9,0,lugoj001,21,BCBX,4/P
 play,9,0,youkk001,11,CBX,S5/G
-com,"originally scored E5, changed next day"
 play,9,0,ortid001,32,BCBF*B>X,8/F
 play,9,0,ramim002,12,BFC>S,K
 data,er,tavaj001,2
@@ -2964,10 +2954,6 @@ play,5,0,sweer001,32,BCFFBBX,S9/L.3-H
 play,5,0,uribj002,02,CFX,S9/L.1-2
 play,5,0,erstd001,00,X,7/F7LF
 play,5,0,ozunp001,02,CFX,S9/G.2-H;1-3;B-2(TH)
-com,"ej,gardr001,M,cousd901,Call at HP"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Derryl Cousins"
-com,"for arguing that Sweeney was safe; the ball beat him to the plate"
-com,"but he appeared to slide under the tag"
 play,5,0,piera001,00,.X,8/F
 play,5,1,mornj001,00,X,8/F
 play,5,1,redmm001,21,BCBX,S5/G
@@ -3286,9 +3272,6 @@ play,8,0,monrc001,22,FBBFX,S6/G
 play,8,0,ingeb001,31,B*BBCX,5/L
 play,8,0,rabem001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,5,3
-com,"$Punto caught the liner and tried to double Monroe"
-com,"off first, but ball hit seam and bounced into first"
-com,"baseman Morneau's face. He left game with broken nose"
 play,8,0,rabem001,00,.X,16(1)3/GDP
 play,8,1,cuddm001,11,CBX,7/F
 play,8,1,rodrl002,00,X,S8/G
@@ -3359,7 +3342,6 @@ start,fordl001,"Lew Ford",1,8,7
 start,puntn001,"Nick Punto",1,9,5
 start,bonsb001,"Boof Bonser",1,0,1
 play,1,0,granc001,32,BBCSBFX,7/F
-com,"Debut game for Virgil Vasquez"
 play,1,0,polap001,01,CX,8/F
 play,1,0,shefg001,32,CBBSB*B,W
 play,1,0,ordom001,10,1BX,HR/7/F.1-H
@@ -3771,7 +3753,6 @@ play,8,1,fordl001,02,CCFX,43/G
 play,9,0,overl001,00,,NP
 sub,millj003,"Jason Miller",1,0,1
 play,9,0,overl001,12,.CSBFC,K
-com,"Debut game for Jason Miller"
 play,9,0,wellv001,00,X,4/P
 play,9,0,mcdoj003,21,CBBX,3/P
 play,9,1,puntn001,11,BCX,S4/G
@@ -4112,7 +4093,6 @@ play,8,0,dye-j001,02,SSX,8/F
 play,8,1,huntt001,00,,NP
 sub,day-d001,"Dewon Day",0,0,1
 play,8,1,huntt001,02,.CFX,S8/L
-com,"Debut game for Dewon Day"
 play,8,1,redmm001,22,B1BCSFX,S4/G.1-2
 play,8,1,kubej002,01,F>C,SB3.2-H(E2/TH);1-2
 play,8,1,kubej002,02,F>C.X,D9/F.2-H
@@ -4681,7 +4661,6 @@ play,3,1,castl001,22,BPCFX,64(1)/FO/G
 play,3,1,mauej001,21,BBFX,6(1)/FO/G
 play,4,0,churr001,00,,NP
 sub,fordl001,"Lew Ford",1,6,7
-com,"Twins left fielder Jason Kubel left the game due to an injured knee"
 play,4,0,churr001,12,.BCSC,K
 play,4,0,batit001,01,CX,S9/F.BX2(96)
 play,4,0,florj002,22,CFBBFX,9/F
@@ -5671,7 +5650,6 @@ play,1,1,mornj001,00,X,7/SF/F.3-H;2-3
 play,1,1,huntt001,32,BSSBFFBH,HP
 play,1,1,redmm001,00,,NP
 sub,fordl001,"Lew Ford",1,5,12
-com,"Twins center fielder Torii Hunter left the game due to a bruised left hand"
 play,1,1,redmm001,22,.1CFFBBFX,S9/G.3-H;1-2
 play,1,1,tynej001,10,BX,9/F
 play,2,0,jenkg001,00,,NP
@@ -5757,7 +5735,6 @@ sub,nathj001,"Joe Nathan",1,0,1
 play,9,0,fielp001,00,,NP
 sub,puntn001,"Nick Punto",1,8,5
 play,9,0,fielp001,11,..CBX,HR8/F/IPHR
-com,"$Lew Ford lost the popup in the Metrodome's white roof"
 play,9,0,hallb001,22,FFBBX,S9/G
 play,9,0,estrj001,01,FX,S9/L.1-2
 play,9,0,jenkg001,00,,NP
@@ -6030,10 +6007,6 @@ play,7,1,cuddm001,31,BBFBB,W
 play,7,1,huntt001,12,FBFX,S7/L.1-2
 play,7,1,kubej002,00,X,D9/L.2-H;1-3
 play,7,1,redmm001,02,CFX,9/FDP.3XH(92)
-com,"ej,gardr001,M,wintm901,Call at HP"
-com,"$Hunter argued that Zaun missed the tag at home;"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Mike Winters"
-com,"while arguing the play"
 play,8,0,zaung001,32,.BFBBCFFFB,W
 play,8,0,hilla001,21,FBPX,S7/L-.1-2
 play,8,0,linda001,00,,NP
@@ -6311,7 +6284,6 @@ play,1,0,clarh001,01,1CX,7/F
 play,1,0,wellv001,31,FBBBB,W.1-2
 play,1,0,staim001,32,SB*BBFX,S8/G.2-H;1-2
 play,1,0,thomf001,12,CCBX,HR/78/F.2-H;1-H
-com,"$home run #500 for Frank Thomas; 21st player to reach the milestone"
 play,1,0,hilla001,21,BBCX,63/G
 play,1,0,linda001,12,BFSX,9/L
 play,1,1,tynej001,12,BFCFX,S6/G
@@ -6387,11 +6359,6 @@ play,8,1,puntn001,31,BBFBX,5/P-
 play,9,0,thomf001,00,,NP
 sub,nathj001,"Joe Nathan",1,0,1
 play,9,0,thomf001,12,.SFBC,K
-com,"ej,thomf001,P,wegnm901,Balls and strikes"
-com,"ej,gibbj001,M,wegnm901,Arguing Thomas ejection"
-com,"Blue Jays Frank Thomas & Mgr John Gibbons ejected by HP umpire Mark Wegner;"
-com,"Thomas became the first player to hit career homer #500 and get ejected in"
-com,"the same game"
 play,9,0,hilla001,12,BC..SX,8/L
 play,9,0,linda001,32,CBBBFC,K
 data,er,burna001,5
@@ -7211,8 +7178,6 @@ play,4,1,mornj001,12,C1BCFFC,K
 play,4,1,huntt001,12,BS1CFX,64(1)/FO/G
 play,4,1,cirij001,00,,NP
 sub,kubej002,"Jason Kubel",1,6,12
-com,"Minnesota Twins center fielder Torii Hunter left the game"
-com,"due to an injured leg."
 play,4,1,cirij001,01,.1FX,E5/TH/G.1-2
 play,4,1,fordl001,00,X,7/F
 play,5,0,thamm001,00,,NP
@@ -7429,9 +7394,6 @@ play,8,0,polap001,22,BBCFFC,K
 play,8,1,mornj001,00,X,D9/L
 play,8,1,redmm001,11,FBX,9/F9LF.2-3
 play,8,1,kubej002,02,CFB,OA.3XH(215)
-com,"$the pitch went to the backstop and bounced back to catcher"
-com,"Rabelo; Morneau jerked his shoulder into a throw during the"
-com,"rundown and 3B umpire Darling called him out for interference"
 play,8,1,kubej002,32,CFB.BBX,S8/G
 play,8,1,joneg002,00,,NP
 sub,huntt001,"Torii Hunter",1,7,11
@@ -8509,7 +8471,6 @@ start,buscb001,"Brian Buscher",1,8,5
 start,casia001,"Alexi Casilla",1,9,4
 start,garzm001,"Matt Garza",1,0,1
 play,1,0,sizeg001,22,CBBTFS,K
-com,"Debut game for Aaron Laffey"
 play,1,0,loftk001,01,CX,6/P
 play,1,0,blakc001,10,BX,S7/L
 play,1,0,martv001,20,BBX,7/F
@@ -10456,7 +10417,6 @@ play,8,1,huntt001,00,X,64(1)/FO/G
 play,9,0,loftk001,00,,NP
 sub,blacn001,"Nick Blackburn",1,0,1
 play,9,0,loftk001,10,.BX,S14/G+
-com,"Debut game for Nick Blackburn"
 play,9,0,cabra002,10,BX,64(1)3/GDP
 play,9,0,hafnt001,01,CX,8!/F
 play,9,1,mornj001,00,,NP
@@ -10632,8 +10592,6 @@ play,10,1,redmm001,32,.BBCFFB>F>F>F>F,NP
 sub,mauej001,"Joe Mauer",1,8,11
 badj,mauej001,R
 play,10,1,mauej001,32,.BBCFFB>F>F>F>F.>T,K
-com,"$Redmond reinjured finger and left with 3-2 count, strikeout"
-com,"completed by Mauer but charged to Redmond"
 play,11,0,gutif001,00,,NP
 sub,mauej001,"Joe Mauer",1,8,2
 play,11,0,gutif001,00,,NP
@@ -10938,13 +10896,6 @@ sub,rodnf001,"Fernando Rodney",0,0,1
 play,8,1,huntt001,00,,NP
 sub,fordl001,"Lew Ford",1,3,12
 play,8,1,huntt001,12,..BF11FS,K
-com,"ej,huntt001,P,fairc901,Checked swing"
-com,"ej,gardr001,M,fairc901,Arguing Torii Hunter's ejection"
-com,"$Torii Hunter called out on check swing call by 1B umpire Chad"
-com,"Fairchild; after he left the field manager Ron Gardenhire was"
-com,"also ejected by Fairchild; then Hunter came back onto the field"
-com,"and had to be restrained; he made a motion as if to eject"
-com,"Fairchild before leaving"
 play,8,1,mornj001,11,..SB*B,CS2(26)
 play,8,1,mornj001,22,..SB*B.FFFFS,K
 play,9,0,rodri001,00,,NP
@@ -11423,9 +11374,6 @@ sub,cruzn002,"Nelson Cruz",0,5,9
 play,8,1,bartj001,00,,NP
 sub,wilsc004,"C.J. Wilson",0,0,1
 play,8,1,bartj001,32,...BCBBCX,S4/G
-com,"ej,gardr001,M,nelsj901,Call at 1B"
-com,"$the ball went past 1B and Twins Mgr Ron Gardenhire argued that Bartlett"
-com,"should be awarded 2B; Gardenhire ejected by 1B umpire Jeff Nelson"
 play,8,1,kubej002,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,2,11
 play,8,1,rodrl002,10,..B1X,14/SH/BG.1-2

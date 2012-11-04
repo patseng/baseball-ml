@@ -115,7 +115,6 @@ play,8,0,guerv001,32,BBFCBS,K
 play,8,1,mornj001,00,,NP
 sub,odayd001,"Darren O'Day",0,0,1
 play,8,1,mornj001,01,.CX,43/G
-com,"Debut game for Darren O'Day"
 play,8,1,yound003,31,CBBBX,S8/G
 play,8,1,monrc001,00,,NP
 sub,kubej002,"Jason Kubel",1,6,11
@@ -250,7 +249,6 @@ play,7,0,andeg001,01,.CX,S8/L.3-H;1-3
 play,7,0,huntt001,00,,NP
 sub,bassb001,"Brian Bass",1,0,1
 play,7,0,huntt001,32,.BBBCC>X,7/L
-com,"Debut game for Brian Bass"
 play,7,1,yound003,12,CFBX,D8/G
 play,7,1,kubej002,22,BCCBX,8/F
 play,7,1,lambm001,00,X,43/G-.2-3
@@ -266,7 +264,6 @@ play,8,0,andeg001,01,CX,9/F
 play,8,1,evera001,00,,NP
 sub,tolbm001,"Matt Tolbert",1,9,11
 play,8,1,tolbm001,21,.CBBX,53/G
-com,"Debut game for Matt Tolbert"
 play,8,1,gomec002,12,CCFBX,S7/G
 play,8,1,mauej001,01,CX,46(1)3/GDP
 play,9,0,huntt001,00,,NP
@@ -503,7 +500,6 @@ play,4,0,andeg001,22,BSFFBFX,D9/L
 play,4,0,huntt001,01,FX,53/G
 play,4,0,kotcc001,00,,NP
 sub,bassb001,"Brian Bass",1,0,1
-com,"Twins pitcher Kevin Slowey left the game due to an injured arm"
 play,4,0,kotcc001,12,.CFBX,43/G.2-3
 play,4,0,kendh001,22,FSB*BS,K
 play,4,1,mauej001,11,BCX,DGR/78/F
@@ -658,7 +654,6 @@ play,3,1,cuddm001,00,X,S7/L.1-2
 play,3,1,mornj001,01,SX,S7/L.2-H;1-3;B-2(TH)
 play,3,1,yound003,00,,NP
 sub,kubej002,"Jason Kubel",1,3,12
-com,"Twins RF Michael Cuddyer left the game due to an injured hand/wrist"
 play,3,1,yound003,00,.X,3/G-.3-H;2-3
 play,3,1,monrc001,02,FCFS,K
 play,4,0,butlb003,00,,NP
@@ -843,7 +838,6 @@ play,8,0,butlb003,32,BFBBF>X,63/G
 play,8,1,mornj001,00,,NP
 sub,yabuy001,"Yasuhiko Yabuta",0,0,1
 play,8,1,mornj001,12,.BSSFX,3/G+
-com,"Debut game for Yasuhiko Yabuta"
 play,8,1,yound003,31,BCBBX,S9/F
 play,8,1,kubej002,22,BCBFX,46(1)3/GDP
 play,9,0,gorda001,00,,NP
@@ -922,7 +916,6 @@ play,2,1,kubej002,32,BBBCFX,9/F
 play,2,1,harrb001,22,CCBBX,D7/F
 play,2,1,lambm001,22,CFBBX,5/P5F
 play,2,1,spand001,22,BFFFBX,13/G
-com,"Debut game for Denard Span"
 play,3,0,penat002,12,BSTFFFS,K23
 play,3,0,gathj001,21,BBCX,13/BG
 play,3,0,calla001,10,BX,S9/L
@@ -2025,8 +2018,6 @@ start,yound003,"Delmon Young",1,7,7
 start,lambm001,"Mike Lamb",1,8,5
 start,evera001,"Adam Everett",1,9,6
 start,hernl003,"Livan Hernandez",1,0,1
-com,"$Twins managed by Scott Ullger because Ron Gardenhire's"
-com,"brother died"
 play,1,0,granc001,32,BBCSBFX,7/F
 play,1,0,polap001,11,CBX,43/G
 play,1,0,shefg001,22,BCBFFX,7/F
@@ -2072,10 +2063,8 @@ play,5,0,ordom001,01,FX,S8/G.1-2
 play,5,0,cabrm001,22,BCBSS,K
 play,5,1,gomec002,12,BCFX,S7/L
 play,5,1,harrb001,21,1CPB>B,SB2
-com,"$Gomez was hit on the side of the head by the throw"
 play,5,1,harrb001,00,,NP
 sub,puntn001,"Nick Punto",1,1,12
-com,"Twins center fielder Carlos Gomez left the game due to an injured head"
 play,5,1,harrb001,32,1CPB>B..FX,53/G
 play,5,1,mauej001,11,CBX,S9/F.2-H
 play,5,1,mornj001,10,1BX,8/F
@@ -2188,8 +2177,6 @@ start,yound003,"Delmon Young",1,7,7
 start,monrc001,"Craig Monroe",1,8,8
 start,evera001,"Adam Everett",1,9,6
 start,bakes002,"Scott Baker",1,0,1
-com,"$Twins managed by Scott Ullger because Ron Gardenhire's"
-com,"brother died"
 play,1,0,granc001,02,CFX,63/G
 play,1,0,polap001,31,BFBBX,9/F
 play,1,0,shefg001,22,BFFFBFFS,K
@@ -2211,7 +2198,6 @@ play,3,1,monrc001,00,X,7/F
 play,3,1,evera001,32,CFBBBFFX,7!/F
 play,4,0,polap001,00,,NP
 sub,bassb001,"Brian Bass",1,0,1
-com,"Twins pitcher Scott Baker left the game due to an injured groin"
 play,4,0,polap001,12,.BCFX,3/G
 play,4,0,shefg001,01,SX,S9/F-
 play,4,0,ordom001,21,S1BB.X,53/G.1-2
@@ -2331,8 +2317,6 @@ start,yound003,"Delmon Young",1,7,7
 start,tolbm001,"Matt Tolbert",1,8,5
 start,puntn001,"Nick Punto",1,9,6
 start,bonsb001,"Boof Bonser",1,0,1
-com,"$Twins managed by Scott Ullger because Ron Gardenhire's"
-com,"brother died"
 play,1,0,granc001,21,BBFX,HR/9/F
 play,1,0,polap001,12,BFCX,S1/G
 play,1,0,cabrm001,12,CB>FX,S8/G.1-2
@@ -2534,7 +2518,6 @@ play,6,0,lugoj001,00,,NP
 sub,lambm001,"Mike Lamb",1,2,5
 play,6,0,lugoj001,00,,NP
 sub,tolbm001,"Matt Tolbert",1,8,4
-com,"Twins second baseman Brendan Harris left the game due to an injured leg"
 play,6,0,lugoj001,10,..BX,S9/L
 play,6,0,ellsj001,02,CCX,54(1)/FO/G
 play,6,0,pedrd001,00,1>C,SB2
@@ -3955,12 +3938,6 @@ play,1,1,casia001,32,BCBFBX,43/G
 play,1,1,mauej001,12,CFFFBFX,S7/L
 play,1,1,mornj001,10,BX,4!3/G
 play,2,0,bradm001,32,BFFFBFBC,K
-com,"ej,bradm001,P,nelsj901,Called third strike from bench"
-com,"ej,washr001,M,nelsj901,Arguing about Milton Bradley's ejection"
-com,"Rangers designated hitter Milton Bradley ejected by HP umpire Jeff Nelson"
-com,"for yelling from the bench after being called out on strikes;"
-com,"Rangers manager Ron Washington went out to discuss this with Nelson and"
-com,"was also ejected by Nelson"
 play,2,0,murpd005,10,BX,4/L
 play,2,0,lairg001,01,CX,63/G
 play,2,1,cuddm001,31,BBFBX,53/G
@@ -4679,7 +4656,6 @@ play,5,0,jeted001,10,BX,HR/78/F
 play,5,0,abreb001,31,BBBCX,S13/L
 play,5,0,rodra001,00,,NP
 sub,bassb001,"Brian Bass",1,0,1
-com,"Twins pitcher Nick Blackburn left the game due to an injured head"
 play,5,0,rodra001,31,.BBBCX,4/P
 play,5,0,matsh001,10,B1X,13/G
 play,5,1,gomec002,01,CX,7/F7LF
@@ -4695,7 +4671,6 @@ play,6,1,yound003,00,X,S7/F.1-2
 play,6,1,lambm001,00,,NP
 sub,patts001,"Scott Patterson",0,0,1
 play,6,1,lambm001,31,.BBFBX,46(1)/FO/G.2-3
-com,"Debut game for Scott Patterson"
 play,6,1,harrb001,32,BBTCB>F>B,W.1-2
 play,6,1,gomec002,12,SBSC,K
 play,7,0,cabrm002,00,,NP
@@ -6252,7 +6227,6 @@ play,5,0,branr001,00,,NP
 sub,bassb001,"Brian Bass",1,0,1
 play,5,0,branr001,00,,NP
 sub,puntn001,"Nick Punto",1,2,4
-com,"Twins second baseman Alexi Casilla left the game due to an injured hand/wrist"
 play,5,0,branr001,00,..X,S9/L
 play,5,0,dillj001,01,FX,3/G-
 play,5,1,puntn001,02,SFX,43/G
@@ -6613,8 +6587,6 @@ start,spand001,"Denard Span",1,9,9
 start,perkg001,"Glen Perkins",1,0,1
 play,1,0,rente001,00,X,9!/F
 play,1,0,polap001,12,CCBX,63/G
-com,"$Carlos Guillen stared at pitcher Glen Perkins after a pitch"
-com,"was high and inside"
 play,1,0,guilc001,30,BBBB,W
 play,1,0,cabrm001,02,CSC,K
 play,1,1,gomec002,00,X,53/BG
@@ -6636,7 +6608,6 @@ play,3,0,polap001,11,CBX,S7/G
 play,3,0,guilc001,01,FX,9/F
 play,3,0,cabrm001,00,,NP
 sub,thomc002,"Clete Thomas",0,4,11
-com,"Tigers first baseman Miguel Cabrera left the game due to an injured leg"
 play,3,0,thomc002,11,.BFX,D7/L.1-3
 play,3,0,thamm001,12,FBFFS,K
 play,3,0,shefg001,21,BCBX,53/G
@@ -6646,11 +6617,6 @@ play,3,1,gomec002,00,,NP
 sub,thamm001,"Marcus Thames",0,5,3
 play,3,1,gomec002,01,..SX,3/L-
 play,3,1,casia001,10,BX,9/F
-com,"ej,gardr001,M,hoyej901,Arguing warning to both teams"
-com,"$the first pitch to Joe Mauer was behind him and the second almost"
-com,"hit him; HP umpire James Hoye issued a warning to both teams and"
-com,"Twins manager Ron Gardenhire came out to argue with Hoye, who"
-com,"ejected Gardenhire"
 play,3,1,mauej001,30,BB.BB,W
 play,3,1,mornj001,32,BCBBF>F>F>F>F>X,S7/L-.1-H(E7)(NR)(UR);B-2
 play,3,1,kubej002,32,BFBS*BC,K
@@ -7518,7 +7484,6 @@ play,2,1,yound003,32,BBFBCX,S9/L
 play,2,1,buscb001,22,BSBF>B,SB2
 play,2,1,buscb001,32,BSBF>B.>FX,7/L
 play,3,0,teagt001,32,SFBBBX,8/F
-com,"Debut game for Taylor Teagarden"
 play,3,0,kinsi001,00,X,9/F
 play,3,0,younm003,21,BFBX,43/G
 play,3,1,harrb001,22,CCBBX,S4/G
@@ -8422,20 +8387,6 @@ play,7,0,cabro001,21,1C11B>P.X,FC1/G.2X3(15)
 play,7,0,piera001,00,1X,43/G
 play,7,1,spand001,00,,NP
 sub,uribj002,"Juan Uribe",0,8,5
-com,"ej,gardr001,M,fostm901,Checked swing"
-com,"$on the third pitch to Denard Span, he was struck by the pitch"
-com,"and awarded first by HP umpire Bill Welke; Span had attempted"
-com,"to bunt and 3B umpire Marty Foster ruled that Span had swung;"
-com,"thus, Span had to come back to the plate and resume his at bat;"
-com,"Twins Manager Ron Gardenhire came out to argue with Foster and"
-com,"was ejected by Foster; Gardenhire argued for several minutes;"
-com,"as he left the field, Gardenhire threw his hat and kicked it"
-com,"about 15 feet into the air; the crowd chanted 'Gardy!, Gardy!'"
-com,"and started throwing hats and other items onto the field;"
-com,"White Sox Manager Ozzie Guillen took his team off the field;"
-com,"Gardenhire said after the game that the hat was excessive but"
-com,"that he hoped the Vikings coach saw it in case he needs a new"
-com,"punter; said Gardenhire: 'I got good height on it!'"
 play,7,1,spand001,32,.BCL.BBFB,W
 play,7,1,puntn001,00,,NP
 sub,thorm001,"Matt Thornton",0,0,1
@@ -8543,7 +8494,6 @@ play,2,0,garkr001,11,BCX,9/F
 play,2,1,mornj001,11,CBX,31/G
 play,2,1,yound003,32,CSBFFFFBBX,63!/G
 play,2,1,ruizr001,11,BFX,63/G
-com,"Debut game for Randy Ruiz"
 play,3,0,marta004,12,CSBX,8/F
 play,3,0,gutif001,11,BCX,D7/L
 play,3,0,cabra002,20,BBX,7/F
@@ -8667,8 +8617,6 @@ start,buscb001,"Brian Buscher",1,7,5
 start,harrb001,"Brendan Harris",1,8,6
 start,gomec002,"Carlos Gomez",1,9,8
 start,slowk001,"Kevin Slowey",1,0,1
-com,"Twins Manager Ron Gardenhire served a one-game suspension for his"
-com,"outburst on July 31; 3B Coach Scott Ulger was the acting manager"
 play,1,0,sizeg001,32,BCFFBBFX,9/F
 play,1,0,delld001,22,TBBFFX,S9/G
 play,1,0,franb001,12,CBSS,K
@@ -9305,14 +9253,7 @@ play,6,1,mornj001,31,BFBBB,W.1-2
 play,6,1,kubej002,30,BBBB,W.2-3;1-2
 play,6,1,yound003,00,,NP
 sub,robed002,"David Robertson",0,0,1
-com,"Yankees pitcher Dan Giese left the game due to an injured neck/shoulder"
 play,6,1,yound003,12,.*BSSS,K
-com,"umpchange,6,umphome,campa902"
-com,"umpchange,6,ump1b,rungb901"
-com,"umpchange,6,ump2b,(None)"
-com,"$Buscher fouled off the third pitch, which struck HP umpire Mike"
-com,"Winters on the mask; after a delay, Winters left the game and"
-com,"1B umpire Angel Campos moved behind the plate"
 play,6,1,buscb001,22,BCFBX,7/SF/F.3-H;2-3
 play,6,1,ruizr001,00,X,8/F
 play,7,0,giamj001,00,,NP
@@ -9465,10 +9406,6 @@ play,5,0,betay001,22,CBFBS,K
 play,5,0,suzui001,01,CX,13/G
 play,5,1,buscb001,32,BFBFBFX,7!/L
 play,5,1,evera001,32,BBFCBFFFFX,E9/F.B-1
-com,"ej,riggj801,M,wegnm901,Arguing no catch call"
-com,"$Suzuki dropped the ball apparently while transfering it from his glove"
-com,"to his throwing hand and 1B umpire Mark Wegner ruled it was not a catch;"
-com,"Mariners Manager Jim Riggleman ejected by Wegner for arguing the call"
 play,5,1,gomec002,12,.CFBX,9/F
 play,5,1,spand001,32,BBFFB>X,7/F
 play,6,0,cairm001,32,CBBSFBX,S7/L

@@ -56,7 +56,6 @@ play,2,0,jenkg001,01,CX,8/F
 play,2,0,cirij001,32,FBBBCX,D9/F.1-H
 play,2,0,moelc001,11,BSX,63/G.2-3
 play,2,0,hardj003,12,CFFF*BX,7/F
-com,"Debut game for Jack Hardy"
 play,2,1,wiggt001,32,CSF*BBFBC,K
 play,2,1,castj005,12,FFBFX,8/F
 play,2,1,santb001,12,BFFX,T9/F-
@@ -214,7 +213,6 @@ play,2,1,redmt001,22,LBBCFX,9/F
 play,2,1,castj005,32,BFSBFFFF*BC,K
 play,3,0,overl001,00,,NP
 sub,mackr001,"Rob Mackowiak",1,7,4
-com,"Jose Castillo left the game due to an injured chest"
 play,3,0,overl001,01,.CX,7/F
 play,3,0,lee-c001,11,BCX,53/G
 play,3,0,jenkg001,31,BBBSB,W
@@ -1183,7 +1181,6 @@ sub,lambm001,"Mike Lamb",0,9,11
 play,8,0,lambm001,22,.FBBFFX,4/P
 play,8,0,tavew001,00,X,8/F
 play,8,0,biggc001,01,CX,DGR/7/F.1-3
-com,"fan interference"
 play,8,0,bagwj001,00,,NP
 sub,whitr002,"Rick White",1,9,1
 play,8,0,bagwj001,00,.X,9/F
@@ -4012,7 +4009,6 @@ play,8,1,wilsj002,01,CX,34/SH/BG.1-2
 play,8,1,whitr002,00,,NP
 sub,doumr001,"Ryan Doumit",1,9,11
 play,8,1,doumr001,00,.X,3/G
-com,"Debut game for Ryan Doumit"
 play,8,1,lawtm002,22,S*BS*BS,K
 play,9,0,jonea002,00,,NP
 sub,mesaj001,"Jose Mesa",1,9,1
@@ -4867,7 +4863,6 @@ play,6,0,crawc002,22,CBFFBFX,8/F
 play,6,0,lugoj001,01,CX,53/G
 play,6,1,doumr001,00,,NP
 sub,harpt002,"Travis Harper",0,9,1
-com,"Devil Rays pitcher Mark Hendrickson left the game due to an injured leg"
 play,6,1,doumr001,00,.X,8/F
 play,6,1,mackr001,02,CCS,K
 play,6,1,castj005,00,X,8/F
@@ -4909,7 +4904,6 @@ play,9,0,sanca003,00,,NP
 sub,hillb001,"Bobby Hill",1,8,5
 play,9,0,sanca003,00,,NP
 sub,gonzm001,"Mike Gonzalez",1,9,1
-com,"Pittsburgh Pirates shortstop Jack Wilson left the game due to an injured arm"
 play,9,0,sanca003,11,...CBX,6/P5F
 play,9,0,cantj001,10,BX,4/P
 play,9,0,lee-t002,12,SFBC,K
@@ -5024,8 +5018,6 @@ start,castj005,"Jose Castillo",1,6,4
 start,wilsj002,"Jack Wilson",1,7,6
 start,rossd001,"David Ross",1,8,2
 start,redmm002,"Mark Redman",1,9,1
-com,"Nationals Mgr Robinson serving 1-game suspension for argument"
-com,"with Angels Mgr Scioscia last week"
 play,1,0,wilkb002,10,BX,31/G
 play,1,0,byrdm001,02,FCC,K
 play,1,0,guilj001,01,CX,HR/8/F
@@ -5258,8 +5250,6 @@ play,7,1,bay-j001,21,BBFX,S7/F-.1-2
 play,7,1,wardd002,00,X,41/G.2-3;1-2
 play,7,1,mackr001,30,IIII,IW
 play,7,1,castj005,32,BBBCFFX,8/FDP.3XH(82)
-com,"ej,mccll001,M,demud901,Call at HP"
-com,"Pirates Manager Lloyd McClendon ejected by HP umpire Dana DeMuth"
 play,8,0,schnb001,31,.BBBCX,4/P
 play,8,0,guzmc001,22,CBBCX,43/G
 play,8,0,ayall001,00,,NP
@@ -5671,8 +5661,6 @@ play,1,1,sancf001,21,BBFX,8/F-
 play,1,1,bay-j001,02,CSX,S5/G-
 play,1,1,mackr001,31,BFBBB,W.1-2
 play,1,1,castj005,12,SBSX,15(2)/FO/G+
-com,"$Line drive off Lieber's elbow, deflected to Bell;"
-com,"Lieber left game, X-ray shows no break"
 play,2,0,burrp001,00,X,63/G
 play,2,0,utlec001,22,CBSFBX,8/F
 play,2,0,howar001,02,CSC,K
@@ -7106,9 +7094,6 @@ play,5,1,sancf001,22,CFBF*BX,S7/L
 play,5,1,lawtm002,31,CB1B*BX,7/F
 play,6,0,petta001,02,CSX,43/G
 play,6,0,tavew001,12,BSLX,63/G
-com,"ej,tavew001,P,iassd901,Call at 1B"
-com,"ej,garnp001,M,iassd901,Call at 1B"
-com,"Willy Taveras & Mgr Phil Garner ejected by 1B umpire Dan Iassogna"
 play,6,0,palmo001,21,..CBBX,D9/L
 play,6,0,berkl001,30,IIII,IW
 play,6,0,ensbm001,00,X,S8/L.2-H;1-2
@@ -7377,7 +7362,6 @@ play,2,0,piedj001,01,CX,7/F
 play,2,0,gonzl004,22,CFBBFS,K
 play,2,0,closj001,21,FBBX,63/G
 play,2,1,eldrb001,22,CBSBX,S8/L
-com,"Debut game for Brad Eldred"
 play,2,1,mackr001,21,CBBX,54(1)/FO/G.B-1
 play,2,1,castj005,00,1>B,SB2
 play,2,1,castj005,21,1>B.BFX,63/G
@@ -8070,7 +8054,6 @@ play,6,1,duffc001,10,BX,63/G
 play,6,1,sancf001,32,BFBBCC,K
 play,6,1,geruj001,00,,NP
 sub,mackr001,"Rob Mackowiak",1,3,11
-com,"Pirates left fielder Jody Gerut left the game due to an injured knee"
 play,6,1,mackr001,20,.BBX,3/G
 play,7,0,randj002,00,,NP
 sub,mackr001,"Rob Mackowiak",1,3,9
@@ -8271,8 +8254,6 @@ play,9,0,sweem001,31,B*BBCB,W
 play,9,0,robed001,12,CF*BB,WP.3-H;2-3;1-2
 play,9,0,robed001,32,CF*BB.BX,S8/G.3-H;2-H
 play,9,0,jackd003,22,FBBCC,K
-com,"ej,jackd003,P,welkb901,Called third strike"
-com,"Padres third baseman Damian Jackson ejected by HP umpire Bill Welke"
 play,9,1,duffc001,00,,NP
 sub,eatoa001,"Adam Eaton",0,2,1
 play,9,1,duffc001,00,,NP
@@ -8838,7 +8819,6 @@ play,4,0,muldm001,00,,NP
 sub,sancf001,"Freddy Sanchez",1,1,4
 play,4,0,muldm001,00,,NP
 sub,mackr001,"Rob Mackowiak",1,6,5
-com,"Pirates Jose Castillo left the game due to an injured knee"
 play,4,0,muldm001,12,...BCFFS,K
 play,4,0,ecksd001,22,BBCFX,53/G
 play,4,0,walkl001,12,FFBX,S8/G
@@ -8965,7 +8945,6 @@ play,2,1,mclon001,02,CLFX,64(1)4(2)/G/DP
 play,2,1,bay-j001,02,CFFS,K
 play,3,0,lunah001,00,,NP
 sub,torrs001,"Salomon Torres",1,9,1
-com,"Pirates pitcher Zach Duke left the game due to an injured foot/ankle"
 play,3,0,lunah001,12,..BCFC,K
 play,3,0,moliy001,01,CX,63/G
 play,3,0,marqj001,00,X,7/F
@@ -10759,7 +10738,6 @@ start,sancf001,"Freddy Sanchez",1,7,4
 start,cotah001,"Humberto Cota",1,8,2
 start,foggj001,"Josh Fogg",1,9,1
 play,1,0,counc001,32,BBBCCX,D9/L
-com,"Debut game for Dustin Nippert"
 play,1,0,cinta001,01,LX,9/F.2-3
 play,1,0,grees001,10,BX,43/G-
 play,1,0,clart002,32,CCFFBBFFFBX,HR/89/F.3-H
@@ -10808,7 +10786,6 @@ play,6,0,glaut001,32,BBFBSFS,K
 play,6,0,tracc001,10,BX,S1/L
 play,6,0,terrl001,00,,NP
 sub,meadb001,"Brian Meadows",1,9,1
-com,"Pirates pitcher Josh Fogg left the game due to an injured hand/wrist"
 play,6,0,terrl001,00,..1X,HR/8/F.1-H
 play,6,0,snydc002,31,CBBBX,7/F
 play,6,0,nippd001,00,,NP
@@ -11040,7 +11017,6 @@ play,7,1,sancf001,00,,NP
 sub,dunna001,"Adam Dunn",0,3,3
 play,7,1,sancf001,00,,NP
 sub,denoc001,"Chris Denorfia",0,5,7
-com,"$Casey hit under eye by elbow of Cota, unconscious for time"
 play,7,1,sancf001,21,..FBBX,S7/L
 play,7,1,bautj002,00,X,S9/G.1-3
 play,7,1,whitr002,00,,NP
@@ -11049,7 +11025,6 @@ play,7,1,wiggt001,12,.SBSC,K
 play,8,0,denoc001,00,,NP
 sub,cappm001,"Matt Capps",1,9,1
 play,8,0,denoc001,00,.X,S9/L
-com,"Debut game for Matt Capps"
 play,8,0,keara001,12,1SFFB1F>B,SB2
 play,8,0,keara001,32,1SFFB1F>B.BFT,K
 play,8,0,laruj001,22,FBB2CT,K
@@ -11470,7 +11445,6 @@ play,3,0,hudsl001,30,BBBB,W
 play,3,0,freer001,00,,NP
 sub,bullb001,"Bryan Bullington",1,9,1
 play,3,0,freer001,32,.BCS*BB>X,63/G
-com,"Debut game for Bryan Bullington"
 play,3,1,cotah001,01,SX,63/G
 play,3,1,bautj002,02,FCX,43/G
 play,3,1,mclon001,01,FX,4/P
@@ -11757,7 +11731,6 @@ start,bautj002,"Jose Bautista",1,7,5
 start,restm001,"Mike Restovich",1,8,7
 start,gorzt001,"Tom Gorzelanny",1,9,1
 play,1,0,biggc001,21,BCBX,1/P
-com,"Debut game for Tom Gorzelanny"
 play,1,0,brune001,32,BFCBFBB,W
 play,1,0,ensbm001,00,1X,9/F
 play,1,0,berkl001,10,BX,63/G-
@@ -12597,7 +12570,6 @@ play,1,1,wilsj002,31,CBBBX,S8/G
 play,1,1,bay-j001,22,1B1CB1FX,D7/G.1-3
 play,1,1,wilsc003,00,,NP
 sub,restm001,"Mike Restovich",1,3,12
-com,"Pirates left fielder Jason Bay left the game due to an injured arm"
 play,1,1,wilsc003,32,.BBCBFFFB,W
 play,1,1,eldrb001,12,CSFBFX,64(1)3/GDP
 play,2,0,hallb001,00,,NP

@@ -43,7 +43,6 @@ start,paytj001,"Jay Payton",1,6,8
 start,hernr002,"Ramon Hernandez",1,7,2
 start,greek002,"Khalil Greene",1,8,6
 start,welld001,"David Wells",1,9,1
-com,"$First game at PETCO Park"
 play,1,0,durhr001,12,CBFX,8/F
 play,1,0,peren001,00,X,31/G
 play,1,0,grism001,01,CX,63/G
@@ -486,7 +485,6 @@ play,8,1,gileb002,22,FBBCFC,K
 play,9,0,snowj001,00,,NP
 sub,szumj001,"Jason Szuminski",1,5,1
 play,9,0,snowj001,00,.X,43/G
-com,"Debut game for Jason Szuminski"
 play,9,0,grism001,11,BFX,S8/L
 play,9,0,bondb001,21,BBFX,7/F
 play,9,0,felip001,20,BBX,E5/TH/G.1-3;B-2
@@ -891,7 +889,6 @@ play,4,1,lawrb001,22,FBF*BX,63/G
 play,5,0,lodup001,01,CX,63/G
 play,5,0,encaj001,02,CSS,K
 play,5,0,belta001,02,CCC,K
-com,"$Green left game with injured groin"
 play,5,1,burrs001,00,,NP
 sub,ventr001,"Robin Ventura",0,4,3
 play,5,1,burrs001,21,.BCBX,S7/L
@@ -1359,8 +1356,6 @@ sub,villo001,"Oscar Villarreal",0,9,1
 play,7,1,paytj001,02,.CFFB,WP.2-3;1-2
 play,7,1,paytj001,22,.CFFB.*BX,3/P
 play,7,1,hernr002,22,BCC*BX,43/G
-com,"ej,hernr002,P,drecb901,Balls and strikes"
-com,"Ramon Hernandez ejected by HP umpire Bruce Dreckman"
 play,8,0,cinta001,00,,NP
 sub,ojedm001,"Miguel Ojeda",1,7,2
 play,8,0,cinta001,12,..CBCFX,43/G
@@ -1396,7 +1391,6 @@ play,9,1,klesr001,00,,NP
 sub,robik002,"Kerry Robinson",1,4,12
 play,9,1,klesr001,00,,NP
 sub,buchb002,"Brian Buchanan",1,4,12
-com,"DWS: double PR sub appears in box. Injury?"
 play,9,1,klesr001,20,..BBX,HR/7/F.2-H;1-H
 data,er,spars001,2
 data,er,koplm001,0
@@ -1464,7 +1458,6 @@ play,2,0,batit001,11,CBX,S6/G
 play,2,0,cepim001,31,B*BBC>S,SB2
 play,2,0,cepim001,32,B*BBC>S.FFFFX,43/G.2-3
 play,2,0,pascv001,30,BBBB,W
-com,"Debut game for Val Pascucci"
 play,2,0,schnb001,01,CX,3/G
 play,2,1,nevip001,02,SFC,K
 play,2,1,klesr001,12,SFBFC,K
@@ -1512,14 +1505,7 @@ play,7,0,schnb001,10,BX,S7/L
 play,7,0,hernl003,00,,NP
 sub,lines001,"Scott Linebrink",1,9,1
 play,7,0,hernl003,00,.1X,E1/INT/SH/BG.1-2
-com,"Livan Hernandez awarded 1B on obstruction by Scott Linebrink;"
-com,"Linebrink slid across the baseline trying to catch the popped-up"
-com,"bunt of Hernandez, who had to jump over Linebrink; Hernandez"
-com,"was thrown out but after Expos manager Frank Robinson argued"
-com,"the call, it was changed to obstruction"
 play,7,0,chave002,02,SSX,36(1)/FO/G.2-3
-com,"ej,bochb002,M,brinj901,Obstruction call"
-com,"Padres Manager Bruce Bochy ejected by HP umpire Joe Brinkman"
 play,7,0,cabro001,02,C.SX,46(1)/FO/G
 play,7,1,hernr002,20,BBX,S7/G
 play,7,1,greek002,00,,NP
@@ -1654,7 +1640,6 @@ play,6,1,klesr001,32,FBFBBC,K
 play,6,1,paytj001,02,FCS,K
 play,6,1,ojedm001,00,,NP
 sub,kim-s001,"Sun-Woo Kim",0,9,1
-com,"$Patterson left game with injured arm"
 play,6,1,ojedm001,32,BS..BBCB,W.1-2
 play,6,1,greek002,32,FBBCFBX,9/F
 play,7,0,wilkb002,00,,NP
@@ -3002,13 +2987,11 @@ play,8,1,burrs001,11,BCX,43/G
 play,9,0,lee-d002,00,,NP
 sub,puffb001,"Brandon Puffer",1,9,1
 play,9,0,lee-d002,21,.BCBX,S5/G
-com,"low throw, Nevin couldn't dig it out"
 play,9,0,pattc001,00,,NP
 sub,orope001,"Eddie Oropesa",1,9,1
 play,9,0,pattc001,00,.1X,S4/BG.1-2
 play,9,0,bakop001,22,CBLBC,K
 play,9,0,maddg002,22,LB+2LBX,FC1/BG.2X3(1E5);1-2;B-1
-com,"throw beat the runner, but Burroughs missed the bag"
 play,9,0,macij001,12,BFFX,T7/L.3-H(UR);2-H;1-H
 play,9,0,martr003,01,FX,63/G
 play,9,0,sosas001,20,BBX,53/G
@@ -3557,7 +3540,6 @@ play,3,1,burrs001,00,,NP
 sub,burnj001,"Jeromy Burnitz",0,4,9
 play,3,1,burrs001,00,,NP
 sub,reyer001,"Rene Reyes",0,5,8
-com,"$Sweeney left game with injured leg"
 play,3,1,burrs001,32,..BFFBFFBX,D8/F
 play,3,1,lorem001,02,CFFH,HP
 play,3,1,gileb002,00,X,1/G.2-3;1-2
@@ -5056,7 +5038,6 @@ play,8,0,clarh001,00,X,S4/G
 play,8,0,johnr008,02,S1CX,D7/L.1XH(762)
 play,8,0,hinse001,00,,NP
 sub,ojedm001,"Miguel Ojeda",1,7,2
-com,"$Hernandez left game with injured knee"
 play,8,0,hinse001,11,..BCX,9/F
 play,8,1,lawrb001,00,,NP
 sub,robik002,"Kerry Robinson",1,9,11
@@ -5901,7 +5882,6 @@ play,4,1,gileb002,32,BFBBFFS,K
 play,4,1,nevip001,01,SX,S8/G
 play,4,1,klesr001,00,,NP
 sub,cirij001,"Jeff Cirillo",1,4,12
-com,"$Nevin left game with injured leg"
 play,4,1,klesr001,00,..X,S9/G.1-2
 play,4,1,longt002,20,BBX,9/L
 play,4,1,quinh001,21,FBBX,S9/L.2-H;1-3
@@ -6339,8 +6319,6 @@ play,6,0,beltc001,10,BX,D8/F.1-3
 play,6,0,berkl001,30,B*BBI,IW
 play,6,0,bagwj001,12,CSBS,K
 play,6,0,lambm001,12,FFBFS,K
-com,"ej,lamog101,C,craft901,Arguing for balk on Jay Witasick"
-com,"Astros coach Gene Lamont ejected by 3B umpire Terry Craft"
 play,6,0,evera001,01,.FX,4/P
 play,6,1,nadyx001,00,X,D7/L
 play,6,1,burrs001,02,CSC,K
@@ -7093,8 +7071,6 @@ play,5,1,nevip001,32,BCBFBFB,W
 play,5,1,gileb002,01,CX,S6/G.1-2
 play,5,1,aurir001,01,SX,63/G
 play,6,0,durhr001,32,BBBCFFC,K
-com,"ej,durhr001,P,wegnm901,Called third strike"
-com,"Ray Durham ejected by HP umpire Mark Wegner"
 play,6,0,tuckm001,00,.X,S9/L
 play,6,0,alfoe001,10,BX,DGR/7/L.1-3
 play,6,0,bondb001,30,IIII,IW
@@ -7417,7 +7393,6 @@ play,6,1,klesr001,00,X,D9/F.3-H;1-H
 play,6,1,nevip001,22,FFBBX,D8/L.2-H
 play,6,1,gileb002,00,,NP
 sub,walkt003,"Tyler Walker",0,9,1
-com,"$Franklin left game with injured elbow"
 play,6,1,gileb002,11,..CBX,3/G
 play,7,0,bondb001,00,,NP
 sub,stonr001,"Ricky Stone",1,5,1
@@ -7452,8 +7427,6 @@ sub,peren001,"Neifi Perez",0,8,4
 play,8,1,burrs001,22,....BSFFFFBS,K
 play,8,1,lorem001,22,BSSBC,K
 play,8,1,klesr001,12,CBFX,7/F
-com,"ej,klesr001,P,younl901,Fair/foul call"
-com,"Ryan Klesko ejected by 3B umpire Larry Young"
 play,9,0,tuckm001,00,,NP
 sub,nadyx001,"Xavier Nady",1,3,7
 play,9,0,tuckm001,00,,NP
@@ -8523,7 +8496,6 @@ play,6,1,longt002,11,BCX,43/G
 play,6,1,hernr002,11,CBX,53/G
 play,7,0,liebm001,00,,NP
 sub,lines001,"Scott Linebrink",1,9,1
-com,"$Millwood left game with injured elbow"
 play,7,0,liebm001,01,.FX,63/G
 play,7,0,gland001,32,CBBBFX,S9/G
 play,7,0,byrdm001,11,BFX,6!4(1)/FO/G
@@ -9108,7 +9080,6 @@ play,2,0,jonea002,32,BFBCBX,HR/8/F
 play,2,0,marre001,20,BBX,D7/G
 play,2,0,peree002,12,FBCFS,K
 play,2,0,hampm001,00,X,D7/F7DW.2-H
-com,"$Off very top padding of wall, back onto field"
 play,2,0,furcr001,11,CBX,8/F.2-3
 play,2,0,gilem001,30,BBBB,W
 play,2,0,drewj001,11,CBX,3/G
@@ -9117,7 +9088,6 @@ play,2,1,klesr001,10,BX,S9/G.1-3
 play,2,1,paytj001,32,CBBFB1S,K
 play,2,1,hernr002,20,BBX,46(1)3/GDP
 play,3,0,jonec004,32,BBBCCX,HR/F7LD
-com,"$career homer #300 for Chipper Jones"
 play,3,0,franj002,10,BX,63/G
 play,3,0,jonea002,21,BSBX,9/F
 play,3,0,marre001,01,CX,8/F
@@ -9126,7 +9096,6 @@ play,3,1,greek002,01,CX,8/F
 play,3,1,aurir001,00,X,53/G
 play,4,0,peree002,21,BBFX,S7/L
 play,4,0,hampm001,01,C>X,4(1)3/GDP
-com,"Nice tag of Perez by Loretta for first out"
 play,4,0,furcr001,01,CX,8/F
 play,4,1,lorem001,11,BCX,D7/L
 play,4,1,nevip001,11,BSX,S8/G.2-H
@@ -9244,7 +9213,6 @@ play,1,0,furcr001,11,CBX,6/P
 play,1,0,gilem001,12,BSCFS,K
 play,1,0,drewj001,12,CFBX,3/G
 play,1,1,guzmf001,01,CX,S8/G
-com,"Debut game for Freddy Guzman"
 play,1,1,lorem001,32,B1BBC1>F>X,63/G.1-2
 play,1,1,gileb002,31,BCBB*B,W
 play,1,1,nevip001,12,2BCFX,D9/L.2-H;1-3
@@ -9784,7 +9752,6 @@ sub,watks002,"Steve Watkins",1,9,1
 play,8,0,seanr001,00,,NP
 sub,aguic001,"Chris Aguila",0,9,11
 play,8,0,aguic001,11,..CBX,8/F
-com,"Debut game for Steve Watkins"
 play,8,0,pierj002,11,BTX,S7/L
 play,8,0,lodup001,01,C>B,SB2
 play,8,0,lodup001,32,C>B.BBSFX,S9/L.2-H;B-2(TH)
@@ -9872,7 +9839,6 @@ play,1,0,lowem001,31,BFBBX,D7/F
 play,1,0,easld001,30,BBBX,8/F
 play,1,1,guzmf001,01,CX,13/BG
 play,1,1,burrs001,32,CCBBBX,D7/F.BX2(763)
-com,"Burroughs took wide turn and Easley snuck in behind him"
 play,1,1,gileb002,32,CCBFBBB,W
 play,1,1,nevip001,02,C1S1S,K
 play,2,0,encaj001,31,BBBCX,8/F
@@ -9880,8 +9846,6 @@ play,2,0,castl001,10,BX,63/G
 play,2,0,gonza002,21,BCBX,8!/F
 play,2,1,klesr001,32,BBBCFB,W
 play,2,1,aurir001,10,*BX,S6/G.1-2
-com,"throw past 1st, but Klesko thought he had missed second,"
-com,"so he went back. Aurilia nearly to 2nd, but got back to 1st"
 play,2,1,greek002,21,CBBX,54(1)3/GDP.2-3
 play,2,1,hernr002,00,X,D7/F.3-H
 play,2,1,hitcs001,12,SSBS,K
@@ -9906,8 +9870,6 @@ play,4,1,greek002,10,BX,4/P
 play,4,1,hernr002,22,BCFFBX,43/G
 play,4,1,hitcs001,00,,NP
 sub,hansd001,"Dave Hansen",1,9,11
-com,"$Hitchcock left game with injured elbow."
-com,"MRI next day shows no tear - onto 15 day DL"
 play,4,1,hansd001,32,.FBFBFBFFX,8/F
 play,5,0,pierj002,00,,NP
 sub,stonr001,"Ricky Stone",1,9,1
@@ -9954,7 +9916,6 @@ play,7,1,nevip001,12,CBSS,K
 play,8,0,motag001,00,,NP
 sub,mclem002,"Marty McLeary",1,9,1
 play,8,0,motag001,01,.FX,DGR/9
-com,"Debut game for Marty McLeary"
 play,8,0,pierj002,21,BBMX,13/SH/BG.2-3
 play,8,0,lodup001,31,BBFBX,S8/F-.3-3
 play,8,0,cabrm001,10,BX,8/SF.3-H
@@ -10405,9 +10366,6 @@ play,8,0,hollm001,10,BX,HR/78/F
 play,8,0,closj001,01,SH,HP
 play,8,0,freec001,00,,NP
 sub,watks002,"Steve Watkins",1,9,1
-com,"ej,nealb001,P,dimum901,Intentional HBP"
-com,"ej,bochb002,M,dimum901,Intentional HBP"
-com,"Blaine Neal and Manager Bruce Bochy ejected by HP umpire Mike DiMuro"
 play,8,0,freec001,11,...FBX,8/F
 play,8,1,aurir001,00,,NP
 sub,fuenb001,"Brian Fuentes",0,9,1
@@ -10880,7 +10838,6 @@ sub,ceder001,"Roger Cedeno",0,9,9
 play,7,1,robik002,00,,NP
 sub,nadyx001,"Xavier Nady",1,2,11
 play,7,1,nadyx001,00,....X,S7/G
-com,"Debut game for Carmen Cali"
 play,7,1,gileb002,32,CBCBBFB,W.1-2
 play,7,1,nevip001,12,BFCS,K
 play,7,1,paytj001,01,CX,S7/L.2-3;1-2
@@ -11171,7 +11128,6 @@ play,4,0,grees001,20,BBX,8/F
 play,4,1,aurir001,32,FBBSFFBB,W
 play,4,1,paytj001,00,,NP
 sub,stews003,"Scott Stewart",0,9,1
-com,"$Penny left game with injured arm"
 play,4,1,paytj001,32,BFFBB.>X,463/G.1-2
 play,4,1,peavj001,12,FFBX,S6/G.2-3(E6/TH)
 play,4,1,vazqr001,22,BBSFX,7/SF.3-H(UR);1-2(E7/TH)
@@ -12209,7 +12165,6 @@ play,8,1,welld001,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,9,11
 play,8,1,vazqr001,00,,NP
 sub,ransc001,"Cody Ransom",0,1,4
-com,"$Durham left game with injured foot"
 play,8,1,vazqr001,01,...SX,13/G
 play,8,1,paytj001,32,BFFBBB,W
 play,8,1,lorem001,30,B*BBB,W.1-2
@@ -12246,8 +12201,6 @@ play,10,1,robik002,00,..1X,E2/TH/SH/BG.1-3;B-2
 play,10,1,vazqr001,30,IIII,IW
 play,10,1,paytj001,21,BBCX,42(3)/FO/G.2-3;1-2
 play,10,1,lorem001,11,CBX,9/F9LF/SF.3-H(UR)
-com,"Mohr tripped over bullpen mound after catch, hurt"
-com,"knee, left field with brace on knee"
 data,er,lowrn001,3
 data,er,walkt003,0
 data,er,chrij002,0

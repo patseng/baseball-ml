@@ -127,7 +127,6 @@ play,9,0,doumr001,32,.BC*BSFBB,W
 play,9,0,martd004,00,,NP
 sub,kelld001,"Don Kelly",0,9,11
 play,9,0,kelld001,32,.CS+2*BBFFB>X,6/P
-com,"Debut game for Don Kelly"
 play,9,1,lee-c001,00,,NP
 sub,cappm001,"Matt Capps",0,8,1
 play,9,1,lee-c001,00,,NP
@@ -567,7 +566,6 @@ sub,spies001,"Scott Spiezio",0,9,11
 play,8,0,spies001,32,.SSBFBBFB,W
 play,8,0,ecksd001,32,1BBCBF>F>X,S7/L.1-2
 play,8,0,duncc002,12,BCCFX,DGR/9/F.2-H;1-3
-com,"fan interference"
 play,8,0,pujoa001,30,IIII,IW
 play,8,0,roles001,00,,NP
 sub,whitr002,"Rick White",1,9,1
@@ -1105,7 +1103,6 @@ play,1,0,jacom001,12,BFFC,K
 play,1,1,biggc001,12,SFFFBFS,K
 play,1,1,ensbm001,00,,NP
 sub,gregk001,"Kevin Gregg",0,9,1
-com,"Marlins pitcher Sergio Mitre left the game due to an injured hand/wrist"
 play,1,1,ensbm001,22,TBCFFB.S,K
 play,1,1,berkl001,12,BSCX,43/G
 play,2,0,willj004,00,X,S8/L
@@ -1437,7 +1434,6 @@ play,2,1,lee-c001,00,X,S9/G
 play,2,1,scotl001,01,F>B,CS2(26)
 play,2,1,scotl001,21,F>B.BX,7/F
 play,2,1,pench001,32,CFFFBBFBFFFC,K
-com,"Debut game for Hunter Pence"
 play,3,0,bushd001,12,CBSS,K
 play,3,0,weekr001,22,BCSBS,K
 play,3,0,hardj003,01,CX,5/P
@@ -1847,7 +1843,6 @@ sub,salmb001,"Brad Salmon",0,5,1
 play,9,1,evera001,00,,NP
 sub,castj004,"Juan Castro",0,9,6
 play,9,1,evera001,22,..SBBCX,2/P2F
-com,"Debut game for Brad Salmon"
 play,9,1,ausmb001,31,FBBBB,W
 play,9,1,borkd001,00,,NP
 sub,lorem001,"Mark Loretta",1,9,11
@@ -1921,7 +1916,6 @@ play,2,0,gonza002,00,X,63/G
 play,2,0,dunna001,02,CCS,K
 play,2,1,ausmb001,21,BCBX,8/F
 play,2,1,oswar001,11,BCX,DGR/9
-com,"fan interference"
 play,2,1,biggc001,22,CFBBX,8/F
 play,2,1,pench001,32,BCBFFBS,K
 play,3,0,hamij003,12,BCFFX,63/G
@@ -2265,9 +2259,6 @@ play,7,0,younc004,11,CBX,HR/78/F
 play,7,0,drews001,00,X,31/G
 play,7,0,hudso001,12,CBCFS,K
 play,7,1,evera001,12,CFBS,K
-com,"ej,garnp001,M,scotd901,Check swing"
-com,"Astros Manager Phil Garner ejected by HP umpire Dale Scott"
-com,"for arguing the check swing call"
 play,7,1,ausmb001,01,.CH,HP
 play,7,1,sampc001,00,,NP
 sub,lorem001,"Mark Loretta",1,9,11
@@ -2350,7 +2341,6 @@ play,2,0,montm001,10,BX,63/G
 play,2,0,hernl003,10,BX,E8/F
 play,2,0,younc004,31,BCBBB,W.1-2
 play,2,0,byrne001,12,FCBFX,3/P
-com,"infleld fly"
 play,2,0,hudso001,12,SBSX,31/G
 play,2,1,scotl001,22,CBBSX,43/G
 play,2,1,pench001,01,SX,S6/G
@@ -3303,7 +3293,6 @@ play,2,1,lanej001,32,B1BBSF1X,6/P
 play,2,1,ausmb001,32,1CBBBS>F>B,W.1-2
 play,2,1,rodrw002,22,BCFBFX,63/G
 play,3,0,metct001,11,CBX,5/P
-com,"Debut game for Travis Metcalf"
 play,3,0,koroj001,02,CCS,K
 play,3,0,kinsi001,12,BCFX,S7/G
 play,3,0,younm003,21,11BCB1,SB2
@@ -3754,9 +3743,6 @@ start,evera001,"Adam Everett",1,7,6
 start,ausmb001,"Brad Ausmus",1,8,2
 start,rodrw002,"Wandy Rodriguez",1,9,1
 play,1,0,hoppn001,02,CFFX,D7/F
-com,"ej,narrj001,M,welkb901,Balls and strikes"
-com,"Reds Manager Jerry Narron ejected by HP umpire Bill Welke arguing a strike call"
-com,"to Alex Gonzalez"
 play,1,0,gonza002,12,CC.FBX,S9/L.2-H
 play,1,0,grifk002,32,CBBSFBX,D7/G.1-H
 play,1,0,conij001,32,BB*BCCX,8/F.2-3
@@ -4098,7 +4084,6 @@ play,3,1,biggc001,00,,NP
 sub,spies001,"Scott Spiezio",0,2,5
 play,3,1,biggc001,00,,NP
 sub,tagus001,"So Taguchi",0,5,7
-com,"Cardinals third baseman Scott Rolen left the game due to an injured leg"
 play,3,1,biggc001,00,..X,2/P2F
 play,3,1,pench001,02,CSFS,K
 play,3,1,berkl001,22,CBBCX,43/G
@@ -4265,7 +4250,6 @@ play,3,1,biggc001,32,BBBCCFFS,K
 play,3,1,pench001,22,BSSBS,K
 play,3,1,berkl001,00,X,63/G
 play,4,0,encaj001,21,SBBX,DGR/7
-com,"fan interference"
 play,4,0,ludwr001,21,S*BBX,S7/F.2-3;BX2(74)
 play,4,0,benng001,10,BX,7/SF/L.3-H
 play,4,0,milea001,12,LBFX,63/G
@@ -4301,7 +4285,6 @@ sub,jimek001,"Kelvin Jimenez",0,8,1
 play,7,1,pench001,00,,NP
 sub,ryanb002,"Brendan Ryan",0,9,6
 play,7,1,pench001,10,..BX,6/P5F
-com,"Debut game for Brendan Ryan"
 play,7,1,berkl001,31,BFBBB,W
 play,7,1,lee-c001,31,SBBBX,HR/9/F.1-H
 play,7,1,lorem001,12,SCBC,K
@@ -4313,7 +4296,6 @@ play,8,0,pujoa001,01,CX,64(1)/FO/G
 play,8,1,munse001,00,,NP
 sub,espob001,"Brian Esposito",0,7,2
 play,8,1,munse001,01,.FX,5/P5F
-com,"Debut game for Brian Esposito"
 play,8,1,evera001,00,X,S8/L
 play,8,1,sampc001,00,,NP
 sub,lambm001,"Mike Lamb",1,9,11
@@ -4657,7 +4639,6 @@ play,10,0,kendj001,00,X,D7/F
 play,10,0,garcj002,00,,NP
 sub,suzuk001,"Kurt Suzuki",0,9,11
 play,10,0,suzuk001,00,.X,53/G
-com,"Debut game for Kurt Suzuki"
 play,10,0,kotsm001,30,IIII,IW
 play,10,0,ellim001,12,CS*BX,7/F
 play,10,1,palmo001,00,,NP
@@ -4920,8 +4901,6 @@ play,4,0,gaudc001,00,,NP
 sub,lorem001,"Mark Loretta",1,1,6
 play,4,0,gaudc001,00,,NP
 sub,ensbm001,"Morgan Ensberg",1,8,5
-com,"$Adam Everett and Carlos Lee collide chasing the popup; Everett left the"
-com,"game and will be out four to eight weeks after fracturing his right fibula"
 play,4,0,gaudc001,12,..BSSX,6/P
 play,4,0,kotsm001,00,X,43/G
 play,4,1,jennj001,30,BBBB,W
@@ -5606,7 +5585,6 @@ play,4,0,iannc001,32,SSBBBFB,W
 play,4,0,cooka002,11,CBX,64(1)/FO/G
 play,4,1,lee-c001,00,X,S8/G
 play,4,1,lorem001,12,CF1BS,K+SB2
-com,"$Lee was hit on the head by the throw and was dazed briefly"
 play,4,1,lambm001,31,BCBBB,W
 play,4,1,ausmb001,22,FFBBFS,K
 play,4,1,brune001,00,X,13/G
@@ -5635,7 +5613,6 @@ play,7,1,oswar001,00,,NP
 sub,palmo001,"Orlando Palmeiro",1,9,11
 play,7,1,palmo001,01,.CX,13/G
 play,7,1,biggc001,20,BBX,S8/L.2-H;BX2(86)
-com,"3000th hit for Craig Biggio; 27th player to reach milestone"
 play,8,0,heltt001,00,,NP
 sub,millt002,"Trever Miller",1,9,1
 play,8,0,heltt001,01,.CX,5/P5F
@@ -6525,9 +6502,6 @@ play,9,1,biggc001,01,FX,S7/L
 play,9,1,pench001,11,BFX,S8/L-.1-3
 play,9,1,berkl001,31,BCBBB,W.1-2
 play,9,1,lee-c001,22,FBBFFX,64(1)/FO/G.3-H;2-3
-com,"ej,manuc101,M,barkl901,Call at 1B"
-com,"$Phillies Manager Charlie Manuel ejected by 1B umpire Lance Barksdale"
-com,"for arguing the safe call on an apparent game-ending double play"
 play,9,1,lorem001,22,FBBF>FX,53/G
 play,10,0,utlec001,00,,NP
 sub,mclem003,"Mark McLemore",1,5,1
@@ -7719,7 +7693,6 @@ play,7,0,saeno001,22,..BSCBFFFFX,5/L
 play,7,1,berkl001,00,,NP
 sub,hulle001,"Eric Hull",0,9,1
 play,7,1,berkl001,01,.FX,4/L
-com,"Debut game for Eric Hull"
 play,7,1,lee-c001,32,BBCBFFS,K
 play,7,1,ensbm001,32,BCBFBX,8/F
 play,8,0,furcr001,00,,NP
@@ -7962,7 +7935,6 @@ play,2,1,biggc001,22,BBCCX,S7/F-
 play,2,1,lorem001,02,CFFX,S7/L.1-2
 play,2,1,berkl001,01,S>C,SB3
 play,2,1,berkl001,22,S>C.*BBX,DGR/7.3-H;1-3
-com,"fan interference"
 play,2,1,lee-c001,30,IIII,IW
 play,2,1,ensbm001,32,BCBSBFB,W.3-H;2-3;1-2
 play,2,1,lanej001,00,X,7/SF/F.3-H
@@ -8008,7 +7980,6 @@ play,7,0,cruzj004,10,.BX,9/F
 play,7,1,ensbm001,00,,NP
 sub,thatj001,"Joe Thatcher",0,9,1
 play,7,1,ensbm001,12,.CBFC,K
-com,"Debut game for Joe Thatcher"
 play,7,1,lanej001,32,CFBBFBX,63/G
 play,7,1,brune001,11,CBX,63/G
 play,8,0,gileb002,00,,NP
@@ -8406,7 +8377,6 @@ play,2,1,wiggt001,02,CCS,K
 play,2,1,scotl001,32,BBBCFFFFFX,43/G
 play,3,0,gonza003,00,,NP
 sub,albem001,"Matt Albers",1,9,1
-com,"Astros pitcher Mark McLemore left the game due to an injured leg"
 play,3,0,gonza003,12,..FFBX,5/P
 play,3,0,greek002,10,BX,3/P3F
 play,3,0,bardj001,11,BCX,63/G
@@ -8654,7 +8624,6 @@ sub,howrb001,"Bob Howry",0,5,1
 play,9,1,lorem001,00,,NP
 sub,patte001,"Eric Patterson",0,9,7
 play,9,1,lorem001,11,..CBX,2/P2F
-com,"Debut game for Eric Patterson"
 play,9,1,berkl001,12,SSFBS,K
 play,9,1,lee-c001,30,BBBX,9/F
 play,10,0,kendj001,00,,NP
@@ -9067,7 +9036,6 @@ play,4,0,fielp001,22,FSBBX,HR/9/F
 play,4,0,hallb001,22,SBCBX,9/F
 play,4,0,jenkg001,12,BCSS,K
 play,4,1,lanej001,12,CBCFX,DGR/7
-com,"fan interference"
 play,4,1,munse001,00,X,9/F
 play,4,1,jennj001,22,BFBFC,K
 play,4,1,biggc001,00,X,8/F
@@ -9463,8 +9431,6 @@ sub,lorem001,"Mark Loretta",1,2,4
 play,8,0,hartc001,12,...BSSX,8/F
 play,8,0,braur002,32,BBCBFX,7/F
 play,8,0,fielp001,12,BFSC,K
-com,"ej,fielp001,P,bellw901,Called third strike"
-com,"Brewers first baseman Prince Fielder ejected by HP umpire Wally Bell"
 play,8,1,berkl001,00,,NP
 sub,dillj001,"Joe Dillon",0,4,3
 play,8,1,berkl001,00,..X,HR/89/F
@@ -9937,7 +9903,6 @@ play,6,0,logan001,12,CTBS,K
 play,6,0,zimmr001,12,BFSFS,K
 play,6,0,yound001,32,SSBFBBX,D7/F
 play,6,0,keara001,31,BBBCX,HR/F7.2-H
-com,"$off the top of the wall at or near the train track"
 play,6,0,penaw001,12,CSBC,K
 play,6,1,lee-c001,31,CBBBB,W
 play,6,1,wiggt001,11,BFX,7/F
@@ -10439,7 +10404,6 @@ start,brune001,"Eric Bruntlett",1,7,6
 start,ausmb001,"Brad Ausmus",1,8,2
 start,pattt001,"Troy Patton",1,9,1
 play,1,0,mclon001,00,X,4/P
-com,"Debut game for Troy Patton"
 play,1,0,wilsj002,30,BBBB,W
 play,1,0,sancf001,10,BX,5/P
 play,1,0,laroa001,22,CFBBS,K
@@ -10508,7 +10472,6 @@ sub,grabj002,"John Grabow",0,9,1
 play,7,1,scotl001,22,.BCBSFX,36(1)/FO/G
 play,7,1,ausmb001,00,,NP
 sub,iztuc001,"Cesar Izturis",0,2,6
-com,"Pirates shortstop Jack Wilson left the game due to an injured leg"
 play,7,1,ausmb001,31,.BFBBX,9/F
 play,7,1,lorem001,00,,NP
 sub,osorf001,"Franquelis Osoria",0,9,1
@@ -10665,7 +10628,6 @@ sub,maldc003,"Carlos Maldonado",0,4,2
 play,7,1,burkc001,00,,NP
 sub,sancr002,"Romulo Sanchez",0,9,1
 play,7,1,burkc001,32,..BFBFBFB,W
-com,"Debut game for Romulo Sanchez"
 play,7,1,pench001,01,CX,16(1)3/GDP
 play,7,1,berkl001,00,,NP
 sub,martd004,"Damaso Marte",0,9,1
@@ -10994,8 +10956,6 @@ play,8,1,brune001,10,.BX,3(1)/FO/G.3-H;2-3
 play,8,1,berkl001,00,X,54(1)3/GDP
 play,9,0,ankir001,00,,NP
 sub,millt002,"Trever Miller",1,2,1
-com,"ej,larut101,M,tscht901,Balls and strikes"
-com,"Cardinals Manager Tony LaRussa ejected by plate umpire Tim Tschida in 9th inning"
 play,9,0,ankir001,00,.X,S9/L
 play,9,0,pujoa001,12,CBCFX,9/F
 play,9,0,florr001,00,,NP
@@ -12039,7 +11999,6 @@ play,1,0,laroa001,00,X,6/P
 play,1,1,burkc001,01,CX,S6/G
 play,1,1,andej004,11,BL>B,SB2
 play,1,1,andej004,32,BL>B.L*BX,DGR5/G.2-H
-com,"fan interference"
 play,1,1,pench001,00,X,9/F
 play,1,1,lee-c001,11,CBX,9/F
 play,1,1,lorem001,12,CFBX,S8/L.2-H
@@ -12383,7 +12342,6 @@ play,2,0,grosg002,11,BCX,31/G
 play,2,0,estrj001,00,X,8/F
 play,2,1,scotl001,00,,NP
 sub,vargc001,"Claudio Vargas",0,9,1
-com,"Brewers pitcher Ben Sheets left the game due to an injured leg"
 play,2,1,scotl001,01,..CX,4/P
 play,2,1,lorem001,12,CFFBX,S7/G
 play,2,1,wiggt001,22,S*B1BCS,K
@@ -12400,7 +12358,6 @@ play,4,0,dillj001,31,BBCBX,63/G
 play,4,0,braur002,01,SX,T8/F
 play,4,0,fielp001,10,BX,S7/L.3-H
 play,4,0,hartc001,31,BBC*BX,DGR7.1-3
-com,"fan interference"
 play,4,0,grosg002,30,IIII,IW
 play,4,0,estrj001,22,BFFBX,HR/9/F.3-H;2-H;1-H
 play,4,0,hardj003,00,X,E5/G

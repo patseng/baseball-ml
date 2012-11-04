@@ -221,7 +221,6 @@ play,2,0,ramia001,01,CX,63/G
 play,2,0,younk001,01,CX,7/F7
 play,2,0,mearp001,11,CBX,D7/7S
 play,2,0,wilsj002,32,SFBBBS,K
-com,"Debut game for Jack Wilson"
 play,2,1,boona001,32,CBBSBS,K
 play,2,1,reesp001,01,CX,S8
 play,2,1,laruj001,30,BBBB,W.1-2
@@ -364,7 +363,6 @@ start,reesp001,"Pokey Reese",1,7,4
 start,stink001,"Kelly Stinnett",1,8,2
 start,reitc001,"Chris Reitsma",1,9,1
 play,1,0,browa001,12,CBFX,5/P5
-com,"Debut game for Chris Reitsma"
 play,1,0,belld001,21,BFBX,63/G
 play,1,0,kendj001,10,BX,6/P6
 play,1,1,larkb001,11,CBX,S7
@@ -923,8 +921,6 @@ play,8,0,burnj001,32,BFBFBFS,K
 play,8,0,hammj001,02,CFX,D7/7D
 play,8,0,hernj001,12,BCCS,K
 play,8,1,yound001,00,X,8/L8
-com,"ej,tuckm001,P,davig901,Fan interference call"
-com,"Michael Tucker ejected by 1B umpire Gerry Davis"
 play,8,1,cases001,00,X,43/G
 play,8,1,wohlm001,00,,NP
 sub,river002,"Ruben Rivera",1,5,11
@@ -1159,8 +1155,6 @@ start,river002,"Ruben Rivera",1,6,8
 start,reesp001,"Pokey Reese",1,7,4
 start,stink001,"Kelly Stinnett",1,8,2
 start,reitc001,"Chris Reitsma",1,9,1
-com,"ej,boonb001,M,drakr901,Unknown reason"
-com,"Reds manager Bob Boone ejected by 2B umpire ROb Drake sometime in game"
 play,1,0,paytj001,11,BFX,3/P3
 play,1,0,alfoe001,02,CFFX,63/G
 play,1,0,piazm001,01,CX,63/G
@@ -2039,7 +2033,6 @@ play,8,1,castj004,32,BBCCFFBX,53/G.1-2
 play,8,1,reyed001,00,,NP
 sub,larsb001,"Brandon Larson",1,9,11
 play,8,1,larsb001,12,SBCX,3/FL
-com,"Debut game for Brandon Larson"
 play,8,1,tuckm001,01,CX,8/F8D
 play,9,0,kotsm001,00,,NP
 sub,wohlm001,"Mark Wohlers",1,9,1
@@ -2117,14 +2110,11 @@ play,1,0,hendr001,12,CCBX,S7
 play,1,0,kotsm001,00,X,8/F8
 play,1,0,klesr001,11,FBX,S/78.1-3
 play,1,0,nevip001,10,BX,D8/89.3-H;1X3(865)
-com,"$Klesko going on pitch, rounded too far, caught"
-com,"going back"
 play,1,0,davib003,11,BFX,S7.2-H
 play,1,0,tramb001,12,CCBS,K
 play,1,1,sandd001,22,BBCSH,HP
 play,1,1,yound001,22,CSBBF>X,13/G.1-2
 play,1,1,ochoa001,22,CBBSF>X,7(B)4(2)/DP/P7S
-com,"$Sanders going on pitch, could not get back"
 play,2,0,jackd003,10,BX,9/F9S
 play,2,0,mendd001,02,SFS,K
 play,2,0,willw001,00,X,6/P6
@@ -2134,12 +2124,9 @@ play,2,1,castj004,12,CBFX,63/G
 play,3,0,hendr001,11,CBX,S/78
 play,3,0,kotsm001,31,BBBCX,S9.1-3
 play,3,0,klesr001,11,BFX,46(1)/FO.3-H
-com,"ball stuck in Reese's glove, or else DP, Klesko"
-com,"just beat play at first"
 play,3,0,nevip001,00,X,64(1)3/GDP
 play,3,1,reesp001,00,,NP
 sub,magad001,"Dave Magadan",0,4,5
-com,"$Nevin pulled hamstring, out at least 2 days"
 play,3,1,reesp001,10,BX,8/F8D
 play,3,1,stink001,12,FBFX,S8
 play,3,1,bellr003,22,BLLBL,K/BF
@@ -2211,7 +2198,6 @@ play,9,0,magad001,02,CFX,1/G
 play,9,1,boona001,11,CBX,7/F7
 play,9,1,castj004,02,FFFS,K
 play,9,1,reesp001,12,CFBFX,S4
-com,"$Hoffman did not cover, Klesko tried for ball"
 play,9,1,stink001,02,FFX,7/F7
 data,er,willw001,2
 data,er,davet001,0
@@ -2881,7 +2867,6 @@ play,1,0,biggc001,31,BBBCB,W
 play,1,0,bagwj001,12,BCSC,K/C
 play,1,0,berkl001,31,BCBBB,W.1-2
 play,1,0,aloum001,01,CX,64(1)5(2)/GDP
-com,"clear this is what happened - Biggio rounded too far"
 play,1,1,larkb001,22,BBFFS,K
 play,1,1,tuckm001,12,CCBX,13/G
 play,1,1,yound001,00,X,43/G
@@ -3183,7 +3168,6 @@ start,stink001,"Kelly Stinnett",1,7,2
 start,castj004,"Juan Castro",1,8,5
 start,reitb001,"Brian Reith",1,9,1
 play,1,0,finls001,32,CBBBFX,8/F8S
-com,"Debut game for Brian Reith"
 play,1,0,bellj001,12,BCSX,63/G
 play,1,0,gonzl001,32,BBFBSX,2/FL
 play,1,1,larkb001,20,BBX,9/L9
@@ -3352,9 +3336,6 @@ play,3,1,bellr003,11,BCX,43/G
 play,3,1,sadld001,11,BSX,43/G
 play,3,1,sandd001,12,FBCH,HP
 play,3,1,ochoa001,02,FF1,POCS2(136)
-com,"2:53 rain delay; Cin Mgr Bob Boone, Coach Tim Foli, pitcher Pete"
-com,"Harnisch and 1Bman Sean Casey helped pull the tarp; Boone developed"
-com,"a blister from the task"
 play,4,0,durae001,00,,NP
 sub,browj003,"Jim Brower",1,9,1
 play,4,0,durae001,01,CX,S8
@@ -3845,7 +3826,6 @@ play,6,0,rente001,01,CX,S7/7S.1-2
 play,6,0,robik002,02,CFX,7/F7
 play,6,0,mathm001,32,BFFBFBX,E5/G.2-3;1-2
 play,6,0,kiled001,02,SFS,K
-com,"52 minute rain delay"
 play,6,0,vinaf001,00,,NP
 sub,merch002,"Hector Mercado",1,9,1
 play,6,0,vinaf001,10,BX,8/F8
@@ -4016,8 +3996,6 @@ sub,yound001,"Dmitri Young",1,2,3
 play,7,0,hundt001,00,,NP
 sub,river002,"Ruben Rivera",1,3,8
 play,7,0,hundt001,22,BSSBS,K
-com,"ej,hundt001,P,gormb901,Check swing"
-com,"Todd Hundley ejected by 3B umpire Brian Gorman"
 play,7,0,mattg002,02,CSS,K
 play,7,0,ojeda001,12,CSBX,9/F9
 play,7,1,browj003,00,,NP
@@ -4652,7 +4630,6 @@ start,stink001,"Kelly Stinnett",1,7,2
 start,reesp001,"Pokey Reese",1,8,4
 start,davil001,"Lance Davis",1,9,1
 play,1,0,pierj002,31,BSBBX,6/P6
-com,"Debut game for Lance Davis"
 play,1,0,peren001,32,BBCBFFX,S7
 play,1,0,walkl001,02,CSX,7/F7D
 play,1,0,cirij001,21,BFB1,PO1(13)
@@ -4668,8 +4645,6 @@ play,2,1,boona001,31,BBCBX,53/G
 play,2,1,river002,00,X,3/P3
 play,2,1,stink001,00,X,D/78
 play,2,1,reesp001,32,BCCBBC,K/C
-com,"ej,reesp001,P,emmep901,Called third strike"
-com,"Pokey Reese ejected by HP umpire Paul Emmel"
 play,3,0,petrb001,00,,NP
 sub,castj004,"Juan Castro",1,8,4
 play,3,0,petrb001,22,BBFCFFX,9/F9
@@ -5091,8 +5066,6 @@ play,7,0,whitd001,32,CBBSBX,D/78D
 play,7,0,hernj001,01,CX,HR/7.2-H
 play,7,0,bellr002,30,BBBB,W
 play,7,0,casar001,00,X,D8/8D.1XH(84E2)(UR)(NR);B-3
-com,"$Belliard slid hard into LaRue, knocking the ball out of his hand;"
-com,"Casanova took 3B on the play"
 play,7,0,levra001,00,,NP
 sub,echea001,"Angel Echevarria",0,9,11
 play,7,0,echea001,01,CX,9/SF.3-H(UR)
@@ -5143,7 +5116,6 @@ sub,leskc001,"Curtis Leskanic",0,9,1
 play,9,1,larkb001,00,X,43/G
 play,9,1,yound001,10,BX,S9/9S
 play,9,1,cases001,12,SFBX,64(1)3/GDP
-com,"$8th consecutive loss at home for the Reds"
 data,er,levra001,3
 data,er,dejem001,1
 data,er,kingr001,0
@@ -5199,7 +5171,6 @@ start,stink001,"Kelly Stinnett",1,7,2
 start,reesp001,"Pokey Reese",1,8,4
 start,acevj002,"Jose Acevedo",1,9,1
 play,1,0,whitd001,32,BBCCBH,HP
-com,"Debut game for Jose Acevedo"
 play,1,0,lorem001,32,CBFBFBFB,W.1-2
 play,1,0,jenkg001,01,CB,WP.2-3;1-2
 play,1,0,jenkg001,22,CBSBS,K
@@ -5608,7 +5579,6 @@ play,7,1,reesp001,32,BBBSSFFB,W
 play,7,1,wohlm001,00,,NP
 sub,clarb003,"Brady Clark",1,9,11
 play,7,1,clarb003,12,CBFX,4/P4
-com,"1:05 rain delay in the eighth"
 play,8,0,youne001,00,,NP
 sub,tuckm001,"Michael Tucker",1,7,8
 play,8,0,youne001,00,,NP
@@ -7475,7 +7445,6 @@ start,stink001,"Kelly Stinnett",1,7,2
 start,castj004,"Juan Castro",1,8,4
 start,davil001,"Lance Davis",1,9,1
 play,1,0,ceder001,01,FX,53/G
-com,"Debut game for Adam Pettyjohn"
 play,1,0,easld001,12,CCBFS,K
 play,1,0,higgb001,21,CBBX,D9
 play,1,0,clart002,32,BCBSFBB,W
@@ -7555,7 +7524,6 @@ sub,cardj001,"Javier Cardona",0,5,2
 play,8,1,ochoa001,00,,NP
 sub,blaiw001,"Willie Blair",0,3,1
 play,8,1,ochoa001,00,X,63/G
-com,"Debut game for Pedro Santana"
 play,8,1,stink001,00,X,8/F8
 play,8,1,castj004,21,BBSX,4/P4
 play,9,0,clart002,12,CFBX,53/G
@@ -7625,8 +7593,6 @@ play,2,0,encaj001,00,X,43/G.3-H;2-3
 play,2,0,macij001,00,X,S.3-3
 play,2,0,weavj002,20,BBX,14/SH.1-2
 play,2,0,ceder001,02,CCS,K
-com,"ej,ceder001,P,cousd901,Balls and strikes"
-com,"Roger Cedeno ejected by HP umpire Derryl Cousins"
 play,2,1,boona001,00,,NP
 sub,magew001,"Wendell Magee",0,1,8
 play,2,1,boona001,31,CBBBB,W
@@ -7835,8 +7801,6 @@ play,8,0,jonec004,00,X,D9/9D
 play,8,0,jordb001,02,FSS,K
 play,8,1,grifk002,00,,NP
 sub,remlm001,"Mike Remlinger",0,9,1
-com,"Remlinger was announced before rain."
-com,"Game called for rain after 1:27 delay"
 data,er,glavt001,1
 data,er,reeds001,0
 data,er,remlm001,0
@@ -8244,7 +8208,6 @@ play,7,0,johnc002,00,X,63/G
 play,7,1,reesp001,00,,NP
 sub,knotg001,"Gary Knotts",0,9,1
 play,7,1,reesp001,10,BX,5/FL
-com,"Debut game for Gary Knotts"
 play,7,1,desse001,22,CBBFX,3/G
 play,7,1,walkt002,22,CBFBX,S/78
 play,7,1,dunna001,32,BFFFFBFBX,7/F7D
@@ -9051,7 +9014,6 @@ play,6,0,littm001,00,,NP
 sub,nichc002,"Chris Nichting",1,9,1
 play,6,0,littm001,21,BFBB,SB2
 play,6,0,littm001,32,BFBBSX,E6/TH1.2-H(UR);B-2
-com,"$both E6 this inning into dugout"
 play,6,0,pierj002,12,BFFFFX,D7/7S.2-H(UR)
 play,6,0,ortij003,00,X,43/G.2-3
 play,6,0,walkl001,22,CSBBFFFX,S8/8S.3-H(UR)
@@ -9810,7 +9772,6 @@ start,reesp001,"Pokey Reese",1,7,6
 start,stink001,"Kelly Stinnett",1,8,2
 start,reyed001,"Dennys Reyes",1,9,1
 play,1,0,whitd001,22,BFBSX,53/G
-com,"Debut game for Nickolas Neugebauer"
 play,1,0,lorem001,22,CBCBX,8/F8
 play,1,0,burnj001,31,BFBBB,W
 play,1,0,sexsr001,32,BBSBFFB,W.1-2
@@ -10002,7 +9963,6 @@ play,3,1,yound001,10,BX,D7/7D.3-H;1-3
 play,3,1,cases001,00,H,HP
 play,3,1,river002,10,BX,53/G
 play,4,0,pujoa001,10,BX,HR/8
-com,"first homer over 40' centerfield wall"
 play,4,0,edmoj001,22,BCSBFS,K
 play,4,0,mcgwm001,01,FX,7/F7
 play,4,0,rente001,12,BCFX,53/G
@@ -10058,7 +10018,6 @@ play,8,1,laruj001,00,,NP
 sub,dunna001,"Adam Dunn",1,8,11
 play,8,1,dunna001,00,,NP
 sub,klins002,"Steve Kline",0,4,1
-com,"$fourth pitcher of the inning for the Cardinals"
 play,8,1,dunna001,12,BCFX,43/G
 play,9,0,mcgwm001,00,,NP
 sub,stink001,"Kelly Stinnett",1,8,2
@@ -10076,9 +10035,6 @@ play,9,1,clarb003,12,CCBX,9/L9
 play,9,1,reesp001,01,CX,S/78
 play,9,1,guerw001,00,X,E1/TH.1-3
 play,9,1,grifk002,00,X,S9/G34/INT.3-H;1-2
-com,"$Vina called for obstruction while trying to field the grounder,"
-com,"Cardinals play under protest"
-com,"Error removed on 08-21"
 play,9,1,yound001,00,,NP
 sub,castj004,"Juan Castro",1,2,12
 play,9,1,yound001,00,X,7/F7
@@ -10109,7 +10065,6 @@ play,10,1,reyed001,12,CBCX,E6/TH1.B-2
 play,10,1,reesp001,00,,NP
 sub,davil001,"Lance Davis",1,9,12
 play,10,1,reesp001,31,BCBBX,8(B)452(2)/FDP
-com,"Edmonds thought flyball was the third out and belatedly threw in"
 play,11,0,marre001,00,,NP
 sub,riedj001,"John Riedling",1,9,1
 play,11,0,marre001,00,X,8/F8
@@ -10117,8 +10072,6 @@ play,11,0,paquc001,22,SBBFFX,9/F9
 play,11,0,vinaf001,12,LFFBFFFX,13/G
 play,11,1,castj004,21,BBCX,63/G
 play,11,1,grifk002,32,CCFBBBFX,HR8/F78XDW/IPHR
-com,"IPHR"
-com,"$the ball caromed off Edmonds' foot into left field"
 data,er,willw001,1
 data,er,hackl001,0
 data,er,mattm001,0
@@ -10731,7 +10684,6 @@ play,7,1,river002,01,SX,63/G
 play,8,0,wilsc003,00,,NP
 sub,pierc001,"Chris Piersoll",1,9,1
 play,8,0,wilsc003,02,CFC,K/C
-com,"Debut game for Chris Piersoll"
 play,8,0,nunea001,10,BX,T/89D
 play,8,0,wilsj002,21,BCBX,9(B)2(3)/FDP
 play,8,1,cases001,00,,NP
@@ -11326,7 +11278,6 @@ play,3,0,berkl001,32,BBCBCFX,S.3-H(UR);2-H(UR);1-2
 play,3,0,aloum001,22,BFBSFX,4(1)/FO
 play,3,1,reesp001,11,CBX,8/F8
 play,3,1,millc001,01,CX,43/G
-com,"Debut game for Corky Miller"
 play,3,1,reyed001,02,SFFX,S8
 play,3,1,walkt002,12,FSFBX,S9.1-2
 play,3,1,dunna001,12,CFBC,K/C
@@ -11890,7 +11841,6 @@ sub,meyec001,"Chad Meyers",0,9,11
 play,8,0,meyec001,00,,NP
 sub,fernj002,"Jared Fernandez",1,5,1
 play,8,0,meyec001,11,BFH,HP
-com,"Debut game for Jared Fernandez"
 play,8,0,deshd001,02,FCC,K/C
 play,8,0,tuckm001,22,SBBCFS,K
 play,8,0,pattc001,10,BX,13/G
@@ -11906,7 +11856,6 @@ play,9,0,hundt001,10,BX,2/FL
 play,9,1,river002,00,,NP
 sub,chias002,"Scott Chiasson",0,9,1
 play,9,1,river002,12,SCBS,K
-com,"Debut game for Scott Chiasson"
 play,9,1,cromd001,32,BFSBBS,K
 play,9,1,fernj002,00,,NP
 sub,clarb003,"Brady Clark",1,5,11
@@ -12874,7 +12823,6 @@ sub,cookd001,"Dennis Cook",0,9,1
 play,8,1,grifk002,00,X,3/G
 play,8,1,dunna001,20,BBX,3/L3
 play,8,1,clarb003,32,BBSCFBFF,FLE3
-com,"definite FLE3 at exactly this point"
 play,8,1,clarb003,32,BBSCFBFFB,W
 play,8,1,jennr001,00,X,S.1-2
 play,8,1,laruj001,00,,NP
@@ -12963,7 +12911,6 @@ play,1,1,river002,02,CFS,K
 play,2,0,puntn001,32,BCFFBBFX,3/G
 play,2,0,estrj001,31,BCBBX,S7
 play,2,0,wolfr001,01,CX,123(B)6(1)/BGDP
-com,"Pitcher Davis dropped the popup."
 play,2,1,clarb003,00,X,S5/BG5
 play,2,1,laruj001,00,X,4/P4
 play,2,1,jennr001,11,CBB,SB2

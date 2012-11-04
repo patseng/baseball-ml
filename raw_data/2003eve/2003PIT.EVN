@@ -1252,7 +1252,6 @@ play,1,1,wilsj002,22,CSBFFBX,S5/G
 play,1,1,hyzda001,12,FBCX,46(1)3/GDP
 play,2,0,pattc001,00,,NP
 sub,torrs001,"Salomon Torres",1,9,1
-com,"Pirates Josh Fogg left the game due to an injured back"
 play,2,0,pattc001,00,..X,13/BG
 play,2,0,bellm002,11,BCX,31/G
 play,2,0,bakop001,10,BX,31/G+
@@ -1467,7 +1466,6 @@ play,8,0,alfoe001,00,,NP
 sub,hyzda001,"Adam Hyzdu",1,3,9
 play,8,0,alfoe001,00,,NP
 sub,younk001,"Kevin Young",1,5,3
-com,"Pirates Randall Simon left the game due to an injured head"
 play,8,0,alfoe001,21,..BBCX,S9/L
 play,8,0,aurir001,20,BBX,S8/G.1-2
 play,8,0,cruzj004,00,,NP
@@ -1916,7 +1914,6 @@ play,2,0,belta001,22,CS*BBS,K
 play,2,0,coraa001,12,CFBX,43/G
 play,2,1,younk001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,1,8
-com,"Dodgers Dave Roberts left the game due to an injured leg"
 play,2,1,younk001,12,.SBFX,53/G
 play,2,1,wilsc003,12,CFBX,D9/L
 play,2,1,reesp001,30,BBBX,3/P3F
@@ -2092,7 +2089,6 @@ play,5,0,nomoh001,22,CBFBX,43/G
 play,5,1,torrs001,12,BFLFC,K
 play,5,1,loftk001,00,,NP
 sub,mackr001,"Rob Mackowiak",1,1,11
-com,"Pirates Kenny Lofton left the game due to an injured leg"
 play,5,1,mackr001,01,.CX,7/F
 play,5,1,wilsj002,01,CX,63/G
 play,6,0,coraa001,00,,NP
@@ -2401,8 +2397,6 @@ play,4,0,cinta001,12,CCBFX,46(1)/FO/G
 play,4,1,loftk001,00,X,S8/L
 play,4,1,sandr002,02,S1FS,K
 play,4,1,kendj001,12,1B>FFF1X,5/LDP.1X1(53)
-com,"ej,mccll001,M,relic901,Call at 1B"
-com,"Pirates Manager Lloyd McClendon ejected by 1B umpire Charlie Reliford"
 play,5,0,spivj001,02,.CSC,K
 play,5,0,gonzl001,20,BBX,5/P
 play,5,0,finls001,00,X,D8/L
@@ -2740,8 +2734,6 @@ play,9,0,bautd001,00,,NP
 sub,nunea001,"Abraham Nunez",1,8,6
 play,9,0,bautd001,00,,NP
 sub,ramia001,"Aramis Ramirez",1,9,5
-com,"ej,wilsj002,P,culbf901,Call at 1B"
-com,"Pirates Jack Wilson ejected by 1B umpire Fieldin Culbreth"
 play,9,0,bautd001,22,.....FB.BCX,8/F
 play,9,0,womat001,20,BBX,5/P
 play,9,0,moelc001,00,X,1/P
@@ -3328,7 +3320,6 @@ play,2,0,berkl001,31,BBCBB,W
 play,2,0,hidar001,12,1CFBX,2/P2F
 play,2,0,vizcj001,22,1PBC1>FFX,S7/L.1-2
 play,2,0,ausmb001,31,BFBBX,4/P
-com,"Infield Fly rule"
 play,2,0,evera001,21,CBBX,8/F
 play,2,1,staim001,11,BCX,63/G
 play,2,1,wilsc003,02,SCS,K
@@ -3380,8 +3371,6 @@ play,7,0,blumg001,00,X,8/F
 play,7,0,bagwj001,11,SBX,43/G
 play,7,1,nunea001,00,,NP
 sub,stonr001,"Ricky Stone",0,9,1
-com,"Astros Roy Oswalt left the game due to an injured groin"
-com,"On 5-17 placed onto 15-day DL"
 play,7,1,nunea001,10,.BX,3/G
 play,7,1,reboj001,21,BBCX,63/G
 play,7,1,loftk001,31,BBFBX,23/BG
@@ -3741,7 +3730,6 @@ start,kendj001,"Jason Kendall",1,6,2
 start,sandr002,"Reggie Sanders",1,7,9
 start,nunea001,"Abraham Nunez",1,8,4
 start,torrs001,"Salomon Torres",1,9,1
-com,"1:20 rain delay during game"
 play,1,0,vinaf001,11,BCX,8/F
 play,1,0,drewj001,00,X,6/P
 play,1,0,pujoa001,02,CCS,K
@@ -4106,7 +4094,6 @@ play,3,0,rente001,22,BFBF1>X,7/F
 play,3,1,loftk001,32,BBBCFB,W
 play,3,1,wilsj002,31,1CPBBB,W.1-2
 play,3,1,gileb002,00,X,5/P
-com,"Infield Fly rule"
 play,3,1,ramia001,22,FFBFBX,S8/L.2-H;1-2
 play,3,1,simor001,11,BCX,D7/F.2-H;1-3
 play,3,1,kendj001,12,BCFX,FC5/G.3XH(5)
@@ -4125,9 +4112,6 @@ play,5,0,roles001,01,CX,HR/7/F.2-H;1-H
 play,5,0,rente001,12,CFBX,53/G
 play,5,1,wilsj002,00,,NP
 sub,cairm001,"Miguel Cairo",0,1,4
-com,"Cardinals Fernando Vina left the game due to an injured leg"
-com,"Complete tear of hamstring tendon, surgery on May 30,"
-com,"returned from DL 8-29-2003"
 play,5,1,wilsj002,00,..X,9/F
 play,5,1,gileb002,00,H,HP
 play,5,1,ramia001,22,*BFBSX,S7/L.1-2
@@ -5490,11 +5474,6 @@ play,7,1,gileb002,00,,NP
 sub,riskd001,"David Riske",0,3,1
 play,7,1,gileb002,00,,NP
 sub,lawtm002,"Matt Lawton",0,9,9
-com,"ej,boydj001,P,demud901,Balls and strikes"
-com,"$as Jason Boyd left the field, he suddenly changed direction"
-com,"and confronted HP umpire Dana DeMuth, bumping him slightly"
-com,"and yelling at him as DeMuth backpedaled; Boyd was"
-com,"ejected, suspended and fined"
 play,7,1,gileb002,10,...BX,S8/L.3-H;1-2
 play,7,1,ramia001,02,CSS,K
 play,8,0,bardj001,11,CBX,S8/G
@@ -5504,7 +5483,6 @@ play,8,0,lawtm002,11,BSX,23/G-
 play,8,1,sandr002,00,X,HR/7/F
 play,8,1,younk001,32,SBFBBB,W
 play,8,1,beimj001,10,BX,34/BG.1-1
-com,"Not at all clear why there is no advance"
 play,8,1,reboj001,11,11P+1>F>X,S9/G.1-2
 play,8,1,nunea001,02,CSS,K
 play,8,1,loftk001,11,FBX,8/F
@@ -5716,7 +5694,6 @@ play,6,1,hyzda001,32,CBBFBX,S5/G
 play,6,1,beimj001,00,,NP
 sub,rivec001,"Carlos Rivera",1,9,11
 play,6,1,rivec001,00,.X,D7/F.1-H
-com,"Debut game for Carlos Rivera"
 play,6,1,wilsj002,10,BX,13/BG.2-3
 play,6,1,reboj001,12,CBCX,6/L
 play,6,1,gileb002,22,BCBSC,K
@@ -5813,7 +5790,6 @@ start,foggj001,"Josh Fogg",1,9,1
 play,1,0,uribj002,11,CBX,S8/G
 play,1,0,bellr002,02,CMX,S8/L.1-2
 play,1,0,heltt001,31,FBBBX,6/P
-com,"Infield Fly rule"
 play,1,0,wilsp002,22,BBCFS,K
 play,1,0,walkl001,21,BCBX,143/G
 play,1,1,loftk001,22,CCBFFBX,43/G
@@ -5872,7 +5848,6 @@ play,6,0,uribj002,22,*BFF1B.S,K
 play,6,1,wilsj002,00,,NP
 sub,millm002,"Matt Miller",0,9,1
 play,6,1,wilsj002,12,.BCFX,7/F
-com,"Debut game for Matt Miller"
 play,6,1,reboj001,32,BBCBCX,S9/G
 play,6,1,torrs001,00,,NP
 sub,younk001,"Kevin Young",1,9,11
@@ -6353,7 +6328,6 @@ sub,taylr001,"Reggie Taylor",0,9,11
 play,8,0,taylr001,00,.X,16(1)/FO/BG
 play,8,0,larkb001,00,,NP
 sub,hyzda001,"Adam Hyzdu",1,1,8
-com,"Pirates Kenny Lofton left the game due to an injured leg"
 play,8,0,larkb001,22,..BFBFFFFFC,K
 play,8,0,guilj001,31,BFBBX,HR/78/F.1-H
 play,8,0,grifk002,10,BX,D8/L
@@ -6379,7 +6353,6 @@ play,9,0,olmer001,12,CSBFFX,S8/G.2-H;B-2(TH)
 play,9,0,sulls001,00,,NP
 sub,smits001,"Stephen Smitherman",0,9,11
 play,9,0,smits001,01,.FX,8/L
-com,"Debut game for Stephen Smitherman"
 play,9,0,larkb001,11,BFX,7!/F
 play,9,1,wilsj002,00,,NP
 sub,wills002,"Scott Williamson",0,9,1
@@ -6490,7 +6463,6 @@ play,6,1,reboj001,00,X,E6/G
 play,6,1,gileb002,32,BFBT*BFX,D8/L.1-H(UR)
 play,6,1,staim001,31,BF*BBB,W
 play,6,1,ramia001,20,BBX,4/P
-com,"Infield Fly rule"
 play,6,1,sandr002,30,BBBB,W.2-3;1-2
 play,6,1,wilsc003,11,BFX,64(1)3/GDP
 play,7,0,boona001,12,SSBS,K
@@ -6512,8 +6484,6 @@ play,8,0,guilj001,11,BSX,D8/F
 play,8,0,grifk002,22,CFBFBX,8/F-
 play,8,0,dunna001,32,BBCBFB,W
 play,8,0,boona001,12,*BSFC,K
-com,"ej,boona001,P,klemj901,Called third strike"
-com,"Reds Aaron Boone ejected by HP umpire Justin Klemm"
 play,8,1,reboj001,00,,NP
 sub,castj004,"Juan Castro",0,5,5
 play,8,1,reboj001,12,..BCLS,K
@@ -6755,7 +6725,6 @@ start,wilsc003,"Craig Wilson",1,6,3
 start,hyzda001,"Adam Hyzdu",1,7,8
 start,wilsj002,"Jack Wilson",1,8,6
 start,bensk001,"Kris Benson",1,9,1
-com,"1:12 delay during game"
 play,1,0,huntb002,12,CFBC,K
 play,1,0,blumg001,01,FX,S9/F
 play,1,0,bagwj001,10,BX,4/P
@@ -6806,8 +6775,6 @@ play,6,1,sandr002,21,BCBX,S7/G.1-2
 play,6,1,wilsc003,02,SCS,K
 play,6,1,hyzda001,30,BBB,NP
 sub,puffb001,"Brandon Puffer",0,9,1
-com,"Huge rain after Puffer announced, but before he"
-com,"threw a pitch.  Delay of 72 minutes"
 play,6,1,hyzda001,30,BB,NP
 sub,staim001,"Matt Stairs",1,7,11
 play,6,1,staim001,30,BBB..B,W+WP.2-H;1-3
@@ -7415,7 +7382,6 @@ play,6,0,sexsr001,02,CFFX,5!3/G-
 play,6,0,vandj001,32,CSBBBS,K
 play,6,1,hyzda001,00,,NP
 sub,clarb003,"Brady Clark",0,3,7
-com,"Brewers Geoff Jenkins left the game due to an injured back"
 play,6,1,hyzda001,12,..SFBC,K
 play,6,1,reboj001,30,BBBB,W
 play,6,1,suppj001,01,TX,34/SH/BG.1-2
@@ -8278,7 +8244,6 @@ play,2,0,nevip001,21,FBBX,S8/L
 play,2,0,whitr001,22,CFBF*BX,S7/G.1-2
 play,2,0,burrs001,02,CFFFX,S9/L.2-3;1-2
 play,2,0,ojedm001,32,F*BFBFBX,3/P
-com,"Infield Fly rule"
 play,2,0,lawrb001,02,SSFX,S9/G.3-H;2-H;1-2
 play,2,0,vazqr001,00,X,9/F
 play,2,1,staim001,22,CBCBS,K
@@ -8461,7 +8426,6 @@ sub,mannj001,"Jim Mann",1,9,1
 play,6,0,vazqr001,00,.X,S8/G
 play,6,0,burrs001,31,B1PBC>B,W.1-2
 play,6,0,lorem001,20,BBX,5/P
-com,"Infield Fly rule"
 play,6,0,nevip001,02,SSX,S7/G.2-H;1-3
 play,6,0,klesr001,11,BCX,8/F
 play,6,0,whitr001,22,FBBFC,K
@@ -8642,7 +8606,6 @@ play,6,0,stync001,00,,NP
 sub,wilsc003,"Craig Wilson",1,4,3
 play,6,0,stync001,00,,NP
 sub,mannj001,"Jim Mann",1,9,1
-com,"Pirates Matt Stairs left the game due to an injured leg"
 play,6,0,stync001,20,..BBX,E5/G.B-2
 play,6,0,johnc002,22,BCSBFX,HR/7/F.2-H(UR)
 play,6,0,cooka002,12,FBFX,8/F
@@ -8891,7 +8854,6 @@ play,1,0,wilsp002,11,FBX,S5/G.1-2
 play,1,0,paytj001,12,CBFFX,HR/89/F.2-H;1-H
 play,1,0,reyer001,12,CCFFFFFBX,D9/L
 play,1,0,atkig001,10,BX,D7/G.2-H
-com,"Debut game for Garrett Atkins"
 play,1,0,estab001,02,CFS,K
 play,1,0,olivd001,02,CSX,63/G
 play,1,1,redmt001,01,CX,S8/F
@@ -9131,7 +9093,6 @@ play,7,0,pujoa001,10,*BX,3/P3F
 play,7,0,edmoj001,00,,NP
 sub,gonzm001,"Mike Gonzalez",1,9,1
 play,7,0,edmoj001,32,.C1B*BBSB,W.1-2
-com,"Debut game for Mike Gonzalez"
 play,7,0,roles001,01,CX,8/F
 play,7,1,kendj001,30,BBBB,W
 play,7,1,gileb002,11,CBX,T8/F.1-H
@@ -9430,9 +9391,6 @@ play,2,1,hernj001,32,BBBCFX,63/G
 play,2,1,wilsj002,22,BSFFBFS,K
 play,2,1,reboj001,11,CBX,D7/G
 play,2,1,meadb001,12,FBFS,K
-com,"umpchange,3,ump2b,(None)"
-com,"$2B umpire Guccione left the game because of"
-com,"dehydration"
 play,3,0,rente001,00,X,63/G
 play,3,0,mathm001,01,CX,9/F
 play,3,0,fassj001,02,CFX,43/G
@@ -9603,8 +9561,6 @@ play,3,1,nunea001,11,CBX,3/P
 play,3,1,reboj001,32,BCCBBX,8/F
 play,3,1,damij001,02,FSC,K
 play,4,0,martt002,01,FX,S8/L-
-com,"ej,mccll001,M,coope901,Balls and strikes"
-com,"Pirates Manager Lloyd McClendon ejected by HP umpire Eric Cooper"
 play,4,0,rente001,10,1B.1X,S7/G.1-2
 play,4,0,widgc001,12,BCFX,64(1)3/GDP.2-3
 play,4,0,stepg001,32,C*BCBBX,S8/G.3-H
@@ -10071,8 +10027,6 @@ play,4,0,youne001,12,BCCX,S9/L
 play,4,0,podss001,00,11X,S3?/BG.1-2
 play,4,0,jenkg001,21,BBSX,S9/L.2-H;1-2
 play,4,0,sexsr001,11,SBX,54(1)3/GDP.2-3
-com,"ej,yoste001,M,holbs901,Call at 1B"
-com,"Brewers Manager Ned Yost ejected by 1B umpire Sam Holbrook"
 play,4,0,clarb003,32,CBBFBFC,K
 play,4,1,redmt001,01,CX,4/P
 play,4,1,gileb002,02,FFX,S8/L-
@@ -10080,7 +10034,6 @@ play,4,1,sandr002,01,CX,HR/8/F.1-H
 play,4,1,wilsc003,12,SBSX,S7/G
 play,4,1,hernj001,31,BS*BBB,W.1-2
 play,4,1,wilsj002,32,CBSFBBX,4/P
-com,"Infield Fly rule"
 play,4,1,reboj001,20,BBX,6/P
 play,5,0,gintk001,01,CX,4/P
 play,5,0,osikk001,00,X,3/G
@@ -10195,7 +10148,6 @@ play,1,1,redmt001,11,BCX,8/F
 play,1,1,wilsj002,11,FBX,S7/L
 play,1,1,kendj001,21,BCB111X,S9/L.1-2
 play,1,1,sandr002,10,BX,3/P
-com,"Infield Fly rule"
 play,1,1,wilsc003,32,FFFBBFBX,S8/G.2-H;1-3
 play,1,1,hernj001,02,FFX,3/P3F
 play,2,0,encaj001,11,CBX,63/G
@@ -10627,7 +10579,6 @@ start,bay-j001,"Jason Bay",1,6,7
 start,hernj001,"Jose Hernandez",1,7,5
 start,mackr001,"Rob Mackowiak",1,8,4
 start,torrs001,"Salomon Torres",1,9,1
-com,"1:16 delay during game"
 play,1,0,furcr001,20,BBX,S8/G
 play,1,0,gilem001,11,BFX,S9/G.1-3
 play,1,0,shefg001,10,BX,S7/G.3-H;1-2
@@ -10812,7 +10763,6 @@ play,3,0,gilem001,32,BBF1B1F>B,W.1-2
 play,3,0,shefg001,02,CSFX,S8/G.2-H;1-3
 play,3,0,jonec004,32,BBFFFBB,W.1-2
 play,3,0,jonea002,00,X,4/P
-com,"Infield Fly rule"
 play,3,0,lopej001,11,*BFX,D9/F.3-H;2-H;1-3
 play,3,0,derom001,00,X,D8/L.3-H;2-H
 play,3,0,hessm001,00,,NP
@@ -11438,7 +11388,6 @@ play,2,0,thomj002,11,BFX,D9/L.2-H;1-H
 play,2,0,leder001,00,,NP
 sub,grabj002,"John Grabow",1,9,1
 play,2,0,leder001,21,.FBBX,S8/G.2-H
-com,"Debut game for John Grabow"
 play,2,0,pratt001,22,CBBCFX,S8/L.1-3
 play,2,0,utlec001,31,BFBBX,S9/G.3-H;1-2
 play,2,0,puntn001,32,B*BBCSX,9/F
@@ -11821,9 +11770,6 @@ play,7,1,wilsc003,00,,NP
 sub,riedj001,"John Riedling",0,9,1
 play,7,1,wilsc003,32,.CBCBBX,S7/G+
 play,7,1,mackr001,21,BFBX,T9/F.1-H
-com,"ej,miled801,M,coope901,Call at HP"
-com,"Reds Manager Dave Miley ejected by HP umpire Eric Cooper"
-com,"for arguing the call on Jack Wilson at HP"
 play,7,1,wilsj002,10,.BX,S7/G.3-H
 play,7,1,lincm001,00,,NP
 sub,nortp001,"Phil Norton",0,9,1
@@ -11958,7 +11904,6 @@ play,3,0,olmer001,10,BX,43/G
 play,3,1,kendj001,11,BCX,S9/G
 play,3,1,bay-j001,01,CX,E6/G.1-2
 play,3,1,staim001,21,BFBX,5/P
-com,"Infield Fly rule"
 play,3,1,wilsc003,22,FBFBFFFX,54(1)/FO/G.2-3
 play,3,1,hernj001,02,SFS,K
 play,4,0,jimed001,11,BCX,9/F
@@ -12152,7 +12097,6 @@ play,7,0,castj004,12,BCFS,K
 play,7,0,jimed001,32,BCFB*BFB,W
 play,7,0,branr001,32,BBTBFB,W.1-2
 play,7,0,penaw001,00,X,6/P
-com,"Infield Fly rule"
 play,7,0,stend001,22,C*BBFX,64(1)/FO/G
 play,7,1,wilsj002,22,CBBFT,K
 play,7,1,wellk001,00,,NP
@@ -12610,8 +12554,6 @@ play,2,0,aloum001,11,BFX,53/G
 play,2,0,simor001,11,CBX,43/G
 play,2,0,ramia001,22,CBFBX,43/G
 play,2,1,bay-j001,32,BCBCBC,K
-com,"ej,perrg001,C,brinj901,Balls and strikes"
-com,"Pirates Coach Gerald Perry ejected by HP umpire Joe Brinkman"
 play,2,1,rivec001,12,CCB.S,K
 play,2,1,nunea001,02,CFS,K
 play,3,0,gonza001,12,BCCX,9/F
@@ -12689,7 +12631,6 @@ play,8,1,davij004,00,,NP
 sub,choih001,"Hee Seop Choi",0,7,3
 play,8,1,davij004,12,..CBCX,63/G
 play,8,1,redmt001,11,BCX,D9
-com,"originally scored E4/G.B-2"
 play,8,1,wilsj002,11,FBX,63/G-.2-3
 play,8,1,kendj001,21,BCBX,63/G
 play,9,0,choih001,00,,NP

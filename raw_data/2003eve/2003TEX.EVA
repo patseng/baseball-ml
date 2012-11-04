@@ -754,8 +754,6 @@ play,8,0,singc001,10,B1X,S9/G.1-2
 play,8,0,ellim001,10,BX,64(1)/FO/G.2-3
 play,8,0,hatts001,10,BX,HR/F9.3-H;1-H
 play,8,0,tejam001,00,H,HP
-com,"ej,garcr003,P,buckc901,Intentional HBP"
-com,"Reynaldo Garcia ejected by HP umpire CB Bucknor"
 play,8,0,chave001,00,,NP
 sub,powej001,"Jay Powell",1,0,1
 play,8,0,chave001,32,..BCBCFBS,K
@@ -779,7 +777,6 @@ sub,piata001,"Adam Piatt",0,5,9
 play,9,1,gland001,00,,NP
 sub,neu-m001,"Michael Neu",0,0,1
 play,9,1,gland001,12,...CBFS,K
-com,"Debut game for Michael Neu"
 play,9,1,everc001,00,,NP
 sub,clarj003,"Jermaine Clark",1,2,11
 play,9,1,clarj003,11,.BCX,53/G
@@ -1053,7 +1050,6 @@ play,7,1,gland001,32,>S.BF*BBFFFX,143/G.2-3
 play,7,1,blalh001,22,BSBFX,1/G
 play,8,0,molib001,00,,NP
 sub,clarj003,"Jermaine Clark",1,1,8
-com,"Rangers Doug Glanville left the game due to an injured leg"
 play,8,0,molib001,21,..BBCX,S8/L
 play,8,0,figgc001,00,,NP
 sub,owene001,"Eric Owens",0,9,11
@@ -1463,12 +1459,9 @@ play,4,1,menck001,30,BBBB,W.2-3;1-2
 play,4,1,chrir001,11,BCX,S8/L.3-H;2-H;1-2
 play,4,1,diaze002,22,CFBBC,K
 play,5,0,salmt001,32,CCBBFBC,K
-com,"ej,sciom001,M,gibsg901,Called third strike"
-com,"Angels Manager Mike Scioscia ejected by HP umpire Greg Gibson"
 play,5,0,andeg001,11,.BFX,S9/L
 play,5,0,fullb001,20,BBX,S9/G.1-2
 play,5,0,glaut001,22,CBCBX,4/P
-com,"Infield fly rule"
 play,5,0,spies001,00,B,WP.2-3;1-2
 play,5,0,spies001,30,B.III,IW
 play,5,0,gil-b001,12,MSBS,K
@@ -1735,7 +1728,6 @@ start,teixm001,"Mark Teixeira",1,7,10
 start,younm003,"Michael Young",1,8,4
 start,diaze002,"Einar Diaz",1,9,2
 start,thomj005,"John Thomson",1,0,1
-com,"1:24 delay during game"
 play,1,0,damoj001,01,CX,D9/G
 play,1,0,walkt002,00,X,7/F
 play,1,0,garcn001,10,BX,63/G
@@ -3110,7 +3102,6 @@ play,8,1,gonzj002,00,,NP
 sub,riskd001,"David Riske",0,0,1
 play,8,1,gonzj002,12,.CFFFFBFFS,K
 play,8,1,lambm001,21,CBBX,5/P
-com,"Infield Fly rule"
 play,8,1,chrir001,20,BBX,6/P
 play,9,0,spens001,00,,NP
 sub,sadld001,"Donnie Sadler",1,3,6
@@ -4392,8 +4383,6 @@ play,7,1,younm003,20,BBX,S8/G.3-H(UR);1-2
 play,7,1,everc001,02,CSS,K23
 play,8,0,gibbj002,00,,NP
 sub,fulta001,"Aaron Fultz",1,0,1
-com,"ej,smits801,C,tscht901,Fair/foul call"
-com,"Rangers Coach Steve Smith ejected by HP umpire Tim Tschida"
 play,8,0,gibbj002,10,..BX,31/G
 play,8,0,batit001,22,CBBFX,S7/G
 play,8,0,matol001,32,CFBBB>S,K+CS2(24)/DP
@@ -4498,7 +4487,6 @@ play,2,1,gland001,32,BBSFBFFF*B,W
 play,2,1,everc001,00,X,S8/L.2-H;1-3
 play,2,1,blalh001,12,CS1*B1FX,3/G/DP.3XH(3252)
 play,3,0,reyej001,01,CX,S9/L
-com,"Debut game for Jose Reyes"
 play,3,0,ceder001,11,1BFX,D8/L.1-H
 play,3,0,peret004,10,BX,E1/TH/SH/BG.2-H(NR);B-1
 play,3,0,alomr001,02,1CFFFX,S9/G.1-3;B-2(TH)
@@ -4656,7 +4644,6 @@ play,3,1,everc001,00,X,9/F
 play,3,1,blalh001,31,CBBBB,W
 play,3,1,rodra001,01,F1X,S7/G.1-2
 play,3,1,palmr001,02,CFX,5/P
-com,"Infield Fly rule"
 play,3,1,teixm001,12,SSFBS,K
 play,4,0,alomr001,21,BFBX,D9/L
 play,4,0,floyc001,12,CFBS,K
@@ -4938,7 +4925,6 @@ start,greet003,"Todd Greene",1,8,2
 start,gland001,"Doug Glanville",1,9,8
 start,mount001,"Tony Mounce",1,0,1
 play,1,0,pierj002,01,CX,S8/G
-com,"Debut game for Tony Mounce"
 play,1,0,castl001,10,BX,S7/G.1-2
 play,1,0,rodri001,02,2CSS,K
 play,1,0,lowem001,32,CC2F*BB2*B>F>S,K+SB3
@@ -5570,7 +5556,6 @@ start,diaze002,"Einar Diaz",1,8,2
 start,gland001,"Doug Glanville",1,9,8
 start,valdi001,"Ismael Valdes",1,0,1
 play,1,0,biggc001,00,X,HR/7/F
-com,"Debut game for Rodrigo Rosario"
 play,1,0,vizcj001,12,CCFBX,8/F
 play,1,0,bagwj001,01,SX,8/F
 play,1,0,berkl001,22,CBCBFC,K
@@ -5935,7 +5920,6 @@ play,6,1,younm003,31,.BBCBB,W
 play,6,1,everc001,11,L11BX,S1/BG.1-2
 play,6,1,rodra001,32,BFBFBB,W.2-3;1-2
 play,6,1,gonzj002,11,CBX,4/P
-com,"Infield Fly rule"
 play,6,1,palmr001,32,BBBCFB,W.3-H;2-3;1-2
 play,6,1,teixm001,32,CBBBFFFX,6/LDP.2X2(64)
 play,7,0,byrne001,21,BCBX,8/F
@@ -7259,7 +7243,6 @@ play,2,0,lecrm001,22,BSFBS,K
 play,2,0,kielb001,12,BCSS,K
 play,2,1,ludwr001,01,CX,2/P2F
 play,2,1,nix-l001,10,BX,3/L+
-com,"Debut game for Laynce Nix"
 play,2,1,diaze002,01,CX,8/F
 play,3,0,mohrd001,02,CSS,K
 play,3,0,rival001,21,CBBX,63/G
@@ -7803,7 +7786,6 @@ play,8,1,gonzj002,12,...BSSX,S7/L
 play,8,1,teixm001,01,FX,S7/L.1-2
 play,8,1,greet003,02,SSS,K
 play,8,1,ludwr001,21,BCBX,4/P
-com,"Infield Fly rule"
 play,8,1,sadld001,00,,NP
 sub,blalh001,"Hank Blalock",1,9,11
 play,8,1,blalh001,22,.SFBBX,13/G
@@ -7895,12 +7877,10 @@ play,1,1,rodra001,31,BBBFX,HR/7/L.2-H
 play,1,1,spens001,00,X,D7/G
 play,1,1,teixm001,11,CBX,7/L
 play,1,1,jonej004,32,C*BBSBFFX,7/L
-com,"Debut game for Jason Jones"
 play,2,0,erstd001,30,BBBB,W
 play,2,0,salmt001,00,X,9/F+
 play,2,0,andeg001,12,FB1SX,S9/G.1-2
 play,2,0,spies001,32,CBCBFB>X,6/P
-com,"Infield Fly rule"
 play,2,0,woots001,11,FBX,7/F
 play,2,1,greet003,01,SX,S6/G
 play,2,1,thamm001,31,BFBBB,W.1-2
@@ -8253,7 +8233,6 @@ play,5,0,ortid001,22,BBCSFX,9/F.2-3
 play,5,0,millk005,02,FFS,K
 play,5,1,rodra001,00,,NP
 sub,kaplg001,"Gabe Kapler",0,4,7
-com,"Red Sox Manny Ramirez left the game due to an injured leg"
 play,5,1,rodra001,11,.BCX,3/G-
 play,5,1,palmr001,32,BTBSBX,3/P3F
 badj,teixm001,R
@@ -8295,8 +8274,6 @@ sub,powej001,"Jay Powell",1,0,1
 play,8,0,millk005,12,.FFBX,S7/L.1-2
 play,8,0,nixot001,31,B*BCBB,W.2-3;1-2
 play,8,0,muelb001,01,TX,HR/89/F.3-H;2-H;1-H
-com,"$Mueller switch-hit grand slams in game"
-com,"(first time in history)"
 play,8,0,mirad001,22,CBSBC,K
 play,8,1,palmr001,00,,NP
 sub,jackd003,"Damian Jackson",0,3,6
@@ -8479,7 +8456,6 @@ sub,sadld001,"Donnie Sadler",1,9,7
 play,9,0,ramim002,00,,NP
 sub,cordf002,"Francisco Cordero",1,0,1
 play,9,0,ramim002,32,...CBBFBX,S7/G+
-com,"Debut game for Ramon Nivar"
 play,9,0,ortid001,12,SBFX,46(1)3/GDP
 play,9,0,millk005,32,BCBBCB,W
 play,9,0,nixot001,32,BBCSBB,W.1-2
@@ -9112,7 +9088,6 @@ play,8,0,blakc001,00,,NP
 sub,sadld001,"Donnie Sadler",1,7,7
 play,8,0,blakc001,00,,NP
 sub,garcr004,"Rosman Garcia",1,0,1
-com,"Rangers Marcus Thames left the game due to an injured elbow"
 play,8,0,blakc001,32,....CFBBBX,HR/8/F
 play,8,0,bradm001,00,X,S7/G
 play,8,0,broub001,00,,NP
@@ -9206,7 +9181,6 @@ play,1,1,teixm001,22,BB1SFS,K
 play,1,1,thamm001,31,S1BBB1X,5/P
 play,2,0,yound001,12,CFBFFX,8/F
 play,2,0,penac001,20,BBX,53/G-
-com,"1:51 rain delay"
 play,2,0,monrc001,00,,NP
 sub,benoj001,"Joaquin Benoit",1,0,1
 play,2,0,monrc001,01,.FX,7/F
@@ -9335,7 +9309,6 @@ start,diaze002,"Einar Diaz",1,8,2
 start,nivar001,"Ramon Nivar",1,9,8
 start,domij001,"Juan Dominguez",1,0,1
 play,1,0,sanca003,22,CFBBFC,K
-com,"Debut game for Juan Dominguez"
 play,1,0,morrw001,12,CSFBX,S8/L
 play,1,0,higgb001,12,CSBX,8/F
 play,1,0,wittk001,12,CSBS,K
@@ -9474,7 +9447,6 @@ start,blalh001,"Hank Blalock",1,7,5
 start,diaze002,"Einar Diaz",1,8,2
 start,sadld001,"Donnie Sadler",1,9,8
 start,dickr001,"R.A. Dickey",1,0,1
-com,"27 minute delay during game"
 play,1,0,sanca003,10,BX,7/F
 play,1,0,morrw001,02,CFS,K
 play,1,0,higgb001,22,BBCSX,7/F
@@ -9772,8 +9744,6 @@ play,3,0,olivm001,02,STS,K
 play,3,0,alomr001,12,CCF*BFC,K
 play,3,1,diaze002,00,,NP
 sub,graft001,"Tony Graffanino",0,1,4
-com,"ej,alomr001,P,cuzzp901,Called third strike"
-com,"White Sox Roberto Alomar ejected by HP umpire Phil Cuzzi"
 play,3,1,diaze002,01,..CX,9/F
 play,3,1,nivar001,32,BBSFBB,W
 play,3,1,younm003,00,>S,SB2
@@ -10080,8 +10050,6 @@ play,4,0,valej003,22,FBSFBX,D9/L.3-H;1-3
 play,4,0,credj001,20,BBX,53/G.3-H;2-3
 play,4,0,aloms001,02,FSX,3/P3F
 play,4,1,jonej004,00,,NP
-com,"ej,smits801,C,iassd901,Call at 3B"
-com,"Rangers Coach Steve Smith ejected by 3B umpire Dan Iassogna"
 play,4,1,jonej004,22,.FCBFBX,4/P
 play,4,1,thamm001,11,BSX,3/P3F
 play,4,1,diaze002,01,CX,43/G
@@ -10344,7 +10312,6 @@ start,sadld001,"Donnie Sadler",1,7,5
 start,diaze002,"Einar Diaz",1,8,2
 start,nivar001,"Ramon Nivar",1,9,8
 start,callm001,"Mickey Callaway",1,0,1
-com,"1:26 delay during game"
 play,1,0,stews002,31,CBBBX,9/F
 play,1,0,rival001,22,BFCFBS,K
 play,1,0,miend001,02,LFH,HP
@@ -10511,7 +10478,6 @@ play,3,1,blalh001,31,BBCBX,S8/G
 play,3,1,rodra001,02,CCX,S8/G.1-2
 play,3,1,palmr001,31,BSBBB,W.2-3;1-2
 play,3,1,teixm001,00,X,4/P
-com,"Infield Fly rule"
 play,3,1,nix-l001,00,X,S9/G.3-H;2-3;1-2
 play,3,1,jonej004,00,,NP
 sub,pulic001,"Carlos Pulido",0,0,1
@@ -10717,7 +10683,6 @@ play,6,1,chrir001,12,CCBFS,K
 play,6,1,rodra001,32,BBFFBFB,W
 play,6,1,palmr001,20,BBX,E3/G.1-2
 play,6,1,spens001,20,BBX,4/P
-com,"Infield Fly rule"
 play,6,1,teixm001,32,FBSBB+1X,D7/F.2-H(UR);1XH(762)
 play,7,0,sweem002,20,BBX,9/F
 play,7,0,beltc001,32,BBFCFBX,3/G
@@ -10899,7 +10864,6 @@ play,8,1,rodra001,00,,NP
 sub,dejed001,"David DeJesus",0,4,8
 play,8,1,rodra001,00,,NP
 sub,fieln001,"Nate Field",0,0,1
-com,"Debut game for David DeJesus"
 play,8,1,rodra001,32,.CBBFBB,W
 play,8,1,palmr001,22,CCBBC,K
 play,8,1,teixm001,10,BX,7/F
@@ -12028,7 +11992,6 @@ start,spens001,"Shane Spencer",1,7,9
 start,greet003,"Todd Greene",1,8,2
 start,clarj003,"Jermaine Clark",1,9,7
 start,benoj001,"Joaquin Benoit",1,0,1
-com,"1:40 delay during game"
 play,1,0,suzui001,22,FCBBFS,K
 play,1,0,guilc001,02,CCX,7!/F
 play,1,0,boonb002,20,BBX,7/F

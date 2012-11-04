@@ -49,7 +49,6 @@ play,1,0,damoj001,20,BBX,43/G
 play,1,0,ortij003,32,CCBBBX,8/F8
 play,1,0,giamj001,00,X,13/G
 play,1,1,suzui001,10,BX,43/G
-com,"Debut game for Ichiro Suzuki"
 play,1,1,camem001,32,BSCBBFFFB,W
 play,1,1,marte001,01,SX,S7.1-2
 play,1,1,olerj001,02,SCX,8/L8
@@ -266,7 +265,6 @@ play,7,0,saeno001,12,CBSX,8/F8
 play,7,1,boonb002,20,BBX,63/G
 play,7,1,sanda001,32,BBFBSFB,W
 play,7,1,belld002,31,BFBBB,W.1-2
-com,Sanders hit by Wilson's batted ball.
 play,7,1,wilsd001,01,CX,S.2X3(6);1-2
 play,7,1,guilc001,11,BFX,8/F8
 play,8,0,chave001,00,,NP
@@ -401,9 +399,6 @@ play,5,1,suzui001,31,BBBCX,63/G
 play,5,1,camem001,00,X,4/P4
 play,5,1,marte001,10,BX,D9/9D
 play,5,1,olerj001,30,IIII,IW
-com,"ej,perrg001,C,danlk901,Balls and strikes (from bench)"
-com,"Seattle coach Gerald Perry ejected by HP umpire Kerwin Danley"
-com,"for arguing balls and strikes from bench"
 play,5,1,boonb002,12,CBCS,K
 play,6,0,longt002,11,FBX,7/F7
 play,6,0,giamj002,32,FBBBFX,9/F9
@@ -667,9 +662,6 @@ start,lampt001,"Tom Lampkin",1,7,2
 start,guilc001,"Carlos Guillen",1,8,6
 start,mclem001,"Mark McLemore",1,9,5
 start,moyej001,"Jamie Moyer",1,0,1
-com,"ej,oatej101,M,morrd901,Balls and strikes"
-com,"Rangers manager Johnny Oates ejected by HP umpire Dan"
-com,"Morrison sometime during game for arguing balls and strikes"
 play,1,0,greer001,00,X,5/P5
 play,1,0,velar001,32,BFBSBX,7/F7
 play,1,0,rodra001,01,CX,8/F8
@@ -861,8 +853,6 @@ play,4,1,boonb002,22,CBBCX,S8.1-2
 play,4,1,sanda001,22,CBBFC,K/C
 play,4,1,belld002,32,BFBBCX,S9.2-3;1-2
 play,4,1,wilsd001,11,FBX,S7/F7DW.3-H;2-3;1X3(7652);B-2(THH)
-com,"$Boone would have scored, but misread sign, went back"
-com,"to third, where Bell had arrived. Ball hit top of wall"
 play,4,1,gipsc001,12,CBFS,K
 play,5,0,galaa001,01,SX,D8
 play,5,0,camik001,00,X,D8/F8XDW.2-H
@@ -2606,8 +2596,6 @@ play,2,1,lampt001,00,X,3/P3
 play,2,1,guilc001,11,CBX,S/78.3-H;2-H
 play,2,1,suzui001,32,BCBBFX,D/78.1-H
 play,2,1,mclem001,32,CBBCBFC,K/C
-com,"ej,mclem001,P,relic901,Called third strike"
-com,"Mark McLemore ejected by HP umpire Charlie Reliford"
 play,3,0,durhr001,00,,NP
 sub,belld002,"David Bell",1,2,5
 play,3,0,durhr001,22,BSBCX,43/G
@@ -3030,8 +3018,6 @@ start,moyej001,"Jamie Moyer",1,0,1
 play,1,0,knobc001,11,CBX,6/L6
 play,1,0,jeted001,21,BFBX,63/G
 play,1,0,oneip001,00,X,7/F7S
-com,"$Martin and Guillen collided, Martin left with"
-com,"mild concussion"
 play,1,1,suzui001,12,CFBX,63/G
 play,1,1,mclem001,12,CBFX,63/G
 play,1,1,marte001,00,X,8/F8
@@ -3217,8 +3203,6 @@ play,4,0,justd001,01,CX,43/G
 play,4,0,posaj001,00,X,S9
 play,4,0,bross001,11,BFX,S9/9S.1-2
 play,4,0,soria001,00,X,86(2)6(1)/GDP
-com,"$Cameron dropped fly ball, threw to Guillen who tagged"
-com,"Posada, then touched second to force Brosius"
 play,4,1,guilc001,01,FX,S8
 play,4,1,suzui001,00,X,7/F7
 play,4,1,mclem001,22,BCBCC,K/C
@@ -3968,9 +3952,6 @@ play,4,1,marte001,12,CBCFX,D8.3-H;2-H
 play,4,1,olerj001,30,BBBB,W
 play,4,1,boonb002,32,BBSBCB,W.2-3;1-2
 play,4,1,camem001,32,CBSBFBS,K
-com,"ej,mcrah001,M,higgs901,Fan interference call"
-com,"Devil Rays Manager Hal McRae ejected by 1B umpire Scott Higgins"
-com,"sometime in 5th for arguing a fan interference call"
 play,5,0,winnr001,12,CBFX,31/G
 play,5,0,johnr006,32,BBFBFX,9/FL
 play,5,0,mcgrf001,02,FFX,S7/7S
@@ -3998,7 +3979,6 @@ play,7,0,vaugg001,10,BH,HP.1-2
 play,7,0,cox-s001,00,,NP
 sub,fuenb001,"Brian Fuentes",1,0,1
 play,7,0,cox-s001,32,BFBCBX,23/G.2-3;1-2
-com,"Debut game for Brian Fuentes"
 play,7,0,huffa001,10,BX,4/L4
 play,7,0,willg001,00,,NP
 sub,panij001,"Jose Paniagua",1,0,1
@@ -4086,8 +4066,6 @@ start,guilc001,"Carlos Guillen",1,7,6
 start,belld002,"David Bell",1,8,5
 start,wilsd001,"Dan Wilson",1,9,2
 start,garcf002,"Freddy Garcia",1,0,1
-com,"$Seattle Mgr Lou Piniella missed the game to attend a family"
-com,"funeral; bench coach John McLaren was acting skipper"
 play,1,0,tynej001,22,FBBFFX,8/F8S
 play,1,0,johnr006,20,BBX,9/F9
 play,1,0,grieb001,12,CFBS,K
@@ -4247,8 +4225,6 @@ start,guilc001,"Carlos Guillen",1,7,6
 start,lampt001,"Tom Lampkin",1,8,2
 start,belld002,"David Bell",1,9,5
 start,halaj001,"John Halama",1,0,1
-com,"$Seattle Mgr Lou Piniella missed the game to attend a family"
-com,"funeral; bench coach John McLaren was acting skipper"
 play,1,0,greer001,11,BCX,43/G
 play,1,0,rodri001,01,CX,53/G
 play,1,0,rodra001,32,BCBBSFB,W
@@ -4402,8 +4378,6 @@ start,belld002,"David Bell",1,7,5
 start,guilc001,"Carlos Guillen",1,8,6
 start,wilsd001,"Dan Wilson",1,9,2
 start,selea001,"Aaron Sele",1,0,1
-com,"$Seattle Mgr Lou Piniella missed the game to attend a family"
-com,"funeral; bench coach John McLaren was acting skipper"
 play,1,0,greer001,21,BBFX,S9
 play,1,0,rodri001,00,X,S7/7S.1-2
 play,1,0,rodra001,10,BX,9/F9D.2-3
@@ -4544,8 +4518,6 @@ start,guilc001,"Carlos Guillen",1,7,6
 start,wilsd001,"Dan Wilson",1,8,2
 start,gipsc001,"Charles Gipson",1,9,8
 start,moyej001,"Jamie Moyer",1,0,1
-com,"$Seattle Mgr Lou Piniella missed the game to attend a family"
-com,"funeral; bench coach John McLaren was acting skipper"
 play,1,0,greer001,32,CBBFBX,7/F7
 play,1,0,rodri001,10,BX,8/F8D
 play,1,0,rodra001,11,CBX,9/F9S
@@ -4717,8 +4689,6 @@ play,2,1,belld002,12,CFBS,K
 play,2,1,wilsd001,20,BBX,S7
 play,2,1,suzui001,11,CBC,SB2
 play,2,1,suzui001,12,CBCX,E4.2-3
-com,"originally a single, but shows up as E4 in Elias"
-com,"totals of 7-19!  Affects 3 ER"
 play,2,1,mclem001,10,BX,D/78.3-H(UR);1-3
 play,2,1,marte001,01,CX,D7.3-H(UR);2-H(UR)
 play,2,1,olerj001,12,BSCS,K
@@ -4935,7 +4905,6 @@ sub,lampt001,"Tom Lampkin",1,9,11
 play,9,1,lampt001,00,B,DI.1-2
 play,9,1,lampt001,21,BCBX,8/F8
 play,9,1,suzui001,00,X,8/L8
-com,"$end of the Mariners' 15-game winning streak (longest in club history)"
 data,er,joneb003,2
 data,er,nunej002,0
 data,er,witaj001,0
@@ -6054,7 +6023,6 @@ play,4,0,bondb001,32,BBCSBFS,K
 play,4,0,kentj001,12,CFBFS,K
 play,4,1,sprae001,20,BBX,43/G
 play,4,1,belld002,31,BBBCX,S7/78.BX2(74)
-com,"$Bell thrown out at 2B in consecutive at bats"
 play,4,1,wilsd001,21,CBBX,9/F9
 play,5,0,riosa001,00,X,3/L3
 play,5,0,cresf001,21,BSBX,7/F7
@@ -6267,8 +6235,6 @@ play,7,0,kentj001,10,BX,9/F9
 play,7,0,santb001,12,FSBX,6/L6
 play,7,1,lampt001,32,BBCFBS,K
 play,7,1,belld002,12,CFBC,K/C
-com,"ej,belld002,P,drakr901,Called third strike"
-com,"David Bell ejected by HP umpire Rob Drake"
 play,7,1,guilc001,22,CBFBX,6/P6
 play,8,0,davie001,00,,NP
 sub,mclem001,"Mark McLemore",1,2,5
@@ -6508,7 +6474,6 @@ play,3,1,suzui001,11,CBX,43/G
 play,3,1,mclem001,31,BBBCX,S7
 play,3,1,marte001,00,,NP
 sub,guilc001,"Carlos Guillen",1,3,11
-com,"$Martinez hurt left quad on bases in 1st"
 play,3,1,guilc001,20,BBX,S9.1-2
 play,3,1,olerj001,00,X,9/L9
 play,3,1,boonb002,21,BFBX,S7.2-H;1-2
@@ -6553,7 +6518,6 @@ sub,sabee001,"Erik Sabel",0,0,1
 play,7,1,sprae001,00,,NP
 sub,podss001,"Scott Podsednik",1,7,11
 play,7,1,podss001,10,BX,T/78D.3-H;2-H;1-H
-com,"$first ML hit for Podsednik"
 play,7,1,belld002,32,SBBBCX,S8.3-H
 play,7,1,wilsd001,12,CFBX,54(1)/FO
 play,8,0,durae001,00,,NP
@@ -6821,7 +6785,6 @@ play,6,0,willm003,00,X,S7
 play,6,0,gracm001,12,BFSX,S7.1-2
 play,6,0,sandr002,12,BFFS,K
 play,6,0,durae001,12,BCFFX,S8.2-H;1X3(834)
-com,"$Grace thrown out twice by Cameron"
 play,6,1,guilc001,11,BCX,3/BG
 play,6,1,boonb002,22,BCCFBFFX,S7
 play,6,1,olerj001,12,FCBX,64(1)3/GDP
@@ -7178,7 +7141,6 @@ start,wilsd001,"Dan Wilson",1,8,2
 start,javis001,"Stan Javier",1,9,7
 start,pinej001,"Joel A. Pineiro",1,0,1
 play,1,0,peren001,11,CBX,3/L3
-com,"Debut game for Chris George"
 play,1,0,sancr001,12,FCBS,K
 play,1,0,beltc001,12,SBCS,K
 play,1,1,suzui001,01,CX,5/L5
@@ -9413,8 +9375,6 @@ start,belld002,"David Bell",1,7,5
 start,wilsd001,"Dan Wilson",1,8,2
 start,gipsc001,"Charles Gipson",1,9,9
 start,garcf002,"Freddy Garcia",1,0,1
-com,"$Indians Manager Charlie Manuel in hospital with minor abdominal problem;"
-com,"team managed by bench coach Grady Little"
 play,1,0,loftk001,01,CX,8/F8
 play,1,0,vizqo001,21,CBBX,3/G
 play,1,0,alomr001,12,CFBX,7/F7
@@ -9435,14 +9395,12 @@ play,3,0,loftk001,32,BFFBBFB,W
 play,3,0,vizqo001,21,FBBX,8/F8
 play,3,1,wilsd001,00,,NP
 sub,westj001,"Jake Westbrook",0,0,1
-com,"$Chuck Finley left with strained right rib cage"
 play,3,1,wilsd001,32,BCBBFX,63/G
 play,3,1,gipsc001,00,,NP
 sub,mclem001,"Mark McLemore",1,9,11
 play,3,1,mclem001,32,BBCCBX,63/G
 play,3,1,javis001,12,SCBX,D/78D
 play,3,1,guilc001,32,CBBFBX,3/INT
-com,"$runner's interference"
 play,4,0,alomr001,00,,NP
 sub,javis001,"Stan Javier",1,1,9
 play,4,0,alomr001,00,,NP
@@ -9463,7 +9421,6 @@ play,5,0,vizqo001,01,CX,8/F8
 play,5,0,alomr001,32,BBCBSB,W.1-2
 play,5,0,gonzj002,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,4,11
-com,"$Gonzalez left with strained left hamstring"
 play,5,0,cabrj002,10,BX,S7.2-H;1-2
 play,5,0,thomj002,12,FBCS,K
 play,5,1,belld002,00,,NP
@@ -9506,15 +9463,8 @@ sub,sasak001,"Kazuhiro Sasaki",1,0,1
 play,9,0,frymt001,12,CCBC,K/C
 play,9,0,diaze002,00,X,9/F9
 play,9,0,loftk001,20,BBX,S9
-com,"$Sasaki injured on first pitch to Vizquel"
 play,9,0,vizqo001,10,B,NP
 sub,rhoda001,"Arthur Rhodes",1,0,1
-com,"ej,rhoda001,P,mcclt901,Arguing with Omar Vizquel"
-com,"$Arthur Rhodes ejected by 3B umpire Tim McClelland"
-com,"(facing 0 batters) after a bench-clearing argument"
-com,"precipitated when Vizquel complained about Rhodes' ear"
-com,"rings and Rhodes yelled at Vizquel; Rhodes was"
-com,"restrained by Lou Piniella [a 'bench-earring' brawl?]"
 play,9,0,vizqo001,00,,NP
 sub,halaj001,"John Halama",1,0,1
 play,9,0,vizqo001,11,BCX,3/P3
@@ -9691,8 +9641,6 @@ play,9,0,taube001,31,BBBCX,S8/8S.1-3
 play,9,0,diaze002,00,,NP
 sub,cordw001,"Wil Cordero",0,8,12
 play,9,0,diaze002,31,BBCBB,W.1-2
-com,"$after the brawl on the previous day caused by Rhodes' earring, he"
-com,"was told to remove it by McClelland as he came in from the bullpen"
 play,9,0,loftk001,00,,NP
 sub,rhoda001,"Arthur Rhodes",1,0,1
 play,9,0,loftk001,12,CSBX,S8/8S.3-H;2-H;1-3;B-2(TH)
@@ -9772,7 +9720,6 @@ play,1,0,hallt001,12,BCFFFX,7/L7
 play,1,1,suzui001,31,BBBCX,S8/8S
 play,1,1,javis001,00,X,S.1-2
 play,1,1,boonb002,22,BSCBFX,96(1)/FO.2-3
-com,"$Javier had to wait to see if the ball would be caught"
 play,1,1,marte001,32,BBCSBB,W.1-2
 play,1,1,camem001,11,CBX,9/SF.3-H;2-3
 play,1,1,buhnj001,32,FBBBSX,8/F8S
@@ -10360,7 +10307,6 @@ play,8,1,suzui001,00,X,3/P3
 play,8,1,javis001,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,2,11
 play,8,1,vazqr001,02,CFX,S9
-com,"Debut game for Ramon Vazquez"
 play,8,1,marte001,00,,NP
 sub,buhnj001,"Jay Buhner",1,3,11
 play,8,1,buhnj001,00,B,WP.1-2
@@ -10449,7 +10395,6 @@ play,1,1,buhnj001,32,CFBBBFX,63/G
 play,2,0,batit001,22,CBSBX,53/G
 play,2,0,andeb001,12,CBLS,K
 play,2,0,gil-g001,01,SX,9/F9
-com,"Debut game for Geronimo Gil"
 play,2,1,mclem001,11,FBX,6/L6
 play,2,1,belld002,21,BCBX,8/F8
 play,2,1,wilsd001,21,BBCX,53/G
@@ -10462,7 +10407,6 @@ play,3,1,boonb002,00,C,SB2
 play,3,1,boonb002,01,CX,D9/9D.2-H
 play,3,1,marte001,31,BBBCB,W
 play,3,1,olerj001,22,CSBBX,FC5.1X2(5E4);2-3;B-1
-com,"$Hairston missed base"
 play,3,1,buhnj001,12,BCCS,K
 play,3,1,mclem001,00,X,7/SF.3-H(UR)
 play,3,1,belld002,32,CBFBBFX,S7.2-H(UR);1-2
@@ -10730,8 +10674,6 @@ play,2,1,javis001,00,X,FC5.3XH(525);1-2;B-1
 play,2,1,wilsd001,21,CBBS,SB3;SB2
 play,2,1,wilsd001,22,CBBSX,S7.3-H(UR);2XH(72);B-2(THH)
 play,2,1,guilc001,10,BX,S8.2-H(NR);BX2(834)
-com,"$Guillen, not knowing Wilson was held at 3B, rounded 1B and was"
-com,"caught; Wilson scored during the rundown, thus no RBI"
 play,3,0,nievj002,12,CBFS,K
 play,3,0,erstd001,12,FBFC,K/C
 play,3,0,ecksd001,12,CCBX,S9

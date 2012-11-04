@@ -45,7 +45,6 @@ start,fletd001,"Darrin Fletcher",1,7,2
 start,cruzj004,"Jose Cruz",1,8,8
 start,bushh001,"Homer Bush",1,9,4
 start,loaie001,"Esteban Loaiza",1,0,1
-com,"$Played at Hiram Bithorn Stadium, San Juan, Puerto Rico"
 play,1,0,greer001,21,CBBH,HP
 play,1,0,velar001,32,CCBFFBBC,K+CS2(26)/DP/C
 play,1,0,rodra001,12,BCFX,S7/7S
@@ -107,7 +106,6 @@ play,7,1,bushh001,00,,NP
 sub,petkm001,"Mark Petkovsek",0,0,1
 play,7,1,bushh001,32,BBFSBFX,D/78D
 play,7,1,stews002,01,CX,S6.2-3
-com,"$ARod tripped on his shoelace"
 play,7,1,gonza001,22,BBFCX,S7.3-H;1-2
 play,7,1,mondr002,10,BX,S8/8S.2-3;1-2
 play,7,1,delgc001,00,,NP
@@ -486,7 +484,6 @@ play,2,1,delgc001,21,CBBX,S8
 play,2,1,fullb001,02,CFS,K
 play,2,1,batit001,12,BCFX,S7.1-2
 play,2,1,fletd001,01,CX,D7.2-H;1X3(764)
-com,Batista out after rounding 3rd.
 play,2,1,cruzj004,22,BCBFC,K/C
 play,3,0,flahj001,01,CX,9/F9
 play,3,0,martf001,00,X,63/G
@@ -798,7 +795,6 @@ play,5,1,fryej001,12,CCBX,4/P4
 play,5,1,stews002,11,SBX,8/L8
 play,6,0,quinm001,01,CX,S8
 play,6,0,dye-j001,22,CBFBB,SB2.1-3(E1/TH)
-com,"this could be separate pickoff error after SB"
 play,6,0,dye-j001,32,CBFBBFX,43/G.3-H(UR)
 play,6,0,sweem002,12,CBFFFS,K
 play,6,0,randj002,22,BCBFX,9/F9
@@ -837,7 +833,6 @@ play,9,0,browd002,00,X,46(1)3/GDP
 play,9,0,ortih001,00,,NP
 sub,fileb001,"Bob File",1,0,1
 play,9,0,ortih001,21,BCBX,63/G
-com,"Debut game for Bob File"
 play,9,1,fletd001,00,,NP
 sub,mccad001,"David McCarty",0,5,3
 play,9,1,fletd001,00,,NP
@@ -1093,7 +1088,6 @@ play,3,1,delgc001,22,CBCBX,D7.1-3
 play,3,1,batit001,01,SX,9/F9S
 play,3,1,fullb001,22,BFFBS,K23
 play,3,1,cruzj004,11,BSB,SBH
-com,"$straight steal, high pitch without a tag"
 play,3,1,cruzj004,32,BSBBFFB,W
 play,3,1,casta001,11,CBX,5(2)/FO.1-2
 play,4,0,soria001,02,FCX,9/F9D
@@ -1103,8 +1097,6 @@ play,4,0,jeted001,00,X,9/F9
 play,4,1,freer001,12,FBCS,K
 play,4,1,stews002,02,CFX,S/78
 play,4,1,gonza001,11,BSB,SB2
-com,"ej,torrj101,M,mealj901,Call at 2B"
-com,"Yankees manager Joe Torre ejected by 2B umpire Jerry Meals"
 play,4,1,gonza001,31,BSBBB,W
 play,4,1,mondr002,22,BCSFBX,6/P6
 play,4,1,delgc001,30,BBBB,W.2-3;1-2
@@ -1490,7 +1482,6 @@ play,12,0,bross001,00,X,D/78
 play,12,0,bellc001,00,,NP
 sub,mcdod001,"Donzell McDonald",0,9,11
 play,12,0,mcdod001,11,BLX,13/SH.2-3
-com,"Debut game for Donzell McDonald"
 play,12,0,knobc001,30,BBBB,W
 play,12,0,jeted001,00,X,9/F9.1-2
 play,12,0,oneip001,00,X,43/G
@@ -2302,7 +2293,6 @@ sub,holtm001,"Mike Holtz",0,0,1
 play,8,1,fletd001,00,,NP
 sub,lopel003,"Luis Lopez",1,8,11
 play,8,1,lopel003,30,IIII,IW
-com,"Debut game for Luis Lopez"
 play,8,1,fryej001,00,,NP
 sub,hases001,"Shigetoshi Hasegawa",0,0,1
 play,8,1,fryej001,11,CBX,S/89.2-H;1-3
@@ -2689,7 +2679,6 @@ play,2,1,fullb001,00,,NP
 sub,damoj001,"Johnny Damon",0,1,9
 play,2,1,fullb001,00,,NP
 sub,valdm002,"Mario Valdez",0,7,7
-com,"$Jeremy Giambi strained hamstring running to 3B"
 play,2,1,fullb001,22,BCBCX,D9
 play,2,1,batit001,02,CFX,53/G
 play,2,1,simmb001,12,CCBS,K
@@ -3387,7 +3376,6 @@ play,6,0,gipsc001,11,BCX,S8/8S
 play,6,0,suzui001,31,BBBCX,S9/9S.1-3
 play,6,0,mclem001,10,BX,S9/9S.3-H;1-3
 play,6,0,marte001,01,FX,9/FL.3-H(E5);1-2
-com,"Mondesi had him going back, Batista dropped it"
 play,6,0,olerj001,01,CX,9/F9D
 play,6,0,boonb002,21,BBCX,43/G
 play,6,1,wellv001,10,BX,S8
@@ -3664,8 +3652,6 @@ play,1,1,gonza001,00,X,S9.1-2
 play,1,1,delgc001,11,BSX,8/F8D.2-3;1-2
 play,1,1,mondr002,32,BBFFBX,D9.3-H;2-H
 play,1,1,fullb001,00,X,31/G.2-H(E1/TH)(UR)(NR)
-com,"$Wells thought this was the 3rd out, tossed ball to ump, allowing"
-com,"Mondesi to score from 2B"
 play,1,1,batit001,22,CSBBFS,K
 play,2,0,konep001,12,CBFX,S9/9S
 play,2,0,bainh001,31,BBBCB,W.1-2
@@ -3720,7 +3706,6 @@ play,6,1,gonza001,00,X,S4/BG4.2-3
 play,6,1,delgc001,12,BCFFX,6/P6
 play,6,1,mondr002,32,SFBBBFB,W.1-2
 play,6,1,fullb001,12,FFBH,HP.3-H;2-3;1-2
-com,"$hit on hand"
 play,6,1,batit001,00,,NP
 sub,garlj001,"Jon Garland",0,0,1
 play,6,1,batit001,00,X,8/SF.3-H;2-3
@@ -3766,7 +3751,6 @@ play,8,1,mondr002,22,FCBBX,63/G
 play,8,1,fullb001,00,,NP
 sub,vinik001,"Ken Vining",0,0,1
 play,8,1,fullb001,12,BSCFX,31/G
-com,"Debut game for Ken Vining"
 play,8,1,batit001,12,BCFS,K
 play,9,0,valej003,00,,NP
 sub,kochb001,"Billy Koch",1,0,1
@@ -4221,7 +4205,6 @@ play,9,1,fletd001,00,X,43/G
 play,9,1,bushh001,12,CBCS,K
 play,9,1,stews002,31,BBBCB,W
 play,9,1,gonza001,00,X,S5.1-2
-com,"originally scored as E5"
 play,9,1,delgc001,00,X,5/P5
 play,10,0,everc001,02,SSS,K
 play,10,0,ramim002,11,BFX,S8
@@ -4231,7 +4214,6 @@ play,10,1,mondr002,00,,NP
 sub,lowed001,"Derek Lowe",0,0,1
 play,10,1,mondr002,21,SBBX,3/P3
 play,10,1,cruzj004,01,FX,S4
-com,"originally scored as E4"
 play,10,1,simmb001,10,BX,S9/9S.1-3;B-2(E9)
 play,10,1,batit001,30,IIII,IW
 play,10,1,fletd001,10,BX,62(3)3/GDP
@@ -4490,7 +4472,6 @@ play,3,1,delgc001,02,SFX,HR/9.1-H
 play,3,1,fullb001,22,BCFBX,3/G
 play,4,0,everc001,20,BBX,8/L8
 play,4,0,ramim002,02,FFX,HR/7
-com,"$491 ft, longest in SkyDome history"
 play,4,0,bichd001,10,BX,HR/78
 play,4,0,daubb001,21,FBBX,7/F7
 play,4,0,valej002,11,BCX,53/G
@@ -4785,7 +4766,6 @@ start,bushh001,"Homer Bush",1,8,4
 start,casta001,"Alberto Castillo",1,9,2
 start,michc001,"Chris Michalak",1,0,1
 play,1,0,winnr001,02,CCH,HP
-com,"Debut game for Joe Kennedy"
 play,1,0,willg001,11,SBH,HP.1-2
 play,1,0,vaugg001,22,BFFBX,D7.2-H;1-H
 play,1,0,mcgrf001,22,BFFBX,D/78.2-H
@@ -5484,8 +5464,6 @@ sub,fileb001,"Bob File",1,0,1
 play,9,0,mabrj001,32,BBBCFB,W
 play,9,0,floyc001,00,X,3(B)6(1)/GDP
 play,9,0,wilsp002,20,BBX,1/FL
-com,"Elias incorrectly has this catch made by Delgado."
-com,"Video confirms that File made the catch."
 play,9,1,mondr002,00,,NP
 sub,alfoa001,"Antonio Alfonseca",0,0,1
 play,9,1,mondr002,11,CBX,43/G
@@ -5713,7 +5691,6 @@ play,1,1,mondr002,32,CBFFFBBS,K
 play,2,0,jonec004,32,CBBBCB,W
 play,2,0,jordb001,22,FBSBX,6/L6
 play,2,0,martd002,01,CX,3(B)3(1)/GDP
-com,"Runner thought 1B caught low line drive and headed back to base to be tagged"
 play,2,1,delgc001,11,CBX,4/P4
 play,2,1,cruzj004,11,FBX,D9
 play,2,1,fullb001,01,FX,9(B)6(2)/LDP
@@ -5889,9 +5866,6 @@ play,4,0,lopej001,32,BBCSBFFX,63/G
 play,4,0,surhb001,20,BBX,43/G
 play,4,0,helmw001,02,CCX,S/89
 play,4,0,veraq001,31,BBBCX,D7.1XH(762)
-com,"ej,cox-b103,M,reedr901,Call at HP"
-com,"ej,helmw001,P,reedr901,Call at HP"
-com,"Wes Helms and Braves manager Bobby Cox ejected by HP umpire Rick Reed"
 play,4,1,stews002,00,,NP
 sub,martd002,"Dave Martinez",0,6,3
 play,4,1,stews002,00,,NP
@@ -5900,8 +5874,6 @@ play,4,1,stews002,10,BX,S8
 play,4,1,gonza001,11,SBB,SB2
 play,4,1,gonza001,21,SBBX,43/G.2-3
 play,4,1,mondr002,10,BH,HP
-com,"$benches and bullpens empty as Raul Mondesi yelled at Tom Glavine;"
-com,"John Rocker tried to get at Mondesi"
 play,4,1,delgc001,00,X,S9.3-H;1-2
 play,4,1,cruzj004,30,BBBB,W.2-3;1-2
 play,4,1,fullb001,11,CBX,32(3)/FO.2-3;1-2
@@ -5933,7 +5905,6 @@ play,7,0,jonec004,31,BFBBX,9/F9
 play,7,1,bushh001,00,,NP
 sub,nelsj002,"Joe Nelson",0,0,1
 play,7,1,bushh001,12,CSBFX,D9
-com,"Debut game for Joe Nelson"
 play,7,1,casta001,12,BSCH,HP
 play,7,1,stews002,10,BX,S7.2-H;1-2
 play,7,1,gonza001,11,BSX,S9/9S.2-3;1-2
@@ -6358,7 +6329,6 @@ play,7,1,woodc001,00,X,5/L5
 play,8,0,batit001,00,,NP
 sub,bowlb001,"Brian Bowles",1,0,1
 play,8,0,batit001,01,CX,S7
-com,"Debut game for Brian Bowles"
 play,8,0,fordb001,12,BCSS,K
 play,8,0,hairj002,31,BCBBX,54(1)3/GDP
 play,8,1,simmb001,22,BFCBC,K/C
@@ -7462,7 +7432,6 @@ play,6,1,gonza001,11,CBX,T9/9D
 play,6,1,lopel003,00,X,S/78.3-H
 play,6,1,casta001,21,BBFX,34/SH.1-2
 play,6,1,iztuc001,20,BBX,HR8/78/IPHR.2-H
-com,"IPHR"
 play,6,1,stews002,01,CX,6/P6
 play,6,1,cruzj004,32,CBFBFBB,W
 play,6,1,mondr002,00,B,SB2
@@ -8951,7 +8920,6 @@ play,2,0,hairj002,32,BCCBBB,W.1-2
 play,2,0,andeb001,32,BCBBFB,W.2-3;1-2
 play,2,0,moram002,02,SCS,K
 play,2,1,lopef001,02,SSFC,K/C
-com,"Debut game for Felipe Lopez"
 play,2,1,fletd001,31,BCBBX,S9/9D
 play,2,1,bushh001,01,CX,HR/7.1-H
 play,2,1,cruzj004,31,FBBBX,53/G
@@ -9014,7 +8982,6 @@ sub,kinkm001,"Mike Kinkade",0,4,5
 play,7,1,lopef001,00,,NP
 sub,fostk002,"Kris Foster",0,0,1
 play,7,1,lopef001,12,CBFFX,9/F
-com,"Debut game for Kris Foster"
 play,7,1,fletd001,11,BFX,S8/8S
 play,7,1,bushh001,01,FX,16(1)/FO
 play,7,1,cruzj004,22,BSBCS,K
@@ -9095,7 +9062,6 @@ start,fletd001,"Darrin Fletcher",1,8,2
 start,bushh001,"Homer Bush",1,9,4
 start,lyonb003,"Brandon Lyon",1,0,1
 play,1,0,andeb001,31,BBBCX,T/78
-com,"Debut game for Brandon Lyon"
 play,1,0,moram002,10,BX,8/SF.3-H
 play,1,0,segud001,11,FBX,S9/9D
 play,1,0,conij001,12,CSFBC,K/C
@@ -9143,7 +9109,6 @@ play,6,0,segud001,22,CBCBX,63/G
 play,6,0,conij001,00,X,9/F9
 play,6,0,gibbj002,11,BF,NP
 sub,robeb003,"Brian Roberts",0,5,11
-com,"Gibbons broke wrist on foul ball, out for season"
 play,6,0,robeb003,22,BFBFX,63/G
 play,6,1,mondr002,00,,NP
 sub,andeb001,"Brady Anderson",0,1,7
@@ -9885,7 +9850,6 @@ play,7,1,fullb001,22,CBSFBX,43/G
 play,7,1,bushh001,00,X,S7
 play,7,1,fletd001,20,BBX,8/F8
 play,7,1,fryej001,32,CBBFFBX,S/89.1-H
-com,"Frye had easy double, held up to get cycle"
 play,7,1,cruzj004,12,SBSX,43/G
 play,8,0,rodra001,12,BFFX,HR/78
 play,8,0,palmr001,11,BCX,43/G
@@ -10820,10 +10784,6 @@ play,9,0,justd001,32,FFBBFFFFBB,W.1-2
 play,9,0,spens001,11,SBH,HP.2-3;1-2
 play,9,0,soria001,22,BFFBX,S8.3-H;2-H;1-2
 play,9,0,posaj001,22,BCFBC,K/C
-com,"ej,posaj001,P,fleta901,Called third strike"
-com,"$Jorge Posada argued with HP umpire Andy Fletcher about"
-com,"third strike; spittle flew and Posada bumped Fletcher;"
-com,"Posada was ejected by Fletcher"
 play,9,0,wilse001,20,BBX,8/F8S
 play,9,0,bellc001,10,BB,WP.2-3;1-2
 play,9,0,bellc001,32,BBBCSB,W
@@ -10965,7 +10925,6 @@ sub,wilse001,"Enrique Wilson",0,9,4
 play,5,1,casta001,00,,NP
 sub,almoe001,"Erick Almonte",0,8,6
 play,5,1,casta001,21,BCBX,S
-com,"Debut game for Erick Almonte"
 play,5,1,cruzj004,12,BSSFFC,K/C
 play,5,1,gonza001,22,BBSFFFS,K
 play,5,1,stews002,12,CFBX,6(1)/FO
@@ -10975,7 +10934,6 @@ play,6,0,oneip001,12,BCSFS,K
 play,6,1,delgc001,00,,NP
 sub,rivej001,"Juan Rivera",0,2,9
 play,6,1,delgc001,30,BBBB,W
-com,"Debut game for Juan Rivera"
 play,6,1,mondr002,00,,NP
 sub,lopel003,"Luis Lopez",1,4,12
 play,6,1,mondr002,10,BX,54(1)3/GDP
@@ -11443,7 +11401,6 @@ play,6,0,richc001,12,BSCS,K
 play,6,1,fullb001,11,BCX,31/G
 play,6,1,lopef001,11,CBX,S8
 play,6,1,iztuc001,11,BFX,8(B)3(1)/FDP
-com,"$Lopez doubled off 1B twice by Matos"
 play,7,0,conij001,12,CBSC,K/C
 play,7,0,ripkc001,00,X,D9
 play,7,0,batit001,11,BFX,63/G

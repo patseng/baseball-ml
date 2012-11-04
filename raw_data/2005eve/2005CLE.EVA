@@ -89,7 +89,6 @@ play,5,1,bellr002,00,X,8/F
 play,5,1,crisc001,20,BBX,5/P5F
 play,6,0,podss001,00,,NP
 sub,ludwr001,"Ryan Ludwick",1,7,9
-com,"Indians left fielder Casey Blake left the game due to an injured leg"
 play,6,0,podss001,11,.CBX,S1/BP
 play,6,0,iguct001,10,B1>C,SB2
 play,6,0,iguct001,22,B1>C.BFFS,K
@@ -356,7 +355,6 @@ play,1,1,martv001,10,BX,S8/L.2-H(UR);1-3
 play,1,1,broub001,12,CS*BX,T8/F.3-H;1-H
 play,1,1,boona001,00,,NP
 sub,peret004,"Timo Perez",0,3,7
-com,"White Sox left fielder Carl Everett left the game due to an injured neck"
 play,1,1,boona001,10,.BX,9/SF.3-H(UR)
 play,1,1,sizeg001,12,CCFBX,43/G
 play,2,0,rowaa001,00,X,S7/G
@@ -401,7 +399,6 @@ play,5,1,martv001,11,CBX,HR/9/L
 play,5,1,broub001,01,CX,4/P3F
 play,5,1,boona001,32,BBBCCB,W
 play,5,1,sizeg001,22,BFB>FFX,DGR/7/L.1-3
-com,"Fan interference"
 play,5,1,hernj001,00,X,63/G
 play,6,0,credj001,00,,NP
 sub,betar001,"Rafael Betancourt",1,0,1
@@ -661,7 +658,6 @@ start,sizeg001,"Grady Sizemore",1,8,8
 start,peraj001,"Jhonny Peralta",1,9,6
 start,millk004,"Kevin Millwood",1,0,1
 play,1,0,stews002,01,CX,8/F
-com,"Debut game for Dave Gassner"
 play,1,0,bartj001,02,CCX,4/P
 play,1,0,mauej001,01,FX,43/G
 play,1,1,crisc001,12,CBSX,63/G
@@ -2011,8 +2007,6 @@ play,6,0,menef001,01,FX,63/G
 play,6,0,wellv001,11,CBX,S8/G
 play,6,0,hudso001,02,C11F>B,CS2(24)
 play,6,1,blakc001,32,BBFBFFFFX,S7/L
-com,"ej,gibbj001,M,reynj901,Balls and strikes"
-com,"Blue Jays Mgr John Gibbons ejected by HP umpire Jim Reynolds"
 play,6,1,hafnt001,31,BBCB.B,W.1-2
 play,6,1,broub001,00,X,341/G.2-3;1-2
 play,6,1,crisc001,12,CBFFB,WP.3-H;2-3
@@ -2233,7 +2227,6 @@ start,boona001,"Aaron Boone",1,8,5
 start,peraj001,"Jhonny Peralta",1,9,6
 start,elars001,"Scott Elarton",1,0,1
 play,1,0,figgc001,10,BX,7/F
-com,"Debut game for Ervin Santana"
 play,1,0,erstd001,31,BBCBB,W
 play,1,0,guerv001,21,1BBSX,S7/L.1-2
 play,1,0,andeg001,12,CSFFBX,8/L
@@ -2306,7 +2299,6 @@ sub,yan-e001,"Esteban Yan",0,0,1
 play,6,1,boona001,10,.BX,63/G
 play,7,0,guerv001,00,,NP
 sub,ludwr001,"Ryan Ludwick",1,2,7
-com,"Indians CF Coco Crisp left the game due to an injured hand/wrist"
 play,7,0,guerv001,11,..BCX,53/G
 play,7,0,andeg001,21,BBFX,D7/F
 play,7,0,finls001,00,X,3/P3F
@@ -2724,8 +2716,6 @@ play,6,0,mornj001,11,BC1>B,SB2
 play,6,0,mornj001,31,BC1>B.BB,W
 play,6,0,huntt001,10,BX,8/F.2-3
 play,6,0,jonej003,12,LSFBF1C,K
-com,"ej,jonej003,P,wendh902,Called third strike"
-com,"Twins Jacque Jones ejected by HP umpire Hunter Wendelstedt"
 play,6,0,cuddm001,10,.BX,S9/G.3-H;1-2
 play,6,0,puntn001,22,BCBFX,43/G
 play,6,1,sizeg001,20,BBX,HR/89/F
@@ -2897,7 +2887,6 @@ play,5,0,cuddm001,01,CX,64(1)3/GDP
 play,5,0,redmm001,32,BBCFBX,S9/L
 play,5,0,rodrl002,00,,NP
 sub,betar001,"Rafael Betancourt",1,0,1
-com,"Indians pitcher Kevin Millwood left the game due to an injured groin"
 play,5,0,rodrl002,22,.1CS1BBC,K
 play,5,1,geruj001,01,CX,43/G
 play,5,1,bardj001,22,CBCBX,31/G
@@ -3223,7 +3212,6 @@ play,1,1,hernj001,11,BC>X,2/P2F
 play,2,0,byrne001,10,BX,8/F
 play,2,0,swisn001,01,CX,D7/F
 play,2,0,johnd004,32,BFBFF*BB,W
-com,"Debut game for Dan Johnson"
 play,2,0,scutm001,01,CX,8/F.2-3
 play,2,0,kendj001,11,CBX,9/F
 play,2,1,martv001,12,FBSX,9/F
@@ -3660,7 +3648,6 @@ play,1,1,hernj001,32,CCBBFFB>F>X,S8/G.2-H;1-3
 play,1,1,blakc001,20,BBX,3!/P3F
 play,2,0,hawpb001,00,X,S8/L
 play,2,0,shear001,31,BBBC>C,CS2(24)
-com,"Debut game for Ryan Shealy"
 play,2,0,shear001,32,BBBC>C.B,W
 play,2,0,relad001,02,CFC,K
 play,2,0,gonzl004,01,FX,54(1)/FO/G
@@ -4585,7 +4572,6 @@ play,5,0,damoj001,10,BX,S8/G.3-H;2-3
 play,5,0,rente001,32,CBBF*BS,K
 play,5,0,ortid001,12,BSFX,FC5/G.3-H;1-2
 play,5,0,ramim002,32,BBFTFBX,DGR/7/L-.2-H;1-3
-com,"fan interference"
 play,5,0,millk005,31,B*BBCX,13/G
 play,5,0,varij001,21,CBBX,HR/8/F.3-H;2-H
 play,5,0,paytj001,00,,NP
@@ -5051,7 +5037,6 @@ play,2,1,boona001,31,BCBBB,W
 play,2,1,peraj001,10,BX,54(1)3/GDP
 play,2,1,sizeg001,01,FX,3/G
 play,3,0,encae001,10,BX,9/F
-com,"Debut game for Edwin Encarnacion"
 play,3,0,lopef001,12,CBFX,S1/G.B-3(E1/TH)
 play,3,0,aurir001,31,BBCBB,W
 play,3,0,cases001,31,FBBBX,7/SF.3-H
@@ -5411,7 +5396,6 @@ play,7,0,aurir001,12,CBFC,K
 play,7,1,sizeg001,00,,NP
 sub,shacb001,"Brian Shackelford",0,0,1
 play,7,1,sizeg001,02,.FCS,K
-com,"Debut game for Brian Shackelford"
 play,7,1,crisc001,00,X,53/G
 play,7,1,hafnt001,01,CH,HP
 play,7,1,broub001,01,CX,S4/P.1-3
@@ -5501,7 +5485,6 @@ start,hernj001,"Jose Hernandez",1,7,5
 start,bardj001,"Josh Bard",1,8,2
 start,peraj001,"Jhonny Peralta",1,9,6
 start,elars001,"Scott Elarton",1,0,1
-com,"$Debut for umpire Dusty Dellinger"
 play,1,0,ingeb001,01,CX,6/P
 play,1,0,guilc001,22,CCBBX,S7/L
 play,1,0,shelc001,02,CFFFX,7/F
@@ -5634,7 +5617,6 @@ start,hernj001,"Jose Hernandez",1,8,5
 start,coraa001,"Alex Cora",1,9,4
 start,davij005,"Jason Davis",1,0,1
 play,1,0,ingeb001,20,BBX,9/F
-com,"Debut game for Justin Verlander"
 play,1,0,polap001,11,CBX,S9/L
 play,1,0,shelc001,22,BBC1>FS,K
 play,1,0,ordom001,01,1CX,9/F
@@ -5724,8 +5706,6 @@ play,9,0,infao001,00,,NP
 sub,riskd001,"David Riske",1,0,1
 play,9,0,infao001,22,.CBCBC,K
 play,9,0,wilsv001,02,CCC,K
-com,"ej,wilsv001,P,guccc901,Called third strike"
-com,"Tigers catcher Vance Wilson ejected by HP umpire Chris Guccione"
 play,9,0,logan001,31,.BBBCX,6/P
 data,er,verlj001,4
 data,er,walkj001,0
@@ -5986,7 +5966,6 @@ play,7,0,rodri001,00,,NP
 sub,riskd001,"David Riske",1,0,1
 play,7,0,rodri001,00,,NP
 sub,wilsv001,"Vance Wilson",0,6,11
-com,"Ivan Rodriguez left game with left pinky finger strain"
 play,7,0,wilsv001,12,..BCFX,3/P3F
 play,7,0,monrc001,21,BBFX,8/F
 play,7,0,ingeb001,01,CX,8/F
@@ -6267,7 +6246,6 @@ sub,millm002,"Matt Miller",1,0,1
 play,6,0,widgc001,22,.BBCSX,S7/G+
 play,6,0,uribj002,00,,NP
 sub,riskd001,"David Riske",1,0,1
-com,"Indians pitcher Matt Miller left the game due to an injured arm"
 play,6,0,uribj002,01,.1LX,3/P3F
 play,6,0,ozunp001,02,>FFX,S4/L-.1-3
 play,6,0,iguct001,00,>B,SB2.3-H(E2/TH);1-3
@@ -6375,7 +6353,6 @@ play,1,1,crisc001,22,BFBCS,K
 play,1,1,hafnt001,00,H,HP
 play,1,1,hernj001,00,,NP
 sub,geruj001,"Jody Gerut",1,3,12
-com,"Indians DH Travis Hafner left the game due to an injured head"
 play,1,1,hernj001,32,.BSBCB>F>X,S7/G.1-2
 play,1,1,peraj001,02,C.SX,5(2)/FO/G
 play,2,0,konep001,11,.BCX,53/G
@@ -6699,7 +6676,6 @@ play,5,1,broub001,22,BBFTFFX,8/F
 play,5,1,peraj001,11,FBX,D8/F.1-3
 play,5,1,blakc001,30,IIII,IW
 play,5,1,geruj001,12,BFCX,S4/G.3-H;2-3;1-2
-com,"$Game called for rain"
 data,er,carrd001,5
 data,er,gobbj001,1
 data,er,lee-c003,2
@@ -6897,7 +6873,6 @@ play,2,0,browe001,32,SBBBFFB,W
 play,2,0,buckj001,12,C>FB11S,K
 play,2,0,berra001,12,BTFS,K
 play,2,0,ambrc001,21,BCBX,7/F
-com,"Debut game for Chip Ambres"
 play,2,1,peraj001,22,BFBFX,6!3/G
 play,2,1,duboj001,00,X,S6/G
 play,2,1,bardj001,00,X,3/P
@@ -7406,9 +7381,6 @@ sub,howrb001,"Bob Howry",1,0,1
 play,8,0,sexsr001,10,.BX,3/G
 play,8,1,martv001,00,,NP
 sub,villr001,"Ron Villone",0,0,1
-com,"ej,elars001,P,mcclt901,Bench jockeying (not in game)"
-com,"Indians pitcher Scott Elarton ejected by 2B umpire Tim McClelland;"
-com,"he was not in the game"
 play,8,1,martv001,31,..BBBCB,W
 play,8,1,broub001,21,CBBX,64(1)3/GDP
 play,8,1,bellr002,00,,NP
@@ -8267,7 +8239,6 @@ play,5,0,cantj001,00,,NP
 sub,liefj001,"Jeff Liefer",1,7,9
 play,5,0,cantj001,00,,NP
 sub,broub001,"Ben Broussard",1,9,3
-com,"Indians left fielder Casey Blake left the game due to an injured neck/shoulder"
 play,5,0,cantj001,12,..CBFX,63/G+
 play,5,0,huffa001,30,BBBX,S7/F-
 play,5,0,gomej001,30,BBBB,W.1-2
@@ -8444,8 +8415,6 @@ play,9,0,huffa001,12,.CCBFS,K
 play,9,0,peree001,00,,NP
 sub,lee-t002,"Travis Lee",0,6,11
 play,9,0,lee-t002,32,.BBCBFX,HR/9/F
-com,"third time in history that a 1-0 game was decided by"
-com,"a PH HR"
 play,9,0,holld002,01,SX,63/G
 play,9,0,hallt001,12,FFBX,S7/L
 play,9,0,gonza001,02,FCC,K
@@ -8824,7 +8793,6 @@ play,5,1,bellr002,00,X,5/P
 play,6,0,soria001,00,X,S8/G
 play,6,0,mattg002,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,6,4
-com,"Indians second baseman Ron Belliard left the game due to an injured neck/shoulder"
 play,6,0,mattg002,00,.1X,7/F
 play,6,0,aloms001,10,BX,D7/F.1-3
 play,6,0,gonza003,30,BBBB,W
@@ -9597,7 +9565,6 @@ play,9,1,martv001,01,CX,D9/L.2-H
 play,9,1,bellr002,00,,NP
 sub,gutif001,"Franklin Gutierrez",1,5,12
 play,9,1,bellr002,21,.BFBX,9/F.2-3
-com,"Debut game for Franklin Gutierrez"
 play,9,1,hernj001,00,,NP
 sub,broub001,"Ben Broussard",1,7,11
 play,9,1,broub001,02,.CFFX,43/G
@@ -9860,7 +9827,6 @@ play,7,0,stews002,02,FFFT,K
 play,7,0,puntn001,22,SBBSC,K
 play,7,1,blakc001,00,,NP
 sub,redmm001,"Mike Redmond",0,3,2
-com,"Twins catcher Joe Mauer left the game due to an injured neck/shoulder"
 play,7,1,blakc001,31,.BBFBB,W
 play,7,1,sizeg001,00,,NP
 sub,mulht001,"Terry Mulholland",0,0,1
@@ -10013,7 +9979,6 @@ play,7,1,broub001,10,BH,HP
 play,7,1,boona001,00,,NP
 sub,bowyt001,"Travis Bowyer",0,0,1
 play,7,1,boona001,21,.BFBX,7/SF.3-H
-com,"Debut game for Travis Bowyer"
 play,7,1,blakc001,10,B*B,WP.2-3;1-2
 play,7,1,blakc001,20,B*B.X,S7/G.3-H;2-3
 play,7,1,sizeg001,00,,NP
@@ -10024,8 +9989,6 @@ play,7,1,peraj001,12,CS*BFX,53/G
 play,8,0,redmm001,11,CBX,43/G
 play,8,0,puntn001,02,CCX,8/F
 play,8,0,stews002,02,CFX,53/G
-com,"ej,stews002,P,schrp901,Call at 1B"
-com,"Twins left fielder Shannon Stewart ejected by 1B umpire Paul Schrieber"
 play,8,1,hafnt001,00,,NP
 sub,ryanm001,"Mike Ryan",0,1,7
 play,8,1,hafnt001,00,,NP
@@ -10033,7 +9996,6 @@ sub,heinc001,"Chris Heintz",0,8,2
 play,8,1,hafnt001,00,,NP
 sub,lirif001,"Francisco Liriano",0,0,1
 play,8,1,hafnt001,22,....CBBSS,K
-com,"Debut game for Chris Heintz"
 play,8,1,martv001,12,BSCC,K
 play,8,1,bellr002,32,CBBBSS,K
 play,9,0,tynej001,00,,NP
@@ -10120,7 +10082,6 @@ play,2,0,cuddm001,12,CBFX,64(1)3/GDP
 play,2,0,mornj001,11,CBX,43/G
 play,2,1,boona001,00,,NP
 sub,maysj001,"Joe Mays",0,0,1
-com,"Twins pitcher Carlos Silva left the game due to an injured knee"
 play,2,1,boona001,22,.CFBBX,8/L
 play,2,1,blakc001,32,BCCBFBB,W
 play,2,1,sizeg001,32,.BCFBBX,HR/9/F.1-H
@@ -10473,15 +10434,12 @@ play,5,0,chave001,32,B.FBFBS,K
 play,5,1,broub001,02,CFC,K
 play,5,1,boona001,00,X,63/G
 play,5,1,blakc001,32,CCBBBB,W
-com,"ej,wedge001,M,vanol901,Balls and strikes"
-com,"Indians Manager Eric Wedge ejected by HP umpire Larry Vanover"
 play,5,1,sizeg001,11,BC.X,S8/F-.1-2
 play,5,1,crisc001,20,BBX,13/G-
 play,6,0,hatts001,11,CBX,63/G
 play,6,0,paytj001,00,X,8/L
 play,6,0,johnd004,20,BBX,S8/G+
 play,6,0,scutm001,22,BBCSFS,K
-com,"$Light failure with Scutaro at bat, game delayed 21 minutes"
 play,6,1,peraj001,22,BBSSFS,K
 play,6,1,hafnt001,22,CFBBFX,53/G
 play,6,1,martv001,22,CBCBS,K
@@ -11072,7 +11030,6 @@ play,8,1,peraj001,32,BFBBFS,K
 play,8,1,hafnt001,00,,NP
 sub,garkr001,"Ryan Garko",1,4,11
 play,8,1,garkr001,12,.FBSS,K
-com,"Debut game for Ryan Garko"
 play,8,1,martv001,00,,NP
 sub,bardj001,"Josh Bard",1,5,11
 play,8,1,bardj001,32,.CBFBB>F>F>X,S7/L.1-3(E7)

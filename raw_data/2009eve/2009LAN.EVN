@@ -2022,11 +2022,9 @@ sub,castj004,"Juan Castro",1,1,6
 play,9,0,cinta001,00,,NP
 sub,leacb001,"Brent Leach",1,9,1
 play,9,0,cinta001,01,..CX,63/G
-com,"Debut game for Brent Leach"
 play,9,0,florj002,32,SBTBBX,7/F
 play,9,0,harrw001,32,BCBFFBB,W
 play,9,0,guzmc001,02,CSS,K
-com,"$13th consecutive home victory for the Dodgers"
 data,er,cabrd001,4
 data,er,hincm001,2
 data,er,kensl001,3
@@ -2134,7 +2132,6 @@ play,6,1,blakc001,12,CBCX,S7/G.1-2
 play,6,1,wolfr001,00,,NP
 sub,paulx001,"Xavier Paul",1,8,11
 play,6,1,paulx001,22,.F*BBFX,64(1)3/GDP
-com,"Debut game for Xavier Paul"
 play,7,0,herna003,00,,NP
 sub,tronr001,"Ramon Troncoso",1,8,1
 play,7,0,herna003,32,.CBBBCX,S8/G
@@ -2900,11 +2897,9 @@ play,11,0,martr003,22,CFBBFFX,8/L
 play,11,0,castr002,11,SBX,7/L
 play,11,0,churr001,11,CBX,S7/G
 play,11,0,pagaa001,22,CB1BTX,S8/L.1X3(865)
-com,"$Ryan Church called out on appeal for missing 3B; he had scored a run that was negated"
 play,11,1,lorem001,30,BBBB,W
 play,11,1,paulx001,12,BFFX,E8/F.1-3;B-2
 play,11,1,pierj002,30,IIII,IW
-com,"$CF Carlos Beltran brought in as part of a five-man infield"
 play,11,1,furcr001,32,FBBF*BX,7/F
 play,11,1,hudso001,22,BCFFFBX,FC3/G.3-H(E3/THH)(UR)(NR);2-3;1-2
 data,er,reddt001,2
@@ -3125,10 +3120,6 @@ play,2,0,churr001,02,CFX,D9/F
 play,2,0,castr002,00,X,6/L
 play,2,0,pagaa001,22,BSFBX,43/G.2-3
 play,2,0,hernl003,01,CX,13/G
-com,"umpchange,2,ump2b,scotd901"
-com,"umpchange,2,ump3b,uhlej901"
-com,"$umpire Jake Uhlenhopp flew into LA to work his first major league game"
-com,"when James Hoye became ill; Debut for umpire Jake Uhlenhopp"
 play,2,1,lonej001,22,CBFBX,S8/G
 play,2,1,paulx001,22,BTBCX,7/F
 play,2,1,blakc001,02,CTX,S8/L.1-2
@@ -3141,7 +3132,6 @@ play,3,0,wrigd002,32,B2FSFFBFBB,W
 play,3,0,murpd006,00,X,6(1)3/GDP
 play,3,1,furcr001,00,,NP
 sub,martr003,"Ramon Martinez",0,1,6
-com,"Mets shortstop Jose Reyes left the game due to an injured leg"
 play,3,1,furcr001,00,.X,8/F
 play,3,1,hudso001,20,BBX,D9/F
 play,3,1,ethia001,00,X,31/G.2-3
@@ -3334,7 +3324,6 @@ play,6,1,blakc001,20,B1PX,8/F
 play,6,1,tronr001,00,,NP
 sub,hoffj001,"Jamie Hoffmann",1,9,11
 play,6,1,hoffj001,00,.1>C,SB2
-com,"Debut game for Jamie Hoffmann"
 play,6,1,hoffj001,12,.1>C.FBX,9/F.2-3
 play,6,1,pierj002,00,,NP
 sub,olivd001,"Darren Oliver",0,9,1
@@ -4783,7 +4772,6 @@ play,7,1,ethia001,31,SBBBX,43/G
 play,8,0,howar001,00,,NP
 sub,schlt001,"Travis Schlichting",1,9,1
 play,8,0,howar001,22,.FFBBX,HR/78/F
-com,"Debut game for Travis Schlichting"
 play,8,0,ibanr001,10,BX,9/L
 play,8,0,rollj001,11,BFX,63/G
 play,8,0,felip001,22,BBCCS,K
@@ -5239,7 +5227,6 @@ play,7,1,martr004,11,.CBX,8/F
 play,7,1,belir001,00,,NP
 sub,jonem003,"Mitch Jones",1,9,11
 play,7,1,jonem003,32,.BSBBCFS,K
-com,"Debut game for Mitch Jones"
 play,7,1,pierj002,22,BSCFBX,3/L
 play,8,0,suzuk001,00,,NP
 sub,tronr001,"Ramon Troncoso",1,9,1
@@ -6091,8 +6078,6 @@ play,2,1,kempm001,12,CSBFX,53/G
 play,2,1,lonej001,12,CSBS,K
 play,3,0,spilr001,21,FBBX,53/G
 play,3,0,iannc001,12,FSBFS,K
-com,"$pitcher Randy Wolf and catcher Russell Martin walk to the dugout thinking there"
-com,"are three outs"
 play,3,0,jimeu001,22,FBCFFBT,K
 play,3,1,martr004,00,X,63/G
 play,3,1,wolfr001,11,CBX,7/F
@@ -6620,7 +6605,6 @@ play,8,1,ramim002,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,3,1
 play,8,1,ramim002,00,,NP
 sub,erstd001,"Darin Erstad",0,9,3
-com,"Astros first baseman Lance Berkman left the game due to an injured leg"
 play,8,1,ramim002,32,..BFCBBX,S9/L
 play,8,1,blakc001,12,1CFBFX,36(1)3/GDP
 play,8,1,kempm001,22,CBBCX,13/G
@@ -6916,12 +6900,6 @@ sub,tronr001,"Ramon Troncoso",1,8,1
 play,8,0,matsk001,01,.1C1>C,SB2
 play,8,0,matsk001,22,.1C1>C.BBX,43/G.2-3
 play,8,0,keppj001,22,CFBBFFX,43/G
-com,"ej,coopc001,M,mosec901,Call at 1B"
-com,"$Jeff Keppinger's gounder was bobbled by Orlando Hudson, who picked up the ball"
-com,"and threw to first; Keppinger was called out by 1B umpire Casey Moser on a very"
-com,"close play; the Astros bench exploded, Keppinger yelled at Moser, but was restrained"
-com,"by 1B coach Jose Cruz; Astros manager Cecil Cooper argued with Moser and was"
-com,"ejected very quickly"
 play,8,1,hudso001,00,,NP
 sub,costc001,"Chris Coste",0,6,2
 play,8,1,hudso001,00,,NP
@@ -7062,7 +7040,6 @@ play,6,0,costc001,00,,NP
 sub,motag001,"Guillermo Mota",1,2,1
 play,6,0,costc001,00,,NP
 sub,dewib001,"Blake DeWitt",1,9,4
-com,"Dodgers second baseman Orlando Hudson left the game due to an injured hand/wrist"
 play,6,0,costc001,20,..BBX,7/F
 play,6,0,ortir001,12,CSFBFS,K
 play,6,0,bourm001,01,CX,5/BP5F
@@ -7160,9 +7137,6 @@ start,kempm001,"Matt Kemp",1,7,8
 start,castj004,"Juan Castro",1,8,4
 start,schmj001,"Jason Schmidt",1,9,1
 play,1,0,tavew001,32,CCBBFFBX,T8/F
-com,"$Willy Tavaras hit a ball at the top of the fence, which was ruled in play; Reds"
-com,"manager Dusty Baker argued that it should be a home run; acting crew chief Jerry"
-com,"Layne watched the replay and upheld the call"
 play,1,0,hairj002,22,BSFFF*BX,D7/L.3-H
 play,1,0,vottj001,32,CBCFBBFX,S9/L.2-3
 play,1,0,philb001,10,*B>C,SB2.3-H;1-3(E2/TH)
@@ -7186,7 +7160,6 @@ play,2,1,schmj001,22,BCFBFX,9/F
 play,2,1,furcr001,20,BBX,3!/G
 play,2,1,martr004,00,X,S8/L
 play,2,1,ramim002,20,B*BX,HR/7/F.1-H
-com,"$the 537th home run for Manny Ramirez, to pass Mickey Mantle"
 play,2,1,ethia001,21,BCBX,8/F
 play,3,0,vottj001,00,X,6/P
 play,3,0,philb001,11,CBX,13/G
@@ -7383,7 +7356,6 @@ play,7,0,encae001,22,CCBBC,K
 play,7,0,hanir001,00,,NP
 sub,tatuc001,"Craig Tatum",0,6,11
 play,7,0,tatuc001,00,.X,53/G
-com,"Debut game for Craig Tatum"
 play,7,1,lonej001,00,,NP
 sub,weatd001,"David Weathers",0,2,1
 play,7,1,lonej001,00,,NP
@@ -7979,7 +7951,6 @@ play,5,1,furcr001,32,F*BBFBX,3/G
 play,6,0,coghc001,11,BCX,43/G
 play,6,0,bonie001,12,SSBS,K
 play,6,0,ramih003,10,BH,HP
-com,"$both teams warned by HP umpire Bob Davidson"
 play,6,0,cantj001,22,BCFBX,8/F
 play,6,1,hudso001,10,BX,D8/F
 play,6,1,ethia001,11,CBX,S8/F-.2-3
@@ -8000,9 +7971,6 @@ play,7,0,uggld001,32,FFBBBFX,63/G
 play,7,0,rossc001,02,CSX,8!/F
 play,7,1,furcr001,22,CBSFBS,K
 play,7,1,hudso001,00,H,HP
-com,"ej,badeb001,P,davib902,Intentional HBP"
-com,"ej,gonzf801,M,davib902,Intentional HBP"
-com,"Marlins pitcher Burke Badenhop and manager Fredi Gonzalez ejected by HP umpire Bob Davidson"
 play,7,1,ethia001,00,,NP
 sub,pintr001,"Renyel Pinto",0,9,1
 play,7,1,ethia001,02,...SFS,K
@@ -8356,12 +8324,6 @@ play,8,1,blakc001,01,CX,9/F
 play,9,0,counc001,11,CBX,7/F
 play,9,0,iribh001,22,CBFFBX,53/G
 play,9,0,fielp001,00,H,HP
-com,"ej,motag001,P,barkl901,Intentional HBP"
-com,"$Prince Fielder stared at Dodgers pitcher Guillermo Mota, who was immediately ejected"
-com,"by HP umpire Lance Barksdale; two Dodgers had been hit earlier and the score was 17-4;"
-com,"Fielder was escorted to 1B by crew chief Randy Marsh and 1B coach Ed Sedar; after the"
-com,"game Fielder tried to get into the Dodger club house but was denied admission by security"
-com,"personnel; two teammates took Fielder back to the Brewers club house"
 play,9,0,swinr001,00,,NP
 sub,tronr001,"Ramon Troncoso",1,3,1
 play,9,0,swinr001,00,,NP
@@ -8772,13 +8734,6 @@ play,5,0,jurrj001,21,CBBX,13/G
 play,5,0,mclon001,12,CFBX,63/G
 play,5,1,furcr001,00,X,S8/F
 play,5,1,ethia001,31,111BBBCB,W.1-2
-com,"ej,cox-b103,M,coope901,Confusing call on pitch during steal"
-com,"$HP umpire Eric Cooper appeared to call a strike to Andre Ethier on the"
-com,"outside corner as Rafael Furcal was attempting to steal 2B; as 2B umpire"
-com,"Chuck Meriwether called Furcal out at 2B, Cooper called time, saying that"
-com,"the pitch was ball four; Braves manager Bobby Cox argued with Cooper and"
-com,"Cox kept making a strike call with his right arm imitating Cooper's motion;"
-com,"Cox was ejected by Cooper"
 play,5,1,ramim002,32,.BF*BBFC,K
 play,5,1,blakc001,00,X,HR/7/F.2-H;1-H
 play,5,1,lonej001,00,,NP
@@ -10283,7 +10238,6 @@ play,2,1,blakc001,31,BCBBX,7/L
 play,2,1,bellr002,02,CCX,HR/7/F
 play,2,1,lorem001,31,BBCBB,W
 play,2,1,castj004,02,CSFB,OA.1-2(E2)
-com,"$Ball slipped out of catcher's hand on return throw to pitcher"
 play,2,1,castj004,12,CSFB.X,7/L
 play,2,1,wolfr001,22,FBSBX,43/G
 play,3,0,rober002,10,BX,7/F
@@ -10895,9 +10849,6 @@ play,1,1,kempm001,11,CBX,7/L
 play,2,0,salao001,02,CCFX,S9/L
 play,2,0,venaw001,22,CSFBB1X,63/G.1-2
 play,2,0,hundn001,32,B*BFF*BX,S16/G.2-H(E6/TH1)(UR);B-3(E3/THH)
-com,"$the ball bounced off pitcher Clayton Kershaw to SS Rafael Furcal, who threw wide"
-com,"of first; the ball bounced off the wall and was recovered by James Loney, who bounced"
-com,"his throw to the plate"
 play,2,0,leblw001,32,CTBF*BFBX,3/G
 play,2,0,cabre001,20,BBX,9/F
 play,2,1,blakc001,31,CBBBB,W
@@ -11301,7 +11252,6 @@ play,9,0,gregl001,00,,NP
 sub,salao001,"Oscar Salazar",0,9,11
 play,9,0,salao001,32,.BCBBSX,9/F
 play,9,0,cabre001,31,FBBBX,S5/G.1-2
-com,"originally scored E5. changed after game to single"
 play,9,0,ecksd001,02,FCFFT,K
 play,9,1,lorem001,00,,NP
 sub,macid001,"Drew Macias",0,6,7
@@ -11720,8 +11670,6 @@ start,dewib001,"Blake DeWitt",1,6,5
 start,ausmb001,"Brad Ausmus",1,7,2
 start,castj004,"Juan Castro",1,8,6
 start,kuroh001,"Hiroki Kuroda",1,9,1
-com,"$umpire crew chief Gerry Davis was ill and did"
-com,"not start the game at the plate"
 play,1,0,mccua001,22,CCBBS,K
 play,1,0,laroa002,22,BBCFS,K
 play,1,0,joneg002,10,BX,D7/F
@@ -11751,8 +11699,6 @@ play,3,1,bellr002,21,B>C.B>B,CS3(25)
 play,3,1,bellr002,32,B>C.B>B.CB,W
 play,3,1,ethia001,00,X,5/P5F
 play,3,1,kempm001,22,C*BBCFF>X,4/L
-com,"umpchange,4,ump2b,everm901"
-com,"umpchange,4,ump3b,davig901"
 play,4,0,mossb001,22,BCBFC,K
 play,4,0,ceder002,10,BX,43/G
 play,4,0,jaraj001,22,CCFBBS,K
@@ -12561,8 +12507,6 @@ play,3,0,barmc001,01,CX,53/G
 play,3,0,delaj001,02,CSC,K
 play,3,1,hudso001,00,X,9/F
 play,3,1,martr004,12,CCBS,K
-com,"ej,schab801,C,eddid901,Balls and strikes"
-com,"Dodgers Bench Coach Bob Schaefer ejected by HP umpire Doug Eddings for arguing the strike zone"
 play,3,1,kersc001,12,BCC.FC,K
 play,4,0,gonzc001,12,CBFFS,K
 play,4,0,spilr001,32,BBFSBFC,K
@@ -12570,8 +12514,6 @@ play,4,0,heltt001,01,CX,S9/L
 play,4,0,tulot001,32,BCC*BF*B>X,43/G
 play,4,1,furcr001,20,BB,NP
 sub,contj002,"Jose Contreras",0,9,1
-com,"$Contreras entered with 2-0 count as de la Rosa left with"
-com,"tightness in right groin"
 play,4,1,furcr001,21,BB.CX,S9/L
 play,4,1,pierj002,01,CX,43/G.1-2
 play,4,1,kempm001,11,BFX,63/G.2-3
@@ -12609,8 +12551,6 @@ play,7,1,lonej001,00,X,24/SH/BG.2-3
 play,7,1,hudso001,00,,NP
 sub,bellr002,"Ronnie Belliard",1,7,11
 play,7,1,bellr002,31,.*BBCBX,S34/G.3-H
-com,"$Pitcher Morales failed to cover first on grounder that both first and"
-com,"second baseman had gone for."
 play,7,1,martr004,00,,NP
 sub,castj004,"Juan Castro",1,7,12
 play,7,1,martr004,31,BF.BBB,W.1-2

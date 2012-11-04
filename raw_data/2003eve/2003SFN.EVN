@@ -86,7 +86,6 @@ play,5,0,klesr001,01,CX,S9/F.1-2
 play,5,0,whitr001,32,BBBCC>S,K
 play,5,1,durhr001,00,,NP
 sub,merll001,"Lou Merloni",0,6,5
-com,"Burroughs left with injured neck/shoulder"
 play,5,1,durhr001,21,..BFBX,53/G
 play,5,1,cruzj004,22,BBCFX,S8/L
 play,5,1,aurir001,12,CBSX,4/P
@@ -849,7 +848,6 @@ play,4,1,schmj001,02,CCS,K
 play,4,1,durhr001,32,BBCFBX,S7/F
 play,4,1,alfoe001,00,,NP
 sub,peren001,"Neifi Perez (Diaz)",1,1,12
-com,"Giants Ray Durham left the game due to an injured groin"
 play,4,1,alfoe001,01,.CX,4/P
 play,5,0,hundt001,00,,NP
 sub,peren001,"Neifi Perez (Diaz)",1,1,4
@@ -1083,7 +1081,6 @@ play,6,1,benam001,22,.BSFFBS,K
 play,7,0,lugoj001,00,,NP
 sub,foppj001,"Jesse Foppert",1,9,1
 play,7,0,lugoj001,12,.CCBX,5!3/G+
-com,"Debut game for Jesse Foppert"
 play,7,0,blumg001,00,X,8/L
 play,7,0,biggc001,12,BCFFS,K
 play,7,1,grism001,31,BBCBX,S2/G-
@@ -1326,7 +1323,6 @@ start,snowj001,"J.T. Snow",1,6,3
 start,grism001,"Marquis Grissom",1,7,8
 start,benam001,"Marvin Benard",1,8,7
 start,ruetk001,"Kirk Rueter",1,9,1
-com,"1:10 delay sometime in game"
 play,1,0,biggc001,11,BCX,13/G
 play,1,0,ensbm001,32,CCBBBX,3/P3F
 play,1,0,bagwj001,31,BFBBX,S8/L
@@ -1953,7 +1949,6 @@ start,santb001,"Benito Santiago",1,6,2
 start,alfoe001,"Edgardo Alfonzo",1,7,5
 start,grism001,"Marquis Grissom",1,8,8
 start,ainsk001,"Kurt Ainsworth",1,9,1
-com,"1:28 delay during game"
 play,1,0,lopef001,32,BSSFBBT,K
 play,1,0,dunna001,12,BCSC,K
 play,1,0,cases001,01,CX,S9/F
@@ -2056,7 +2051,6 @@ play,9,0,cases001,11,.CBX,3/G
 play,9,0,keara001,22,BBCSFX,9/F
 play,9,0,boona001,10,BX,S8/L
 play,9,0,guilj001,00,1>B,SB2
-com,"changed from DI following day"
 play,9,0,guilj001,21,1>B.SB>X,43/G
 play,9,1,zerbc001,00,,NP
 sub,felip001,"Pedro Feliz",1,9,11
@@ -2116,7 +2110,6 @@ start,alfoe001,"Edgardo Alfonzo",1,6,5
 start,torry001,"Yorvit Torrealba",1,7,2
 start,river002,"Ruben Rivera (Moreno)",1,8,8
 start,foppj001,"Jesse Foppert",1,9,1
-com,"1:10 delay during game"
 play,1,0,lopef001,31,BBBCB,W
 play,1,0,dunna001,11,11BF>P,CS2(26)
 play,1,0,dunna001,32,11BF>P.SBFX,2/P2F
@@ -2628,9 +2621,6 @@ play,5,1,aurir001,32,BFBFB>B,W.2-3;1-2
 play,5,1,bondb001,00,,NP
 sub,smitd006,"Dan Smith",0,9,1
 play,5,1,bondb001,00,.X,5/P.3-H(NR);2-3;1-2
-com,"$Infield Fly rule called, but ball not caught. Runners"
-com,"started to run and Expos tried for for at the plate."
-com,"Clearly most of the players did not know the rule"
 play,5,1,cruzj004,02,CCX,43/G
 play,6,0,callr001,10,BX,31/G
 play,6,0,tatif001,02,CSS,K
@@ -3028,8 +3018,6 @@ play,1,0,alomr001,02,CFX,S7/L
 play,1,0,bellj001,31,B1BBCB,W.1-2
 play,1,0,piazm001,22,BCSB,NP
 sub,wilsv001,"Vance Wilson",0,3,11
-com,"Mets Mike Piazza left the game due to an injured groin;"
-com,"on 5/16 diagnosed as serious strain via MRI"
 play,1,0,wilsv001,22,BCSB.S,K
 play,1,0,floyc001,11,BFX,S9/G.2-H;1-3
 play,1,0,wiggt001,02,SSS,K
@@ -3056,7 +3044,6 @@ play,3,1,schmj001,00,,NP
 sub,gonzr002,"Raul Gonzalez",0,6,9
 play,3,1,schmj001,00,,NP
 sub,shint001,"Tsuyoshi Shinjo",0,7,8
-com,"Mets Roger Cedeno left the game due to an injured head"
 play,3,1,schmj001,22,..BCFBS,K
 play,3,1,grism001,21,FBBX,S8/G
 play,3,1,aurir001,01,F1X,S8/F-.1X3(85)
@@ -3110,8 +3097,6 @@ play,7,0,floyc001,00,,NP
 sub,torry001,"Yorvit Torrealba",1,4,2
 play,7,0,floyc001,00,,NP
 sub,eyres001,"Scott Eyre",1,9,1
-com,"ej,santb001,P,drecb901,Balls and strikes (while catching)"
-com,"Giants catcher Benito Santiago ejected by HP umpire Bruce Dreckman"
 play,7,0,floyc001,02,....CFX,7/F
 play,7,1,snowj001,00,,NP
 sub,lloyg001,"Graeme Lloyd",0,2,1
@@ -3578,7 +3563,6 @@ play,9,0,gonzl001,00,H,HP
 play,9,0,delld001,10,BX,4!3/G+
 play,9,1,cruzj004,00,,NP
 sub,mccrq001,"Quinton McCracken",0,3,7
-com,"Diamondbacks Luis Gonzalez left the game due to an injured leg"
 play,9,1,cruzj004,22,.SBSBS,K
 play,9,1,schmj001,00,,NP
 sub,galaa001,"Andres Galarraga",1,9,11
@@ -3586,10 +3570,6 @@ play,9,1,galaa001,10,.BX,E6/G+
 play,9,1,grism001,00,,NP
 sub,river002,"Ruben Rivera (Moreno)",1,9,12
 play,9,1,grism001,10,.BX,E9/F.1XH(9562)(E4/TH3);B-3(THH)
-com,"$Rivera had touched 2B and started back to 1B; he"
-com,"ran across the infield when the ball was dropped and"
-com,"then ran back to touch 2B again; he was nearly thrown"
-com,"out at 3B but the throw bounced off Cintron's glove"
 play,9,1,peren001,12,BSFFS,K
 play,10,0,gracm001,00,,NP
 sub,worrt002,"Tim Worrell",1,9,1
@@ -4055,7 +4035,6 @@ play,7,1,benam001,00,..X,6/P
 play,7,1,grism001,00,X,S8/G
 play,7,1,durhr001,11,1B1CX,S7/G.1-2
 play,7,1,aurir001,10,BX,6/P
-com,"Infield Fly rule"
 play,7,1,bondb001,00,,NP
 sub,lopej002,"Javier Lopez",0,9,1
 play,7,1,bondb001,12,.CBFS,K
@@ -4295,7 +4274,6 @@ play,3,1,schmj001,00,X,43/G
 play,3,1,grism001,12,CFBX,S8/G
 play,3,1,durhr001,31,B11SB1B>B,W.1-2
 play,3,1,aurir001,00,B,PB.2-3;1-2
-com,"$the pitch struck HP umpire Ed Rapuano"
 play,3,1,aurir001,12,B.CSS,K
 play,3,1,bondb001,30,IIII,IW
 play,3,1,santb001,12,BCFFFX,6!/L-
@@ -4310,15 +4288,10 @@ play,4,1,alfoe001,31,1BBBC>B,W.1-2
 play,4,1,cruzj004,20,2BBX,8/F.2-3
 play,4,1,schmj001,10,BX,34/SH/BG.1-2
 play,4,1,grism001,12,SFBS,K
-com,"umpchange,5,ump1b,nauep901"
-com,"umpchange,5,ump2b,(None)"
-com,"$1B umpire Mark Carlson goes to dressing room to change into his plate gear"
 play,5,0,chacs001,22,CCBBX,S9/G+
 play,5,0,sweem001,01,MX,1/BP
 play,5,0,nortg001,21,CBBX,4/P
 play,5,0,heltt001,00,X,9/F
-com,"umpchange,5,umphome,carlm901"
-com,"$Mark Carlson takes over as HR umpire for Ed Rapuano, who left the game"
 play,5,1,durhr001,10,BX,31/G
 play,5,1,aurir001,30,BBBB,W
 play,5,1,bondb001,32,CBCBFBX,41/G.1-3
@@ -5425,7 +5398,6 @@ play,9,0,belta001,02,.CFX,S6/G.1-2
 play,9,0,quanp001,00,,NP
 sub,wardd002,"Daryle Ward",0,8,11
 play,9,0,wardd002,01,.CX,5/P
-com,"Infield Fly rule"
 play,9,0,coraa001,00,,NP
 sub,barnl001,"Larry Barnes",0,9,11
 play,9,0,barnl001,01,.CX,E4/TH/G.2-H(NR)(UR);1-3;B-1
@@ -5463,7 +5435,6 @@ play,11,1,bondb001,00,,NP
 sub,gagne001,"Eric Gagne",0,8,1
 play,11,1,bondb001,32,.SBBBSFB,W
 play,11,1,galaa001,10,B>C,SB2
-com,"$Bonds' 500th stolen base; first with 500 HR/steals"
 play,11,1,galaa001,12,B>C.SS,K
 play,11,1,santb001,00,X,S7/G.2-H;B-2(TH)
 data,er,ishik001,2
@@ -5563,19 +5534,13 @@ play,6,0,jordb001,32,B>FFBB>F>F>X,S/G-.2-3;1-2
 play,6,0,wardd002,02,FFFFS,K
 play,6,1,schmj001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,4,7
-com,"Dodgers Brian Jordan left the game due to an injured knee"
 play,6,1,schmj001,02,..CSX,63/G
 play,6,1,durhr001,10,BX,S7/L-
 play,6,1,alfoe001,11,BC1,BK.1-2
-com,"ej,tracj101,M,marsr901,Balk call"
-com,"Dodgers Manager Jim Tracy ejected by 1B umpire Angel Hernandez"
 play,6,1,alfoe001,12,BC1..CX,4/P
 play,6,1,grism001,20,BBX,HR/7/F.2-H
 play,6,1,bondb001,32,CCBBBFX,S4/G+
 play,6,1,galaa001,10,1BX,3/P3F
-com,"ej,pereo001,P,herna901,Balk call"
-com,"Dodgers pitcher Odalis Perez ejected by 1B umpire Angel Hernandez"
-com,"for continuing to argue about the balk"
 play,7,0,belta001,01,.CX,53/G
 play,7,0,coraa001,01,CX,43/G
 play,7,0,iztuc001,21,BFBX,7/F
@@ -5939,7 +5904,6 @@ play,1,0,menef001,21,BBCX,S8/G.1-3(E8);B-1
 play,1,0,tejam001,22,CBCBX,S9/L.3-H;1-2
 play,1,0,durae001,31,BCBBB,W.2-3;1-2
 play,1,0,hernr002,00,X,3/P
-com,"Infield Fly rule"
 play,1,0,chave001,20,BBX,S9/L-.3-H;2-3;1-2
 play,1,0,piata001,32,BCBBCFX,D9/L.3-H;2-H;1-H
 play,1,0,longt002,22,CSFBBS,K
@@ -6294,8 +6258,6 @@ play,4,0,palmo001,10,B11>B,SB2
 play,4,0,palmo001,20,B11>B.X,43/G
 play,4,1,cruzj004,30,BBBB,W
 play,4,1,felip001,22,CBCBF>B,CS2(24)
-com,"ej,alouf101,M,reynj901,Call at 2B"
-com,"Giants Manager Felipe Alou ejected by 2B umpire Jim Reynolds"
 play,4,1,felip001,32,CBCBF>B..X,4/P
 play,4,1,torry001,21,CBBX,5/L
 play,5,0,widgc001,01,CX,S7/F-
@@ -6409,7 +6371,6 @@ play,2,0,drewj001,21,BBSX,36(1)1/GDP.2-3
 play,2,0,mathm001,31,BFBBB,W
 play,2,0,hared001,20,BB,NP
 sub,browj003,"Jim Brower",1,9,1
-com,"Giants Kirk Rueter left the game due to an injured neck/shoulder"
 play,2,0,hared001,31,BB..CBB,W.1-2
 play,2,0,hartb001,10,BX,43/G
 play,2,1,browj003,12,CSBX,S9/L
@@ -6425,8 +6386,6 @@ play,2,1,peren001,21,.FBBX,S8/F-.1X3(85)
 play,3,0,edmoj001,32,CSBBBS,K
 play,3,0,pujoa001,01,CX,53/G
 play,3,0,roles001,12,CBCX,5!3/G
-com,"ej,larut101,M,joycj901,Call at 1B"
-com,"Cardinals Manager Tony Larussa ejected by HP umpire Jim Joyce"
 play,3,1,felip001,22,.CSBBX,13/G
 play,3,1,torry001,22,CBBFC,K
 play,3,1,browj003,21,CBBX,43/G
@@ -6873,7 +6832,6 @@ play,2,0,womat001,02,CSX,43/G
 play,2,1,bondb001,31,BBFBB,W
 play,2,1,cruzj004,32,BBBCF1B,W.1-2
 play,2,1,aurir001,31,BBSBX,4/P
-com,"Infield Fly rule"
 play,2,1,alfoe001,00,X,S9/L-.2-H;1-3
 play,2,1,torry001,00,X,46(1)/FO/G.3-H;B-1
 play,2,1,schmj001,01,CB,WP.1-2
@@ -6905,7 +6863,6 @@ play,5,1,grism001,32,1BF11BB>F>X,9/F
 play,6,0,heltt001,11,BCX,S7/L+
 play,6,0,wilsp002,00,,NP
 sub,hergm001,"Matt Herges",1,9,1
-com,"Giants Jason Schmidt left the game due to an injured arm"
 play,6,0,wilsp002,12,SS..BC,K
 play,6,0,nortg001,32,B>FCBBB,W.1-2
 play,6,0,paytj001,11,FBX,4!6!(1)3/GDP
@@ -7046,7 +7003,6 @@ play,4,1,galaa001,32,SFBBBB,W
 play,4,1,aurir001,12,FBFFX,S7/L.1-2
 play,4,1,alfoe001,30,BBBB,W.2-3;1-2
 play,4,1,felip001,00,X,4/P
-com,"Infield Fly rule"
 play,4,1,casta001,12,CFFFBX,HR/7/F.3-H;2-H;1-H
 play,4,1,foppj001,22,BFFBS,K
 play,4,1,durhr001,00,X,9!/L-
@@ -7085,7 +7041,6 @@ play,7,0,cooka002,00,,NP
 sub,cruzj004,"Jose Cruz",1,2,8
 play,7,0,cooka002,00,,NP
 sub,torct001,"Tony Torcato",1,3,9
-com,"Giants Marquis Grissom left the game due to an injured knee"
 play,7,0,cooka002,00,,NP
 sub,walkl001,"Larry Walker",0,9,11
 play,7,0,walkl001,32,....FBCBBC,K
@@ -9288,8 +9243,6 @@ play,4,0,castv001,32,FBBCFB>S,K+CS2(24)/DP
 play,4,0,reyns001,32,SSBBFBB,W
 play,4,0,furcr001,00,,NP
 sub,browj003,"Jim Brower",1,9,1
-com,"$Foppert left with sore arm; next day placed on DL"
-com,"with 'neuritis in ulnar nerve'"
 play,4,0,furcr001,00,.X,7/F
 play,4,1,aurir001,12,CBFX,S7/G
 play,4,1,grism001,11,FBX,54(1)/FO/G
@@ -9330,9 +9283,6 @@ play,8,1,alfoe001,00,,NP
 sub,blanh001,"Henry Blanco",0,7,2
 play,8,1,alfoe001,32,.BBBCCX,4!3/G
 play,8,1,santb001,11,CBX,T7/F
-com,"ej,alouf101,M,marsr901,Arguing ball in play was HR"
-com,"Giants Manager Felipe Alou ejected by HP umpire Randy Marsh"
-com,"for arguing that Santiago's ball was a homer"
 play,8,1,galaa001,12,.BFFX,S9/F-.3-H
 play,8,1,cruzj004,21,BFBX,8/F
 play,8,1,hergm001,00,,NP
@@ -9448,7 +9398,6 @@ play,5,1,aurir001,01,1F1X,S8/L+.1-2
 play,5,1,grism001,01,CX,3/P3F
 play,5,1,bondb001,31,FBBBB,W.2-3;1-2
 play,5,1,galaa001,12,FBFFX,6/P
-com,"Infield Fly rule"
 play,5,1,santb001,10,BX,46(1)/FO/G
 play,6,0,ramih002,02,CFS,K
 play,6,0,furcr001,12,CFBS,K
@@ -10056,9 +10005,6 @@ sub,nortg001,"Greg Norton",0,9,11
 play,7,0,nortg001,02,.CFC,K
 play,7,1,felip001,00,,NP
 sub,berna001,"Adam Bernero",0,9,1
-com,"ej,hurdc001,M,barrt901,Balls and strikes"
-com,"Rockies manager Clint Hurdle ejected by HP umpire Ted Barrett"
-com,"for arguing balls and strikes"
 play,7,1,felip001,31,.CBBBX,HR/7/F+
 play,7,1,hergm001,00,,NP
 sub,durhr001,"Ray Durham",1,9,11
@@ -10367,8 +10313,6 @@ play,7,0,cinta001,22,SBF*BX,S7/G.2-3;1-2
 play,7,0,bautd001,21,B*BCX,D8/L.3-H;2-H;1-3;B-2
 play,7,0,hammr001,11,CBX,13/G
 play,7,1,aurir001,32,BBBCCC,K
-com,"ej,aurir001,P,nelsj901,Balls and strikes"
-com,"Giants Rich Aurilia ejected by HP umpire Jeff Nelson"
 play,7,1,alfoe001,22,.BSCBFC,K
 play,7,1,cruzj004,00,X,6/P
 play,8,0,counc001,00,,NP
@@ -10408,8 +10352,6 @@ sub,niekl001,"Lance Niekro",1,7,3
 play,9,0,katam001,00,,NP
 sub,torct001,"Tony Torcato",1,8,7
 play,9,0,katam001,00,.....X,43/G
-com,"Debut game for Noah Lowry"
-com,"Debut game for Lance Niekro"
 play,9,0,gonzl001,12,BFCC,K
 play,9,0,hills002,02,CSX,S8/F-
 play,9,0,cinta001,00,X,8/L-
@@ -11087,8 +11029,6 @@ play,9,1,rodrf002,00,,NP
 sub,durhr001,"Ray Durham",1,2,11
 play,9,1,durhr001,32,..BBFBFB,W
 play,9,1,hammj001,00,X,S9/L.1-2
-com,"ej,yoste001,M,joycj901,Balls and strikes"
-com,"Brewers Manager Ned Yost ejected by HP umpire Jim Joyce"
 play,9,1,bondb001,32,B.BBCFX,63/G.2-3;1-2
 play,9,1,alfoe001,30,IIII,IW
 play,9,1,galaa001,00,,NP
@@ -11226,8 +11166,6 @@ sub,bondb001,"Barry Bonds",1,2,11
 play,8,1,bondb001,32,..BCBBCB,W
 play,8,1,aurir001,00,,NP
 sub,youne001,"Eric Young",1,2,12
-com,"ej,bondb001,P,reynj901,Balls and strikes (from bench)"
-com,"Giants Barry Bonds ejected by HP umpire Jim Reynolds"
 play,8,1,aurir001,22,.L1BB1FC,K
 play,8,1,galaa001,01,.S>B,SB2
 play,8,1,galaa001,12,.S>B.SX,63/G+
@@ -11479,8 +11417,6 @@ sub,felip001,"Pedro Feliz",1,5,5
 play,9,0,mattg002,00,,NP
 sub,worrt002,"Tim Worrell",1,9,1
 play,9,0,mattg002,02,..CTFC,K
-com,"ej,mattg002,P,kulpr901,Called third strike"
-com,"Padres Gary Matthews ejected by HP umpire Ron Kulpa"
 play,9,0,kotsm001,32,.FFBFFBBX,S8/L
 play,9,0,benng001,00,,NP
 sub,vazqr001,"Ramon Vazquez",0,7,11

@@ -2509,7 +2509,6 @@ play,1,0,millk005,21,BBCX,HR/7/F.2-H;1-H
 play,1,0,paytj001,02,CFS,K
 play,1,1,dejed001,00,,NP
 sub,hernl004,"Luis Hernandez",0,1,4
-com,"Orioles second baseman Brian Roberts left the game due to an injured foot/ankle"
 play,1,1,dejed001,30,.BBBB,W
 play,1,1,germe001,32,BBCLBX,4/LDP.1X1(43)
 play,1,1,gorda001,21,FBBX,43/G
@@ -2532,8 +2531,6 @@ play,3,1,gorda001,01,CX,43/G
 play,4,0,huffa001,11,BCX,D9/G
 play,4,0,millk005,00,X,53/G
 play,4,0,paytj001,12,FBFS,K
-com,"ej,paytj001,P,tscht901,Balls and strikes"
-com,"Orioles left fielder Jay Payton ejected by HP umpire Tim Tschida"
 play,4,0,jonea003,12,.SCBX,13/G
 play,4,1,butlb003,00,,NP
 sub,scotl001,"Luke Scott",0,6,7
@@ -2807,9 +2804,6 @@ play,1,0,ordom001,22,BBCSX,9/F
 play,1,0,cabrm001,02,SS*B,OA.2X3(25)
 play,1,1,dejed001,12,CBFX,63/G
 play,1,1,grudm001,21,BCBX,D9
-com,"$Double was short fly that Ordonez dived for and held"
-com,"for short time and dropped. He then threw to first and"
-com,"Grudzielanek kept going to second"
 play,1,1,gorda001,00,X,7/F
 play,1,1,guilj001,00,X,3/P3F
 play,2,0,cabrm001,00,X,S57/L+
@@ -3603,7 +3597,6 @@ play,3,0,harrb001,11,BCX,53/G
 play,3,0,gomec002,11,BFX,63/G
 play,3,1,gloar001,21,CBBX,S8/L
 play,3,1,avilm001,02,CCC,K
-com,"Debut game for Mike Aviles"
 play,3,1,dejed001,00,>X,46(1)3/GDP
 play,4,0,casia001,01,CX,D9/G
 play,4,0,mauej001,12,BFSX,S9/G.2-3
@@ -4235,9 +4228,6 @@ play,8,1,buckj001,00,,NP
 sub,guare001,"Eddie Guardado",0,0,1
 play,8,1,buckj001,12,.BFSX,13/G-
 play,8,1,avilm001,32,CBCBFFFFFBX,9/F
-com,"ej,hillt801,M,everm901,Balls and strikes"
-com,"Royals Manager Trey Hillman ejected by HP umpire Mike Everitt"
-com,"for arguing a strike call on Joey Gathright"
 play,8,1,gathj001,22,BSBC.C,K
 play,9,0,kinsi001,10,BX,D7/L
 play,9,0,younm003,20,BBX,43/G.2-3
@@ -4479,7 +4469,6 @@ start,avilm001,"Mike Aviles",1,8,6
 start,gathj001,"Joey Gathright",1,9,8
 start,bannb001,"Brian Bannister",1,0,1
 play,1,0,kinsi001,32,CBFBBX,43/G
-com,"Debut game for Eric Hurley"
 play,1,0,boggb001,02,CFX,D7/F-
 play,1,0,younm003,01,CX,63/G
 play,1,0,hamij003,21,SBBX,43/G
@@ -4682,7 +4671,6 @@ play,6,0,winnr001,32,BBFBCFX,D9/L.2-H
 play,6,0,molib001,01,CX,3/P
 play,6,1,avilm001,00,,NP
 sub,burre001,"Emmanuel Burriss",0,2,4
-com,"Giants second baseman Ray Durham left the game due to an injured foot/ankle"
 play,6,1,avilm001,12,.BFFFX,4/P
 play,6,1,gorda001,01,SX,8/F
 play,6,1,guilj001,22,BBFSX,9/L
@@ -5021,8 +5009,6 @@ play,7,1,gathj001,00,X,S8/L.2-H(UR);1XH(82)(E7);B-3
 play,7,1,gorda001,32,CBBBCFB,W
 play,7,1,guilj001,00,,NP
 sub,walkt003,"Tyler Walker",0,0,1
-com,"ej,hinsa001,P,welkb901,Balls and strikes"
-com,"Giants pitcher Alex Hinshaw ejected by HP umpire Bill Welke"
 play,7,1,guilj001,22,..BFBCS,K
 play,8,0,bowkj001,01,CX,6/L
 play,8,0,castj005,00,X,53/G
@@ -5260,13 +5246,6 @@ play,2,0,torry001,00,X,D7/L
 play,2,0,tulot001,11,CBX,43/G
 play,2,1,guilj001,11,BFX,53/G
 play,2,1,olivm001,01,CX,63/G
-com,"umpchange,2,umphome,nauep901"
-com,"umpchange,2,ump1b,campa902"
-com,"umpchange,2,ump2b,(None)"
-com,"$Olivo's maple bat broke and the barrel struck plate umpire"
-com,"Brian O'Nora on the side of the head; he went to the KC dugout"
-com,"and was treated for a cut on the forehead; he was taken to the"
-com,"hospital for further evaluation"
 play,2,1,teahm001,22,BBSCS,K
 play,3,0,barmc001,02,CFS,K
 play,3,0,spilr001,12,CFBC,K
@@ -5815,7 +5794,6 @@ play,2,1,gloar001,12,BCSFFX,53/G
 play,2,1,buckj001,22,CBBFFFX,53/G
 play,3,0,schus001,00,,NP
 sub,germe001,"Esteban German",1,1,7
-com,"Royals center fielder David DeJesus left the game due to an injured chest"
 play,3,0,schus001,00,.X,D9/F
 play,3,0,milea001,00,X,54/SH/BG.2-3
 play,3,0,pujoa001,30,IIII,IW
@@ -6627,7 +6605,6 @@ play,2,0,belta001,12,CBFX,13/G
 play,2,0,reedj004,20,BBX,S8/G
 play,2,0,johjk001,00,X,8/L
 play,2,0,hulet002,02,CCS,K
-com,"Debut game for Tug Hulett"
 play,2,1,gloar001,01,SX,43/G
 play,2,1,germe001,32,BBBCCX,S7/L
 play,2,1,dejed001,00,X,S8/L.1-2
@@ -7695,8 +7672,6 @@ play,4,0,aybaw001,11,BF1X,46(1)/FO/G.3-H
 play,4,0,navad001,10,B>X,6(1)3/GDP
 play,4,1,butlb003,00,X,S5/G
 play,4,1,gorda001,00,X,13/SH/BG.1-2
-com,"ej,hillt801,M,onorb901,Call at 1B"
-com,"Royals Manager Trey Hillman ejected by 1B umpire Brian O'Nora"
 play,4,1,buckj001,22,.SBSBS,K
 play,4,1,gloar001,20,BBX,S9/L.2-H
 play,4,1,germe001,12,CBCS,K
@@ -8174,7 +8149,6 @@ play,5,1,guilj001,30,BBBB,W.1-2
 play,5,1,butlb003,21,BBCX,5(2)/FO/G.1-2
 play,6,0,grifk002,00,,NP
 sub,wised001,"Dewayne Wise",0,2,11
-com,"White Sox center fielder Ken Griffey left the game due to an injured leg"
 play,6,0,wised001,00,.X,S9/L
 play,6,0,quenc001,12,CCFF*BFFF.FFX,54(1)/FO/G.B-1
 play,6,0,dye-j001,30,*B*BB*B,W.1-2
@@ -8348,14 +8322,6 @@ play,5,1,gorda001,00,X,S9/G.2-3;1-2
 play,5,1,olivm001,00,,NP
 sub,carrd001,"D.J. Carrasco",0,0,1
 play,5,1,olivm001,11,.BFH,HP.3-H;2-3;1-2
-com,"ej,carrd001,P,timmt901,Intentional HBP"
-com,"ej,guilo001,M,timmt901,Intentional HBP"
-com,"ej,olivm001,P,timmt901,Charging the mound after HBP"
-com,"$Royals catcher Miguel Olivo charged the mound after two pitches were thrown at him,"
-com,"including the one that hit him; White Sox catcher A.J. Pierzynski restrained Olivo"
-com,"before he got to the mound; Royals base runner Jose Guillen ran over and grabbed"
-com,"Pierzynski; Olivo was ejected by HP umpire Tim Timmons; White Sox pitcher D. J."
-com,"Carrasco and manager Ozzie Guillen were ejected by HP umpire Tim Timmons"
 play,5,1,gloar001,00,,NP
 sub,buckj001,"John Buck",1,7,12
 play,5,1,gloar001,00,,NP
@@ -8399,9 +8365,6 @@ sub,hallt001,"Toby Hall",0,5,11
 play,7,0,hallt001,10,.BX,S8/F.3-H
 play,7,0,konep001,22,CFB*BS,K
 play,7,0,swisn001,11,CBH,HP.1-2
-com,"ej,greiz001,P,timmt901,Intentional HBP"
-com,"ej,hillt801,M,timmt901,Intentional HBP"
-com,"Royals pitcher Zack Greinke and Manager Trey Hillman ejected by HP umpire Tim Timmons"
 play,7,0,ramia003,00,,NP
 sub,tejer001,"Robinson Tejeda",1,0,1
 play,7,0,ramia003,20,...BBX,3/P3F
@@ -8692,10 +8655,6 @@ play,7,0,ortid001,00,X,5/P5F
 play,7,0,youkk001,22,CCBBFX,D8/L
 play,7,0,lowem001,01,CX,E5/G
 play,7,0,bay-j001,10,BX,D7/F.2-H;1-3
-com,"$Royals center fielder Mitch Maier attempted a leaping catch at the top of"
-com,"the wall in left-center; the ball hit his glove and landed on top of the"
-com,"wall where it rolled along for about 10 feet before left fielder Ross"
-com,"Gload swatted the ball off the fence and threw it into the infield"
 play,7,0,lowrj001,01,CX,T9/L.3-H(UR);2-H
 play,7,0,varij001,00,,NP
 sub,tejer001,"Robinson Tejeda",1,0,1
@@ -8796,7 +8755,6 @@ play,1,0,youkk001,22,BF1FBH,HP.1-2
 play,1,0,lowem001,01,CX,1/LDP.1X1(13)
 play,1,1,avilm001,00,,NP
 sub,cases001,"Sean Casey",0,4,3
-com,"$Red Sox first baseman Kevin Youkilis left the game due to a bruised hand"
 play,1,1,avilm001,22,.BBCCFX,53/G
 play,1,1,germe001,12,CBCS,K
 play,1,1,teahm001,32,BFFBFBX,S9/G
@@ -10361,7 +10319,6 @@ play,6,0,suzuk001,22,BFFBX,9/F
 play,6,1,teahm001,00,,NP
 sub,outmj001,"Josh Outman",0,0,1
 play,6,1,teahm001,32,.CFBBBFS,K
-com,"Debut game for Josh Outman"
 play,6,1,calla001,10,BX,63/G
 play,6,1,germe001,01,CX,S8/G
 play,6,1,dejed001,00,,NP
@@ -10674,7 +10631,6 @@ play,6,1,guilj001,00,.X,FC5.1X2(5E4);3-H;B-1
 play,6,1,butlb003,00,,NP
 sub,kaaik001,"Kila Ka'aihue",1,4,12
 play,6,1,butlb003,11,.BSX,54(1)3/GDP.2-3
-com,"Debut game for Kila Ka'aihue"
 play,6,1,calla001,12,CFBX,53/G
 play,7,0,bower002,00,,NP
 sub,smitj001,"Jason Smith",1,3,5
@@ -10856,7 +10812,6 @@ play,7,1,butlb003,12,FFBX,43/G
 play,8,0,gutif001,00,,NP
 sub,lowed002,"Devon Lowery",1,0,1
 play,8,0,gutif001,32,.BCCBFFFBS,K
-com,"Debut game for Devon Lowery"
 play,8,0,cabra002,22,BCBFFX,2/P2F
 play,8,0,sizeg001,32,BSCFBFFBFB,W
 play,8,0,carrj001,22,C1BBFFC,K
@@ -11215,7 +11170,6 @@ play,1,1,guilj001,01,CX,8/F
 play,1,1,shear001,12,CCB1X,S8/L-.1-3
 play,1,1,teahm001,10,BB,WP.3-H;1-2
 play,1,1,teahm001,21,BB.FX,S8/G.2X3(15)
-com,"$Ryan Shealy called out on appeal for missing 3B"
 play,2,0,lopej003,21,CBBX,6/L
 play,2,0,reedj004,02,CCFS,K
 play,2,0,hulet002,22,CSBFBS,K
@@ -11347,7 +11301,6 @@ start,duckb001,"Brandon Duckworth",1,0,1
 play,1,0,suzui001,12,BFFX,31/G
 play,1,0,betay001,32,CSBBBB,W
 play,1,0,ibanr001,21,BBF1X,9/FDP.1X2(16)
-com,"$Yuniesky Betancourt out on appeal"
 play,1,1,dejed001,10,BX,63/G
 play,1,1,calla001,10,BX,3/G
 play,1,1,avilm001,32,BBFBFX,9/F
@@ -11567,9 +11520,6 @@ play,7,1,shear001,10,BX,13/G+
 play,8,0,suzui001,00,,NP
 sub,mahar001,"Ron Mahay",1,0,1
 play,8,0,suzui001,10,.BX,S6/G-
-com,"$Suzuki's 200th hit of the season, his eighth consecutive year with at least"
-com,"200 hits; this ties the major league record set by Willie Keeler (1894-1901)"
-com,"and breaks the American League record set by Wade Boggs (1983-89)"
 play,8,0,betay001,00,X,9/F
 play,8,0,ibanr001,21,BC*BX,S8/L.1-2
 play,8,0,lopej003,00,,NP
@@ -11906,7 +11856,6 @@ sub,andeb003,"Brian Anderson",0,5,12
 play,7,0,piera001,01,.S*B,WP.1-2
 play,7,0,piera001,00,,NP
 sub,yabuy001,"Yasuhiko Yabuta",1,0,1
-com,"Royals pitcher Robinson Tejeda left the game due to an injured leg"
 play,7,0,piera001,12,.S*B..CS,K
 play,7,1,calla001,00,,NP
 sub,wised001,"Dewayne Wise",0,2,7

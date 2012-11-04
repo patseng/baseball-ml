@@ -684,8 +684,6 @@ play,1,1,drews001,30,BBBX,D8/F.1-H
 play,1,1,younc004,21,*BBFX,S8/L.2-H;B-2(THH)
 play,1,1,branr001,30,*BBBB,W+WP.2-3
 play,1,1,montm001,12,CFFF*BS,K
-com,"$Miguel Montero called out on a check swing by HP umpire Bob Davidson; Montero was angry about"
-com,"the call and barked as he walked away"
 play,2,0,berkl001,22,BFBFX,HR/9/F
 play,2,0,freed001,10,BX,HR/8/F
 play,2,0,schus001,32,CCBBBX,D8/F
@@ -705,10 +703,6 @@ play,3,0,berkl001,32,CBFBBX,S9/G
 play,3,0,freed001,11,BCX,6/L
 play,3,1,younc004,22,BCFBFX,S7/G
 play,3,1,branr001,00,X,S7/L.1-3
-com,"ej,gibsk001,M,davib902,Balls and strikes"
-com,"$on the first pitch to Miguel Montero, HP umpire Bob Davidson called a strike on a check swing much"
-com,"like the third strike in the first inning; Arizona manager Kirk Gibson yelled from the dugout and was"
-com,"ejected by Davidson"
 play,3,1,montm001,02,S.TS,K
 play,3,1,rober002,30,IIII,IW.1-2
 play,3,1,galaa002,01,CX,63/G-.3-H;2-3;1-2
@@ -766,8 +760,6 @@ sub,miraj001,"Juan Miranda",1,9,11
 play,6,1,miraj001,12,.STBX,HR/89/F.3-H;2-H
 play,6,1,bloow001,11,CBX,8/L
 play,6,1,johnk003,12,BFCFC,K
-com,"$on the last pitch to Kelly Johnson, Cardinals pitcher Bryan Augenstein suffered a right groin"
-com,"strain and left the game"
 play,7,0,augeb001,00,,NP
 sub,hernd002,"David Hernandez",1,9,1
 play,7,0,augeb001,31,.CBBBX,S8/L
@@ -1828,7 +1820,6 @@ play,1,0,maybj001,22,BFBCFS,K
 play,1,0,ruizc001,11,BFX,7/F
 play,1,1,younc004,00,,NP
 sub,schnb001,"Brian Schneider",0,7,2
-com,"Phillies catcher Carlos Ruiz left the game due to an injured back"
 play,1,1,younc004,22,.BCSBX,4/P
 play,1,1,johnk003,21,BCBX,13/G-
 play,1,1,uptoj001,12,BCCS,K
@@ -2336,7 +2327,6 @@ play,8,0,soria001,00,,NP
 sub,hernd002,"David Hernandez",1,9,1
 play,8,0,soria001,00,,NP
 sub,penac001,"Carlos Pena",0,5,12
-com,"Cubs third baseman Jeff Baker left the game due to an injured shoulder"
 play,8,0,soria001,22,..BFFBS,K
 play,8,1,hernd002,00,,NP
 sub,penac001,"Carlos Pena",0,5,3
@@ -2350,10 +2340,6 @@ play,9,0,byrdm001,00,,NP
 sub,putzj001,"J.J. Putz",1,9,1
 play,9,0,byrdm001,11,..CBX,S7/L
 play,9,0,sotog001,00,1X,16(1)/FO/BG
-com,"ej,quadm801,M,belld901,Call at 2B"
-com,"$Diamondbacks pitcher J.J. Putz threw wildly to second pulling SS Stephen Drew off"
-com,"the bag to the left side; when runner Marlin Byrd was called out by 2B umpire Dan"
-com,"Bellino, Cubs Manager Mike Quade loudly argued the call and was ejected by Bellino"
 play,9,0,garzm001,00,,NP
 sub,colvt001,"Tyler Colvin",0,9,11
 play,9,0,colvt001,32,..SFFF1FBBFB1>F>B,W.1-2
@@ -3123,7 +3109,6 @@ play,7,1,gutij002,00,,NP
 sub,venaw001,"Will Venable",0,5,8
 play,7,1,gutij002,00,,NP
 sub,branr001,"Russell Branyan",1,9,11
-com,"Padres center fielder Cameron Maybin left the game due to an injured knee"
 play,7,1,branr001,00,..X,3/G
 play,7,1,younc004,12,CBSX,53/G
 play,7,1,moram002,00,X,63/G
@@ -3593,9 +3578,6 @@ play,6,1,drews001,21,CBBX,8/F
 play,6,1,younc004,00,X,HR/7/F
 play,6,1,montm001,10,BX,S8/G
 play,6,1,miraj001,11,FB1X,T8/F.1-H
-com,"$Juan Miranda's fly ball hit just to the left of the vertical line on the wall in CF;"
-com,"it was ruled in play but Diamondbacks manager Kirk Gibson asked about the call; crew"
-com,"chief Joe West watched the replay and upheld the call"
 play,6,1,parrg001,30,IIII,IW
 play,6,1,collj001,00,,NP
 sub,burrs001,"Sean Burroughs",1,9,11
@@ -3759,9 +3741,6 @@ play,8,0,plout001,32,C1CFFFBB*B>F>F>B,W.1-2
 play,8,0,kubej002,00,,NP
 sub,heila001,"Aaron Heilman",1,9,1
 play,8,0,kubej002,20,.BBX,T9/F.2-H;1-H
-com,"$Jason Kubel's fly ball hit the overhand in the deepest part of CF just to the left of the"
-com,"vertical yellow line; it was ruled in play but the Twins asked about the call so crew chief"
-com,"Tim Tschida watched the replay and upheld the call"
 play,8,0,mornj001,02,SFT,K
 play,8,1,drews001,00,,NP
 sub,buted001,"Drew Butera",0,8,2
@@ -3933,10 +3912,6 @@ play,8,0,cuddm001,00,,NP
 sub,heila001,"Aaron Heilman",1,9,1
 play,8,0,cuddm001,22,.BSSBFX,E6/G.1-2
 play,8,0,valed001,22,BCSBFX,S9/L.2-H;1-H(E9/THH)(E1/TH2)(UR);B-2
-com,"$Justin Upton's throw to the plate bounced by catcher Miguel Montero; pitcher Aaron Heilman"
-com,"caught the ball and threw to 2B; the ball bounced and was not handled by SS Stephen Drew;"
-com,"when Michael Cuddyer tried to score, Drew's throw back to the plate was late as Cuddyer"
-com,"touched the plate just ahead of Montero's tag"
 play,8,0,yound003,11,SBX,5/P
 play,8,0,buted001,12,CSBFX,43/G
 play,8,1,younc004,10,BX,S7/G
@@ -5077,10 +5052,6 @@ play,2,0,espid001,02,CCX,S9/L.1-3
 play,2,0,ramow001,22,BFFBC,K
 play,2,0,coraa001,32,BBBCF>F>F>B,W.1-2
 play,2,0,marqj001,22,BBSCFS,K
-com,"$Jason Marquis swung at a pitch which came in on him; the ball glanced off his"
-com,"bat and hit Marquis in the chest; 3B umpire Vic Carapazza ruled it a swing on"
-com,"the half swing; Marquis argued that the ball struck the bat but he was ruled"
-com,"out on strike three"
 play,2,1,miraj001,20,BBX,31/G
 play,2,1,moram002,01,SX,63/G
 play,2,1,kenni001,22,BCBCS,K
@@ -5104,15 +5075,10 @@ play,4,1,miraj001,12,BSF*B,OA.2X3(25)
 play,5,0,bernr001,01,FX,S1/BG
 play,5,0,desmi001,00,X,13/SH/BG.1-2
 play,5,0,wertj001,00,H,HP
-com,"$Jayson Werth was not happy that he was hit by the pitch; HP umpire Rob Drake"
-com,"ran out from behind the plate and escorted Werth down the line towards 1B; Drake"
-com,"issued a warning to both teams"
 play,5,0,nix-l001,22,FFB*BX,6/P/IF
 play,5,0,morsm001,11,BCH,HP.2-3;1-2
 play,5,0,espid001,00,X,31/G
 play,5,1,miraj001,20,BBX,9/F9LF
-com,"$Jayson Werth ran into foul territory, leapt and caught the ball over the top of the"
-com,"fence at the visiting bullpen"
 play,5,1,moram002,01,CX,63/G
 play,5,1,kenni001,12,SBFS,K
 play,6,0,ramow001,01,FX,6/P
@@ -5121,12 +5087,6 @@ play,6,0,marqj001,00,X,8/F
 play,6,1,bloow001,22,FBBSFS,K
 play,6,1,johnk003,30,BBBB,W
 play,6,1,uptoj001,00,H,HP.1-2
-com,"ej,marqj001,P,drakr901,Intentional HBP"
-com,"ej,riggj801,M,drakr901,Intentional HBP"
-com,"$Justin Upton gets hit for the fourth time in the series; Nationals pitcher Jason Marquis"
-com,"and manager Jim Riggleman were ejected by HP umpire Rob Drake because of the earlier warnings;"
-com,"Marquis yells at Drake because he claimed not to be throwing at a batter in a 1-0 game;"
-com,"Riggleman came out and argued with crew chief Gary Darling to no avail"
 play,6,1,drews001,00,,NP
 sub,clipt001,"Tyler Clippard",0,9,1
 play,6,1,drews001,02,...CFS,K
@@ -5142,12 +5102,6 @@ sub,vasqe001,"Esmerling Vasquez",1,9,1
 play,8,0,nix-l001,01,.CX,D7/L
 play,8,0,morsm001,11,SBX,9/F
 play,8,0,espid001,01,CH,HP
-com,"ej,vasqe001,P,drakr901,Intentional HBP"
-com,"ej,gibsk001,M,drakr901,Intentional HBP"
-com,"$Danny Espinosa is hit on the back by the pitch; he yells at pitcher Esmerling Vasquez and"
-com,"HP umpire Rob Drake leans on Espinosa and starts him down the 1B line; catcher Miguel Montero"
-com,"yells at Espinosa; Drake ejected Vasquez and D-Backs manager Kirk Gibson because of the earlier"
-com,"warnings"
 play,8,0,ramow001,00,,NP
 sub,heila001,"Aaron Heilman",1,9,1
 play,8,0,ramow001,01,...CX,HR/7/F.2-H;1-H
@@ -5489,7 +5443,6 @@ play,6,0,huffa001,22,CBBFX,S7/L
 play,6,0,burrp001,31,B1FB1B1B,W.1-2
 play,6,0,hallb001,00,X,S8/L.2-H;1-2
 play,6,0,white004,22,CB*BSX,64(1)3/G/DP
-com,"$batter Eli Whiteside called out because of interference by runner Bill Hall at 2B"
 play,6,1,johnk003,12,BCFFX,43/G
 play,6,1,uptoj001,11,CBX,S6/G
 play,6,1,younc004,32,1CBBBF1B,W.1-2
@@ -7348,13 +7301,7 @@ play,4,0,mcgec001,22,FB1F111BS,K
 play,4,1,drews001,21,BFBX,D9/L+
 play,4,1,uptoj001,21,*BBFX,63/G
 play,4,1,younc004,11,CBX,D7/L.2XH(752)
-com,"$D-Backs SS Stephen Drew ran through a stop sign at 3B; as he slid across the plate, his"
-com,"right foot got caught under him; he left with a fractured right ankle and is done for the year"
 play,4,1,rober002,11,F*BX,8/F-
-com,"$Brewers CF Carlos Gomez made a diving catch of Ryan Roberts soft liner in left center; he"
-com,"landed on his left shoulder and rolled, coming back to his feet; however, he fractured his"
-com,"left clavicle when he landed and left the game; LF Ryan Braun said that he heard the bone"
-com,"snap as he was running towards the ball"
 play,5,0,betay001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,1,6
 play,5,0,betay001,00,,NP
@@ -7389,10 +7336,6 @@ play,8,0,hartc001,00,,NP
 sub,shawb001,"Bryan Shaw",1,9,1
 play,8,0,hartc001,12,.SBFC,K
 play,8,0,morgn001,10,BX,1/L
-com,"$Ryan Braun hit the second pitch down the RF line; the ball was ruled fair and a home run;"
-com,"when D-Backs manager Kirk Gibson asked 1B umpire Marvin Hudson about the call, Hudson"
-com,"conferred with crew chief Tim McClelland; McClelland watched the replay and overturned"
-com,"the call to a foul ball"
 play,8,0,braur002,11,BFX,D7/L
 play,8,0,fielp001,30,IIII,IW
 play,8,0,weekr001,02,FSFX,13/G
@@ -7666,7 +7609,6 @@ play,3,1,younc004,01,CX,63/G
 play,3,1,montm001,20,BBX,8/F
 play,4,0,wiggt001,00,,NP
 sub,rober002,"Ryan Roberts",1,2,4
-com,"D-backs second baseman Kelly Johnson left the game due to an injured leg"
 play,4,0,wiggt001,00,.X,D8/F
 play,4,0,spilr001,01,FX,FC1/G.B-1
 play,4,0,iannc001,11,SBX,64(1)3/GDP.2-3
@@ -7983,7 +7925,6 @@ play,2,1,rober002,21,CBBX,S8/L
 play,2,1,alleb001,11,1C1B>P,CS2(26)
 play,3,0,iannc001,00,,NP
 sub,burrs001,"Sean Burroughs",1,6,5
-com,"D-backs third baseman Geoff Blum left the game due to an injured hand"
 play,3,0,iannc001,31,.BBBCB,W
 play,3,0,jimeu001,01,11L1X,34/SH/BG.1-2
 play,3,0,fowld001,30,BBBB,W
@@ -8307,7 +8248,6 @@ play,3,1,johnk003,00,X,S9/L
 play,3,1,uptoj001,00,1,POCS2(136)
 play,3,1,uptoj001,00,,NP
 sub,carrj001,"Jamey Carroll",0,1,6
-com,"Dodgers shortstop Dee Gordon left the game due to an injured shoulder"
 play,3,1,uptoj001,12,1..BSSS,K
 play,3,1,younc004,20,BBX,8/F
 play,4,0,milea001,01,CX,4/P
@@ -9219,7 +9159,6 @@ play,2,1,rober002,01,CX,53/G
 play,2,1,parrg001,11,FBX,31/G
 play,3,0,tejar001,00,,NP
 sub,goldp001,"Paul Goldschmidt",1,6,3
-com,"D-backs first baseman Xavier Nady left the game due to a fractured hand"
 play,3,0,tejar001,11,.BCX,63/G
 play,3,0,gee-d001,22,CCBBX,2/P2F
 play,3,0,pagaa001,12,BCCX,S7/G
@@ -9385,7 +9324,6 @@ play,5,0,dudal001,10,BX,8/F
 play,5,1,parrg001,01,FX,S16/L+
 play,5,1,hudsd001,00,,NP
 sub,carrd001,"D.J. Carrasco",0,9,1
-com,"Mets pitcher Mike Pelfrey left the game due to an injured elbow"
 play,5,1,hudsd001,00,.X,34/SH/BG.1-2
 play,5,1,bloow001,12,BLFFH,HP
 play,5,1,rober002,00,X,HR/7/F.2-H;1-H
@@ -9496,7 +9434,6 @@ play,2,1,goldp001,22,BBSSC,K
 play,3,0,tejar001,01,CX,8/L
 play,3,0,capuc001,11,BCX,43/G
 play,3,0,pagaa001,10,BX,S1/G
-com,"$D-backs pitcher Jason Marquis was hit by a one-hopper on the lower right leg"
 play,3,0,turnj001,11,F1P>B,SB2
 play,3,0,turnj001,31,F1P>B.*BB,W
 play,3,0,wrigd002,00,X,63/G
@@ -9508,10 +9445,6 @@ play,3,1,uptoj001,22,CCBBC,K
 play,4,0,dudal001,11,BCX,HR/9/F
 play,4,0,bay-j001,00,X,8/F
 play,4,0,tholj001,02,CCH,HP
-com,"$Josh Thole fell to the ground after being hit by the pitch; pitcher Jason Marquis fell"
-com,"to the ground after throwing the pitch as he felt something pop in his leg; apparently,"
-com,"his right fibula was fractured when he was hit by the batter ball in the third inning"
-com,"and pushing off the mound completed the break"
 play,4,0,pridj001,00,,NP
 sub,dukez001,"Zach Duke",1,9,1
 play,4,0,pridj001,32,.1CCB*BFBS,K
@@ -9864,7 +9797,6 @@ play,8,0,forsl001,12,CC*BFX,7/L
 play,8,0,gonza005,32,BBSBFX,S13/L+.1-2
 play,8,0,guzmj005,00,,NP
 sub,ziegb001,"Brad Ziegler",1,9,1
-com,"D-backs pitcher David Hernandez left the game due to an injured ankle"
 play,8,0,guzmj005,21,.BCBX,8/F
 play,8,0,blank002,21,BCBX,5(2)/FO/G.1-2
 play,8,1,rober002,00,,NP
@@ -10092,7 +10024,6 @@ play,1,1,younc004,22,FBBFS,K
 play,2,0,heltt001,31,BFBBB,W
 play,2,0,smits002,11,CBX,S9/G.1-2
 play,2,0,kouzk001,10,BX,7/F.2-3;1-2(TH3)
-com,"originally E7 for batter advance, changed next day to remove error"
 play,2,0,iannc001,32,SSBBBS,K
 play,2,0,whita001,01,CX,9/F
 play,2,1,parrg001,01,LX,S9/G
@@ -10296,7 +10227,6 @@ sub,owinm001,"Micah Owings",1,9,1
 play,7,0,fowld001,22,.CBBTC,K
 play,7,0,ellim001,02,CCFFX,9/F
 play,7,0,gonzc001,00,X,DGR/3
-com,"fan interference"
 play,7,0,tulot001,12,CCBX,63/G
 play,7,1,cowgc001,00,,NP
 sub,brotr001,"Rex Brothers",0,9,1
@@ -11192,9 +11122,6 @@ play,6,0,karsj001,12,CBCC,K
 play,6,0,presa001,12,CCBFFX,63/G
 play,6,0,walkn001,20,BBX,7/F
 play,6,1,uptoj001,30,BBBX,HR/7/F
-com,"$Justin Upton broke his bat on the fly that was touched by a fan at the LF wall as Alex Presley"
-com,"leaped to attempt a catch; the play was ruled a home run but the Pirates objected to the call;"
-com,"crew chief Brian Gorman watched the replay and upheld the call"
 play,6,1,montm001,10,BX,43/G
 play,6,1,goldp001,22,BCBFFC,K
 play,6,1,younc004,11,CBX,9/F
@@ -11386,7 +11313,6 @@ play,8,1,blumg001,00,,NP
 sub,watst001,"Tony Watson",0,6,1
 play,8,1,blumg001,01,..C1X,3/P
 play,8,1,bloow001,00,X,S5/BG.3-H;1-3(E5/TH)
-com,"originally scored as E5, changed next day to single plus error"
 play,8,1,hilla001,22,1FCBB1X,9/F
 play,9,0,watst001,00,,NP
 sub,cookr001,"Ryan Cook",1,9,1
@@ -11992,7 +11918,6 @@ play,1,0,beltc001,22,CFFBFBX,3/G
 play,1,1,parrg001,20,BBX,7/L
 play,1,1,hilla001,32,BBBCFB,W
 play,1,1,uptoj001,12,BCFH,HP.1-2
-com,"$Justin Upton was hit on the front of the helmet by a 93-MPH fast ball"
 play,1,1,montm001,20,BBX,D8/L.2-H;1-H
 play,1,1,goldp001,11,CBX,S9/F-.2XH(92);B-2(THH)
 play,1,1,blumg001,01,CX,53/G
@@ -12000,8 +11925,6 @@ play,2,0,sandp001,00,,NP
 sub,parrg001,"Gerardo Parra",1,1,9
 play,2,0,sandp001,00,,NP
 sub,gillc002,"Cole Gillespie",1,3,7
-com,"$D-backs right fielder Justin Upton left the game due to an injured head; he felt"
-com,"nauseous while running the bases"
 play,2,0,sandp001,11,..BCX,7/F
 play,2,0,pillb001,12,CBFFX,4/P
 play,2,0,beltb001,01,CX,7/F
@@ -12031,9 +11954,6 @@ play,5,0,stewc001,11,BFX,3/P3F
 play,5,0,linct001,22,CFBBX,63/G
 play,5,1,parrg001,02,CFFX,S8/G
 play,5,1,hilla001,01,F>S,SB2
-com,"ej,bochb002,M,darlg901,Call at 2B"
-com,"$the throw beat Gerardo Parra but was high and 2B Jeff Keppinger did not tag Parra;"
-com,"Giants Manager Bruce Bochy ejected by 2B umpire Gary Darling"
 play,5,1,hilla001,12,F>S..*BX,DGR/7/F.2-H
 play,5,1,gillc002,31,BBBCB,W
 play,5,1,montm001,01,FX,S9/F.2-3;1-2

@@ -243,7 +243,6 @@ play,5,1,valdw001,00,X,S9/G.2-H
 play,5,1,lee-c003,22,BFFBX,53/G.1-2
 play,5,1,victs001,00,,NP
 sub,maybj001,"John Mayberry",1,1,11
-com,"Phillies center fielder Shane Victorino left the game due to an injured leg"
 play,5,1,maybj001,12,.CBSS,K
 play,6,0,bourm001,00,,NP
 sub,maybj001,"John Mayberry",1,1,8
@@ -445,9 +444,6 @@ play,8,1,gloar001,12,...BSFX,63/G
 play,8,1,polap001,12,CFBX,D7/L
 play,8,1,rollj001,31,FBBBB,W
 play,8,1,howar001,01,CX,761(2)/FO/F.1-2
-com,"$This scoring is correct. Left fielder came and ball was carried"
-com,"by wind, deflecting off his glove to shortstop. Runner on 2nd had"
-com,"to hold as he thought ball might be caught, so he was easily forced"
 play,8,1,ibanr001,31,BBBCB,W.2-3;1-2
 play,8,1,franb001,02,CSFS,K
 play,9,0,wallb001,00,,NP
@@ -555,7 +551,6 @@ play,4,1,rollj001,00,X,9/L
 play,4,1,howar001,32,FFBBFBS,K
 play,4,1,ibanr001,11,CBX,S7/L.1-2
 play,4,1,franb001,11,CBX,9/F9LF
-com,"fan interference"
 play,5,0,emaub001,12,CCBFX,8/F
 play,5,0,nickm001,12,BCCFX,53/G
 play,5,0,younc003,02,CCX,S4/G
@@ -1050,7 +1045,6 @@ play,7,0,morrl001,00,,NP
 sub,franb001,"Ben Francisco",1,6,9
 play,7,0,morrl001,00,,NP
 sub,romej001,"J.C. Romero",1,9,1
-com,"Phillies pitcher Roy Oswalt left the game after straining his back while bunting"
 play,7,0,morrl001,22,..CBCBX,S13/G-
 play,7,0,sancg001,00,,NP
 sub,baezd001,"Danys Baez",1,9,1
@@ -1389,7 +1383,6 @@ play,9,0,weekr001,10,BX,3/P
 play,9,0,gomec002,00,X,S6/G
 play,9,0,braur002,00,,NP
 sub,hernd003,"David Herndon",1,9,1
-com,"Phillies pitcher J. C. Romero left the game due to an injured leg"
 play,9,0,braur002,22,.1B1CF>F>FB1>B,SB2
 play,9,0,braur002,32,.1B1CF>F>FB1>B.>X,63/G
 play,9,1,ruizc001,00,,NP
@@ -1681,10 +1674,6 @@ play,2,1,howar001,21,SBBX,43/G
 play,2,1,franb001,12,CCBX,53/G
 play,2,1,maybj001,12,BFSX,53/G
 play,3,0,weekr001,02,CSX,3/G-
-com,"$Richie Weeks hit the ball down the first base line; it was rolling in foul territory"
-com,"near the grass but the spin carried the ball back into fair territory just before it reached the"
-com,"bag; Ryan Howard waited for the ball and once it crossed the line, he picked it up and stepped"
-com,"on the bag for the out; Weeks never ran, he was standing outside the batter's box when put out"
 play,3,0,gomec002,21,BFBX,3/P3F
 play,3,0,braur002,22,CCBFBX,E4/P
 play,3,0,fielp001,11,BCX,D8/L.1-H(UR)
@@ -2167,10 +2156,6 @@ play,7,1,franb001,02,CFH,HP.1-2
 play,7,1,ibanr001,22,BBFFS,K
 play,7,1,orr-p001,32,BSFBB>B,W.2-3;1-2
 play,7,1,schnb001,22,BBFFS,K
-com,"ej,manuc101,M,barkl901,Checked swing"
-com,"$the pitch was ruled a ball but the Mets asked for an appeal on the check swing by"
-com,"Brian Schneider; 3B umpire Lance Barksdale ruled a swing for the third strike;"
-com,"Phillies manager Charlie Manuel went out to Barksdale and was ejected"
 play,8,0,bay-j001,00,,NP
 sub,stutm001,"Michael Stutes",1,9,1
 play,8,0,bay-j001,01,..CX,4/P
@@ -2493,12 +2478,6 @@ play,3,1,worlv001,12,CBCFX,43/G
 play,3,1,rollj001,02,FCFX,7/F
 play,4,0,wertj001,02,FCX,63/G
 play,4,0,laroa001,32,BBCCFBC,K
-com,"ej,riggj801,M,marqa901,Called third strike"
-com,"$Adam LaRoche was called out on a pitch that started inside and moved onto"
-com,"the edge of the plate; he talked to HP umpire Alfonso Marquez as he walked"
-com,"away; Nationals Manager Jim Riggleman came out of the dugout to get LaRoche"
-com,"off the field and was talking with Marquez at the same time; after a brief"
-com,"exchange from a distance away, Riggleman was ejected by Marquez"
 play,4,0,ramow001,12,.CFBX,43/G
 play,4,1,victs001,21,BCBX,43/G
 play,4,1,polap001,10,BX,S7/L
@@ -2834,7 +2813,6 @@ play,7,1,howar001,00,,NP
 sub,oflae001,"Eric O'Flaherty",0,9,1
 play,7,1,howar001,00,,NP
 sub,valdw001,"Wilson Valdez",1,3,12
-com,"Phillies third baseman Placido Polanco left the game due to an injured foot"
 play,7,1,howar001,32,..BSSBBS,K
 play,7,1,franb001,12,BFSS,K
 play,7,1,ibanr001,22,SFBBS,K
@@ -3152,7 +3130,6 @@ play,8,1,victs001,00,,NP
 sub,hernd001,"Diory Hernandez",0,7,6
 play,8,1,victs001,00,,NP
 sub,ventj001,"Jonny Venters",0,9,1
-com,"Braves shortstop Alex Gonzalez left the game due to an injured groin"
 play,8,1,victs001,32,..FSBBBX,T7/F
 play,8,1,polap001,11,.CBX,S16/G.3-H
 play,8,1,howar001,02,FCX,46(1)/FO/G
@@ -3382,7 +3359,6 @@ play,3,0,iannc001,22,FBBFFFC,K
 play,3,1,ruizc001,12,CCBX,S7/F-
 play,3,1,orr-p001,00,,NP
 sub,spilr001,"Ryan Spilborghs",0,3,7
-com,"Rockies left fielder Carlos Gonzalez left the game due to an injured groin"
 play,3,1,orr-p001,10,.BX,36(1)/FO/G
 play,3,1,kendk001,00,,NP
 sub,lee-c003,"Cliff Lee",1,9,11
@@ -4316,9 +4292,6 @@ sub,browd004,"Domonic Brown",1,2,9
 play,10,0,brucj001,00,,NP
 sub,basta001,"Antonio Bastardo",1,9,1
 play,10,0,brucj001,10,..BX,HR/9/F
-com,"$Jay Bruce's fly ball was caught and dropped by a fan at the fence; it was ruled a homer but, after a brief"
-com,"umpire conference, crew chief Brian Gorman watched the replay and upheld the call as the fan did not reach"
-com,"out over the fence to touch the ball"
 play,10,0,hernr002,11,BSX,5/P5F
 play,10,0,massn001,00,,NP
 sub,gomej001,"Jonny Gomes",0,7,11
@@ -4423,7 +4396,6 @@ play,19,0,vottj001,00,,NP
 sub,sardd001,"Dane Sardinha",1,7,2
 play,19,0,vottj001,00,,NP
 sub,valdw001,"Wilson Valdez",1,8,1
-com,"$Phillies 2B Wilson Valdez, who had three hits in the game, moved to the mound and earned the win"
 play,19,0,vottj001,31,....BFBBX,8/F
 play,19,0,roles001,00,H,HP
 play,19,0,brucj001,01,CX,8/F
@@ -4535,7 +4507,6 @@ play,5,0,philb001,02,FSX,S9/L
 play,5,0,vottj001,02,FF1X,6(1)3/GDP
 play,5,1,martm003,00,,NP
 sub,thomd003,"Daryl Thompson",0,9,1
-com,"Reds pitcher Homer Bailey left the game due to an injured shoulder"
 play,5,1,martm003,12,.FBSFX,8/F
 play,5,1,browd004,32,BBSBFFB,W
 play,5,1,utlec001,22,BFFB>X,43/G.1-2
@@ -4678,9 +4649,6 @@ play,5,1,utlec001,22,CFBBC,K
 play,6,0,kempm001,02,CSS,K
 play,6,0,uribj002,02,CCFS,K
 play,6,0,blakc001,02,CSC,K
-com,"ej,blakc001,P,carlm901,Balls and strikes (From the dugout)"
-com,"$Casey Blake, angry after being called out for second straight time, continued to complain"
-com,"from dugout, started back on field and was ejected by HP umpire Mark Carlson"
 play,6,1,howar001,00,,NP
 sub,lonej001,"James Loney",0,6,3
 play,6,1,howar001,32,..FSBBBX,8/F
@@ -4710,9 +4678,6 @@ sub,macdm001,"Mike MacDougal",0,9,1
 play,8,1,polap001,10,.BX,8/F
 play,8,1,utlec001,30,BBBB,W
 play,8,1,howar001,12,CSBS,K
-com,"$Ryan Howard swung and missed at strike two which bounced and hit him on the ankle,"
-com,"then bounced away; Chase Utley went to second but was called back because the ball"
-com,"was dead when it hit Howard"
 play,8,1,franb001,32,11BCCF*BB1>B,W.1-2
 play,8,1,ruizc001,22,C*BBCX,D7/F.2-H;1-3
 play,8,1,browd004,00,X,43/G
@@ -5098,8 +5063,6 @@ play,3,0,colvt001,10,BX,43/G
 play,3,0,wellr001,12,CCBFX,S9/L
 play,3,0,fukuk001,22,CBBSX,43/G
 play,3,1,utlec001,12,BFFX,9/L
-com,"$Rain delay of 1:17 while Howard was at bat; Lopez entered when"
-com,"game resumed and completed walk charged to Wells"
 play,3,1,howar001,30,BBB,NP
 sub,loper001,"Rodrigo Lopez",0,9,1
 play,3,1,howar001,30,BBB.B,W
@@ -5181,11 +5144,6 @@ sub,ruizc001,"Carlos Ruiz",1,9,2
 play,9,0,dewib001,01,..CX,43/G
 play,9,0,sotog001,20,BBX,HR/78/L
 play,9,0,colvt001,01,FX,DGR/9/L
-com,"$Tyler Colvin's fly ball was touched by a fan who reached over the railing; the ball caromed"
-com,"into the seating area and was ruled a home run but Phillies manager Charlie Manuel asked about"
-com,"the call; crew chief Gary Cederstrom watched the replay and overturned the call to a double;"
-com,"he called both managers onto the field to explain the change but when Cubs manager Mike Quade"
-com,"started to argue (which is prohibited by the rules), Cederstrom walked away"
 play,9,0,grabj002,00,,NP
 sub,lemad001,"DJ LeMahieu",0,9,11
 play,9,0,lemad001,22,.*BFFFFBS,K
@@ -5624,11 +5582,6 @@ play,6,1,valdw001,00,,NP
 sub,samaj001,"Jeff Samardzija",0,9,1
 play,6,1,valdw001,01,.CX,4/P
 play,6,1,oswar001,32,CBBSFFBC,K
-com,"ej,manuc101,M,porta901,Called third strike"
-com,"Phillies Manager Charlie Manuel ejected while still in the dugout by HP umpire Alan Porter;"
-com,"when Manuel came on the field to argue, crew chief Gary Cederstrom came in from 2B and stood"
-com,"in front of Manuel; when Manuel tried to move around. Cederstrom mirrored Manuel's movements,"
-com,"thus preventing Manuel from getting to Porter"
 play,6,1,rollj001,00,.X,8/F
 play,7,0,samaj001,00,,NP
 sub,campt001,"Tony Campana",0,9,11
@@ -5722,7 +5675,6 @@ start,ibanr001,"Raul Ibanez",1,6,7
 start,browd004,"Domonic Brown",1,7,9
 start,ruizc001,"Carlos Ruiz",1,8,2
 start,hamec001,"Cole Hamels",1,9,1
-com,"$Delay of 1:20 at start of game"
 play,1,0,ramih003,00,X,8/F
 play,1,0,bonie001,10,BX,S8/G
 play,1,0,morrl001,12,111BC1FFX,S9/G.1-3
@@ -5794,7 +5746,6 @@ play,8,0,mujie001,00,,NP
 sub,marto001,"Osvaldo Martinez",0,9,11
 play,8,0,marto001,00,,NP
 sub,hernd003,"David Herndon",1,9,1
-com,"Phillies pitcher Cole Hamels left the game due to an injured back"
 play,8,0,marto001,12,..CBFS,K
 play,8,0,ramih003,12,CS*BT,K
 play,8,0,bonie001,22,CFBBX,S7/L.1-3
@@ -5932,8 +5883,6 @@ play,7,1,franb001,00,X,63/G
 play,7,1,valdw001,12,CCBX,S4/G
 play,7,1,sardd001,00,,NP
 sub,badeb001,"Burke Badenhop",0,4,1
-com,"$Marlins pitcher Edward Mujica left the game due to a right wrist sprain after colliding with"
-com,"Wilson Valdez at 1B; Mujica rolled over Valdez and landed on his hand"
 play,7,1,sardd001,12,.CFBS,K
 play,8,0,coghc001,00,,NP
 sub,romej001,"J.C. Romero",1,3,1
@@ -6035,7 +5984,6 @@ play,3,1,victs001,12,CBFT,K
 play,3,1,utlec001,21,BCBX,2/P2F
 play,4,0,stanm004,11,BSX,4!3/G
 play,4,0,dobbg001,00,X,DGR7/F-
-com,"fan interference"
 play,4,0,lopej003,12,BSSFX,D7/L.2-3
 play,4,0,buckj001,22,SBF*BX,S8/L.3-H;2-H
 play,4,0,sanca004,12,LLBX,9/L
@@ -6964,7 +6912,6 @@ play,3,1,hamec001,32,BBBCSFS,K
 play,3,1,rollj001,22,BCCFBX,53/G
 play,4,0,mcdod002,02,CFX,7/F
 play,4,0,gonza003,21,BFBX,13/L+
-com,"$the line drive by Adrian Gonzalez hit pitcher Cole Hamels on the right (non-pitching) hand"
 play,4,0,pedrd001,01,FX,53/G
 play,4,1,polap001,32,CCBFFBBX,53/G
 play,4,1,utlec001,12,CSBX,S7/L
@@ -6973,8 +6920,6 @@ play,4,1,howar001,12,CB1>C.X,7/F
 play,4,1,victs001,11,BCX,8/L
 play,5,0,varij001,00,,NP
 sub,hernd003,"David Herndon",1,9,1
-com,"$Phillies pitcher Cole Hamels left the game due to a bruised right hand; he had some swelling"
-com,"and a few stitches in the hand"
 play,5,0,varij001,32,..CFBBBFFX,63/G
 play,5,0,reddj001,10,BX,T9/F
 play,5,0,suttd002,22,CBBFX,S9/G.3-H
@@ -7904,7 +7849,6 @@ play,4,0,maybc001,11,BSX,S6/G+.2-3
 play,4,0,venaw001,00,X,3/G
 play,4,1,martm003,00,,NP
 sub,denoc001,"Chris Denorfia",0,1,8
-com,"Padres center fielder Cameron Maybin left the game due to an injured hip"
 play,4,1,martm003,10,.BX,8/F
 play,4,1,utlec001,20,BBX,8/F
 play,4,1,howar001,32,BBBSFS,K
@@ -7932,8 +7876,6 @@ play,7,0,ludwr001,00,X,53/G
 play,7,1,howar001,22,CSBFFBS,K
 play,7,1,victs001,32,CSBBFBB,W
 play,7,1,ibanr001,11,B111FX,8!/F
-com,"$Padres CF Chris Denorfia caught the ball over the top of the fence at the Phillies bullpen,"
-com,"taking a home run away from Raul Ibanez"
 play,7,1,browd004,11,BCX,9/F
 play,8,0,blank002,02,CSFS,K
 play,8,0,forsl001,12,CBSX,63/G
@@ -8020,8 +7962,6 @@ play,2,0,denoc001,32,CFBBFFBX,S7/G.2-H;B-2(THH)
 play,2,0,bartj001,00,>B,SB3
 play,2,0,bartj001,31,>B.BCBB,W
 play,2,0,headc001,11,CB1,SBH
-com,"$Lee made a lob throw to first and Denorfia took off for home,"
-com,"beating Howard's throw to the plate"
 play,2,0,headc001,11,CB1.X,D8/F.1-H
 play,2,0,ludwr001,12,CBFX,53/G
 play,2,1,ibanr001,12,BCFFS,K
@@ -8204,7 +8144,6 @@ play,6,0,torra001,21,BCBX,4/L
 play,6,0,keppj001,01,CX,8/F
 play,6,0,sandp001,00,X,5/P5F
 play,6,1,utlec001,31,CBBBX,HR9/F8/IPHR
-com,"$Chase Utley's fly hit the CF wall and caromed past Andres Torres"
 play,6,1,howar001,11,SBX,7/F
 play,6,1,victs001,01,CX,63/G
 play,6,1,ibanr001,12,CBSX,3/G
@@ -8331,8 +8270,6 @@ play,7,0,white004,10,BH,HP
 play,7,0,cainm001,20,BBX,4/P/IF
 play,7,0,rowaa001,12,SFBFX,64(1)3/GDP
 play,7,1,victs001,01,CX,E2/P.B-2
-com,"$short popup not hit very high down first base line. Pitcher and"
-com,"catcher collided and ball bounced off catcher into foul ground"
 play,7,1,ibanr001,12,FSBX,6/P
 play,7,1,browd004,22,CBCBX,S39/G.2-H(UR)
 play,7,1,ruizc001,12,CB1TX,64(1)3/GDP
@@ -8583,9 +8520,6 @@ start,ruizc001,"Carlos Ruiz",1,7,2
 start,valdw001,"Wilson Valdez",1,8,5
 start,hallr001,"Roy Halladay",1,9,1
 play,1,0,paulx001,00,X,E4/TH1/G3D.BX2(1)
-com,"$the flip throw by 2B Chase Utley was wild; batter-runner Xavier Paul started for 2B"
-com,"but stumbled; pitcher Roy Halladay backed up the play, retrieved the ball, ran to"
-com,"Paul, who was just standing on the baseline"
 play,1,0,joneg002,32,BBBCSS,K
 play,1,0,mccua001,22,BFSBX,3/P3F
 play,1,1,rollj001,30,BBBB,W
@@ -9107,7 +9041,6 @@ play,6,0,nix-l001,00,,NP
 sub,kendk001,"Kyle Kendrick",1,9,1
 play,6,0,nix-l001,11,.BFX,3/G
 play,6,0,desmi001,11,BCX,DGR/7
-com,"$fan interference; the ball girl picked up a ball in play"
 play,6,0,hernl003,11,BFX,S8/G.2-H
 play,6,0,ankir001,11,C*BX,46(1)3/GDP
 play,6,1,rollj001,21,BCBX,3/G
@@ -9231,8 +9164,6 @@ play,3,1,ruizc001,30,IIII,IW
 play,3,1,valdw001,01,FX,1!2(3)/FO/G-.2-3;1-2
 play,3,1,oswar001,32,BBCBS>B,W.3-H(UR);2-3;1-2
 play,3,1,rollj001,20,BBX,S6/G/R4.3-H(UR);2-H(UR)(NR)(TH2);1-2
-com,"$SS Ian Desmond threw to 2B in an attempt at a force play and the runner was called safe;"
-com,"Danny Espinosa, who had stretched for the throw, fell down and Wilson Valdez scored from 2B"
 play,3,1,victs001,11,BCX,64(1)/FO/G
 play,4,0,morsm001,32,CSFBBBX,63/G
 play,4,0,wertj001,32,CBBBFB,W
@@ -10742,16 +10673,11 @@ play,6,1,martm003,32,CBCBBX,13/G
 play,6,1,oswar001,02,CCC,K
 play,6,1,victs001,30,BBBB,W
 play,6,1,polap001,22,1B1CBF1>X,S9/F.1-3
-com,"ej,gonzf801,M,scotd901,Reversal of call"
-com,"$1B umpire CB Bucknor ruled that RF Jason Heyward caught Placido Polanco's sinking"
-com,"liner; the umpires huddled and overturned the call to no catch; Braves Manager Fredi"
-com,"Gonzalez argued the reversal and was ejected by 3B umpire and crew chief Dale Scott"
 play,6,1,utlec001,00,,NP
 sub,oflae001,"Eric O'Flaherty",0,6,1
 play,6,1,utlec001,00,,NP
 sub,freef001,"Freddie Freeman",0,9,3
 play,6,1,utlec001,00,...H,HP.1-2
-com,"$Chase Utley was hit on the helmet by a fast ball"
 play,6,1,howar001,22,CSBBS,K
 play,7,0,heywj001,12,BCSX,S8/G
 play,7,0,gonza002,00,1X,14/SH/BG.1-2
@@ -10781,7 +10707,6 @@ play,8,1,victs001,22,BCBSS,K
 play,8,1,polap001,00,X,S9/L.2-H
 play,8,1,utlec001,00,,NP
 sub,franb001,"Ben Francisco",1,3,11
-com,"$Chase Utley left the game with a possible concussion"
 play,8,1,franb001,31,.BCB*BB,W.1-2
 play,8,1,howar001,22,BBSSS,K
 play,9,0,heywj001,00,,NP
@@ -12111,7 +12036,6 @@ play,7,0,gomej001,21,CBB+3.X,3/P
 play,7,0,espid001,12,BFFX,53/G
 play,7,1,rollj001,00,,NP
 sub,ankir001,"Rick Ankiel",0,2,8
-com,"Nationals right fielder Jayson Werth left the game due to an injured elbow"
 play,7,1,rollj001,11,.CBX,9/F
 play,7,1,polap001,32,CBBFBB,W
 play,7,1,victs001,12,BCSX,8/F

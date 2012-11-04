@@ -492,12 +492,10 @@ start,churr001,"Ryan Church",1,6,8
 start,clayr001,"Royce Clayton",1,7,6
 start,schnb001,"Brian Schneider",1,8,2
 start,pattj004,"John Patterson",1,9,1
-com,"2:18 rain delay before start of game"
 play,1,0,orr-p001,02,CFX,6/P
 play,1,0,betew001,01,CX,6/P+
 play,1,0,langr002,02,SSS,K
 play,1,1,soria001,21,BSBX,HR/78/F+
-com,"24th leadoff homer of Soriano's career"
 play,1,1,vidrj001,32,FBFBBX,S7/F
 play,1,1,johnn001,22,CBBSC,K
 play,1,1,guilj001,10,BX,S8/L.1-2
@@ -514,7 +512,6 @@ play,3,0,penat002,12,BCTC,K
 play,3,0,smolj001,00,X,34/SH/BG.1-2
 play,3,0,orr-p001,11,BFX,5!/P
 play,3,1,soria001,01,CX,HR/7/F
-com,"Soriano first batter with two homers off Smoltz since 1999"
 play,3,1,vidrj001,32,BBBCCX,8/F
 play,3,1,johnn001,12,BCFFX,43/G
 play,3,1,guilj001,10,BX,D8/L
@@ -557,7 +554,6 @@ play,7,1,guilj001,11,CBX,64(1)/FO/G
 play,8,0,franj004,21,BBFX,3/P3F
 play,8,0,mccab002,21,FBBX,D8/L
 play,8,0,penat002,12,FFBX,S3/G.2-3
-com,"Pena's first major league hit"
 play,8,0,ray-k001,00,,NP
 sub,diazm003,"Matt Diaz",0,9,11
 play,8,0,diazm003,01,.SX,9/SF.3-H
@@ -587,7 +583,6 @@ play,8,1,byrdm001,00,,NP
 sub,villo001,"Oscar Villarreal",0,9,1
 play,8,1,byrdm001,00,,NP
 sub,andem003,"Marlon Anderson",1,9,11
-com,"Marlon (Anderson) pinch hit for Marlon (Byrd)"
 play,8,1,andem003,21,...CBBX,9/L.2-3
 play,8,1,soria001,31,BCBBX,HR/78/F+.3-H;1-H
 play,8,1,vidrj001,00,X,T9/L
@@ -1327,9 +1322,6 @@ sub,majeg001,"Gary Majewski",1,9,1
 play,5,0,aguic001,32,.CFFBBBFB,W
 play,5,0,aberr001,10,BX,8/F
 play,5,0,moehb001,10,BX,36(1)/FO/BG
-com,"ej,jacom001,P,younl901,Balls and strikes (not in game)"
-com,"Mike Jacobs ejected by HP umpire Larry Young from the Marlins"
-com,"bench; he was not in the game but argued balls and strikes"
 play,5,0,ameza001,22,.BCBFX,43/G
 play,5,1,guilj001,11,BCX,D7/L
 play,5,1,zimmr001,00,X,S5/BG.2-3
@@ -1643,7 +1635,6 @@ play,3,1,vidrj001,00,X,S7/L.1-2
 play,3,1,soria001,12,CSBX,4/P
 play,3,1,johnn001,32,*BCBFFFB>B,W.2-3;1-2
 play,3,1,guilj001,11,BCX,8/SF/DP.3-H;2X3(83)
-com,"Vidro caught between 2B and 3B on weird double play"
 play,4,0,wilsc003,22,BFBFX,5/L
 play,4,0,mclon001,00,X,8/F
 play,4,0,castj005,22,SSBBX,S9/G
@@ -1678,7 +1669,6 @@ sub,andem003,"Marlon Anderson",1,9,11
 play,7,1,andem003,22,.CBBFH,HP
 play,7,1,byrdm001,00,,NP
 sub,churr001,"Ryan Church",1,9,12
-com,"Marlon Anderson left the game due to a contusion on his right knee"
 play,7,1,byrdm001,22,.BBC11F*B,SB2
 play,7,1,byrdm001,32,.BBC11F*B.>X,63/G
 play,8,0,voger001,00,,NP
@@ -1786,7 +1776,6 @@ play,3,0,burnj001,31,BS*BBI,IW
 play,3,0,paulr001,12,FBFX,9/L
 play,3,1,johnn001,00,,NP
 sub,hernj001,"Jose Hernandez",0,2,6
-com,"Pirates shortstop Jack Wilson left the game due to an injured leg"
 play,3,1,johnn001,11,.LBX,53/G
 play,3,1,guilj001,21,CBBX,53/G
 play,3,1,zimmr001,12,CBSX,8/F+
@@ -1827,7 +1816,6 @@ play,7,1,schnb001,00,,NP
 sub,cappm001,"Matt Capps",0,9,1
 play,7,1,schnb001,00,,NP
 sub,lecrm001,"Matthew LeCroy",1,7,11
-com,"Nationals catcher Brian Schneider left the game due to an injured leg"
 play,7,1,lecrm001,11,..BCX,S9/L+
 play,7,1,clayr001,01,LX,3/SH/BG.1-2
 play,7,1,stanm003,00,,NP
@@ -2484,7 +2472,6 @@ play,5,1,lecrm001,12,CBFS,K
 play,5,1,zimmr001,12,CBCFFX,S8/L-
 play,5,1,escoa002,01,FX,4/P
 play,6,0,pattc001,21,MBBX,S7/F.B-2(E3)
-com,"obstruction on LeCroy at 1B; Patterson would not have made it to 2B on play"
 play,6,0,conij001,32,FBCBBFS,K
 play,6,0,markn001,22,BFSBX,8/F
 play,6,0,britc001,00,,NP
@@ -2616,7 +2603,6 @@ play,4,0,rodrw002,31,BCBBB,W
 play,4,0,tavew001,10,BX,D7/L.1-3
 play,4,0,biggc001,00,,NP
 sub,raucj001,"Jon Rauch",1,9,1
-com,"Nationals pitcher Zach Day left the game due to an injured arm"
 play,4,0,biggc001,00,.X,S7/L.3-H;2-H
 play,4,0,berkl001,32,BCBF*B.>X,7/F
 play,4,1,vidrj001,21,BBCX,S5/G+
@@ -2876,7 +2862,6 @@ play,1,1,soria001,00,X,S7/L-
 play,1,1,clayr001,11,BS1X,46(1)3/GDP
 play,1,1,vidrj001,01,FX,13/G-
 play,2,0,ensbm001,22,FCBBX,HR/78/F+
-com,"catcher Gonzalez struck on head by Wilson's backswing"
 play,2,0,wilsp002,02,FFS,K23
 play,2,0,lanej001,32,BBCBCX,8/L
 play,2,0,ausmb001,32,BBBCCX,S8/G
@@ -2888,8 +2873,6 @@ play,2,1,guilj001,12,CSBS,K
 play,2,1,zimmr001,22,CBFBC,K
 play,3,0,oswar001,00,,NP
 sub,byrdm001,"Marlon Byrd",1,5,9
-com,"Nationals right fielder Jose Guillen left the game due to an injured eye;"
-com,"he had scratched his eye with a batting glove during batting practice"
 play,3,0,oswar001,10,.BX,9/F
 play,3,0,tavew001,21,BBCX,8/F
 play,3,0,biggc001,22,BBCFX,S9/L
@@ -2899,7 +2882,6 @@ play,3,1,gonzw001,01,CX,43/G
 play,3,1,oconm001,02,CCS,K
 play,4,0,ensbm001,00,,NP
 sub,lecrm001,"Matthew LeCroy",1,8,2
-com,"Nationals catcher Wiki Gonzalez left the game due to a mild concussion"
 play,4,0,ensbm001,20,..BBX,3/P3F
 play,4,0,wilsp002,21,BCBX,63/G
 play,4,0,lanej001,00,X,9/F
@@ -2921,8 +2903,6 @@ play,6,1,lecrm001,21,CBBX,63/G
 play,6,1,oconm001,00,,NP
 sub,andem003,"Marlon Anderson",1,9,11
 play,6,1,andem003,22,.C*BBCX,43/G.2-3
-com,"Oswalt stopped his windup in mid-motion and started walking"
-com,"towards 3B; no call from the umpires until Mgr Robinson asked"
 play,6,1,soria001,02,FFN,BK.3-H
 play,6,1,soria001,02,FFN.FFX,4/P
 play,7,0,wilsp002,00,,NP
@@ -3049,14 +3029,12 @@ play,2,1,vidrj001,11,CBX,HR/7/F.2-H;1-H
 play,2,1,johnn001,01,CX,3/G
 play,3,0,ausmb001,00,,NP
 sub,byrdm001,"Marlon Byrd",1,5,9
-com,"Nationals right fielder Jose Guillen left the game due to an injured leg"
 play,3,0,ausmb001,02,.CCS,K
 play,3,0,berkl001,32,BSBFBB,W
 play,3,0,ensbm001,02,FCC,K
 play,3,0,lambm001,22,CBBFFS,K
 play,3,1,byrdm001,00,,NP
 sub,lanej001,"Jason Lane",0,3,9
-com,"Astros Lance Berkman left the game due to an injured knee"
 play,3,1,byrdm001,00,.X,T8/F
 play,3,1,zimmr001,21,CBBX,8/SF.3-H
 play,3,1,jackd003,00,X,63/G
@@ -3378,7 +3356,6 @@ play,3,0,loftk001,00,X,7/SF.3-H
 play,3,0,garcn001,02,11CF1X,53/G
 play,3,1,schnb001,00,,NP
 sub,roblo001,"Oscar Robles",0,4,4
-com,"Dodgers second baseman Jeff Kent left the game due to a sprained left wrist"
 play,3,1,schnb001,31,.BBCBB,W
 play,3,1,hills003,00,X,24/SH/BG.1-2
 play,3,1,soria001,32,BSBBSX,53/G
@@ -3539,7 +3516,6 @@ play,3,1,schnb001,10,BX,8/SF.3-H
 play,3,1,byrdm001,01,SX,D8/F
 play,3,1,ventm001,01,FB,WP.2-3
 play,3,1,ventm001,21,FB.BX,S7/L.3-H
-com,"Vento's first big league hit"
 play,3,1,ortir002,00,,NP
 sub,pereo001,"Odalis Perez",0,9,1
 play,3,1,ortir002,21,.BB+1CX,8/F
@@ -3602,7 +3578,6 @@ play,8,0,loftk001,30,.BBBB,W
 play,8,0,saeno001,01,CH,HP.1-2
 play,8,0,aybaw001,22,CSBFBX,9/F
 play,8,0,kempm001,00,X,S7/G.2-3;1-2
-com,"Kemp's first big league hit"
 play,8,0,ethia001,02,CFH,HP.3-H;2-3;1-2
 play,8,0,martr004,00,,NP
 sub,ramis001,"Santiago Ramirez",1,9,1
@@ -3722,15 +3697,12 @@ play,5,1,clayr001,31,B11>B.BCX,D7/L.2-H
 play,5,1,vidrj001,21,BFBX,7/F
 play,5,1,johnn001,01,CB,WP.2-3
 play,5,1,johnn001,32,CB.BFBX,D7/F.3-H;B-3(E7)
-com,"the ball rolled into the corner and Burrell had trouble picking it up"
 play,5,1,zimmr001,00,,NP
 sub,condc001,"Clay Condrey",0,9,1
 play,5,1,zimmr001,22,.CFBBX,8/F
 play,6,0,abreb001,30,BBBB,W
 play,6,0,burrp001,20,BBX,5/P5F
 play,6,0,howar001,21,SBB1*B,WP.1-2
-com,"the pitch bounced and got lodged in Schneider's chest protector;"
-com,"rule 5.09(g) covers the dead ball and runner advance"
 play,6,0,howar001,32,SBB1*B.CS,K23
 play,6,0,rowaa001,11,CBX,9/F
 play,6,1,byrdm001,11,SBX,53/G
@@ -3739,7 +3711,6 @@ play,6,1,jackd003,22,CBBCC,K
 play,6,1,oconm001,00,,NP
 sub,andem003,"Marlon Anderson",1,9,11
 play,6,1,andem003,12,.CBFX,S9/L.2-3;BX2(936)
-com,"Anderson thought the throw was going home but Schneider stopped at 3B"
 play,7,0,belld002,00,,NP
 sub,rives001,"Saul Rivera",1,9,1
 play,7,0,belld002,01,.CX,S8/G
@@ -3825,14 +3796,12 @@ start,andem003,"Marlon Anderson",1,6,9
 start,schnb001,"Brian Schneider",1,7,2
 start,byrdm001,"Marlon Byrd",1,8,8
 start,armat002,"Tony Armas",1,9,1
-com,"$1:42 rain delay before start of game"
 play,1,0,rollj001,21,BBCX,8/F
 play,1,0,utlec001,22,BCBCFX,8/F
 play,1,0,abreb001,22,CBBSX,S9/L
 play,1,0,burrp001,22,CBB1FX,D9/F.1-H
 play,1,0,howar001,30,IIII,IW
 play,1,0,rowaa001,02,CSFFX,S9/L.2-H;1-3;B-2(E9/TH3)
-com,"Anderson's throw hit the runner and skipped away"
 play,1,0,belld002,12,SBFX,2/P2F
 play,1,1,soria001,22,BFFFBS,K
 play,1,1,clayr001,12,BCFFFX,7/F
@@ -3843,7 +3812,6 @@ play,2,0,rollj001,12,CBFX,S9/L
 play,2,0,utlec001,00,11X,7/F
 play,2,1,johnn001,22,BCCBFX,D7/L
 play,2,1,zimmr001,01,LX,D9/L+.2-H
-com,"Abreu misjudged the ball and it went over his head"
 play,2,1,andem003,10,BX,S9/G.2-H
 play,2,1,schnb001,00,X,S8/G+.1-3
 play,2,1,byrdm001,31,BBBCX,E5/G.3-H(RBI);1-2
@@ -4525,7 +4493,6 @@ play,5,1,vidrj001,20,BBX,S9/G.2-H
 play,5,1,johnn001,31,CBBB>B,W.1-2
 play,5,1,zimmr001,01,CX,64(1)3/GDP
 play,6,0,carrj001,12,CCBX,4!/P
-com,"diving catch by Vidro"
 play,6,0,spilr001,10,BX,S8/G
 play,6,0,heltt001,10,BX,S9/L.1-2
 play,6,0,hollm001,21,BBSX,D8/F.2-H;1-H
@@ -4546,7 +4513,6 @@ play,7,0,carrj001,00,,NP
 sub,stanm003,"Mike Stanton",1,3,1
 play,7,0,carrj001,00,,NP
 sub,harrb001,"Brendan Harris",1,9,4
-com,"Nationals second baseman Jose Vidro left with a bruised chest"
 play,7,0,carrj001,10,..BX,S8/L
 play,7,0,spilr001,11,L1B1X,53/G-.1-2
 play,7,0,heltt001,12,CT*BFX,S8/F-.2-H
@@ -4905,8 +4871,6 @@ play,8,1,johnn001,01,CX,D9/L
 play,8,1,zimmr001,22,BCF*BS,K
 play,8,1,fickr001,12,BCFB,WP.2-3
 play,8,1,fickr001,32,BCFB.BC,K
-com,"ej,fickr001,P,gormb901,Balls and strikes"
-com,"Nationals Robert Fick ejected by HP umpire Brian Gorman"
 play,8,1,rives001,00,,NP
 sub,vidrj001,"Jose Vidro",1,6,11
 play,8,1,vidrj001,12,..CCBX,43/G
@@ -5067,7 +5031,6 @@ play,8,0,damoj001,02,CSFX,S7/G.2-3;1-2
 play,8,0,cabrm002,22,FFBFBX,S7/G.3-H;2-3;1-2
 play,8,0,jeted001,00,,NP
 sub,harrb001,"Brendan Harris",1,2,6
-com,"Nationals Royce Clayton left the game due to an injured neck/shoulder"
 play,8,0,jeted001,32,.BBBCSFB,W.3-H;2-3;1-2
 play,8,0,giamj001,00,,NP
 sub,stanm003,"Mike Stanton",1,9,1
@@ -5084,7 +5047,6 @@ sub,phila001,"Andy Phillips",0,9,3
 play,8,1,vidrj001,12,...CCBX,13/G
 play,8,1,johnn001,00,,NP
 sub,rivem002,"Mariano Rivera",0,4,1
-com,"Yankees pitcher Kyle Farnsworth left the game due to an injured back"
 play,8,1,johnn001,12,.BFSFX,6/P
 play,8,1,zimmr001,12,CFBC,K
 play,9,0,canor001,10,.BX,43/G
@@ -5660,7 +5622,6 @@ play,2,1,clayr001,12,CSFFB1S,K
 play,2,1,soria001,02,FSFX,4/P
 play,3,0,huffa001,00,,NP
 sub,schnb001,"Brian Schneider",1,8,2
-com,"Nationals Robert Fick left the game due to an injured chest"
 play,3,0,huffa001,12,.FBFX,S8/G
 play,3,0,cantj001,00,X,8/F
 play,3,0,branr001,32,CBFBB>X,3/G.1-2
@@ -6706,8 +6667,6 @@ play,6,1,fickr001,31,*B*BBF*B,W.1-2
 play,6,1,escoa002,00,,NP
 sub,merec001,"Cla Meredith",0,9,1
 play,6,1,escoa002,02,.CSX,54(1)/FO/G.3-H;2-3
-com,"Barfield dropped the throw but Fick overslid the bag and"
-com,"was tagged out"
 play,6,1,jackd003,02,SFS,K
 play,7,0,gileb002,12,FFBFFX,3/G
 play,7,0,bardj001,22,FFB*BX,43/G
@@ -6891,7 +6850,6 @@ play,9,0,adkij001,00,,NP
 sub,blumg001,"Geoff Blum",0,9,11
 play,9,0,blumg001,32,.CBBFBX,S9/L
 play,9,0,robed001,12,CCFFBFFB,WP.1-2
-com,"Originally scored as PB, changed to WP next day"
 play,9,0,robed001,32,CCFFBFFB.BX,63/G.2-3
 play,9,0,camem001,01,CX,63/G
 play,9,0,gileb002,00,,NP
@@ -6974,7 +6932,6 @@ play,1,1,escoa002,21,SBBX,S9/L.1-3(E9)
 play,1,1,clayr001,10,BX,64(1)3/GDP
 play,2,0,barfj003,00,,NP
 sub,brayb001,"Bill Bray",1,9,1
-com,"Nationals pitcher John Patterson left the game due to a strained rt forearm"
 play,2,0,barfj003,22,.CBBFFFX,3/P3F
 play,2,0,hensc002,12,CBCS,K
 play,2,0,robed001,22,CCBBX,63/G
@@ -7336,7 +7293,6 @@ play,3,1,hernl003,01,CX,D9/L
 play,3,1,soria001,12,CBFX,T7/L.2-H
 play,3,1,lopef001,20,BBX,4/L
 play,3,1,zimmr001,20,B*BX,9/FDP.3XH(92)
-com,"Soriano thrown out at home for the second time in the game"
 play,4,0,jonej003,00,X,1/BG
 play,4,0,nevip001,32,BCCBBS,K
 play,4,0,ceder002,31,BCBBB,W
@@ -7349,11 +7305,9 @@ play,4,1,andem003,32,BCC*BB>S,K+CS3(25)/DP
 play,5,0,pierj002,01,CX,43/G
 play,5,0,peren001,21,BFBX,6/P
 play,5,0,ramia001,00,X,HR/7/F+
-com,"second consecutive multi-homer game for Ramirez"
 play,5,0,mabrj001,02,CCX,63/G
 play,5,1,fickr001,00,,NP
 sub,wills002,"Scott Williamson",0,9,1
-com,"Cubs pitcher Sean Marshall left the game due to an injured chest"
 play,5,1,fickr001,32,B.BFCFBX,63/G
 play,5,1,hernl003,12,CSBFX,53/G
 play,5,1,soria001,01,CX,D7/L
@@ -7520,8 +7474,6 @@ play,4,1,soria001,31,BBBCX,HR/78/F
 play,4,1,lopef001,01,FX,S9/L
 play,4,1,zimmr001,00,,NP
 sub,aardd001,"David Aardsma",0,9,1
-com,"Cubs pitcher Carlos Marmol left the game due to an injured web area on"
-com,"his right (pitching) hand; he injured it while batting"
 play,4,1,zimmr001,00,.1X,4/P
 play,5,0,barrm003,22,CCBBX,9/F
 play,5,0,pagaa001,01,SX,2/P2F
@@ -7636,7 +7588,6 @@ start,ortir002,"Ramon Ortiz",1,9,1
 play,1,0,winnr001,01,CX,S8/G
 play,1,0,vizqo001,32,1CB1BFFBX,7/F
 play,1,0,hills002,01,1CX,3/P3F
-com,"$infield shifted to right for Bonds in each plate appearance"
 play,1,0,bondb001,32,C>FBBF1FB>X,63/G4M
 play,1,1,soria001,00,H,HP
 play,1,1,lopef001,22,C11BB>FX,S9/G-.1-3
@@ -7657,7 +7608,6 @@ play,2,1,churr001,01,CX,S3/G+
 play,2,1,schnb001,12,CBFF1FX,36(1)1/GDP
 play,2,1,ortir002,02,CSFS,K23
 play,3,0,bondb001,00,X,3!/G3L
-com,"hard grounder that Johnson snagged only because of the shift"
 play,3,0,durhr001,32,BBFBFX,8/F
 play,3,0,finls001,00,X,9/F
 play,3,1,soria001,01,CX,9/F
@@ -7704,7 +7654,6 @@ play,7,1,lopef001,00,X,7/L
 play,7,1,zimmr001,22,SCBBFX,9/F
 play,8,0,bondb001,31,BBCBX,7/L78XD
 play,8,0,durhr001,32,CBCFBBX,HR/8/F+
-com,"$Switch hit homers for Durham in game"
 play,8,0,finls001,01,CX,43/G
 play,8,0,felip001,00,,NP
 sub,raucj001,"Jon Rauch",1,9,1
@@ -7786,7 +7735,6 @@ play,1,1,soria001,00,X,9/F
 play,1,1,lopef001,12,CBCFFS,K
 play,1,1,zimmr001,22,CBBFX,S9/F
 play,1,1,johnn001,31,CBBBX,13/G
-com,"$infield shifted to right for Bonds in each plate appearance"
 play,2,0,bondb001,32,CCBBBFB,W
 play,2,0,durhr001,00,X,343/G.1-2
 play,2,0,felip001,12,CCBC,K
@@ -7818,11 +7766,9 @@ play,4,1,astap001,12,FFBS,K
 play,5,0,greet003,10,BX,53/G
 play,5,0,lowrn001,32,CBBBCX,9/F
 play,5,0,winnr001,22,CCBFFBFFFX,S9/L-
-com,"Omar Vizquel fouled a pitch off his foot"
 play,5,0,vizqo001,11,F1BX,S3/G.1-2
 play,5,0,hills002,00,,NP
 sub,vizcj001,"Jose Vizcaino",0,2,12
-com,"Giants shortstop Omar Vizquel left the game due to an injured foot"
 play,5,0,hills002,21,.SBBX,63/G
 play,5,1,soria001,00,,NP
 sub,vizcj001,"Jose Vizcaino",0,2,6
@@ -7943,7 +7889,6 @@ play,1,0,winnr001,21,BBCX,8/F
 play,1,0,lindt001,22,BCBFT,K
 play,1,0,hills002,02,CFS,K
 play,1,1,soria001,10,BX,HR/7/F
-com,"sixth lead-off homer of season for Soriano"
 play,1,1,lopef001,12,BFFC,K
 play,1,1,zimmr001,12,FC*BX,63/G
 play,1,1,johnn001,31,BBBCB,W
@@ -8081,19 +8026,15 @@ start,churr001,"Ryan Church",1,7,8
 start,schnb001,"Brian Schneider",1,8,2
 start,armat002,"Tony Armas",1,9,1
 play,1,0,ameza001,32,BFBBCX,S6/G6M
-com,"Lopez threw the ball over Johnson's head"
 play,1,0,uggld001,00,X,S9/G.1-2
 play,1,0,jacom001,00,X,7/FDP/F78.2X3(75);1-2(TH3)
 play,1,0,cabrm001,11,BCX,D8/L78.2-H;B-3(E8)
-com,"Church tried to pick the ball up with his bare hand and failed"
 play,1,0,rossc001,22,CBSBX,8/L
 play,1,1,soria001,00,H,HP
-com,"hit on top-center of back"
 play,1,1,lopef001,12,11BC1F1F>X,13/G.1-2
 play,1,1,zimmr001,12,SBC>B,CS3(25)
 play,1,1,zimmr001,22,SBC>B.X,63/G
 play,2,0,hermj001,10,BH,HP
-com,"both sides warned"
 play,2,0,ramih003,10,BX,46(1)3/GDP
 play,2,0,olivm001,32,BBFSBB,W
 play,2,0,nolar001,12,CBSFX,64(1)/FO/G
@@ -8106,7 +8047,6 @@ play,3,0,jacom001,10,BX,7/F
 play,3,0,cabrm001,11,BCX,D8/L78
 play,3,0,rossc001,32,*BSCB*BS,K
 play,3,1,churr001,32,BBFBCX,HR/9/L+
-com,"into the mezzanine level"
 play,3,1,schnb001,01,FX,S8/L
 play,3,1,armat002,12,LBLX,3/SH/BG.1-2
 play,3,1,soria001,11,BCX,9/F
@@ -8143,7 +8083,6 @@ play,7,0,jacom001,00,.X,7/F
 play,7,0,cabrm001,10,BX,4/P
 play,7,0,rossc001,12,CCBS,K
 play,7,1,johnn001,21,BCBX,DGR/7/F
-com,"the ball bounced on the warning track into the bullpen"
 play,7,1,keara001,22,BBFFX,S5/G.2-2
 play,7,1,andem003,01,LX,14/SH/BG.2-3;1-2
 play,7,1,churr001,00,,NP
@@ -8246,9 +8185,6 @@ play,1,0,cabrm001,02,SFX,8/F
 play,1,0,willj004,02,CCX,31/G
 play,1,1,soria001,11,SBX,D9/L+
 play,1,1,lopef001,12,SLBS,K23
-com,"Lopez walked towards the dugout even though he was not"
-com,"out; catcher Olivo kept looking at HP umpire Danley, who"
-com,"made no signal; Olivo finally threw the ball to 1B"
 play,1,1,zimmr001,22,BBCCX,S7/L.2-3
 play,1,1,johnn001,22,BFS*B*B,WP.1-2
 play,1,1,johnn001,32,BFS*B*B.B,W+WP.3-H(NR);2-3
@@ -8263,7 +8199,6 @@ play,2,0,ameza001,22,BBCFFX,63/G
 play,2,1,escoa002,01,CX,S8/G
 play,2,1,jackd003,10,B1X,9/F
 play,2,1,harpb002,01,CX,D9/L9L-.1-3
-com,"Harper doubled in his first major league plate appearance"
 play,2,1,ortir002,00,X,FC4/G.3XH(42);2-3
 play,2,1,soria001,32,BBBFS>F>F>B,W.1-2
 play,2,1,lopef001,12,BFCS,K
@@ -8282,7 +8217,6 @@ play,4,0,olivm001,22,BSFBX,S8/L-
 play,4,0,willd003,12,CFBX,43/G
 play,4,1,harpb002,11,BFH,HP
 play,4,1,ortir002,10,BX,2/BG/INT.1-1
-com,"Ortiz ran into his own batted ball"
 play,4,1,soria001,10,BX,8/F
 play,4,1,lopef001,00,X,64(1)/FO/G
 play,5,0,ameza001,11,BLX,7/F
@@ -8292,10 +8226,7 @@ play,5,1,zimmr001,30,BBBB,W
 play,5,1,johnn001,11,1FB1>X,S7/L.1-2
 play,5,1,keara001,32,SBBTBFB,W.2-3;1-2
 play,5,1,escoa002,12,CSBS,K
-com,"play,5,1,jackd003,32,BSBTBX,FC1/THH/G1.3-H(E1/THH)(NR)(UR);2-3;1-2;BX1(23)"
 play,5,1,jackd003,32,BSBTBX,23/G1.3-H(E1/THH)(NR)(UR);2-3;1-2
-com,"Willis threw home and Olivo relayed to 1B; the Marlins protested"
-com,"the call at the plate briefly"
 play,5,1,harpb002,00,X,63/G
 play,6,0,cabrm001,32,CSBBBX,S7/L
 play,6,0,willj004,12,CFBC,K
@@ -8349,7 +8280,6 @@ play,8,0,hermj001,00,,NP
 sub,schnb001,"Brian Schneider",1,8,2
 play,8,0,hermj001,00,,NP
 sub,raucj001,"Jon Rauch",1,9,1
-com,"Nationals pitcher Micah Bowie left the game due to a strained lat"
 play,8,0,hermj001,12,...CBCFX,5/P-
 play,8,0,ramih003,02,CFX,8/F
 play,8,0,olivm001,32,FBSBFFBFX,9/F
@@ -8463,13 +8393,10 @@ play,5,0,cabrm001,22,SCBFBFX,S8/L.2-H;1-2
 play,5,0,jacom001,32,BFBSFFB>S,K
 play,5,1,astap001,02,SFX,53/G
 play,5,1,soria001,31,BBBCX,HR/7/F
-com,"into the mezzanine level"
 play,5,1,lopef001,02,FLX,S9/G
 play,5,1,zimmr001,32,SBB1SFBX,S7/G.1-3
 play,5,1,johnn001,22,BCBCX,7/SF.3-H
 play,5,1,keara001,22,1BBF1>SX,2/INT
-com,"Kearns called out for interfering with the catcher on"
-com,"Zimmerman's stolen base attempt"
 play,6,0,willj004,01,CX,53/G
 play,6,0,borcj001,12,FFBC,K
 play,6,0,olivm001,12,BFFX,13/G
@@ -8801,7 +8728,6 @@ sub,schrc001,"Chris Schroder",1,6,1
 play,7,0,beltc001,00,,NP
 sub,castb002,"Bernie Castro",1,9,4
 play,7,0,beltc001,00,..X,D8/L+
-com,"$infield shifted to right for Delgado"
 play,7,0,delgc001,02,FTX,63/G4M.2-3
 play,7,0,wrigd002,11,FBH,HP
 play,7,0,valej003,32,BBTFB>F>F>F11>X,S9/F-.3-H;1-3
@@ -8826,7 +8752,6 @@ play,8,1,lopef001,20,BBX,S8/G+
 play,8,1,zimmr001,01,CX,8/F
 play,8,1,johnn001,32,BCBFB>S,K
 play,9,0,beltc001,21,BBCX,43/G
-com,"$infield shifted to right for Delgado"
 play,9,0,delgc001,12,FBFX,5/P6
 play,9,0,wrigd002,01,SX,63/G-
 play,9,1,keara001,00,,NP
@@ -9231,7 +9156,6 @@ play,4,1,castb002,21,CBBX,53/G
 play,4,1,astap001,00,X,S7/L
 play,4,1,soria001,12,CBFFX,S8/G.1-2
 play,4,1,lopef001,20,BBX,46(1)3/G/DP/INT
-com,"Soriano called for runner interference"
 play,5,0,laroa001,32,CBBSBT,K
 play,5,0,mccab002,12,CCFBX,8/F
 play,5,0,franj004,00,X,S9/L-
@@ -9853,7 +9777,6 @@ play,5,1,ortir002,00,X,13/SH/BG.1-2
 play,5,1,soria001,12,SFBFS,K
 play,6,0,howar001,00,X,8/L
 play,6,0,burrp001,22,CTFBBX,E7/F78XD.B-2
-com,"Church had a clear play and Soriano ran him off for the error"
 play,6,0,conij001,10,BH,HP
 play,6,0,costc001,12,BSFX,S8/L.2-3;1-2
 play,6,0,nunea001,01,FX,13/G.3-H(UR);2-3;1-2
@@ -10140,7 +10063,6 @@ start,churr001,"Ryan Church",1,6,8
 start,schnb001,"Brian Schneider",1,7,2
 start,castb002,"Bernie Castro",1,8,4
 start,trabb001,"Billy Traber",1,9,1
-com,"$Debut for umpire Kevin Causey"
 play,1,0,younc004,11,BSX,8/F
 play,1,0,hudso001,11,CBX,S8/F-
 play,1,0,jackc002,20,B1BX,7!/L
@@ -10890,7 +10812,6 @@ play,2,0,moliy001,21,BCBX,53/G
 play,2,1,fickr001,11,CBX,S8/L
 play,2,1,logan001,32,BCBFB>F>F>F>X,FC4.1X2(4E6);B-1
 play,2,1,oconm001,20,BB>M,CS3(26)
-com,"Fick caught when O'Connor missed the bunt"
 play,2,1,oconm001,22,BB>M.S1L,K/BF
 play,2,1,soria001,22,BBSF1X,54(1)/FO/G
 play,3,0,milea001,12,CBFX,4/P
@@ -10930,7 +10851,6 @@ sub,schrc001,"Chris Schroder",1,9,1
 play,6,0,pujoa001,11,.BFX,3/P3F
 play,6,0,encaj001,22,SBBFX,1/P
 play,6,0,spies001,12,FSBX,HR/F9.2-H;1-H
-com,"off the RF pole at mezzanine level"
 play,6,0,bellr002,22,FBFBT,K
 play,6,1,johnn001,00,,NP
 sub,wilsp002,"Preston Wilson",0,1,8
@@ -10993,7 +10913,6 @@ play,9,0,loopb001,00,,NP
 sub,rodrj002,"John Rodriguez",0,9,11
 play,9,0,rodrj002,12,.CFFBX,S8/L
 play,9,0,wilsp002,22,1BBF1FX,HR/L7.1-H
-com,"into the upper deck"
 play,9,0,duncc002,32,BCBFBX,31/G
 play,9,0,pujoa001,11,BFX,53/G
 play,9,1,lopef001,00,,NP
@@ -11082,11 +11001,8 @@ play,2,1,logan001,12,CC*BX,4/L+
 play,2,1,ortir002,01,CX,63/G
 badj,ohkat001,L
 play,3,0,ohkat001,02,CFX,S4/G4M
-com,"Schneider was called for catcher's interference which was"
-com,"ignored because of the hit (rule 6.08c)"
 play,3,0,gwynt002,00,,NP
 sub,capuc001,"Chris Capuano",0,9,12
-com,"Ohka strained his right hamstring running out the hit"
 play,3,0,gwynt002,00,.X,6/P
 play,3,0,graft001,12,BFCX,S4/G.1-2
 play,3,0,hartc001,11,FBX,54(1)/FO/G.2-3
@@ -11101,7 +11017,6 @@ play,4,0,jenkg001,22,CFBBX,HR/78/F
 play,4,0,cirij001,12,FFBX,D7/L
 play,4,0,rivem003,22,FBSFBH,HP
 play,4,0,villc001,00,.>X,S7/G.2-H;1-3
-com,"Villanueva's first hit and RBI"
 play,4,0,gwynt002,32,BCBT*BX,8/SF.3-H
 play,4,0,graft001,12,FFBX,9/F
 play,4,1,johnn001,21,BCBX,63/G
@@ -11219,8 +11134,6 @@ play,1,0,hallb001,32,CBBBFX,8/F
 play,1,0,jenkg001,00,X,4/P-
 play,1,1,soria001,02,CFX,S7/L
 play,1,1,lopef001,20,1BB>B,SB2
-com,"Soriano's 40th steal of the season, thus becoming the"
-com,"4th player to have 40 steals and 40 homers"
 play,1,1,lopef001,31,1BB>B.CX,S5/G.2-2
 play,1,1,zimmr001,12,C*BCX,46(1)/FO/G.2-3;B-1
 play,1,1,johnn001,01,C>B,SB2
@@ -11393,8 +11306,6 @@ play,1,1,lopef001,02,CFX,6/P-
 play,2,0,fielp001,10,BH,HP
 play,2,0,menck001,11,CBX,S8/G.1-2
 play,2,0,belld002,12,CCBX,S5/G5L/R4.2-3;1-2
-com,"Zimmerman's throw pulled Castro off the bag but was ruled"
-com,"a hit"
 play,2,0,milld002,32,CBBBSX,9/SF.3-H;2-3
 play,2,0,david002,20,*BBX,14/SH/BG.1-2
 play,2,0,clarb003,12,CFBX,8/F
@@ -11540,7 +11451,6 @@ play,2,0,mccab002,31,CBBBB,W
 play,2,0,franj004,22,FBFFBS,K
 play,2,0,diazm003,21,SBBX,64(1)/FO/G.2-3
 play,2,0,aybaw001,00,X,S9/L.3-H;1-3;B-2(E9/TH3)
-com,"Kerans' throw hit the runner at 3B"
 play,2,0,davik002,02,CCS,K
 play,2,1,keara001,22,FBFFBS,K
 play,2,1,vidrj001,00,X,S9/L
@@ -11605,7 +11515,6 @@ play,8,0,franj004,22,FBFBFX,3/P/IF
 play,8,0,villo001,00,,NP
 sub,wardd002,"Daryle Ward",0,7,11
 play,8,0,wardd002,02,.CFFFX,HR/9/F.2-H;1-H
-com,"$Ward pinch homers for two clubs in 2006 (Nationals)"
 play,8,0,aybaw001,22,FBBFX,8!/L
 play,8,0,langr002,22,CBFBX,8/F
 play,8,1,johnn001,00,,NP
@@ -11798,7 +11707,6 @@ play,9,0,aybaw001,00,,NP
 sub,bergj001,"Jason Bergmann",1,9,1
 play,9,0,aybaw001,11,.CBX,4/P
 play,9,0,diazm003,02,SCS,K
-com,"$Pena batted right against the right-handed Bergmann due to a thumb injury"
 badj,penab002,R
 play,9,0,penab002,11,FBX,53/G+
 data,er,jamec002,5
@@ -11921,8 +11829,6 @@ play,7,0,orr-p001,00,.X,3/G
 play,7,0,rente001,20,BBX,6/P
 play,7,0,jonec004,00,,NP
 sub,aybaw001,"Willy Aybar",0,3,11
-com,"Braves third baseman Chipper Jones left the game due to a sore toe on"
-com,"his right foot"
 play,7,0,aybaw001,32,.BBCSBX,S8/L-
 play,7,0,jonea002,31,BBC*BB,W.1-2
 play,7,0,mccab002,11,S*BX,3/G
@@ -12043,9 +11949,6 @@ play,2,0,myerb001,21,BCBX,53/G
 play,2,0,rollj001,11,BSX,S9/L+
 play,2,0,victs001,00,X,S8/G.1-2
 play,2,0,utlec001,31,BBFBX,5/P
-com,"$The foul ball hit by Utley actually hit the right field"
-com,"pole and should have been called a home run; it caromed"
-com,"into foul territory and bounced off the top of the wall"
 play,2,1,schnb001,22,FBBSX,31/G
 play,2,1,logan001,02,COS,K
 play,2,1,churr001,12,CBFX,41/G
@@ -12125,8 +12028,6 @@ play,8,1,raucj001,00,,NP
 sub,lombg001,"George Lombard",1,5,11
 play,8,1,lombg001,32,.BBSBF>B,W.1-2
 play,8,1,schnb001,32,BBCFB>X,S46/G4S.2-H(E4)(NR)(UR);1-3
-com,"Utley tried to barehand the roller; runners moved one base"
-com,"on the hit and one on the error"
 play,8,1,logan001,12,SBSC,K
 play,9,0,costc001,00,,NP
 sub,cordc001,"Chad Cordero",1,5,1
@@ -12437,7 +12338,6 @@ start,schnb001,"Brian Schneider",1,6,2
 start,churr001,"Ryan Church",1,7,9
 start,lombg001,"George Lombard",1,8,7
 start,oconm001,"Michael O'Connor",1,9,1
-com,"a rain delay of 4:27 before the start of the game"
 play,1,0,rollj001,20,BBX,8/F
 play,1,0,victs001,22,CBSFFFFBFX,7/F
 play,1,0,utlec001,11,CBX,S6/G
@@ -12449,7 +12349,6 @@ play,1,1,logan001,02,CFS,K
 play,1,1,lopef001,32,BCBFBX,DGR/78/F
 play,1,1,zimmr001,11,CBX,9/F
 play,2,0,burrp001,32,CCBBBX,8!/F
-com,"Logan leaped at the fence and robbed Burrell of a home run"
 play,2,0,costc001,11,BFX,8/F
 play,2,0,nunea001,11,BFX,9/F
 play,2,1,vidrj001,00,X,7/F
@@ -12538,7 +12437,6 @@ sub,fickr001,"Robert Fick",1,9,3
 play,9,0,utlec001,00,..X,9/F
 play,9,0,howar001,32,CBBBCX,9/L
 play,9,0,conij001,02,CFX,53/G
-com,"game ended at 2:07 am"
 data,er,liebj001,3
 data,er,fulta001,0
 data,er,madsr001,0
@@ -12628,11 +12526,9 @@ play,4,1,vidrj001,02,CCFF>X,4/P
 play,4,1,fickr001,32,BBF1FB>F>X,43/G
 play,5,0,woodc001,32,CBBCBFFFFFFX,13/G
 play,5,0,mainj001,21,BCBX,D8/F
-com,"Maine's first ML hit"
 play,5,0,chave002,31,BCBBX,7/F
 play,5,0,lodup001,11,CBX,D9/G.2-H
 play,5,0,beltc001,32,BBFBFB,W
-com,"shift on for Delgado"
 play,5,0,delgc001,32,BFFBB>F>F>F>F>F>X,63/G4
 play,5,1,logan001,00,X,34/BG
 play,5,1,churr001,12,SBFX,HR/8/F
@@ -12646,7 +12542,6 @@ play,6,0,valej003,00,,NP
 sub,churr001,"Ryan Church",1,8,8
 play,6,0,valej003,00,,NP
 sub,lombg001,"George Lombard",1,9,9
-com,"Nationals center fielder Nook Logan left the game due to left quad tightness"
 play,6,0,valej003,00,...X,9/F
 play,6,0,franj002,11,BFX,S8/L
 play,6,0,tuckm001,01,C>B,SB2.1-3(E2/TH2)
@@ -12663,7 +12558,6 @@ play,7,0,leder001,32,..CBSBFBB,W
 play,7,0,chave002,10,BX,14/SH/BG.1-2
 play,7,0,lodup001,01,CX,63/G.2-3
 play,7,0,beltc001,31,BCBBX,S8/G+.3-H
-com,"shift on for Delgado"
 play,7,0,delgc001,00,B,OA.1X2(253)
 play,7,1,vidrj001,00,,NP
 sub,felip002,"Pedro Feliciano",0,9,1
@@ -12769,8 +12663,6 @@ play,1,0,wrigd002,22,BC1SF1F*BC,K
 play,1,0,grees001,20,BB1>C,SB2
 play,1,0,grees001,32,BB1>C.C*BB,W
 play,1,0,franj002,31,BSBBX,HR/89/F.2-H;1-H
-com,"$Franco extends his own record as oldest to hit a"
-com,"homer in the majors at 48 yr 38 days"
 play,1,0,castr002,10,BX,8/F
 play,1,1,castb002,22,BBCSC,K
 play,1,1,lopef001,22,CFBBX,9/F
@@ -12923,8 +12815,6 @@ start,schnb001,"Brian Schneider",1,6,2
 start,fickr001,"Robert Fick",1,7,9
 start,churr001,"Ryan Church",1,8,8
 start,ortir002,"Ramon Ortiz",1,9,1
-com,"Frank Robinson's last game as manager of the Nationals; a"
-com,"20-minute ceremony delayed the start of the game"
 play,1,0,floyc001,20,BBX,5/P5F
 play,1,0,lodup001,12,FBFFX,43/G
 play,1,0,beltc001,10,BX,7/F

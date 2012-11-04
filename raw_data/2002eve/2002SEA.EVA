@@ -253,7 +253,6 @@ play,5,1,suzui001,01,CX,43/G
 play,5,1,mclem001,12,CCBS,K
 play,5,1,boonb002,12,FCBS,K
 play,6,0,loftk001,00,X,E1/TH1.B-3
-com,"Cirillo spiked in knee by Lofton"
 play,6,0,durhr001,11,SBX,63/G.3-H(UR)
 play,6,0,thomf001,31,BBFBX,7/FL
 play,6,0,ordom001,02,FCC,K/C
@@ -291,7 +290,6 @@ play,7,1,camem001,31,BBBCB,W.3-H;2-3;1-2
 play,7,1,cirij001,00,,NP
 sub,raucj001,"Jon Rauch",0,0,1
 play,7,1,cirij001,22,BFBFX,8/F8
-com,"Debut game for Jon Rauch"
 play,8,0,thomf001,00,,NP
 sub,hases001,"Shigetoshi Hasegawa",1,0,1
 play,8,0,thomf001,12,CCBC,K/C
@@ -458,7 +456,6 @@ play,9,1,sierr001,31,SBBBX,S.2-3;1-2
 play,9,1,guilc001,00,,NP
 sub,uguel001,"Luis Ugueto",1,8,12
 play,9,1,guilc001,21,BFBX,S9.3-H;2-H;1-3
-com,"Debut game for Luis Ugueto"
 play,9,1,suzui001,10,BX,S8.3-H;1-2
 play,9,1,mclem001,12,BCFX,3/G.2-3;1-2
 play,9,1,boonb002,02,CSX,S9.3-H;2-3
@@ -2224,8 +2221,6 @@ play,7,1,davib003,31,BCBBX,5/FL
 play,7,1,uguel001,31,BBFBB,W
 play,7,1,mclem001,31,BCBBB,W.1-2
 play,7,1,cirij001,00,,OA.2X2(6)
-com,"$the famous 'walk, but slid over base play'; Jeter"
-com,"gets out by persuading umpire; argument but no ejections"
 play,8,0,willb002,00,,NP
 sub,rhoda001,"Arthur Rhodes",1,0,1
 play,8,0,willb002,11,CBX,S9/9S
@@ -2351,7 +2346,6 @@ play,4,0,hinse001,32,BSBCBX,S.1-2
 play,4,0,wellv001,31,BCBBX,S9/9S.2-3;1-2
 play,4,0,wilst003,31,BBCBB,W.3-H;2-3;1-2
 play,4,0,lawrj001,11,CBX,7/F7.3-H(NR)
-com,"scores 'on throw' - no RBI"
 play,4,0,lopef001,31,BBBCS,CS3(25).1-2
 play,4,0,lopef001,32,BBBCSB,W
 play,4,0,bergd002,02,CSS,K
@@ -2384,7 +2378,6 @@ play,8,0,delgc001,30,BBBB,W.1-2
 play,8,0,mondr002,00,,NP
 sub,matej001,"Julio Mateo",1,0,1
 play,8,0,mondr002,32,CBBBSFX,5(2)3/GDP.1-2
-com,"Debut game for Julio Mateo"
 play,8,0,hinse001,22,BFBCX,S.2-3
 play,8,0,wellv001,12,FSBFFS,K
 play,8,1,cirij001,12,BCLX,5/L5
@@ -2717,7 +2710,6 @@ play,8,1,boonb002,32,BFBBSS,K
 play,9,0,lawrj001,00,,NP
 sub,kayej001,"Justin Kaye",1,0,1
 play,9,0,lawrj001,31,BCBBX,53/G
-com,"Debut game for Justin Kaye"
 play,9,0,lopef001,02,FSS,K
 play,9,0,wellv001,10,BX,63/G
 play,9,1,olerj001,02,CFX,6/P6
@@ -2890,7 +2882,6 @@ play,6,1,wilsd001,12,FFBFFX,13/G
 play,7,0,sancr001,00,,NP
 sub,sorir001,"Rafael Soriano",1,0,1
 play,7,0,sancr001,10,BX,8/F8
-com,"Debut game for Rafael Soriano"
 play,7,0,damoj001,01,CX,13/G
 play,7,0,hills002,22,BFFBFS,K
 play,7,1,cirij001,12,CBFX,43/G
@@ -3411,7 +3402,6 @@ play,3,0,vaugg001,10,BX,53/G
 play,3,1,wilsd001,12,CBFS,K
 play,3,1,relad001,31,BBBCX,S9
 play,3,1,suzui001,00,X,3(B)62624(1)/GDP
-com,"fielding is correct"
 play,4,0,flahj001,32,SBBFBS,K
 play,4,0,contj001,22,BBCFX,13/G
 play,4,0,gomec001,11,FBX,D7
@@ -3421,7 +3411,6 @@ play,4,1,boonb002,12,SBSFS,K
 play,4,1,olerj001,22,CBBCX,6/P6
 play,5,0,aberb001,30,BBBB,W
 play,5,0,tynej001,22,CBBSX,43(B)635(1)/GDP
-com,"another strange one, fielding OK"
 play,5,0,winnr001,02,CFH,HP
 play,5,0,cox-s001,11,BCX,43/G
 play,5,1,sierr001,01,FX,S8
@@ -3431,7 +3420,6 @@ play,5,1,guilc001,31,BBFBX,8/F8
 play,5,1,wilsd001,00,X,S7.2-3;1-2
 play,5,1,relad001,02,SFS,K
 play,5,1,suzui001,32,BSBBFFFFX,S6.3-H;2XH(65);1-2
-com,"$Cameron rounded third and was caught coming back"
 play,6,0,vaugg001,11,BSX,T7
 play,6,0,flahj001,10,BX,E5/G.3-H(NR)(UR);B-2
 play,6,0,contj001,00,X,FC1.2X3(15);B-1#
@@ -3820,7 +3808,6 @@ play,2,1,olerj001,32,CBBBCB,W
 play,2,1,sierr001,12,BCSS,K
 play,2,1,guilc001,22,BSFBX,7/F7
 play,2,1,snelc001,00,X,9/F9
-com,"Debut game for Chris Snelling"
 play,3,0,robeb003,12,CFFBFC,K/C
 play,3,0,singc001,01,FX,7/F7
 play,3,0,conij001,22,CBCBX,3/P3
@@ -4492,7 +4479,6 @@ play,2,1,cirij001,10,BX,53/G
 play,3,0,cairm001,21,CBBX,8/F8
 play,3,0,difem001,10,BX,7/F7
 play,3,0,tagus001,22,SBSBX,63/G
-com,"Debut game for So Taguchi"
 play,3,1,boonb002,11,CBX,S8/8S
 play,3,1,sierr001,01,SX,9/F9
 play,3,1,olerj001,11,CBX,FC1.1X3(1E6);B-1
@@ -5925,8 +5911,6 @@ play,3,1,wilsd001,12,FFBS,K
 play,3,1,relad001,11,BFB,SB2.1-3(E2/TH2)
 play,3,1,relad001,22,BFBFX,7/F7D
 play,4,0,beltc001,22,CBFBC,K/C
-com,"ej,beltc001,P,eddid901,Called third strike"
-com,"Carlos Beltran ejected by HP umpire Doug Eddings"
 play,4,0,sweem002,00,X,D7
 play,4,0,randj002,12,CFBS,K
 play,4,0,ibanr001,01,CX,9/F9
@@ -6093,7 +6077,6 @@ play,6,1,sierr001,02,CCX,S
 play,6,1,boonb002,01,CX,9/F9
 play,6,1,guilc001,20,BBX,E3/G.1-3
 play,6,1,wilsd001,02,CFFX,S/BR.3-3;1X2(4)#
-com,"$not certain of /BR"
 play,6,1,camem001,11,CBX,HR/7.3-H(UR);1-H(UR);B-H(UR)
 play,6,1,suzui001,12,FSBX,5/L5
 play,7,0,randj002,01,CX,43/G
@@ -7431,7 +7414,6 @@ play,7,1,guilc001,02,FCX,S7.1-2
 play,7,1,wilsd001,12,CBFX,S8.2-3;1-2
 play,7,1,cirij001,00,X,8/F8
 play,7,1,suzui001,00,X,164(1)/FO/G1
-com,"$acrobatic play by Eckstein off deflection by Lackey"
 play,8,0,gil-b001,01,FX,63/G
 play,8,0,ecksd001,20,BBX,7/F7
 play,8,0,erstd001,12,CBSX,6/P6
@@ -7935,7 +7917,6 @@ play,2,1,camem001,00,X,13/G
 play,3,0,higgb001,11,CBX,S7/7S
 play,3,0,simor001,12,BFSX,43/G.1-2
 play,3,0,penac001,01,S2,POCS3(1)
-com,"$John Halama caught runner, ran at & tagged him"
 play,3,0,penac001,22,S2CBBX,8/F8
 play,3,1,davib003,01,CX,S8
 play,3,1,cirij001,21,FBBX,S.1-2
@@ -8013,8 +7994,6 @@ sub,jackd003,"Damian Jackson",0,6,6
 play,9,1,cirij001,00,,NP
 sub,farnj001,"Jeff Farnsworth",0,0,1
 play,9,1,cirij001,32,BBBCCC,K/C
-com,"ej,cirij001,P,mealj901,Called third strike"
-com,"Jeff Cirillo ejected by HP umpire Jerry Meals"
 play,9,1,suzui001,00,X,1/BP1
 play,9,1,guilc001,22,BSBFX,S8/8S
 play,9,1,boonb002,12,SBCS,K
@@ -10174,7 +10153,6 @@ play,8,1,marte001,30,BBBB,W
 play,8,1,camem001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,5,12
 play,8,1,camem001,32,BFBCBS,K
-com,"Debut game for Willie Bloomquist"
 play,9,0,ordal001,00,,NP
 sub,gipsc001,"Charles Gipson",1,2,7
 play,9,0,ordal001,22,CBSBS,K
@@ -10529,8 +10507,6 @@ play,1,1,camem001,00,X,S/89.3-H;2-H;1-3
 play,1,1,guilc001,21,BBCX,S9/9S.3-H;1-3
 play,1,1,wilsd001,02,SSFS,K
 play,2,0,rodri001,22,FSBBC,K/C
-com,"ej,rodri001,P,carlm901,Called third strike"
-com,"Ivan Rodriguez ejected by HP umpire Mark Carlson"
 play,2,0,everc001,11,CBX,7/F7
 play,2,0,blalh001,10,BX,S8/8S
 play,2,0,younm003,32,CBBFBFFFX,S9/9S.1-3
@@ -10830,8 +10806,6 @@ sub,powej001,"Jay Powell",0,0,1
 play,9,1,suzui001,01,CX,4/L4
 play,9,1,camem001,12,BCSC,K/C
 play,9,1,marte001,32,CFBBBFB,W
-com,"ej,powej001,P,hirsj901,Balls and strikes"
-com,"Jay Powell ejected by HP umpire John Hirschbeck"
 play,9,1,olerj001,00,,NP
 sub,rodrr004,"Rich Rodriguez",0,0,1
 play,9,1,olerj001,00,,NP
@@ -10858,7 +10832,6 @@ play,10,1,podss001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,6,11
 play,10,1,bloow001,11,FBX,43/G.2-3
 play,10,1,guilc001,10,BX,S8.3-H
-com,"$the ball bounced over the wall but Rule 10.07(f) made it a single"
 data,er,parkc002,1
 data,er,powej001,0
 data,er,rodrr004,1
@@ -11025,12 +10998,6 @@ play,9,1,boonb002,02,LLS,K
 play,9,1,relad001,30,BBBB,W.1-2
 play,9,1,guilc001,10,BX,3/G.2-3;1-2#
 play,9,1,davib003,01,SX,143/G
-com,"ej,pinil001,M,buckc901,Call at 1B"
-com,"Mariners manager Lou Piniella ejected by CB Bucknor after call"
-com,"at 1B; Piniella threw his hat, kicked his hat, kicked the infield"
-com,"dirt and threw the 1B bag down the RF line twice; 1B coach John"
-com,"McLaren restrained him from getting to Bucknor; after the game,"
-com,"Piniella admitted that his hamstring & right shoulder hurt"
 play,10,0,menck001,00,,NP
 sub,offej001,"Jose Offerman",1,4,3
 play,10,0,menck001,00,,NP
@@ -11111,7 +11078,6 @@ start,wilsd001,"Dan Wilson",1,8,2
 start,cirij001,"Jeff Cirillo",1,9,5
 start,moyej001,"Jamie Moyer",1,0,1
 play,1,0,younm003,12,CSBX,S9
-com,"Debut game for Ben Kozlowski"
 play,1,0,lambm001,10,BX,7/F7
 play,1,0,rodra001,30,BBBB,W.1-2
 play,1,0,palmr001,21,BCBX,9/F9
@@ -11470,8 +11436,6 @@ play,1,0,spies001,32,FBBFFBX,9/F9
 play,1,1,suzui001,21,BFBX,3/G#
 play,1,1,guilc001,32,BSBCFBFFS,K
 play,1,1,marte001,02,CCFFX,43/G
-com,"ej,perrg001,C,guccc901,Balls and strikes"
-com,"Mariners coach Gerald Perry ejected by HP umpire Chris Guccione in 2nd"
 play,2,0,glaut001,32,CBBCBX,S7
 play,2,0,fullb001,12,CBSX,8/F8
 play,2,0,molib001,02,CFS,K
@@ -12166,8 +12130,6 @@ play,7,1,guilc001,01,CX,36(1)/FO
 play,7,1,wilsd001,11,CBX,63/G
 play,8,0,mabrj001,31,BBBCB,W
 play,8,0,ellim001,32,BBCBFB,W.1-2
-com,"ej,nelsj001,P,mcclt901,Balls and strikes"
-com,"Jeff Nelson ejected by HP umpire Tim McClelland"
 play,8,0,longt002,00,,NP
 sub,rhoda001,"Arthur Rhodes",1,0,1
 play,8,0,longt002,10,BX,3/G.2-3;1-2#

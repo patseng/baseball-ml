@@ -60,7 +60,6 @@ play,2,1,ibanr001,11,CBX,8/F
 play,2,1,sexsr001,22,BSSBS,K
 play,2,1,guilj001,32,CSBBBT,K
 play,3,0,buckt001,12,BSSC,K
-com,"Debut game for Travis Buck"
 play,3,0,ellim001,01,FX,43/G
 play,3,0,kendj001,12,BCFFS,K
 play,3,1,johjk001,21,BSBX,4/P
@@ -111,7 +110,6 @@ play,8,1,vidrj001,12,FBCX,46(1)3/GDP
 play,8,1,ibanr001,00,,NP
 sub,marsj001,"Jay Marshall",0,0,1
 play,8,1,ibanr001,32,.CFFFBFBBX,3/G
-com,"Debut game for Jay Marshall"
 play,9,0,bradm001,00,,NP
 sub,ellij001,"Jason Ellison",1,6,9
 play,9,0,bradm001,00,,NP
@@ -253,7 +251,6 @@ sub,ellij001,"Jason Ellison",1,6,9
 play,9,0,swisn001,00,,NP
 sub,morrb001,"Brandon Morrow",1,0,1
 play,9,0,swisn001,30,..BBBB,W
-com,"Debut game for Brandon Morrow"
 play,9,0,kielb001,22,CBCBX,S7/L.1-2
 play,9,0,crosb002,21,BBCX,4/P
 play,9,0,ellim001,21,BCBX,8/F.2-3
@@ -360,7 +357,6 @@ play,5,0,ellim001,00,X,D7/L.3-H;2-H
 play,5,0,kendj001,00,,NP
 sub,whits002,"Sean White",1,0,1
 play,5,0,kendj001,01,.CX,143/G
-com,"Debut game for Sean White"
 play,5,1,guilj001,00,,NP
 sub,scutm001,"Marco Scutaro",0,7,6
 play,5,1,guilj001,02,.CSS,K
@@ -921,7 +917,6 @@ play,1,0,cuddm001,02,SSX,T7/F.2-H
 play,1,0,mornj001,10,BX,43/G
 play,1,0,huntt001,00,X,7/L
 play,1,1,suzui001,00,X,HR/89/F
-com,"$second consecutive lead-off homer by Suzuki"
 play,1,1,belta001,11,CBX,53/G
 play,1,1,vidrj001,00,X,S7/G
 play,1,1,ibanr001,02,CCX,16(1)3/GDP
@@ -1070,7 +1065,6 @@ play,1,0,cuddm001,00,B,WP.3-H(NR);2-3;1-2
 play,1,0,cuddm001,12,B.SCFX,43/G.3-H;2-3
 play,1,0,mornj001,31,BFB*B,NP
 sub,woodj002,"Jake Woods",1,0,1
-com,"Mariners pitcher Felix Hernandez left the game due to an injured elbow"
 play,1,0,mornj001,31,BFB*B.B,W
 play,1,0,redmm001,11,BSX,S9/F.3-H;1-2
 play,1,0,kubej002,31,CB*BBX,8/L
@@ -1248,7 +1242,6 @@ play,4,1,sexsr001,00,X,63/G
 play,5,0,castl001,11,CBX,D9/F
 play,5,0,puntn001,00,,NP
 sub,casia001,"Alexi Casilla",0,1,12
-com,"Twins second baseman Luis Castillo left the game due to an injured leg"
 play,5,0,puntn001,02,.FLX,63/G
 play,5,0,mauej001,01,CH,HP
 play,5,0,cuddm001,22,CBBTS,K
@@ -2626,7 +2619,6 @@ play,9,0,napom001,00,,NP
 sub,davij005,"Jason Davis",1,0,1
 play,9,0,napom001,32,.SSBBBX,3/P
 play,9,0,murpt001,10,BX,DGR/7/L
-com,"fan interference"
 play,9,0,willr004,12,BCSC,K
 play,9,0,figgc001,11,BFX,31/G
 data,er,escok001,6
@@ -3636,7 +3628,6 @@ play,3,1,betay001,00,,NP
 sub,vazqr001,"Ramon Vazquez",0,3,5
 play,3,1,betay001,00,,NP
 sub,katam001,"Matt Kata",0,9,3
-com,"Rangers first baseman Mark Teixeira left the game due to an injured head"
 play,3,1,betay001,01,..CX,63/G
 play,3,1,lopej003,01,CX,S7/L
 play,3,1,suzui001,01,CX,46(1)/FO/G
@@ -3706,15 +3697,12 @@ sub,benoj001,"Joaquin Benoit",0,0,1
 play,7,1,sexsr001,10,.BX,HR/7/F
 play,7,1,johjk001,12,CBFX,S8/G
 play,7,1,belta001,00,X,8!/FDP.1X1(863)
-com,"$Lofton leaped and reached well over wall to make great catch."
-com,"Johjima was already around second and was esily doubled up."
 play,8,0,kinsi001,22,CSBBFX,D7/G
 play,8,0,lairg001,01,LX,S1/BG.2-3
 play,8,0,katam001,00,,NP
 sub,sherg001,"George Sherrill",1,0,1
 play,8,0,katam001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,7,5
-com,"Mariners third baseman Adrian Beltre left the game due to an injured hand/wrist"
 play,8,0,katam001,02,..FFT,K
 play,8,0,loftk001,20,BBX,7/SF/L.3-H
 play,8,0,younm003,10,11BX,7/F
@@ -4497,7 +4485,6 @@ sub,robeb003,"Brian Roberts",0,6,4
 play,9,1,bloow001,00,,NP
 sub,ray-c001,"Chris Ray",0,0,1
 play,9,1,bloow001,12,...FBFX,DGR/9
-com,"fan interference"
 play,9,1,burkj003,00,,NP
 sub,broub001,"Ben Broussard",1,9,11
 play,9,1,broub001,32,.FBFBFFFBFX,7/F
@@ -4980,8 +4967,6 @@ play,2,0,rossd001,32,FBBFBB,W
 play,2,0,hoppn001,00,X,S3/BG.1-2
 play,2,0,philb001,00,X,S8/G.2-H;1-2
 play,2,0,grifk002,01,CX,36(1)/FO/G.2-H(E6/TH)(NR);B-1
-com,"ej,hargm001,M,wintm901,Balls and strikes"
-com,"Mariners Manager Mike Hargrove ejected by HP umpire Mike Winters"
 play,2,0,conij001,31,B.BBCB,W.1-2
 play,2,0,dunna001,01,CX,7/F
 play,2,0,encae001,00,X,7/F
@@ -5030,7 +5015,6 @@ play,6,0,philb001,10,BX,HR/8/F
 play,6,0,grifk002,00,,NP
 sub,rowlr002,"Ryan Rowland-Smith",1,0,1
 play,6,0,grifk002,12,.BCCFS,K
-com,"Debut game for Ryan Rowland-Smith"
 play,6,1,belta001,00,,NP
 sub,hatts001,"Scott Hatteberg",0,3,3
 play,6,1,belta001,00,,NP
@@ -5173,7 +5157,6 @@ play,5,1,lopej003,12,1CCBX,7/L
 play,5,1,vidrj001,22,CCBBX,8/F
 play,5,1,ibanr001,00,,NP
 sub,ellij001,"Jason Ellison",1,4,11
-com,"Mariners left fielder Raul Ibanez left the game due to an injured leg"
 play,5,1,ellij001,01,.FX,9/F
 play,6,0,philb001,00,,NP
 sub,ellij001,"Jason Ellison",1,4,7
@@ -5592,7 +5575,6 @@ play,2,0,varij001,02,CCS,K
 play,2,0,hinse001,00,X,43/G
 play,2,0,coraa001,22,BCBCX,63/G
 play,2,1,bloow001,11,CBX,HR/7/F
-com,"over the visiting team bullpen"
 play,2,1,suzui001,12,CSFBX,S16/G-
 play,2,1,lopej003,20,BBX,S57/G+.1-2
 play,2,1,vidrj001,00,X,64(1)3/GDP.2-3
@@ -5632,7 +5614,6 @@ play,5,1,bloow001,01,FX,S8/G.2-H;1-3
 play,5,1,suzui001,20,BBX,8/SF/F.3-H
 play,5,1,lopej003,00,>P,CS2(26)
 play,6,0,hinse001,10,BX,HR/9/F+
-com,"$off the facing of the upper deck"
 play,6,0,coraa001,21,CBBX,D9/L
 play,6,0,crisc001,01,LX,14/SH/BG.2-3
 play,6,0,pedrd001,21,BBFX,13/G+
@@ -6232,10 +6213,6 @@ start,johjk001,"Kenji Johjima",1,7,2
 start,betay001,"Yuniesky Betancourt",1,8,6
 start,bloow001,"Willie Bloomquist",1,9,4
 start,weavj002,"Jeff Weaver",1,0,1
-com,"$Seattle Mgr Mike Hargrove resigned before the game because he"
-com,"no longer had the desire to manage; the Mariners had won seven"
-com,"consecutive games at this point and won the current game which"
-com,"was Hargrove's last as skipper"
 play,1,0,wellv001,01,CX,53/G
 play,1,0,zaung001,32,BBCCBS,K
 play,1,0,riosa002,32,CBBCFBFX,63/G
@@ -6415,10 +6392,6 @@ play,4,1,johjk001,02,CCC,K
 play,4,1,betay001,10,1B>S,SB2.1-3(E2/TH)
 play,4,1,betay001,11,1B>S,NP
 sub,rabem001,"Mike Rabelo",0,6,2
-com,"ej,rodri001,P,wintm901,Arguing batter interference; bumped umpire"
-com,"Tigers catcher Ivan Rodriguez ejected by HP umpire Mike Winters;"
-com,"Rodriguez claimed batter interference on his throw to second,"
-com,"bumped umpire Winters"
 play,4,1,betay001,12,1B>S...FX,3/P3F
 play,4,1,lopej003,32,BFBSFFBT,K
 play,5,0,thamm001,32,CBFFBBC,K
@@ -6433,14 +6406,6 @@ play,5,1,ibanr001,00,X,9/F
 play,5,1,guilj001,32,BSBFFFB>B,W.1-2
 play,5,1,sexsr001,31,BFBBB,W.2-3;1-2
 play,5,1,belta001,22,CBFBX,S9/G+.3-H;2-H;1-H(E6)(UR)(NR);BX2(16)
-com,"$Beltre slid into 2B, touching the bag as he slid by; since he"
-com,"was off the base, he got up and twice jumped out of the way of a tag,"
-com,"and then ran towards 3B; Carlos Guillen chased him but dropped the"
-com,"ball so Beltre reached 3B safely as Richie Sexson scored; after"
-com,"Mgr Jim Leyland talked with 2B umpire Bruce Froemming, the"
-com,"Tigers appeal at 2B that Beltre never touched the bag; Froemming"
-com,"called Beltre out, even though he clearly did touch the bag and"
-com,"Froemming signalled safe as he slid by originally"
 play,6,0,cases001,01,SX,3/G
 play,6,0,infao001,01,LX,7/L
 play,6,0,ingeb001,12,BCCFS,K
@@ -6886,8 +6851,6 @@ play,5,0,rabem001,00,X,6/P
 play,5,0,ingeb001,22,BFTB+1FS,K
 play,5,1,bloow001,31,FBBBX,S8/G
 play,5,1,suzui001,01,FH,HP.1-2
-com,"$Pitch hit Suzuki squarely on right knee, left for"
-com,"runner after limping to second on wild pitch"
 play,5,1,vidrj001,12,SFBC,K
 play,5,1,ibanr001,30,BBBX,8/F.2-3
 play,5,1,guilj001,02,FFFFB,WP.3-H(NR);1-2
@@ -6953,7 +6916,6 @@ sub,rabur001,"Ryan Raburn",0,4,9
 play,9,1,bloow001,00,,NP
 sub,minez001,"Zach Miner",0,0,1
 play,9,1,bloow001,01,..CX,S6/G.B-2(E6/TH)
-com,"originally scored E6, changed to S6 plus E6 2 days later"
 play,9,1,betay001,30,BBBB,W
 play,9,1,vidrj001,32,C*BSBFBFX,36(1)/FO/G.2-3
 play,9,1,ibanr001,32,BCFBFBX,7/SF/F.3-H
@@ -7926,15 +7888,10 @@ play,5,0,scutm001,11,CBX,7/F
 play,5,0,johnd004,00,X,9/L
 play,5,1,belta001,12,CSFBX,9/F
 play,5,1,sexsr001,12,CBCS,K
-com,"$Sexson glared at 1B umpire Mark Carlson on check swing call"
 play,5,1,ibanr001,32,BFCFBFFFBS,K
 play,6,0,murpd004,00,,NP
 sub,reitc001,"Chris Reitsma",1,0,1
 play,6,0,murpd004,01,.CX,S6/G6
-com,"ej,sexsr001,P,carlm901,Call at 1B"
-com,"Mariners first baseman Richie Sexson ejected by 1B umpire Mark Carlson;"
-com,"Sexson fell to the ground to catch a wide throw from SS Willie"
-com,"Bloomquist but Carlson ruled Sexson's foot was off the bag"
 play,6,0,suzuk001,00,,NP
 sub,broub001,"Ben Broussard",1,5,3
 play,6,0,suzuk001,32,..BFBBC1FX,S7/G.1-2
@@ -8273,7 +8230,6 @@ play,9,0,mathj001,32,BSBSBX,7/L
 play,9,0,willr004,00,,NP
 sub,buddr001,"Ryan Budde",0,9,11
 play,9,0,buddr001,31,.BBFBX,8/F
-com,"Debut game for Ryan Budde"
 play,9,1,ibanr001,00,,NP
 sub,haynn001,"Nathan Haynes",0,3,9
 play,9,1,ibanr001,00,..X,S9/L+
@@ -9347,13 +9303,10 @@ play,5,1,lopej003,01,FX,8/F
 play,6,0,bartj001,01,SX,S6/G
 play,6,0,mauej001,00,,NP
 sub,puntn001,"Nick Punto",0,2,12
-com,"Twins shortstop Jason Bartlett left the game due to an injured leg"
 play,6,0,mauej001,31,.1CBBBB,W.1-2
 play,6,0,huntt001,01,FX,9/F
 play,6,0,mornj001,12,SBCC,K
 play,6,0,cuddm001,12,BCCS,K
-com,"ej,gardr001,M,cedeg901,Balls and strikes"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Gary Cederstrom"
 play,6,1,guilj001,00,,NP
 sub,puntn001,"Nick Punto",0,2,6
 play,6,1,guilj001,12,..CCBT,K
@@ -9903,11 +9856,6 @@ play,1,0,willr004,22,CCFFBFBX,S9/F
 play,1,0,cabro001,11,B1>F>X,46(1)3/GDP
 play,1,0,guerv001,00,X,9/F
 play,1,1,suzui001,12,FFBT,K
-com,"ej,mclaj801,M,mealj901,Foul tip"
-com,"$HP umpire Gary Darling called a foul tip; Seattle Mgr John McLaren"
-com,"asked Darling to check with 3B umpire Jerry Meals; he refused; McLaren"
-com,"returned to the dugout and then started arguing with Meals, who ejected"
-com,"McLaren"
 play,1,1,vidrj001,32,FBBCBFX,S8/G
 play,1,1,guilj001,22,BBFFS,K
 play,1,1,ibanr001,21,SBBX,43/G
@@ -9924,7 +9872,6 @@ play,3,0,willr004,22,BCFBS,K
 play,3,0,cabro001,00,X,S7/G.1-2
 play,3,0,guerv001,12,CF*BFX,S6/G.2-3;1-2
 play,3,0,andeg001,12,BCFX,DGR/9/L.3-H;2-H;1-3
-com,"fan interference"
 play,3,0,iztum001,01,CX,43/G
 play,3,1,lopej003,12,CBFX,S7/L
 play,3,1,betay001,12,BFFS,K
@@ -10348,7 +10295,6 @@ play,2,0,ellim001,11,FBX,S7/L
 play,2,0,johnd004,31,B1*BBCB,W.1-2
 play,2,0,hannj001,12,CCBX,S7/L.2-H;1-2
 play,2,0,bartd001,32,BCBBCB,W.2-3;1-2
-com,"Debut game for Daric Barton"
 play,2,0,suzuk001,01,FX,HR/7/F.3-H;2-H;1-H
 play,2,0,stews002,12,CSFBFX,43/G
 play,2,0,scutm001,11,BCX,S9/L
@@ -10538,12 +10484,6 @@ play,4,0,piazm001,10,BX,D89/F
 play,4,0,ellim001,00,X,S7/G.2-3
 play,4,0,scutm001,31,FBB1BB,W.1-2
 play,4,0,murpd004,32,BSBBFB,W.3-H;2-3;1-2
-com,"ej,mclaj801,M,guccc901,Balls and strikes"
-com,"$ball four appeared well off the plate; Washburn yelled at HP"
-com,"umpire Chris Guccione and then Mariners Manager John McLaren"
-com,"started yelling from the dugout; McLaren was ejected by Guccione;"
-com,"when McLaren then came out, Guccione rolled his eyes and looked away;"
-com,"McLaren also yelled at crew chief Tom Hallion"
 play,4,0,suzuk001,30,.BBBB,W.3-H;2-3;1-2
 play,4,0,thomk001,12,CBFX,7/F
 play,4,0,stews002,21,BSBX,S8/L-.3-H;2-H;1-2
@@ -10569,7 +10509,6 @@ play,5,1,vidrj001,00,.X,36(1)/FO/G.3-H
 play,5,1,jonea003,12,BCFS,K
 play,6,0,suzuk001,00,,NP
 sub,burkj003,"Jamie Burke",1,5,2
-com,"Mariners catcher Kenji Johjima left the game due to an injured hand/wrist"
 play,6,0,suzuk001,11,.FBX,8/F
 play,6,0,thomk001,11,CBX,53/G
 play,6,0,stews002,21,BFBX,S9/L
@@ -11581,7 +11520,6 @@ play,8,1,reedj004,00,,NP
 sub,perer002,"Rafael Perez",0,0,1
 play,8,1,reedj004,00,,NP
 sub,betay001,"Yuniesky Betancourt",1,9,11
-com,"Indians catcher Victor Martinez left the game due to an injured knee"
 play,8,1,betay001,01,.......CX,7/F
 play,8,1,suzui001,11,BCX,63/G
 play,8,1,lopej003,01,CX,8/L
@@ -11717,9 +11655,6 @@ start,blakc001,"Casey Blake",0,7,5
 start,franb001,"Ben Francisco",0,8,7
 start,rival001,"Luis Rivas",0,9,4
 start,carmf001,"Fausto Carmona",0,0,1
-com,"$Game one of a doubleheader; this was a make-up of a game snowed out"
-com,"in April in Cleveland; the Mariners batted first in this game,"
-com,"but all records count as though the Indians were the visiting team"
 play,1,1,suzui001,22,BBCFX,63/G
 play,1,1,belta001,32,CSBFBBX,31/G
 play,1,1,ibanr001,01,CX,S9/G
@@ -11878,8 +11813,6 @@ start,jonea003,"Adam Jones",1,7,7
 start,burkj003,"Jamie Burke",1,8,2
 start,green001,"Nick Green",1,9,4
 start,washj001,"Jarrod Washburn",1,0,1
-com,"$Game two of a doubleheader; Cleveland was the home team in the first"
-com,"contest, which was a make-up of an April game that was snowed out"
 play,1,0,gutif001,12,BCSX,7/F
 play,1,0,gomec001,00,X,8/L
 play,1,0,peraj001,32,BFFBBFX,53/G
@@ -12147,7 +12080,6 @@ play,9,0,blakc001,00,,NP
 sub,morrb001,"Brandon Morrow",1,0,1
 play,9,0,blakc001,02,.FFFS,K
 play,9,0,loftk001,11,BFX,DGR/7
-com,"fan interference"
 play,9,0,shopk001,10,BX,D7/F.2-H
 play,9,0,barfj003,00,,NP
 sub,garkr001,"Ryan Garko",0,9,11
@@ -12239,7 +12171,6 @@ play,4,0,murpd005,22,BBFFC,K
 play,4,0,saltj001,21,FB*BX,6(1)/FO/G
 play,4,1,ibanr001,00,,NP
 sub,vazqr001,"Ramon Vazquez",0,3,6
-com,"Rangers shortstop Michael Young left the game due to an injured groin"
 play,4,1,ibanr001,12,.CBFFS,K
 play,4,1,guilj001,32,BBFFBX,63/G
 play,4,1,clemj001,02,CS.FS,K

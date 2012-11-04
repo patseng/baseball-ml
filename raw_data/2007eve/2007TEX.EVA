@@ -665,7 +665,6 @@ play,3,0,wiggt001,10,B1X,HR/7/F.3-H;1-H
 play,3,0,yound003,12,SCBFX,S8/L
 play,3,0,iwama001,00,,NP
 sub,felds001,"Scott Feldman",1,0,1
-com,"Orioles pitcher Jaret Wright left the game due to an injured neck/shoulder"
 play,3,0,iwama001,00,.X,13/G
 play,3,1,younm003,31,BCBBB,W
 play,3,1,teixm001,12,CFBX,S9/G.1-2
@@ -1630,8 +1629,6 @@ play,7,0,miend001,21,FBBX,S9/G
 play,7,0,abreb001,12,BCSFS,K
 play,7,0,jeted001,02,CCFS,K
 play,7,1,younm003,20,BBX,8/F
-com,"$Yankees pitcher Phil Hughes left with hamstring injury having"
-com,"surrendered no hits to this point; expected to be out 4-6 weeks"
 play,7,1,teixm001,00,,NP
 sub,myerm001,"Mike Myers",0,0,1
 play,7,1,teixm001,12,SSF.BFX,8/F
@@ -1722,7 +1719,6 @@ start,diazv001,"Victor Diaz",1,7,9
 start,cruzn002,"Nelson Cruz",1,8,7
 start,lairg001,"Gerald Laird",1,9,2
 start,woodm002,"Mike Wood",1,0,1
-com,"$Debut for umpire Angel Campos"
 play,1,0,damoj001,10,BX,6/P
 play,1,0,jeted001,32,CBBCBS,K
 play,1,0,abreb001,32,BCSBBX,63/G
@@ -2734,8 +2730,6 @@ play,2,0,figgc001,00,X,3/G
 play,2,1,sosas001,02,FCX,S7/L
 play,2,1,blalh001,11,BFX,8/F
 play,2,1,wilkb002,12,CBCX,8/FDP.1X1(13)
-com,"$Sosa tagged and went to 2B on the fly but was called out on appeal"
-com,"for leaving too early"
 play,3,0,willr004,01,CX,63/G
 play,3,0,cabro001,31,BBBCX,63/G
 play,3,0,guerv001,11,CBX,S8/L
@@ -2791,12 +2785,6 @@ play,7,0,napom001,01,CX,63/G-
 play,7,1,kinsi001,00,,NP
 sub,carrh001,"Hector Carrasco",0,0,1
 play,7,1,kinsi001,00,.H,HP
-com,"ej,carrh001,P,marqa901,Intentional HBP"
-com,"ej,sciom001,M,marqa901,Arguing the ejection of Carrasco"
-com,"$Kinsler hit on the helmet by a curve ball;"
-com,"Angels pitcher Hector Carrasco ejected by HP umpire Alfonso Marquez;"
-com,"Angels Manager Mike Scioscia ejected by HP umpire Alfonso Marquez for"
-com,"arguing Carrasco's ejection"
 play,7,1,loftk001,00,,NP
 sub,mosed001,"Dustin Moseley",0,0,1
 play,7,1,loftk001,22,...1L1LBB+1S,K
@@ -2894,7 +2882,6 @@ play,2,0,willr004,32,CFBBFBB,W
 play,2,0,cabro001,11,B>F1X,S9/L.1-2
 play,2,0,guerv001,00,,NP
 sub,eyrew001,"Willie Eyre",1,0,1
-com,"Rangers pitcher Kevin Millwood left the game due to an injured leg"
 play,2,0,guerv001,11,.*BCX,6/P
 play,2,1,blalh001,01,CX,S6/P
 play,2,1,wilkb002,11,CBX,S9/L.1-2
@@ -2955,8 +2942,6 @@ sub,bootc001,"Chris Bootcheck",0,0,1
 play,8,1,younm003,32,.BBBCFFFX,63/G-
 play,8,1,teixm001,02,CFFS,K
 play,8,1,sosas001,22,BBCFC,K
-com,"ej,sosas001,P,timmt901,Called third strike"
-com,"Rangers designated hitter Sammy Sosa ejected by HP umpire Tim Timmons"
 play,9,0,cabro001,22,.CBBFX,43/G
 play,9,0,guerv001,00,,NP
 sub,hills002,"Shea Hillenbrand",0,3,11
@@ -3522,7 +3507,6 @@ play,2,1,kinsi001,31,BBBCB,W
 play,2,1,lairg001,12,CFBS,K
 play,3,0,ortid001,00,,NP
 sub,littw001,"Wes Littleton",1,0,1
-com,"Rangers pitcher Brandon McCarthy left the game due to an injured hand/wrist"
 play,3,0,ortid001,00,.X,S5/G
 play,3,0,ramim002,12,CCBX,D8/L.1-3
 play,3,0,drewj001,01,FX,FC4/G.2X2(4)
@@ -3566,7 +3550,6 @@ play,6,0,ramim002,02,.FFS,K
 play,6,0,drewj001,12,CSBX,43/G
 play,6,1,cruzn002,00,,NP
 sub,snydk001,"Kyle Snyder",0,0,1
-com,"Boston Red Sox pitcher Daisuke Matsuzaka left the game due to nausea"
 play,6,1,cruzn002,32,.BBCSBX,7/F
 play,6,1,kinsi001,12,BFSX,S8/L
 play,6,1,lairg001,00,>C,SB2
@@ -3973,7 +3956,6 @@ play,1,0,polap001,01,CX,54(1)/FO/G
 play,1,0,shefg001,31,BBBCB,W.1-2
 play,1,0,ordom001,00,X,S9/L.2-3;1-2
 play,1,0,guilc001,10,BX,4/P
-com,"infiled fly"
 play,1,0,rodri001,11,CBX,46(1)/FO/G
 play,1,1,hairj002,32,BCBFFBFX,S7/L
 play,1,1,younm003,32,CB1F1FBB>F>F>B,W.1-2
@@ -4175,7 +4157,6 @@ play,6,0,granc001,00,,NP
 sub,hairj002,"Jerry Hairston",1,3,5
 play,6,0,granc001,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,9,3
-com,"Rangers first baseman Mark Teixeira left the game due to an injured neck/shoulder"
 play,6,0,granc001,22,..BBCSX,8/F
 play,6,0,polap001,12,CFBX,S8/L
 play,6,0,shefg001,20,BBX,13/G.1-2
@@ -4508,7 +4489,6 @@ play,6,1,diazv001,12,BFSS,K
 play,6,1,byrdm001,12,FCBX,43/G
 play,7,0,jenkg001,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,3,3
-com,"Rangers first baseman Mark Teixeira left the game due to an injured leg"
 play,7,0,jenkg001,01,.CX,D9/G
 play,7,0,grosg002,11,SBX,8/F.2-3
 play,7,0,hallb001,00,X,43/G.3-H
@@ -5103,7 +5083,6 @@ play,1,1,byrdm001,20,BBX,63/G
 play,2,0,fontm001,22,BBCFX,43/G
 play,2,0,derom001,00,,NP
 sub,iztuc001,"Cesar Izturis",0,6,11
-com,"Cubs second baseman Mark DeRosa left the game due to an injured head"
 play,2,0,iztuc001,00,.X,D7/G
 play,2,0,jonej003,22,CSBBFS,K23.2-3
 play,2,0,therr001,21,BBSX,43/G
@@ -5140,8 +5119,6 @@ play,5,0,pie-f001,00,X,43/G
 play,5,1,kinsi001,21,BBCX,5!3/G
 play,5,1,younm003,22,FBBFC,K
 play,5,1,sosas001,12,CFBX,HR/89/F
-com,"$home run #600 of Sosa's career; fifth player to reach the milestone;"
-com,"first homer against the Cubs for Sosa; he hit 545 for the Cubs"
 play,5,1,cataf001,22,BBCFX,HR/89/F
 play,5,1,byrdm001,12,FBCFS,K
 play,6,0,lee-d002,00,,NP
@@ -5955,8 +5932,6 @@ play,8,0,molij001,00,,NP
 sub,iztum001,"Maicer Izturis",0,9,11
 play,8,0,iztum001,32,.BBCBF>X,63/G.1-2
 play,8,0,willr004,00,B,PB.2-3
-com,"ej,howea001,C,hirsj901,Arguing from bench"
-com,"Rangers Bench Coach Art Howe ejected by HP umpire John Hirschbeck"
 play,8,0,willr004,32,B..BFSFBX,6/P
 play,8,0,figgc001,21,BCBX,3/G
 play,8,1,loftk001,00,,NP
@@ -6326,7 +6301,6 @@ play,3,0,robeb003,32,BCFBBFX,43/G
 play,3,0,pattc001,00,X,3/G
 play,3,1,metct001,00,,NP
 sub,faheb001,"Brandon Fahey",0,9,6
-com,"Orioles left fielder Freddie Bynum left the game due to an injured leg"
 play,3,1,metct001,12,..CBCX,D9/F
 play,3,1,hairj002,11,BLX,13/SH/BG.2-3
 play,3,1,vazqr001,02,CCX,7/SF/F.3-H
@@ -6601,8 +6575,6 @@ play,1,1,vazqr001,01,L1X,13/SH/BG.1-2
 play,1,1,younm003,00,X,S9/L.2-3
 play,1,1,byrdm001,02,FSFX,S8/L.3-H;1-2
 play,1,1,cataf001,22,BCSBC,K
-com,"ej,cataf001,P,barkl901,Called third strike"
-com,"Rangers left fielder Frank Catalanotto ejected by HP umpire Lance Barksdale"
 play,1,1,lairg001,32,.CBS*BB>B,W.2-3;1-2
 play,1,1,wilkb002,02,CCS,K
 play,2,0,paytj001,00,,NP
@@ -6669,7 +6641,6 @@ sub,hernl004,"Luis Hernandez",0,9,6
 play,7,1,younm003,00,,NP
 sub,bellr003,"Rob Bell",0,0,1
 play,7,1,younm003,11,...BCX,43/G
-com,"Debut game for Luis Hernandez"
 play,7,1,byrdm001,32,FBSBBB,W
 play,7,1,relad001,31,BBBCB,W.1-2
 play,7,1,lairg001,11,CB+1X,54(1)3/GDP
@@ -6919,7 +6890,6 @@ play,3,1,vazqr001,11,CBX,D9/L
 play,3,1,metct001,32,BLLBBB,W
 play,3,1,loftk001,00,,NP
 sub,relad001,"Desi Relaford",1,1,11
-com,"Rangers center fielder Kenny Lofton left the game due to an injured foot/ankle"
 play,3,1,relad001,12,LF.BX,64(1)3/GDP.2-3
 play,3,1,hairj002,01,FX,43/G
 play,4,0,blakc001,00,,NP
@@ -7078,7 +7048,6 @@ play,3,0,martv001,20,BBX,64(1)3/GDP
 play,3,1,sosas001,20,BBH,HP
 play,3,1,byrdm001,00,,NP
 sub,cataf001,"Frank Catalanotto",1,4,12
-com,"Rangers designated hitter Sammy Sosa left the game due to an injured head"
 play,3,1,byrdm001,12,..CSBS,K
 play,3,1,wilkb002,01,CB,WP.1-2
 play,3,1,wilkb002,12,CB.TFFFX,9/F.2-3
@@ -7223,7 +7192,6 @@ play,2,1,cataf001,11,CBX,43/G
 play,2,1,lairg001,02,FSFFH,HP
 play,2,1,wilkb002,00,,NP
 sub,melha001,"Adam Melhuse",1,6,12
-com,"Rangers catcher Gerald Laird left the game due to an injured hand/wrist"
 play,2,1,wilkb002,01,.CX,46(1)/FO/G
 play,3,0,sizeg001,00,,NP
 sub,melha001,"Adam Melhuse",1,6,2
@@ -8091,9 +8059,6 @@ play,11,0,piazm001,10,BX,43/G
 play,11,1,younm003,00,,NP
 sub,browa002,"Andrew Brown",0,0,1
 play,11,1,younm003,32,.CFBBBC,K
-com,"ej,younm003,P,millb901,Called third strike"
-com,"ej,washr001,M,millb901,Called third strike to Young"
-com,"Rangers Michael Young & Mgr Ron Washington ejected by HP umpire Bill Miller"
 play,11,1,sosas001,22,..SBBSC,K
 play,11,1,byrdm001,32,BBFCFBX,13/G
 play,12,0,ellim001,00,,NP
@@ -8781,7 +8746,6 @@ play,1,1,younm003,32,BBFBSX,9/F
 play,2,0,yound003,00,X,9/F
 play,2,0,harrb001,00,,NP
 sub,eyrew001,"Willie Eyre",1,0,1
-com,"Rangers pitcher Kason Gabbard left the game due to an injured arm"
 play,2,0,harrb001,31,.BFBBB,W
 play,2,0,wilsj003,02,1C1FS,K
 play,2,0,navad001,12,CBS1S,K
@@ -9260,7 +9224,6 @@ play,4,0,browe001,02,FSX,64(1)3/GDP
 play,4,1,byrdm001,11,BCX,S15/G
 play,4,1,wilkb002,00,,NP
 sub,balej001,"John Bale",0,0,1
-com,"Royals pitcher Leo Nunez left the game due to an injured hand/wrist"
 play,4,1,wilkb002,32,1BB.CCBFS,K
 play,4,1,melha001,11,1F*BX,64(1)3/GDP
 play,5,0,gorda001,02,SCS,K
@@ -9976,7 +9939,6 @@ play,2,1,lairg001,00,B,PB.2-3;1-2
 play,2,1,lairg001,22,B.CCBC,K
 play,3,0,fielj001,32,BBSSBC,K
 play,3,0,thomj002,00,X,HR/89/F
-com,"$#494 for Thome to move past Gehrig and McGriff"
 play,3,0,konep001,20,BBX,63/G
 play,3,0,dye-j001,12,CBCS,K23
 play,3,1,metct001,12,CBSS,K
@@ -10001,7 +9963,6 @@ sub,woodm002,"Mike Wood",1,0,1
 play,5,0,konep001,01,.CX,64(1)/FO/G
 play,5,1,cataf001,12,CBFX,S8/L-
 play,5,1,kinsi001,00,X,2/BG/INT.1-1
-com,"$Kinsler called out for interference"
 play,5,1,younm003,12,SFBX,E1/TH/FO/G.1-2
 play,5,1,byrdm001,10,BX,6(1)3/GDP
 play,6,0,dye-j001,20,BBX,S7/L
@@ -10024,7 +9985,6 @@ play,7,1,cataf001,00,,NP
 sub,logab001,"Boone Logan",0,0,1
 play,7,1,cataf001,00,,NP
 sub,sosas001,"Sammy Sosa",1,1,11
-com,"Rangers third baseman Travis Metcalf left the game due to a strained left hamstring"
 play,7,1,sosas001,01,...SX,9/F
 play,7,1,kinsi001,00,,NP
 sub,macdm001,"Mike MacDougal",0,0,1
@@ -10128,7 +10088,6 @@ play,2,0,gonza004,00,,NP
 sub,cruzn002,"Nelson Cruz",1,1,9
 play,2,0,gonza004,00,,NP
 sub,murpd005,"David Murphy",1,8,7
-com,"Rangers left fielder Frank Catalanotto left the game due to an injured groin"
 play,2,0,gonza004,22,..CCBBC,K
 play,2,0,erstd001,01,CX,3/G
 play,2,0,uribj002,12,CBSFFS,K
@@ -10466,7 +10425,6 @@ play,3,1,kinsi001,22,CBCBX,S7/L.1-2
 play,3,1,younm003,12,BCFFX,9/F
 play,4,0,penat002,00,,NP
 sub,felds001,"Scott Feldman",1,0,1
-com,"Rangers pitcher Kameron Loe left the game due to an injured elbow"
 play,4,0,penat002,11,.CBX,43/G
 play,4,0,dejed001,00,X,S1/BG
 play,4,0,grudm001,20,BB>C,SB2
@@ -10869,7 +10827,6 @@ play,7,0,penat002,10,BX,4/P
 play,7,0,dejed001,00,,NP
 sub,whitb001,"Bill White",1,0,1
 play,7,0,dejed001,11,.CBX,S9/G
-com,"Debut game for Bill White"
 play,7,0,grudm001,00,X,8/F
 play,7,1,cataf001,00,,NP
 sub,braur001,"Ryan Braun",0,0,1
@@ -11121,7 +11078,6 @@ start,saltj001,"Jarrod Saltalamacchia",1,8,2
 start,vazqr001,"Ramon Vazquez",1,9,5
 start,mendl001,"Luis Mendoza",1,0,1
 play,1,0,stews002,22,BCSFFFFBFFX,63/G
-com,"Debut game for Luis Mendoza"
 play,1,0,scutm001,01,SX,53/G
 play,1,0,custj001,21,SBBX,D7/L
 play,1,0,piazm001,00,X,63/G
@@ -11141,7 +11097,6 @@ play,2,1,vazqr001,00,X,31/G
 play,2,1,cataf001,21,CBBX,43/G
 play,3,0,suzuk001,00,,NP
 sub,murra001,"A.J. Murray",1,0,1
-com,"Rangers pitcher Luis Mendoza left the game due to an injured knee"
 play,3,0,suzuk001,32,.CBBFBX,9/F
 play,3,0,stews002,21,BFBX,9/F
 play,3,0,scutm001,01,CX,S8/G
@@ -11310,7 +11265,6 @@ play,3,0,ellim001,22,CFBBFFX,S7/G.1-2
 play,3,0,johnd004,32,CBBFB>B,W.2-3;1-2
 play,3,0,murpd004,00,,NP
 sub,felds001,"Scott Feldman",1,0,1
-com,"Rangers pitcher Scott Feldman left the game due to an injured knee"
 play,3,0,murpd004,02,.CFX,9/L
 play,3,1,bottj001,31,FBBBB,W
 play,3,1,cruzn002,12,SFBS,K
@@ -11904,7 +11858,6 @@ play,8,0,hernr002,21,.BBCX,S9/L
 play,8,0,paytj001,00,,NP
 sub,faheb001,"Brandon Fahey",0,7,12
 play,8,0,paytj001,00,.1X,2/BG/INT.1-1
-com,"$Payton out on batter interference"
 play,8,0,bynuf001,10,B11X,S7/L.1-2
 play,8,0,robeb003,10,BX,S9/G.2-H;1-3
 play,8,0,moram002,10,1B>B,SB2
@@ -12458,7 +12411,6 @@ play,2,0,morak001,12,CBFS,K23
 play,2,0,kotcc001,31,SBBBB,W
 play,2,0,mattg002,00,,NP
 sub,haynn001,"Nathan Haynes",0,7,11
-com,"Angels center fielder Gary Matthews left the game due to an injured knee"
 play,2,0,haynn001,01,.FX,S6/G.1-2
 play,2,0,napom001,32,FC*BBFB>S,K+CS3(25)/DP
 play,2,1,wilkb002,00,,NP

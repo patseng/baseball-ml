@@ -408,7 +408,6 @@ play,4,1,hammr001,30,BBBI,IW
 play,4,1,owinm001,02,FSC,K
 play,5,0,furcr001,00,,NP
 sub,burkc001,"Chris Burke",1,4,3
-com,"Diamondbacks first baseman Conor Jackson left the game due to an injured hand/wrist"
 play,5,0,furcr001,10,.BX,D9/G
 play,5,0,kempm001,01,CX,63/G.2-3
 play,5,0,ethia001,11,FBX,8/SF/F.3-H
@@ -1374,7 +1373,6 @@ play,7,1,byrne001,12,SS*BX,43/G
 play,8,0,greek002,00,,NP
 sub,slatd001,"Doug Slaten",1,8,1
 play,8,0,greek002,12,.FBCX,DGR/9/F
-com,"fan interference"
 play,8,0,hubej001,10,*BX,S8/L.2-3
 play,8,0,crabc001,01,FX,E6/G.3-H;1-2
 play,8,0,merec001,00,,NP
@@ -1669,10 +1667,6 @@ sub,romea001,"Alex Romero",1,9,11
 play,6,1,romea001,20,.BBX,6/P
 play,7,0,molib001,00,,NP
 sub,qualc001,"Chad Qualls",1,9,1
-com,"ej,bochb002,M,fleta901,Fair/foul call"
-com,"Giants Manager Bruce Bochy ejected by HP umpire Andy Fletcher; he"
-com,"argued that Arizona 3B Mark Reynolds touched a ball in fair territory"
-com,"that was ruled foul"
 play,7,0,molib001,32,.BFBF.BFX,D7/L
 play,7,0,rowaa001,02,CCS,K
 play,7,0,bowkj001,20,BBX,43/G.2-3
@@ -1923,7 +1917,6 @@ play,3,0,towlj001,11,CBX,D7/F.2-H
 play,3,0,cassj001,00,,NP
 sub,schem001,"Max Scherzer",1,9,1
 play,3,0,cassj001,22,.BBCSFS,K
-com,"Debut game for Max Scherzer"
 play,3,1,schem001,01,CX,43/G
 play,3,1,younc004,21,BBCX,53/G
 play,3,1,drews001,20,BBX,63/G
@@ -1989,7 +1982,6 @@ play,9,1,uptoj001,00,,NP
 sub,valvj001,"Jose Valverde",0,9,1
 play,9,1,uptoj001,12,.BCSS,K
 play,9,1,salaj002,00,X,DGR/9/L/INT
-com,"fan interference"
 play,9,1,snydc002,00,,NP
 sub,burkc001,"Chris Burke",1,8,11
 play,9,1,burkc001,02,.SFS,K
@@ -2237,7 +2229,6 @@ play,1,0,wrigd002,12,CFBFFX,S8/L
 play,1,0,beltc001,10,BB,WP.1-2
 play,1,0,beltc001,31,BB.BFB,W
 play,1,0,aloum001,11,CBX,E4/G.2-H(NR);1-3
-com,"originally scored as single, changed to E4 next day"
 play,1,0,delgc001,01,CX,S9/G.3-H(UR);1-2
 play,1,0,casar001,00,X,8/F
 play,1,0,castl001,21,BBCX,23/G
@@ -2322,8 +2313,6 @@ play,7,1,ojeda001,21,BBCX,7/F
 play,8,0,reyej001,00,,NP
 sub,cruzj005,"Juan Cruz",1,9,1
 play,8,0,reyej001,00,.X,T8/F.BXH(842)
-com,"$If he had been safe, Reyes would have been the first"
-com,"player to hit for cycle with IPHR since Harry Danning"
 play,8,0,churr001,20,BBX,8/F
 play,8,0,wrigd002,22,FBBCS,K
 play,8,1,jackc002,22,CFFFBBX,63/G
@@ -2751,7 +2740,6 @@ play,3,0,burrp001,12,FCBS,K
 play,3,0,jenkg001,11,C*BX,S8/L.2-H;1-2
 play,3,0,felip001,11,BF*B,WP.2-3
 play,3,0,felip001,21,BF*B.X,S6/G.3-H;1-2
-com,"originally E6, changed next day to hit"
 play,3,0,ruizc001,12,BCSFX,S8/G.2-H;1-2
 play,3,0,moyej001,22,BCC*BX,D7/L.2-H;1-3
 play,3,0,victs001,01,CX,6/P
@@ -4468,7 +4456,6 @@ play,6,0,winnr001,32,CBSFBFBFB,W
 play,6,0,molib001,32,BSFBB>F>F>X,DGR/8/F.2-H;1-3
 play,6,0,rowaa001,00,,NP
 sub,slatd001,"Doug Slaten",1,9,1
-com,"Diamondbacks pitcher Juan Cruz left the game due to an injured neck/shoulder"
 play,6,0,rowaa001,11,.BFH,HP
 play,6,0,durhr001,00,X,D8/F.3-H;2-H;1-H
 play,6,0,aurir001,10,*BX,3/G.2-3
@@ -4812,8 +4799,6 @@ sub,hanrj001,"Joel Hanrahan",0,6,1
 play,6,1,snydc002,00,,NP
 sub,dukee001,"Elijah Dukes",0,9,9
 play,6,1,snydc002,10,..BX,S8/G.2-H;1-2
-com,"$a foul tip by Micah Owings hit catcher Jesus Flores on the"
-com,"mask and went into the stands"
 play,6,1,owinm001,32,BBFFBFFFX,54(1)3/GDP
 play,7,0,florj002,11,BFX,7/F
 play,7,0,mackr001,11,SBH,HP
@@ -4827,7 +4812,6 @@ play,7,0,yound001,30,BBBB,W
 play,7,0,milll002,11,BC2X,5/P5F
 play,7,1,younc004,00,,NP
 sub,nievw001,"Wil Nieves",0,7,2
-com,"Nationals catcher Jesus Flores left the game due to a headache and nausea"
 play,7,1,younc004,10,.BX,8/F
 play,7,1,drews001,02,CCS,K23
 play,7,1,hudso001,00,X,8/F
@@ -5432,7 +5416,6 @@ play,9,0,calla001,12,.FCBC,K
 play,9,1,burkc001,00,,NP
 sub,rosac001,"Carlos Rosa",0,9,1
 play,9,1,burkc001,02,.CFX,6/L
-com,"Debut game for Carlos Rosa"
 play,9,1,salaj002,32,BBCCBFC,K
 play,9,1,younc004,01,CX,7/F
 data,er,hochl001,2
@@ -5544,7 +5527,6 @@ play,6,1,hudso001,22,CSBFBS,K
 play,7,0,guilj001,00,,NP
 sub,rosal001,"Leo Rosales",1,9,1
 play,7,0,guilj001,22,.FBCFBX,8/F
-com,"Debut game for Leo Rosales"
 play,7,0,grudm001,01,SX,S8/L
 play,7,0,teahm001,22,B1CFBFX,D7/F.1-3
 play,7,0,buckj001,01,CX,63/G
@@ -6128,14 +6110,11 @@ play,2,0,kendj001,12,CBFFX,8/F
 play,2,0,bushd001,11,BCX,63/G
 play,2,1,byrne001,01,CX,D7/L
 play,2,1,snydc002,21,B*BC>B,CS3(25)
-com,"Diamondbacks left fielder Eric Byrnes left the game due to"
-com,"strained hamstring, suffered while trying to steal 3rd"
 play,2,1,snydc002,31,B*BC>B.X,63/G
 play,2,1,david002,12,CSBX,63/G
 play,3,0,weekr001,00,,NP
 sub,salaj002,"Jeff Salazar",1,7,7
 play,3,0,weekr001,01,.CX,DGR/7/F/INT
-com,"fan interference"
 play,3,0,hardj003,10,BX,3/P3F
 play,3,0,braur002,12,FBFX,53/G.2-3
 play,3,0,fielp001,22,F*BBFT,K
@@ -6153,8 +6132,6 @@ play,4,1,younc004,01,1C1X,S8/L.1-2
 play,4,1,salaj002,00,X,3/G.2-3;1-2
 play,4,1,snydc002,00,,NP
 sub,montm001,"Miguel Montero",1,8,11
-com,"$Snyder suffered testicular fracture when hit by foul ball"
-com,"with Corey Hart at bat in 4th. Onto DL next day"
 play,4,1,montm001,30,.IIII,IW
 play,4,1,david002,00,X,4/P
 play,5,0,weekr001,00,,NP
@@ -6775,7 +6752,6 @@ play,2,1,tracc001,22,BBCFS,K
 play,2,1,reynm001,32,CBBSBS,K
 play,2,1,younc004,32,CBFBBX,9/F
 play,3,0,hundn001,22,CBCBS,K
-com,"Debut game for Nick Hundley"
 play,3,0,baekc001,10,BX,D8/F
 play,3,0,geruj001,02,CSS,K
 play,3,0,gonze003,11,BFX,9/F
@@ -6997,8 +6973,6 @@ play,9,0,gonza003,00,,NP
 sub,romea001,"Alex Romero",1,9,9
 play,9,0,gonza003,21,BBF,NP
 sub,penat003,"Tony Pena",1,1,1
-com,"$Diamondbacks pitcher Juan Cruz left after 3 pitches to Gonzalez with a"
-com,"strained left oblique. Onto DL"
 play,9,0,gonza003,31,..BBF.BX,HR/9/F
 play,9,0,kouzk001,22,BBCFX,63/G
 play,9,0,headc001,22,FBBFX,8/F
@@ -7147,7 +7121,6 @@ play,9,0,gonza003,00,,NP
 sub,romea001,"Alex Romero",1,9,7
 play,9,0,gonza003,00,..X,S9/G
 play,9,0,kouzk001,22,CBFBX,D9/L.1-H(E9)(UR)(NR);B-3
-com,"$High throw from RF, originally E4, changed to E9 after game"
 play,9,0,headc001,32,BFBBSS,K
 play,9,0,greek002,01,CX,43/G
 play,9,0,rodrl002,00,,NP
@@ -7912,7 +7885,6 @@ sub,hoffm001,"Micah Hoffpauir",0,9,7
 play,7,1,qualc001,00,,NP
 sub,dantj001,"Jamie D'Antona",1,9,11
 play,7,1,dantj001,01,.....CX,S7/G
-com,"Debut game for Jamie D'Antona"
 play,7,1,drews001,22,11BBSFX,36(1)/FO/G
 play,7,1,jackc002,11,*BFB,WP.1-2
 play,7,1,jackc002,22,*BFB.CX,43/G.2-3
@@ -8984,19 +8956,8 @@ play,6,0,blang001,30,..BBBB,W.1-2
 play,6,0,escoy001,21,BBCH,HP.3-H;2-3;1-2
 play,6,0,jonec004,12,BFFS,K
 play,6,0,mccab002,32,BFBSFFB>X,S5/G.3-H;2-H;1-H(UR)(NR)(E1/TH2);B-2(E5/TH3)
-com,"$hard grounder off the glove of third baseman Mark Reynolds; he"
-com,"ran down the line to retrieve the ball in foul territory while two"
-com,"runners scored; Reynolds threw to third trying to get Yunel Escobar"
-com,"but the throw was wild and fielded by pitcher Juan Cruz near the"
-com,"plate; Cruz threw to second and the ball went into center field,"
-com,"allowing Escobar to score"
 play,6,0,kotcc001,00,,NP
 sub,ojeda001,"Augie Ojeda",1,2,4
-com,"Diamondbacks second baseman Orlando Hudson left with strained"
-com,"ligaments in his left wrist after colliding with Brian McCann"
-com,"during the previous play; he had surgery later that night when"
-com,"it was discovered he had a dislocated bone in his wrist; out for"
-com,"the rest of the season"
 play,6,0,kotcc001,00,.S,SB3.2-H(UR)(E1/TH3)
 play,6,0,kotcc001,02,.S.FX,5/P
 play,6,1,romea001,22,BBCFX,43/G
@@ -10013,9 +9974,6 @@ play,2,1,ojeda001,00,X,13/BG
 play,2,1,david002,01,CX,8/F
 play,3,0,ameza001,02,CCX,63/G
 play,3,0,cantj001,00,X,23/P3F
-com,"$Snyder had ball hit end of his glove and roll into Clark's"
-com,"for a 23 popup a la Bob Boone and Pete Rose in game 6 of"
-com,"1980 World Series"
 play,3,0,willj004,12,CFBX,S7/L
 play,3,0,rossc001,22,1BC1S1BS,K
 play,3,1,drews001,12,CBFS,K
@@ -10183,11 +10141,6 @@ play,5,1,salaj002,11,.BFX,S8/L-.3-H(UR);2-3
 play,5,1,drews001,22,FBBFX,7/SF/F.3-H(UR)
 play,5,1,younc004,11,*BFX,31/G.1-2
 play,5,1,jackc002,32,CFBBBX,3/P3F
-com,"ej,melvb001,M,bellw901,Arguing interference call"
-com,"$a fan reached out and caught the ball as Dodgers first baseman"
-com,"James Loney was sliding under the popup; 1B umpire Wally Bell"
-com,"ruled the batter out on fan interference; Diamondbacks Manager"
-com,"Bob Melvin argued the call and was ejected by Bell"
 play,6,0,blakc001,00,,NP
 sub,cruzj005,"Juan Cruz",1,9,1
 play,6,0,blakc001,12,..CBFS,K
@@ -10198,7 +10151,6 @@ play,6,0,martr004,12,BCFX,43/G
 play,6,1,dunna001,00,,NP
 sub,elbes001,"Scott Elbert",0,9,1
 play,6,1,dunna001,22,.BBCCFC,K
-com,"Debut game for Scott Elbert"
 play,6,1,reynm001,32,SCBBBS,K
 play,6,1,tracc001,32,CBBCBFFB,W
 play,6,1,snydc002,00,,NP
@@ -10656,7 +10608,6 @@ sub,peguj002,"Jailen Peguero",1,9,1
 play,4,0,glaut001,21,.BBSX,4/P3F
 play,4,1,reynm001,00,,NP
 sub,schus001,"Skip Schumaker",0,7,8
-com,"Cardinals left fielder Joe Mather left the game due to an injured hand/wrist"
 play,4,1,reynm001,00,.X,63/G
 play,4,1,younc004,11,CBX,HR/7/F
 play,4,1,montm001,20,BBX,3/G
@@ -10692,8 +10643,6 @@ play,6,1,montm001,00,X,6/P
 play,6,1,uptoj001,32,BSB.FFBFX,6/P
 play,7,0,lopef001,00,,NP
 sub,qualc001,"Chad Qualls",1,9,1
-com,"ej,raucj001,P,iassd901,Balls and strikes"
-com,"Diamondbacks pitcher Jon Rauch ejected by HP umpire Dan Iassogna"
 play,7,0,lopef001,10,.BX,S6/G
 play,7,0,schus001,00,X,46(1)3/GDP
 play,7,0,mcclk001,02,TSS,K
@@ -10913,7 +10862,6 @@ sub,bardb001,"Brian Barden",0,8,5
 play,9,1,raucj001,00,,NP
 sub,whitj002,"Josh Whitesell",1,8,11
 play,9,1,whitj002,02,.......CSS,K
-com,"Debut game for Josh Whitesell"
 play,9,1,salaj002,21,CBBX,13/G
 play,9,1,drews001,00,,NP
 sub,dantj001,"Jamie D'Antona",1,1,11
@@ -11047,8 +10995,6 @@ play,7,1,ojeda001,21,..BFBX,D87/F
 play,7,1,cruzj005,00,,NP
 sub,montm001,"Miguel Montero",1,9,11
 play,7,1,montm001,32,.*BBBCFB,W
-com,"ej,duncd101,C,scotd901,Balls and strikes"
-com,"Cardinals Pitching Coach Dave Duncan ejected by HP umpire Dale Scott"
 play,7,1,drews001,22,.BFS*BX,43/G.2-3;1-2
 play,7,1,ecksd001,31,BCBBB,W
 play,7,1,jackc002,00,X,64(1)/FO/G.3-H;2-3
@@ -11061,7 +11007,6 @@ sub,mottj001,"Jason Motte",0,5,1
 play,7,1,reynm001,00,,NP
 sub,kenna001,"Adam Kennedy",0,8,4
 play,7,1,reynm001,12,..BSCS,K
-com,"Debut game for Jason Motte"
 play,8,0,lopef001,00,,NP
 sub,penat003,"Tony Pena",1,5,1
 play,8,0,lopef001,00,,NP
@@ -11375,7 +11320,6 @@ play,7,1,ojeda001,22,BCFBX,53/G
 play,7,1,younc004,00,,NP
 sub,roenj001,"Josh Roenicke",0,9,1
 play,7,1,younc004,30,.BBBB,W
-com,"Debut game for Josh Roenicke"
 play,7,1,dunna001,10,BH,HP.3-H;2-3;1-2
 play,7,1,reynm001,12,BCSS,K
 play,8,0,vottj001,00,,NP
@@ -12302,8 +12246,6 @@ play,8,0,tulot001,00,,NP
 sub,cruzj005,"Juan Cruz",1,9,1
 play,8,0,tulot001,32,.BBBCCB,W
 play,8,0,spilr001,00,>S,CS2(26)
-com,"ej,hurdc001,M,kulpr901,Call at 2B"
-com,"Rockies Manager Clint Hurdle ejected by 2B umpire Ron Kulpa"
 play,8,0,spilr001,12,>S..CBX,S9/L
 play,8,0,hawpb001,12,B1S1SS,K
 play,8,0,atkig001,31,BB11CB>X,S3/L-.1-3

@@ -301,7 +301,6 @@ play,8,1,thomf001,22,CBBFX,43/G
 play,9,0,crisc001,00,,NP
 sub,wellr001,"Randy Wells",1,0,1
 play,9,0,crisc001,11,.BCX,43/G
-com,"Debut game for Randy Wells"
 play,9,0,lugoj001,11,BCX,9/F
 play,9,0,pedrd001,30,BBBB,W
 play,9,0,ortid001,01,CX,53/G
@@ -363,10 +362,6 @@ start,mcdoj003,"John McDonald",1,9,6
 start,hallr001,"Roy Halladay",1,0,1
 play,1,0,pedrd001,32,BFBCFFFBX,S6/G
 play,1,0,youkk001,02,CFS,K
-com,"$the Blue Jays infield shifted to the right for Ortiz in an"
-com,"unusual way: 3Bman Scutaro moved to the right of 2B while SS"
-com,"McDonald stayed in his usual place; 2Bman Hill slid to his right"
-com,"and beyond the infield area"
 play,1,0,ortid001,01,CX,46(1)3/GDP/G34
 play,1,1,stews002,01,CX,E5/G.B-1
 play,1,1,hilla001,01,CX,64(1)3/GDP
@@ -383,7 +378,6 @@ play,3,0,ellsj001,11,BCX,HR/9/F
 play,3,0,lugoj001,01,CX,63/G
 play,3,0,pedrd001,22,FBBFX,7/F
 play,3,0,youkk001,32,BBFFBB,W
-com,"$the infield shifted as before for Ortiz"
 play,3,0,ortid001,11,BCX,63/G
 play,3,1,barar001,01,CX,4/L
 play,3,1,mcdoj003,31,BBCBB,W
@@ -673,7 +667,6 @@ start,scutm001,"Marco Scutaro",1,8,5
 start,zaung001,"Gregg Zaun",1,9,2
 start,mcgod001,"Dustin McGowan",1,0,1
 play,1,0,buckt001,10,BX,D8/F
-com,"Debut game for Greg Smith"
 play,1,0,ellim001,32,FBFBFBX,S5/G.2X3(51)
 play,1,0,bartd001,22,BBSCS,K
 play,1,0,custj001,11,SB>B,SB2.1-3(E2/TH)
@@ -756,7 +749,6 @@ play,8,0,sweer001,32,*B*BSFBX,46(1)3/GDP
 play,8,1,thomf001,00,,NP
 sub,hernf003,"Fernando Hernandez",0,0,1
 play,8,1,thomf001,21,.BCBX,8/F
-com,"Debut game for Fernando Hernandez"
 play,8,1,hilla001,02,CFFFS,K
 play,8,1,overl001,32,CBBSBB,W
 play,8,1,scutm001,32,CBBCFFB>B,W.1-2
@@ -970,7 +962,6 @@ play,12,0,ellim001,30,BBBB,W
 play,12,0,bartd001,00,,NP
 sub,carlj001,"Jesse Carlson",1,0,1
 play,12,0,bartd001,02,.FCS,K
-com,"Debut game for Jesse Carlson"
 play,12,1,stews002,00,,NP
 sub,foulk001,"Keith Foulke",0,0,1
 play,12,1,stews002,02,.CTX,63/G
@@ -1162,7 +1153,6 @@ play,10,0,kinsi001,11,BCX,7/F
 play,10,0,cataf001,10,BX,43/G
 play,10,1,zaung001,00,,NP
 sub,melha001,"Adam Melhuse",0,5,5
-com,"Rangers third baseman Hank Blalock left the game due to an injured back"
 play,10,1,zaung001,01,.CX,31/G
 play,10,1,overl001,11,CBX,S7/L
 play,10,1,scutm001,00,>X,S9/L.1-3
@@ -1307,7 +1297,6 @@ play,2,1,staim001,32,FBBTBX,53/G
 play,2,1,overl001,30,BBBB,W
 play,2,1,zaung001,10,BX,46(1)3/GDP
 play,3,0,durag001,02,FSS,K
-com,"Debut game for German Duran"
 play,3,0,kinsi001,32,CCBBFBX,S9/F
 play,3,0,cataf001,11,11B>F>B,SB2
 play,3,0,cataf001,22,11B>F>B.FX,S8/F.2-H
@@ -1425,7 +1414,6 @@ start,zaung001,"Gregg Zaun",1,8,2
 start,mcdoj003,"John McDonald",1,9,6
 start,purcd001,"David Purcey",1,0,1
 play,1,0,rodri001,10,BX,D9/G
-com,"Debut game for David Purcey"
 play,1,0,polap001,32,BBFBFB,W
 play,1,0,shefg001,22,CB*BFS,K
 play,1,0,ordom001,32,BCBBS>B,W.2-3;1-2
@@ -2585,7 +2573,6 @@ play,4,1,hilla001,01,LX,8/F
 play,4,1,zaung001,10,BX,143/G
 play,5,0,bartj001,00,,NP
 sub,mcdoj003,"John McDonald",1,9,6
-com,"Blue Jays shortstop David Eckstein left the game due to an injured groin"
 play,5,0,bartj001,01,.CX,S8/G
 play,5,0,iwama001,22,C1BP1F1X,D8/L.1-H;BX3(8435/TH)
 play,5,0,crawc002,00,X,6/P
@@ -3032,7 +3019,6 @@ play,1,1,roles001,00,,NP
 sub,iztum001,"Maicer Izturis",0,1,6
 play,1,1,roles001,00,,NP
 sub,quinr002,"Robb Quinlan",0,9,5
-com,"Angels shortstop Erick Aybar left the game due to an injured hand/wrist"
 play,1,1,roles001,10,..B>C,SB2
 play,1,1,roles001,22,..B>C.S*BC,K
 play,1,1,staim001,11,BCX,1/L+
@@ -4182,7 +4168,6 @@ play,2,0,paytj001,00,,NP
 sub,riosa002,"Alex Rios",1,3,9
 play,2,0,paytj001,00,,NP
 sub,wilkb002,"Brad Wilkerson",1,8,7
-com,"Blue Jays left fielder Shannon Stewart left the game due to an injured foot/ankle"
 play,2,0,paytj001,31,FBBBX,S1/G-.B-2(E1/TH1)
 play,2,0,quirg001,02,LLFFX,43/G.2-3
 play,2,0,cinta001,21,BBFX,3/G
@@ -4377,9 +4362,6 @@ play,4,0,hernr002,22,BBCCX,63/G
 play,4,0,paytj001,12,LBCX,2!/P2F
 play,4,1,wilkb002,00,,NP
 sub,jonea003,"Adam Jones",0,8,8
-com,"ej,paytj001,P,millb901,Balls and strikes"
-com,"Orioles center fielder Jay Payton ejected by HP umpire Bill Miller"
-com,"for arguing balls and strikes"
 play,4,1,wilkb002,21,..BBCX,2/P2F
 play,4,1,scutm001,11,BFX,7/L
 play,4,1,mcdoj003,22,CBFBFFX,53/G
@@ -4882,9 +4864,6 @@ play,9,0,ibanr001,10,B>B,DI.1-2
 play,9,0,ibanr001,22,B>B.FFX,S9/L.3-H;2-3;B-2(TH)
 play,9,0,lopej003,00,,NP
 sub,camps002,"Shawn Camp",1,0,1
-com,"ej,gibbj001,M,fleta901,Balls and strikes"
-com,"ej,ryanb001,P,fleta901,Balls and strikes"
-com,"Blue Jays pitcher B.J. Ryan and manager John Gibbons ejected by HP umpire Andy Fletcher"
 play,9,0,lopej003,02,...CCFX,2/P2F
 play,9,1,inglj001,00,,NP
 sub,putzj001,"J.J. Putz",0,0,1
@@ -5353,8 +5332,6 @@ play,8,0,therr001,12,CCBX,9/F
 play,8,0,johnr008,11,CBX,4/P
 play,8,1,menck001,32,BBCBCX,8/F
 play,8,1,barar001,12,BCSFFX,63/G
-com,"ej,gibbj001,M,johna901,Call at 1B"
-com,"Blue Jays Manager John Gibbons ejected by 1B umpire Adrian Johnson"
 play,8,1,wilkb002,00,,NP
 sub,cottn001,"Neal Cotts",0,0,1
 play,8,1,wilkb002,32,.CBBSBFB,W
@@ -6350,7 +6327,6 @@ play,6,1,staim001,01,CX,6/P
 play,6,1,roles001,10,BX,63/G
 play,7,0,hernr002,00,,NP
 sub,frasj002,"Jason Frasor",1,0,1
-com,"Blue Jays pitcher Dustin McGowan left the game due to an injured neck/shoulder"
 play,7,0,hernr002,30,.BBBB,W
 play,7,0,jonea003,22,CFFFB*BC,K
 play,7,0,faheb001,32,1B>FF*BF1FFBX,D9/L.1-3
@@ -6372,7 +6348,6 @@ play,7,1,wellv001,01,CX,S6/G.3-H
 play,7,1,staim001,00,,NP
 sub,casta002,"Alberto Castillo",0,0,1
 play,7,1,staim001,21,.BCBX,S8/G.1-2
-com,"Debut game for Alberto Castillo"
 play,7,1,roles001,21,FBBH,HP.2-3;1-2
 play,7,1,barar001,00,,NP
 sub,bradc001,"Chad Bradford",0,0,1
@@ -6537,7 +6512,6 @@ play,7,0,markn001,00,,NP
 sub,barar001,"Rod Barajas",1,5,2
 play,7,0,markn001,00,,NP
 sub,overl001,"Lyle Overbay",1,7,3
-com,"Blue Jays center fielder Vernon Wells left the game due to an injured knee"
 play,7,0,markn001,02,....CFS,K
 play,7,0,huffa001,22,CCBFFBX,D8/F
 play,7,0,millk005,22,BBCCFC,K
@@ -7908,7 +7882,6 @@ start,zaung001,"Gregg Zaun",1,8,2
 start,mcdoj003,"John McDonald",1,9,6
 start,richs001,"Scott Richmond",1,0,1
 play,1,0,iwama001,32,CBFBBX,S8/G
-com,"Debut game for Scott Richmond"
 play,1,0,uptob001,20,B1BX,64(1)/FO/G
 play,1,0,crawc002,21,1BCBX,T8/F.1-H
 play,1,0,longe001,22,BFBSS,K
@@ -7929,7 +7902,6 @@ play,2,1,mcdoj003,00,X,9/F
 play,3,0,iwama001,12,CCBFX,4/P
 play,3,0,uptob001,21,CBBX,4/L-
 play,3,0,crawc002,32,BBCFBX,DGR/7/F
-com,"fan interference"
 play,3,0,longe001,12,*BCSX,63/G
 play,3,1,inglj001,12,FCBS,K
 play,3,1,scutm001,00,X,8/F
@@ -8346,7 +8318,6 @@ start,menck001,"Kevin Mench",1,8,9
 start,mcdoj003,"John McDonald",1,9,6
 start,marcs001,"Shaun Marcum",1,0,1
 play,1,0,sweer001,01,CX,8/F
-com,"Debut game for Gio Gonzalez"
 play,1,0,suzuk001,11,CBX,13/G-
 play,1,0,thomf001,31,BCBBB,W
 play,1,0,gonzc001,00,X,6(1)/FO/G-
@@ -10155,7 +10126,6 @@ play,7,0,yound003,20,.*BBX,DGR/9/F.1-3
 play,7,0,spand001,00,,NP
 sub,pridj001,"Jason Pridie",0,9,12
 play,7,0,spand001,12,.SBSS,K
-com,"Debut game for Jason Pridie"
 play,7,0,casia001,30,B*BBB,W
 play,7,0,mauej001,00,,NP
 sub,downs001,"Scott Downs",1,0,1
@@ -10495,7 +10465,6 @@ play,7,0,navad001,10,BX,S8/G
 play,7,0,grosg002,00,,NP
 sub,peref001,"Fernando Perez",0,7,12
 play,7,0,grosg002,00,.1X,D7/G.1-3
-com,"Debut game for Fernando Perez"
 play,7,0,bartj001,01,CX,S5/G-.3-H;2-3
 play,7,0,iwama001,00,X,FC1/BG.3XH(152);1-3(THH);B-2(THH)
 play,7,0,uptob001,12,BCFC,K
@@ -10731,7 +10700,6 @@ play,13,0,peref001,22,BL1LBX,64(1)/FO/G
 play,13,0,ruggj001,00,,NP
 sub,jasoj001,"John Jaso",0,6,11
 play,13,0,jasoj001,21,.1B1BF11>X,3/G.1-2
-com,"Debut game for John Jaso"
 play,13,0,navad001,00,,NP
 sub,tallb001,"Brian Tallet",1,0,1
 play,13,0,navad001,11,.CB>C,SB3
@@ -10959,13 +10927,7 @@ play,3,0,robeb003,31,BBBC1>X,D7/F.1-H
 play,3,0,markn001,32,C*BSFFB*BB,W
 play,3,0,moram002,00,,NP
 sub,parrj003,"John Parrish",1,0,1
-com,"Blue Jays pitcher Shaun Marcum left the game due to an injured arm"
 play,3,0,moram002,22,.BCBFC,K
-com,"ej,moram002,P,drakr901,Called third strike"
-com,"$Orioles third baseman Melvin Mora stood at the plate and yelled at HP umpire Rob"
-com,"Drake after being called out on a knee-high fast ball; Mora was ejected by Drake"
-com,"as Orioles manager Dave Trembley ran out to try to intercede; as Mora left the"
-com,"dugout, he threw his bat onto the field while Aubrey Huff was batting"
 play,3,0,huffa001,30,.BBBB,W.2-3;1-2
 play,3,0,hernr002,11,S*BX,6(1)3/GDP
 play,3,1,zaung001,00,,NP

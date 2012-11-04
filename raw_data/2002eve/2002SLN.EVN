@@ -774,7 +774,6 @@ play,8,1,martt002,02,CFX,5/P5
 play,9,0,hammj001,00,,NP
 sub,crudm001,"Mike Crudale",1,6,1
 play,9,0,hammj001,11,BSX,7/L7
-com,"Debut game for Mike Crudale"
 play,9,0,jenkg001,12,CSBS,K
 play,9,0,sexsr001,11,CBX,63/G
 play,9,1,difem001,00,,NP
@@ -1590,8 +1589,6 @@ play,7,1,pujoa001,30,BBBB,W
 play,7,1,edmoj001,31,SBBBB,W.1-2
 play,7,1,martt002,11,BFX,4(B)26(2)/FDP
 play,7,1,marre001,00,,OA.1-2(E1)
-com,"this was E1 on appeal throw to 2nd.  Claim was"
-com,"runner had not retagged on way back to first"
 play,7,1,marre001,11,CBX,63/G
 play,8,0,johnc002,00,,NP
 sub,peree001,"Eduardo Perez",1,9,7
@@ -1714,7 +1711,6 @@ play,6,1,edmoj001,02,SCX,D7.1-H;B-3(THH)
 play,6,1,rente001,11,CBX,13/G
 play,6,1,martt002,30,IBBI,IW
 play,6,1,marre001,12,BFSX,9/F9S
-com,"33 minute rain delay"
 play,7,0,lee-d002,00,,NP
 sub,hackl001,"Luther Hackman",1,9,1
 play,7,0,lee-d002,00,X,53/G
@@ -2181,7 +2177,6 @@ start,mathm001,"Mike Matheny",1,7,2
 start,polap001,"Placido Polanco",1,8,5
 start,simoj001,"Jason Simontacchi",1,9,1
 play,1,0,furcr001,22,BCBSS,K
-com,"Debut game for Jason Simontacchi"
 play,1,0,gilem001,11,FBX,53/G
 play,1,0,jonec004,22,BSCFBS,K
 play,1,1,vinaf001,11,CBX,S9
@@ -2812,8 +2807,6 @@ play,5,1,vinaf001,01,CX,43/G
 play,6,0,berej002,02,CFX,D8/8D
 play,6,0,pattc001,00,X,S5/BG5.2-3
 play,6,0,deshd001,22,BFBFX,FC2.3XH(2);1-2;B-1
-com,"$tremendous play by Marrero to pick up grounder"
-com,"and lunge at runner for out"
 play,6,0,sosas001,32,BSFBFBB,W.2-3;1-2
 play,6,0,aloum001,01,FX,9/F9
 play,6,0,mcgrf001,12,CBFX,6/P6
@@ -4714,7 +4707,6 @@ start,marre001,"Eli Marrero",1,7,7
 start,mathm001,"Mike Matheny",1,8,2
 start,willw001,"Woody Williams",1,9,1
 play,1,0,gomea001,12,BSSS,K
-com,"Debut game for Alexis Gomez"
 play,1,0,peren001,00,X,5/BP5
 play,1,0,beltc001,02,CCS,K
 play,1,1,vinaf001,01,FX,63/G
@@ -4800,8 +4792,6 @@ play,8,1,willw001,12,CFBH,HP
 play,8,1,vinaf001,00,X,12(3)3/GDP
 play,9,0,peren001,01,CX,13/G
 play,9,0,beltc001,32,BSBBFFFC,K/C
-com,"ej,beltc001,P,cuzzp901,Called third strike"
-com,"Carlos Beltran ejected by HP umpire Phil Cuzzi"
 play,9,0,sweem002,01,CX,S9
 play,9,0,randj002,00,X,64(1)/FO
 data,er,may-d002,5
@@ -6122,8 +6112,6 @@ play,3,1,rente001,00,X,9/F9
 play,3,1,marre001,21,CBBX,63/G
 play,3,1,difem001,11,CBX,D9
 play,3,1,morrm001,01,FX,13/G
-com,"$HP umpire Kerwin Danley collapsed from heat exhaustion and left the game; other changes to the umpire"
-com,"lineup on the field not known"
 play,4,0,walkt002,21,BBCX,63/G
 play,4,0,boona001,11,CBX,S7
 play,4,0,dunna001,11,CBB,SB2
@@ -7545,7 +7533,6 @@ start,drewj001,"J.D. Drew",1,6,9
 start,rente001,"Edgar Renteria",1,7,6
 start,difem001,"Mike DiFelice",1,8,2
 start,morrm001,"Matt Morris",1,9,1
-com,"2 rain delays totaling 1:36 in 1st & 3rd"
 play,1,0,goodt001,10,BX,63/G
 play,1,0,aurir001,00,X,43/G
 play,1,0,kentj001,00,X,S8
@@ -7554,8 +7541,6 @@ play,1,1,vinaf001,00,X,7/F7
 play,1,1,polap001,12,CCBFX,43/G
 play,1,1,edmoj001,11,FBX,S9
 play,1,1,pujoa001,12,CFBC,K/C
-com,"ej,larut101,M,westj901,Unknown reason"
-com,"Cardinals Manager Tony LaRussa ejected by HP umpire Joe West in 2nd"
 play,2,0,sandr002,30,BBBB,W
 play,2,0,belld002,10,BX,D7.1-H
 play,2,0,dunss001,12,CCBFC,K/C
@@ -7885,9 +7870,6 @@ play,5,1,mathm001,22,SBBSC,K/C
 play,6,0,hundt001,32,BCBSBX,43/G
 play,6,0,woodk002,32,BBCCBS,K
 play,6,0,bellm002,12,CBFH,HP
-com,"ej,larut101,M,iassd901,Intentional HBP"
-com,"ej,timlm001,P,iassd901,Intentional HBP"
-com,"Mike Timlin and Cardinals Manager Tony LaRussa ejected by HP umpire Dan Iassogna"
 play,6,0,muelb001,00,,NP
 sub,mattm001,"Mike Matthews",1,9,1
 play,6,0,muelb001,00,X,53/G
@@ -8010,10 +7992,7 @@ play,1,1,pujoa001,22,CBFFBS,K
 play,2,0,deshd001,32,FCBBBFFFFFB,W
 play,2,0,hundt001,10,BB,SB2
 play,2,0,hundt001,20,BBX,53/G.2-3
-com,"$attempted squeeze play on second pitch to Clement, which"
-com,"he fouled off"
 play,2,0,clemm001,21,BLBS,CSH(2)
-com,"$blown squeeze play when Clement missed the pitch"
 play,2,0,clemm001,22,BLBSX,13/G
 play,2,1,drewj001,32,BFSBBB,W
 play,2,1,martt002,02,FSS,K
@@ -8385,8 +8364,6 @@ sub,eiscj001,"Joey Eischen",0,9,1
 play,6,1,robik002,00,,NP
 sub,difem001,"Mike DiFelice",1,9,11
 play,6,1,difem001,21,BBFB,CSH(242)
-com,"ej,larut101,M,froeb901,Unknown reason"
-com,"Cardinals Manager Tony LaRussa ejected by HP umpire Bruce Froemming in 7th"
 play,7,0,eiscj001,00,,NP
 sub,difem001,"Mike DiFelice",1,9,2
 play,7,0,eiscj001,00,,NP
@@ -9788,8 +9765,6 @@ play,8,0,lee-t002,00,,NP
 sub,klins002,"Steve Kline",1,9,1
 play,8,0,lee-t002,22,CBCBX,S8
 play,8,0,andem003,12,FBFFFFC,K/C
-com,"ej,andem003,P,barrt901,Called third strike"
-com,"Marlon Anderson ejected by HP umpire Ted Barrett"
 play,8,0,leder001,32,CFBBBB,W.1-2
 play,8,0,rollj001,22,BCBSX,23/G
 play,8,1,martt002,00,,NP
@@ -10594,10 +10569,6 @@ play,3,1,martt002,11,CBX,S9.2-3;1-2
 play,3,1,rente001,20,BBX,HR/7.3-H;2-H;1-H
 play,3,1,marre001,12,CSFBX,53/G
 play,3,1,difem001,02,SSX,63/G
-com,"$Foul ball hit into Reds' dugout struck B.Larson's right"
-com,"ear as he was leaning on the screen at the front of the dugout;"
-com,"cat scan on head was negative but Larson broke his left hand"
-com,"when he fell and will be out for remainder of season"
 play,4,0,walkt002,01,FX,S9
 play,4,0,larkb001,00,,NP
 sub,molig001,"Gabe Molina",1,9,1
@@ -10770,7 +10741,6 @@ play,2,1,rente001,11,BFX,D/89D
 play,2,1,mathm001,21,SBBX,7/F7S
 play,3,0,benea002,00,,NP
 sub,marre001,"Eli Marrero",1,2,9
-com,"$J.D. Drew left with tight quad"
 play,3,0,benea002,21,BBFX,1/L1
 play,3,0,hillb001,01,CX,8/L8
 play,3,0,pattc001,11,BFX,8/F8
@@ -10795,7 +10765,6 @@ play,3,1,roles001,00,,NP
 sub,cunnw001,"Will Cunnane",0,9,1
 play,3,1,roles001,00,,NP
 sub,robik002,"Kerry Robinson",1,4,12
-com,"$Albert Pujols left with spasm in upper trapezoid in left shoulder"
 play,3,1,roles001,22,BBFCS,K
 play,4,0,sosas001,00,,NP
 sub,robik002,"Kerry Robinson",1,4,7
@@ -10817,8 +10786,6 @@ play,6,0,pattc001,00,X,8/F8
 play,6,0,sosas001,12,FCBC,K/C
 play,6,0,mcgrf001,00,X,S8/8S
 play,6,0,aloum001,12,FFBC,K/C
-com,"ej,aloum001,P,cuzzp901,Balls and strikes"
-com,"Moises Alou ejected by HP umpire Phil Cuzzi"
 play,6,1,edmoj001,00,,NP
 sub,browr001,"Roosevelt Brown",0,4,7
 play,6,1,edmoj001,00,,NP
@@ -11308,7 +11275,6 @@ play,5,0,biggc001,32,BFFBBFFFFC,K/C
 play,5,0,berkl001,31,BFBBB,W
 play,5,0,bagwj001,00,,NP
 sub,molig001,"Gabe Molina",1,9,1
-com,"$Williams left with tightness in back and ribs"
 play,5,0,bagwj001,31,BFBBB,W.1-2
 play,5,0,wardd002,10,BX,8/F8D
 play,5,1,rente001,00,,NP
@@ -11760,8 +11726,6 @@ play,4,1,pujoa001,00,,NP
 sub,cinta001,"Alex Cintron",0,8,5
 play,4,1,pujoa001,00,X,8/F8
 play,4,1,martt002,22,BCFBX,D7/P7LS
-com,"$Gonzalez suffered separated left shoulder in collision with Womack"
-com,"while attempting a diving catch; Womack's knee hit Gonzalez' shoulder"
 play,4,1,drewj001,00,,NP
 sub,mccrq001,"Quinton McCracken",0,4,9
 play,4,1,drewj001,00,,NP
@@ -12251,8 +12215,6 @@ play,2,1,martt002,01,SX,7/F7D
 play,2,1,rente001,31,CBBBB,W
 play,2,1,mathm001,11,BFB,SB2
 play,2,1,mathm001,31,BFBBX,S6.2-H(NR)
-com,"$Hall fielded ball at deep short, brief bobble, then"
-com,"held it as runner scored"
 play,2,1,morrm001,10,BX,14/SH.1-2
 play,2,1,vinaf001,31,BBBCX,S8.2-H
 play,2,1,marre001,10,BX,HR/7.1-H
@@ -12405,8 +12367,6 @@ play,1,0,chrir001,11,BCX,S8
 play,1,0,bellr002,00,X,9/L9
 play,1,0,gintk001,11,CBX,8/F8
 play,1,0,sexsr001,12,SCBFC,K/C
-com,"ej,sexsr001,P,timmt901,Balls and strikes"
-com,"Richie Sexson ejected by HP umpire Tim Timmons"
 play,1,1,vinaf001,00,,NP
 sub,harrl001,"Lenny Harris",0,4,3
 play,1,1,vinaf001,00,X,7/F7
@@ -12731,7 +12691,6 @@ play,5,0,franw001,01,LX,2/BP/FL
 play,5,0,chrir001,32,CFBBBC,K+CS2(24)/DP/C
 play,5,1,benea001,21,BS,NP
 sub,delgw001,"Wilson Delgado",1,9,11
-com,"$Benes had 'tweak' in lower back on 1-0 swing"
 play,5,1,delgw001,22,BSBFS,K
 play,5,1,vinaf001,12,BFFFFX,9/F9
 play,5,1,marre001,00,X,43/G

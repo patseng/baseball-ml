@@ -90,7 +90,6 @@ play,5,1,sancg001,00,X,S9/G.2-H;1-3
 play,5,1,morrl001,01,CX,4/P
 play,6,0,tholj001,00,,NP
 sub,couss001,"Scott Cousins",1,4,9
-com,"Marlins right fielder Mike Stanton left the game due to an injured leg"
 play,6,0,tholj001,20,.BBX,63/G
 play,6,0,boyeb001,00,,NP
 sub,dudal001,"Lucas Duda",0,9,11
@@ -249,7 +248,6 @@ play,7,0,niesj001,22,SBSFFBS,K
 play,7,1,murpd004,02,CFH,HP
 play,7,1,bonie001,00,,NP
 sub,couss001,"Scott Cousins",1,7,12
-com,"Marlins third baseman Donnie Murphy left the game due to an injured hand"
 play,7,1,bonie001,11,.LBX,14/SH/BG.1-2
 play,7,1,nolar001,00,,NP
 sub,helmw001,"Wes Helms",1,9,11
@@ -749,7 +747,6 @@ play,1,1,buckj001,22,SBFBX,8/L
 play,2,0,ankir001,32,BBCFBB,W
 play,2,0,espid001,32,BC1BB>F>F>X,S9/G.1-3
 play,2,0,rodri001,22,C>FBB1FX,FC5/G.3-H(E5/TH)(NR)(UR);1-2
-com,"E5 added 2 days later which removed RBI and made run unearned"
 play,2,0,hernl003,10,BX,54/SH/BG.2-3;1-2
 play,2,0,desmi001,00,X,S5/BG.3-H;2-3
 play,2,0,wertj001,30,1*B1BBB,W.1-2
@@ -787,10 +784,6 @@ play,5,1,ramih003,20,B*BX,D7/G+.3-H
 play,5,1,sancg001,31,BBTBB,W
 play,5,1,morrl001,31,BBBFB,W.2-3;1-2
 play,5,1,buckj001,32,*BCBFB>F>F>X,T9/F89+.3-H;2-H;1-H
-com,"$John Buck's fly hit the yellow stripe at the top of the wall in"
-com,"the deepest part of the outfield; it was ruled in play but when the"
-com,"Marlins asked about the call, crew chief Tim Tschida watched the"
-com,"replay and upheld the call"
 play,5,1,murpd004,10,BX,53/G
 play,6,0,rodri001,00,,NP
 sub,sancb001,"Brian Sanches",1,9,1
@@ -837,9 +830,6 @@ play,8,1,ramih003,32,BBSSBB,W.2-3;1-2
 play,8,1,sancg001,11,C*BX,8/SF/F.3-H
 play,8,1,morrl001,00,,NP
 sub,slatd001,"Doug Slaten",0,7,1
-com,"ej,cofft001,P,tscht901,Balls and strikes"
-com,"$as Washington Nationals pitcher Todd Coffey left the field, he argued"
-com,"with HP umpire Tim Tschida about the strike zone and was ejected"
 play,8,1,morrl001,02,..CFS,K
 play,9,0,rodri001,00,,NP
 sub,nunel001,"Leo Nunez",1,9,1
@@ -929,9 +919,6 @@ play,3,1,buckj001,01,S11X,S8/L.1-2
 play,3,1,helmw001,01,CX,9/F
 play,4,0,desmi001,32,BCBFFBS,K
 play,4,0,wertj001,01,CX,HR/9/F
-com,"$Jayson Werth's fly ball hit the metal rail just behind the wall padding and"
-com,"bounced back onto the field; it was ruled a homer but the Marlins asked about"
-com,"it, so crew chief Tim Tschida watched the replay and upheld the call"
 play,4,0,zimmr001,10,BX,8/L
 play,4,0,laroa001,32,CBBBCC,K
 play,4,1,bonie001,11,BSX,43/G
@@ -1016,10 +1003,6 @@ play,11,0,wertj001,32,.BBCBSX,13/G
 play,11,0,zimmr001,10,BX,S65/G
 play,11,0,laroa001,01,CX,HR/9/F.1-H
 play,11,0,ramow001,00,X,8!/L
-com,"$Marlins CF Chris Coghlan caught the ball while running top"
-com,"speed and immediately ran into the wall at the spot where it"
-com,"turns out; his body his the corner with his left shoulder"
-com,"and he fell to the ground"
 play,11,0,ankir001,01,SX,9/F
 play,11,1,morrl001,00,,NP
 sub,burns001,"Sean Burnett",0,9,1
@@ -1123,7 +1106,6 @@ play,4,1,sancg001,00,.X,S8/F-.3-H;2-H;1-3
 play,4,1,morrl001,00,X,7/F
 play,5,0,joneg002,00,,NP
 sub,couss001,"Scott Cousins",1,5,7
-com,"Marlins left fielder Logan Morrison left the game due to an injured foot"
 play,5,0,joneg002,11,.BFX,S9/L+
 play,5,0,doumr001,02,C1CS,K
 play,5,0,alvap001,20,BBX,36(1)1/GDP
@@ -1581,8 +1563,6 @@ play,7,1,infao001,00,,NP
 sub,paulf001,"Felipe Paulino",0,9,1
 play,7,1,infao001,31,.BBBCX,S9/L
 play,7,1,ramih003,22,BSBF>S,K/DP.1X2(24)
-com,"$Hanley Ramirez was called for interfering with catcher Chris Iannetta in his attempt"
-com,"to throw to second; Omar Infante called out because of the interference"
 play,7,1,sancg001,00,X,S8/G
 play,7,1,stanm004,30,BBBB,W.1-2
 play,7,1,buckj001,31,BFBBX,63/G
@@ -1954,7 +1934,6 @@ play,1,1,sancg001,22,CBFFFFFBX,9/F
 play,2,0,sandj002,00,X,S7/G+
 play,2,0,lonej001,11,BFX,8/F
 play,2,0,barar001,32,BBC*BF>F>S,K/DP.1X1(2)
-com,"batter interference"
 play,2,1,stanm004,10,BX,63/G-
 play,2,1,dobbg001,22,CFFFBFBX,D7/L
 play,2,1,buckj001,11,F*BX,8/F
@@ -2104,8 +2083,6 @@ play,1,0,milea001,21,BCBX,S7/F-
 play,1,0,carrj001,11,CBB,PB.1-2
 play,1,0,carrj001,32,CBB.LFBFFX,13/G.2-3
 play,1,0,ethia001,20,BBX,D9/L.3-H
-com,"$23-game hitting streak for Andre Ethier, which breaks the record for"
-com,"longest streak in April; the old record was set by Joe Torre in 1971"
 play,1,0,kempm001,02,CFS,K
 play,1,0,sandj002,02,CFS,K
 play,1,1,coghc001,22,BCFBT,K
@@ -2664,11 +2641,6 @@ play,9,0,espid001,31,BCBBB,W
 play,9,0,burns001,00,,NP
 sub,staim001,"Matt Stairs",0,9,11
 play,9,0,staim001,22,.BCCBX,E5/G.2-H(E5)(UR)(NR);1-2
-com,"$Marlins 3B Wes Helms allowed the grounder to go past him into LF; he then moved"
-com,"toward the infield expecting to act as a cutoff man on a throw from LF; he got in the"
-com,"way of base runner Jerry Hairston, who was thrown out at the plate; however, Helms was"
-com,"called for obstruction and the run counted; thus Helms is charged with two errors on"
-com,"the play, one for misplaying the grounder and one for the obstruction"
 play,9,0,bernr001,32,BSSBF*BFB,W.2-3;1-2
 play,9,0,desmi001,00,,NP
 sub,badeb001,"Burke Badenhop",1,9,1
@@ -2958,7 +2930,6 @@ play,7,0,ibanr001,00,,NP
 sub,sancb001,"Brian Sanches",1,8,1
 play,7,0,ibanr001,00,,NP
 sub,peteb001,"Bryan Petersen",1,9,7
-com,"Marlins pitcher Edward Mujica left the game due to an injured knee"
 play,7,0,ibanr001,21,...BTBX,7/F
 play,7,1,peteb001,00,,NP
 sub,maybj001,"John Mayberry",0,6,9
@@ -3682,7 +3653,6 @@ play,3,0,zobrb001,32,CBCBBS,K
 play,3,0,damoj001,32,BBCFBX,43/G-
 play,3,1,sanca004,00,,NP
 sub,ruggj001,"Justin Ruggiano",0,6,8
-com,"Rays center fielder B. J. Upton left the game due to an injured leg"
 play,3,1,sanca004,12,.BCFFX,63/G
 play,3,1,coghc001,32,BBBCCS,K
 play,3,1,ramih003,11,CBX,63/G+
@@ -5888,7 +5858,6 @@ start,infao001,"Omar Infante",1,6,4
 start,buckj001,"John Buck",1,7,2
 start,wised001,"Dewayne Wise",1,8,8
 start,sanca004,"Anibal Sanchez",1,9,1
-com,"$the first game as Marlins interim manager for Jack McKeon"
 play,1,0,iztum001,12,CBFX,D9/L+
 play,1,0,aybae001,32,BLBFBX,43/G-.2-3
 play,1,0,huntt001,12,CBSFS,K
@@ -6392,8 +6361,6 @@ start,stanm004,"Mike Stanton",1,6,9
 start,buckj001,"John Buck",1,7,2
 start,infao001,"Omar Infante",1,8,4
 start,nolar001,"Ricky Nolasco",1,9,1
-com,"$this game was played in Seattle with NL rules with the Marlins batting last due to"
-com,"preparations for a U2 concert at Sun Life Stadium in Miami"
 play,1,0,suzui001,20,BBX,6/P
 play,1,0,ryanb002,32,BBCFBX,63/G
 play,1,0,kenna001,22,CCFBBFX,7/F
@@ -6523,8 +6490,6 @@ start,buckj001,"John Buck",1,6,2
 start,helmw001,"Wes Helms",1,7,5
 start,wised001,"Dewayne Wise",1,8,8
 start,volsc001,"Chris Volstad",1,9,1
-com,"$this game was played in Seattle with NL rules with the Marlins batting last due to"
-com,"preparations for a U2 concert at Sun Life Stadium in Miami"
 play,1,0,suzui001,20,BBX,7/L
 play,1,0,ryanb002,22,CSBBX,63/G
 play,1,0,kenna001,02,CSC,K
@@ -6658,8 +6623,6 @@ start,stanm004,"Mike Stanton",1,6,9
 start,wised001,"Dewayne Wise",1,7,8
 start,hayeb001,"Brett Hayes",1,8,2
 start,sanca004,"Anibal Sanchez",1,9,1
-com,"$this game was played in Seattle with NL rules with the Marlins batting last due to"
-com,"preparations for a U2 concert at Sun Life Stadium in Miami"
 play,1,0,suzui001,32,CSBBBX,S9/G
 play,1,0,ryanb002,22,1C1FB*B111FS,K
 play,1,0,kenna001,12,111CFB1FN,BK.1-2
@@ -6763,7 +6726,6 @@ play,10,0,olivm001,00,,NP
 sub,cishs001,"Steve Cishek",1,1,1
 play,10,0,olivm001,12,.BCFX,7/F.2-3
 play,10,0,peguc001,20,III,WP.3-H
-com,"$the winning run scored on wild pitch during an intentional walk"
 play,10,0,peguc001,32,III.CSS,K
 play,10,0,gutif001,32,CFBBFBFB,W
 play,10,0,pauld001,00,,NP
@@ -6875,12 +6837,6 @@ play,5,1,peteb001,10,BX,7/F
 play,5,1,buckj001,32,BBCBSB,W
 play,5,1,nolar001,10,BX,34/SH/BG.1-2
 play,5,1,bonie001,01,CX,31/G
-com,"ej,bonie001,P,carav901,Call at 1B"
-com,"$Marlins third baseman Emilio Bonifacio ejected by 1B umpire Vic Carapazza;"
-com,"Phillies pitcher Vance Worley attempted to tag Bonifacio at 1B but appeared"
-com,"to miss the tag; Bonifacio and 1B coach Perry Hill argued with Carapazza;"
-com,"Marlins manager Jack McKeon came out and pushed Bonifacio away; the latter"
-com,"tossed his helmet to the ground and was ejected"
 play,6,0,utlec001,00,,NP
 sub,dobbg001,"Greg Dobbs",1,1,5
 play,6,0,utlec001,31,..BFBBX,3/G
@@ -6915,10 +6871,6 @@ play,8,1,dobbg001,22,CBBSS,K
 play,9,0,browd004,00,,NP
 sub,dunnm002,"Michael Dunn",1,9,1
 play,9,0,browd004,32,.BTFBBB,W
-com,"ej,buckj001,P,danlk901,Balls and strikes (while catching)"
-com,"$Marlins catcher John Buck ejected by HP umpire Kerwin Danley for arguing about"
-com,"balls and strikes; Buck was not happy with the last pitch to Domonic Brown which"
-com,"was inside; Buck had been called out on a pitch inside earlier in the game"
 play,9,0,ruizc001,00,,NP
 sub,hayeb001,"Brett Hayes",1,8,2
 play,9,0,ruizc001,00,..1X,3/SH/BG.1-2
@@ -7199,7 +7151,6 @@ play,5,1,infao001,00,11>B,CS2(24)
 play,5,1,infao001,31,11>B.LBBX,S7/G
 play,5,1,sancg001,11,SBX,6(1)3/GDP
 play,6,0,browd004,00,X,S87/L+.BX2(16)
-com,"$Phillies Domonic Brown called out on appeal for missing 2B on an apparent triple"
 play,6,0,maybj001,32,BFBFBX,HR/7/L
 play,6,0,kendk001,00,,NP
 sub,valdw001,"Wilson Valdez",0,9,11
@@ -7998,7 +7949,6 @@ sub,guzmj005,"Jesus Guzman",0,2,11
 play,9,0,guzmj005,00,.11>C,SB2
 play,9,0,guzmj005,02,.11>C.FC,K
 play,9,0,maybc001,00,T,SB3
-com,"originally scored as DI, changed next day to SB3"
 play,9,0,maybc001,01,T.X,S8/L.3-H
 play,9,0,ludwr001,20,1B1B>S,SB2
 play,9,0,ludwr001,32,1B1B>S.BFFS,K
@@ -8340,9 +8290,6 @@ play,7,1,helmw001,00,1X,S7/L.1-2
 play,7,1,bonie001,01,FX,46(1)/FO/G.2-3
 play,7,1,infao001,10,B>B,SB2
 play,7,1,infao001,21,B>B.CX,4!/P9LF
-com,"$Orlando Hudson caught the foul ball then slid into the rolling sign on the wall, hitting it"
-com,"with his head and right shoulder first; he lay there for a while before being taken off the"
-com,"field on a cart while wearing a neck brace; he had been unconscious temporarily"
 play,8,0,denoc001,01,CX,43/G
 play,8,0,gonza005,01,SX,63/G
 play,8,0,philk001,02,CSFT,K
@@ -8462,8 +8409,6 @@ play,3,0,dudal001,02,CCFX,S9/G
 play,3,0,paulr001,21,BBFX,8/F
 play,3,1,bonie001,32,LBCBBFB,W
 play,3,1,infao001,22,F111B1B1F>X,S7/G.1-H(TH2)(NR);B-2
-com,"$Emilio Bonifacio ran to third on the single to left; when LF Lucas Duda make a soft toss"
-com,"towards 2B, Bonfacio scored"
 play,3,1,morrl001,22,BCFBX,43/G.2-3
 play,3,1,ramih003,32,CBSBBB,W
 play,3,1,sancg001,00,X,6(1)3/GDP
@@ -8826,7 +8771,6 @@ play,5,0,turnj001,12,FBFC,K
 play,5,0,beltc001,20,BBX,43/G
 play,5,1,ramih003,00,,NP
 sub,pridj001,"Jason Pridie",0,6,8
-com,"Mets center fielder Angel Pagan left the game due to an injured head"
 play,5,1,ramih003,31,.BBBCB,W
 play,5,1,morrl001,00,>B,CS2(26)
 play,5,1,morrl001,20,>B.BX,S9/L+
@@ -8966,8 +8910,6 @@ play,3,0,pujoa001,10,BX,S7/L
 play,3,0,hollm001,22,BFB>F1H,HP.1-2
 play,3,0,berkl001,10,BX,S9/G.2-3;1-2
 play,3,0,freed001,32,CBS*BFFBFH,HP.3-H;2-3;1-2
-com,"$Cardinals third baseman David Freese was hit on the helmet with a fast ball"
-com,"and left the game with a mild concussion"
 play,3,0,schus001,00,,NP
 sub,descd001,"Daniel Descalso",0,6,12
 play,3,0,schus001,00,,NP
@@ -9003,7 +8945,6 @@ play,5,1,stanm004,32,CBCBBX,S8/L
 play,5,1,camem001,11,BCX,8/F
 play,6,0,furcr001,00,,NP
 sub,helmw001,"Wes Helms",1,2,4
-com,"Marlins second baseman Omar Infante left the game due to an injured hand"
 play,6,0,furcr001,32,..CBBCBFC,K
 play,6,0,jay-j001,02,CTS,K
 play,6,0,pujoa001,12,CSBX,D8/L
@@ -9131,8 +9072,6 @@ play,1,1,sancg001,01,CX,8/F
 play,2,0,hollm001,30,BBBB,W
 play,2,0,berkl001,30,B1BBX,4/P
 play,2,0,schus001,00,1X,S8/F-.1-2
-com,"$Marlins CF Mike Cameron made a diving attempt to catch Skip Schumaker's hit; he caught the ball"
-com,"but his glove came off when he landed; Cameron suffered a sprained left hand but stayed in the game"
 play,2,0,lairg001,00,X,9/F
 play,2,0,descd001,01,CX,43/G
 play,2,1,camem001,11,FBX,S9/L
@@ -9176,7 +9115,6 @@ play,6,0,descd001,32,1BCF1B*B>S,K
 play,6,1,sancg001,12,CFBS,K
 play,6,1,camem001,00,,NP
 sub,peteb001,"Bryan Petersen",1,6,11
-com,"Marlins center fielder Mike Cameron left the game due to a sprained left hand"
 play,6,1,peteb001,32,.CBFFBBFX,43/G
 play,6,1,thurj001,22,BFBSS,K
 play,7,0,westj001,00,,NP
@@ -9475,7 +9413,6 @@ play,5,1,morrl001,12,CBSS,K
 play,6,0,garcj004,00,,NP
 sub,pattc001,"Corey Patterson",0,9,11
 play,6,0,pattc001,01,.CX,E7/F.B-2
-com,"originally scored as double, changed to E7 the next day"
 play,6,0,furcr001,00,X,6/BP
 play,6,0,therr001,11,BCX,9/F
 play,6,0,pujoa001,30,IIII,IW
@@ -9632,11 +9569,6 @@ play,4,0,bourm001,00,X,3/G.2-3
 play,4,0,pradm001,31,BCBBB,W
 play,4,0,freef001,11,BSX,43/G
 play,4,1,peteb001,22,BCFB.X,43/G
-com,"ej,gonzf801,M,wendh902,Balls and strikes"
-com,"$when the fourth pitch to Bryan Petersen was called a ball, Braves Manager Fredi Gonzalez"
-com,"yelled from the dugout about the call; HP umpire Hunter Wendelstedt motioned and yelled back"
-com,"that it was a couple of inches inside; when Gonzalez continued to argue, he was ejected by"
-com,"Wendelstedt"
 play,4,1,buckj001,11,CBX,63/G
 play,4,1,handb001,00,X,3/G
 play,5,0,uggld001,32,BBFBSFX,S6/G-
@@ -9678,11 +9610,6 @@ sub,cishs001,"Steve Cishek",1,9,1
 play,8,0,bourm001,22,.BBCSFFX,31/G
 play,8,0,pradm001,02,CFS,K
 play,8,0,freef001,22,FBSFBS,K
-com,"ej,freef001,P,wendh902,Balls and strikes (Tossed bat and helmet)"
-com,"$Braves first baseman Freddie Freeman was not happy with the check swing call for strike three"
-com,"ruled by HP umpire Hunter Wendelstedt; Freeman tossed his helmet towards the dugout as he walked"
-com,"away and Wendelstedt pointed at him; when Freeman then tossed his bat in the same direction,"
-com,"he was ejected by Wendelstedt"
 play,8,1,ameza001,00,,NP
 sub,hinse001,"Eric Hinske",0,3,3
 play,8,1,ameza001,01,..CX,8/F
@@ -9795,7 +9722,6 @@ play,5,0,bourm001,32,CBBBFFFC,K
 play,5,0,pradm001,10,BX,HR/78/F
 play,5,0,freef001,02,CFX,13/G
 play,5,0,uggld001,12,SCBX,S6/G
-com,"$30-game hit streak for Dan Uggla"
 play,5,0,jonec004,00,X,S8/L-.1-3
 play,5,0,gonza002,00,X,64(1)/FO/G
 play,5,1,peteb001,20,BBX,43/G
@@ -9951,7 +9877,6 @@ play,1,0,bourm001,02,CFX,S7/L-
 play,1,0,pradm001,20,1B11BX,S8/L-.1-2
 play,1,0,hinse001,31,B*BBF>X,31/G+.2-3;1-2
 play,1,0,uggld001,00,X,S8/L.3-H;2-H
-com,"$31-game hit streak for Dan Uggla, which ties the Atlanta Braves record set by Rico Carty in 1970"
 play,1,0,heywj001,22,F1SBB1C,K
 play,1,0,gonza002,22,CFFBBFX,8/L
 play,1,1,bonie001,32,CBBBCX,63/G
@@ -10128,7 +10053,6 @@ play,2,1,nolar001,12,BCLX,16(1)/FO/BG
 play,2,1,bonie001,32,BBCBC>F>F>S,K
 play,3,0,white004,12,BSFX,S8/L-
 play,3,0,cainm001,10,BX,FC3/SH/BG.1-2
-com,"originally scored E3/SH, changed next day"
 play,3,0,torra001,00,X,54/SH/BG.2-3;1-2
 play,3,0,keppj001,11,CBX,9/L
 play,3,0,sandp001,30,IIII,IW
@@ -10706,9 +10630,6 @@ play,2,0,rente001,12,CSBS,K
 play,2,1,dobbg001,11,CBX,43/G
 play,2,1,lopej003,32,BFBFBX,9/F
 play,2,1,camem001,32,BCBCFBFS,K
-com,"ej,mckej801,M,ticht901,Checked swing"
-com,"$Marlins manager Jack McKean argued a check swing call to Homer Bailey;"
-com,"McKean was ejected by 1B umpire Todd Tichenor"
 play,3,0,bailh001,12,CFBX,D9/F
 play,3,0,philb001,00,X,13/SH/BG.2-3
 play,3,0,sappd001,11,BCX,3/P3F
@@ -10998,10 +10919,6 @@ play,2,0,maybj001,32,C1.SBFFBBFS,K
 play,2,0,ruizc001,00,X,9/F9LF
 play,2,1,peteb001,11,CBX,S9/L
 play,2,1,buckj001,22,SBBF>S,K.1-1
-com,"$John Buck's follow through on strike three hit catcher Carlos Ruiz as he was standing to"
-com,"throw to 2B on the stolen base attempt by Bryan Petersen; when the throw by Ruiz bounced"
-com,"and rolled into short RF, Petersen ran for 3B; he was thrown out but HP umpire Sam Holbrook"
-com,"ruled that Buck interfered and put Petersen back on 1B"
 play,2,1,handb001,12,CMBO,K
 play,2,1,bonie001,12,CSB>FX,3/G
 play,3,0,valdw001,12,CLBS,K
@@ -11188,7 +11105,6 @@ play,6,0,pench001,00,,NP
 sub,morrl001,"Logan Morrison",1,3,7
 play,6,0,pench001,00,,NP
 sub,peteb001,"Bryan Petersen",1,7,9
-com,"Marlins right fielder Mike Stanton left the game due to an injured leg"
 play,6,0,pench001,12,..BSSX,53/G
 play,6,0,ibanr001,12,TBFX,43/G
 play,6,0,ruizc001,02,CCS,K
@@ -11332,18 +11248,6 @@ play,5,1,dobbg001,11,CBX,S8/L
 play,5,1,sancg001,00,X,4/L
 play,6,0,howar001,32,CBBSFFBFB,W
 play,6,0,pench001,00,X,9/F
-com,"ej,manuc101,M,westj901,Arguing use of replay"
-com,"$Hunter Pence hit a fly ball to RF, where Bryan Petersen made a leaping attempt to catch the"
-com,"ball; his glove was above the yellow stripe at the top of the wall but a fan reached over the"
-com,"wall with a Phillies cap and touched the ball; the ball was ruled in play, with Pence reaching"
-com,"second and Ryan Howard running from first to third; both managers came out of the dugout; the"
-com,"umpires huddled and crew chief Joe West watched the replay and overturned the call to fan"
-com,"interference; Pence was called out and Howard returned to first base; the ball might have"
-com,"cleared the fence without the interference and it might have been caught; Phillies"
-com,"manager Charlie Manuel talked to West questioning the interpretation of using the replay rule"
-com,"in this instance, not the decision made after watching the replay; Manuel was ejected by West;"
-com,"this process, including the review, took 13 minutes; the Phillies protested the game because"
-com,"of the use of the replay"
 play,6,0,ibanr001,10,.BX,D9/L.1-3
 play,6,0,ruizc001,30,IIII,IW
 play,6,0,valdw001,02,FFX,46(1)3/GDP
@@ -11824,7 +11728,6 @@ play,11,1,morrl001,22,BCSBX,43/G-
 play,11,1,camem001,31,BBBCB,W
 play,11,1,peteb001,00,,NP
 sub,hatcc002,"Chris Hatcher",1,6,12
-com,"Marlins center fielder Mike Cameron left the game due to a tight right hamstring"
 play,11,1,peteb001,00,.X,E5/P.1-3;B-2
 play,11,1,murpd004,00,,NP
 sub,igarr001,"Ryota Igarashi",0,9,1
@@ -12281,7 +12184,6 @@ sub,conrb001,"Brooks Conrad",0,9,11
 play,6,0,conrb001,12,.C*BFX,46(1)/FO/G.2-3
 play,6,0,bourm001,00,,NP
 sub,wilsj002,"Jack Wilson",0,7,12
-com,"Braves shortstop Alex Gonzalez left the game due to an injured leg"
 play,6,0,bourm001,20,B.BX,46(1)/FO/G
 play,6,1,morrl001,00,,NP
 sub,wilsj002,"Jack Wilson",0,7,6
@@ -12861,7 +12763,6 @@ play,5,1,peteb001,02,CCS,K
 play,5,1,hayeb001,01,FX,7/L
 play,6,0,wertj001,00,,NP
 sub,lopej003,"Jose Lopez",1,2,4
-com,"Marlins second baseman Omar Infante left the game due to an injured leg"
 play,6,0,wertj001,12,.SBCX,63/G
 play,6,0,marrc001,32,SBSBBFFS,K
 play,6,0,espid001,12,CSBX,43/G

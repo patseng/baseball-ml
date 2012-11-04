@@ -397,7 +397,6 @@ play,6,0,ceder002,32,BBCSBFT,K
 play,6,1,gomec002,00,,NP
 sub,jakuc001,"Chris Jakubauskas",0,0,1
 play,6,1,gomec002,22,.CSBBC,K
-com,"Debut game for Chris Jakubauskas"
 play,6,1,moraj002,21,FBBX,7/F
 play,6,1,puntn001,00,X,9/F
 play,7,0,betay001,00,,NP
@@ -651,7 +650,6 @@ play,4,1,cuddm001,00,X,D8/F
 play,4,1,buscb001,10,BX,T9/F.2-H
 play,4,1,yound003,00,,NP
 sub,tallb001,"Brian Tallet",0,0,1
-com,"Blue Jays pitcher Jesse Litsch left the game due to an injured arm"
 play,4,1,yound003,02,FS.S,K
 play,4,1,moraj002,12,SFBX,6/L
 play,4,1,puntn001,02,SFS,K
@@ -1298,7 +1296,6 @@ play,4,0,morak001,02,CSX,S7/G
 play,4,0,napom001,12,CBCX,54(1)/FO/G
 play,4,1,buscb001,00,,NP
 sub,speij001,"Justin Speier",0,0,1
-com,"Angels pitcher Dustin Moseley left the game due to an injured elbow"
 play,4,1,buscb001,22,.SBCFBS,K
 play,4,1,credj001,11,FBX,4/P
 play,4,1,redmm001,22,CBCBX,8/F
@@ -1659,7 +1656,6 @@ play,8,0,figgc001,02,CFFX,43/G
 play,8,1,mornj001,00,,NP
 sub,david004,"Daniel Davidson",0,0,1
 play,8,1,mornj001,11,.BCX,43/G
-com,"Debut game for Daniel Davidson"
 play,8,1,kubej002,10,BX,9/L
 play,8,1,yound003,30,BBBB,W
 play,8,1,harrb001,22,BB1CF1X,8/F
@@ -2084,7 +2080,6 @@ play,5,1,moraj002,00,,NP
 sub,grosg002,"Gabe Gross",0,9,9
 play,5,1,moraj002,00,,NP
 sub,corml001,"Lance Cormier",0,0,1
-com,"Rays shortstop Jason Bartlett left the game due to an injured leg"
 play,5,1,moraj002,02,...CCS,K23
 play,5,1,casia001,10,BX,6/P
 play,5,1,spand001,22,BFBFFX,S9/L
@@ -3381,12 +3376,6 @@ play,7,0,cabrm001,00,,NP
 sub,guerm001,"Matt Guerrier",1,0,1
 play,7,0,cabrm001,00,.X,HR/78/F+.3-H;2-H
 play,7,0,ordom001,02,SCC,K
-com,"ej,leylj801,M,schrp901,Schreiber touched Magglio Ordonez"
-com,"$Magglio Ordonez stood in the batter's box to say something about the third"
-com,"strike, which he thought was inside; HP umpire Paul Schreiber placed his hand"
-com,"on Ordonez' back as he tried to get him to go back to the dugout; Tigers Manager"
-com,"Jim Leyland came out furious that the umpire had touched the player; after a"
-com,"heated argument, Leyland was ejected by Schrieber"
 play,7,0,larij001,10,.BX,HR/8/F
 play,7,0,ingeb001,00,,NP
 sub,dickr001,"R.A. Dickey",1,0,1
@@ -3604,9 +3593,6 @@ play,7,1,mornj001,00,.X,S9/G+.3-H;1-3
 play,7,1,kubej002,10,BX,DGR/89/F.3-H;1-3
 play,7,1,cuddm001,00,,NP
 sub,minez001,"Zach Miner",0,0,1
-com,"ej,gardr001,M,nauep901,Arguing that pitch hit Cuddyer"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Paul Nauert for arguing that the"
-com,"second pitch to Michael Cuddyer hit him"
 play,7,1,cuddm001,31,.BB.CBB,W
 play,7,1,credj001,10,BX,S8/F-.3-H;2-H;1-3
 play,7,1,buscb001,21,BFBX,7/F
@@ -3722,7 +3708,6 @@ play,4,1,tolbm001,00,,NP
 sub,hallb001,"Bill Hall",0,2,5
 play,4,1,tolbm001,00,,NP
 sub,mcgec001,"Casey McGehee",0,8,4
-com,"Brewers shortstop J. Hardy left the game due to an injured back"
 play,4,1,tolbm001,12,...BCFX,63/G
 play,4,1,puntn001,31,BBBCB,W
 play,4,1,spand001,22,FB1C*B>X,S8/G.1-3
@@ -3843,7 +3828,6 @@ start,gomec002,"Carlos Gomez",1,8,8
 start,tolbm001,"Matt Tolbert",1,9,4
 start,swara001,"Anthony Swarzak",1,0,1
 play,1,0,counc001,12,BCFFX,6/L-
-com,"Debut game for Anthony Swarzak"
 play,1,0,mcgec001,32,CBBBCFB,W
 play,1,0,braur002,12,CC*BX,S8/F.1-2
 play,1,0,fielp001,02,CFC,K
@@ -4028,7 +4012,6 @@ play,7,0,camem001,00,,NP
 sub,tolbm001,"Matt Tolbert",1,5,4
 play,7,0,camem001,00,,NP
 sub,harrb001,"Brendan Harris",1,7,5
-com,"Twins third baseman Joe Crede left the game due to an injured hand/wrist"
 play,7,0,camem001,32,..BFBSBX,8/F
 play,7,0,hartc001,12,BCFS,K
 play,7,1,harrb001,02,CFX,7/F
@@ -4623,29 +4606,12 @@ play,7,0,ellsj001,00,,NP
 sub,henns001,"Sean Henn",1,0,1
 play,7,0,ellsj001,22,.BFFBH,HP
 play,7,0,pedrd001,22,BCTBX,9/SF/F.3-H
-com,"ej,redmm001,P,ticht901,Call at HP"
-com,"ej,gardr001,M,ticht901,Call at HP"
-com,"$Jeff Bailey slid across the plate as catcher Mike Redmond swept a tag across;"
-com,"HP umpire Todd Tichenor called Bailey safe; Redmond jumped up and started"
-com,"yelling at Tichenor, who ejected the catcher; Twins manager Ron Gardenhire"
-com,"ran out and was also ejected while arguing the situation; the Twins other"
-com,"catcher, Joe Mauer, was serving as the DH, so he went into catch and the"
-com,"club lost use of the DH for the rest of the game"
 play,7,0,drewj001,00,,NP
 sub,henns001,"Sean Henn",1,8,1
 play,7,0,drewj001,00,,NP
 sub,mauej001,"Joe Mauer",1,2,2
 play,7,0,drewj001,00,....X,46(1)/FO/G
 play,7,1,credj001,02,CSX,23/G-
-com,"ej,varij001,P,ticht901,Balls and strikes"
-com,"ej,frant001,M,ticht901,Balls and strikes; after Varitek ejection"
-com,"$the fourth pitch to Brendan Harris was at or near the outside corner;"
-com,"catcher Jason Varitek held the ball after catching it and when HP umpire"
-com,"Todd Tichenor called the pitch a ball, pitcher Josh Beckett reacted on the"
-com,"mound; Varitek stood up and turned to Tichenor to complain but mostly to"
-com,"protect his pitcher; Varitek was ejected by Tichenor and Red Sox manager"
-com,"Terry Francona ran out to argue and was also ejected; therefore, in the"
-com,"seventh inning, both catchers and both managers were ejected by Tichenor"
 play,7,1,harrb001,22,BFSB,NP
 sub,kottg001,"George Kottaras",0,7,2
 play,7,1,harrb001,22,BFSB...FX,D7/L
@@ -4973,7 +4939,6 @@ sub,perer002,"Rafael Perez",0,0,1
 play,9,1,kubej002,00,,NP
 sub,tolbm001,"Matt Tolbert",1,5,11
 play,9,1,tolbm001,30,...BBBB,W
-com,"Debut game for Chris Gimenez"
 play,9,1,harrb001,11,CBX,64(1)3/GDP
 play,9,1,yound003,12,CFBS,K
 data,er,lee-c003,1
@@ -5379,8 +5344,6 @@ play,7,1,puntn001,00,,NP
 sub,grabj002,"John Grabow",0,0,1
 play,7,1,puntn001,00,.X,13/BG
 play,7,1,harrb001,02,CFX,S7/L.B-2(TH3)
-com,"$Batter stopped after rounding first but throw came in to 3rd base,"
-com,"so batter then went to second"
 play,7,1,mauej001,31,BBBCB,W+PB.2-3
 play,7,1,mornj001,30,BBBB,W.1-2
 play,7,1,kubej002,02,CFFS,K
@@ -5389,8 +5352,6 @@ play,8,0,sancf001,00,,NP
 sub,henns001,"Sean Henn",1,0,1
 play,8,0,sancf001,11,.CBX,43/G
 play,8,0,laroa001,20,BBX,HR/8/F
-com,"$both LaRoche brothers homer in this game; it is the first time that"
-com,"Pirate brothers homered in the same game since the Waners in 1938"
 play,8,0,yound004,32,SFBBBB,W
 play,8,0,hinse001,31,BBCBB,W.1-2
 play,8,0,laroa002,00,,NP
@@ -5754,9 +5715,6 @@ play,5,0,rodri001,00,X,D9/L.1-H
 play,5,0,erstd001,12,FBFX,8/F
 play,5,0,katam001,22,BFSFBFX,8/F
 play,5,1,yound003,10,BX,8/F
-com,"ej,coopc001,M,laynj901,Balls and strikes"
-com,"Astros Manager Cecil Cooper ejected by HP umpire Jerry Layne for arguing the"
-com,"fourth pitch to Carlos Gomez"
 play,5,1,gomec002,32,CLBB.BFB,W
 play,5,1,puntn001,12,1PCC1,SB2
 play,5,1,puntn001,12,1PCC1.X,31/G.2-3
@@ -5771,7 +5729,6 @@ play,6,1,kubej002,31,BBSBX,43/G
 play,6,1,cuddm001,22,CBCBS,K
 play,7,0,berkl001,00,,NP
 sub,tolbm001,"Matt Tolbert",1,9,4
-com,"Twins shortstop Nick Punto left the game due to an injured chest"
 play,7,0,berkl001,22,.BSBFX,163/G
 play,7,0,pench001,00,X,D7/L
 play,7,0,rodri001,11,BFX,S9/F.2-H
@@ -8326,9 +8283,6 @@ sub,louxs001,"Shane Loux",0,0,1
 play,8,1,spand001,11,..BFX,63/G
 play,8,1,cabro001,01,CX,9/F
 play,8,1,mauej001,21,CBBX,D7/F
-com,"$Joe Mauer's fly ball hit the top of the wall in LF and came back on the field;"
-com,"it was called as in play; Twins manager Ron Gardenhire asked about it, the umpires"
-com,"talked and then crew chief Gerry Davis watched the replay and upheld the call"
 play,8,1,mornj001,32,BFBFBFX,43/G
 play,9,0,rodrs002,00,,NP
 sub,dickr001,"R.A. Dickey",1,0,1
@@ -8643,8 +8597,6 @@ sub,guerm001,"Matt Guerrier",1,0,1
 play,8,0,betay001,11,.BCX,1/L
 play,8,0,andej004,32,CBFFBBFFFX,S4/G
 play,8,0,dejed001,01,CX,E6/FO/G.1X3(45);B-1
-com,"DWS: this is actually 1E6 at 2nd with runner from 1st out"
-com,"trying for third"
 play,8,0,bloow001,02,CFC,K
 play,8,1,mornj001,00,,NP
 sub,wrigj001,"Jamey Wright",0,0,1
@@ -8926,12 +8878,6 @@ play,6,0,marta004,21,BBCX,8/F
 play,6,0,sizeg001,22,BCBFX,8/F
 play,6,0,cabra002,12,CFBX,43/G
 play,6,1,mauej001,21,BCBX,S7/L-
-com,"ej,wedge001,M,davib902,Balls and strikes (foul tip)"
-com,"$on the sixth pitch to Justin Morneau, HP umpire Bob Davidson called a foul tip"
-com,"and strikeout; Twins manager Ron Gardenhire asked Davidson about the pitch, since"
-com,"it appeared to hit the ground; Davidson looked at the ball and talked with 1B"
-com,"umpire Wally Bell then ruled a foul ball and brought Morneau back to the plate;"
-com,"Indians Manager Eric Wedge argued and was ejected by Davidson"
 play,6,1,mornj001,32,SSFFFF.BFBBFFX,36(1)/FO/G
 play,6,1,kubej002,20,BBX,HR/F/9.1-H
 play,6,1,cuddm001,10,BX,53/G
@@ -9084,7 +9030,6 @@ play,7,0,peraj001,00,,NP
 sub,puntn001,"Nick Punto",1,9,4
 play,7,0,peraj001,00,,NP
 sub,keppb001,"Bob Keppel",1,0,1
-com,"Twins second baseman Alexi Casilla left the game due to an injured foot/ankle"
 play,7,0,peraj001,22,..CSBBC,K
 play,7,0,hafnt001,12,BCFC,K
 play,7,0,valbl001,12,CFBFFS,K
@@ -9112,7 +9057,6 @@ play,8,1,spand001,12,CCBX,43/G
 play,9,0,choos001,00,,NP
 sub,mansj001,"Jeff Manship",1,0,1
 play,9,0,choos001,02,.CFS,K
-com,"Debut game for Jeff Manship"
 play,9,0,peraj001,21,CBBX,8/F
 play,9,0,hafnt001,10,BX,31/G
 play,9,1,cabro001,00,,NP
@@ -9477,7 +9421,6 @@ start,gomec002,"Carlos Gomez",1,8,8
 start,casia001,"Alexi Casilla",1,9,4
 start,gabia001,"Armando Gabino",1,0,1
 play,1,0,robeb003,21,BBCX,63/G
-com,"Debut game for Armando Gabino"
 play,1,0,pie-f001,00,X,7/F
 play,1,0,reimn001,32,FBSBBB,W
 play,1,0,markn001,01,CX,7/F
@@ -9726,10 +9669,6 @@ play,8,1,spand001,00,,NP
 sub,baezd001,"Danys Baez",0,0,1
 play,8,1,spand001,32,...BBCFBB,W
 play,8,1,cabro001,02,CCS,K
-com,"ej,cabro001,P,ticht901,Balls and strikes; slammed bat"
-com,"Twins shortstop Orlando Cabrera ejected by HP umpire Todd Tichenor; the third"
-com,"strike was a checked swing that 1B umpire Bruce Dreckman called a swing; Cabrera"
-com,"slammed his bat down, breaking it, and was tossed by Tichenor"
 play,8,1,mauej001,02,.CCX,46(1)3/GDP
 play,9,0,moram002,00,,NP
 sub,spand001,"Denard Span",1,1,9
@@ -9870,7 +9809,6 @@ play,8,0,younm003,22,C*BS>B.X,43/G
 play,8,1,mauej001,00,,NP
 sub,strop001,"Pedro Strop",0,0,1
 play,8,1,mauej001,22,.BBCCS,K
-com,"Debut game for Pedro Strop"
 play,8,1,mornj001,11,CBX,6/P
 play,8,1,kubej002,22,BFSBX,43/G
 play,9,0,hamij003,00,,NP
@@ -12121,7 +12059,6 @@ play,2,0,olivm001,02,SCX,36(1)/FO/G.B-2(E6/TH1)
 play,2,0,gorda001,22,CBFBS,K
 play,2,1,spand001,10,BX,D9/L
 play,2,1,cabro001,12,FF*BX,S15/G.2-3
-com,"originally scored E1, changed next day to single"
 play,2,1,mauej001,32,BBBCC1*B,W.1-2
 play,2,1,kubej002,00,,NP
 sub,martv002,"Victor Marte",0,0,1
@@ -12157,7 +12094,6 @@ play,5,0,bloow001,00,,NP
 sub,hernl004,"Luis Hernandez",0,9,12
 play,5,0,bloow001,00,,NP
 sub,andej004,"Josh Anderson",0,1,11
-com,"Royals shortstop Yuniesky Betancourt left the game due to an injured foot/ankle"
 play,5,0,andej004,12,..CBSS,K
 play,5,0,maiem001,22,SF*B*BFB,PB.1-2
 play,5,0,maiem001,32,SF*B*BFB.>X,S8/F.2-H(UR)
@@ -12606,8 +12542,6 @@ start,moraj002,"Jose Morales",1,7,10
 start,tolbm001,"Matt Tolbert",1,8,5
 start,puntn001,"Nick Punto",1,9,4
 start,bakes002,"Scott Baker",1,0,1
-com,"$one game playoff to break tie for AL Central Division lead;"
-com,"last regular season game at the Humphrey Metrodome"
 play,1,0,granc001,12,BFFX,8/F
 play,1,0,polap001,22,BFBFC,K
 play,1,0,ordom001,02,SFFFX,9/F
@@ -12634,8 +12568,6 @@ play,3,1,puntn001,12,CSBT,K
 play,3,1,spand001,01,1CX,S7/G.1-2
 play,3,1,cabro001,21,BFBX,9/F.2-3
 play,3,1,mauej001,20,B1B1,PO1(E1).3-H(UR)
-com,"$pitcher Rick Porcello's throw went into the runner and bounced away, hitting"
-com,"first base coach Jerry White"
 play,3,1,mauej001,31,B1B1.*BCB,W.1-2
 play,3,1,kubej002,12,*BFCS,K
 play,4,0,rabur001,22,BFFBX,S7/L-

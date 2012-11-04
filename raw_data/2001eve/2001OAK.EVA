@@ -203,7 +203,6 @@ start,giamj002,"Jeremy Giambi",1,8,9
 start,hernr002,"Ramon Hernandez",1,9,2
 start,hudst001,"Tim Hudson",1,0,1
 play,1,0,erstd001,01,CX,63/G
-com,"Debut game for Steve Green"
 play,1,0,palmo001,11,CBX,13/G
 play,1,0,salmt001,22,CSBFBC,K/C
 play,1,1,damoj001,22,BFBCX,53/G
@@ -1167,8 +1166,6 @@ play,4,0,velar001,21,BBCB,SB2
 play,4,0,velar001,31,BBCBB,W
 play,4,0,rodra001,30,BBBX,HR/7.2-H;1-H
 play,4,0,rodri001,12,BSSC,K/C
-com,"ej,rodri001,P,diazl901,Balls and strikes"
-com,"Ivan Rodriguez ejected by HP umpire Laz Diaz"
 play,4,1,giamj001,00,X,HR/78
 play,4,1,saeno001,12,BCCX,53/G
 play,4,1,piata001,21,SBBX,D/89
@@ -2451,7 +2448,6 @@ play,2,1,damoj001,12,CCBFS,K
 play,2,1,menef001,00,X,53/G
 play,3,0,knobc001,00,,NP
 sub,piata001,"Adam Piatt",1,6,9
-com,"$Jeremy Giambi left with tightness in left hamstring"
 play,3,0,knobc001,01,CX,8/F8
 play,3,0,jeted001,11,FBX,43/G
 play,3,0,oneip001,01,CX,1/G
@@ -2476,7 +2472,6 @@ play,5,1,menef001,02,CCS,K
 play,5,1,giamj001,22,BBCSS,K
 play,5,1,jahaj001,12,CCB,NP
 sub,bellm002,"Mark Bellhorn",1,4,11
-com,"$Jaha pulled thigh muscle ducking under pitch"
 play,5,1,bellm002,12,CCBC,K/C
 play,6,0,oneip001,00,X,3/G
 play,6,0,martt002,01,CX,S8
@@ -2540,8 +2535,6 @@ play,12,0,bross001,00,,NP
 sub,matht002,"T.J. Mathews",1,0,1
 play,12,0,bross001,10,BX,D/89
 play,12,0,knobc001,11,BLX,14/SH.2-3
-com,"$Oakland argued that the ball struck the bat twice"
-com,"and should have been a foul ball"
 play,12,0,jeted001,32,BCBBFFS,K
 play,12,0,oneip001,00,,NP
 sub,guthm001,"Mark Guthrie",1,0,1
@@ -2700,9 +2693,6 @@ sub,tam-j001,"Jeff Tam",1,0,1
 play,10,0,bross001,10,BX,S8
 play,10,0,colem001,00,,NP
 sub,bellc001,"Clay Bellinger",0,1,11
-com,"ej,howea001,M,nelsj901,Fair/foul call"
-com,"Athletics Manager Art Howe ejected by 3B umpire Jeff Nelson"
-com,"for arguing foul bunt; carried over from previous game"
 play,10,0,bellc001,11,LBX,34/SH.1-2
 play,10,0,soria001,22,CBFBX,53/G.2-3
 play,10,0,jeted001,30,BBII,IW
@@ -3071,7 +3061,6 @@ play,2,1,chave001,01,FX,D7
 play,2,1,piata001,31,CBBBB,W
 play,2,1,jennr001,02,CFX,S/78.2-H;1-3;B-2(TH)
 play,2,1,wilst003,22,CCBFBX,53/G
-com,"Debut game for Tom Wilson"
 play,3,0,paulj001,31,BCBBX,13/G
 play,3,0,clayr001,01,CX,43/G
 play,3,0,ramij001,00,X,63/G
@@ -3991,7 +3980,6 @@ play,7,1,wilst003,02,CSH,HP.2-3;1-2
 play,7,1,damoj001,32,BBBCFFX,6(1)3/GDP
 play,8,0,hairj002,01,CX,63/G
 play,8,0,andeb001,00,X,S4/G
-com,"originally scored as E4"
 play,8,0,bordm001,20,BBX,64(1)3/GDP
 play,8,1,menef001,32,CBBFFBFFB,W
 play,8,1,giamj001,32,BFBBCFFFB,W.1-2
@@ -4556,7 +4544,6 @@ play,7,0,davir002,12,CFBX,53/G
 play,7,1,valdm002,12,BCFX,S7
 play,7,1,damoj001,12,LBLX,4/L4
 play,7,1,menef001,11,BCX,64(1)3/GDP
-com,"$Frank Menechino's 10-game hitting streak stopped"
 play,8,0,martr003,00,X,D/78
 play,8,0,felip001,22,BBCFS,K
 play,8,0,murrc001,00,X,D/78.2-H
@@ -4575,8 +4562,6 @@ play,8,1,hernr002,01,CX,63/G
 play,9,0,bondb001,32,BBBCSB,W
 play,9,0,kentj001,22,BBCSFFS,K
 play,9,0,santb001,22,BBCCC,K/C
-com,"ej,santb001,P,roe-r901,Balls and strikes"
-com,"Benito Santiago ejected by HP umpire Rocky Roe"
 play,9,0,davir002,00,,NP
 sub,cresf001,"Felipe Crespo",0,6,11
 play,9,0,cresf001,10,BX,3/G
@@ -4711,7 +4696,6 @@ play,9,0,camem001,02,CSC,K/C
 play,9,0,belld002,00,,NP
 sub,marta001,"Al Martin",0,7,11
 play,9,0,marta001,12,SFBB,SB2
-com,"$21 consecutive steals for McLemore"
 play,9,0,marta001,22,SFBBFC,K/C
 data,er,moyej001,2
 data,er,charn001,2
@@ -5801,7 +5785,6 @@ play,11,1,hernr002,00,,NP
 sub,gil-b001,"Benji Gil",0,9,8
 play,11,1,hernr002,00,,NP
 sub,damoj001,"Johnny Damon",1,8,11
-com,"$5-man infield for Damon with Erstad at 1B"
 play,11,1,damoj001,32,BBBCCS,K
 play,11,1,mcmib001,00,,NP
 sub,erstd001,"Darin Erstad",0,3,8
@@ -7634,8 +7617,6 @@ play,9,0,rival001,00,,NP
 sub,tam-j001,"Jeff Tam",1,0,1
 play,9,0,rival001,12,FFBC,K/C
 play,9,0,hockd001,21,BBCH,HP
-com,"ej,lidlc001,P,emmep901,Bench jockeying after HBP"
-com,"Athletics pitcher Cory Lidle ejected from bench by HP umpire Paul Emmel"
 play,9,0,miend001,10,BX,46(1)3/GDP
 play,9,1,hernr002,00,,NP
 sub,maxwj001,"Jason Maxwell",0,2,6
@@ -8162,8 +8143,6 @@ play,4,1,longt002,22,CFBBX,7/F7
 play,4,1,tejam001,11,BCX,S/78
 play,4,1,chave001,10,BX,D/89D.1-3
 play,4,1,hernr002,22,BSBCFC,K/C
-com,"ej,hernr002,P,danlk901,Balls and strikes"
-com,"Ramon Hernandez ejected by HP umpire Kerwin Danley"
 play,4,1,menef001,32,BSFFBFFBFFX,S9.3-H;2-H;B-2(THH)
 play,4,1,damoj001,12,FBFX,53/G
 play,5,0,hatts001,00,,NP
@@ -8291,8 +8270,6 @@ play,3,0,ramim002,01,CX,53/G
 play,3,0,everc001,22,BSFFBFFX,8/F8
 play,3,1,santf001,32,BBBCCC,K/C
 play,3,1,damoj001,00,X,D9
-com,"$the ball bounced into a beer cup on the field and lodged there;"
-com,"it was ruled a dead ball and automatic double"
 play,3,1,giamj002,12,CBFFS,K
 play,3,1,giamj001,30,IIII,IW
 play,3,1,dye-j001,10,BX,64(1)/FO
@@ -9288,8 +9265,6 @@ play,6,0,thomj002,01,FX,5/FL
 play,6,1,chave001,22,BCBFS,K
 play,6,1,myerg001,00,X,63/G
 play,6,1,menef001,01,CX,63/G
-com,"ej,manuc101,M,culbf901,Balls and strikes"
-com,"Indians Manager Charlie Manuel ejected by HP umpire Fieldin Culbreth in 7th"
 play,7,0,cordm001,00,,NP
 sub,tam-j001,"Jeff Tam",1,0,1
 play,7,0,cordm001,22,CBFBFFX,9/F9S
@@ -9940,8 +9915,6 @@ play,5,1,chave001,12,BSFX,7/FL
 play,6,0,cruzd001,02,CFFX,6/P6
 play,6,0,encaj001,10,BX,S7
 play,6,0,ceder001,00,,BK.1-2
-com,"ej,hilje001,P,guccc901,Balk"
-com,"Erik Hiljus ejected by 3B umpire Chris Guccione"
 play,6,0,ceder001,00,,NP
 sub,guthm001,"Mark Guthrie",1,0,1
 play,6,0,ceder001,31,BFBBX,9/F9S
@@ -10368,7 +10341,6 @@ play,5,0,lunaf001,00,X,63/G.1-2
 play,5,0,hairj002,21,BFBX,HR/7.2-H
 play,5,0,harrw001,12,LCBX,8/F8
 play,5,1,santf001,01,LX,2/INT
-com,"$Santangelo hit by own batted ball"
 play,5,1,menef001,32,BBFBFFB,W
 play,5,1,giamj002,12,CBFFFS,K
 play,5,1,giamj001,10,BX,D9.1XH(942)
@@ -10730,7 +10702,6 @@ play,9,0,huffa001,01,CX,13/G
 play,9,0,gomec001,00,,NP
 sub,hoovp001,"Paul Hoover",0,9,11
 play,9,0,hoovp001,12,SBSX,S7
-com,"Debut game for Paul Hoover"
 play,9,0,aberb001,01,FX,S8/8S.1-2
 play,9,0,grieb001,12,SFBX,S/89.2-H;1-2
 play,9,0,winnr001,22,SBFFBS,K
@@ -11035,7 +11006,6 @@ play,8,1,damoj001,22,BCFFBX,8/F8
 play,8,1,giamj002,00,,NP
 sub,abada001,"Andy Abad",1,2,11
 play,8,1,abada001,10,BX,5/P5
-com,"Debut game for Andy Abad"
 play,8,1,giamj001,00,,NP
 sub,ryanr001,"Rob Ryan",1,3,11
 play,8,1,ryanr001,22,BFBFC,K/C

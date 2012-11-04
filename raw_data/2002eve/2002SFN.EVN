@@ -945,7 +945,6 @@ play,3,0,ochoa001,22,BBCFX,6/P6
 play,3,1,shint001,32,BBCBFX,S
 play,3,1,belld002,32,BFBBFX,E4/G.1-2
 play,3,1,bondb001,10,BX,HR/89.2-H;1-H(UR)
-com,"$#573 for Bonds tying Killebrew for 7th all-time"
 play,3,1,kentj001,10,BX,63/G
 play,3,1,sandr002,11,BSX,8/L8
 play,3,1,snowj001,32,FBBBFFX,S7
@@ -977,7 +976,6 @@ play,7,0,sanca003,10,BX,43/G
 play,7,1,martr003,00,,NP
 sub,mallb002,"Brian Mallette",0,9,1
 play,7,1,martr003,32,CSBBBH,HP
-com,"Debut game for Brian Mallette"
 play,7,1,ainsk001,00,X,3/SH.1-2#
 play,7,1,shint001,22,BFBFX,63/G
 play,7,1,belld002,00,X,S8.2-H
@@ -1059,7 +1057,6 @@ play,1,0,sexsr001,12,BFFX,9/F9
 play,1,1,murrc001,01,CX,8/F8
 play,1,1,martr003,11,BCX,7/F7
 play,1,1,bondb001,00,X,HR/89
-com,"$#574 for Bonds to pass Killebrew for 7th all-time"
 play,1,1,kentj001,00,X,53/G
 play,2,0,jenkg001,22,CBCBX,53/G
 play,2,0,houst001,22,CCBBX,13/G
@@ -1398,7 +1395,6 @@ play,3,0,liebm001,10,BX,63/G
 play,3,1,benam001,31,BBBCB,W
 play,3,1,aurir001,20,BBX,2/FL
 play,3,1,bondb001,11,FBB,OA.1X2(26)
-com,"originally scored as CS"
 play,3,1,bondb001,21,FBBX,8/F8S
 play,4,0,andem003,12,CSBS,K
 play,4,0,burrp001,32,BSBCBB,W
@@ -1844,8 +1840,6 @@ play,5,1,ruetk001,21,BBCX,8/F8
 play,5,1,belld002,32,FFBBBX,43/G
 play,5,1,aurir001,01,CX,HR/7
 play,5,1,bondb001,31,BBBCX,7/F7
-com,"ej,boona001,P,laynj901,Call at 1B"
-com,"Reds Manager Bob Boone ejected by 1B umpire Jerry Layne in 6th"
 play,6,0,larkb001,11,BCX,53/G
 play,6,0,encaj001,00,X,S9
 play,6,0,cases001,32,BCCBBFFX,6(1)3/GDP
@@ -2018,8 +2012,6 @@ sub,guerw001,"Wilton Guerrero",0,8,6
 play,8,1,belld002,00,,NP
 sub,pinel001,"Luis Pineda",0,9,1
 play,8,1,belld002,12,BCFC,K/C
-com,"ej,belld002,P,laynj901,Called third strike"
-com,"David Bell ejected by HP umpire Jerry Layne"
 play,8,1,santb001,31,BBBCX,9/F9
 play,8,1,rodrf002,00,,NP
 sub,minod001,"Damon Minor",1,9,11
@@ -3320,9 +3312,7 @@ play,1,0,gracm001,10,BX,S7/7S.3-H
 play,1,0,spivj001,22,FBSBC,K/C
 play,1,1,shint001,22,BBFFFFFFFX,3/P3
 play,1,1,martr003,21,BBSX,S/78
-com,"$infield shift on for Bonds"
 play,1,1,bondb001,12,FFBX,45(1)/FO
-com,"yes, 45(1)/FO - shift"
 play,1,1,kentj001,11,CB1,PO1(13)
 play,2,0,finls001,32,CCBFBFBX,9/F9
 play,2,0,milld002,02,CSX,4/L4
@@ -3966,7 +3956,6 @@ play,9,0,heltt001,02,SFX,43/G
 play,9,0,zeilt001,21,BBCX,S
 play,9,0,hollt001,22,BBFSX,54(1)/FO
 play,9,0,shumt001,00,1,SB2.1XH(2E4)(42)
-com,"steal, then E4 to 3rd, then out at home"
 play,9,1,kentj001,12,CFFBX,63/G
 play,9,1,sandr002,10,BX,63/G
 play,9,1,snowj001,11,BFX,43/G
@@ -4234,7 +4223,6 @@ play,7,0,pierj002,22,BFBFS,K
 play,7,1,bondb001,00,,NP
 sub,fuenb001,"Brian Fuentes",0,9,1
 play,7,1,bondb001,32,CBBBFX,HR/89
-com,"$#586 for Bonds tying Frank Robinson for 4th all-time"
 play,7,1,kentj001,21,BBCX,9/F9
 play,7,1,santb001,22,SBSFBX,7/L7
 play,7,1,minod001,02,CFH,HP
@@ -7504,7 +7492,6 @@ play,2,0,belta001,22,BFBSX,T/89D.3-H;2-H;1-H
 play,2,0,grudm001,01,CX,S8/8S.3-H
 play,2,0,iztuc001,00,X,43/G
 play,2,1,torct001,02,CCX,S9
-com,"Debut game for Tony Torcato"
 play,2,1,torry001,01,SX,16(1)3/GDP
 play,2,1,ortir001,32,BCBFFBB,W
 play,2,1,goodt001,01,CX,64(1)/FO
@@ -7924,7 +7911,6 @@ start,minod001,"Damon Minor",1,7,3
 start,belld002,"David Bell",1,8,5
 start,jensr001,"Ryan Jensen",1,9,1
 play,1,0,bellm002,32,CBBFBFS,K
-com,"Debut game for Steve Smyth"
 play,1,0,muelb001,21,CBBX,S7
 play,1,0,sosas001,01,CX,8/F8D
 play,1,0,mcgrf001,02,FCX,3/G#
@@ -8039,8 +8025,6 @@ play,9,0,farnk001,00,,NP
 sub,deshd001,"Delino DeShields",0,7,11
 play,9,0,deshd001,30,IIII,IW
 play,9,0,gonza001,22,BCFBFC,K/C
-com,"ej,gonza001,P,klemj901,Called third strike"
-com,"Alex Gonzalez ejected by HP umpire Justin Klemm"
 play,9,0,giraj001,10,BX,64(1)/FO
 data,er,smyts001,7
 data,er,boroj001,0
@@ -8480,7 +8464,6 @@ play,6,0,riosa001,22,CSBFFBS,K
 play,6,1,aurir001,00,X,13/BG
 play,6,1,kentj001,11,CBX,63/G
 play,6,1,bondb001,21,BFBX,HR/8
-com,"$home run #600 for Bonds; 4th player to reach that number"
 play,6,1,santb001,12,FFBX,53/G
 play,7,0,hyzda001,02,SCX,53/G
 play,7,0,reesp001,22,BSBSFS,K
@@ -8507,7 +8490,6 @@ play,8,1,aurir001,11,BFX,9/F9S
 play,8,1,kentj001,01,CB,SB2
 play,8,1,kentj001,32,CBBBFFFFF,NP
 sub,goodt001,"Tom Goodwin",1,1,12
-com,"$Lofton apparently injured"
 play,8,1,kentj001,32,CBBBFFFFFB,W
 play,8,1,bondb001,00,,NP
 sub,saues001,"Scott Sauerbeck",0,4,1
@@ -8962,8 +8944,6 @@ play,6,1,santb001,00,X,S8/78.1-2
 play,6,1,belld002,00,X,14/SH.2-3;1-2
 play,6,1,martr003,30,IIII,IW
 play,6,1,shint001,01,FX,9.3-H(E3)(UR);2-3
-com,"originally ruled SF, changed next day"
-com,"Vaughn dropped throw on cutoff"
 play,6,1,schmj001,11,BFS,SB2
 play,6,1,schmj001,12,BFSC,K/C
 play,7,0,vaugm001,21,BBFX,7/F7
@@ -10133,7 +10113,6 @@ play,6,1,aurir001,00,X,3/P3
 play,6,1,kentj001,22,BFFBFFX,43/G
 play,6,1,bondb001,32,FFFBBFBFB,W
 play,6,1,santb001,11,BCH,HP.1-2
-com,"$Santiago hit on hand, left game"
 play,6,1,muelb001,22,BCFBX,6/P6
 play,7,0,schic002,00,,NP
 sub,torry001,"Yorvit Torrealba",1,9,2
@@ -10616,7 +10595,6 @@ play,4,0,willm003,10,BX,9/F9D
 play,4,1,bondb001,00,X,HR/9
 play,4,1,santb001,00,X,D9
 play,4,1,sandr002,32,BFBCB2,SB3.2-H(E1/TH3)
-com,"$Santiago stole third while Anderson held ball between pitches"
 play,4,1,sandr002,32,BFBCB2FX,S9/9S
 play,4,1,snowj001,31,BCBBB,W.1-2
 play,4,1,belld002,00,,NP
@@ -10939,7 +10917,6 @@ play,5,1,snowj001,00,X,43/G
 play,6,0,browk001,00,,NP
 sub,allel001,"Luke Allen",0,9,11
 play,6,0,allel001,32,SFFBBBFFB,W
-com,"Debut game for Luke Allen"
 play,6,0,robed001,11,BCX,46(1)3/GDP
 play,6,0,lodup001,00,X,8/F8
 play,6,1,sandr002,00,,NP
@@ -11477,11 +11454,6 @@ play,9,0,dehak001,00,,NP
 sub,cresc001,"Cesar Crespo",0,4,12
 play,9,0,dehak001,32,BCBSBFS,K+SB2
 play,9,0,kingg001,32,BFCBBX,S8/8S.2-H
-com,"ej,baked002,M,hirsm901,Call at HP"
-com,"ej,righd001,C,hirsm901,Call at HP"
-com,"ej,santb001,P,hirsm901,Call at HP"
-com,"$Benito Santiago, Giants Manager Dusty Baker and Coach Dave"
-com,"Righetti ejected by HP umpire Mark Hirschbeck"
 play,9,0,villb001,00,,NP
 sub,buchb002,"Brian Buchanan",0,8,11
 play,9,0,buchb002,00,,NP
@@ -11757,7 +11729,6 @@ play,1,0,kotsm001,22,BSCFBX,5/P5
 play,1,0,klesr001,12,CSBX,5/P5
 play,1,1,loftk001,12,CBSX,S
 play,1,1,aurir001,21,BCBH,HP.1-2
-com,"$Pitch off Aurilia's arm, then hit him in mouth"
 play,1,1,kentj001,01,FX,8/F8.2-3
 play,1,1,bondb001,32,FBBBCB,W.1-2
 play,1,1,santb001,01,CX,E5/G.3-H;2-3;1-2
@@ -11767,8 +11738,6 @@ play,2,0,nevip001,20,BBX,S9
 play,2,0,gantr001,22,FBFBX,8/F8
 play,2,0,burrs001,12,CFBX,E3/TH.1-2
 play,2,0,kingg001,32,BBBCFX,31/G34/DP.2XH(15);1-2
-com,"$nice play by Snow on grounder; Nevin wandered past 3B"
-com,"and Hernandez got him trying to get back"
 play,2,1,belld002,00,X,S5/BG5
 play,2,1,hernl003,00,X,3/SH.1-2#
 play,2,1,loftk001,32,BBCCBFX,D9/9S.2-3

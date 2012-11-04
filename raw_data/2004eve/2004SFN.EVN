@@ -210,7 +210,6 @@ play,1,1,bondb001,30,BBBB,W
 play,1,1,alfoe001,02,CCF1X,64(1)/FO/G
 play,1,1,hammj001,32,B*BCFB>B,W.1-2
 play,1,1,piera001,12,CFBX,9/F
-com,"$Durham left with injured leg"
 play,2,0,jenkg001,00,,NP
 sub,ransc001,"Cody Ransom",1,1,4
 play,2,0,jenkg001,11,.FBX,7/F
@@ -269,8 +268,6 @@ play,7,0,grieb001,00,X,43/G
 play,7,1,snowj001,00,X,43/G
 play,7,1,grism001,00,X,63/G
 play,7,1,bondb001,12,BFFX,HR/9/F
-com,"$Bonds' homer #661 to pass Willie Mays"
-com,"for third place on the career list"
 play,7,1,alfoe001,22,BCSBX,43/G
 play,8,0,moelc001,00,X,8/F
 play,8,0,fordb002,00,,NP
@@ -671,7 +668,6 @@ play,5,0,hernj001,32,BBBCCX,S7/G
 play,5,0,coraa001,10,1BX,36(1)/FO/G.B-1
 play,5,0,limaj001,02,1MLX,24/SH/BG.1-2
 play,5,0,robed001,22,BCBCC,K
-com,"$Alex Cora left game with injured elbow"
 play,5,1,peren001,00,,NP
 sub,hernj001,"Jose Hernandez",0,7,4
 play,5,1,peren001,00,,NP
@@ -1505,7 +1501,6 @@ play,5,1,hammj001,31,BCBBX,7/L
 play,6,0,valdi001,00,,NP
 sub,franw001,"Wayne Franklin",1,9,1
 play,6,0,valdi001,00,.X,D7/L
-com,"originally scored as E7, changed on 0424"
 play,6,0,burrs001,22,BBFFX,8/F
 play,6,0,lorem001,32,FBFBBX,S8/L.2-3;B-2(TH)
 play,6,0,buchb002,10,BX,9/SF.3-H
@@ -2159,7 +2154,6 @@ play,7,1,peren001,22,CCFFBBX,8/L
 play,7,1,willj003,00,,NP
 sub,dallb001,"Brian Dallimore",1,9,11
 play,7,1,dallb001,01,.CX,63/G
-com,"Debut game for Brian Dallimore"
 play,8,0,pennb002,00,,NP
 sub,browj003,"Jim Brower",1,9,1
 play,8,0,pennb002,10,.BX,53/G
@@ -2199,7 +2193,6 @@ play,9,1,hammj001,00,.X,43/G.2-3
 play,9,1,tuckm001,00,,NP
 sub,gracf001,"Franklyn Gracesqui",0,9,1
 play,9,1,tuckm001,22,.BCBFS,K
-com,"Debut game for Franklyn Gracesqui"
 data,er,pennb002,3
 data,er,perim001,0
 data,er,waynj001,0
@@ -2823,7 +2816,6 @@ play,4,0,burrp001,00,X,S8/L
 play,4,0,liebm001,10,B1X,4/P
 play,4,0,belld002,00,,NP
 sub,franw001,"Wayne Franklin",1,9,1
-com,"$Williams left game with injured arm"
 play,4,0,belld002,31,1B1BB.CX,S7/L-.1-2
 play,4,0,utlec001,12,C*BFFX,S7/L.2-3;1-2
 play,4,0,millk004,22,BBCSFS,K
@@ -2848,13 +2840,10 @@ play,5,0,rollj001,22,B*BFFFX,8/F
 play,5,1,cruzd001,02,CFX,63/G
 play,5,1,peren001,32,BBBCSX,9/F
 play,5,1,walkt003,32,BCBCBX,31/G
-com,"$Thome injured thumb diving for ball, left next inning"
 play,6,0,abreb001,00,,NP
 sub,dallb001,"Brian Dallimore",1,2,5
 play,6,0,abreb001,00,,NP
 sub,felip001,"Pedro Feliz",1,5,3
-com,"$Snow left game with injured head - hit on ground"
-com,"chasing foul ball"
 play,6,0,abreb001,12,..BCFX,31/G
 play,6,0,thomj002,00,,NP
 sub,woots001,"Shawn Wooten",0,4,11
@@ -3118,10 +3107,6 @@ play,2,0,thomj002,01,CX,S7/F
 play,2,0,burrp001,20,BBX,D9/F.1-H
 play,2,0,michj001,32,CFBBBB,W
 play,2,0,utlec001,01,CX,43/G.2-3;1-2
-com,"ej,bowal001,M,barrt901,Balls and strikes"
-com,"Phillies Manager Larry Bowa ejected by HP umpire Ted Barrett;"
-com,"Bowa then ran onto the field to argue with Barrett and crew"
-com,"chief Rick Reed"
 play,2,0,pratt001,11,C.BX,9/SF.3-H;2-3
 play,2,0,padiv001,32,BBBCCX,S6/G.3-H
 play,2,0,byrdm001,01,CX,4(1)/FO/G
@@ -3789,8 +3774,6 @@ play,6,0,cinta001,32,FBBBCB,W
 play,6,0,gonzl001,10,BX,7/F
 play,6,1,grism001,32,BBBCCX,63/G
 play,6,1,bondb001,21,CBBX,HR/8/L
-com,"$a fan reached over the wall and interfered; disputed"
-com,"homer; Bonds' first in a month"
 play,6,1,felip001,32,BFBBCB,W
 play,6,1,hammj001,00,,NP
 sub,gooda001,"Andrew Good",0,9,1
@@ -3824,8 +3807,6 @@ play,9,0,cinta001,02,CCFX,S8/L-
 play,9,0,gonzl001,00,,NP
 sub,chrij002,"Jason Christiansen",1,9,1
 play,9,0,gonzl001,22,.BBCFC,K
-com,"ej,gonzl001,P,eddid901,Called third strike"
-com,"Luis Gonzalez ejected by HP umpire Doug Eddings"
 play,9,0,hills002,00,,NP
 sub,hergm001,"Matt Herges",1,9,1
 play,9,0,hills002,12,..CBSX,E5/TH/G.1X3(35)
@@ -4694,7 +4675,6 @@ play,4,0,menef001,22,CBBFX,S7/G
 play,4,0,batim001,02,L1SC,K
 play,4,1,tuckm001,00,,NP
 sub,riosa002,"Alexis Rios",0,4,8
-com,"$Wells left game with injured leg"
 play,4,1,tuckm001,30,.BBBB,W
 play,4,1,felip001,01,C*B,WP.1-2
 play,4,1,felip001,21,C*B.BX,T9/F.2-H
@@ -5532,11 +5512,6 @@ play,7,1,grism001,32,FBBF*BB,W
 play,7,1,bondb001,00,,NP
 sub,embra001,"Alan Embree",0,9,1
 play,7,1,bondb001,01,.CX,S7/F.2-3;1-2
-com,"ej,frant001,M,holbs901,Call at 3B"
-com,"Red SOx Manager Terry Francona ejected by 2B umpire Sam Holbrook;"
-com,"Bonds' fly fell between LF Kevin Millar and 3B Kevin Youkilis; Millar"
-com,"threw the ball to SS Nomar Garciaparra for an apparent force at 3B but"
-com,"Holbrook ruled the runner safe, prompting the argument"
 play,7,1,alfoe001,00,,NP
 sub,timlm001,"Mike Timlin",0,9,1
 play,7,1,alfoe001,11,..CBX,HR/78/F.3-H;2-H;1-H
@@ -5978,7 +5953,6 @@ play,5,0,robed001,12,BCFFX,S6/G-.2-2
 play,5,0,iztuc001,21,BBCX,3/G.2-3;1-2
 play,5,0,lodup001,11,BCX,6!3/G
 play,5,1,tuckm001,00,X,3!1/BG
-com,"$Michael Tucker collided with pitcher Jeff Weaver at the bag"
 play,5,1,grism001,10,BX,53/G
 play,5,1,bondb001,11,BCX,8!/L+
 play,6,0,belta001,21,SBBX,S9/L
@@ -6189,13 +6163,6 @@ play,8,1,tuckm001,22,BCSB,NP
 sub,martt003,"Tom Martin",0,9,1
 play,8,1,tuckm001,22,BCSB,NP
 sub,minod001,"Damon Minor",1,2,11
-com,"ej,gagne001,P,fleta901,Reaction to Michael Tucker's challenge"
-com,"ej,tuckm001,P,fleta901,Reaction to pitch from Eric Gagne"
-com,"$the fourth pitch was high and Michael Tucker hit the dirt; he"
-com,"stepped towards the mound, pointing at Eric Gagne, who walked"
-com,"towards Tucker; the pitch was over the plate and the Dodgers"
-com,"thought Tucker wildly overreacted; the benches cleared; Tucker"
-com,"and Gagne ejected"
 play,8,1,minod001,22,BCSB....FS,K
 play,8,1,grism001,22,CBCBFFFFX,9/F
 play,9,0,robed001,00,,NP
@@ -6619,8 +6586,6 @@ play,6,0,castr003,02,CFS,K
 play,6,0,muldm001,00,H,HP
 play,6,0,kotsm001,00,,NP
 sub,aardd001,"David Aardsma",1,9,1
-com,"ej,walkt003,P,fostm901,Intentional HBP"
-com,"Tyler Walker ejected by HP umpire Marty Foster"
 play,6,0,kotsm001,20,..BBX,DGR/8/F.1-3
 play,6,0,byrne001,02,FCX,HR/7/F.3-H;2-H
 play,6,0,hatts001,22,CBCBX,6/P
@@ -6650,9 +6615,6 @@ play,8,0,kotsm001,32,FBCFBFBX,6/P
 play,8,0,byrne001,21,C*BBH,HP
 play,8,0,hatts001,00,,NP
 sub,eyres001,"Scott Eyre",1,1,1
-com,"ej,rodrf002,P,fostm901,Intentional HBP"
-com,"ej,alouf101,M,fostm901,Intentional HBP"
-com,"Felix Rodriguez and Manager Felipe Alou ejected by HP umpire Marty Foster"
 play,8,0,hatts001,11,...CBX,9/F
 play,8,1,grism001,00,,NP
 sub,bradc001,"Chad Bradford",0,9,1
@@ -7682,7 +7644,6 @@ play,1,1,mohrd001,20,BBX,6/P
 play,2,0,gonzl001,22,CBSBX,5/P
 play,2,0,tracc001,32,CBBSFFFFBX,S5/G-
 play,2,0,hairs001,11,CBX,DGR/7.1-3
-com,"fan interference"
 play,2,0,olsot001,31,BBFBB,W
 play,2,0,hammr001,12,CBSFX,4!6(1)/FO/G-.3-H;2-3;B-1
 play,2,0,fossc001,02,FSS,K
@@ -7729,8 +7690,6 @@ play,6,0,tracc001,32,BBCCBB,W
 play,6,0,hairs001,02,CCC,K
 play,6,1,tuckm001,00,,NP
 sub,alomr001,"Roberto Alomar",0,6,4
-com,"ej,hairs001,P,dimum901,Called third strike"
-com,"Scott Hairston ejected by HP umpire Mike DiMuro"
 play,6,1,tuckm001,10,..BX,T9/F+.B-H(E9)(NR)
 play,6,1,schmj001,30,BBBB,W
 play,6,1,durhr001,22,C*BSFBX,7/F
@@ -7991,7 +7950,6 @@ play,1,1,cruzd001,21,BCBX,43/G-
 play,1,1,grism001,20,BBX,7/F
 play,2,0,aurir001,32,BFBCFBFB,W
 play,2,0,paytj001,12,CBF>X,6/P/DP.1X1(14)
-com,"$Appeal Play"
 play,2,0,quinh001,01,SX,8/F
 play,2,1,bondb001,31,BCBBX,D8/F+
 play,2,1,felip001,10,BX,HR/7/L+.2-H
@@ -8541,7 +8499,6 @@ play,7,1,durhr001,12,CCBFFX,4/P
 play,8,0,pujoa001,00,,NP
 sub,valdm003,"Merkin Valdez",1,9,1
 play,8,0,pujoa001,11,.CBX,D9/L
-com,"Debut game for Merkin Valdez"
 play,8,0,roles001,32,BBFFFFBX,9/L
 play,8,0,edmoj001,00,,NP
 sub,eyres001,"Scott Eyre",1,9,1
@@ -8808,8 +8765,6 @@ play,5,1,mohrd001,00,,NP
 sub,lopef001,"Felipe Lopez",0,4,6
 play,5,1,mohrd001,00,,NP
 sub,castj004,"Juan Castro",0,8,5
-com,"$Griffey left game as a precautionary measure; this was"
-com,"his first game back from a hamstring injury"
 play,5,1,mohrd001,11,....CBX,HR7/F/IPHR
 play,5,1,durhr001,01,CX,43/G
 play,5,1,tuckm001,02,CFC,K
@@ -8836,7 +8791,6 @@ play,6,1,tuckm001,00,,NP
 sub,nortp001,"Phil Norton",0,9,1
 play,6,1,tuckm001,32,.BCBB1FS,K
 play,6,1,snowj001,11,BFX,DGR/8/F/INT.1-H
-com,"$fan interference"
 play,6,1,bondb001,30,IIII,IW
 play,6,1,felip001,00,,NP
 sub,wagnr001,"Ryan Wagner",0,9,1
@@ -9248,7 +9202,6 @@ start,grism001,"Marquis Grissom",1,7,8
 start,cruzd001,"Deivi Cruz",1,8,6
 start,hennb001,"Brad Hennessey",1,9,1
 play,1,0,pattc001,12,CFBX,31/G
-com,"Debut game for Brad Hennessey"
 play,1,0,garcn001,21,BCBX,S7/L
 play,1,0,aloum001,21,*BBFX,7/F7LF
 play,1,0,sosas001,12,1CSBS,K
@@ -9299,7 +9252,6 @@ play,5,1,leder001,01,CX,8/F
 play,5,1,snowj001,11,BSX,13/G
 play,5,1,bondb001,00,X,9/F
 play,6,0,bakop001,11,SBX,DGR/7
-com,"$fan interference"
 play,6,0,maddg002,10,BX,54/SH/BG.2-3
 play,6,0,pattc001,00,X,HR/9/F.3-H
 play,6,0,garcn001,11,BFX,4/L
@@ -9364,7 +9316,6 @@ play,9,1,snowj001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,9,1
 play,9,1,snowj001,02,.CSFS,K
 play,9,1,bondb001,22,CBFFBFFX,DGR/9.B-2
-com,"$fan interference"
 play,9,1,alfoe001,10,BX,9/F
 play,9,1,torry001,22,BFBFFS,K
 data,er,maddg002,4
@@ -9484,7 +9435,6 @@ play,7,1,bondb001,00,,NP
 sub,merck001,"Kent Mercker",0,9,1
 play,7,1,bondb001,01,.C>X,43/G.1-3
 play,7,1,piera001,21,BBFX,34/G.3-H
-com,"Excellent job of covering by Grudzielanek"
 play,7,1,alfoe001,32,BBCSBFX,53/G
 play,8,0,martr003,10,BX,T7/
 play,8,0,merck001,00,,NP
@@ -9609,7 +9559,6 @@ play,4,0,chave002,32,BCBCBX,63/G
 play,4,1,felip001,11,BSX,S8/G
 play,4,1,bondb001,02,CFC,K
 play,4,1,piera001,11,1FB1X,DGR/7/F.1-3
-com,"$fan interference"
 play,4,1,grism001,00,X,D9/L.3-H;2-H
 play,4,1,tuckm001,10,BX,8/F.2-3
 play,4,1,cruzd001,30,IIII,IW
@@ -10276,7 +10225,6 @@ play,5,0,delgw001,01,SX,4/P
 play,5,0,tracs001,00,,NP
 sub,keppj001,"Jeff Keppinger",0,9,11
 play,5,0,keppj001,02,.CFX,63/G
-com,"Debut game for Jeff Keppinger"
 play,5,1,grism001,00,,NP
 sub,wheed001,"Dan Wheeler",0,9,1
 play,5,1,grism001,12,.BCFX,53/G
@@ -10522,7 +10470,6 @@ play,11,1,mohrd001,10,.BX,53/G
 play,11,1,torry001,01,CX,43/G
 play,11,1,corrk001,12,BSSFS,K
 play,12,0,wrigd002,02,CCX,DGR/78/L
-com,"$fan interference"
 play,12,0,wilsv001,01,FH,HP
 play,12,0,delgw001,22,LBSBX,FC1/SH/BG.2-3;1-2;B-1
 play,12,0,keppj001,01,CX,3(B)2(3)/GDP.2-3;1-2
@@ -10530,7 +10477,6 @@ play,12,0,stanm003,00,,NP
 sub,willg001,"Gerald Williams",0,1,11
 play,12,0,willg001,32,.BCBSB*B,W
 play,12,0,zeilt001,22,CSBBX,E9/F.3-H(NR)(UR);2-H(NR)(UR);1-3;BX2(936)
-com,"Mohr had trouble with ball in the sun"
 play,12,1,durhr001,00,,NP
 sub,fortb001,"Bartolome Fortunato",0,1,1
 play,12,1,durhr001,12,.BCFFS,K
@@ -10780,7 +10726,6 @@ play,5,1,mohrd001,10,.BX,8/F
 play,5,1,torry001,22,CSFBBFS,K
 play,6,0,heltt001,00,,NP
 sub,eyres001,"Scott Eyre",1,9,1
-com,"$Tomko left game with injured foot"
 play,6,0,heltt001,02,.CFFX,43/G-
 play,6,0,castv001,21,BBFX,HR/7/F
 play,6,0,burnj001,22,BSBSS,K
@@ -10799,7 +10744,6 @@ play,7,1,felip001,00,,NP
 sub,fuenb001,"Brian Fuentes",0,9,1
 play,7,1,felip001,12,.CFBX,S8/G
 play,7,1,bondb001,00,X,DGR/8/F.1-3
-com,"$fan interference"
 play,7,1,alfoe001,10,*BX,7/F
 play,7,1,grism001,30,BBII,IW
 play,7,1,mohrd001,22,BTFF*BX,3/G.3-H;2-3;1-2
@@ -11085,7 +11029,6 @@ play,5,1,durhr001,12,CCFBX,D7/L.2-H
 play,5,1,mohrd001,02,CFFFS,K
 play,5,1,felip001,00,,NP
 sub,torct001,"Tony Torcato",1,1,12
-com,"$Durham left game with injured hand"
 play,5,1,felip001,21,CBB2.X,S8/G.2-H
 play,5,1,bondb001,02,.CSF>C,K+CS2(25)/DP
 play,6,0,kennj001,00,,NP
@@ -11218,7 +11161,6 @@ play,2,0,bautd001,20,BBX,64(1)3/GDP
 play,2,1,alfoe001,21,BBCX,HR/7/F
 play,2,1,cruzd001,02,CCX,D7/L
 play,2,1,bondb001,20,BBX,HR/8/L+.2-H
-com,"$Bonds' 697th career homer"
 play,2,1,snowj001,32,BFFBBB,W
 play,2,1,piera001,00,,NP
 sub,durbc001,"Chad Durbin",0,9,1
@@ -11730,7 +11672,6 @@ play,3,0,gonza001,12,BCFX,43/G
 play,3,0,peavj001,22,CBSBS,K
 play,3,0,paytj001,12,CFBX,63/G
 play,3,1,bondb001,01,CX,HR/78/F
-com,"700th career homer for Bonds"
 play,3,1,snowj001,22,BBFFT,K
 play,3,1,piera001,11,BFX,8/F
 play,3,1,grism001,32,CBFBBFFB,W
@@ -12055,7 +11996,6 @@ play,8,0,longt002,10,.BX,HR/9/F.1-H
 play,8,0,paytj001,11,BCX,S3/BG
 play,8,0,lorem001,00,,NP
 sub,browj003,"Jim Brower",1,6,1
-com,"$Burba left game with injured neck"
 play,8,0,lorem001,00,..X,14/SH/BG.1-2
 play,8,0,gileb002,00,,NP
 sub,eyres001,"Scott Eyre",1,6,1
@@ -12079,7 +12019,6 @@ play,8,1,bondb001,30,..IIII,IW.1-2
 play,8,1,snowj001,00,,NP
 sub,ellij001,"Jason Ellison",1,3,12
 play,8,1,snowj001,02,.CFX,DGR/7/L.3-H;2-H;1-3
-com,"$fan interference"
 play,8,1,piera001,30,IIII,IW
 play,8,1,hermd001,12,SSBS,K
 play,8,1,grism001,21,*BBFX,13/G
@@ -12543,9 +12482,6 @@ play,9,0,berkl001,10,BX,HR/9/F.2-H;1-H
 play,9,0,kentj001,00,H,HP
 play,9,0,lambm001,00,,NP
 sub,chrij002,"Jason Christiansen",1,3,1
-com,"ej,hermd001,P,reilm901,Intentional HBP"
-com,"ej,alouf101,M,reilm901,Intentional HBP"
-com,"Dustin Hermanson and Manager Felipe Alou ejected by HP umpire Mike Reilly"
 play,9,0,lambm001,22,...CFFBBFX,S9/L.1-2
 play,9,0,brune001,00,,NP
 sub,browj003,"Jim Brower",1,3,1
@@ -12561,7 +12497,6 @@ play,9,1,felip001,00,,NP
 sub,berkl001,"Lance Berkman",0,4,8
 play,9,1,felip001,00,,NP
 sub,lanej001,"Jason Lane",0,8,9
-com,"$Beltran left game with injured groin"
 play,9,1,felip001,02,....FSS,K
 play,9,1,durhr001,00,X,S7/L
 play,9,1,tuckm001,02,CSFS,K
@@ -12824,7 +12759,6 @@ play,4,1,torct001,21,.BF1BX,8/SF.3-H
 play,4,1,durhr001,01,CX,D8/L+.1-H
 play,4,1,snowj001,00,,NP
 sub,stews003,"Scott Stewart",0,9,1
-com,"$Lima left game with injured hand"
 play,4,1,snowj001,22,.FBCBFS,K
 play,5,0,wertj001,00,,NP
 sub,walkt003,"Tyler Walker",1,9,1

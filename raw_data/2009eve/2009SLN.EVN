@@ -111,7 +111,6 @@ sub,mcclk001,"Kyle McClellan",1,8,1
 play,7,0,laroa002,00,,NP
 sub,freed001,"David Freese",1,9,5
 play,7,0,laroa002,00,..X,6/L
-com,"Debut game for David Freese"
 play,7,1,freed001,22,CBFBX,53/G
 play,7,1,ryanb002,10,BX,3/P
 play,7,1,ankir001,12,CBFFH,HP
@@ -222,7 +221,6 @@ play,1,0,doumr001,22,SBSBX,9/SF/F.3-H
 play,1,0,laroa001,10,BX,7/L
 play,1,1,schus001,32,CBFFBBX,7/F
 play,1,1,rasmc001,00,X,43/G
-com,"Debut game for Colby Rasmus"
 play,1,1,pujoa001,30,BBBB,W
 play,1,1,duncc002,21,CBBX,HR/9/F.1-H
 play,1,1,greek002,11,BCX,7/F
@@ -265,7 +263,6 @@ play,5,0,mossb001,12,.BFST,K
 play,5,1,moliy001,00,,NP
 sub,veald001,"Donald Veal",0,9,1
 play,5,1,moliy001,20,.BBX,HR/78/F
-com,"Debut game for Donald Veal"
 play,5,1,thurj001,02,CSS,K23
 play,5,1,lohsk001,22,BSBCS,K23
 play,5,1,schus001,31,BBBCB,W
@@ -1213,13 +1210,9 @@ play,8,0,churr001,00,X,13/SH/BG.1-2
 play,8,0,castr002,00,,NP
 sub,mottj001,"Jason Motte",1,9,1
 play,8,0,castr002,00,.X,9/F.2XH(52)
-com,"$Ryan Ludwick's throw from RF got away from 3B Joe Thurston and rolled towards the"
-com,"mound; Carlos Beltran tried to score but did not slide and was tagged out as he"
-com,"stepped on catcher Yadier Molina's foot"
 play,8,1,ryanb002,00,,NP
 sub,putzj001,"J.J. Putz",0,9,1
 play,8,1,ryanb002,00,.X,T7/L
-com,"$misplayed by LF Dan Murphy into a triple"
 play,8,1,ankir001,00,X,D9/L.3-H
 play,8,1,pujoa001,01,CX,9/F.2-3
 play,8,1,ludwr001,10,BX,7/SF/F.3-H
@@ -1647,7 +1640,6 @@ play,5,1,moliy001,00,,NP
 sub,milea001,"Aaron Miles",0,4,4
 play,5,1,moliy001,00,,NP
 sub,fontm001,"Mike Fontenot",0,6,5
-com,"Cubs third baseman Aramis Ramirez left the game due to an injured leg"
 play,5,1,moliy001,31,..BFB.BB,W
 play,5,1,greek002,11,CB1X,S7/G+.1-2
 play,5,1,thurj001,00,X,D9/L.2-H;1-H;B-3(TH)
@@ -1920,7 +1912,6 @@ play,1,0,fontm001,10,BX,63/G.3-H;2-3
 play,1,0,sotog001,11,BCX,3/P
 play,1,1,schus001,00,,NP
 sub,hoffm001,"Micah Hoffpauir",0,4,3
-com,"Cubs first baseman Derrek Lee left the game due to an injured neck/shoulder"
 play,1,1,schus001,12,.CCBFX,S8/L
 play,1,1,rasmc001,22,F1B1B1SS,K
 play,1,1,pujoa001,32,BCB1F*B*B,W.1-2
@@ -2160,9 +2151,6 @@ play,8,0,ibanr001,00,,NP
 sub,franr001,"Ryan Franklin",1,9,1
 play,8,0,ibanr001,22,.CBBCT,K
 play,8,0,felip001,11,CBX,8!/F
-com,"$Cardinals center fielder Rick Ankiel tumbled face-first into the wall after catching"
-com,"the fly ball by Pedro Feliz; he was taken to the hospital; x-rays and scans showed"
-com,"no broken bones"
 play,8,0,ruizc001,00,,NP
 sub,rasmc001,"Colby Rasmus",1,6,8
 play,8,0,ruizc001,01,.CX,8/F
@@ -2636,7 +2624,6 @@ play,8,1,laruj001,11,B1F1X,DGR/7/F.1-3
 play,8,1,boyeb001,00,,NP
 sub,robis001,"Shane Robinson",1,9,11
 play,8,1,robis001,32,.CSB*BBX,63/G
-com,"Debut game for Shane Robinson"
 play,9,0,hinse001,00,,NP
 sub,schus001,"Skip Schumaker",1,1,7
 play,9,0,hinse001,00,,NP
@@ -2859,7 +2846,6 @@ play,1,1,ryanb002,00,,NP
 sub,hallb001,"Bill Hall",0,1,5
 play,1,1,ryanb002,00,,NP
 sub,counc001,"Craig Counsell",0,2,4
-com,"Brewers second baseman Rickie Weeks left the game due to an injured hand/wrist"
 play,1,1,ryanb002,12,...BCFS,K
 play,1,1,robis001,12,FCBX,63/G
 play,1,1,pujoa001,32,BFBBFFB,W
@@ -2936,7 +2922,6 @@ play,8,0,kendj001,22,..CBCBX,S8/L-
 play,8,0,cofft001,00,X,23/SH/BG.1-2
 play,8,0,hallb001,32,BCCF*BBC,K
 play,8,0,counc001,22,CC*BBFX,DGR/9.2-H
-com,"fan interference"
 play,8,0,braur002,22,BC*BFX,E5/G+.2-3
 play,8,0,fielp001,00,X,43/G+
 play,8,1,stavn001,01,CX,7/F
@@ -3890,7 +3875,6 @@ play,4,1,ankir001,11,FBX,43/G
 play,4,1,moliy001,32,CBTBBFS,K
 play,4,1,thurj001,01,CX,23/G-
 play,5,0,olivm001,11,FBX,DGR/7
-com,"fan interference"
 play,5,0,bloow001,31,CBBBX,63/G.2-3
 play,5,0,bannb001,00,X,S9/L.3-H
 play,5,0,crisc001,01,FX,54(1)/FO/G
@@ -4026,7 +4010,6 @@ play,2,0,hernr002,20,BBX,63/G
 play,2,0,nix-l001,20,BBX,63/G
 play,2,1,thurj001,00,,NP
 sub,lincm001,"Mike Lincoln",0,9,1
-com,"Reds pitcher Edinson Volquez left the game due to numbness in the fingers of his pitching hand"
 play,2,1,thurj001,00,.X,DGR/9/L
 play,2,1,wellt002,00,X,54/SH/BG.2-3
 play,2,1,ryanb002,02,CFFX,3/G
@@ -4071,8 +4054,6 @@ play,6,0,gonza002,20,11BBX,8/F
 play,6,1,duncc002,32,SBSBFBC,K
 play,6,1,ankir001,00,X,E3/TH1/G
 play,6,1,laruj001,00,X,8/LDP.1X2(8634)
-com,"$Rick Ankiel had rounded second and failed to touch the bag on the way back"
-com,"to first; he was called out on appeal"
 play,7,0,hanir001,00,,NP
 sub,boyeb001,"Blaine Boyer",1,8,1
 play,7,0,hanir001,01,.CX,S7/G+
@@ -4363,7 +4344,6 @@ play,2,1,ryanb002,00,X,8/F
 play,3,0,cuetj001,21,BBCX,S1/BG
 play,3,0,hairj002,00,,NP
 sub,boyeb001,"Blaine Boyer",1,8,1
-com,"Cardinals pitcher Kyle Lohse left the game due to an injured arm"
 play,3,0,hairj002,32,1LBBB.CX,E5/FO/G.1-2
 play,3,0,dickc001,32,BFF*BBX,6(1)3/GDP.2-3
 play,3,0,philb001,00,X,S9/L.3-H(UR)
@@ -4683,7 +4663,6 @@ sub,toddj001,"Jess Todd",1,5,1
 play,7,0,atkig001,00,,NP
 sub,duncc002,"Chris Duncan",1,8,7
 play,7,0,atkig001,12,..CCBX,53/G
-com,"Debut game for Jess Todd"
 play,7,0,hawpb001,22,FBBFX,S8/G+.2-3
 play,7,0,stewi001,10,BX,HR/9/F.3-H;1-H
 play,7,0,smits002,22,CBFBS,K
@@ -4856,7 +4835,6 @@ sub,ryanb002,"Brendan Ryan",1,8,6
 play,8,0,heltt001,00,,NP
 sub,greet004,"Tyler Greene",1,9,5
 play,8,0,heltt001,11,...CBX,43/G
-com,"Debut game for Blake Hawksworth"
 play,8,0,tulot001,01,CX,63/G
 play,8,0,hawpb001,10,BX,8/F
 play,8,1,ryanb002,22,CBFBX,3/G-
@@ -6219,7 +6197,6 @@ play,6,1,schus001,12,CBSS,K
 play,7,0,uribj002,00,,NP
 sub,mortc003,"Clayton Mortensen",1,8,1
 play,7,0,uribj002,22,.BCBFX,D7/L
-com,"Debut game for Clayton Mortensen"
 play,7,0,linct001,01,LX,23/SH/BG-.2-3
 play,7,0,rowaa001,00,H,HP
 play,7,0,winnr001,32,FFBBBX,E4/TH/FO/G.3-H;1-3
@@ -7063,17 +7040,12 @@ start,pinej001,"Joel Pineiro",1,8,1
 start,ryanb002,"Brendan Ryan",1,9,6
 play,1,0,lopef001,21,BBCX,43/G
 play,1,0,drews001,00,X,13/G
-com,"$Jason Upton fouled the second pitch off the mask of HP umpire John Hirschbeck"
 play,1,0,uptoj001,22,FFBBX,9/F
-com,"umpchange,1,ump2b,(None)"
-com,"$2B umpire Marty Foster left the field to change into his plate gear"
 play,1,1,schus001,01,CX,3/G
 play,1,1,rasmc001,31,BBBCB,W
 play,1,1,pujoa001,22,BBFCS,K
 play,1,1,ludwr001,31,BC1B1BB,W.1-2
 play,1,1,duncc002,02,SCC,K
-com,"umpchange,2,umphome,fostm901"
-com,"$Marty Foster took over behind the plate and John Hirschbeck left the game"
 play,2,0,reynm001,01,FX,63/G
 play,2,0,montm001,32,BBCFBX,3/G
 play,2,0,parrg001,02,CFFX,S9/G
@@ -7612,7 +7584,6 @@ sub,mottj001,"Jason Motte",1,9,1
 play,12,0,furcr001,22,.CBCBX,8/F
 play,12,0,hudso001,02,FSS,K
 play,12,0,ramim002,22,BSBFX,DGR/7/L
-com,"fan interference"
 play,12,0,ethia001,30,IIII,IW
 play,12,0,blakc001,22,BFBFX,S9/L.2XH(92);1-2
 play,12,1,ryanb002,00,,NP
@@ -7621,8 +7592,6 @@ play,12,1,ryanb002,00,.X,9/F
 play,12,1,mottj001,00,,NP
 sub,thurj001,"Joe Thurston",1,9,11
 play,12,1,thurj001,01,.SX,13/G
-com,"$Thurston hit an apparent double, but was out on appeal for missing"
-com,"first base"
 play,12,1,lugoj001,12,CBSS,K
 play,13,0,lonej001,00,,NP
 sub,hawkb001,"Blake Hawksworth",1,9,1
@@ -7732,7 +7701,6 @@ play,2,1,moliy001,02,CFS,K
 play,2,1,ryanb002,12,MBSFFX,63/G
 play,3,0,kuroh001,00,,NP
 sub,lugoj001,"Julio Lugo",1,8,6
-com,"Cardinals shortstop Brendan Ryan left the game due to an injured foot/ankle"
 play,3,0,kuroh001,02,.CCX,31/G
 play,3,0,furcr001,32,BFBBCX,8/F
 play,3,0,hudso001,32,FBSBBFC,K
@@ -7742,7 +7710,6 @@ play,3,1,rasmc001,00,X,8/L
 play,4,0,ramim002,22,CBCFBX,63/G
 play,4,0,ethia001,00,X,7/F
 play,4,0,blakc001,11,CBX,2/INT
-com,"$Casey Blake called out for interfering with catcher Yadier Molina"
 play,4,1,pujoa001,11,BFX,53/G
 play,4,1,hollm001,00,X,HR/9/F
 play,4,1,ankir001,21,SBBX,8/F
@@ -7896,7 +7863,6 @@ start,derom001,"Mark DeRosa",1,7,5
 start,laruj001,"Jason LaRue",1,8,2
 start,boggm001,"Mitchell Boggs",1,9,1
 play,1,0,bourm001,11,CBX,DGR/7
-com,"fan interference"
 play,1,0,matsk001,00,X,14/SH/BG.2-3
 play,1,0,tejam001,11,CBX,S8/L-.3-H
 play,1,0,lee-c001,01,CX,7/F
@@ -8084,14 +8050,10 @@ badj,rodrw002,R
 play,5,0,rodrw002,00,X,36(1)/FO/BG
 play,5,0,bourm001,21,BCBX,6(1)/FO/G
 play,5,0,matsk001,00,F,CS2(16)
-com,"ej,bourm001,P,emmep901,Spiking helmet after call at 2B"
-com,"Astros center fielder Michael Bourn thought he was safe and threw his helmet"
-com,"to the ground; he was ejected by 2B umpire Paul Emmel"
 play,5,1,rasmc001,00,,NP
 sub,fulcj001,"Jeff Fulchino",0,1,1
 play,5,1,rasmc001,00,,NP
 sub,michj001,"Jason Michaels",0,9,8
-com,"Astros pitcher Wandy Rodriguez left the game due to an injured leg"
 play,5,1,rasmc001,01,...SX,7/F
 play,5,1,carpc002,02,CCS,K
 play,5,1,lugoj001,22,CCFBBX,S6/G
@@ -8351,7 +8313,6 @@ play,3,0,gonza002,31,BFBBX,S7/G+
 play,3,0,philb001,10,BX,64(1)/FO/G
 play,3,1,lohsk001,00,,NP
 sub,wellk001,"Kip Wells",0,9,1
-com,"Reds pitcher Johnny Cueto left the game due to an injured leg"
 play,3,1,lohsk001,12,.CBFFX,63/G-
 play,3,1,schus001,22,BCFFBS,K
 play,3,1,rasmc001,00,X,8/F
@@ -8648,7 +8609,6 @@ play,1,1,ryanb002,02,CS1X,S9/L.1-2
 play,1,1,pujoa001,32,SB*BFFB>X,S1/L+.2-H(E1/TH)(NR);1-H(NR);B-3
 play,1,1,hollm001,00,,NP
 sub,fishc001,"Carlos Fisher",0,9,1
-com,"Reds pitcher Homer Bailey left the game due to an injured foot/ankle"
 play,1,1,hollm001,02,.CFX,D8/F.3-H(UR)
 play,1,1,ludwr001,22,SB*BFS,K
 play,1,1,ankir001,01,CX,5/P5F
@@ -9174,7 +9134,6 @@ play,5,0,headc001,31,B*BBCX,9/F
 play,5,0,kouzk001,00,X,4/P
 play,5,1,hollm001,00,,NP
 sub,perdl001,"Luis Perdomo",0,9,1
-com,"Padres pitcher Edward Mujica left the game due to an injured knee"
 play,5,1,hollm001,32,.CBFBBFFX,8/F
 play,5,1,ludwr001,32,SFBFBBX,9/F9LF
 play,5,1,derom001,21,BCBX,S8/G+
@@ -10233,7 +10192,6 @@ play,7,0,hardj003,22,CCBBX,63/G
 play,7,0,loopb001,00,,NP
 sub,counc001,"Craig Counsell",0,9,11
 play,7,0,counc001,32,.FBBBLX,DGR/9/L
-com,"fan interference"
 play,7,0,lopef001,20,BBX,63/G
 play,7,0,geruj001,11,S*BX,43/G-
 play,7,1,pinej001,00,,NP
@@ -10868,9 +10826,6 @@ play,6,1,schus001,30,IIII,IW
 play,6,1,ryanb002,12,SS*BX,46(1)/FO/G
 play,7,0,mccab002,00,,NP
 sub,reyed001,"Dennys Reyes",1,9,1
-com,"ej,larut101,M,gibsg901,Balls and strikes"
-com,"Cardinals Manager Tony La Russa ejected by HP umpire Greg Gibson between innings"
-com,"for arguing balls and strikes"
 play,7,0,mccab002,10,..BX,S8/G
 play,7,0,andeg001,12,CFBX,6(1)3/GDP
 play,7,0,escoy001,32,CCBBBX,63/G
@@ -11565,7 +11520,6 @@ play,9,1,laruj001,32,.BFCBFFBFFB,W
 play,9,1,derom001,00,,NP
 sub,ryanb002,"Brendan Ryan",1,9,12
 play,9,1,derom001,10,.BX,DGR/7+.1-3
-com,"fan interference"
 play,9,1,ludwr001,00,,NP
 sub,nunel001,"Leo Nunez",0,2,1
 play,9,1,ludwr001,00,.H,HP
@@ -12031,11 +11985,6 @@ play,9,1,hollm001,00,,NP
 sub,carie001,"Esmailin Caridad",0,2,1
 play,9,1,hollm001,12,.CBSFH,HP.2-3;1-2
 play,9,1,ludwr001,10,BX,46(1)3/G/DP/INT
-com,"$the relay throw to first by Ryan Theriot was off the bag towards the plate side"
-com,"and Derrek Lee failed to tag Ryan Ludwick as Skip Schumaker scored from third;"
-com,"however, 2B umpire Marty Foster called Ludwick out because Matt Holliday slid into"
-com,"Theriot at 2B way to the right of the bag and was not close enough to touch the bag;"
-com,"this interference call on Holliday resulted in no game-winning run and extra innings"
 play,10,0,lee-d002,00,,NP
 sub,schus001,"Skip Schumaker",1,1,9
 play,10,0,lee-d002,00,,NP

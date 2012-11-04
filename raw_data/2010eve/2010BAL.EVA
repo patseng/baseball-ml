@@ -63,7 +63,6 @@ play,1,1,reimn001,30,BBBB,W.3-H;2-3;1-2
 play,1,1,atkig001,12,CBTX,64(1)3/GDP
 play,2,0,snidt001,00,,NP
 sub,lugoj001,"Julio Lugo",1,1,4
-com,"Orioles second baseman Brian Roberts left the game due to an injured side"
 play,2,0,snidt001,00,.X,S9/G
 play,2,0,mcdoj003,01,FX,64(1)3/GDP
 play,2,0,bautj002,00,X,3/P
@@ -1125,7 +1124,6 @@ play,2,0,jeted001,21,FBBX,9/SF/F.3-H
 play,2,0,johnn001,12,BCFC,K
 play,2,1,atkig001,00,,NP
 sub,cervf001,"Francisco Cervelli",0,6,2
-com,"Yankees catcher Jorge Posada left the game due to an injured knee"
 play,2,1,atkig001,01,.CX,S46/G
 play,2,1,reimn001,20,BBX,53/G.1-2
 play,2,1,montl001,10,BX,7/F
@@ -1423,8 +1421,6 @@ play,4,0,youkk001,32,BCBSBFX,64(1)3/GDP
 play,4,0,drewj001,32,BBCCBB,W
 play,4,0,ortid001,32,BSFBFFB>S,K
 play,4,1,tejam001,00,X,S8/L+.B-2(E8)
-com,"$the ball bounced past CF Darnell McDonald but was backed up by RF"
-com,"J.D. Drew"
 play,4,1,scotl001,31,BS*BBB,W
 play,4,1,wiggt001,32,FBBS*BX,E5/FO/G.2-H(NR)(UR);1-2
 play,4,1,hughr001,32,FFBFBBB,W.2-3;1-2
@@ -1454,11 +1450,6 @@ play,7,0,belta001,00,,NP
 sub,berkj001,"Jason Berken",1,0,1
 play,7,0,belta001,12,..CTBX,S8/L
 play,7,0,hermj001,12,CCBFX,64(1)3/G/DP/INT
-com,"$Red Sox runner Adrian Beltre slid on the left side of the 2B bag, close enough"
-com,"to easily touch it; his left arm was out and hit Ty Wigginton's legs; Wigginton's"
-com,"relay throw landed about 30 feet from 2B and bounced a few times as it went past"
-com,"1B to the stands; 2B umpire called runner interference on Beltre, so Hermida was"
-com,"out on the play; the Orioles had no chance to turn two on that grounder"
 play,7,0,mcdod002,30,BBBB,W
 play,7,0,scutm001,01,11CX,S9/L.1-3
 play,7,0,pedrd001,00,,NP
@@ -2650,7 +2641,6 @@ play,5,0,marsl001,21,BCBX,S7/G
 play,5,0,cabra002,10,BX,54(1)3/GDP
 play,5,0,sizeg001,00,,NP
 sub,crowt001,"Trevor Crowe",0,2,11
-com,"Indians center fielder Grady Sizemore left the game due to an injured knee"
 play,5,0,crowt001,01,.CX,6!3/G-
 play,5,1,tatuc001,00,,NP
 sub,crowt001,"Trevor Crowe",0,2,8
@@ -3250,7 +3240,6 @@ play,6,0,rosaa001,10,BX,S9/L.3-H;1-2
 play,6,0,fox-j001,00,,NP
 sub,mataf001,"Frank Mata",1,0,1
 play,6,0,fox-j001,20,.BBX,7/F.2-3;1-2(TH)
-com,"Debut game for Frank Mata"
 play,6,0,ellim001,11,BCX,8/FDP.3XH(82!)
 play,6,1,markn001,12,CBCX,6/L
 play,6,1,tejam001,10,BX,63/G
@@ -3537,8 +3526,6 @@ play,3,1,iztuc001,22,CBFBX,S9/L
 play,3,1,pattc001,00,1X,1/SH/BG.1-2
 play,3,1,tejam001,11,BCX,9/F
 play,3,1,markn001,32,CFBBBFX,5!/P
-com,"$Adrian Beltre and Jeremy Hermida collided as Beltre made the tumbling catch;"
-com,"Beltre's left knee was bruised and Hermida suffered a left forearm contusion"
 play,4,0,hallb001,12,BSFS,K+PB.B-1
 play,4,0,scutm001,00,X,S57/G+.1-2
 play,4,0,pedrd001,11,CBX,63/G.2-3;1-2
@@ -3559,7 +3546,6 @@ play,5,1,jonea003,00,,NP
 sub,mcdod002,"Darnell McDonald",0,8,8
 play,5,1,jonea003,00,,NP
 sub,hallb001,"Bill Hall",0,9,7
-com,"Red Sox right fielder Jeremy Hermida left the game due to a left arm contusion"
 play,5,1,jonea003,32,..CBFBFBFX,43/G
 play,5,1,moors001,02,CCX,63/G
 play,5,1,iztuc001,12,BCFFFC,K
@@ -3690,9 +3676,6 @@ play,5,1,lugoj001,00,X,54/SH/BG.2-3;1-2
 play,5,1,iztuc001,12,CFBX,5/P
 play,5,1,pattc001,00,X,43/G
 play,6,0,hallb001,10,BX,6/P
-com,"$on the fourth pitch, Marco Scutaro hit a fly down the LF line that was ruled"
-com,"foul as it curved just past the pole; acting crew chief Wally Bell watched"
-com,"the replay and upheld the call"
 play,6,0,scutm001,32,CBBFBC,K
 play,6,0,pedrd001,11,BCX,S7/G
 play,6,0,ortid001,10,B>B,SB2
@@ -4339,7 +4322,6 @@ start,moors001,"Scott Moore",1,8,4
 start,iztuc001,"Cesar Izturis",1,9,6
 start,arrij001,"Jake Arrieta",1,0,1
 play,1,0,jeted001,21,BBSX,43/G
-com,"Debut game for Jake Arrieta"
 play,1,0,swisn001,32,BBFBFX,5/P5F
 play,1,0,teixm001,22,CBFFBX,31/G
 play,1,1,pattc001,11,BCX,S8/L
@@ -5264,7 +5246,6 @@ play,3,1,jonea003,22,BFFBFX,D7/L.3-H;1-3
 play,3,1,fox-j001,00,,NP
 sub,sanaa001,"Alejandro Sanabia",0,0,1
 play,3,1,fox-j001,02,.FSS,K
-com,"Debut game for Alejandro Sanabia"
 play,3,1,tatuc001,02,CFS,K
 play,4,0,helmw001,32,BBCFBX,13/G-
 play,4,0,paulr001,21,BCBX,43/G
@@ -5299,7 +5280,6 @@ play,6,1,wiggt001,00,X,7/F
 play,6,1,scotl001,00,,NP
 sub,housj002,"James Houser",0,0,1
 play,6,1,scotl001,00,.X,D8/F.1-H
-com,"Debut game for James Houser"
 play,6,1,jonea003,22,SBCFBS,K+PB.2-3;B-1
 play,6,1,fox-j001,01,F>X,53/G
 play,7,0,cantj001,00,,NP
@@ -5593,8 +5573,6 @@ play,2,0,kenna001,22,C1BCBFX,4/P
 play,2,1,wietm001,00,X,S9/G
 play,2,1,moors001,12,BSCC,K
 play,2,1,lugoj001,22,FCFBBX,2/G/INT.1-1
-com,"$Julio Lugo's chopper bounced up at the plate and he kicked the ball"
-com,"as he left the batter's box"
 play,2,1,iztuc001,20,BBX,7/F
 play,3,0,desmi001,32,BCSBFBB,W
 play,3,0,morgn001,00,1X,13/SH/BG.1-2
@@ -6080,12 +6058,8 @@ play,4,0,suzuk001,31,BFBBX,E5/G
 play,4,0,kouzk001,00,X,7/F
 play,4,0,sweer001,32,CBBBS>X,S7/F.1-H(E7)(NR)(UR);B-2
 play,4,0,ellim001,12,FCFBX,S5/G+.2-2
-com,"$hard hit ball bounced off the glove of Miguel Tejada"
 play,4,0,grosg002,22,BBCSX,S9/G34.2-H;1-3(THH)
 play,4,0,pennc001,32,FB>FB*B>F>B,W.1-2;3-H(TH2)(NR)
-com,"$the Orioles thought ball four was a strike and Matt Wieters threw to"
-com,"2B; SS Cesar Izturis tagged Gabe Gross on the face but the pitch had"
-com,"been ball four; meanwhile, Mark Ellis ran home on the play"
 play,4,0,crisc001,00,X,HR/9/F.2-H;1-H
 play,4,0,bartd001,22,BCCBFX,8/F
 play,4,0,jackc002,22,CSBBFX,9/F9LF
@@ -6126,10 +6100,6 @@ play,7,1,wiggt001,01,CX,HR/7/F.1-H
 play,7,1,scotl001,00,,NP
 sub,bowec001,"Cedrick Bowers",0,0,1
 play,7,1,scotl001,01,.FX,HR/78/F
-com,"$Orioles designated hitter Luke Scott strained his left hamstring"
-com,"rounding 1B; he was not sure if the ball was going to clear the fence"
-com,"and wanted to get to 3B on the play; his leg cramped as he got to 1B"
-com,"and then pulled and he took his next step"
 play,7,1,jonea003,22,FBTBC,K
 play,7,1,wietm001,32,BFBBCX,S7/G
 play,7,1,moors001,32,BC1S*BB>B,W.1-2
@@ -6237,7 +6207,6 @@ play,2,0,davir003,20,>B.BX,4/P
 play,2,1,jonea003,22,CBBCX,63/G
 play,2,1,wietm001,11,FBX,7/F
 play,2,1,bellj004,31,BBFBX,43/G
-com,"Debut game for Josh Bell"
 play,3,0,bartd001,32,BCCBBFB,W
 play,3,0,kouzk001,22,BSB1FX,54(1)3/GDP
 play,3,0,suzuk001,30,BBBB,W
@@ -6257,7 +6226,6 @@ play,4,1,jonea003,12,1BCF1S,K
 play,5,0,bartd001,11,CBX,S9/G
 play,5,0,kouzk001,00,,NP
 sub,rosaa001,"Adam Rosales",0,2,12
-com,"Athletics first baseman Daric Barton left the game due to an injured knee"
 play,5,0,kouzk001,10,.B1,PO1(E3).1-2
 play,5,0,kouzk001,10,.B1.X,E5/TH1/G
 play,5,0,suzuk001,20,*BBX,64(1)/FO/G.2-3
@@ -6968,10 +6936,6 @@ start,arrij001,"Jake Arrieta",1,0,1
 play,1,0,zobrb001,32,BCBFFFBB,W
 play,1,0,crawc002,12,BM1C1X,4!6(1)/FO/G+
 play,1,0,longe001,00,1,PO1(13)
-com,"$Rays left fielder Carl Crawford was hit in the groin by the pick off"
-com,"throw; he does not wear a protective cup; he rolled on the ground and"
-com,"was tagged out; he left the game due to the injury, which was diagnosed"
-com,"as a testicular contusion"
 play,1,0,longe001,01,1.CX,9/L
 play,1,1,pie-f001,10,,NP
 sub,zobrb001,"Ben Zobrist",0,1,9
@@ -7397,25 +7361,10 @@ play,6,1,pie-f001,00,X,43/G.2-3
 play,6,1,tejam001,00,X,4/L
 play,6,1,markn001,22,BCCBFX,63/G
 play,7,0,hardj003,32,CFFBBBX,S56/G
-com,"ej,wiggt001,P,darlg901,Call at 1B; bumped umpire"
-com,"$on the first pitch to Nick Punto, J.J. Hardy ran to 2B on what appeared"
-com,"to be a miscommunication; when Orioles catcher Craig Tatum threw to 2B,"
-com,"Hardy returned to 1B; Orioles SS Cesar Izturis fielded Tatum's throw on"
-com,"the hop and relayed to 1B where Ty Wigginton tagged the runner twice;"
-com,"1B umpire Gary Darling called Hardy safe and Wigginton exploded; during"
-com,"his tirade, he touched Darling and was ejected; Orioles manager Juan"
-com,"Samuel had to work very hard to push Wigginton away from Darling"
 play,7,0,puntn001,00,,NP
 sub,fox-j001,"Jake Fox",1,5,3
 play,7,0,puntn001,31,>B..BBCX,43/G.1-2
 play,7,0,buted001,21,BCBX,S8/F.2-H
-com,"ej,kranr801,C,hohnb901,Bench jockeying; clapped sarcastically"
-com,"ej,samuj001,M,hohnb901,Arguing Kranitz ejection"
-com,"$as J.J. Hardy crossed the plate, Orioles pitching coach Rick Kranitz"
-com,"clapped sarcastically in the dugout; HP umpire Bill Hohn ejected Kranitz;"
-com,"manager Juan Samuel went out to talk to Hohn and was also ejected;"
-com,"Samuel went into a tirade, flinging his hat toward the mound before he"
-com,"left the field"
 play,7,0,spand001,00,,NP
 sub,gonzm001,"Mike Gonzalez",1,0,1
 play,7,0,spand001,12,...CBFX,S7/F-.1-2
@@ -7697,8 +7646,6 @@ play,7,0,valed001,01,.FX,D9/L.3-H
 play,7,0,hardj003,01,CX,S4/G-.2-3
 play,7,0,repkj001,01,F,NP
 sub,fox-j001,"Jake Fox",1,8,2
-com,"Orioles catcher Craig Tatum was stuck on the throwing hand by the ball, which"
-com,"deflected off the end of Jason Repko's bat"
 play,7,0,repkj001,01,F.X,D7/G.3-H;1-3
 play,7,0,spand001,01,CX,S16/G.3-H;2-3
 play,7,0,casia001,02,FFS,K
@@ -7934,7 +7881,6 @@ start,wietm001,"Matt Wieters",1,7,2
 start,bellj004,"Josh Bell",1,8,5
 start,iztuc001,"Cesar Izturis",1,9,6
 start,guthj001,"Jeremy Guthrie",1,0,1
-com,"$Buck Showalter's first game as Orioles manager"
 play,1,0,aybae001,00,X,8/L
 play,1,0,iztum001,01,CH,HP
 play,1,0,abreb001,10,B1X,7/F
@@ -7950,7 +7896,6 @@ play,2,1,jonea003,12,CCBS,K
 play,2,1,pie-f001,11,BCX,8/F
 play,3,0,napom001,02,CSC,K
 play,3,0,bourp001,10,BX,7/F
-com,"Debut game for Peter Bourjos"
 play,3,0,aybae001,02,LLX,3/G
 play,3,1,wietm001,22,CBCBFX,S8/L
 play,3,1,bellj004,22,BSBF1S,K
@@ -8142,7 +8087,6 @@ play,7,0,napom001,00,,NP
 sub,lugoj001,"Julio Lugo",1,1,4
 play,7,0,napom001,00,,NP
 sub,albem001,"Matt Albers",1,0,1
-com,"Orioles second baseman Brian Roberts left the game due to an injured ankle"
 play,7,0,napom001,31,...CBBBX,S7/L
 play,7,0,mathj001,32,BFBCBX,8/F
 play,7,0,bourp001,22,FFBBX,S5/G-.1-2
@@ -8156,7 +8100,6 @@ play,7,0,kendh001,11,C*B+1X,3/P3F
 play,7,0,rivej001,20,1*BBB,WP.3-H;1-2
 play,7,0,rivej001,30,1*BBB,NP
 sub,uehak001,"Koji Uehara",1,0,1
-com,"Orioles pitcher David Hernandez left the game due to an injured ankle"
 play,7,0,rivej001,31,1*BBB..CB,W
 play,7,0,napom001,01,CX,S6/G.2-3;1-2
 play,7,0,mathj001,00,,NP
@@ -8459,7 +8402,6 @@ play,8,0,lillb001,10,1BX,3/G
 play,8,1,robeb003,00,,NP
 sub,salec001,"Chris Sale",0,0,1
 play,8,1,robeb003,30,.BBBB,W
-com,"Debut game for Chris Sale"
 play,8,1,markn001,02,1C1CX,S8/L.1-2
 play,8,1,wiggt001,00,,NP
 sub,penat003,"Tony Pena",0,0,1
@@ -8724,7 +8666,6 @@ play,4,1,pie-f001,01,CX,6(1)3/GDP
 play,4,1,fox-j001,01,FX,7/F
 play,5,0,beckg001,00,,NP
 sub,lillb001,"Brent Lillibridge",0,9,11
-com,"White Sox second baseman Gordon Beckham left the game due to an injured groin"
 play,5,0,lillb001,01,.FX,8/F
 play,5,0,pierj002,11,CBH,HP
 play,5,0,vizqo001,11,1BT111>B,SB2
@@ -9338,8 +9279,6 @@ play,4,0,tuiam001,22,FBBCX,8/F
 play,4,1,scotl001,01,CX,8/F
 play,4,1,jonea003,12,BCCFS,K
 play,4,1,pie-f001,12,FLBX,2/G/INT
-com,"$Felix Pie called out for interfering with catcher Adam Moore on the ball"
-com,"hit right in front of the plate"
 play,5,0,wilsj003,00,X,S9/L
 play,5,0,suzui001,12,BFCX,D9/G+.1-H;B-3(E9)
 play,5,0,figgc001,02,CFX,7/SF/F.3-H(UR)
@@ -9624,14 +9563,9 @@ play,6,0,morem001,31,CBBBI,IW
 play,6,0,teagt001,00,X,64(1)/FO/G
 play,6,1,robeb003,10,BX,9/F
 play,6,1,lugoj001,22,BBCFX,53/G
-com,"$Orioles right fielder Nick Markakis objected to the first and second"
-com,"strike calls by HP umpire Jeff Nelson"
 play,6,1,markn001,12,BCCC,K
 play,7,0,blana001,00,,NP
 sub,pie-f001,"Felix Pie",1,3,9
-com,"ej,markn001,P,nelsj901,Balls and strikes"
-com,"$Orioles right fielder Nick Markakis argued with HP umpire Jeff Nelson"
-com,"after being called out on strikes and was ejected by Nelson"
 play,7,0,blana001,12,..BCFFX,43/G
 play,7,0,borbj001,01,CX,E6/G
 play,7,0,andre001,01,CX,36(1)/FO/G
@@ -9655,14 +9589,6 @@ play,8,1,iztuc001,10,BX,13/G
 play,8,1,bellj004,00,X,63/G
 play,9,0,andre001,00,,NP
 sub,albem001,"Matt Albers",1,0,1
-com,"ej,showb801,M,nelsj901,Balls and strikes"
-com,"$after the first two pitches to Rangers Elvis Andrus, HP umpire Jeff"
-com,"Nelson walked around to the front of the plate to clean it but talked"
-com,"to Orioles catcher Matt Wieters as he was doing so; Orioles Manager"
-com,"Buck Showalter, already upset about the earlier ejection of Nick"
-com,"Markakis, started yelling from the dugout; when Showalter came onto"
-com,"the field, he was ejected by Nelson; Showalter then exploded and had"
-com,"to be separated from Nelson by crew chief Jeff Kellogg"
 play,9,0,andre001,32,.BB.CBCX,63/G
 play,9,0,younm003,22,SBBSS,K
 play,9,0,hamij003,00,,NP
@@ -9798,9 +9724,7 @@ play,7,0,hamij003,22,F*BFBX,HR/8/F.2-H
 play,7,0,guerv001,12,FBSX,9/F
 play,7,1,wiggt001,00,,NP
 sub,kirkm001,"Michael Kirkman",0,0,1
-com,"Rangers pitcher Scott Feldman left the game due to an injured knee"
 play,7,1,wiggt001,12,.BFCFS,K
-com,"Debut game for Michael Kirkman"
 play,7,1,scotl001,32,BCSFBBC,K
 play,7,1,jonea003,02,SSS,K
 play,8,0,murpd005,00,,NP
@@ -10244,7 +10168,6 @@ play,7,1,markn001,22,...CBBFFFFX,7/F
 play,7,1,wiggt001,01,SX,S8/G
 play,7,1,jonea003,00,,NP
 sub,fox-j001,"Jake Fox",1,5,11
-com,"Orioles center fielder Adam Jones left the game due to an injured back"
 play,7,1,fox-j001,10,.BX,64(1)3/GDP
 play,8,0,mcdod002,00,,NP
 sub,fox-j001,"Jake Fox",1,5,7
@@ -10267,11 +10190,6 @@ play,9,1,robeb003,00,,NP
 sub,papej001,"Jonathan Papelbon",0,0,1
 play,9,1,robeb003,12,.CBCS,K
 play,9,1,lugoj001,32,BBCCBX,63/G
-com,"umpchange,9,umphome,barkl901"
-com,"umpchange,9,ump2b,(None)"
-com,"$Nick Markakis fouled off the 1-1 pitch and the ball hit HP umpire"
-com,"Tom Hallion on the left arm; Hallion left the game; an x-ray of his"
-com,"arm was negative; Lance Barksdale moved behind the plate"
 play,9,1,markn001,32,CBFFBBX,43/G
 data,er,lestj001,5
 data,er,bardd001,1
@@ -10669,10 +10587,6 @@ play,5,0,zobrb001,01,CX,36(1)/FO/G+
 play,5,0,crawc002,00,X,6/P
 play,5,1,wiggt001,00,X,9/F
 play,5,1,scotl001,02,CCX,D8/F78XDW
-com,"$Luke Scott's fly hit near the top of the padded wall in right"
-com,"center off an orange advertisement; it was ruled in play but the"
-com,"Orioles thought it was a home run; crew chief Tim Welke watched"
-com,"the replay and upheld his own call"
 play,5,1,pie-f001,00,,NP
 sub,hellj001,"Jeremy Hellickson",0,0,1
 play,5,1,pie-f001,01,.FX,DGR/8/F.2-H
@@ -11316,7 +11230,6 @@ start,pattc001,"Corey Patterson",1,8,10
 start,iztuc001,"Cesar Izturis",1,9,6
 start,bergb002,"Brad Bergesen",1,0,1
 play,1,0,wised001,12,CFBX,8/F
-com,"Debut game for Kyle Drabek"
 play,1,0,escoy001,22,CCBBX,53/G
 play,1,0,bautj002,01,SX,HR/78/F
 play,1,0,wellv001,32,BCFBBX,E5/G
@@ -11531,9 +11444,6 @@ play,9,0,jeted001,12,BFTC,K
 play,9,0,granc001,20,BBX,S9/F.1-2
 play,9,0,teixm001,11,BCX,5/P/IF
 play,9,0,rodra001,22,CBFBX,HR/7/F.2-H;1-H
-com,"$the fireworks technician thought the ball was caught for the last out"
-com,"of the game and an Orioles victory; he shot off the victory celebration"
-com,"which did not please the Orioles or their fans"
 play,9,0,canor001,00,,NP
 sub,gonzm001,"Mike Gonzalez",1,0,1
 play,9,0,canor001,00,.X,S9/L
@@ -11636,9 +11546,6 @@ play,4,0,jeted001,22,BBCFX,63/G.3-H
 play,4,0,swisn001,00,X,31/G
 play,4,1,jonea003,11,BFX,S9/L
 play,4,1,reimn001,11,1FBX,2/G/INT.1-1
-com,"$Nolan Reimold chopped the ball into the ground at the plate and then kicked"
-com,"it with his right foot as he moved; he was called out for being touched by"
-com,"his own batted ball"
 play,4,1,tatuc001,00,X,64(1)3/GDP
 play,5,0,berkl001,12,CBFX,7/F-
 play,5,0,rodra001,22,BBCFX,S8/G
@@ -12141,7 +12048,6 @@ play,3,0,damoj001,32,FBFBB>F>B,W.1-2
 play,3,0,boesb001,01,SX,4/P
 play,3,1,markn001,00,,NP
 sub,avila001,"Alex Avila",0,9,2
-com,"Tigers catcher Gerald Laird left the game due to an injured shoulder"
 play,3,1,markn001,02,.CFFFX,HR/9/F
 play,3,1,jonea003,12,FSBS,K
 play,3,1,fox-j001,02,SCX,63/G

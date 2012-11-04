@@ -286,7 +286,6 @@ play,8,0,morak001,01,CX,8/F
 play,8,1,branr001,00,,NP
 sub,rodrr006,"Rafael Rodriguez",0,0,1
 play,8,1,branr001,01,.CX,63/G
-com,"Debut game for Rafael Rodriguez"
 play,8,1,lopej003,01,CX,S9/L
 play,8,1,johnr009,10,BX,53/G.1-2
 play,8,1,betay001,10,BX,53/G
@@ -1522,7 +1521,6 @@ play,3,1,chave002,31,B11BBC>S,CS2(26)
 play,3,1,chave002,32,B11BBC>S.B,W
 play,3,1,grifk002,31,BCBBX,9!/F
 play,3,1,belta001,01,1SX,D8/L.1XH(862)
-com,"originally scored as single, changed to double after game."
 play,4,0,cabro001,10,BX,9/F
 play,4,0,giamj001,22,CBBCFFT,K
 play,4,0,hollm001,00,X,4/P
@@ -1648,8 +1646,6 @@ start,johjk001,"Kenji Johjima",1,7,2
 start,gutif001,"Franklin Gutierrez",1,8,8
 start,betay001,"Yuniesky Betancourt",1,9,6
 start,jakuc001,"Chris Jakubauskas",1,0,1
-com,"$This is umpire Derryl Cousins' 4,000th major league game; he is the 18th"
-com,"person to umpire 4,000 games"
 play,1,0,sweer001,11,BCX,S8/G
 play,1,0,cabro001,02,1FF1X,S6/G.1-2
 play,1,0,giamj001,21,BBFX,3/G.2-3;1-2
@@ -2093,7 +2089,6 @@ play,10,0,andre001,00,,NP
 sub,kells001,"Shawn Kelley",1,0,1
 play,10,0,andre001,21,.BSB,NP
 sub,stard001,"Denny Stark",1,0,1
-com,"Kelley left with strained oblique after 3 pitches"
 play,10,0,andre001,32,.BSB.BCFX,9/L
 play,10,0,younm003,32,BBBCFX,9/F
 play,10,0,jonea002,01,FX,S7/L
@@ -2507,11 +2502,8 @@ play,6,0,varij001,21,.BCBX,46(1)3/GDP
 play,6,1,branr001,12,FTBS,K
 play,6,1,balew001,21,BBFX,E6/G
 play,6,1,johnr009,00,1X,23/SH/BG/DP.1X3(36)
-com,"$Johnson's bunt rolled down the 1B line; Varitek threw to 1B to get Johnson but"
-com,"Balentien rounded second and started back to 1B thinking it was a foul ball."
 play,7,0,green001,00,,NP
 sub,johjk001,"Kenji Johjima",1,7,2
-com,"Mariners catcher Rob Johnson left the game due to an injured hand/wrist"
 play,7,0,green001,11,.CBX,53/G
 play,7,0,ellsj001,10,BX,8/F
 play,7,0,pedrd001,32,BCFBBB,W
@@ -2618,8 +2610,6 @@ play,1,1,balew001,32,CSB*BBX,7/SF/F.3-H
 play,1,1,branr001,32,SSBBB>F>S,K
 play,2,0,huntt001,32,BFBSBT,K
 play,2,0,napom001,11,BFX,S7/F.BX3(74)
-com,"$Napoli overslid base so did not reach and hold it safely."
-com,"Originally scored as double, but changed to single on 6-10-2009"
 play,2,0,quinr002,21,CBBX,43/G
 play,2,1,johjk001,00,X,S5/BG
 play,2,1,gutif001,12,BCFX,S9/L.1-2
@@ -2936,7 +2926,6 @@ play,2,1,johjk001,00,,NP
 sub,rivej001,"Juan Rivera",0,3,7
 play,2,1,johjk001,00,,NP
 sub,mattg002,"Gary Matthews",0,6,9
-com,"Angels left fielder Bobby Abreu left the game due to an injured foot/ankle"
 play,2,1,johjk001,01,..CX,13/G
 play,2,1,lopej003,01,CX,8/L
 play,2,1,betay001,01,CX,4/P
@@ -3928,10 +3917,6 @@ start,vargj001,"Jason Vargas",1,0,1
 play,1,0,robeb003,10,BX,7/F
 play,1,0,jonea003,01,CX,53/G+
 play,1,0,markn001,22,CBFBFFX,S9/G
-com,"$Aubrey Huff hit a fly down the RF line near the pole that was ruled a home run;"
-com,"the umpires huddled and changed the call to a foul ball and Orioles manager Dave"
-com,"Trembley came out to discuss the ruling; acting crew chief Mike Winters decided"
-com,"to watch the replay and upheld the foul call after a two-minute review"
 play,1,0,huffa001,31,BBF1BX,43/G
 play,1,1,suzui001,20,BBX,43/G
 play,1,1,branr001,32,CBBFBFB,W
@@ -4579,9 +4564,6 @@ play,4,1,johnr009,00,X,9/F
 play,4,1,betay001,00,>C,SB2
 play,4,1,betay001,22,>C.BSBX,9/F
 play,5,0,lopef001,12,CCBX,6/P
-com,"$Mariners SS Yuniesky Betancourt and LF Endy Chavez collided as Betancourt"
-com,"made a spectacular catch of the popup; Chavez was taken off the field on a"
-com,"a motorized cart with possible ligament damage to his right knee"
 play,5,0,drews001,00,,NP
 sub,balew001,"Wladimir Balentien",1,6,7
 play,5,0,drews001,22,.BBSSC,K
@@ -4769,7 +4751,6 @@ play,8,1,branr001,00,X,46(1)3/GDP.3-H(NR)(UR)
 play,8,1,ceder002,00,X,43/G
 play,9,0,lopef001,31,BCBBB,W
 play,9,0,drews001,01,CX,E4/G.1-3
-com,"DWS: this is 5E4 with advancement"
 play,9,0,uptoj001,20,BBX,S9/L.3-H(UR);1-2
 play,9,0,reynm001,00,,NP
 sub,aardd001,"David Aardsma",1,0,1
@@ -5038,7 +5019,6 @@ play,6,0,gonza003,00,X,43/G
 play,6,1,branr001,32,BBBCFFC,K
 play,6,1,belta001,02,CTFX,6/P
 play,6,1,grifk002,10,BX,HR/89/F
-com,"$the 5000th home run by the Mariners, appropriately hit by Ken Griffey"
 play,6,1,gutif001,22,BCSBX,5/P
 play,7,0,kouzk001,00,X,43/G
 play,7,0,headc001,32,CFBBFFBX,S8/L
@@ -5308,12 +5288,6 @@ play,3,0,blanh001,10,BX,S7/G+
 play,3,0,cabre001,01,CX,S8/L-.1-2
 play,3,0,ecksd001,00,X,53/G.2-3;1-2
 play,3,0,hairs001,32,BFFBBFFC,K
-com,"ej,hairs001,P,hudsm901,Balls and strikes"
-com,"ej,blacb001,M,hudsm901,Balls and strikes on Hairston"
-com,"$Scott Hairston started towards first after a 3-2 pitch that he thought was"
-com,"high and outside; HP umpire Marvin Hudson emphatically called him out on the"
-com,"pitch and Hairston yelled at Hudson, who ejected Hairston; Padres manager"
-com,"Bud Black was also ejected by Hudson"
 play,3,0,gonza003,22,..CBFBX,43/G
 play,3,1,gutif001,00,,NP
 sub,gwynt002,"Tony Gwynn",0,3,8
@@ -5356,7 +5330,6 @@ play,7,0,gonze003,00,,NP
 sub,jakuc001,"Chris Jakubauskas",1,0,1
 play,7,0,gonze003,01,.FX,HR/9/F
 play,7,0,blanh001,21,FBBX,DGR/7/L
-com,"fan interference"
 play,7,0,cabre001,30,BBBB,W
 play,7,0,ecksd001,00,,NP
 sub,lowem002,"Mark Lowe",1,0,1
@@ -5568,12 +5541,7 @@ play,1,0,wiggt001,12,BCSS,K
 play,1,0,huffa001,22,*BCSBS,K
 play,1,0,reimn001,32,FBF*BFB>B,W.2-3;1-2
 play,1,0,scotl001,02,CSX,S8/L-.3-H;2-H;1-3(E8/THH);B-2
-com,"$the throw by Franklin Gutierrez went into the stands; Orioles manager Dave Trembley"
-com,"argued that runner Nolan Reimold should be allowed to score"
 play,1,0,moram002,21,BBFX,7/F
-com,"ej,tremd801,M,hallt901,Arguing runner placement on error"
-com,"$Trembley went out again to argue with HP umpire Tom Hallion; Trembley tossed his hat"
-com,"and was ejected by Hallion"
 play,1,1,suzui001,20,.BBX,S8/L
 play,1,1,branr001,01,LX,8/F
 play,1,1,lopej003,32,C1BBF*B>F>X,53/G.1-2
@@ -6614,7 +6582,6 @@ play,2,1,hannj001,02,CCS,K
 play,2,1,johnr009,11,1B1CB,WP.1-2
 play,2,1,johnr009,32,1B1CB.FFBB,W
 play,2,1,saunm001,01,SX,6/P
-com,"Debut game for Michael Saunders"
 play,3,0,valbl001,12,CBFS,K
 play,3,0,cabra002,32,CBLBBB,W
 play,3,0,franb001,31,1BBCB1>C,SB2
@@ -6648,7 +6615,6 @@ play,5,0,gimec001,11,CBX,S9/L-
 play,5,0,valbl001,12,BCF1FX,7/L
 play,5,0,cabra002,32,B1BFBF>F>F>X,HR/9/F.1-H
 play,5,0,franb001,00,H,HP
-com,"$both benches emptied after Ben Francisco objected to being hit; both sides warned"
 play,5,0,choos001,00,,NP
 sub,olsog003,"Garrett Olson",1,0,1
 play,5,0,choos001,11,.SB>B,SB2
@@ -6688,13 +6654,9 @@ play,9,0,shopk001,32,.CBSBFFBFFF*B,W
 play,9,0,garkr001,00,X,64(1)/FO/G
 play,9,0,gimec001,10,BX,54(1)3/GDP
 play,9,1,hannj001,00,.H,HP
-com,"ej,abrew001,P,scotd901,Intentional HBP"
-com,"ej,wedge001,M,scotd901,Intentional HBP"
-com,"Indians pitcher Winston Abreu and manager Eric Wedge ejected by HP umpire Dale Scott"
 play,9,1,johnr009,00,,NP
 sub,veraj001,"Jose Veras",0,0,1
 play,9,1,johnr009,31,...BCBBX,DGR/9/F.1-H
-com,"fan interference"
 play,9,1,saunm001,10,BX,9/F.2-3
 play,9,1,ceder002,11,BCX,63/G.3-H
 play,9,1,suzui001,10,BX,D9/L
@@ -7610,7 +7572,6 @@ play,8,1,johnr009,00,X,2/P2F
 play,9,0,zobrb001,00,,NP
 sub,fistd001,"Doug Fister",1,0,1
 play,9,0,zobrb001,21,.BCBX,63/G
-com,"Debut game for Doug Fister"
 play,9,0,penac001,22,FBBFX,9/F
 play,9,0,burrp001,00,X,S8/L
 play,9,0,grosg002,01,FB,WP.1-2
@@ -8472,9 +8433,6 @@ play,1,1,grifk002,11,BCX,43/G.3-H;2-3
 play,1,1,branr001,22,SBS*BS,K
 play,1,1,hannj001,22,CBBSS,K
 play,2,0,posaj001,00,X,D8/F
-com,"$Jorge Posada's fly ball hit the top of the wall in right center and bounced"
-com,"back onto the field; it was ruled in play but Posada claimed that it was touched"
-com,"by a fan; crew chief Gerry Davis watched the replay and upheld the call"
 play,2,0,canor001,01,CX,3/G.2-3
 play,2,0,swisn001,31,CBBBB,W
 play,2,0,hairj002,12,LFBX,54(1)/FO/G.3-H
@@ -8538,7 +8496,6 @@ play,9,0,teixm001,11,CBX,HR/9/F
 play,9,0,matsh001,00,X,43/G
 play,9,0,posaj001,22,BBCFS,K
 play,9,0,canor001,22,BFFBX,DGR/7/F
-com,"fan interference"
 play,9,0,swisn001,20,BBX,S9/L-.2-H
 play,9,0,hairj002,00,,NP
 sub,kells001,"Shawn Kelley",1,0,1
@@ -9217,10 +9174,6 @@ play,5,1,branr001,22,*BBCFS,K
 play,6,0,davir003,32,BFFBBX,S56/G
 play,6,0,suzuk001,02,L1SX,HR/7/F.1-H
 play,6,0,hairs001,00,X,9/F
-com,"$Jack Cust hit the first pitch down the RF line and the ball struck a window at the top"
-com,"of a restaurant; it was called foul by 1B umpire and acting crew chief Mike Winters;"
-com,"Athletics manager Bob Geren asked if it went over the pole; Winters watched the replay"
-com,"and upheld the call as a foul ball"
 play,6,0,custj001,22,FSBBS,K
 play,6,0,ellim001,31,BBCBB,W
 play,6,0,sweer001,00,,NP
@@ -9504,7 +9457,6 @@ play,5,0,betay001,00,,NP
 sub,hallb001,"Bill Hall",1,6,5
 play,5,0,betay001,00,,NP
 sub,langr002,"Ryan Langerhans",1,8,9
-com,"Mariners first baseman Russell Branyan left the game due to an injured back"
 play,5,0,betay001,22,....CBFBFS,K
 play,5,0,andej004,21,BBCX,6/L
 play,5,0,dejed001,21,BCBX,S9/L
@@ -10455,7 +10407,6 @@ play,4,0,konep001,02,CSX,8/F
 play,4,0,ramia003,11,BSX,64(1)/FO/G
 play,4,1,belta001,00,,NP
 sub,carrd001,"D.J. Carrasco",0,0,1
-com,"White Sox pitcher Gavin Floyd left the game due to an injured foot/ankle"
 play,4,1,belta001,00,.X,63/G
 play,4,1,johjk001,31,CBBBX,63/G
 play,4,1,carpm001,01,CX,HR/89/F
@@ -10585,7 +10536,6 @@ play,3,0,konep001,01,CX,D7/F
 play,3,0,kotsm001,12,BSFX,S8/G.2-H;BX2(836)
 play,3,0,dye-j001,02,CFFS,K
 play,3,1,moora001,02,CFX,63/G
-com,"Debut game for Adam Moore"
 play,3,1,suzui001,31,BSBBX,9/F
 play,3,1,gutif001,32,CFBBBX,7/F
 play,4,0,ramia003,00,X,63/G

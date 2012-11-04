@@ -69,8 +69,6 @@ play,3,1,podss001,21,F*BBX,43/G.3-H;2-3
 play,3,1,iguct001,00,X,S7/L.3-H
 play,3,1,thomj002,00,,NP
 sub,gravd001,"Danny Graves",0,0,1
-com,"Indians pitcher Sabathia left the game due to an injured chest"
-com,"onto DL after game"
 play,3,1,thomj002,32,C.F*B*BB>B,W.1-2
 play,3,1,konep001,00,2,PO2(E1).2-3;1-2
 play,3,1,konep001,01,2.FX,9/SF.3-H
@@ -894,7 +892,6 @@ play,5,0,overl001,32,BBFFBB,W.3-H;2-3;1-2
 play,5,0,hills002,11,FBX,9/F
 play,5,0,molib001,22,BCBFFX,E4/G.3-H(NR)(UR);2-3;1-2
 play,5,0,hinse001,02,CSS,K
-com,"$game called for rain"
 data,er,towej001,5
 data,er,downs001,0
 data,er,garcf002,3
@@ -1104,7 +1101,6 @@ play,2,0,miend001,22,BBCSX,7/F
 play,2,0,browe001,22,BBCCC,K
 play,2,1,konep001,00,,NP
 sub,costs001,"Shane Costa",0,1,8
-com,"Royals center fielder David DeJesus left the game due to an injured leg"
 play,2,1,konep001,32,.BCBFFBX,53/G
 play,2,1,dye-j001,02,CCFX,3/P3F
 play,2,1,credj001,10,BX,5/L+
@@ -2465,8 +2461,6 @@ play,4,1,credj001,11,BFX,DGR/8/F
 play,4,1,mackr001,00,X,3/G
 play,5,0,germe001,00,X,53/G-
 play,5,0,grudm001,22,CFFBFFBFC,K
-com,"ej,bellb001,M,coope901,Balls and strikes"
-com,"Royals Manager Buddy Bell ejected by HP umpire Eric Cooper"
 play,5,0,graft001,32,CBCBBX,HR/7/F
 play,5,0,browe001,20,BBX,HR/89/F
 play,5,0,berra001,12,FSBS,K
@@ -3044,15 +3038,6 @@ play,2,1,piera001,32,FFBBFBB,W
 play,2,1,credj001,30,BBBB,W.1-2
 play,2,1,uribj002,31,BBFBB,W.2-3;1-2
 play,2,1,andeb003,11,CBX,7/SF.3-H;2-3(TH)
-com,"ej,piera001,P,relic901,Fight at HP"
-com,"ej,andeb003,P,relic901,Fight at HP"
-com,"ej,barrm003,P,relic901,Fight at HP"
-com,"ej,mabrj001,P,relic901,Fight at HP"
-com,"$as Barrett waited for the throw, Pierzynski ran him over"
-com,"then nudged Barrett after the latter got up; Barrett"
-com,"punched Pierzynski on the jaw and both benches cleared;"
-com,"Barrett, Pierzynski, Anderson and Mabry ejected by"
-com,"Reliford"
 play,2,1,podss001,00,,NP
 sub,peren001,"Neifi Perez",0,4,4
 play,2,1,podss001,00,,NP
@@ -3335,8 +3320,6 @@ play,2,0,chave001,01,CX,63/G
 play,2,0,thomf001,31,CBBBX,HR/7/F
 play,2,0,crosb002,11,CBX,HR/78/F
 play,2,0,paytj001,10,BX,D9/F
-com,"ej,guilo001,M,eddid901,Balls and strikes"
-com,"White Sox Manager Ozzie Guillen ejected by HP umpire Doug Eddings"
 play,2,0,johnd004,10,.BX,31/G.2-3
 play,2,0,scutm001,32,CBBFFBB,W
 play,2,0,kendj001,32,FBFFF*BB>X,63/G
@@ -3834,12 +3817,6 @@ play,2,1,credj001,01,CX,7/F
 play,2,1,gloar001,32,BSBFBFX,63/G
 play,2,1,uribj002,11,BFX,43/G
 play,3,0,kinsi001,02,CFS,K
-com,"$Kinsler swung and missed for strike 3 at a pitch which"
-com,"hit him in the right bicep. As written in rule 6.05(f), he"
-com,"is out. But the rule does not specify putout and in this"
-com,"case the ball rolled to the first baseman who made the play."
-com,"Apparently (according to MLB and STATS game totals), the"
-com,"putout went to the catcher and there was no assist."
 play,3,0,mattg002,00,X,S9/L
 play,3,0,younm003,20,BB1X,9/F
 play,3,0,teixm001,00,X,D9/L+.1-3
@@ -4313,7 +4290,6 @@ play,3,0,thamm001,21,CBB>B,SB2
 play,3,0,thamm001,31,CBB>B.X,3/P3F
 play,3,1,iguct001,00,,NP
 sub,wilsv001,"Vance Wilson",0,3,2
-com,"Tigers catcher Ivan Rodriguez left the game due to an injured back"
 play,3,1,iguct001,31,.BBBCX,63/G
 play,3,1,thomj002,00,H,HP
 play,3,1,konep001,00,X,S7/F-.1-2
@@ -4452,7 +4428,6 @@ play,3,1,podss001,11,C1*B1>B,SB2
 play,3,1,podss001,21,C1*B1>B.X,T7/F.2-H
 play,3,1,iguct001,00,,NP
 sub,gomea001,"Alexis Gomez",0,8,7
-com,"Tigers right fielder Craig Monroe left the game due to an injured foot/ankle"
 play,3,1,iguct001,32,.BCBFF*BS,K
 play,3,1,thomj002,00,X,31/G
 play,4,0,infao001,02,CSFX,53/G
@@ -4602,7 +4577,6 @@ play,4,0,ordom001,00,,NP
 sub,uribj002,"Juan Uribe",1,7,6
 play,4,0,ordom001,00,,NP
 sub,cinta001,"Alex Cintron",1,9,5
-com,"White Sox third baseman Joe Crede left the game due to an injured back"
 play,4,0,ordom001,10,..BX,53/G
 play,4,0,guilc001,32,F.BSBBS,K
 play,4,0,infao001,12,SBSX,7/F
@@ -5301,9 +5275,6 @@ play,7,0,tagus001,00,X,5/P
 play,7,0,duncc002,31,BFBBH,HP
 play,7,0,lunah001,00,,NP
 sub,cottn001,"Neal Cotts",1,0,1
-com,"ej,riskd001,P,everm901,Intentional HBP"
-com,"ej,guilo001,M,everm901,Intentional HBP"
-com,"White Sox pitcher David Riske & Mgr Ozzie Guillen ejected by HP umpire Mike Everitt"
 play,7,0,lunah001,32,...BBBCS>X,6/P
 play,7,1,uribj002,00,,NP
 sub,moliy001,"Yadier Molina",0,1,3
@@ -5430,12 +5401,10 @@ play,3,0,roles001,12,CFBX,5/P5F
 play,3,0,encaj001,12,BCFX,S9/L
 play,3,0,edmoj001,00,X,6/P
 play,3,1,credj001,11,BFX,HR/78/F
-com,"Edmonds crashed into the wall trying to catch the homer"
 play,3,1,mackr001,00,,NP
 sub,tagus001,"So Taguchi",0,2,8
 play,3,1,mackr001,00,,NP
 sub,peret004,"Timo Perez",0,5,7
-com,"Cardinals center fielder Jim Edmonds left the game with a mild concussion"
 play,3,1,mackr001,10,..BX,3/G
 play,3,1,uribj002,01,CX,63/G
 play,3,1,podss001,22,BCBCFC,K
@@ -5608,7 +5577,6 @@ play,7,0,lunah001,00,>B,SB2
 play,7,0,lunah001,11,>B.SX,9/F
 play,7,1,iguct001,10,BX,9/F
 play,7,1,thomj002,00,X,HR/9/F
-com,"Thome's homer is the only hit by the White Sox in a 1-0 game they won"
 play,7,1,konep001,10,BX,8/F
 play,7,1,dye-j001,02,FCC,K
 play,8,0,moliy001,01,FX,43/G
@@ -6098,7 +6066,6 @@ play,11,0,burkc001,01,SX,5(2)/FO/G.1-2
 play,11,1,ozunp001,12,BCMX,S5/G
 play,11,1,mackr001,00,,NP
 sub,uribj002,"Juan Uribe",1,7,12
-com,"White Sox third baseman Pablo Ozuna left the game due to an injured leg"
 play,11,1,mackr001,02,1C.OX,34/SH/BG.1-2
 play,11,1,cinta001,22,FFBFFBX,63/G.2-3
 play,11,1,podss001,10,BX,7/L+
@@ -6220,12 +6187,9 @@ play,4,1,konep001,22,CBC*BX,8/F
 play,4,1,dye-j001,01,CX,S9/L.1-2
 play,4,1,credj001,00,X,3/P
 play,5,0,hernr002,00,X,DGR/7
-com,"fan interference"
 play,5,0,millk005,00,X,4/P.2-3
 play,5,0,markn001,00,,NP
 sub,cinta001,"Alex Cintron",1,2,4
-com,"Iguchi suffered sprained ankle in collision with Dye on Millar's popup; Dye"
-com,"was kicked in the mouth and had a few cuts"
 play,5,0,markn001,20,.*BBX,S9/G.3-H
 play,5,0,robeb003,11,BC*B,SB2
 play,5,0,robeb003,32,BC*B.FFBB,W
@@ -6372,7 +6336,6 @@ play,3,1,konep001,12,FFBX,HR/78/F.3-H;1-H
 play,3,1,dye-j001,12,CSFFBS,K
 play,4,0,faheb001,00,,NP
 sub,mackr001,"Rob Mackowiak",1,7,5
-com,"White Sox third baseman Joe Crede left the game due to an injured arm"
 play,4,0,faheb001,12,.CBCFS,K
 play,4,0,moram002,32,FFBBBX,S9/F-
 play,4,0,tejam001,11,BFX,4/P-
@@ -7702,9 +7665,6 @@ start,mackr001,"Rob Mackowiak",1,7,8
 start,cinta001,"Alex Cintron",1,8,6
 start,gloar001,"Ross Gload",1,9,3
 start,garlj001,"Jon Garland",1,0,1
-com,"Rangers managed by bench coach Don Wakamatsu when Buck Showalter missed the"
-com,"game because of an irregular heartbeat brought on by dehydration; Showalter"
-com,"was expected to spend the night in the hospital"
 play,1,0,mattg002,12,BCCFX,43/G
 play,1,0,kinsi001,01,CX,63/G
 play,1,0,younm003,32,BFSFFBBS,K
@@ -8528,7 +8488,6 @@ play,10,0,abreb001,12,CCBS,K
 play,10,0,rodra001,32,BCBCBB,W
 play,10,0,giamj001,00,,NP
 sub,willb002,"Bernie Williams",0,5,11
-com,"Yankees designated hitter Jason Giambi left the game due to an injured elbow"
 play,10,0,willb002,00,.>S,SB2
 play,10,0,willb002,02,.>S.FS,K
 play,10,1,andeb003,00,,NP
@@ -8637,7 +8596,6 @@ play,4,1,iguct001,00,,NP
 sub,abreb001,"Bobby Abreu",0,3,8
 play,4,1,iguct001,00,,NP
 sub,wilsc003,"Craig Wilson",0,8,9
-com,"Yankees center fielder Johnny Damon left the game due to an injured groin"
 play,4,1,iguct001,10,...BX,9/F
 play,4,1,thomj002,12,BCCFC,K
 play,4,1,konep001,22,.BCSFBFC,K
@@ -8825,8 +8783,6 @@ play,6,0,abreb001,22,BFCFFBX,S9/G.1-3
 play,6,0,rodra001,00,,NP
 sub,mccab001,"Brandon McCarthy",1,0,1
 play,6,0,rodra001,21,.CBBX,6/P
-com,"ej,guilo001,M,coope901,Call at 1B"
-com,"White Sox Manager Ozzie Guillen ejected by 1B umpire Eric Cooper"
 play,6,0,giamj001,02,.CF>B,SB2
 play,6,0,giamj001,12,.CF>B.S,K
 play,6,1,credj001,11,FBX,53/G
@@ -9055,7 +9011,6 @@ play,1,1,thomj002,00,X,8/F
 play,2,0,ordom001,22,BFSBS,K
 play,2,0,guilc001,12,FBFS,K
 play,2,0,monrc001,00,X,DGR/7/L
-com,"fan interference"
 play,2,0,thamm001,22,BBSFS,K
 play,2,1,konep001,11,SBX,4/P
 play,2,1,dye-j001,01,CX,3/G
@@ -9259,8 +9214,6 @@ sub,mackr001,"Rob Mackowiak",1,1,7
 play,8,0,rodri001,00,,NP
 sub,macdm001,"Mike MacDougal",1,0,1
 play,8,0,rodri001,12,..SBFC,K
-com,"ej,rodri001,P,timmt901,Called third strike"
-com,"Tigers catcher Ivan Rodriguez ejected by HP umpire Tim Timmons"
 play,8,0,ordom001,00,.X,S8/G
 play,8,0,guilc001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
@@ -9381,7 +9334,6 @@ sub,peraj002,"Joel Peralta",0,0,1
 play,4,1,konep001,00,.X,7/F
 play,5,0,berra001,00,,NP
 sub,gloar001,"Ross Gload",1,5,9
-com,"White Sox right fielder Jermaine Dye left the game due to an injured leg"
 play,5,0,berra001,00,.X,53/G
 play,5,0,gathj001,11,CBX,S7/G
 play,5,0,dejed001,00,.X,16(1)3/GDP
@@ -9527,7 +9479,6 @@ play,5,0,dejed001,32,BBBCCS,K
 play,5,1,credj001,02,CTX,8/F
 play,5,1,uribj002,11,SBX,S5/G
 play,5,1,andeb003,31,1BBBCX,DGR/7.1-3
-com,"fan interference"
 play,5,1,podss001,31,F*BB*BX,8/SF.3-H
 play,5,1,iguct001,12,CSBX,S8/G.2-H
 play,5,1,thomj002,01,SX,D9/L.1XH(942)
@@ -9650,7 +9601,6 @@ play,3,0,grudm001,11,CBX,HR/7/F.2-H;1-H
 play,3,0,teahm001,02,CCFX,3/G
 play,3,0,browe001,20,BBX,D7/L
 play,3,0,sandr002,00,X,DGR/7.2-H
-com,"fan interference"
 play,3,0,shear001,00,X,HR/7/F.2-H
 play,3,0,bakop001,00,X,7/F
 play,3,1,cinta001,22,CFBBX,S9/L-
@@ -10025,7 +9975,6 @@ sub,cinta001,"Alex Cintron",1,2,11
 play,9,1,cinta001,02,.CF11,PO1(E1).1-2
 play,9,1,cinta001,22,.CF11.FF*BBC,K
 play,9,1,dye-j001,02,CSX,3/P3F
-com,"fan interference"
 data,er,radkb001,3
 data,er,guerm001,0
 data,er,neshp001,1
@@ -10670,7 +10619,6 @@ play,9,0,paulj001,00,,NP
 sub,navad001,"Dioner Navarro",0,9,11
 play,9,0,navad001,12,.CFFBS,K
 play,9,0,baldr001,21,BBFX,9/LDP.1X2(936)
-com,"$Appeal play"
 data,er,corct002,1
 data,er,miced001,0
 data,er,meadb001,3
@@ -11344,8 +11292,6 @@ sub,cabrf002,"Fernando Cabrera",0,0,1
 play,8,1,stewc001,22,.BBCFS,K
 play,8,1,uribj002,12,SBFS,K
 play,8,1,cinta001,12,FSFFBX,9/F
-com,"ej,wedge001,M,wendh902,Balls and strikes"
-com,"Indians Manager Eric Wedge ejected by HP umpire Hunter Wendelstedt"
 play,9,0,shopk001,32,B.CSBBC,K
 play,9,0,garkr001,22,CSBBX,8/F
 play,9,0,choos001,00,,NP
@@ -12188,7 +12134,6 @@ play,2,0,belta001,02,1>C.SS,K
 play,2,0,johjk001,32,BBFS*BX,E3/TH/G.2-H(NR)(UR);B-2
 play,2,0,ibanr001,00,,NP
 sub,mccab001,"Brandon McCarthy",1,0,1
-com,"White Sox pitcher Jose Contreras left the game due to an injured leg"
 play,2,0,ibanr001,22,.F*BFBS,K
 play,2,1,piera001,10,BX,D9/L
 play,2,1,fielj001,02,SFFX,43/G.2-3

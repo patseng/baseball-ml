@@ -1000,9 +1000,7 @@ play,5,1,hawpb001,12,FBCFX,43/G
 play,5,1,barmc001,01,CX,S7/L
 play,5,1,torry001,00,>B,CS2(24)
 play,6,0,wertj001,12,BCFX,HR8/F/IPHR
-com,"$the ball caromed off the CF wall past Taveras"
 play,6,0,utlec001,22,BCS*BX,HR/9/F
-com,"$fifth consecutive game for a homer by Utley; tied team record"
 play,6,0,howar001,00,,NP
 sub,hergm001,"Matt Herges",1,9,1
 play,6,0,howar001,11,.BSX,8/F
@@ -1236,7 +1234,6 @@ play,9,0,felip001,21,.CBBX,13/G
 play,9,0,madsr001,00,,NP
 sub,harmb001,"Brad Harman",0,7,11
 play,9,0,harmb001,31,.BFBBX,6/P
-com,"Debut game for Brad Harman"
 play,9,1,barmc001,00,,NP
 sub,bohnt001,"T.J. Bohn",0,5,7
 play,9,1,barmc001,00,,NP
@@ -2186,7 +2183,6 @@ play,6,0,waina001,12,.BCCC,K
 play,6,1,iannc001,00,,NP
 sub,parim001,"Mike Parisi",0,8,1
 play,6,1,iannc001,11,.CBX,53/G
-com,"Debut game for Mike Parisi"
 play,6,1,herrj002,11,CBX,53/G
 play,6,1,hergm001,12,FSBC,K
 play,7,0,milea001,02,CFX,7/F
@@ -2244,7 +2240,6 @@ sub,fuenb001,"Brian Fuentes",1,9,1
 play,9,0,kenna001,11,...BCX,43/G
 play,9,0,pujoa001,12,CSBX,D9/L
 play,9,0,ankir001,12,BFC>X,43/G/R32.2-H
-com,"$Pujols was running on the pitch to Ankiel and beat the throw home"
 play,9,0,ryanb002,12,CBSS,K
 play,9,1,hollm001,00,,NP
 sub,isrij001,"Jason Isringhausen",0,6,1
@@ -3622,7 +3617,6 @@ play,10,0,winnr001,30,IIII,IW
 play,10,0,walkt003,00,,NP
 sub,denkt001,"Travis Denker",0,4,11
 play,10,0,denkt001,12,.CCBX,7/F
-com,"Debut game for Travis Denker"
 play,10,1,heltt001,00,,NP
 sub,wilsb001,"Brian Wilson",0,4,1
 play,10,1,heltt001,32,.CCBBFBC,K
@@ -3901,7 +3895,6 @@ play,1,0,tatif001,22,C*BBFFX,S7/G.2-3
 play,1,0,delgc001,22,SBSBS,K
 play,1,0,castr002,10,BX,S9/G.3-H;1-2
 play,1,0,evann001,00,X,D9/F.2-H;1-3
-com,"Debut game for Nick Evans"
 play,1,0,vargc001,00,X,4/L
 play,1,0,reyej001,22,CBBCX,3/G
 play,1,1,podss001,11,CBX,7/F-
@@ -4717,7 +4710,6 @@ play,8,0,molib001,00,,NP
 sub,corpm001,"Manuel Corpas",1,9,1
 play,8,0,molib001,10,.BX,63/G.3-H
 play,8,0,rowaa001,00,X,DGR/9/F/INT
-com,"fan interference"
 play,8,0,aurir001,02,CSFFX,53/G
 play,8,0,denkt001,12,CSF*BX,8/F
 play,8,1,corpm001,00,,NP
@@ -5291,7 +5283,6 @@ play,3,1,quino001,22,BFCBFX,S8/G
 play,3,1,reyng001,00,X,26(1)/FO/BG
 play,3,1,tavew001,11,BSX,56(1)/FO/BG
 play,3,1,bakej001,00,X,HR8/F/IPHR.1-H
-com,"$the ball hit off the right CF wall and got by Grady Sizemore"
 play,3,1,hollm001,11,CBX,9/F
 play,4,0,carrj001,22,CBBCFX,6/P
 play,4,0,franb001,20,BBX,6/L
@@ -5303,7 +5294,6 @@ play,4,1,hawpb001,22,FBC*BX,HR/7/F.1-H
 play,4,1,iannc001,22,BBFFX,9/F
 play,4,1,quino001,12,CBFFX,S9/F
 play,4,1,reyng001,00,X,DGR/9/INT.1-3
-com,"fan interference"
 play,4,1,tavew001,12,CBFC,K
 play,5,0,peraj001,21,BSBX,T9/F
 play,5,0,blakc001,00,X,8/SF/F.3-H
@@ -5353,7 +5343,6 @@ sub,bakej001,"Jeff Baker",1,2,3
 play,8,0,carrj001,00,,NP
 sub,bernd001,"Doug Bernier",1,4,4
 play,8,0,carrj001,02,..CCX,T8/F
-com,"Debut game for Doug Bernier"
 play,8,0,franb001,00,X,53/G
 play,8,0,garkr001,00,X,9/SF/F.3-H
 play,8,0,choos001,11,CBH,HP
@@ -5762,7 +5751,6 @@ play,6,1,hawpb001,00,X,8/F
 play,6,1,tulot001,12,CCBFX,53/G
 play,7,0,wrigd002,12,SBFX,53/G
 play,7,0,beltc001,00,X,D7/L
-com,"Originally scored S and E7, changed to D next day"
 play,7,0,delgc001,01,SX,43/G.2-3
 play,7,0,nixot001,10,BX,8/F
 play,7,1,torry001,21,BBCX,S9/L
@@ -6369,7 +6357,6 @@ play,6,0,bankj001,00,,NP
 sub,podss001,"Scott Podsednik",1,1,8
 play,6,0,bankj001,00,,NP
 sub,mcanp001,"Paul McAnulty",0,9,11
-com,"Rockies center fielder Willy Taveras left the game due to an injured leg"
 play,6,0,mcanp001,12,..FBFX,43/G
 play,6,0,geruj001,01,CX,6/P
 play,6,0,gonze003,20,BBX,53/G
@@ -6476,8 +6463,6 @@ play,2,1,atkig001,20,BBX,HR/8/F.2-H;1-H
 play,2,1,bakej001,00,X,9/L
 play,3,0,barrm003,12,CCFFBF,NP
 sub,carll001,"Luke Carlin",0,8,11
-com,"$Barrett fouled pitch into his face and broke nose. He"
-com,"was admitted to hospital."
 play,3,0,carll001,22,CCFFBF.FBFX,5/P
 play,3,0,wolfr001,02,.CCC,K
 play,3,0,geruj001,22,CBFBX,6/P
@@ -6516,7 +6501,6 @@ play,6,1,tulot001,12,CCBX,43/G
 play,6,1,jimeu001,11,FBX,53/G
 play,6,1,spilr001,02,CFC,K
 play,7,0,headc001,32,BCCBFBFFH,HP
-com,"$Headley hit on back of right hand"
 play,7,0,greek002,12,CBFFS,K
 play,7,0,carll001,32,FBSBFBB,W.1-2
 play,7,0,coreb001,00,,NP
@@ -6538,7 +6522,6 @@ sub,bakej001,"Jeff Baker",1,5,3
 play,8,0,gonze003,00,,NP
 sub,quino001,"Omar Quintanilla",1,9,4
 play,8,0,gonze003,32,...CCBBFBX,53/G
-com,"Debut game for Cedrick Bowers"
 play,8,0,gileb002,02,CCX,S7/L
 play,8,0,gonza003,20,BBX,46(1)3/GDP
 play,8,1,hawpb001,00,,NP
@@ -6812,7 +6795,6 @@ play,2,0,ramih003,11,BFX,S7/G
 play,2,0,hermj001,20,1BB1X,7/F
 play,2,0,cantj001,21,PBF1>X,S7/L.1-2
 play,2,0,willj004,00,X,DGR/7/INT.2-H;1-H
-com,"fan interference"
 play,2,0,jacom001,31,BBBCB,W
 play,2,0,rossc001,00,,NP
 sub,bowec001,"Cedrick Bowers",1,9,1
@@ -7204,7 +7186,6 @@ play,5,0,hermj001,12,CFBX,13/G
 play,5,1,barmc001,00,,NP
 sub,volsc001,"Chris Volstad",0,9,1
 play,5,1,barmc001,00,.X,63/G
-com,"Debut game for Chris Volstad"
 play,5,1,hollm001,20,BBX,S7/G
 play,5,1,atkig001,22,C1BS11BX,9/F
 play,5,1,bakej001,11,B1F>B,SB2
@@ -8447,13 +8428,11 @@ play,6,0,reddt001,00,1X,13/SH/BG.1-2
 play,6,0,bonie001,00,B,WP.2-3
 play,6,0,bonie001,00,,NP
 sub,orr-p001,"Pete Orr",0,8,12
-com,"Nationals shortstop Alberto Gonzalez left the game due to an injured leg"
 play,6,0,bonie001,10,B..X,T9/F.3-H
 play,6,0,harrw001,22,BBCCFX,S8/L.3-H
 play,6,0,milll002,00,,NP
 sub,regis001,"Steven Register",1,9,1
 play,6,0,milll002,12,.1SF1FB1>FS,K
-com,"Debut game for Steven Register"
 play,6,1,atkig001,00,,NP
 sub,orr-p001,"Pete Orr",0,8,6
 play,6,1,atkig001,20,.BBX,S7/L
@@ -8566,8 +8545,6 @@ play,1,1,bakej001,20,BBX,53/G
 play,1,1,hollm001,10,BX,7/F
 play,2,0,keara001,01,FX,S9/L
 play,2,0,milll002,00,X,S3/BG.1-3(E3/TH1);BX2(16)
-com,"$Atkins made an ill-advised throw that got past de la Rosa and Milledge"
-com,"made an ill-advised attempt to advance to 2B"
 play,2,0,florj002,10,BX,9/SF/F.3-H
 play,2,0,bellr002,10,BX,S8/L
 play,2,0,langr002,01,CX,13/G+
@@ -10165,7 +10142,6 @@ play,6,0,bakop001,02,CCFFS,K
 play,6,1,atkig001,21,BCBX,S8/G
 play,6,1,stewi001,12,CS1BX,36(1)/FO/G
 play,6,1,bakej001,32,BBBCF>S,K/DP.1X1(2)
-com,"$Ian Stewart out because Jeff Baker was called for batter interference"
 play,7,0,volqe001,00,,NP
 sub,phila001,"Andy Phillips",0,9,11
 play,7,0,phila001,32,.BBBCFFX,63/G
@@ -10295,7 +10271,6 @@ play,4,0,philb001,11,SBX,43/G
 play,4,0,vottj001,12,SBFX,63/G
 play,4,1,iannc001,00,,NP
 sub,massn001,"Nick Masset",0,9,1
-com,"Reds pitcher Johnny Cueto left the game due to an injured arm"
 play,4,1,iannc001,31,.BBSBB,W
 play,4,1,tulot001,32,B*BSCFBS,K
 play,4,1,jimeu001,12,BCML,K/BF
@@ -10751,7 +10726,6 @@ play,10,1,hawpb001,22,CBCBX,S9/G
 play,10,1,tavew001,00,,NP
 sub,fowld001,"Dexter Fowler",1,4,12
 play,10,1,tavew001,00,.X,4/P3F
-com,"Debut game for Dexter Fowler"
 play,10,1,atkig001,01,1F>B,CS2(243)
 play,11,0,vizqo001,00,,NP
 sub,spilr001,"Ryan Spilborghs",1,4,9
@@ -11132,7 +11106,6 @@ play,1,0,lorem001,22,CFBBX,8/F
 play,1,0,tejam001,21,FBBX,43/G
 play,1,1,barmc001,00,,NP
 sub,erstd001,"Darin Erstad",0,1,7
-com,"Astros third baseman Ty Wigginton left the game due to an injured groin"
 play,1,1,barmc001,02,.CFX,4/P
 play,1,1,tavew001,12,CFBFS,K23
 play,1,1,hollm001,00,X,63/G
@@ -11277,7 +11250,6 @@ play,2,0,ausmb001,00,>C,SB2
 play,2,0,ausmb001,12,>C.BF>FX,53/G.2-3
 play,2,0,rodrw002,00,,NP
 sub,backb001,"Brandon Backe",0,9,11
-com,"Astros pitcher Wandy Rodriguez left the game due to an injured back"
 play,2,0,backb001,12,.CFBS,K
 play,2,1,iannc001,00,,NP
 sub,cassj001,"Jack Cassel",0,9,1
@@ -11343,7 +11315,6 @@ play,7,0,lorem001,11,..BCX,S9/L
 play,7,0,tejam001,00,,NP
 sub,mayse001,"Edwin Maysonet",0,2,12
 play,7,0,tejam001,01,.FX,23/SH/BG.1-2
-com,"Debut game for Edwin Maysonet"
 play,7,0,berkl001,32,2BBCBCB,W
 play,7,0,pench001,00,X,64(1)3/GDP
 play,7,1,corpm001,00,,NP
@@ -11814,7 +11785,6 @@ play,6,0,ramim002,12,BCC1>B,CS2(26)
 play,6,0,ramim002,32,BCC1>B.BX,43/G
 play,6,1,melha001,00,,NP
 sub,garcn001,"Nomar Garciaparra",0,5,5
-com,"Dodgers third baseman Casey Blake left the game due to an injured back"
 play,6,1,melha001,11,.BFX,43/G
 play,6,1,cooka002,22,SBSBC,K
 play,6,1,fowld001,12,BCCX,5/P5F
@@ -12106,7 +12076,6 @@ play,2,0,estes001,02,SSFS,K
 play,2,0,venaw001,31,BBBCX,43/G
 play,2,1,iannc001,00,,NP
 sub,kazms002,"Sean Kazmar",0,2,6
-com,"Padres shortstop Luis Rodriguez left the game due to an injured arm"
 play,2,1,iannc001,10,.BX,63/G
 play,2,1,hawpb001,22,BCBFX,S8/F
 play,2,1,bakej001,20,BBX,D9/F.1-3

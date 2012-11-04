@@ -103,7 +103,6 @@ play,6,1,lawtm002,32,CBSFBBX,3/P3
 play,6,1,koskc001,00,,NP
 sub,santv001,"Victor Santos",0,0,1
 play,6,1,koskc001,11,FBX,9/F9
-com,"Debut game for Victor Santos"
 play,7,0,encaj001,22,BBCFFX,T/89D
 play,7,0,halts001,00,X,3/P3
 play,7,0,cardj001,00,X,43/G.3-H
@@ -206,7 +205,6 @@ play,2,0,encaj001,32,BBCBFS,K
 play,2,0,halts001,10,BX,8/F8
 play,2,1,koskc001,12,FCBS,K
 play,2,1,kielb001,32,BBCCBX,43/G
-com,"Debut game for Bobby Kielty"
 play,2,1,jonej003,11,BFX,3/G
 play,3,0,ingeb001,22,CBBSX,3/FL
 play,3,0,ceder001,22,BCFBFX,3/G
@@ -1308,8 +1306,6 @@ play,8,1,miend001,00,,NP
 sub,cogat001,"Tony Cogan",0,0,1
 play,8,1,miend001,31,FBBBX,S/78.2-H
 play,8,1,kielb001,00,X,D7.1-H
-com,"ej,muset101,M,coope901,Arguing double"
-com,"Royals Manager Tony Muser ejected by 3B umpire Eric Cooper in 8th"
 play,8,1,jonej003,10,BX,63/G.2-3
 play,8,1,maxwj001,00,,NP
 sub,guzmc001,"Cristian Guzman",1,8,11
@@ -1704,7 +1700,6 @@ play,4,0,ripkc001,11,BFF,FLE2
 play,4,0,ripkc001,12,BFF.X,8/F8S
 play,4,0,richc001,10,BX,S
 play,4,0,moram002,00,1,POCS2(136124)
-com,"DV chg - 1B dropped ball backed up by catcher"
 play,4,1,guzmc001,12,CFFBX,T9
 play,4,1,rival001,22,BCFBX,43/G.3-H
 play,4,1,lawtm002,11,BCX,S7
@@ -2143,9 +2138,6 @@ play,8,1,ortid001,10,BX,8/F8
 play,8,1,huntt001,12,BCSS,K
 play,8,1,miend001,11,CBX,S8
 play,8,1,hockd001,00,X,8/F8
-com,"two delays in this game as umpires nearly give"
-com,"forfeit to Yankees because of fans' throwing"
-com,"things at Knoblauch"
 play,9,0,jeted001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",1,0,1
 play,9,0,jeted001,00,X,3/G
@@ -2219,7 +2211,6 @@ play,1,1,lawtm002,00,X,43/G
 play,2,0,randj002,32,BBBCCX,T/78D
 play,2,0,quinm001,20,BBX,6E3/G
 play,2,0,mccad001,11,CBX,8/SF.3-H
-com,"DV: how is this UR???"
 play,2,0,ortih001,01,CB,CS2(24)
 play,2,0,ortih001,12,CBFX,4/P4
 play,2,1,koskc001,32,CCBBFBFC,K/C
@@ -2845,7 +2836,6 @@ play,4,1,allec001,12,CBFX,8/F8
 play,4,1,jonej003,00,X,31/G
 play,4,1,huntt001,12,BFSFX,D/78
 play,4,1,print001,12,FCBC,K/C
-com,"$power outage delay for 18 minutes in the 5th"
 play,5,0,nixot001,01,CX,D9
 play,5,0,offej001,31,BBFBX,43/G.2-3
 play,5,0,everc001,00,X,S8.3-H
@@ -2966,7 +2956,6 @@ start,romej001,"J.C. Romero",1,0,1
 play,1,0,valej002,00,X,53/G
 play,1,0,offej001,32,CCBBBX,S9
 play,1,0,everc001,32,CCBBBX,D7.1-H(E7/TH)(UR)
-com,"DV: I don't know why but it must be this one UR"
 play,1,0,ramim002,12,FSBX,S7.2-H
 play,1,0,bichd001,12,CBCS,K
 play,1,0,hills002,00,X,9/F9
@@ -3276,7 +3265,6 @@ play,3,1,hockd001,12,CBCX,43/G
 play,4,0,marte001,31,BCBBX,3/FL
 play,4,0,olerj001,00,X,S7
 play,4,0,boonb002,11,BCX,E6/TH.1-2
-com,"DV assumes TH2 for UR; could be TH1"
 play,4,0,camem001,31,BFBBX,HR/78.2-H(UR);1-H
 play,4,0,javis001,32,FBBBCX,53/G
 play,4,0,guilc001,20,BBX,7/F7
@@ -3882,7 +3870,6 @@ start,huntt001,"Torii Hunter",1,8,8
 start,print001,"Tom Prince",1,9,2
 start,thomb001,"Brad Thomas",1,0,1
 play,1,0,byrne001,22,BCBCX,13/G
-com,"Debut game for Brad Thomas"
 play,1,0,menef001,31,BBCBB,W
 play,1,0,giamj001,31,BBBCB,W.1-2
 play,1,0,longt002,32,BBCFBX,3/P3
@@ -4592,7 +4579,6 @@ play,6,0,frymt001,30,BBBB,W
 play,6,0,diaze002,01,CX,63/G
 play,6,1,buchb002,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,4,9
-com,"$Gonzalez left the game with a strained right groin"
 play,6,1,buchb002,31,BBBCB,W
 play,6,1,koskc001,00,B,OA.1X2(26)
 play,6,1,koskc001,31,BBBFX,5/L5
@@ -4761,7 +4747,6 @@ play,7,1,guzmc001,00,X,8/F8
 play,8,0,burke001,00,,NP
 sub,rincj001,"Juan Rincon",1,0,1
 play,8,0,burke001,10,BX,9/F9
-com,"Debut game for Juan Rincon"
 play,8,0,frymt001,32,BFBBFC,K/C
 play,8,0,cordm001,32,BCBFBS,K
 play,8,1,koskc001,00,X,31/G
@@ -4874,7 +4859,6 @@ play,4,0,wilse001,12,BCCC,K/C
 play,4,0,browe001,32,BSCBBFB,W
 play,4,0,kendj001,10,BX,8/F8
 play,4,0,mearp001,22,BCFBFFX,S7.1-H(E7);B-3
-com,"originally scored a double"
 play,4,0,gileb002,31,BBBCX,D/78.3-H
 play,4,0,ramia001,01,CX,S7.2-H
 play,4,0,hyzda001,00,X,7/F7
@@ -5031,8 +5015,6 @@ play,5,0,nunea001,21,BBFX,63/G
 play,5,1,mccrq001,22,BCBFX,S
 play,5,1,guzmc001,10,BX,46(1)/FO
 play,5,1,lawtm002,00,X,4(1)/FO.BX1(23)
-com,"Lawton turned the wrong way at 1st on wild throw"
-com,"and was slow to return to the bag."
 play,6,0,gileb002,00,X,43/G
 play,6,0,ramia001,32,CBBFBX,8/F8
 play,6,0,vandj001,30,BBBB,W
@@ -5325,8 +5307,6 @@ play,2,1,koskc001,12,CBSC,K/C
 play,2,1,miend001,22,SFBFBX,31/G
 play,2,1,huntt001,00,X,HR/89
 play,2,1,jonej003,00,X,43/G
-com,"ej,dierl101,M,iassd901,Call at 1B"
-com,"Astros Manager Larry Dierker ejected by 1B umpire Dan Iassogna in 3rd"
 play,3,0,ausmb001,22,BBFFC,K/C
 play,3,0,biggc001,02,CFX,S
 play,3,0,vizcj001,22,BBFCX,7/F7S
@@ -5439,7 +5419,6 @@ start,milte001,"Eric Milton",1,0,1
 play,1,0,biggc001,01,CX,6/P6
 play,1,0,lugoj001,20,BBX,E5/G
 play,1,0,bagwj001,11,CBX,53/G.1-2
-com,"$the barrell of Bagwell's bat almost hit SS Castillo"
 play,1,0,hidar001,32,SBSBBX,7/F7
 play,1,1,mccrq001,12,CCBFC,K/C
 play,1,1,guzmc001,12,CSFBFX,S9
@@ -5582,8 +5561,6 @@ play,4,0,aloum001,02,CSB,CS2(24)
 play,4,1,guzmc001,22,CBFFBS,K
 play,4,1,lawtm002,21,CBBX,63/G
 play,4,1,koskc001,12,FBFX,43/G
-com,"ej,hayec001,P,hudsm901,Unknown reason"
-com,"Astros Charlie Hayes ejected by HP umpire Marvin Hudson from bench in 5th"
 play,5,0,aloum001,00,X,7/F7D
 play,5,0,wardd002,32,BCSBBS,K
 play,5,0,castv001,00,X,HR/9
@@ -6022,14 +5999,11 @@ play,2,0,durhr001,12,CFBS,K
 play,2,1,koskc001,11,FBX,6/P6
 play,2,1,huntt001,31,BBFBX,D/89D
 play,2,1,blakc001,22,BSCBX,FC5/DP.2X3(545);BX1(534)
-com,"$Hunter strayed off 2B on grounder, then Blake"
-com,"wandered away from 1B for DP"
 play,3,0,ordom001,00,X,13/G
 play,3,0,konep001,12,CBFX,8/F8
 play,3,0,liefj001,12,CBSC,K/C
 play,3,1,rival001,00,,NP
 sub,lowes001,"Sean Lowe",0,0,1
-com,"$Wells warmed up, then left with strained back"
 play,3,1,rival001,32,CBBFBB,W
 play,3,1,mccrq001,20,BBC,SB2
 play,3,1,mccrq001,31,BBCBX,FC6.2X3(65);B-1
@@ -7658,7 +7632,6 @@ play,5,0,olerj001,31,FBBBX,S7.1-3
 play,5,0,camem001,00,,NP
 sub,balfg001,"Grant Balfour",1,0,1
 play,5,0,camem001,22,CSBBS,K
-com,"Debut game for Grant Balfour"
 play,5,0,marta001,31,BBBFB,W.1-2
 play,5,0,belld002,00,X,46(1)/FO
 play,5,1,rival001,21,BCBX,53/G
@@ -7925,15 +7898,12 @@ play,2,1,jonej003,02,SCX,C/E2.2-3;1-2
 play,2,1,hockd001,22,SBCFBFFFS,K
 play,2,1,print001,12,SCBX,S/78.3-H;2-H;1-3;B-2(TH)
 play,2,1,rival001,22,FBFFBFFX,S8.3-H(UR);2-H
-com,"DV: I don't understand this inning's UR"
-com,"Batter who reaches on int is unearned, but it does not extend the inning"
 play,2,1,kielb001,20,BBX,6/P6
 play,3,0,beltc001,11,FBX,D7
 play,3,0,sweem002,10,BX,43/G.2-3
 play,3,0,ibanr001,20,BBX,S18/L8.3-H
 play,3,0,randj002,00,,NP
 sub,cresj001,"Jack Cressend",1,0,1
-com,"Radke bruised thumb badly, onto 15 day DL"
 play,3,0,randj002,12,BCFX,46(1)3/GDP
 play,3,1,miend001,31,BBBCX,9/F9
 play,3,1,koskc001,20,BBX,7/F7D
@@ -9067,8 +9037,6 @@ play,6,1,ortid001,12,BFSC,K/C
 play,6,1,huntt001,00,X,53/BG
 play,6,1,buchb002,10,BX,S7
 play,6,1,koskc001,01,FB,WP.1-3(E3/TH)
-com,"Pitch was in the dirt, Flaherty threw behind Buchanan."
-com,"Huff then threw wildly to 2nd."
 play,6,1,koskc001,22,FB.SBX,HR/78.3-H
 play,6,1,barnj001,00,X,S8/8S
 play,6,1,print001,21,FBBX,64(1)/FO
@@ -10066,7 +10034,6 @@ play,2,1,ortid001,01,CX,3/G
 play,2,1,huntt001,10,BX,S9
 play,2,1,piera001,30,BBBB,W.1-2
 play,2,1,mohrd001,10,BX,8/F8S
-com,"Debut game for Dustan Mohr"
 play,2,1,rival001,01,SX,S7.2-H;1-3;B-2(TH)
 play,2,1,jonej003,20,BBX,8/F8D
 play,3,0,haseb001,00,X,63/G
@@ -10102,8 +10069,6 @@ play,5,1,rival001,00,,NP
 sub,michc001,"Chris Michalak",0,0,1
 play,5,1,rival001,00,,BK.1-2
 play,5,1,rival001,10,BX,63/G
-com,"ej,michc001,P,shulj901,Balk"
-com,"Chris Michalak ejected by 1B umpire John Shulock"
 play,6,0,curtc001,00,X,9/F9
 play,6,0,velar001,22,BBCCFX,9/F9
 play,6,0,rodra001,10,BX,8/F8
@@ -10741,7 +10706,6 @@ play,8,0,palmo001,02,CFFFX,63/G
 play,8,1,ortid001,00,,NP
 sub,miadb001,"Bart Miadich",0,0,1
 play,8,1,ortid001,12,CBFX,9/F9
-com,"Debut game for Bart Miadich"
 play,8,1,huntt001,22,CSBBS,K
 play,8,1,piera001,22,BFFBX,9/F9
 play,9,0,erstd001,22,BBCCX,S/89
@@ -10895,7 +10859,6 @@ sub,rivem003,"Mike Rivera",0,9,2
 play,8,1,guzmc001,00,,NP
 sub,murrh001,"Heath Murray",0,0,1
 play,8,1,guzmc001,22,CSBFBS,K
-com,"Debut game for Mike Rivera"
 play,8,1,miend001,12,FCBX,S/78
 play,8,1,koskc001,20,BBX,S8.1-2
 play,8,1,ortid001,22,BBFFS,K
@@ -11108,8 +11071,6 @@ start,jonej003,"Jacque Jones",1,7,7
 start,print001,"Tom Prince",1,8,2
 start,kielb001,"Bobby Kielty",1,9,9
 start,maysj001,"Joe Mays",1,0,1
-com,"ej,madlb001,C,reedr901,Balls and strikes"
-com,"Tigers coach Bill Madlock ejected by HP umpire Rick Reed in 1st"
 play,1,0,macij001,21,CBBX,7/FL
 play,1,0,easld001,11,CBX,63/G
 play,1,0,higgb001,32,SFBBBB,W
@@ -11540,7 +11501,6 @@ play,2,1,koskc001,32,BFBFBX,D/89D
 play,2,1,huntt001,12,CBFX,S/78.2-H
 play,2,1,kielb001,11,CBX,D8/8D.1-3
 play,2,1,cuddm001,32,BBCFBB,W
-com,"Debut game for Michael Cuddyer"
 play,2,1,print001,02,CFS,K
 play,2,1,rival001,11,BCX,9/FL
 play,3,0,cabrj002,12,CBFX,3/FL

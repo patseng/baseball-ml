@@ -69,7 +69,6 @@ play,3,0,broub001,11,BCH,HP
 play,3,0,blakc001,21,BCBX,S9/G.1-3
 play,3,0,martv001,00,X,8/F
 play,3,1,mauej001,30,BBBB,W
-com,"Debut game for Joe Mauer"
 play,3,1,guzmc001,10,BX,4/P
 play,3,1,stews002,22,BFF*BFC,K
 play,3,1,rival001,32,CBCF*BB>S,K
@@ -255,7 +254,6 @@ play,3,1,mauej001,11,BFX,S8/G
 play,3,1,guzmc001,10,BX,S8/L.1-2
 play,3,1,stews002,22,FBFBX,8/F
 play,3,1,rival001,00,X,S9/L.2-3;1-2
-com,"$Mauer hurt and left the game"
 play,3,1,miend001,00,,NP
 sub,blanh001,"Henry Blanco",1,8,12
 play,3,1,miend001,20,.BBB,PB.3-H;2-3;1-2
@@ -273,7 +271,6 @@ play,4,1,blanh001,22,CSFFBBS,K
 play,4,1,guzmc001,00,X,53/G
 play,5,0,lawtm002,30,BBB,NP
 sub,pulic001,"Carlos Pulido",1,0,1
-com,"$Santana left with injured arm on 3-0 count"
 play,5,0,lawtm002,31,BBB.CB,W
 play,5,0,merll001,31,*BC*BBB,W.1-2
 play,5,0,laket001,00,X,HR/7/F.2-H;1-H
@@ -372,7 +369,6 @@ play,11,1,huntt001,22,SBBCX,S8/G
 play,11,1,jonej003,00,,NP
 sub,cuddm001,"Michael Cuddyer",1,5,12
 play,11,1,jonej003,00,.X,3/P3F
-com,"$Hunter left with injury"
 play,12,0,vizqo001,00,,NP
 sub,puntn001,"Nick Punto",1,2,8
 play,12,0,vizqo001,00,,NP
@@ -511,7 +507,6 @@ play,3,1,miend001,20,BBX,D9/F
 play,3,1,cuddm001,22,BBCFC,K
 play,3,1,jonej003,22,BSSBFX,31/G.2-3
 play,3,1,offej001,10,BX,63/G
-com,"$LeCroy left with chest injoury"
 play,4,0,martv001,00,,NP
 sub,blanh001,"Henry Blanco",1,7,2
 play,4,0,martv001,32,.BCBBFX,3/G
@@ -811,7 +806,6 @@ play,2,1,guzmc001,20,B*BX,31/G.2-3
 play,2,1,stews002,01,CX,4/P3F
 play,3,0,graft001,11,BFX,S7/G
 play,3,0,blana001,12,BC>FX,3/G.1-2
-com,"Debut game for Andres Blanco"
 play,3,0,guiea001,32,CBBBCS,K
 play,3,0,beltc001,30,B*BBI,IW
 play,3,0,sweem002,11,SBX,HR/7/F.2-H;1-H
@@ -1460,7 +1454,6 @@ play,7,0,guilc001,00,,NP
 sub,ryanm001,"Mike Ryan",1,1,7
 play,7,0,guilc001,00,,NP
 sub,rincj001,"Juan Rincon",1,0,1
-com,"$Stewart left with injured leg"
 play,7,0,guilc001,22,..CBBCS,K
 play,7,0,rodri001,02,FFFF.FX,S8/L
 play,7,0,whitr001,11,SBX,2/P2F
@@ -2446,7 +2439,6 @@ play,2,1,fordl001,32,CBCBBFB,W
 play,2,1,blanh001,02,CFX,46(1)3/GDP
 play,3,0,boonb002,00,,NP
 sub,cuddm001,"Michael Cuddyer",1,4,5
-com,"$Koskie left game with injured chest"
 play,3,0,boonb002,11,.CBX,S8/G
 play,3,0,ibanr001,01,SX,7/F
 play,3,0,marte001,31,BBBCX,3/P
@@ -2682,7 +2674,6 @@ play,8,1,cuddm001,32,.*BFFBB>F>C,K+CS3(25)/DP
 play,9,0,spies001,11,FBX,S8/L
 play,9,0,olerj001,00,X,S7/F.1-2
 play,9,0,marte001,32,CBSFFBBX,HR/9/F.2-H;1-H
-com,"$Martinez' 300th home run"
 play,9,0,ibanr001,00,,NP
 sub,nathj001,"Joe Nathan",1,0,1
 play,9,0,ibanr001,22,.CCBFBS,K
@@ -5227,8 +5218,6 @@ play,7,1,koskc001,00,,NP
 sub,hernr001,"Roberto Hernandez",0,0,1
 play,7,1,koskc001,02,.FSS,K
 play,7,1,huntt001,11,CB>B,SB3;SB2
-com,"ej,bowal001,M,craft901,Call at 3B"
-com,"Phillies Manager Larry Bowa ejected by 3B umpire Terry Craft"
 play,7,1,huntt001,31,CB>B..BB,W
 play,7,1,jonej003,01,CX,3/G
 play,8,0,byrdm001,00,,NP
@@ -6588,8 +6577,6 @@ play,2,1,mauej001,32,*BSFBB>X,S9/G.2-H(UR);1-3
 play,2,1,koskc001,00,H,HP.1-2
 play,2,1,huntt001,00,,NP
 sub,huisj001,"Justin Huisman",0,0,1
-com,"ej,gardr001,M,guccc901,Asking for ejection after HBP"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione"
 play,2,1,huntt001,00,..X,46(1)3/GDP.3-H(NR)(UR);2-3
 play,2,1,jonej003,32,CBCBBS,K
 play,3,0,relad001,22,CBFBFX,3/G
@@ -6926,8 +6913,6 @@ play,8,0,penac001,22,BCFFBX,63/G
 play,8,1,koskc001,00,X,S8/G
 play,8,1,huntt001,00,X,D7/G.1-3
 play,8,1,jonej003,32,FBBFBC,K
-com,"ej,jonej003,P,welkb901,Called third strike"
-com,"Jacque Jones ejected by HP umpire Bill Welke"
 play,8,1,lecrm001,00,,NP
 sub,yan-e001,"Esteban Yan",0,0,1
 play,8,1,lecrm001,02,..CSX,FC6/G.3-H;2X3(6546)
@@ -7775,7 +7760,6 @@ play,5,1,mornj001,31,BBBCB,W.1-2
 play,5,1,huntt001,00,X,8/F
 play,6,0,gutir001,00,,NP
 sub,cuddm001,"Michael Cuddyer",1,1,7
-com,"$Stewart left game with injured elbow"
 play,6,0,gutir001,02,.CCX,S7/F
 play,6,0,damoj001,00,X,8/F
 play,6,0,bellm002,21,FBBX,9/F
@@ -8083,7 +8067,6 @@ play,7,1,koskc001,22,CBBCS,K
 play,8,0,figgc001,00,,NP
 sub,bartj001,"Jason Bartlett",1,2,6
 play,8,0,figgc001,30,.BBBB,W
-com,"Debut game for Jason Bartlett"
 play,8,0,andeg001,11,CBX,46(1)3/GDP
 play,8,0,guerv001,00,X,63/G
 play,8,1,blanh001,00,,NP
@@ -8327,7 +8310,6 @@ play,4,0,andeg001,10,BX,S7/L.1-2
 play,4,0,guerv001,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
 play,4,0,guerv001,02,.FTX,E6/G.2-3;1-2
-com,"Debut game for Jesse Crain"
 play,4,0,guilj001,01,CX,S8/G.3-H(UR);2-H(UR);1-2
 play,4,0,erstd001,32,BBBCC>X,31/G
 play,4,1,bartj001,12,BCCX,43/G
@@ -8626,7 +8608,6 @@ play,2,1,offej001,10,BX,S8/F.1-2
 play,2,1,cuddm001,22,BCFBS,K
 play,3,0,durae001,00,,NP
 sub,fordl001,"Lew Ford",1,6,9
-com,"$Jones left game with injured knee"
 play,3,0,durae001,02,.CFS,K
 play,3,0,kielb001,11,CBX,63/G
 play,3,0,scutm001,12,FBCX,S9/F
@@ -8869,7 +8850,6 @@ sub,rincr001,"Ricardo Rincon",0,0,1
 play,10,1,mornj001,01,.FX,8/F
 play,10,1,huntt001,00,,NP
 sub,duchj001,"Justin Duchscherer",0,0,1
-com,"$Rincon left game with injured leg"
 play,10,1,huntt001,10,.BX,9/F
 play,11,0,durae001,00,X,S9/F
 play,11,0,milld002,00,,NP
@@ -8918,7 +8898,6 @@ play,15,1,guzmc001,00,,NP
 sub,germe001,"Esteban German",0,8,4
 play,15,1,guzmc001,00,,NP
 sub,hammc001,"Chris Hammond",0,0,1
-com,"$Crosby left game with injured back"
 play,15,1,guzmc001,12,...BCSS,K
 play,15,1,fordl001,30,BBBB,W
 play,15,1,mornj001,11,F*B1X,S8/L.1X3(8486)
@@ -9102,7 +9081,6 @@ play,8,0,byrne001,22,BFCFFFBS,K
 play,8,1,mornj001,00,,NP
 sub,garcj002,"Jairo Garcia",0,0,1
 play,8,1,mornj001,21,.BBFX,43/G
-com,"Debut game for Jairo Garcia"
 play,8,1,huntt001,32,BBSFBFB,W
 play,8,1,jonej003,22,BFCBX,13/G-.1-2
 play,8,1,cuddm001,02,FSS,K
@@ -9480,7 +9458,6 @@ play,4,1,koskc001,00,X,46(1)3/GDP
 play,5,0,posaj001,31,FBBBX,D9/F
 play,5,0,olerj001,00,,NP
 sub,fordl001,"Lew Ford",1,3,8
-com,"$Hunter left game with injured neck"
 play,5,0,olerj001,10,.BX,41/G.2-3
 play,5,0,cairm001,01,FX,S7/G.3-H
 play,5,0,loftk001,10,B1P,WP.1-2
@@ -9689,7 +9666,6 @@ play,8,0,vizqo001,22,BCSFBX,8/F
 play,8,1,koskc001,00,,NP
 sub,cabrf002,"Fernando Cabrera",0,0,1
 play,8,1,koskc001,22,.BCSBS,K
-com,"Debut game for Fernando Cabrera"
 play,8,1,guzmc001,00,X,63/G
 play,8,1,blanh001,12,BFFFS,K
 play,9,0,hafnt001,00,,NP
@@ -9953,7 +9929,6 @@ sub,millm002,"Matt Miller",0,0,1
 play,6,1,lecrm001,20,.BBX,63/G
 play,7,0,sizeg001,00,,NP
 sub,cuddm001,"Michael Cuddyer",1,4,3
-com,"$Morneau left game with injured hand"
 play,7,0,sizeg001,02,.CSX,31/G
 play,7,0,lawtm002,00,X,4/P
 play,7,0,vizqo001,32,BFFBFBFFX,S9/L
@@ -10160,14 +10135,12 @@ sub,nathj001,"Joe Nathan",1,0,1
 play,11,0,youne001,12,.CFBFX,163/G
 play,11,0,younm003,00,,NP
 sub,rincj001,"Juan Rincon",1,0,1
-com,"$Nathan left game with injured hand"
 play,11,0,younm003,22,.BCBFS,K
 play,11,0,blalh001,32,CBFBF*B.B,W
 play,11,0,teixm001,02,SFX,3/G
 play,11,1,blanh001,00,,NP
 sub,kubej002,"Jason Kubel",1,8,11
 play,11,1,kubej002,01,.FX,43/G
-com,"Debut game for Jason Kubel"
 play,11,1,ojeda001,22,CBBFFX,43/G
 play,11,1,stews002,12,CBFX,S9/F
 play,11,1,jonej003,01,SX,S4/G.1-2
@@ -10279,9 +10252,7 @@ play,6,0,jordb001,00,,NP
 sub,tifft001,"Terry Tiffee",1,7,5
 play,6,0,jordb001,00,,NP
 sub,ojeda001,"Augie Ojeda",1,9,4
-com,"$Rivas left game with injured foot"
 play,6,0,jordb001,12,...BSCX,63/G
-com,"Debut game for Terry Tiffee"
 play,6,0,blalh001,00,X,6/P
 play,6,0,mattg002,32,BBFBCFFC,K
 play,6,1,mornj001,20,BBX,8/F
@@ -10431,8 +10402,6 @@ play,7,1,jonej003,32,BSFBFFBB,W
 play,7,1,huntt001,00,,NP
 sub,franf001,"Frank Francisco",0,0,1
 play,7,1,huntt001,22,.BBFSX,52(3)3/GDP.2-3;1-2
-com,"ej,gardr001,M,relic901,Call at 1B"
-com,"Twins Manager Ron Gardenhire ejected by 1B umpire Charlie Reliford"
 play,7,1,mornj001,30,.IIII,IW
 play,7,1,fordl001,32,BSBBC>X,5/P5F
 play,8,0,delld001,22,CBSBS,K
@@ -11116,7 +11085,6 @@ play,5,1,guzmc001,22,BSCFFFBFFX,31/G
 play,6,0,credj001,20,BBX,131/G
 play,6,0,peret004,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
-com,"$Silva left game with injured foot"
 play,6,0,peret004,22,.BCBSX,7/F
 play,6,0,rowaa001,01,FX,63/G
 play,6,1,cuddm001,10,BX,6/P
@@ -11402,10 +11370,6 @@ sub,gibbj002,"Jay Gibbons",0,8,11
 play,6,0,gibbj002,32,.BBFBF>B,W.2-3;1-2
 play,6,0,bigbl001,11,BF,NP
 sub,fordl001,"Lew Ford",1,1,7
-com,"$Stewart left game with bruised ribs and a mild concussion"
-com,"after he caught his left foot on the bullpen mound and fell"
-com,"headfirst across the mound and landed against the fence"
-com,"while chasing a foul ball"
 play,6,0,bigbl001,11,.BFX,D7/F.3-H;2-H;1-H
 play,6,0,robeb003,00,,NP
 sub,fulta001,"Aaron Fultz",1,0,1
@@ -11421,8 +11385,6 @@ sub,balfg001,"Grant Balfour",1,0,1
 play,7,0,moram002,30,.BBBB,W
 play,7,0,tejam001,10,BX,S8/G.1-2
 play,7,0,palmr001,32,FFBBFBX,85(2)/FO/G.1-2
-com,"$Hunter dove for Palmeiro's blooper and his left knee"
-com,"hit the turf hard"
 play,7,0,lopej001,11,BFX,S7/G.2-H;1-2
 play,7,0,surhb001,00,,NP
 sub,beimj001,"Joe Beimel",1,0,1
@@ -11450,8 +11412,6 @@ play,8,0,raint002,00,,NP
 sub,lecrm001,"Matt LeCroy",1,9,2
 play,8,0,raint002,00,,NP
 sub,roa-j001,"Joe Roa",1,0,1
-com,"$Hunter left game due injured knee from"
-com,"previous inning"
 play,8,0,raint002,21,......BBFX,31/G
 play,8,0,moram002,12,BCFS,K
 play,8,0,tejam001,02,CFX,8/F
@@ -12092,7 +12052,6 @@ sub,jonej003,"Jacque Jones",1,9,11
 play,8,1,jonej003,00,.H,HP.2-3;1-2
 play,8,1,fordl001,00,,NP
 sub,bordp001,"Pat Borders",1,9,12
-com,"$Jones left game with an injured knee"
 play,8,1,fordl001,00,.X,7/F
 play,9,0,sizeg001,00,,NP
 sub,ojeda001,"Augie Ojeda",1,5,4
@@ -12130,9 +12089,6 @@ play,11,1,huntt001,30,BBBB,W
 play,11,1,mornj001,00,,NP
 sub,bartc001,"Cliff Bartosh",0,0,1
 play,11,1,mornj001,20,.11B*BX,63/G
-com,"Game suspended here at 2:33 PM so field could be prepared"
-com,"for University of Minnesota football game. Game to be"
-com,"completed on 10-03 at 1:10 PM before regular game"
 play,12,0,sizeg001,00,,NP
 sub,lohsk001,"Kyle Lohse",1,0,1
 play,12,0,sizeg001,01,.CX,31/G
@@ -12248,7 +12204,6 @@ play,4,1,cuddm001,02,SFC,K
 play,4,1,guzmc001,00,X,8/F
 play,5,0,peraj001,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
-com,"$Lohse left game with injured hand"
 play,5,0,peraj001,31,.CBBBB,W
 play,5,0,sizeg001,22,CFBF1FBX,43/G.1-2
 play,5,0,crisc001,32,BB.CFBX,43/G.2-3

@@ -601,9 +601,6 @@ play,7,0,pujoa001,31,BBBCB,W
 play,7,0,roles001,01,CX,S9/L.2-H;1-2
 play,7,0,martt002,32,BCSFBFBFH,HP.2-3;1-2
 play,7,0,peree001,12,CSBH,HP.3-H;2-3;1-2
-com,"ej,hurdc001,M,dimum901,Arguing batter swung at HBP"
-com,"Colorado Manager Clint Hurdle ejected by 1B umpire Mike DiMuro"
-com,"for arguing that Tino Martinez swung at the pitch that hit him"
 play,7,0,mathm001,32,.BFBBFB,W.3-H;2-3;1-2
 play,7,0,calek001,00,,NP
 sub,cairm001,"Miguel Cairo",0,9,11
@@ -812,9 +809,6 @@ play,6,1,estab001,22,.BSSFBS,K
 play,6,1,stync001,01,CX,53/G
 play,6,1,cruzn001,12,CBFC,K
 play,7,0,martt002,01,CH,HP
-com,"ej,cruzn001,P,dimum901,Intentional HBP"
-com,"ej,hurdc001,M,dimum901,Protesting Cruz ejection"
-com,"Nelson Cruz and Manager Clint Hurdle ejected by DiMuro"
 play,7,0,palmo001,00,,NP
 sub,fuenb001,"Brian Fuentes",1,9,1
 play,7,0,palmo001,12,..FCBX,S9/G.1-2
@@ -997,7 +991,6 @@ play,8,1,heltt001,10,BX,HR/7/F
 play,8,1,walkl001,10,BX,13/G
 play,8,1,wilsp002,32,FBBSB,NP
 sub,klins002,"Steve Kline",0,3,1
-com,"Painter left with injured leg"
 play,8,1,wilsp002,32,FBBSB.B,W
 play,8,1,hernj001,31,BCBBX,HR/8/F.1-H
 play,8,1,johnc002,32,BBBCFB,W
@@ -1211,7 +1204,6 @@ start,hernj001,"Jose Hernandez",1,6,6
 start,estab001,"Bobby Estalella",1,7,2
 start,nortg001,"Greg Norton",1,8,5
 start,cruzn001,"Nelson Cruz",1,9,1
-com,"1:57 delay sometime in game"
 play,1,0,vazqr001,22,MBFBX,7/F
 play,1,0,lockk001,01,CX,9/F
 play,1,0,kotsm001,32,BCBCBX,7/F
@@ -1995,7 +1987,6 @@ play,2,0,keara001,31,BSBBB,W
 play,2,0,dunna001,02,FSC,K
 play,2,0,guilj001,01,CX,FC1.1X2(1E4);B-1
 play,2,0,castj004,22,CBFBX,6/P
-com,"Infield fly rule"
 play,2,0,laruj001,32,FBFBBS,K
 play,2,1,stync001,11,BCX,S8/G
 play,2,1,jennj001,10,B>X,S9/G.1-3
@@ -2476,14 +2467,12 @@ start,johnc002,"Charles Johnson",1,7,2
 start,stync001,"Chris Stynes",1,8,5
 start,younj002,"Jason Young",1,9,1
 play,1,0,alomr001,31,BBCBB,W
-com,"Debut game for Jason Young"
 play,1,0,bellj001,32,CBBCB>F>X,53/G.1-2
 play,1,0,piazm001,00,X,9/F.2-3
 play,1,0,floyc001,20,BBX,D7/L.3-H
 play,1,0,peret004,02,CFX,53/G
 play,1,1,bellr002,00,,NP
 sub,clart002,"Tony Clark",0,2,3
-com,"Mets Jay Bell left the game due to an injured groin"
 play,1,1,bellr002,01,.CX,8/F
 play,1,1,paytj001,32,CBBSBX,63/G
 play,1,1,heltt001,21,BCBX,43/G
@@ -2868,8 +2857,6 @@ play,6,1,johnc002,00,,NP
 sub,gonzr002,"Raul Gonzalez",0,2,7
 play,6,1,johnc002,00,,NP
 sub,ceder001,"Roger Cedeno",0,4,9
-com,"ej,floyc001,P,froeb901,Called third strike"
-com,"Mets Cliff Floyd ejected by HP umpire Bruce Froemming"
 play,6,1,johnc002,01,...CX,S7/L
 play,6,1,butlb002,01,FX,9/F
 play,6,1,lopej002,00,X,16(1)/FO/BG
@@ -3185,8 +3172,6 @@ play,7,0,hernl003,02,FCC,K
 play,7,1,estab001,00,,NP
 sub,carrj001,"Jamey Carroll",0,7,5
 play,7,1,estab001,02,.CSS,K
-com,"ej,robif103,M,kellj901,Balls and strikes"
-com,"Expos Manager Frank Robinson ejected by HP umpire Jeff Kellogg"
 play,7,1,nortg001,20,.BBX,3/G
 play,7,1,lopej002,00,,NP
 sub,sweem001,"Mark Sweeney",1,9,11
@@ -3198,7 +3183,6 @@ play,8,0,chave002,11,.BCX,3/G
 play,8,0,cabro001,22,BBCFFX,S7/L
 play,8,0,vidrj001,32,BB11FSFB1>B,W.1-2
 play,8,0,guerv001,02,SFX,4/P
-com,"Infield Fly rule"
 play,8,0,wilkb002,02,CCX,8/F
 play,8,1,kaplg001,32,BBBCFFX,2/P2F
 play,8,1,heltt001,00,,NP
@@ -3312,11 +3296,6 @@ play,3,0,cordw001,12,CF*BFFX,43/G
 play,3,1,bellr002,32,BCBBCB,W
 play,3,1,paytj001,00,,NP
 sub,vargc001,"Claudio Vargas",0,9,1
-com,"ej,day-z001,P,westj901,Foreign object on hand"
-com,"$Expos pitcher Zach Day ejected by HP umpire Bill Miller;"
-com,"Day had Krazy Glue on right middle finger to cover blister;"
-com,"it was slick and made gripping the ball difficult, so he"
-com,"tried to peel it off, was detected and ejected"
 play,3,1,paytj001,21,..BBCB,CS2(24)
 play,3,1,paytj001,31,..BBCB.B,W
 play,3,1,heltt001,22,CSBBX,7/F
@@ -3339,7 +3318,6 @@ play,5,0,guerv001,32,SBBBCB,W
 play,5,0,wilkb002,12,1CC1BS,K
 play,5,1,paytj001,00,,NP
 sub,macij001,"Jose Macias",0,7,5
-com,"Expos Fernando Tatis left the game due to an injured groin"
 play,5,1,paytj001,32,..FSBBBFB,W
 play,5,1,heltt001,12,FBCX,46(1)3/GDP
 play,5,1,wilsp002,11,CBX,4/P
@@ -3705,7 +3683,6 @@ play,4,1,hernj001,01,CX,9/F
 play,5,0,bondb001,10,BX,S9/L
 play,5,0,santb001,00,,NP
 sub,felip001,"Pedro Feliz",0,3,12
-com,"Giants Barry Bonds left the game due to an injured leg"
 play,5,0,santb001,22,.SBCBX,HR/89/F.1-H
 play,5,0,snowj001,10,BX,D7/F
 play,5,0,alfoe001,22,BBCFX,43/G.2-3
@@ -4671,7 +4648,6 @@ play,7,0,iztuc001,10,BX,S8/L.1-2
 play,7,0,motag001,00,,NP
 sub,crosb001,"Bubba Crosby",0,9,11
 play,7,0,crosb001,01,.CX,S8/L.2-H;1-2
-com,"Debut game for Bubba Crosby"
 play,7,0,coraa001,12,BCCC,K
 play,7,1,estab001,00,,NP
 sub,quanp001,"Paul Quantrill",0,9,1
@@ -4815,7 +4791,6 @@ sub,speij001,"Justin Speier",1,9,1
 play,7,0,rodrr005,00,,NP
 sub,sorez001,"Zach Sorensen",0,9,11
 play,7,0,sorez001,32,..CFBBFFBFFX,7/F
-com,"Debut game for Zach Sorensen"
 play,7,0,lawtm002,32,CBFBBFFX,6/P
 play,7,0,vizqo001,22,CCBFBFX,D9/G
 play,7,0,geruj001,11,CBX,4/P
@@ -4899,7 +4874,6 @@ start,hernj001,"Jose Hernandez",1,6,6
 start,johnc002,"Charles Johnson",1,7,2
 start,stync001,"Chris Stynes",1,8,5
 start,olivd001,"Darren Oliver",1,9,1
-com,"2:08 delay during game"
 play,1,0,geruj001,10,BX,D9/F
 play,1,0,mcdoj003,01,CX,S4/G.2-3
 play,1,0,burke001,21,FBBX,54(1)3/GDP.3-H(NR)
@@ -4919,7 +4893,6 @@ play,2,1,johnc002,31,BBBCB,W
 play,2,1,stync001,22,BCFBFX,S7/L.1-2
 play,2,1,olivd001,00,X,2/BP2F
 play,2,1,uribj002,00,X,4/P
-com,"Infield Fly rule"
 play,2,1,paytj001,31,BBCBB,W.2-3;1-2
 play,2,1,heltt001,12,BCCFFX,43/G
 play,3,0,geruj001,21,BFBX,43/G
@@ -5612,7 +5585,6 @@ sub,walrl001,"Les Walrond",0,5,1
 play,6,1,speij001,00,,NP
 sub,ibanr001,"Raul Ibanez",0,9,7
 play,6,1,speij001,11,..SBX,63/G
-com,"Debut game for Les Walrond"
 play,6,1,uribj002,22,BBCSC,K
 play,6,1,paytj001,32,BBCFBFFB,W
 play,6,1,walkl001,00,X,8/L
@@ -5644,7 +5616,6 @@ sub,harvk001,"Ken Harvey",0,5,11
 play,8,0,harvk001,10,.B1H,HP.1-2
 play,8,0,berra001,00,,NP
 sub,aberb001,"Brent Abernathy",0,5,12
-com,"Royals Chris Singleton left the game due to an injured back"
 play,8,0,berra001,12,.FBFH,HP.3-H;2-3;1-2
 play,8,0,guiea001,00,,NP
 sub,fuenb001,"Brian Fuentes",1,8,1
@@ -5881,7 +5852,6 @@ start,nortg001,"Greg Norton",1,6,5
 start,estab001,"Bobby Estalella",1,7,2
 start,hernj001,"Jose Hernandez",1,8,6
 start,neagd001,"Denny Neagle",1,9,1
-com,"Rain delay of 40 minutes at start of game"
 play,1,0,mattg002,12,CFBC,K
 play,1,0,burrs001,10,BX,S7/L
 play,1,0,lorem001,02,CCFFX,46(1)3/GDP
@@ -5977,11 +5947,6 @@ play,8,1,hernj001,22,BFCFBX,63/G
 play,9,0,kotsm001,00,,NP
 sub,johnc002,"Charles Johnson",1,6,2
 play,9,0,kotsm001,00,,NP
-com,"Game called for rain after 1:22 delay"
-com,"Stynes announced at 3rd, Walker in right and"
-com,"Johnson entering game as catcher.  The rain washed"
-com,"out the subs. None of the three got credit for games"
-com,"at these positions but Johnson received one game played"
 data,er,peavj001,2
 data,er,hackl001,1
 data,er,mattm001,0
@@ -6590,8 +6555,6 @@ sub,walkj001,"Jamie Walker",0,9,1
 play,8,1,heltt001,22,.CCBBFS,K
 play,8,1,wilsp002,00,,NP
 sub,walbm001,"Matt Walbeck",0,8,2
-com,"ej,hinca001,P,younl901,Balls and strikes (while catching)"
-com,"Tigers catcher A. J. Hinch ejected by HP umpire Larry Young"
 play,8,1,wilsp002,22,..BFSFBS,K
 play,9,0,halts001,00,,NP
 sub,jimej001,"Jose Jimenez",1,9,1
@@ -7265,7 +7228,6 @@ play,9,0,katam001,00,,NP
 sub,fuenb001,"Brian Fuentes",1,9,1
 play,9,0,katam001,00,.X,S7/G.3-H;2-3;1-2
 play,9,0,finls001,00,X,3/P
-com,"Infield Fly rule"
 play,9,0,cinta001,12,CFBX,63/G
 data,er,pattj004,3
 data,er,rands001,1
@@ -7702,7 +7664,6 @@ sub,corrk001,"Kevin Correia",0,1,1
 play,7,1,paytj001,00,,NP
 sub,peren001,"Neifi Perez",0,4,4
 play,7,1,paytj001,01,..SX,8/L
-com,"Debut game for Kevin Correia"
 play,8,0,cruzj004,00,,NP
 sub,roa-j001,"Joe Roa",1,5,1
 play,8,0,cruzj004,00,,NP
@@ -7949,9 +7910,6 @@ play,1,0,iztuc001,12,CCBX,6/P
 play,1,0,coraa001,32,BFCBBFX,13/G
 play,1,0,grees001,11,CBX,3/G
 play,1,1,bellr002,11,CBX,T8/F.BXH(862)
-com,"$Belliard tried for inside park homer but ran"
-com,"out of gas rounding 3B; he slid under catcher"
-com,"but was out when he did not touch the plate"
 play,1,1,bellm002,21,BCBX,S9/L
 play,1,1,heltt001,12,CFBS,K
 play,1,1,wilsp002,00,>C,SB2
@@ -7982,7 +7940,6 @@ play,5,0,hermc001,22,BFFBS,K
 play,5,0,cabrj002,02,FSH,HP
 play,5,0,belta001,12,CB1F11X,S9/L-.1-2
 play,5,0,rossd001,00,X,3/P
-com,"Infield Fly rule"
 play,5,0,ashba002,12,CBSS,K
 play,5,1,uribj002,31,BBBCB,W
 play,5,1,jennj001,22,PLL1B1L,K/BF
@@ -8267,7 +8224,6 @@ start,stync001,"Chris Stynes",1,7,5
 start,johnc002,"Charles Johnson",1,8,2
 start,tsaoc001,"Chin-Hui Tsao",1,9,1
 play,1,0,youne001,10,BX,HR/7/F
-com,"Debut game for Chin-Hui Tsao"
 play,1,0,podss001,11,CBX,8/F
 play,1,0,jenkg001,12,CBSX,S8/L
 play,1,0,sexsr001,22,BCFBC,K
@@ -8762,7 +8718,6 @@ play,3,1,bellr002,12,BFFX,E6/G
 play,3,1,uribj002,11,CBX,S7/L.1-2
 play,3,1,heltt001,30,BBBB,W.2-3;1-2
 play,3,1,wilsp002,01,FX,4/P
-com,"Infield Fly rule"
 play,3,1,paytj001,00,X,9/F
 play,4,0,myerb001,11,CBX,63/G
 play,4,0,byrdm001,31,BFBBX,43/G
@@ -8929,7 +8884,6 @@ play,5,1,johnc002,32,BFFBBB,W
 play,5,1,tsaoc001,01,LX,E1/TH/SH/BG.1-2
 play,5,1,bellr002,22,CLBBX,8/F
 play,5,1,uribj002,10,BX,6/P
-com,"Infield Fly rule"
 play,5,1,heltt001,31,BCBBX,HR/8/F.2-H(UR);1-H(UR);B-H(UR)
 play,5,1,wilsp002,10,BX,S8/L
 play,5,1,walkl001,12,1F1BF1X,8/F
@@ -9088,7 +9042,6 @@ play,6,1,reyer001,32,.BBCSFFBB,W
 play,6,1,womat001,00,X,S5/BG.1-2
 play,6,1,uribj002,11,LBX,2/BP2F
 play,6,1,heltt001,01,CX,6/P
-com,"Infield Fly rule"
 play,6,1,wilsp002,01,FX,S8/L.2-H;1-2
 play,6,1,walkl001,00,X,S9/G.2-H;1-2
 play,6,1,paytj001,01,CX,7/F
@@ -9180,7 +9133,6 @@ start,paytj001,"Jay Payton",1,6,7
 start,stync001,"Chris Stynes",1,7,5
 start,johnc002,"Charles Johnson",1,8,2
 start,jennj001,"Jason Jennings",1,9,1
-com,"2:06 delay during game"
 play,1,0,redmt001,30,BBBB,W
 play,1,0,kendj001,12,B1C1CX,S7/G.1-2
 play,1,0,gileb002,21,BBFX,36(1)/FO/G.2-3
@@ -9577,10 +9529,6 @@ sub,walkl001,"Larry Walker",1,2,11
 play,7,1,walkl001,00,,NP
 sub,beimj001,"Joe Beimel",0,9,1
 play,7,1,walkl001,11,..CBX,D8/L.1XH(862)
-com,"ej,hurdc001,M,onorb901,Call at HP"
-com,"Garrett Atkins made a fade-away slide past the plate but catcher"
-com,"Humberto Cota chased Atkins and tagged him; Rockies Manager Clint"
-com,"Hurdle argued tha call and was ejected by HP umpire Brian O'Nora"
 play,8,0,wilsj002,00,,NP
 sub,fuenb001,"Brian Fuentes",1,2,1
 play,8,0,wilsj002,00,,NP
@@ -10112,9 +10060,6 @@ start,jennj001,"Jason Jennings",1,9,1
 play,1,0,furcr001,11,CBX,S9/F
 play,1,0,gilem001,11,CBX,D9/L.1-3
 play,1,0,shefg001,12,BCFC,K
-com,"ej,shefg001,P,hollm901,Called third strike"
-com,"ej,cox-b103,M,hollm901,Called third strike on Sheffield"
-com,"Gary Sheffield and Braves Manager Bobby Cox ejected by HP umpire Matt Hollowell"
 play,1,0,jonec004,32,..TBBBTX,D9/L.3-H;2-H
 play,1,0,jonea002,12,BCFX,2/P2F
 play,1,0,fickr001,32,BFFBFBFB,W
@@ -10166,7 +10111,6 @@ play,5,1,heltt001,11,FBX,43/G
 play,6,0,furcr001,00,H,HP
 play,6,0,gilem001,00,,NP
 sub,derom001,"Mark De Rosa",0,1,12
-com,"Braves Rafael Furcal left the game due to an injured leg"
 play,6,0,gilem001,21,..BFBX,3/P3F
 play,6,0,bragd001,11,F1BX,2/P2F
 play,6,0,jonec004,00,X,HR/9/F.1-H
@@ -10185,7 +10129,6 @@ play,7,0,blanh001,32,BBBCF>X,S9/L.1-3
 play,7,0,maddg002,00,,NP
 sub,hessm001,"Mike Hessman",0,9,11
 play,7,0,hessm001,21,.BFBX,4(1)3/GDP
-com,"Debut game for Mike Hessman"
 play,7,1,uribj002,00,,NP
 sub,grybk001,"Kevin Gryboski",0,9,1
 play,7,1,uribj002,21,.BBCX,6/L
@@ -10941,7 +10884,6 @@ play,5,1,bellm002,00,X,3/G
 play,5,1,jennj001,01,CX,D8/F
 play,5,1,bellr002,01,CH,HP
 play,5,1,stync001,21,CBBX,3/P
-com,"Infield Fly rule"
 play,5,1,heltt001,31,BFBBB,W.2-3;1-2
 play,5,1,wilsp002,30,BBBB,W.3-H;2-3;1-2
 play,5,1,walkl001,21,BBCX,9/F
@@ -11054,7 +10996,6 @@ play,1,1,walkl001,21,BFBX,7/F
 play,1,1,paytj001,10,BX,S8/L.2-H(UR)
 play,1,1,johnc002,30,1BBBB,W.1-2
 play,1,1,barmc001,22,BFBFX,9/F
-com,"Debut game for Clint Barmes"
 play,2,0,belta001,00,X,HR/7/F
 play,2,0,burnj001,32,BFCBFFBFX,6/P
 play,2,0,cabrj002,01,CX,S8/F
@@ -11132,7 +11073,6 @@ play,7,0,coraa001,12,BCFX,S7/F.2-H
 play,7,0,motag001,00,,NP
 sub,hillk002,"Koyie Hill",0,9,11
 play,7,0,hillk002,10,.11BX,D9/L.1-3
-com,"Debut game for Koyie Hill"
 play,7,0,iztuc001,30,IIII,IW
 play,7,0,lodup001,00,X,7/L
 play,7,0,grees001,00,,NP
@@ -12577,15 +12517,11 @@ play,1,0,spivj001,00,>B,SB2
 play,1,0,spivj001,10,>B.X,9/F
 play,1,0,gonzl001,32,B2BFBSB,W
 play,1,0,mondr002,12,CTBX,6/P
-com,"Infield Fly rule"
 play,1,0,cinta001,12,BSSX,5(2)/FO/G
 play,1,1,bellr002,31,BBBCB,W
 play,1,1,stync001,11,B1CX,54(1)/FO/G
 play,1,1,heltt001,30,BBBB,W.1-2
 play,1,1,wilsp002,01,CX,S1/G-.2-3;1-2
-com,"ej,brenb001,M,cousd901,Arguing batter ran outside baseline"
-com,"Diamondbacks Manager Bob Brenly ejected by HP umpire Derryl Cousins"
-com,"for arguing that Preston Wilson ran outside the baseline"
 play,1,1,walkl001,22,.FBCBX,HR/89/F.3-H;2-H;1-H
 play,1,1,paytj001,01,CX,63/G
 play,1,1,johnc002,01,CX,S7/L

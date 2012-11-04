@@ -381,8 +381,6 @@ play,2,1,suppj001,02,FFFS,K
 play,3,0,dempr002,20,BBX,8/F
 play,3,0,soria001,32,FFBBBFB,W
 play,3,0,fukuk001,20,BB*B,SB2
-com,"Soriano's 250th career stolen base; became the 19th player with 250"
-com,"steals and 250 home runs"
 play,3,0,fukuk001,32,BB*B.2CSS,K
 play,3,0,lee-d002,22,BSBFX,53/G
 play,3,1,weekr001,12,CBFX,13/G-
@@ -396,7 +394,6 @@ play,4,0,fontm001,30,1*BBBB,W.1-2
 play,4,0,therr001,00,X,S8/G.2-3;1-2
 play,4,0,hillk002,00,,NP
 sub,johnr008,"Reed Johnson",0,4,12
-com,"Cubs center fielder Milton Bradley left the game due to an injured groin"
 play,4,0,hillk002,30,.*B*BBB,W.3-H;2-3;1-2
 play,4,0,dempr002,01,CX,52(3)/FO/G.2-3;1-2
 play,4,0,soria001,32,*BFBBS>B,W.3-H;2-3;1-2
@@ -1193,7 +1190,6 @@ play,4,1,hardj003,31,BBCBB,W
 play,4,1,hallb001,21,C*B1BX,S8/G.1-2
 play,4,1,rivem003,00,,NP
 sub,kendj001,"Jason Kendall",1,8,11
-com,"Brewers catcher Mike Rivera left the game due to an injured foot/ankle"
 play,4,1,kendj001,11,.CBX,4/P/IF
 play,4,1,bushd001,31,BBBCB,W.2-3;1-2
 play,4,1,weekr001,11,FBX,3/P3F
@@ -2034,7 +2030,6 @@ play,3,1,fielp001,00,,NP
 sub,milea001,"Aaron Miles",0,4,4
 play,3,1,fielp001,00,,NP
 sub,fontm001,"Mike Fontenot",0,7,5
-com,"Cubs third baseman Aramis Ramirez left the game due to an injured neck/shoulder"
 play,3,1,fielp001,01,..C1X,9/F
 play,3,1,camem001,02,1FTX,S8/L.1-2
 play,3,1,hardj003,01,CX,3/G
@@ -2691,9 +2686,6 @@ play,6,0,hermj001,11,BCX,7/F
 play,6,0,ameza001,21,CBBX,D9/G
 play,6,0,pennh001,00,,NP
 sub,gloar001,"Ross Gload",0,9,11
-com,"$Ross Gload hit a ball into the right field corner; it cleared the 8-foot wall and was ruled"
-com,"a homer by first base umpire Bruce Dreckman; the Brewers complained about the call; crew chief"
-com,"Gary Darling took about two minutes to watch the replay and reversed the call from homer to foul"
 play,6,0,gloar001,12,.BFSS,K
 play,6,1,counc001,00,,NP
 sub,meyed002,"Dan Meyer",0,9,1
@@ -2706,7 +2698,6 @@ play,7,0,bonie001,00,,NP
 sub,hallb001,"Bill Hall",1,6,5
 play,7,0,bonie001,00,,NP
 sub,cofft001,"Todd Coffey",1,9,1
-com,"Brewers shortstop J. Hardy left the game due to an injured head"
 play,7,0,bonie001,32,....CBBBCFFX,7/F7LF
 play,7,0,coghc001,11,CBX,3/G
 play,7,0,ramih003,01,SX,S8/G
@@ -3110,7 +3101,6 @@ play,3,0,moliy001,02,FFFX,43/G
 play,3,1,counc001,01,CX,S7/L
 play,3,1,mcgec001,32,BCB1BC>B,W.1-3(E2/TH2)
 play,3,1,braur002,22,BFBFH,HP.1-2
-com,"Ryan Braun was hit on the right wrist"
 play,3,1,fielp001,00,X,63/G-.3-H;2-3;1-2
 play,3,1,camem001,00,X,4/P
 play,3,1,hartc001,22,FBFF*BS,K
@@ -3128,7 +3118,6 @@ play,4,1,kendj001,12,CFBS,K
 play,4,1,mccls002,01,CX,7/L
 play,5,0,pujoa001,00,,NP
 sub,cataf001,"Frank Catalanotto",1,3,7
-com,"Brewers left fielder Ryan Braun left the game due to an injured wrist"
 play,5,0,pujoa001,31,..BBBFB,W
 play,5,0,moliy001,11,SB>S,CS2(24)
 play,5,0,moliy001,32,SB>S.BBFFB,W
@@ -4178,9 +4167,6 @@ play,2,0,barmc001,02,CFS,K
 play,2,1,gamem001,00,X,8/L
 play,2,1,mcgec001,11,CBX,8/F
 play,2,1,geruj001,20,BBX,63/G
-com,"umpchange,3,ump1b,belld901"
-com,"umpchange,3,ump2b,(None)"
-com,"$1B umpire Jerry Crawford left the game after becoming ill"
 play,3,0,heltt001,22,CCBBFFX,43/G-
 play,3,0,hawpb001,22,BCFFBS,K
 play,3,0,spilr001,02,CFS,K
@@ -4419,7 +4405,6 @@ sub,gamem001,"Mat Gamel",1,9,11
 play,7,1,gamem001,00,,NP
 sub,porea001,"Aaron Poreda",0,9,1
 play,7,1,gamem001,12,..CCBT,K
-com,"Debut game for Aaron Poreda"
 play,7,1,mcgec001,00,X,S8/G.2-H;1-2
 play,7,1,hardj003,01,CX,7/F
 play,8,0,podss001,00,,NP
@@ -4875,7 +4860,6 @@ play,7,0,credj001,20,BBX,S8/L
 play,7,0,yound003,01,CX,54(1)3/GDP
 play,7,1,hartc001,00,,NP
 sub,tolbm001,"Matt Tolbert",0,8,4
-com,"Twins shortstop Nick Punto left the game due to an injured chest"
 play,7,1,hartc001,22,.CBBSX,9/L
 play,7,1,camem001,12,CCBS,K
 play,7,1,hardj003,00,X,S7/L
@@ -5042,9 +5026,6 @@ play,8,1,hartc001,01,SX,43/G+
 play,8,1,camem001,10,BX,6/P
 play,8,1,hardj003,22,CBSBX,S8/F-
 play,8,1,kendj001,10,BX,D8/L.1-H;B-H(E6/THH)(E1/TH3)(NR)(UR)
-com,"$the relay throw to the plate by Brendan Harris skipped past catcher Joe Mauer;"
-com,"pitcher Nick Blackburn was backing up the play and threw to 3B trying to get"
-com,"Jason Kendall advancing but the throw sailed past Joe Crede"
 play,8,1,cofft001,00,,NP
 sub,mcgec001,"Casey McGehee",1,9,11
 play,8,1,mcgec001,10,.BX,8/L
@@ -5557,7 +5538,6 @@ start,hartc001,"Corey Hart",1,7,9
 start,kendj001,"Jason Kendall",1,8,2
 start,suppj001,"Jeff Suppan",1,9,1
 play,1,0,winnr001,10,BX,43/G
-com,"Debut game for Ryan Sadowski"
 play,1,0,lewif001,02,FSX,63/G
 play,1,0,sandp001,20,BBX,7/F
 play,1,1,gamem001,22,BSCBFS,K
@@ -5614,7 +5594,6 @@ play,6,1,braur002,00,,NP
 sub,torra001,"Andres Torres",0,2,8
 play,6,1,braur002,00,,NP
 sub,uribj002,"Juan Uribe",0,3,5
-com,"Giants third baseman Pablo Sandoval left the game due to an injured chest"
 play,6,1,braur002,00,...X,S1/G+
 play,6,1,fielp001,32,BBBCC>X,8/F
 play,6,1,mcgec001,31,C*BBBX,64(1)3/GDP
@@ -5913,15 +5892,8 @@ play,4,0,martf002,01,FX,3/P
 play,4,1,hallb001,02,FSFFFFS,K
 play,4,1,burnm001,30,BBBB,W
 play,4,1,hartc001,02,SFX,D9/F.1-3
-com,"$Mets center fielder Fernando Martinez slipped while chasing the fly ball;"
-com,"the ball landed about two feet away"
 play,4,1,hardj003,30,B*BBB,W
-com,"ej,wartd101,C,wolfj901,Balls and strikes"
-com,"$Mets Pitching Coach Dan Warthen went to the mound to talk with Johan Santana;"
-com,"as Warthen left the field he said something to HP umpire Jim Wolf and was ejected"
 play,4,1,braur002,02,.FFX,D7/L.3-H;2-H;1-H;B-H(E1/TH3)(NR)(UR)
-com,"$the relay throw to the plate by SS Alex Cora bounced away from catcher Omir"
-com,"Santos; pitcher Johan Santana backed up the play and his throw to 3B went into LF"
 play,4,1,fielp001,22,BCFFBX,43/G
 play,4,1,mcgec001,02,FCX,6/L
 play,5,0,santo001,01,CX,7/L
@@ -6062,7 +6034,6 @@ play,5,1,gamem001,22,BCFBC,K
 play,5,1,kendj001,31,BBBCB,W
 play,5,1,geruj001,31,BBCBX,46(1)3/GDP
 play,6,0,castl001,12,CCBFX,DGR/7/L-
-com,"fan interference"
 play,6,0,wrigd002,12,BCCC,K
 play,6,0,churr001,31,BSBBX,S8/G.2-H
 play,6,0,evann001,12,SSB*B,CS2(24)
@@ -6182,13 +6153,6 @@ play,2,1,camem001,32,FCBBBX,S8/L.1-2
 play,2,1,hartc001,00,X,S7/F.2-3;1-2
 play,2,1,kendj001,12,CCFBX,S/BR/G.2X3(6);3-3;1-2
 play,2,1,gally001,02,FSS,K
-com,"ej,sveud001,C,hohnb901,Checked swing"
-com,"ej,randw001,C,hohnb901,Non-swing on check swing"
-com,"Brewers Batting Coach Dale Sveum ejected by HP umpire Bill Hohn for arguing that"
-com,"Yovani Gallardo checked his swing on strike three;"
-com,"on the third pitch to Albert Pujols, HP umpire Bill Hohn asked 1B Bruce"
-com,"Dreckman if Pujols had checked his swing; when Dreckman ruled no swing,"
-com,"the Brewers dugout argued and bench coach Willie Randolph was ejected by Hohn"
 play,3,0,pujoa001,12,.FCB.FS,K
 play,3,0,ludwr001,22,BCBCX,43/G
 play,3,0,ankir001,22,CBSBS,K
@@ -7651,8 +7615,6 @@ play,6,0,johnn001,32,BCFBB*B,W
 play,6,0,willj004,00,,NP
 sub,difem002,"Mark DiFelice",1,9,1
 play,6,0,willj004,01,.SX,HR/78/F.3-H;2-H;1-H
-com,"$Josh Willingham becomes the 13th player and 3rd NL player to hit"
-com,"two grand slams in the same game"
 play,6,0,bardj001,22,CFBFBX,8/F
 play,6,0,gonza005,11,SBX,8/F
 play,6,1,hartc001,12,CSBFX,63/G
@@ -7952,11 +7914,6 @@ play,3,0,morgn001,10,BX,7/F
 play,3,1,lopef001,01,CX,4!3/G
 play,3,1,counc001,10,BX,S9/L+
 play,3,1,braur002,11,BCX,T8/F.1-H
-com,"$Braun's fly to deep CF hit the glove of Nationals centerfielder Nyjer Morgan"
-com,"and then went behind the glove, striking the yellow stripe at the top of the"
-com,"Wall; it was ruled a home run; the umpires huddled and then crew chief Joe"
-com,"West watched the replay and reversed the call to ball in play; he ruled that"
-com,"Counsell scored and Braun was at third"
 play,3,1,fielp001,22,BBSFB,WP.3-H
 play,3,1,fielp001,32,BBSFB.S,K
 play,3,1,hartc001,02,SSFX,63/G
@@ -8086,7 +8043,6 @@ start,camem001,"Mike Cameron",1,6,8
 start,mcgec001,"Casey McGehee",1,7,5
 start,kendj001,"Jason Kendall",1,8,2
 start,gally001,"Yovani Gallardo",1,9,1
-com,"$Umpire Joe West's 4000th game in the majors"
 play,1,0,morgn001,32,BCBSBFX,D78/F-
 play,1,0,gonza005,02,CLS,K
 play,1,0,johnn001,02,F2FX,9/F
@@ -8103,8 +8059,6 @@ play,2,1,camem001,32,BCCB1BX,6/P
 play,2,1,mcgec001,00,1X,9/F
 play,3,0,nievw001,12,FSFBFX,S5/G-
 play,3,0,herna003,12,FSBS,K
-com,"ej,riggj801,M,westj901,Balls and strikes"
-com,"Nationals Manager Jim Riggleman ejected by HP umpire Joe West"
 play,3,0,martj005,22,.CBBLC,K
 play,3,0,morgn001,12,BCF1*B,OA.1X2(26)
 play,3,1,kendj001,01,CX,8/L
@@ -8337,7 +8291,6 @@ play,8,0,gwynt002,20,BBX,7/L
 play,8,0,cabre001,21,BFBX,S18/L.2-H
 play,8,0,ecksd001,00,,NP
 sub,weatd001,"David Weathers",1,7,1
-com,"$Line drive off Colome's pitching hand, X-rays show no break"
 play,8,0,ecksd001,11,.BCX,4/L
 play,8,1,braur002,00,,NP
 sub,mujie001,"Edward Mujica",0,2,1
@@ -8582,7 +8535,6 @@ start,rivem003,"Mike Rivera",1,7,2
 start,parrm001,"Manny Parra",1,8,1
 start,escoa003,"Alcides Escobar",1,9,6
 play,1,0,gwynt002,02,CCS,K
-com,"Debut game for Cesar Carrillo"
 play,1,0,ecksd001,12,CBFS,K
 play,1,0,gonza003,21,BBFX,S8/G
 play,1,0,headc001,00,X,46(1)/FO/G
@@ -8807,7 +8759,6 @@ play,5,0,erstd001,32,.BCFBBS,K
 play,5,1,lopef001,00,,NP
 sub,gervs001,"Samuel Gervacio",0,9,1
 play,5,1,lopef001,20,.BBX,31/G
-com,"Debut game for Samuel Gervacio"
 play,5,1,camem001,02,CCC,K
 play,5,1,braur002,11,BCX,43/G
 play,6,0,bourm001,21,CBBX,S9/L+
@@ -9107,8 +9058,6 @@ play,6,0,matsk001,11,LBX,8/F
 play,6,0,berkl001,32,BCFBFBB,W
 play,6,0,lee-c001,10,BH,HP.1-2
 play,6,0,blumg001,21,BBFX,HR/9/F.2-H;1-H
-com,"Astros right fielder Hunter Pence hit a fly ball down the LF line the was ruled fair and a"
-com,"home run; crew chief Tim Welke looked at the replay and overturned the call to a foul ball"
 play,6,0,pench001,32,BBFSBX,8/F
 play,6,0,rodri001,11,CBX,63/G
 play,6,1,braur002,10,BX,S8/L
@@ -9541,7 +9490,6 @@ play,8,0,balew001,31,B>C.BBB,W
 play,8,0,millc001,00,,NP
 sub,barkk001,"Kevin Barker",0,8,11
 play,8,0,barkk001,00,.X,S1/G-.3-H(NR);1-3(E1/TH);B-2
-com,"originally E1, changed to single plus E1 two days later"
 play,8,0,massn001,00,,NP
 sub,gomej001,"Jonny Gomes",0,9,11
 play,8,0,gomej001,30,.BBBB,W
@@ -10310,7 +10258,6 @@ play,6,1,lopef001,32,BFFBFBB,W
 play,6,1,geruj001,00,,NP
 sub,runzd001,"Dan Runzler",0,9,1
 play,6,1,geruj001,02,.CSC,K
-com,"Debut game for Dan Runzler"
 play,7,0,runzd001,00,,NP
 sub,cofft001,"Todd Coffey",1,9,1
 play,7,0,runzd001,00,,NP
@@ -10686,8 +10633,6 @@ play,12,0,rente001,21,BBCX,7/F
 play,12,0,sandp001,12,CCBC,K
 play,12,1,braur002,12,BFFFS,K
 play,12,1,fielp001,01,SX,HR/9/L
-com,"$the Brewers all greeted Prince Fielder at the plate; he jumped onto the plate and"
-com,"the team all fell down around him"
 data,er,sancj002,1
 data,er,meddb001,0
 data,er,runzd001,0
@@ -11087,7 +11032,6 @@ play,5,0,rasmc001,22,CMB*BX,T8/F.2-H
 play,5,0,pujoa001,20,BBX,HR/78/F.3-H
 play,5,0,hollm001,00,,NP
 sub,ankir001,"Rick Ankiel",0,4,11
-com,"Cardinals left fielder Matt Holliday left the game due to an injured knee"
 play,5,0,ankir001,11,.BSX,6/P
 play,5,0,ludwr001,10,BX,S8/L
 play,5,0,derom001,00,X,6(1)/FO/G
@@ -11677,7 +11621,6 @@ play,1,0,ramia001,00,X,S8/L-.1-2
 play,1,0,hoffm001,01,FX,53/G.2-3;1-2
 play,1,0,bakej001,11,FBX,S8/L.3-H;2-3
 play,1,0,colvt001,21,BBFX,7/SF/F.3-H
-com,"Debut game for Tyler Colvin"
 play,1,0,hillk002,02,CS1FC,K
 play,1,1,lopef001,22,CFBBC,K
 play,1,1,hartc001,22,BBFFX,63/G
@@ -11745,7 +11688,6 @@ play,6,1,geruj001,10,.BX,46(1)3/GDP
 play,7,0,bakej001,00,,NP
 sub,butlj001,"Josh Butler",1,9,1
 play,7,0,bakej001,20,.BBX,S7/G+
-com,"Debut game for Josh Butler"
 play,7,0,colvt001,00,X,63/G-.1-2
 play,7,0,hillk002,02,FCS,K
 play,7,0,scalb001,20,B*BB,WP.2-3

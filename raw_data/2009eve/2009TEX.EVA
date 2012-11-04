@@ -60,7 +60,6 @@ play,2,1,byrdm001,20,B*BX,D7/L.1-3
 play,2,1,davic003,32,BBSC*BS,K
 play,2,1,saltj001,10,BX,S9/L.3-H;2-H
 play,2,1,andre001,22,FBBFX,D9/L.1-3
-com,"Debut game for Elvis Andrus"
 play,2,1,kinsi001,10,BX,S8/L.3-H;2-H
 play,2,1,younm003,32,BFBBF>F>F>B,W.1-2
 play,2,1,hamij003,02,SCX,7/F
@@ -351,7 +350,6 @@ play,2,0,peraj001,22,BFCBX,9/F
 play,2,0,franb001,22,CBFFFBX,9/F
 play,2,0,shopk001,21,BSBX,HR/8/F
 play,2,0,crowt001,12,BCCX,53/G
-com,"Debut game for Trevor Crowe"
 play,2,1,vizqo001,32,BFFBBB,W
 play,2,1,kinsi001,20,BBX,HR/7/L.1-H
 play,2,1,younm003,11,BSX,S8/G
@@ -685,7 +683,6 @@ play,2,1,murpd005,32,BCCBBX,4/P
 play,2,1,davic003,21,BBSX,HR/9/F
 play,2,1,saltj001,00,,NP
 sub,sarfd001,"Dennis Sarfate",0,0,1
-com,"Orioles pitcher Alfredo Simon left the game due to an injured elbow"
 play,2,1,saltj001,32,FB.BCBC,K
 play,2,1,vizqo001,22,CCBBX,31/G
 play,3,0,pie-f001,10,BX,8/F
@@ -1463,7 +1460,6 @@ play,2,0,suzuk001,11,BCX,43/G
 play,2,0,buckt001,02,FSS,K23
 play,2,1,davic003,00,,NP
 sub,crosb002,"Bobby Crosby",0,6,5
-com,"Athletics third baseman Nomar Garciaparra left the game due to an injured leg"
 play,2,1,davic003,11,.BCX,7/F
 play,2,1,saltj001,22,FBFFBX,53/G
 play,2,1,andre001,32,BSCBBB,W
@@ -1478,7 +1474,6 @@ play,3,1,byrdm001,00,,NP
 sub,crosb002,"Bobby Crosby",0,6,4
 play,3,1,byrdm001,00,,NP
 sub,hannj001,"Jack Hannahan",0,9,5
-com,"Athletics second baseman Mark Ellis left the game due to an injured leg"
 play,3,1,byrdm001,22,..CBFBFX,4/P
 play,3,1,younm003,22,CBBFX,53/G
 play,3,1,jonea002,32,CBBSBC,K
@@ -1511,8 +1506,6 @@ play,6,1,jonea002,30,BB.BB,W
 play,6,1,blalh001,11,C*BX,5/P5F
 play,6,1,cruzn002,32,BSBTBB,W.3-H(UR);2-3;1-2
 play,6,1,davic003,12,SBFC,K
-com,"ej,davic003,P,coope901,Called third strike"
-com,"Rangers first baseman Chris Davis ejected by HP umpire Eric Cooper"
 play,6,1,saltj001,00,.X,S7/L-.3-H(UR);2-H(TUR);1-2
 play,6,1,andre001,31,*BBBCX,5/P
 play,7,0,sweer001,00,,NP
@@ -1617,7 +1610,6 @@ play,2,1,davic003,32,BFSBBB,W
 play,2,1,saltj001,12,BSFC,K
 play,3,0,cabro001,00,,NP
 sub,teagt001,"Taylor Teagarden",1,8,2
-com,"Rangers catcher Jarrod Saltalamacchia left the game due to an injured head"
 play,3,0,cabro001,00,.X,D9/L
 play,3,0,custj001,11,BSX,9/L.2-3
 play,3,0,hollm001,10,BX,FC4/G.3XH(42)
@@ -1661,8 +1653,6 @@ play,7,0,cabro001,12,LF*BX,S9/L.2-3;1-2
 play,7,0,custj001,00,,NP
 sub,guare001,"Eddie Guardado",1,0,1
 play,7,0,custj001,30,.BBBB,W.3-H;2-3;1-2
-com,"ej,guare001,P,campa902,Balls and strikes"
-com,"Rangers pitcher Eddie Guardado ejected by HP umpire Angel Campos"
 play,7,0,hollm001,00,,NP
 sub,jennj001,"Jason Jennings",1,0,1
 play,7,0,hollm001,11,..*BSX,52(3)/FO/G.2-3;1-2
@@ -2803,23 +2793,13 @@ start,davic003,"Chris Davis",1,7,3
 start,saltj001,"Jarrod Saltalamacchia",1,8,2
 start,andre001,"Elvis Andrus",1,9,6
 start,padiv001,"Vicente Padilla",1,0,1
-com,"$1:16 rain delay before start of game"
 play,1,0,figgc001,30,BBBB,W
 play,1,0,iztum001,21,BBC1>X,43/G.1-2
 play,1,0,abreb001,01,CX,8/F.2-3
 play,1,0,huntt001,11,CBB,WP.3-H
 play,1,0,huntt001,32,CBB.FBB,W
 play,1,0,morak001,12,BFT1X,9/F
-com,"$John Lackey's first appearance of the season coming off the disabled list"
 play,1,1,kinsi001,10,BH,HP
-com,"ej,lackj001,P,davib902,Intentional HBP; second pitch of season"
-com,"$Lackey's first to Ian Kinsler, who homered twice the previous day, was behind"
-com,"the batter's head; the umpires gave Lackey the benefit of the doubt because it"
-com,"was his first appearance of the year; the second pitch hit Kinsler in the ribs"
-com,"and Lackey was ejected by HP umpire Bob Davidson; Lackey stood near the mound with"
-com,"a suprised look on his face and his arms raised; Angels manager Mike Scioscia"
-com,"argued with Davidson and crew chief Tim Tschida; Kinsler jogged to 1B without"
-com,"incident; both teams were warned"
 play,1,1,younm003,00,,NP
 sub,louxs001,"Shane Loux",0,0,1
 play,1,1,younm003,30,..BB*BC,SB2
@@ -3238,7 +3218,6 @@ start,davic003,"Chris Davis",1,7,3
 start,saltj001,"Jarrod Saltalamacchia",1,8,2
 start,vizqo001,"Omar Vizquel",1,9,6
 start,millk004,"Kevin Millwood",1,0,1
-com,"2:24 rain delay before start of game"
 play,1,0,jeted001,10,BX,S7/L
 play,1,0,damoj001,00,X,36(1)/FO/G
 play,1,0,teixm001,02,CF1B,PB.1-2
@@ -3247,8 +3226,6 @@ play,1,0,rodra001,01,CX,8/F
 play,1,1,kinsi001,22,BFBFX,T8/F
 play,1,1,younm003,00,,NP
 sub,gardb001,"Brett Gardner",0,6,8
-com,"Yankees CF Melky Cabrera injured his right shoulder running into the wall on Ian Kinsler's"
-com,"triple"
 play,1,1,younm003,10,.BX,FC5/G.3XH(5)
 play,1,1,hamij003,11,CBX,46(1)/FO/G
 play,1,1,cruzn002,01,CX,D7/L.1-3
@@ -3582,7 +3559,6 @@ play,2,1,andre001,11,CBX,9/F
 play,3,0,kenna001,21,BCBX,5/P5F
 play,3,0,custj001,00,,NP
 sub,crosb002,"Bobby Crosby",0,3,11
-com,"Athletics designated hitter Jack Cust left the game due to an injured back"
 play,3,0,crosb002,31,.BBSBX,53/G
 play,3,0,hollm001,00,X,9/F
 play,3,1,kinsi001,00,.X,53/G
@@ -3949,7 +3925,6 @@ play,8,1,andre001,02,CFX,13/G
 play,9,0,giamj001,00,,NP
 sub,moscg001,"Guillermo Moscoso",1,0,1
 play,9,0,giamj001,10,.BX,S34/G
-com,"Debut game for Guillermo Moscoso"
 play,9,0,powel001,22,CBBFS,K
 play,9,0,sweer001,00,X,S7/L.1-2
 play,9,0,cunna001,22,S*BFBX,64(1)3/GDP
@@ -4072,7 +4047,6 @@ play,7,1,blalh001,10,BX,S8/G
 play,7,1,byrdm001,12,BFSX,D7/L.1-3
 play,7,1,murpd005,00,,NP
 sub,bresc001,"Craig Breslow",0,0,1
-com,"Athletics pitcher Dallas Braden left the game due to an injured hand/wrist"
 play,7,1,murpd005,11,.BCX,7/F
 play,7,1,saltj001,22,BFCBX,D7/G.3-H;2-H
 play,7,1,andre001,00,,NP
@@ -4766,9 +4740,6 @@ play,5,1,byrdm001,00,X,9/F
 play,5,1,davic003,12,BSCC,K
 play,5,1,saltj001,10,BX,S8/L
 play,5,1,andre001,21,BFBX,9/F
-com,"$Delay of 1:41 for light failure; the bank of lights between HP and 1B had been out"
-com,"since the beginning of the game but, once the sun set, visibility at the plate became"
-com,"difficult; a company had to come to the park to fix a breaker switch"
 play,6,0,pierj002,00,,NP
 sub,guare001,"Eddie Guardado",1,0,1
 play,6,0,pierj002,10,.BX,S7/L
@@ -5904,7 +5875,6 @@ play,1,1,murpd005,10,BX,8/F
 play,1,1,byrdm001,11,CBX,D7/L.1-3
 play,1,1,cruzn002,30,B*BII,IW
 play,1,1,borbj001,12,BFCS,K
-com,"Debut game for Julio Borbon"
 play,2,0,guerv001,10,BX,43/G
 play,2,0,rivej001,20,BBX,53/G-
 play,2,0,morak001,20,BBX,3/G
@@ -7047,14 +7017,6 @@ play,9,1,blalh001,00,,NP
 sub,nathj001,"Joe Nathan",0,0,1
 play,9,1,blalh001,00,.X,4/P
 play,9,1,cruzn002,12,SSBX,S1/G
-com,"ej,gardr001,M,cedeg901,Argued runner out of base path"
-com,"$the roller by Nelson Cruz went up the first base line, where Joe Nathan"
-com,"fielded it standing at the line; Nelson's momentum took him over the line"
-com,"into the three-foot lane; Cruz ran around Nathan to the fair side"
-com,"and Nathan tried to tag him by moving his glove behind his back; then"
-com,"Nathan threw the ball to first on a close play as Cruz dove into the bag;"
-com,"Twins Manager Ron Gardenhire ejected by 1B umpire Gary Cederstrom after"
-com,"an animated argument by Gardenhire"
 play,9,1,murpd005,22,.BCFBC,K
 play,9,1,saltj001,00,>B,DI.1-2
 play,9,1,saltj001,22,>B.SBTS,K
@@ -7144,10 +7106,6 @@ play,4,0,spand001,00,X,9/SF/F.3-H;2-3
 play,4,0,casia001,10,BX,S9/L.3-H;1-2
 play,4,0,mauej001,22,B*BF>FC,K
 play,4,1,hamij003,32,SBSBBX,5/L-
-com,"$Andruw Jones hit a fly ball down the left field line that was called a home run; Twins"
-com,"manager Ron Gardenhire immediately came out to talk with 3B umpire Brian O’Nora; O’Nora"
-com,"went to crew chief (and plate umpire) Gary Cederstrom to talk; Cederstrom watched the"
-com,"replay and reversed the call to a foul ball"
 play,4,1,jonea002,22,BFCBX,8/F
 play,4,1,blalh001,10,BX,8/L
 play,5,0,mornj001,32,BFBSBB,W
@@ -7885,7 +7843,6 @@ play,4,0,ryand001,12,CBSFX,13/G-.2-3;1-2
 play,4,0,granc001,01,CX,9/F
 play,4,1,saltj001,00,,NP
 sub,evera001,"Adam Everett",0,8,6
-com,"Tigers shortstop Ramon Santiago left the game due to an injured leg"
 play,4,1,saltj001,11,.FBX,8/F
 play,4,1,andre001,22,BBCCX,S7/L
 play,4,1,kinsi001,00,1,SB2.1-3(E3/TH2)
@@ -7916,7 +7873,6 @@ play,7,0,evera001,00,,NP
 sub,vizqo001,"Omar Vizquel",1,1,4
 play,7,0,evera001,00,,NP
 sub,guare001,"Eddie Guardado",1,0,1
-com,"Rangers second baseman Ian Kinsler left the game due to an injured leg"
 play,7,0,evera001,11,..BCX,4/P
 play,7,0,ryand001,32,BBSFFBC,K
 play,7,0,granc001,22,FBBTX,5/P5F
@@ -8351,9 +8307,6 @@ play,7,1,andre001,00,X,63/G
 play,7,1,vizqo001,22,BFTBX,S9/L
 play,7,1,younm003,32,C*BBFB>F,NP
 sub,whits002,"Sean White",0,0,1
-com,"$Game stopped for rain delay of 2:18 with 3-2 count on Young. When"
-com,"game resumed, White replaced Batista and completed walk which was"
-com,"charged to Batista"
 play,7,1,younm003,32,C*BBFB>F.>B,W.1-2
 play,7,1,byrdm001,02,CFX,4/P
 play,8,0,suzui001,00,,NP
@@ -8740,7 +8693,6 @@ play,4,1,blalh001,12,BCFS,K
 play,4,1,murpd005,22,FBS*BT,K
 play,4,1,saltj001,00,,NP
 sub,teagt001,"Taylor Teagarden",1,8,11
-com,"Rangers catcher Jarrod Saltalamacchia left the game due to numbness in his right hand"
 play,4,1,teagt001,32,.S*BBCFB>S,K
 play,5,0,green001,00,,NP
 sub,teagt001,"Taylor Teagarden",1,8,2
@@ -9193,7 +9145,6 @@ play,1,1,murpd005,32,BSCB*BX,S9/L.3-H;2-3;1-2
 play,1,1,jonea002,32,CBC*B*BX,7/F
 play,1,1,blalh001,01,SX,8/SF/F.3-H;2-3
 play,1,1,richk001,12,BFC1S,K
-com,"Debut game for Kevin Richardson"
 play,2,0,kubej002,01,CX,S9/L
 play,2,0,cuddm001,11,CBB,WP.1-2
 play,2,0,cuddm001,32,CBB.BCS,K
@@ -9230,7 +9181,6 @@ play,4,1,byrdm001,00,,NP
 sub,casia001,"Alexi Casilla",0,4,4
 play,4,1,byrdm001,00,,NP
 sub,puntn001,"Nick Punto",0,9,6
-com,"Twins first baseman Justin Morneau left the game due to dizziness"
 play,4,1,byrdm001,01,...CX,53/G
 play,4,1,murpd005,20,BBX,6/P
 play,4,1,jonea002,00,X,53/G
@@ -9357,8 +9307,6 @@ play,1,0,cabro001,10,11B>X,3/G.1-2
 play,1,0,mauej001,02,CFX,43/G.2-3
 play,1,0,kubej002,32,BSBBF,NP
 sub,harrb001,"Brendan Harris",0,4,11
-com,"$Kubel injured knee on strike 2, left for PH Harris who completed"
-com,"strikeout which was charged to Kubel"
 play,1,0,harrb001,32,BSBBF.S,K
 play,1,1,borbj001,01,.CX,S6/G
 play,1,1,younm003,01,C1>B,SB2
@@ -9716,10 +9664,6 @@ sub,keppb001,"Bob Keppel",0,0,1
 play,6,1,andre001,10,.PX,D7/L.1-H;B-3(THH)
 play,6,1,borbj001,01,FX,D9/G+.3-H
 play,6,1,younm003,32,SBBCBX,D7/F.2-H
-com,"$Young's fly hit the top of the wall in left field over the out-of-town"
-com,"scoreboard; it was ruled in play but Rangers' manager Ron Washington"
-com,"asked about the play; crew chief Dale Scott watched the replay and"
-com,"upheld the call"
 play,6,1,hamij003,00,,NP
 sub,mansj001,"Jeff Manship",0,0,1
 play,6,1,hamij003,32,.BBCFBFX,S6/G-.2-3
@@ -10146,7 +10090,6 @@ play,4,0,inglj001,00,,NP
 sub,andre001,"Elvis Andrus",1,2,6
 play,4,0,inglj001,00,,NP
 sub,vizqo001,"Omar Vizquel",1,9,5
-com,"Rangers third baseman Michael Young left the game due to an injured leg"
 play,4,0,inglj001,32,..BBBCFFB,W
 play,4,0,linda001,22,F1BBCX,16(1)3/GDP
 play,4,0,overl001,11,BSX,63/G
@@ -10301,7 +10244,6 @@ play,4,1,rodri001,00,X,14(1)/FO/G
 play,4,1,blalh001,11,BFX,7/F
 play,5,0,mcdoj003,00,,NP
 sub,byrdm001,"Marlon Byrd",1,4,8
-com,"Rangers center fielder Josh Hamilton left the game due to an injured back"
 play,5,0,mcdoj003,00,.X,4/P
 play,5,0,scutm001,12,CFBX,9/F
 play,5,0,hilla001,01,CX,6/P
@@ -10406,7 +10348,6 @@ start,rodri001,"Ivan Rodriguez",1,7,2
 start,davic003,"Chris Davis",1,8,3
 start,germe001,"Esteban German",1,9,5
 start,millk004,"Kevin Millwood",1,0,1
-com,"$17 minute rain delay at start of game"
 play,1,0,suzui001,00,X,D9/G
 play,1,0,gutif001,21,CBBX,53/G
 play,1,0,lopej003,02,CCS,K
@@ -10451,9 +10392,6 @@ play,5,0,belta001,02,FCX,8/F
 play,5,0,hallb001,01,FX,53/G
 play,5,0,hannj001,22,CCBBX,43/G
 play,5,1,davic003,00,X,DGR/8/F
-com,"$the fly ball to left center by Chris Davis was ruled a home run; Seattle manager"
-com,"Don Wakamatsu asked about the call so crew chief Gary Cederstrom watched the replay"
-com,"and overturned the call to a ball in play; Davis was awarded second base"
 play,5,1,germe001,01,CX,53/G-.2-3
 play,5,1,borbj001,12,CSF*BX,43/G.3-H
 play,5,1,andre001,11,BFX,S5/G+
@@ -10503,7 +10441,6 @@ play,9,1,byrdm001,00,,NP
 sub,messr001,"Randy Messenger",0,0,1
 play,9,1,byrdm001,12,.BCSX,S7/L-
 play,9,1,cruzn002,22,CBFBX,E6/FO/G.1-2
-com,"$Game called for rain after delay of 1:06"
 data,er,morrb001,3
 data,er,kells001,0
 data,er,lowem002,0

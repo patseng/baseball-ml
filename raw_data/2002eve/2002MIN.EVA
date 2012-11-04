@@ -524,8 +524,6 @@ play,3,0,beltc001,00,X,D7
 play,3,0,sweem002,01,CX,S9.2-H
 play,3,0,tuckm001,21,BCBX,9/F9
 play,3,0,randj002,22,BSFBX,T8.1-H
-com,"ej,print001,P,emmep901,Balls and strikes (while catching)"
-com,"Tom Prince ejected by HP umpire Paul Emmel"
 play,3,0,ibanr001,00,,NP
 sub,piera001,"A.J. Pierzynski",1,8,2
 play,3,0,ibanr001,02,CFS,K
@@ -1057,8 +1055,6 @@ play,9,0,lawtm002,00,,NP
 sub,jackm001,"Mike Jackson",1,0,1
 play,9,0,lawtm002,30,BBBB,W
 play,9,0,gutir001,01,CH,HP.1-2
-com,"ej,manuc101,M,younl901,Protesting warning after HBP"
-com,"Indians Manager Charlie Manuel ejected by Young"
 play,9,0,burke001,00,X,S.2-3;1-2
 play,9,0,cordw001,21,BCBX,S7/7S.3-H;2-3;1-2
 play,9,0,frymt001,00,X,3/FL
@@ -1741,8 +1737,6 @@ play,6,1,buchb002,00,,NP
 sub,zambv001,"Victor Zambrano",0,0,1
 play,6,1,buchb002,22,SFBBC,K/C
 play,6,1,huntt001,22,BSFBS,K
-com,"ej,sturt001,P,welkt901,Unknown reason"
-com,"Tanyon Sturtze ejected by 1B umpire Tim Welke"
 play,7,0,tynej001,00,,NP
 sub,romej001,"J.C. Romero",1,0,1
 play,7,0,tynej001,10,BX,53/BG
@@ -1754,7 +1748,6 @@ sub,jackm001,"Mike Jackson",1,0,1
 play,7,0,vaugg001,22,BFFBS,K
 play,7,1,koskc001,30,BBBB,W
 play,7,1,mohrd001,10,BX,3(1)3/GDP
-com,"Yes, unassisted DP for first baseman Cox"
 play,7,1,print001,00,X,6/P6
 play,8,0,gomec001,12,BCFX,7/F7
 play,8,0,flahj001,22,BSBFFFX,53/G
@@ -2196,7 +2189,6 @@ play,8,1,miend001,32,CBFBBB,W
 play,8,1,lecrm001,00,,NP
 sub,rodnf001,"Fernando Rodney",0,0,1
 play,8,1,lecrm001,20,BBX,3/FL
-com,"Debut game for Fernando Rodney"
 play,8,1,huntt001,22,CSBFBFX,54(1)/FO
 play,9,0,paquc001,01,CX,53/G
 play,9,0,magew001,10,BX,53/G
@@ -3461,7 +3453,6 @@ play,2,0,everc001,22,BBFSX,3/G#
 play,2,0,perrh001,10,BX,63/G
 play,2,0,lambm001,10,BX,D/89D
 play,2,0,kaplg001,01,CX,S7/7S.2-H;B-3(E7/THH)
-com,"$the throw went into the stands"
 play,2,0,haseb001,22,CBCBX,53/G
 play,2,1,huntt001,00,X,43/G
 play,2,1,ortid001,31,BBSBX,3/G#
@@ -3747,12 +3738,6 @@ play,10,1,guzmc001,00,,NP
 sub,spies001,"Scott Spiezio",0,5,4
 play,10,1,guzmc001,00,,NP
 sub,kenna001,"Adam Kennedy",0,7,8
-com,"Darin Erstad moved from center to first base. Scott"
-com,"Spiezio, who had been playing first, positioned himself"
-com,"between first and second and was listed as the second"
-com,"baseman.  Adam Kennedy, who had been at second base,"
-com,"stayed in the infield between Spiezio and shortstop"
-com,"Jose Nieves.  Kennedy was listed as center fielder."
 play,10,1,guzmc001,00,X,7/SF.3-H
 data,er,schos001,4
 data,er,webeb001,0
@@ -4523,8 +4508,6 @@ play,8,1,huntt001,00,,NP
 sub,shuep001,"Paul Shuey",0,0,1
 play,8,1,huntt001,02,CSS,K
 play,8,1,koskc001,32,CSBBBC,K/C
-com,"ej,manuc101,M,joycj901,Balls and strikes"
-com,"Indians Manager Charlie Manuel ejected by HP umpire Jim Joyce in 9th"
 play,9,0,lawtm002,00,,NP
 sub,wellb002,"Bob Wells",1,0,1
 play,9,0,lawtm002,32,BBCSBX,63/G
@@ -5289,8 +5272,6 @@ play,8,0,shefg001,21,BBCX,S8/8S
 play,8,0,jonec004,00,B,SB2
 play,8,0,jonec004,30,BIII,IW
 play,8,0,jonea002,02,CCX,54(1)3/GDP
-com,"ej,cox-b103,M,fichm901,Call at 1B"
-com,"Braves Manager Bobby Cox ejected by 1B umpire Mike Fichter"
 play,8,1,miend001,00,,NP
 sub,remlm001,"Mike Remlinger",0,0,1
 play,8,1,miend001,02,CFX,8/F8
@@ -5342,8 +5323,6 @@ play,12,1,ortid001,00,,NP
 sub,buchb002,"Brian Buchanan",1,8,12
 play,12,1,ortid001,22,BBCCS,K
 play,12,1,jonej003,12,CBFC,K/C
-com,"ej,jonej003,P,bellw901,Balls and strikes"
-com,"Jacque Jones ejected by HP umpire Wally Bell"
 play,13,0,bragd001,00,,NP
 sub,mohrd001,"Dustan Mohr",1,7,7
 play,13,0,bragd001,00,,NP
@@ -5755,8 +5734,6 @@ play,2,1,huntt001,02,CSB,WP.2-3
 play,2,1,huntt001,22,CSBFBS,K
 play,2,1,ortid001,01,FX,3/G
 play,2,1,mohrd001,02,SSX,53/G
-com,"ej,gardr001,M,gormb901,Balls and strikes"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Brian Gorman in 3rd"
 play,3,0,clayr001,12,CSBX,E5/G
 play,3,0,loftk001,21,BSBB,SB2
 play,3,0,loftk001,32,BSBBLFFX,3/G.2-3
@@ -7271,9 +7248,6 @@ play,1,0,younm003,02,CFC,K/C
 play,1,0,rodra001,32,BCSBBX,9/F9
 play,1,1,jonej003,02,SFX,E4/G
 play,1,1,guzmc001,22,CBBSC,K/C
-com,"ej,gardr001,M,guccc901,Called third strike"
-com,"ej,guzmc001,P,guccc901,Called third strike (Threw equipment)"
-com,"Cristian Guzman and Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione"
 play,1,1,miend001,01,CB,CS2(26)
 play,1,1,miend001,32,CBFBBC,K/C
 play,2,0,gonzj002,00,,NP
@@ -7450,15 +7424,12 @@ play,2,0,woots001,12,FSB1C,K/C
 play,2,1,huntt001,01,CX,S9
 play,2,1,ortid001,10,BB,SB2
 play,2,1,ortid001,32,BBCBFS,K23.2-3
-com,"why no error or PB on this play"
 play,2,1,cuddm001,21,BBCX,63/G.3-H
 play,2,1,piera001,21,CBBX,3/G#
 play,3,0,spies001,22,FSBFBX,9/F9
 play,3,0,gil-b001,30,BBBB,W
 play,3,0,nievj002,02,CSX,S9.1-2
 play,3,0,ecksd001,31,CBBBB,W.2-H(E1);1-3;B-2
-com,"$Santana wasn't paying attention to return throw"
-com,"after ball 4; throw went into center field"
 play,3,0,erstd001,10,BX,E5/TH.3-H(NR)(UR);2-3
 play,3,0,salmt001,30,BBBB,W.1-2
 play,3,0,andeg001,02,CCFFX,8/SF.3-H(UR);2-3
@@ -7488,7 +7459,6 @@ sub,fredk001,"Kevin Frederick",1,0,1
 play,5,0,gil-b001,00,,NP
 sub,fullb001,"Brad Fullmer",0,8,11
 play,5,0,fullb001,00,X,9/F9
-com,"Debut game for Kevin Frederick"
 play,5,1,cuddm001,22,FBFBS,K
 play,5,1,piera001,00,X,S8/8S
 play,5,1,rival001,01,CB,WP.1-2
@@ -7977,8 +7947,6 @@ sub,polic001,"Cliff Politte",0,0,1
 play,8,1,koskc001,32,BCBBSB,W
 play,8,1,ortid001,12,CBFFX,6/P6
 play,8,1,huntt001,12,CBFFX,8/DP.1X2(24)
-com,"Wells overthrew first, so no assist on DP.  It"
-com,"appears he gets a DP though.  How?"
 play,9,0,bergd002,00,,NP
 sub,wellb002,"Bob Wells",1,0,1
 play,9,0,bergd002,10,BX,D9
@@ -8216,8 +8184,6 @@ play,3,0,rowaa001,12,B1FFX,3/G#
 play,3,1,print001,00,X,4/P4
 play,3,1,rival001,12,CCBX,13/G
 play,3,1,guzmc001,10,BX,8/L8
-com,"ej,pettg001,C,cedeg901,Balk call"
-com,"Chicago coach Gary Pettis ejected by 1B umpire Gary Cederstrom in 4th"
 play,4,0,lee-c001,32,SBBBFB,W
 play,4,0,ordom001,11,BCX,9/F9
 play,4,0,konep001,10,BC,CS2(24)
@@ -8424,9 +8390,6 @@ play,10,1,jonej003,00,X,FC5/SH.2-3;B-1#
 play,10,1,guzmc001,00,X,4/P4
 play,10,1,koskc001,30,IIII,IW.1-2
 play,10,1,ortid001,21,SBBX,S9.3-H;2-3;1-2
-com,"Carlos Lee was moved in from outfield to play"
-com,"between 2nd base and the 2nd baseman.  He was"
-com,"still listed as the left fielder."
 data,er,garlj001,1
 data,er,wunsk001,0
 data,er,martd004,0
@@ -9009,10 +8972,6 @@ play,10,1,miend001,00,,NP
 sub,grimj001,"Jason Grimsley",0,0,1
 play,10,1,miend001,12,CBFFS,K
 play,10,1,koskc001,00,X,3/G3L.3-H;2-3;1-2#
-com,"$Perry dove and gloved the ball, falling on the bag for the putout; he"
-com,"jumped up and spun to throw home attempting to get Hunter; Koskie, who"
-com,"was about 25 feet from Perry, was hit on the chest; he was on the ground"
-com,"over 5 minutes and sat up as he was taken off the field"
 data,er,asenm001,3
 data,er,bukvr001,0
 data,er,affej001,0
@@ -9714,10 +9673,6 @@ play,2,0,hills002,12,BCCX,16(1)3/GDP
 play,2,1,ortid001,00,X,43/G
 play,2,1,huntt001,01,CX,53/G
 play,2,1,miend001,12,CBSS,K
-com,"ej,hawkl001,P,tscht901,Arguing position of bullpen chair"
-com,"$LaTroy Hawkins ejected by 2B umpire Tim Tschida in 3rd"
-com,"for refusing to move his chair in bullpen; was restrained"
-com,"by teammates and escorted from field"
 play,3,0,varij001,22,CBFBFS,K
 play,3,0,daubb001,22,BBCFC,K/C
 play,3,0,sancr001,11,BFX,63/G
@@ -10110,9 +10065,6 @@ play,1,0,suzui001,22,FBFBX,53/G
 play,1,0,guilc001,32,SBSBBFS,K
 play,1,0,olerj001,31,CBBBB,W
 play,1,0,marte001,11,CBX,1/P2
-com,"$Martinez' popup hit one of the speakers hanging from the ceiling and"
-com,"bounced in between the girders like a pinball before it fell near the"
-com,"plate"
 play,1,1,jonej003,10,BX,3/G#
 play,1,1,guzmc001,11,BCX,63/G
 play,1,1,koskc001,02,CFC,K/C
@@ -10123,7 +10075,6 @@ play,2,0,wilsd001,10,BX,S9.3-H;1-2
 play,2,0,cirij001,12,BFFX,64(1)3/GDP
 play,2,1,ortid001,00,,NP
 sub,relad001,"Desi Relaford",0,7,7
-com,"$Sierra had minor strain of his quadriceps"
 play,2,1,ortid001,22,BCSFFBX,7/F7
 play,2,1,huntt001,22,BCBFFX,S8/8S
 play,2,1,miend001,20,BBX,8/F8
@@ -10134,11 +10085,6 @@ play,3,0,olerj001,12,BCFFX,9/F9
 play,3,0,marte001,12,CBFFX,16(1)3/GDP
 play,3,1,piera001,11,BFX,S9
 play,3,1,rival001,00,X,D8/89D.1-3;BX2(84)
-com,"$Rivas tried for triple, but Pierzynski had stopped at 3B and"
-com,"Rivas saw his liner clear Cameron's head but did not see Pierzynski"
-com,"at 3B; he stopped half way to 3B and tried to get back but was tagged"
-com,"out by Bret Boone on a great play (Boone had taken the throw well into"
-com,"the outfield and ran to 2B to make a diving tag)"
 play,3,1,jonej003,01,SX,S8/8S.3-H
 play,3,1,guzmc001,10,BX,13/G.1-2
 play,3,1,koskc001,11,CBX,3/G#
@@ -10334,8 +10280,6 @@ play,9,0,camem001,00,,NP
 sub,guare001,"Eddie Guardado",1,0,1
 play,9,0,camem001,00,X,S8
 play,9,0,cirij001,22,CFBBFF1,POCS2(136)
-com,"box score doesn't show CS, but 136 is clear, so must"
-com,"be POCS"
 play,9,0,cirij001,32,CFBBFF1BX,9/F9
 play,9,0,wilsd001,12,FCBFS,K
 data,er,pinej001,2
@@ -10722,7 +10666,6 @@ play,8,0,chave001,32,CCBBBX,8/F8
 play,8,0,dye-j001,00,,NP
 sub,florj001,"Jose Flores",0,2,12
 play,8,0,dye-j001,32,CBBFBB,W.2-3;1-2
-com,"Debut game for Jose Flores"
 play,8,0,justd001,22,FBBCFC,K/C
 play,8,1,guzmc001,00,,NP
 sub,mabrj001,"John Mabry",0,2,3
@@ -11013,7 +10956,6 @@ play,7,1,mohrd001,11,SBX,D9/9D.2-H
 play,7,1,piera001,00,,NP
 sub,eckee001,"Eric Eckenstahler",0,0,1
 play,7,1,piera001,10,BX,3/G.2-3#
-com,"Debut game for Eric Eckenstahler"
 play,7,1,rival001,12,CBCC,K/C
 play,7,1,jonej003,10,BX,S9/9S.3-H
 play,7,1,guzmc001,12,BFFS,K
@@ -11082,7 +11024,6 @@ start,piera001,"A.J. Pierzynski",1,8,2
 start,rival001,"Luis Rivas",1,9,4
 start,lohsk001,"Kyle Lohse",1,0,1
 play,1,0,lombg001,22,BBCCS,K
-com,"Debut game for Shane Loux"
 play,1,0,easld001,31,FBBBX,3/FL
 play,1,0,higgb001,21,CBBX,9/F9D
 play,1,1,jonej003,22,FCBBX,3/G
@@ -11094,10 +11035,6 @@ play,1,1,miend001,32,CBBFBX,7/F7
 play,2,0,fickr001,31,BBBCX,S8
 play,2,0,penac001,22,SFBBX,T/89.1-H
 play,2,0,rivem003,12,SBFS,K
-com,"$Rivera's bat flew down the 3B line and rolled almost to the"
-com,"bullpen; Pena wound up 10 feet toward 2B attempting to dance"
-com,"out of the way of the bat and was almost thrown out by"
-com,"Pierzynski"
 play,2,0,munse001,12,BSCFFX,13/G.3-H
 play,2,0,trubc001,12,CBSS,K
 play,2,1,mohrd001,10,BX,13/G
@@ -11113,7 +11050,6 @@ play,4,0,higgb001,12,CFBX,S8/89.BX2(86)
 play,4,0,fickr001,31,CBBBX,S9
 play,4,0,penac001,22,BCFBFS,K
 play,4,0,rivem003,01,CX,S8/8S.1X3(85)
-com,"$Hunter threw out 2 runners in same inning"
 play,4,1,ortid001,01,CX,7/F7
 play,4,1,huntt001,00,X,43/G
 play,4,1,miend001,21,CBBX,D9/9D
@@ -11291,8 +11227,6 @@ play,5,1,print001,20,BBX,4/L4
 play,6,0,lombg001,11,SBX,3/G
 play,6,0,infao001,22,BBCFFX,5/L5
 play,6,0,higgb001,12,CCBX,53/G
-com,"ej,higgb001,P,wintm901,Balls and strikes (threw helmet)"
-com,"Bobby Higginson ejected by HP umpire Mike Winters"
 play,6,1,hockd001,00,,NP
 sub,halts001,"Shane Halter",0,3,7
 play,6,1,hockd001,02,CFX,13/G
@@ -12241,7 +12175,6 @@ play,5,0,rowaa001,01,CX,S7
 play,5,0,borcj001,22,CBSBFFX,S7/7S.1-2
 play,5,0,olivm001,00,X,7/F7
 play,5,0,harrw001,11,CBX,S5.2XH(32);1-2
-com,"MLB clear that no assist to 3bman"
 play,5,1,miend001,22,SBFFFFBX,4/FL
 play,5,1,cuddm001,31,SBBBB,W
 play,5,1,piera001,00,X,7/F7

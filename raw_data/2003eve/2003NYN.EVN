@@ -260,7 +260,6 @@ play,4,0,karre001,32,CBSBB1>X,53/G.1-2
 play,4,0,bellm002,12,BSCX,23/G
 play,4,1,leita001,00,,NP
 sub,guthm001,"Mark Guthrie",0,9,1
-com,"Cubs Matt Clement left the game due to an injured back"
 play,4,1,leita001,32,.BCCBBS,K
 play,4,1,ceder001,02,LSS,K23
 play,4,1,alomr001,22,SSBBS,K23
@@ -688,7 +687,6 @@ play,3,1,wiggt001,11,1BS>X,9/F
 play,3,1,burnj001,11,BFX,9/F
 play,4,0,guerv001,00,,NP
 sub,bellj001,"Jay Bell",1,4,3
-com,"Mets Mo Vaughn left the game due to an injured leg"
 play,4,0,guerv001,12,.BCCX,63/G
 play,4,0,cordw001,02,CCC,K
 play,4,0,cabro001,22,CBFBFS,K
@@ -840,9 +838,7 @@ play,4,1,clart002,10,BX,53/G
 play,5,0,chave002,00,X,S6/BG
 play,5,0,vidrj001,01,CX,S6/G.1-2
 play,5,0,guerv001,11,BFX,6/P
-com,"Infield Fly rule"
 play,5,0,liefj001,12,SFBX,5/P
-com,"Infield Fly rule"
 play,5,0,cabro001,32,BCS*BB>X,S8/L.2-H;1-2
 play,5,0,wilkb002,00,,NP
 sub,lloyg001,"Graeme Lloyd",1,9,1
@@ -1476,7 +1472,6 @@ play,2,1,sancr001,10,BX,9/F
 play,2,1,ceder001,32,BBCCBS,K
 play,3,0,kentj001,00,,NP
 sub,seo-j001,"Jae Weong Seo",1,9,1
-com,"Mets David Cone left the game due to an injured leg"
 play,3,0,kentj001,02,.CCX,53/G
 play,3,0,merco002,22,BCBSX,31/G
 play,3,0,hidar001,21,BCBX,HR/7/F
@@ -1693,7 +1688,6 @@ play,8,1,bellj001,20,.BBX,7/SF.3-H
 play,8,1,alomr001,01,SX,13/G
 play,9,0,ensbm001,00,,NP
 sub,wilsv001,"Vance Wilson",1,4,2
-com,"Mets Mike Piazza left the game due to an injured groin"
 play,9,0,ensbm001,00,,NP
 sub,benia001,"Armando Benitez",1,5,1
 play,9,0,ensbm001,00,,NP
@@ -2987,7 +2981,6 @@ start,shint001,"Tsuyoshi Shinjo",1,7,8
 start,mcewj001,"Joe McEwing",1,8,6
 start,leita001,"Al Leiter",1,9,1
 play,1,0,victs001,10,BX,1/BP2F
-com,"Debut game for Roger Deago"
 play,1,0,lorem001,22,BCCFBFX,63/G
 play,1,0,whitr001,21,BCBX,63/G
 play,1,1,gonzr002,10,BX,8/F
@@ -3061,7 +3054,6 @@ sub,klesr001,"Ryan Klesko",0,4,11
 play,8,0,klesr001,00,.X,43/G
 play,8,0,nadyx001,00,,NP
 sub,benia001,"Armando Benitez",1,9,1
-com,"Mets Scott Strickland left the game due to an injured leg"
 play,8,0,nadyx001,22,.B*B.CSS,K
 play,8,1,piazm001,00,,NP
 sub,klesr001,"Ryan Klesko",0,4,3
@@ -3178,7 +3170,6 @@ play,3,1,astap001,00,X,8/F
 play,3,1,alomr001,21,CBBX,S9/L
 play,3,1,bellj001,32,B*BBCF>B,W.1-2
 play,3,1,piazm001,10,BX,4/P
-com,"Infield Fly rule"
 play,3,1,floyc001,30,BBBB,W.2-3;1-2
 play,3,1,clart002,22,FBFBS,K
 play,4,0,kotsm001,12,BCCX,6!/P
@@ -3407,7 +3398,6 @@ play,8,1,gonzr002,00,X,9/F
 play,8,1,alomr001,00,,NP
 sub,duncj001,"Jeff Duncan",1,3,11
 play,8,1,duncj001,01,.SX,36(1)/FO/G
-com,"Debut game for Jeff Duncan"
 play,8,1,floyc001,00,,NP
 sub,plesd001,"Dan Plesac",0,9,1
 play,8,1,floyc001,22,.FFBBC,K
@@ -3807,7 +3797,6 @@ start,wiggt001,"Ty Wigginton",1,6,5
 start,clart002,"Tony Clark",1,7,3
 start,wilsv001,"Vance Wilson",1,8,2
 start,glavt001,"Tom Glavine",1,9,1
-com,"27 minute delay during game"
 play,1,0,furcr001,22,CFFBBX,4/P
 play,1,0,derom001,10,BX,9/F
 play,1,0,shefg001,31,CBBBX,HR/7/F
@@ -3955,7 +3944,6 @@ start,shint001,"Tsuyoshi Shinjo",1,6,8
 start,clart002,"Tony Clark",1,7,3
 start,sancr001,"Rey Sanchez",1,8,6
 start,seo-j001,"Jae Weong Seo",1,9,1
-com,"12 minute delay during game"
 play,1,0,furcr001,12,CBCFX,7/F
 play,1,0,gilem001,32,FBBFBX,7/F
 play,1,0,shefg001,01,CX,53/G
@@ -4307,7 +4295,6 @@ play,4,1,ceder001,11,CBX,63/G
 play,5,0,vandj001,00,,NP
 sub,grifj001,"Jeremy Griffiths",1,9,1
 play,5,0,vandj001,31,.CBBBX,43/G
-com,"Debut game for Jeremy Griffiths"
 play,5,0,helmw001,21,BBSX,53/G
 play,5,0,peree002,01,CX,S9/L-
 play,5,0,clayr001,11,BFH,HP.1-2
@@ -4438,7 +4425,6 @@ play,1,1,alomr001,11,CBX,53/G
 play,2,0,podss001,00,X,D8/F
 play,2,0,sexsr001,20,BB,NP
 sub,strap001,"Pat Strange",1,9,1
-com,"Mets Tom Glavine left the game due to an injured elbow"
 play,2,0,sexsr001,30,BB..BB,W
 play,2,0,jenkg001,00,X,S7/G.2-H;1-2
 play,2,0,clarb003,32,*BBFBFFB,W.2-3;1-2
@@ -4717,7 +4703,6 @@ start,philj003,"Jason Phillips",1,6,3
 start,wilsv001,"Vance Wilson",1,7,2
 start,mcewj001,"Joe McEwing",1,8,6
 start,leita001,"Al Leiter",1,9,1
-com,"Debut for umpire James Hoye"
 play,1,0,suzui001,12,BFCX,S7/L
 play,1,0,mclem001,01,L1>B,SB2
 play,1,0,mclem001,31,L1>B.BB>B,W+SB3
@@ -5020,8 +5005,6 @@ play,1,0,posaj001,21,BBCX,43/G
 play,1,1,alomr001,01,CX,D9/G
 play,1,1,wiggt001,12,L*BCC,K
 play,1,1,burnj001,12,BFFFC,K
-com,"ej,burnj001,P,kulpr901,Balls and strikes"
-com,"Mets Jeromy Burnitz ejected by HP umpire Ron Kulpa"
 play,1,1,floyc001,31,B.F*B*BB,W
 play,1,1,philj003,31,BBSBB,W.2-3;1-2
 play,1,1,wilsv001,02,CSX,53/G
@@ -5675,7 +5658,6 @@ start,shint001,"Tsuyoshi Shinjo",1,7,8
 start,reyej001,"Jose Reyes",1,8,6
 start,heila001,"Aaron Heilman",1,9,1
 play,1,0,pierj002,22,CFBFFBX,8/F
-com,"Debut game for Aaron Heilman"
 play,1,0,castl001,01,CX,7/F
 play,1,0,rodri001,00,X,D7/F
 play,1,0,lowem001,22,CBFBX,63/G
@@ -5830,7 +5812,6 @@ start,bellj001,"Jay Bell",1,7,4
 start,reyej001,"Jose Reyes",1,8,6
 start,glavt001,"Tom Glavine",1,9,1
 play,1,0,soria001,10,BX,HR/9/F
-com,"Debut game for Brandon Claussen"
 play,1,0,jeted001,21,BCBX,HR/9/F
 play,1,0,giamj001,22,CBCBX,S7/L
 play,1,0,mondr002,20,BBX,9/F
@@ -5943,8 +5924,6 @@ play,9,0,matsh001,00,,NP
 sub,peret004,"Timo Perez",1,8,8
 play,9,0,matsh001,00,,NP
 sub,alomr001,"Roberto Alomar",1,9,4
-com,"ej,weatd001,P,timmt901,Balls and strikes"
-com,"David Weathers ejected by HP umpire Tim Timmons"
 play,9,0,matsh001,12,.....BCCX,S8/G
 play,9,0,rivej001,12,CB1FX,9/F
 play,9,0,flahj001,00,,NP
@@ -6342,7 +6321,6 @@ play,4,0,cordw001,10,BX,S7/L.3-H;2-3;1-2
 play,4,0,guzme001,00,X,7/SF.3-H
 play,4,0,schnb001,21,FBBX,S9/L.2-H;1-3
 play,4,0,hernl003,11,BCX,S4/BG.3-3;1-2;B-1
-com,"originally scored as E4/SH, changed to S4 next day"
 play,4,0,chave002,00,,NP
 sub,felip002,"Pedro Feliciano",1,9,1
 play,4,0,chave002,12,.CBSS,K
@@ -6362,7 +6340,6 @@ play,5,0,schnb001,02,FFFX,S9/L.3-H;1-2
 play,5,0,hernl003,00,X,S9/G.2-H;1-3
 play,5,0,chave002,31,BBBCB,W.1-2
 play,5,0,cabro001,21,BCBX,E5/G.3-H(NR)(UR);2-3;1-2
-com,"originally Cabrera had RBI, changed 3 days later"
 play,5,0,wilkb002,00,,NP
 sub,cerdj001,"Jaime Cerda",1,9,1
 play,5,0,wilkb002,30,.BBBB,W.3-H(UR);2-3;1-2
@@ -6474,7 +6451,6 @@ start,wilsv001,"Vance Wilson",1,6,2
 start,bellj001,"Jay Bell",1,7,4
 start,sancr001,"Rey Sanchez",1,8,6
 start,seo-j001,"Jae Weong Seo",1,9,1
-com,"21 minute delay during game"
 play,1,0,furcr001,10,BX,8/F
 play,1,0,gilem001,22,CCBBX,S7/G
 play,1,0,shefg001,22,CFB1*B1X,S9/G.1-3
@@ -6532,7 +6508,6 @@ sub,almoe002,"Edwin Almonte",1,7,1
 play,7,0,furcr001,00,,NP
 sub,mcewj001,"Joe McEwing",1,9,4
 play,7,0,furcr001,00,..X,43/G
-com,"Debut game for Edwin Almonte"
 play,7,0,gilem001,12,CBSFX,43/G
 play,7,0,shefg001,11,CBX,63/G
 play,7,1,sancr001,11,CBX,4/L-
@@ -6777,7 +6752,6 @@ start,clart002,"Tony Clark",1,6,3
 start,sancr001,"Rey Sanchez",1,7,4
 start,reyej001,"Jose Reyes",1,8,6
 start,glavt001,"Tom Glavine",1,9,1
-com,"44 minute delay during game"
 play,1,0,furcr001,32,CFFBFBBFFB,W
 play,1,0,derom001,00,X,8/F
 play,1,0,shefg001,12,1CBCX,S8/F.1-2
@@ -7076,7 +7050,6 @@ start,gonzr002,"Raul Gonzalez",1,6,7
 start,wilsv001,"Vance Wilson",1,7,2
 start,reyej001,"Jose Reyes",1,8,6
 start,heila001,"Aaron Heilman",1,9,1
-com,"36 minute delay during game"
 play,1,0,byrdm001,02,CFC,K
 play,1,0,rollj001,00,X,S8/L
 play,1,0,thomj002,32,CB1S1BB>S,K+SB2
@@ -7465,8 +7438,6 @@ play,5,0,myerb001,02,CCX,9/F
 play,5,0,byrdm001,11,BFX,3/G
 play,5,0,polap001,02,CC,NP
 sub,puntn001,"Nick Punto",0,2,11
-com,"ej,polap001,P,laynj901,Balls and strikes"
-com,"Phillies Placido Polanco ejected by HP umpire Jerry Layne"
 play,5,0,puntn001,02,CC..X,S4/G
 play,5,0,thomj002,21,BBSX,3/G
 play,5,1,mcewj001,00,,NP
@@ -8240,7 +8211,6 @@ play,8,0,clarb003,00,,NP
 sub,franj001,"John Franco",1,9,1
 play,8,0,clarb003,01,.CH,HP
 play,8,0,gintk001,20,BBX,46(1)3/G/DP/INT
-com,"DP awarded for interference at 2nd, no GDP"
 play,8,0,osikk001,30,BBBB,W
 play,8,0,clayr001,10,BB,WP.1-2
 play,8,0,clayr001,30,BB.BI,IW
@@ -8494,7 +8464,6 @@ play,5,0,sexsr001,32,BFBBS>B,W.3-H;2-3;1-2
 play,5,0,vandj001,12,CFBC,K
 play,5,1,heila001,00,,NP
 sub,gintk001,"Keith Ginter",0,6,5
-com,"Brewers Wes Helms left the game due to an injured leg"
 play,5,1,heila001,11,..CBX,9/F
 play,5,1,ceder001,01,CX,13/G
 play,5,1,reyej001,11,BFX,3/G
@@ -8615,7 +8584,6 @@ start,ceder001,"Roger Cedeno",1,6,9
 start,wilsv001,"Vance Wilson",1,7,2
 start,mcewj001,"Joe McEwing",1,8,4
 start,tracs001,"Steve Trachsel",1,9,1
-com,"55 minute rain delay at start"
 play,1,0,palmo001,12,BCCFS,K
 play,1,0,peree001,20,BBX,53/G+
 play,1,0,pujoa001,32,BFFBBFFFX,9/F
@@ -9190,7 +9158,6 @@ play,6,0,ponss001,00,X,43/G
 play,6,0,cruzj004,01,FX,S8/G
 play,6,0,snowj001,00,,NP
 sub,galaa001,"Andres Galarraga",0,2,11
-com,"Giants J. T. Snow left the game due to an injured groin"
 play,6,0,galaa001,10,..1BX,S9/L.1-3
 play,6,0,grism001,02,CCX,9/L
 play,6,1,peret004,00,,NP
@@ -9291,8 +9258,6 @@ play,1,0,grism001,01,SX,8/SF.3-H
 play,1,0,bondb001,01,CX,31/G
 play,1,1,ceder001,22,FBBCFS,K
 play,1,1,reyej001,21,BBCX,7/F
-com,"$Piazza's first game since 5/16 due to strained"
-com,"groin"
 play,1,1,piazm001,22,BSBFX,63/G
 play,2,0,alfoe001,32,BFFBBX,4/P
 play,2,0,galaa001,02,CFX,8/L
@@ -9305,7 +9270,6 @@ play,2,1,peret004,01,LX,S9/G.2-3;1-2
 play,2,1,wiggt001,10,*BH,HP.3-H;2-3;1-2
 play,2,1,mcewj001,31,BTBBX,8/F
 play,2,1,tracs001,10,BX,5/P
-com,"Infield Fly rule"
 play,2,1,ceder001,11,BCX,46(1)/FO/G
 play,3,0,cruzj004,02,SSS,K
 play,3,0,felip001,21,CBBX,5!/L
@@ -9352,8 +9316,6 @@ play,6,1,philj003,01,CX,64(1)3/GDP
 play,7,0,galaa001,11,FBX,13/G
 play,7,0,santb001,00,X,S8/F
 play,7,0,peren001,10,BX,46(1)3/G/DP
-com,"$Santiago called for interference at 2B on"
-com,"double play, no GDP"
 play,7,1,peret004,30,BBBB,W
 play,7,1,wiggt001,11,B11C1X,D9/F.1-3
 play,7,1,mcewj001,00,,NP
@@ -9657,7 +9619,6 @@ play,5,0,jimej001,22,CSBBX,S7/G
 play,5,0,womat001,01,CX,3/P3F
 play,5,0,bellr002,01,FX,T9/F.1-H
 play,5,0,heltt001,22,FFBBFFFX,D8/F.3-H
-com,"Helton fouled ball off leg in this AB, left for runner"
 play,5,0,wilsp002,00,,NP
 sub,nortg001,"Greg Norton",0,3,12
 play,5,0,wilsp002,00,.X,9/F
@@ -9699,7 +9660,6 @@ play,7,1,gonzr002,00,,NP
 sub,uribj002,"Juan Uribe",0,9,6
 play,7,1,gonzr002,12,....SSBS,K
 play,7,1,ceder001,22,FBBSX,S1/L
-com,"Line drive off right cheek/neck, stayed in game"
 play,7,1,reyej001,11,FBX,D9/L.1-3
 play,7,1,piazm001,32,BBSSBFB,W
 play,7,1,floyc001,00,,NP
@@ -10450,8 +10410,6 @@ play,9,0,pratt001,00,X,64(1)/FO/G
 play,9,1,ceder001,00,,NP
 sub,mesaj001,"Jose Mesa",0,9,1
 play,9,1,ceder001,02,.CFC,K
-com,"ej,ceder001,P,kulpr901,Balls and strikes"
-com,"Roger Cedeno ejected by HP umpire Ron Kulpa"
 play,9,1,reyej001,30,BBBB,W
 play,9,1,peret004,01,FX,64(1)3/GDP
 data,er,padiv001,1
@@ -10557,7 +10515,6 @@ play,6,1,piazm001,10,BX,63/G
 play,6,1,philj003,02,SFX,S7/L
 play,6,1,wiggt001,31,B1BBCB,W.1-2
 play,6,1,scutm001,21,F2BBX,4/P
-com,"Infield Fly rule"
 play,6,1,duncj001,21,BBCX,13/G
 play,7,0,blanh001,00,,NP
 sub,bragd001,"Darren Bragg",0,8,11
@@ -10664,7 +10621,6 @@ play,1,0,jonea002,02,FFX,3/P
 play,1,0,lopej001,32,BFFBFBX,5/P
 play,1,1,ceder001,32,CSBFFBFBFX,8/F
 play,1,1,garcd002,01,CX,S8/G+
-com,"Debut game for Daniel Garcia"
 play,1,1,wiggt001,31,B*BSBB,W.1-2
 play,1,1,piazm001,22,BCFBX,7/F
 play,1,1,philj003,32,BBCFBX,DGR/7/F.2-H;1-3
@@ -10953,8 +10909,6 @@ play,1,0,castl001,01,LX,54/SH/BG.2-3
 play,1,0,rodri001,12,SBFS,K
 play,1,0,conij001,31,BCBBX,4/P
 play,1,1,ceder001,12,BCCS,K
-com,"ej,ceder001,P,gibsg901,Balls and strikes"
-com,"Mets Roger Cedeno ejected by HP umpire Greg Gibson"
 play,1,1,mcewj001,02,CC.FT,K
 play,1,1,peret004,30,BBBB,W
 play,1,1,philj003,11,BCX,63/G
@@ -11745,7 +11699,6 @@ play,2,0,callr001,11,BCX,S6/G
 play,2,0,zeilt001,11,C1B>X,S9/F.1-3
 play,2,0,schnb001,32,BB1FCB>B,W.1-2
 play,2,0,hernl003,01,>LX,1/P
-com,"Infield Fly rule"
 play,2,0,chave002,21,BBCX,D9/L.3-H;2-H;1-3
 play,2,0,vidrj001,32,BFF*BFFFBS,K
 play,2,1,clart002,11,BCX,43/G
@@ -12007,7 +11960,6 @@ play,9,0,carrj001,00,,NP
 sub,franj001,"John Franco",1,9,1
 play,9,0,carrj001,02,.LFL,K/BF
 play,9,0,wilkb002,11,CBX,4/P
-com,"Infield Fly rule"
 play,9,0,ayall001,00,,NP
 sub,macij001,"Jose Macias",0,2,11
 play,9,0,macij001,22,.BCBFC,K

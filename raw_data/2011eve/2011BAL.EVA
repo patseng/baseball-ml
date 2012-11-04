@@ -351,11 +351,6 @@ play,3,1,lee-d002,32,CBF1B>FB>F>F>B,W.1-2
 play,3,1,guerv001,00,X,5/P5F
 play,4,0,cabrm001,32,FBBFBB,W
 play,4,0,martv001,11,CBX,89/F
-com,"$Adam Jones juggled the fly by Victor Martinez while running"
-com,"at top speed; he hit the wall and the ball was caught by Nick"
-com,"Markakis and ruled a catch by 1B umpire Jim Wolf; Tigers manager"
-com,"Jim Leyland thought the ball hit the wall before Markakis caught"
-com,"it, which TV replays seemed to show"
 play,4,0,kelld001,00,X,9/F
 play,4,0,rabur001,32,1TF1BBB>C,K
 play,4,1,scotl001,21,BCBX,43/G+
@@ -630,7 +625,6 @@ play,3,0,murpd005,00,,NP
 sub,andir001,"Robert Andino",1,8,6
 play,3,0,murpd005,00,,NP
 sub,pie-f001,"Felix Pie",1,9,7
-com,"Orioles shortstop J.J. Hardy left the game due to an injured side"
 play,3,0,murpd005,30,..BBBB,W
 play,3,0,napom001,00,>C,SB2
 play,3,0,napom001,02,>C.SFX,S9/F-.2-3
@@ -983,10 +977,6 @@ sub,hoeyj001,"Jim Hoey",0,0,1
 play,7,1,lee-d002,12,.CFFBX,8/F
 play,8,0,tolbm001,32,BCFBFBX,43/G
 play,8,0,kubej002,02,FCC,K
-com,"ej,gardr001,M,guccc901,Balls and strikes"
-com,"$Jason Kubel shook his head and said something to HP umpire Chris Guccione as he walked back"
-com,"to the dugout; Twins Manager Ron Gardenhire was ejected by Guccione after Gardenhire yelled"
-com,"from the dugout"
 play,8,0,thomj002,22,.BCBCFC,K
 play,8,1,guerv001,22,BFFFBX,9/F
 play,8,1,reynm001,12,CSBC,K
@@ -2764,23 +2754,14 @@ play,3,1,robeb003,02,FCFX,7/F
 play,3,1,markn001,32,CBFBBB,W
 play,3,1,lee-d002,12,C+1BS11S,K
 play,3,1,guerv001,22,BSSBFFX,23/G-
-com,"umpchange,5,ump3b,fairc901"
-com,"umpchange,5,ump2b,(None)"
-com,"$3B umpire and crew chief Joe West left the game ill"
 play,4,0,smoaj001,31,BBBCB,W
 play,4,0,olivm001,32,BF*BFFBT,K
 play,4,0,custj001,00,X,S8/G.1-3
 play,4,0,kenna001,32,BCBSBS,K
 play,4,0,peguc001,12,CFBS,K
-com,"umpchange,5,ump2b,fairc901"
-com,"umpchange,5,ump3b,westj901"
-com,"$3B umpire and crew chief Joe West returned to the field"
 play,4,1,scotl001,12,FCBS,K
 play,4,1,jonea003,01,SX,8/F
 play,4,1,wietm001,02,CFX,43/G
-com,"umpchange,5,ump3b,fairc901"
-com,"umpchange,5,ump2b,(None)"
-com,"$3B umpire and crew chief Joe West left the game ill"
 play,5,0,ryanb002,10,BX,6/P
 play,5,0,saunm001,32,CBBCBC,K
 play,5,0,suzui001,02,FSX,D8/F
@@ -3413,15 +3394,6 @@ play,15,0,canor001,00,,NP
 sub,gonzm001,"Mike Gonzalez",1,0,1
 play,15,0,canor001,00,.X,D8/F.2-H;1-H;B-3(E8)
 play,15,0,dickc001,11,BCH,HP
-com,"ej,gonzm001,P,belld901,Intentional HBP"
-com,"$the fastball by Mike Gonzalez hit Chris Dickerson on the bill of the helmet; the"
-com,"ball cracked the bill of the protective gear; Gonzalez, who suffered a lump on the left"
-com,"side of his face next to his eyes, eventually walked to 1B wearing Jorge Posada's"
-com,"helmet; the Yankees decided to remove Dickerson from the game and, after some discussion,"
-com,"used starting pitcher A.J. Burnett as a pinch runner because they had no outfielders"
-com,"left on the bench; Gonzalez was ejected immediately by HP umpire Dan Bellino; the"
-com,"Orioles had no no relief pitchers in the bullpen so starter Jeremy Guthrie pitched;"
-com,"Guthrie was scheduled to start the game the following day"
 play,15,0,gardb001,00,,NP
 sub,guthj001,"Jeremy Guthrie",1,0,1
 play,15,0,gardb001,00,,NP
@@ -3983,10 +3955,6 @@ start,hardj003,"J.J. Hardy",1,8,6
 start,andir001,"Robert Andino",1,9,4
 start,tillc001,"Chris Tillman",1,0,1
 play,1,0,bernr001,01,CX,2/BG
-com,"ej,riggj801,M,ticht901,Batter called out for stepping on plate"
-com,"$Roger Bernadina was called out by HP umpire Todd Tichenor for stepping on the plate while"
-com,"bunting the ball; he had reached 1B safely for an apparent hit; Nationals manager Jim"
-com,"Riggleman argued the call and was ejected by Tichenor"
 play,1,0,desmi001,12,BSFFX,D8/F
 play,1,0,nix-l001,12,CBCS,K
 play,1,0,wertj001,22,CFBBX,53/G
@@ -5097,7 +5065,6 @@ play,6,0,willj004,32,BSBBFX,4/P
 play,6,0,suzuk001,02,CFX,S8/G
 play,6,0,ellim001,00,,NP
 sub,sizes001,"Scott Sizemore",0,6,11
-com,"Athletics second baseman Mark Ellis left the game due to an injured leg"
 play,6,0,sizes001,11,.BCX,S8/G+.1-2
 play,6,0,rosaa001,00,,NP
 sub,johnj010,"Jim Johnson",1,0,1
@@ -5375,7 +5342,6 @@ play,7,1,guerv001,01,.CX,63/G
 play,7,1,lee-d002,22,BCSFBFFS,K
 play,7,1,wietm001,01,FX,8/F
 play,8,0,weekj001,00,X,T8
-com,"originally scored as E7, changed next day"
 play,8,0,crisc001,02,TCX,8/SF/F.3-H
 play,8,0,bartd001,10,BX,7/F
 play,8,0,jackc002,12,BCSX,S7/G
@@ -5652,7 +5618,6 @@ play,7,0,uptob001,12,BCSX,8/F
 play,7,1,hardj003,00,,NP
 sub,howej003,"J.P. Howell",0,0,1
 play,7,1,hardj003,10,.BX,7!/F
-com,"$Rays LF Justin Ruggiano caught the ball over the top of the wall, thus pulling back a homer"
 play,7,1,markn001,11,CBX,43/G
 play,7,1,jonea003,22,CBSBFFC,K
 play,8,0,jasoj001,21,BBCX,31/G
@@ -5857,13 +5822,11 @@ play,7,1,jonea003,22,BFF*BX,143/G.3-H;2-3
 play,7,1,guerv001,32,FBBBFX,63/G
 play,8,0,zobrb001,00,,NP
 sub,andir001,"Robert Andino",1,6,5
-com,"Orioles third baseman Mark Reynolds left the game due to an injured arm"
 play,8,0,zobrb001,21,..BBCX,S7/G
 play,8,0,ruggj001,22,SB1FB11X,8/F
 play,8,0,longe001,00,,NP
 sub,accaj001,"Jeremy Accardo",1,0,1
 play,8,0,longe001,12,.BCFX,HR8/F/IPHR.1-H
-com,"$Evan Longoria's line drive got past CF Adam Jones and rolled to the wall"
 play,8,0,uptob001,22,TCBFBFFS,K
 play,8,0,rodrs002,11,BFX,7/L
 play,8,1,scotl001,00,,NP
@@ -7347,14 +7310,9 @@ play,1,0,branm003,12,CBFX,8/F
 play,1,0,cabra002,22,CSBFBFS,K
 play,1,0,hafnt001,20,BBX,HR/89/F
 play,1,0,santc002,11,BCX,HR/9/F
-com,"$Carlos Santana's fly ball was very high and down the RF line; as it passed the pole it"
-com,"was hard to tell if it was fair or foul; 1B umpire Hunter Wendelstedt called it fair and"
-com,"a home run; Orioles manager Buck Showalter asked about the call so acting crew chief Bob"
-com,"Davidson watched the replay and upheld the call"
 play,1,0,sizeg001,22,CBCBX,D7/L-
 play,1,0,lapom001,00,,NP
 sub,carre001,"Ezequiel Carrera",0,5,12
-com,"Indians center fielder Grady Sizemore left the game due to a right knee contusion"
 play,1,0,lapom001,10,.BH,HP
 play,1,0,buckt001,01,CX,S49/L.2-H;1-3
 play,1,0,chisl001,12,CFFBX,53/G-
@@ -7850,7 +7808,6 @@ play,5,1,hardj003,01,CX,9/L
 play,5,1,markn001,01,CX,8/F
 play,6,0,reddj001,01,FX,S9/L
 play,6,0,crawc002,32,*B1FB1FF*B>S,K/DP.1X1(2)
-com,"$Josh Reddick out at 1B because of interference by batter Carl Crawford"
 play,6,0,scutm001,00,X,63/G
 play,6,1,jonea003,32,BCBFFBX,3/P
 play,6,1,wietm001,02,CCFFX,53/G
@@ -8431,15 +8388,9 @@ play,7,0,thame001,32,BBCBTX,5/P
 play,7,0,bautj002,02,CCX,4/P
 play,7,1,iztuc001,21,BBCX,S9/G
 play,7,1,andir001,11,L11BX,E1/TH1/G-.1-2
-com,"$Blue Jays manager John Farrell argued that Robert Andino was in fair territory running to"
-com,"1B, thus causing the throwing error by Luis Perez; Farrell asked the umpires to watch a replay"
-com,"to see the play but they refused"
 play,7,1,markn001,12,CFBFC,K
 play,7,1,jonea003,00,,NP
 sub,litsj001,"Jesse Litsch",0,0,1
-com,"ej,farrj001,M,knigb901,Arguing non-call on batter interference"
-com,"Blue Jays manager John Farrell kept arguing about the throwing error and was ejected by HP"
-com,"umpire Brian Knight"
 play,7,1,jonea003,22,..BSBSFS,K
 play,7,1,guerv001,00,X,7/F
 play,8,0,linda001,22,BSFBFX,S4/G
@@ -8973,10 +8924,6 @@ play,5,1,hardj003,01,CX,46(1)/FO/G.3-H;2-3
 play,5,1,markn001,01,FX,S9/L.3-H;1-3
 play,5,1,jonea003,22,F1BFBX,E6/G-.3-H;1-2
 play,5,1,guerv001,00,>C,CS3(25).1-2
-com,"ej,showb801,M,cuzzp901,Call at 3B"
-com,"$Orioles Nick Markakis was upset about the caught stealing ruling by 3B umpire Phil Cuzzi;"
-com,"as he argued the call, Manager Buck Showalter came out to continue the discussion; Markakis"
-com,"went back to the dugout but Showalter was ejected by Cuzzi"
 play,5,1,guerv001,01,>C..X,53/G
 play,6,0,riosa002,22,BSBFX,8/F
 play,6,0,lillb001,12,BSTS,K
@@ -9542,10 +9489,6 @@ play,2,1,wietm001,32,CBBFBX,S8/G+
 play,2,1,davic003,21,BBSX,E4/TH2/FO/G.1-2
 play,2,1,bellj004,32,CBBBSX,8/F
 play,2,1,davib005,32,BBCBCFFX,HR/7/F.2-H(UR);1-H
-com,"$Blake Davis' fly ball was nearly caught by LF Andy Dirks, who reached above the wall and appeared"
-com,"to hurt himself in doing so; the ball hit something and rebounded onto the field; it was ruled a"
-com,"home run but Tigers manager Jim Leyland came on the field as the umpires huddled; acting crew chief"
-com,"Jeff Nelson watched the replay and upheld the call; this was Davis' first home run"
 play,2,1,pie-f001,32,CBBBSC,K
 play,2,1,hardj003,22,CBSBFX,3/P3F
 play,3,0,rabur001,01,CX,7/F
@@ -10144,7 +10087,6 @@ play,6,1,adamr003,12,CBSS,K
 play,7,0,gardb001,00,,NP
 sub,hendm001,"Mark Hendrickson",1,0,1
 play,7,0,gardb001,00,.X,2/BG/INT
-com,"Brett Gardner called out for batter interference"
 play,7,0,granc001,12,CFBX,HR/78/F
 play,7,0,teixm001,31,BCBBX,8/F
 play,7,0,canor001,31,SBBBX,D9/L
@@ -10617,10 +10559,6 @@ play,8,0,linda001,00,,NP
 sub,teahm001,"Mark Teahen",0,4,11
 play,8,0,teahm001,02,.FSS,K
 play,8,0,encae001,31,CBBBX,DGR/7/L.1-3
-com,"$Edwin Encarnacion's fly to LF was touched by a fan reaching over the wall with a"
-com,"hat; the ball was ruled in play and fan interference; when the Blue Jays asked"
-com,"about the call, crew chief Joe West watched the replay and upheld the call of fan"
-com,"interference"
 play,8,0,johnk003,00,X,7/F
 play,8,0,lawrb002,31,BBFBB,W
 play,8,0,molij001,01,CX,13/G-
@@ -10932,7 +10870,6 @@ play,7,1,jonea003,00,,NP
 sub,wadec001,"Cory Wade",0,0,1
 play,7,1,jonea003,12,.BF1FX,9/F
 play,7,1,guerv001,10,BX,D8/L.1XH(842)
-com,"$Nick Markakis knocked over catcher Francisco Cervelli, who held the ball"
 play,7,1,wietm001,12,CBST,K
 play,8,0,canor001,00,,NP
 sub,pattt001,"Troy Patton",1,0,1
@@ -11376,7 +11313,6 @@ play,5,0,jasoj001,12,CSBS,K
 play,5,0,brigr001,11,CBX,9/F
 play,5,0,fulds001,00,,NP
 sub,rodrs002,"Sean Rodriguez",0,1,11
-com,"Rays left fielder Sam Fuld left the game due to an injured wrist"
 play,5,0,rodrs002,32,.BCSBBX,2/P
 play,5,1,andir001,00,,NP
 sub,rodrs002,"Sean Rodriguez",0,1,4
@@ -11640,10 +11576,6 @@ start,reynm001,"Mark Reynolds",1,7,3
 start,reimn001,"Nolan Reimold",1,8,7
 start,andir001,"Robert Andino",1,9,4
 start,britz001,"Zachary Britton",1,0,1
-com,"$Brian O'Nora, who was scheduled to be the HP umpire, was hit on the right ankle by a"
-com,"warm-up pitch thrown by Orioles hurler Zachary Britton; O'Nora was taken to the hospital"
-com,"and x-rays were inconclusive; there was a 14-minute delay while Alfonzo Marquez changed"
-com,"into his plate gear"
 play,1,0,iztum001,12,BCFFX,7/F
 play,1,0,bourp001,12,CCBS,K
 play,1,0,kendh001,32,FTBBBFFC,K
@@ -12026,8 +11958,6 @@ play,6,1,jonea003,22,>B.BFSS,K
 play,6,1,reynm001,32,BBBCSB,W
 play,6,1,davic003,12,BFSX,D9/L.2-H;1-3
 play,6,1,andir001,01,SX,HR8/F/IPHR.3-H;2-H
-com,"$Ellsbury dropped ball when he ran into wall. He lay on ground"
-com,"for awhile, allowing Andino to score"
 play,6,1,anglm001,00,X,43/BG
 play,7,0,ellsj001,12,CFBX,9/F
 play,7,0,crawc002,32,CBBCBFX,43/G-
@@ -12346,7 +12276,6 @@ sub,eyrew001,"Willie Eyre",1,0,1
 play,7,0,lavar001,11,.C*BX,64(1)/FO/G
 play,7,1,reynm001,00,,NP
 sub,aceva001,"Alfredo Aceves",0,0,1
-com,"$Rain delay of 1:26"
 play,7,1,reynm001,00,.H,HP
 play,7,1,davic003,00,X,7/F
 play,7,1,reimn001,00,H,HP.1-2
@@ -12357,8 +12286,6 @@ sub,strop001,"Pedro Strop",1,0,1
 play,8,0,drewj001,22,.BBCSX,3/G
 play,8,0,scutm001,01,CX,S9/G
 play,8,0,crawc002,32,SBBBF>X,D78/L.1XH(862)
-com,"$Scutaro hesitated to see if ball would be caught, leading to"
-com,"the close play at the plate where he was tagged out"
 play,8,0,avilm001,10,BX,2/P2F
 play,8,1,markn001,00,,NP
 sub,bardd001,"Daniel Bard",0,0,1

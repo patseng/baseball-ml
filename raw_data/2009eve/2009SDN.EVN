@@ -121,7 +121,6 @@ play,8,1,kouzk001,22,CBBFX,3/P3F
 play,9,0,lonej001,00,,NP
 sub,gregl001,"Luke Gregerson",1,9,1
 play,9,0,lonej001,02,.CCFX,S8/L
-com,"Debut game for Luke Gregerson"
 play,9,0,kempm001,32,BFBBSB,W.1-2
 play,9,0,blakc001,02,LLS,K
 play,9,0,kuo-h001,00,,NP
@@ -249,7 +248,6 @@ sub,moree001,"Edwin Moreno",1,6,1
 play,7,0,blakc001,00,,NP
 sub,geruj001,"Jody Gerut",1,9,8
 play,7,0,blakc001,31,..BBCBB,W
-com,"Debut game for Edwin Moreno"
 play,7,0,motag001,00,,NP
 sub,dewib001,"Blake DeWitt",0,9,11
 play,7,0,dewib001,32,.BCBFBX,3/P3F
@@ -271,7 +269,6 @@ sub,belir001,"Ronald Belisario",0,6,1
 play,8,1,kouzk001,00,,NP
 sub,miend001,"Doug Mientkiewicz",0,9,3
 play,8,1,kouzk001,11,..CBX,63/G
-com,"Debut game for Ronald Belisario"
 play,8,1,headc001,32,CBSFBBT,K
 play,8,1,sancd001,00,,NP
 sub,gonze003,"Edgar Gonzalez",1,6,11
@@ -336,7 +333,6 @@ start,blanh001,"Henry Blanco",1,7,2
 start,cabre001,"Everth Cabrera",1,8,6
 start,silvw001,"Walter Silva",1,9,1
 play,1,0,furcr001,10,BX,D9/L
-com,"Debut game for Walter Silva"
 play,1,0,hudso001,10,BX,63/G.2-3
 play,1,0,ramim002,11,BFX,63/G.3-H
 play,1,0,ethia001,32,BBCBCB,W
@@ -354,7 +350,6 @@ play,2,0,furcr001,31,BFBBX,8/F
 play,2,1,headc001,11,CBX,53/G
 play,2,1,blanh001,01,SX,8/F
 play,2,1,cabre001,22,CBBFX,43/G
-com,"Debut game for Everth Cabrera"
 play,3,0,hudso001,11,BCX,S8/G
 play,3,0,ramim002,11,BS1X,S8/L.1-2
 play,3,0,ethia001,22,BCBFFX,46(1)/FO/G.2-3
@@ -1290,7 +1285,6 @@ play,2,1,hundn001,12,BFCF1F1X,3/P
 play,2,1,burkc001,11,FBX,8/L
 play,3,0,laroa001,00,,NP
 sub,geerj001,"Josh Geer",1,9,1
-com,"Padres pitcher Shawn Hill left the game due to an injured arm"
 play,3,0,laroa001,01,.CX,43/G
 play,3,0,hinse001,20,BBX,13/G
 play,3,0,laroa002,21,BCBX,63/G
@@ -2346,12 +2340,10 @@ play,6,1,geruj001,31,BBFBX,8/F
 play,6,1,kouzk001,32,BSFBBB,W
 play,6,1,hundn001,00,,NP
 sub,lincm001,"Mike Lincoln",0,9,1
-com,"Reds pitcher Edinson Volquez left the game due to an injured back"
 play,6,1,hundn001,32,B*BB.CF>F>S,K
 play,7,0,gonza002,00,,NP
 sub,burkg001,"Greg Burke",1,9,1
 play,7,0,gonza002,21,.BCBX,63/G
-com,"Debut game for Greg Burke"
 play,7,0,lincm001,22,CBFBS,K
 play,7,0,tavew001,10,BX,53/G
 play,7,1,burkc001,00,X,8/F
@@ -2860,8 +2852,6 @@ play,8,0,lewif001,22,FBCFBFX,9/L
 play,8,1,ecksd001,00,,NP
 sub,howrb001,"Bob Howry",0,9,1
 play,8,1,ecksd001,11,.BCX,E5/TH1
-com,"ej,bochb002,M,cedeg901,Call at 1B"
-com,"San Francisco Giants Manager Bruce Bochy ejected by 1B umpire Gary Cederstrom"
 play,8,1,hairs001,10,.B1X,8/F
 play,8,1,gonza003,11,F1BX,4/P
 play,8,1,kouzk001,10,B>X,S9/G.1-3
@@ -2980,7 +2970,6 @@ sub,thatj001,"Joe Thatcher",1,9,1
 play,7,0,ishit001,00,,NP
 sub,guzmj005,"Jesus Guzman",0,7,11
 play,7,0,guzmj005,12,..FFFBX,64(1)3/GDP
-com,"Debut game for Jesus Guzman"
 play,7,1,hundn001,00,,NP
 sub,guzmj005,"Jesus Guzman",0,7,3
 play,7,1,hundn001,12,.CCBS,K
@@ -3092,9 +3081,6 @@ play,1,0,hoffm001,02,TFS,K
 play,1,1,gwynt002,32,BBCFBB,W
 play,1,1,ecksd001,10,B1,PO1(E1).1-2
 play,1,1,ecksd001,10,B1.H,HP
-com,"$Eckstein squared to bunt, pitch was up and in, hitting him in"
-com,"chest just below right collarbone; he stayed down for several minutes,"
-com,"then walked to first, but did not retake the field in the 2nd"
 play,1,1,gonza003,22,B2BCSS,K
 play,1,1,hairs001,32,BFBBSFFB,W.2-3;1-2
 play,1,1,gileb002,32,FBB*BFX,8/SF/F.3-H
@@ -3102,7 +3088,6 @@ play,1,1,kouzk001,12,FTBS,K
 play,2,0,scalb001,00,,NP
 sub,gonze003,"Edgar Gonzalez",1,2,4
 play,2,0,scalb001,01,.CH,HP
-com,"$Both benches warned"
 play,2,0,hillk002,11,1BF1X,E6/G.1-2
 play,2,0,milea001,10,BX,8/F
 play,2,0,zambc001,11,CBX,3/G.2-3;1-2
@@ -3651,7 +3636,6 @@ start,blanh001,"Henry Blanco",1,7,2
 start,wilsj003,"Josh Wilson",1,8,6
 start,peavj001,"Jake Peavy",1,9,1
 play,1,0,rollj001,21,BFBX,8/F
-com,"Debut game for Antonio Bastardo"
 play,1,0,victs001,31,BBBCB,W
 play,1,0,utlec001,20,BB>B,SB2
 play,1,0,utlec001,31,BB>B.C*B,W
@@ -3666,7 +3650,6 @@ play,1,1,gonza003,30,BBBB,W
 play,1,1,hairs001,32,CFBB*B>F>S,K
 play,2,0,basta001,00,,NP
 sub,geerj001,"Josh Geer",1,9,1
-com,"$Peavy left game with the flu"
 play,2,0,basta001,22,.BBCFX,43/G
 play,2,0,rollj001,01,CX,S39/L
 play,2,0,victs001,00,X,43/G.1-2
@@ -3873,7 +3856,6 @@ play,6,0,felip001,21,BBCX,9/F
 play,6,0,costc001,00,X,6/P5F
 play,6,1,ecksd001,00,,NP
 sub,wertj001,"Jayson Werth",0,2,8
-com,"Phillies center fielder Shane Victorino left the game due to an injured leg"
 play,6,1,ecksd001,02,.CCFFFFFS,K
 play,6,1,gonza003,30,BBBB,W
 play,6,1,kouzk001,12,FCBX,64(1)3/GDP
@@ -4413,7 +4395,6 @@ play,10,1,gonze003,00,,NP
 sub,rober002,"Ryan Roberts",0,3,7
 play,10,1,gonze003,00,,NP
 sub,raucj001,"Jon Rauch",0,9,1
-com,"Diamondbacks right fielder Justin Upton left the game due to an injured neck/shoulder"
 play,10,1,gonze003,21,...BFBX,8/F
 play,10,1,gonza003,32,BSSBBX,63/G
 play,10,1,headc001,02,CCFT,K
@@ -4891,7 +4872,6 @@ play,7,0,gutif001,12,.BCCS,K
 play,7,0,olsog003,00,,NP
 sub,carpm001,"Mike Carp",0,9,11
 play,7,0,carpm001,31,.BSBBB,W
-com,"Debut game for Mike Carp"
 play,7,0,suzui001,01,FX,53/G.1-2
 play,7,0,branr001,22,CSBBS,K
 play,7,1,kouzk001,00,,NP
@@ -5172,7 +5152,6 @@ play,2,1,alfoe002,10,BX,S57/G
 play,2,1,leblw001,00,X,14/SH/BG.1-2
 play,2,1,cabre001,00,,NP
 sub,gonze001,"Edgar Gonzalez",0,9,1
-com,"Athletics pitcher Josh Outman left the game due to an injured arm"
 play,2,1,cabre001,22,B.SBCFFX,63/G
 play,3,0,crosb002,22,CBSBS,K
 play,3,0,davir003,10,BX,5/P5F
@@ -5279,7 +5258,6 @@ play,9,0,hannj001,21,S*B>B.X,8/F
 play,9,1,ekstm001,00,,NP
 sub,blank002,"Kyle Blanks",1,6,11
 play,9,1,blank002,22,.CBCBC,K
-com,"Debut game for Kyle Blanks"
 play,9,1,alfoe002,22,BBCSX,53/G
 play,9,1,venaw001,31,BCBBB,W
 play,9,1,cabre001,00,X,64(1)/FO/G
@@ -5796,8 +5774,6 @@ play,4,1,gonza003,00,X,T8/F.2-H
 play,4,1,kouzk001,22,SBCBFS,K
 play,4,1,headc001,12,CBF,NP
 sub,blank002,"Kyle Blanks",1,4,12
-com,"Padres first baseman Adrian Gonzalez left the game due to a strained"
-com,"right knee after 3 pitches to Headley"
 play,4,1,headc001,12,CBF.X,63/G
 play,5,0,hampm001,00,,NP
 sub,blank002,"Kyle Blanks",1,4,3
@@ -6145,8 +6121,6 @@ play,9,0,quinh001,12,.BSCS,K
 play,9,0,ariaa002,22,CFBBFS,K
 play,9,0,bourm001,00,X,S8/L
 play,9,0,tejam001,31,B1BBCB,W.1-2
-com,"$after ball 1 to Tejada, play delayed for 52 minutes due to bee swarm in"
-com,"ball girl's jacket on left field side; bee keeper called to park"
 play,9,0,berkl001,10,BX,D7/G.2-H;1-3
 play,9,0,lee-c001,32,BBCCBFX,8/F
 play,9,1,gonze003,00,,NP
@@ -6158,7 +6132,6 @@ play,9,1,thatj001,00,,NP
 sub,alfoe002,"Eliezer Alfonzo",1,9,11
 play,9,1,alfoe002,02,.CFFFB,WP.2-3;1-2
 play,9,1,alfoe002,12,.CFFFB.X,S9/L.3-3;2-2
-com,"$Short line drive trapped by right fielder, neither runner advanced"
 play,9,1,cabre001,12,BFCX,64(1)/FO/G.3-H;2-3
 play,9,1,hairs001,00,,NP
 sub,valvj001,"Jose Valverde",0,9,1
@@ -6387,7 +6360,6 @@ play,2,1,headc001,22,CBBCT,K
 play,2,1,blanh001,12,FFBX,S7/L
 play,2,1,gwynt002,00,,NP
 sub,alfoe002,"Eliezer Alfonzo",1,7,12
-com,"San Diego Padres catcher Henry Blanco left the game due to an injured leg."
 play,2,1,gwynt002,32,.BCBBF>F>C,K
 play,3,0,castj004,00,,NP
 sub,alfoe002,"Eliezer Alfonzo",1,7,2
@@ -6686,7 +6658,6 @@ sub,lobaj001,"Jose Lobaton",1,2,4
 play,13,0,lonej001,00,,NP
 sub,mujie001,"Edward Mujica",1,5,1
 play,13,0,lonej001,20,..BBX,HR/9/F
-com,"Debut game for Jose Lobaton"
 play,13,0,blakc001,01,FX,9/F
 play,13,0,ethia001,00,X,9/F
 play,13,0,martr004,11,BCX,63/G
@@ -7122,8 +7093,6 @@ play,6,0,tulot001,31,BBBCX,8/F
 play,6,1,blank002,32,BBBCFS,K
 play,6,1,alfoe002,00,X,6/P
 play,6,1,gonze003,11,BSH,HP
-com,"$Edgar Gonzalez hit in head, down for 5 minutes, left field"
-com,"on cart, hospitalized overnight"
 play,6,1,corrk001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,8,12
 play,6,1,corrk001,00,,NP
@@ -7225,7 +7194,6 @@ start,rodrl002,"Luis Rodriguez",1,7,4
 start,lobaj001,"Jose Lobaton",1,8,2
 start,latom001,"Mat Latos",1,9,1
 play,1,0,smits002,21,BBCX,7/F
-com,"Debut game for Mat Latos"
 play,1,0,barmc001,02,CSS,K
 play,1,0,heltt001,32,BCBBFFFFFFFB,W
 play,1,0,hawpb001,22,CSBBFT,K
@@ -8995,7 +8963,6 @@ play,9,1,blanh001,32,B*B*BCCFB,W
 play,9,1,bellh001,00,,NP
 sub,salao001,"Oscar Salazar",1,9,11
 play,9,1,salao001,30,.IIII,IW.1-2
-com,"$Mets bring in Pagan to be 5th infielder, all playing in"
 play,9,1,cabre001,32,CS*BFFBFBX,HR/9/F.3-H;2-H;1-H
 data,er,pereo002,1
 data,er,stokb001,0
@@ -9108,12 +9075,6 @@ play,5,1,alfoe002,00,...X,6/P
 play,5,1,cabre001,01,CX,S1/BG
 play,5,1,latom001,00,X,24/SH/BG.1-2
 play,5,1,gwynt002,21,*BBCX,S9/L.2XH(92)
-com,"ej,blacb001,M,barkl901,Call at HP"
-com,"$Cabrera beat the throw home by a wide margin; his hand hit the catcher's foot in front"
-com,"of the plate but he appeared to get it down on the plate as he slid past; HP umpire"
-com,"Lance Barksdale claimed his hand went over plate as he slid; Padres manager Bud Black"
-com,"ejected by Barksdale for arguing; for the next two innings fans booed every ball and"
-com,"strike call that was not for Padres"
 play,6,0,wrigd002,21,.BCBX,43/G
 play,6,0,murpd006,11,SBX,8/F
 play,6,0,franj004,30,BBBB,W
@@ -9254,10 +9215,6 @@ play,5,1,salao001,11,CBX,9/F
 play,5,1,blanh001,31,BBBCB,W
 play,5,1,staut001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,9,11
-com,"umpchange,5,umphome,hudsm901"
-com,"umpchange,5,ump2b,(None)"
-com,"$HP umpire Randy Marsh was struck by foul ball on the lower part of the mask"
-com,"off the bat of Luis Rodriguez"
 play,5,1,rodrl002,12,.FSFBFFX,9/F
 play,5,1,gwynt002,12,BCSS,K
 play,6,0,franj004,00,,NP
@@ -9991,7 +9948,6 @@ play,5,0,ankir001,20,BBX,S7/L
 play,5,0,lohsk001,11,CBX,S9/L-.1-2
 play,5,0,lugoj001,00,,NP
 sub,pinej001,"Joel Pineiro",0,9,12
-com,"Cardinals pitcher Kyle Lohse left the game due to an injured groin"
 play,5,0,lugoj001,31,.BBBCX,8/F
 play,5,1,gwynt002,00,,NP
 sub,reyed001,"Dennys Reyes",0,9,1
@@ -10476,8 +10432,6 @@ play,7,0,hernl003,31,BBBCB,W
 play,7,0,harrw001,11,FBX,7/F78XDW
 play,7,0,orr-p001,00,,NP
 sub,macid001,"Drew Macias",1,6,7
-com,"$Padres left fielder Oscar Salazar smashed his left knee into the scoreboard as he made"
-com,"a great over-the-shoulder catch"
 play,7,0,orr-p001,12,.*BCSX,S7/G.1-2
 play,7,0,zimmr001,00,,NP
 sub,russa001,"Adam Russell",1,9,1
@@ -11027,7 +10981,6 @@ start,blanh001,"Henry Blanco",1,7,2
 start,gwynt002,"Tony Gwynn",1,8,8
 start,staut001,"Tim Stauffer",1,9,1
 play,1,0,gonzc001,22,CFBBS,K
-com,"Debut game for Esmil Rogers"
 play,1,0,smits002,11,CBX,31/G
 play,1,0,heltt001,32,BBSCBC,K
 play,1,1,cabre001,22,CCBBFX,S1/G-
@@ -11637,7 +11590,6 @@ play,8,1,rodrl002,00,X,8/F
 play,8,1,gregl001,00,,NP
 sub,dural001,"Luis Durango",1,9,11
 play,8,1,dural001,01,.CX,13/BG
-com,"Debut game for Luis Durango"
 play,8,1,cabre001,22,BCCBX,3/G
 play,9,0,montm001,00,,NP
 sub,bellh001,"Heath Bell",1,9,1
@@ -11809,7 +11761,6 @@ play,8,1,cabre001,11,BCX,53/G
 play,9,0,uptoj001,00,,NP
 sub,ramoc001,"Cesar Ramos",1,9,1
 play,9,0,uptoj001,20,.BBX,S14/G
-com,"Debut game for Cesar Ramos"
 play,9,0,montm001,01,SX,7/F
 play,9,0,reynm001,02,FSS,K
 play,9,0,parrg001,02,1SSFFX,S7/L.1-3;B-2(TH3)
@@ -12091,10 +12042,6 @@ play,4,1,richc002,20,BBX,63/G
 play,4,1,gwynt002,00,,NP
 sub,elbes001,"Scott Elbert",0,9,1
 play,4,1,gwynt002,11,.*BCX,FC4/G.3XH(42E5)(NR)(UR);B-2
-com,"$on the grounder to second, Everth Cabrera was caught in a rundown between third and home;"
-com,"Dodgers third baseman Mark Loretta dropped the throw but Cabrera ran into Loretta and they"
-com,"both fell down; Loretta locked his legs around one of Cabrera's ankles; obstruction was"
-com,"called by 3B umpire Greg Gibson and Cabrera awarded home on the play"
 play,4,1,ecksd001,31,BBBCB,W
 play,4,1,gonza003,22,BBFFB,WP.2-3
 play,4,1,gonza003,32,BBFFB.FB,W.1-2

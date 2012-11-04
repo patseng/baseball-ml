@@ -703,7 +703,6 @@ sub,castv001,"Vinny Castilla",0,9,11
 play,9,0,castv001,31,.BFBBX,4/P
 play,9,1,jonea002,00,,NP
 sub,cordc001,"Chad Cordero",0,9,1
-com,"31 minute rain delay after 2 pitches in bottom 9th"
 play,9,1,jonea002,32,.CBCBBX,63/G
 play,9,1,estrj001,02,CFC,K
 play,9,1,franj002,00,X,S7/G
@@ -767,8 +766,6 @@ play,1,0,guilj001,00,X,8/L+
 play,1,0,johnn001,32,BBFBC>B,W.2-3;1-2
 play,1,0,churr001,10,BX,S8/L+.3-H;2-H;1-2
 play,1,0,guzmc001,02,CFS,K
-com,"ej,cox-b103,M,marsr901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Randy Marsh"
 play,1,1,furcr001,00,.X,43/G
 play,1,1,orr-p001,12,CBFX,8/F
 play,1,1,jonec004,01,CX,HR/89/F
@@ -1271,10 +1268,7 @@ play,3,1,mondr002,01,CX,S7/G.2-H;1-2
 play,3,1,thomj005,02,FFC,K
 play,4,0,burrp001,00,,NP
 sub,betew001,"Wilson Betemit",1,3,5
-com,"Chipper Jones left with foot injury"
 play,4,0,burrp001,11,.BCX,53/G
-com,"ej,manuc101,M,culbf901,Call at 1B (changed)"
-com,"Phillies Manager Charlie Manuel ejected by HP umpire Fieldin Culbreth"
 play,4,0,utlec001,12,.CBFX,3/G
 play,4,0,belld002,02,CFFX,S8/G
 play,4,0,liebm001,02,FFC,K
@@ -1282,7 +1276,6 @@ play,4,1,furcr001,00,,NP
 sub,michj001,"Jason Michaels",0,5,7
 play,4,1,furcr001,00,,NP
 sub,madsr001,"Ryan Madson",0,9,1
-com,"Phillies left fielder Pat Burrell left the game due to an injured groin"
 play,4,1,furcr001,11,...CBX,7/F
 play,4,1,gilem001,11,SBX,63/G
 play,4,1,betew001,02,CSX,43/G
@@ -1608,9 +1601,6 @@ play,7,1,grybk001,00,,NP
 sub,jonec004,"Chipper Jones",1,9,11
 play,7,1,jonec004,00,,NP
 sub,florr001,"Randy Flores",0,9,1
-com,"ej,reyea001,P,scotd901,Balls and strikes"
-com,"ej,larut101,M,scotd901,Balls and strikes"
-com,"Cardinals pitcher Al Reyes & Manager Tony La Russa ejected by HP umpire Dale Scott"
 play,7,1,jonec004,32,...CSBBB.B,W.3-H;2-3;1-2
 play,7,1,furcr001,00,,NP
 sub,sosaj002,"Jorge Sosa",1,9,12
@@ -2334,7 +2324,6 @@ play,6,0,oswar001,00,,NP
 sub,sosaj002,"Jorge Sosa",1,9,1
 play,6,0,oswar001,00,,NP
 sub,brune001,"Eric Bruntlett",0,9,11
-com,"Braves pitcher John Smoltz left the game due to an injured back"
 play,6,0,brune001,31,..BBBCB,W
 play,6,0,tavew001,11,CBX,S2/BG.1-2
 play,6,0,biggc001,22,*BBCSS,K
@@ -2732,7 +2721,6 @@ play,2,1,jonea002,32,BSBSBFX,8/L
 play,2,1,franj002,02,CFX,53/G
 play,2,1,mondr002,22,BSBCX,S8/L-
 play,2,1,penab002,01,CX,S5/G.1-3(E5/TH);B-2
-com,"Debut game for Brayan Pena"
 play,2,1,betew001,30,IIII,IW
 play,2,1,ramih002,32,BBBCC>B,W.3-H;2-3;1-2
 play,2,1,furcr001,32,CBBFB>X,T8/L.3-H;2-H;1-H
@@ -2799,9 +2787,6 @@ play,8,0,wrigd002,32,FBBBFB,W.3-H(UR);2-3;1-2
 play,8,0,miend001,00,,NP
 sub,reitc001,"Chris Reitsma",1,2,1
 play,8,0,miend001,22,.BBCSX,36(1)1/GDP/INT
-com,"ej,wrigd002,P,nelsj901,Interference call"
-com,"$Runner Wright called for interference and GDP awarded"
-com,"as result; Wright then ejected by 2B umpire Jeff Nelson"
 play,8,1,mondr002,00,,NP
 sub,cairm001,"Miguel Cairo",0,2,5
 play,8,1,mondr002,00,,NP
@@ -3494,7 +3479,6 @@ play,1,0,abreb001,22,BCBCC,K
 play,1,1,furcr001,12,CBCX,43/G
 play,1,1,gilem001,21,BFBX,HR/8/F
 play,1,1,johnk003,21,CBBX,8/L
-com,"Debut game for Kelly Johnson"
 play,1,1,jonec004,32,BCBCBB,W
 play,1,1,laroa001,01,CX,7/L
 play,2,0,thomj002,31,BBBFB,W
@@ -3706,8 +3690,6 @@ play,8,0,figgc001,10,BX,S8/G+
 play,8,0,erstd001,11,1C1B>X,S9/L.1-3
 play,8,0,finls001,01,SX,6/P
 play,8,0,andeg001,00,1X,D9/L.3-H;1-H
-com,"$Erstad smashed into Estrada, knocked ball loose"
-com,"and knocked Estrada out of game"
 play,8,0,mcphd001,00,,NP
 sub,penab002,"Brayan Pena",1,4,2
 play,8,0,mcphd001,32,.BCSBFBX,S8/L.2-H
@@ -3805,7 +3787,6 @@ play,2,0,cabro001,11,BCX,13/BG
 play,2,0,kenna001,32,CBFBBS,K
 play,2,1,langr002,11,BCX,S9/L
 play,2,1,marta004,22,BBFFT,K
-com,"Debut game for Andy Marte"
 play,2,1,penab002,10,BX,7/F
 play,2,1,ramih002,00,X,S7/L.1-2
 play,2,1,furcr001,32,BC*BFB>X,4/L
@@ -3953,7 +3934,6 @@ play,4,0,erstd001,00,X,5/P5F
 play,4,1,furcr001,10,BX,T8/F
 play,4,1,gilem001,00,,NP
 sub,rivej001,"Juan Rivera",0,7,9
-com,"Angels RF Jeff DaVanon left the game due to an injured head"
 play,4,1,gilem001,11,.BCH,HP
 play,4,1,johnk003,12,CBFX,4/P
 play,4,1,laroa001,00,B,WP.3-H;1-2
@@ -3977,7 +3957,6 @@ play,5,1,furcr001,22,CBFBX,3/G-
 play,5,1,gilem001,10,BX,DGR/78/F
 play,5,1,johnk003,00,,NP
 sub,woodj002,"Jake Woods",0,9,1
-com,"Angels pitcher Kelvim Escobar left the game due to an injured elbow"
 play,5,1,johnk003,31,BCB.B>X,8/F
 play,5,1,laroa001,10,BX,8/F
 play,6,0,kenna001,01,CX,63/G
@@ -4114,7 +4093,6 @@ play,2,1,jonea002,00,H,HP
 play,2,1,langr002,20,BBX,7/F
 play,2,1,jordb001,20,BBX,S9/G-.2-H;1-2
 play,2,1,mccab002,22,CF*BBFX,S9/L+.2-H;1-3
-com,"Debut game for Brian McCann"
 play,2,1,davik002,10,B1>X,FC1/SH/BG.3-H;1-2;B-1
 play,2,1,furcr001,22,CS*BBX,16(1)3/GDP
 play,3,0,hared001,00,X,8/F
@@ -4444,7 +4422,6 @@ play,5,1,penab002,00,X,6/P
 play,6,0,swisn001,00,,NP
 sub,boyeb001,"Blaine Boyer",1,9,1
 play,6,0,swisn001,12,.CBCFX,S7/G
-com,"Debut game for Blaine Boyer"
 play,6,0,scutm001,00,X,4!3/G.1-2
 play,6,0,zitob001,00,,NP
 sub,watsm002,"Matt Watson",0,9,11
@@ -4749,7 +4726,6 @@ play,6,0,moehb001,00,,NP
 sub,grybk001,"Kevin Gryboski",1,9,1
 play,6,0,moehb001,00,,NP
 sub,dillj001,"Joe Dillon",0,9,11
-com,"Braves pitcher Horacio Ramirez left the game due to an injured groin"
 play,6,0,dillj001,32,..CFBBBFFX,53/G
 play,6,0,pierj002,22,BBCFX,43/G-
 play,6,0,castl001,21,BBCX,43/G
@@ -4790,7 +4766,6 @@ play,8,0,tream001,11,CBX,3/P3F
 play,8,1,furcr001,00,,NP
 sub,messr001,"Randy Messenger",0,9,1
 play,8,1,furcr001,21,.CBBX,7/F
-com,"Debut game for Randy Messenger"
 play,8,1,johnk003,30,BBBB,W
 play,8,1,gilem001,00,X,6(1)3/GDP
 play,9,0,messr001,00,,NP
@@ -5179,7 +5154,6 @@ play,5,1,johnk003,32,CFFBBBC,K
 play,5,1,gilem001,32,BSBFFFFBB,W
 play,5,1,jonea002,00,,NP
 sub,ray-c001,"Chris Ray",0,9,1
-com,"Orioles pitcher Bruce Chen left the game due to a sprained toe"
 play,5,1,jonea002,12,.BCCS,K
 play,6,0,matol001,02,CFX,43/G
 play,6,0,tejam001,12,SBFX,63/G
@@ -5609,8 +5583,6 @@ play,3,1,furcr001,00,,NP
 sub,walkt002,"Todd Walker",0,2,3
 play,3,1,furcr001,00,,NP
 sub,hairj002,"Jerry Hairston",0,3,4
-com,"Cubs first baseman Derrek Lee left the game due to an injured shoulder"
-com,"which he hurt while batting in the first"
 play,3,1,furcr001,01,..CX,43/G
 play,3,1,johnk003,22,BBCSX,43/G-
 play,3,1,gilem001,10,BX,13/G
@@ -5724,7 +5696,6 @@ start,estrj001,"Johnny Estrada",1,6,2
 start,langr002,"Ryan Langerhans",1,7,9
 start,betew001,"Wilson Betemit",1,8,5
 start,ramih002,"Horacio Ramirez",1,9,1
-com,"$Debut for umpire Casey Moser"
 play,1,0,hairj002,02,CCS,K
 play,1,0,peren001,02,CFFX,8/F
 play,1,0,ramia001,00,X,9/F
@@ -5872,7 +5843,6 @@ play,3,0,pattc001,00,X,43/G
 play,3,0,willj003,12,CBSC,K
 play,3,0,peren001,11,BFX,7/F
 play,3,1,franj004,11,SBX,53/G
-com,"Debut game for Jeff Francoeur"
 play,3,1,orr-p001,32,BBBCFX,7/F
 play,3,1,smolj001,00,X,S6/G
 play,3,1,furcr001,32,BCBCB>X,1/L
@@ -7034,7 +7004,6 @@ play,9,0,sancf001,00,,NP
 sub,mackr001,"Rob Mackowiak",0,2,11
 play,9,0,mackr001,11,CB,NP
 sub,fostj001,"John Foster",1,9,1
-com,"injury?"
 play,9,0,mackr001,32,..CB.BBCB,W
 play,9,0,bay-j001,00,,NP
 sub,browj003,"Jim Brower",1,9,1
@@ -7447,7 +7416,6 @@ play,6,0,wilsj002,01,CX,63/G-
 play,6,0,dukez001,32,FBCFBBFS,K
 play,6,1,furcr001,00,,NP
 sub,redmt001,"Tike Redman",0,3,7
-com,"Pirates left fielder Jason Bay left the game due to an injured knee"
 play,6,1,furcr001,00,.X,8/F
 play,6,1,gilem001,01,FX,13/G
 play,6,1,jonec004,22,CFBBX,63/G
@@ -8563,8 +8531,6 @@ play,7,0,iztuc001,11,BCX,43/G
 play,7,1,smolj001,00,,NP
 sub,johnk003,"Kelly Johnson",1,9,11
 play,7,1,johnk003,12,.CFBX,E4/G
-com,"ej,tracj101,M,poncl901,Call at 1B"
-com,"Dodgers Manager Jim Tracy ejected by 1B umpire Larry Poncino"
 play,7,1,furcr001,00,.X,24/SH/BG.1-2
 play,7,1,gilem001,00,X,S9/G.2-H(UR);B-2(TH)
 play,7,1,jonec004,10,B>C,SB3
@@ -9265,7 +9231,6 @@ play,11,1,langr002,32,BFSBFB>X,9/F
 play,12,0,nadyx001,00,,NP
 sub,devij001,"Joey Devine",1,9,1
 play,12,0,nadyx001,12,.BCCX,13/G-
-com,"Debut game for Joey Devine"
 play,12,0,fickr001,12,SSBX,S8/L
 play,12,0,olivm001,00,,NP
 sub,robed001,"Dave Roberts",0,7,12
@@ -9542,7 +9507,6 @@ play,3,1,jonec004,31,BBBCB,W.2-3;1-2
 play,3,1,jonea002,30,BBBB,W.3-H;2-3;1-2
 play,3,1,laroa001,00,,NP
 sub,bergj001,"Jason Bergmann",0,9,1
-com,"Patterson left with stomach cramps"
 play,3,1,laroa001,11,.CBX,31/G
 play,4,0,guilj001,11,BFX,HR/7/F
 play,4,0,wilsp002,22,BCSBFC,K
@@ -10012,7 +9976,6 @@ play,3,1,smolj001,22,CBSBX,13/G-
 play,4,0,vidrj001,32,CSBBBFFX,S9/L
 play,4,0,guilj001,00,,NP
 sub,carrj001,"Jamey Carroll",0,3,12
-com,"Jose Vidro left the game due to an inflamed right knee"
 play,4,0,guilj001,01,.FX,S7/L-.1-2
 play,4,0,johnn001,02,CCX,3/G.2-3;1-2
 play,4,0,castv001,11,F*BX,S7/L+.3-H;2-H
@@ -10028,8 +9991,6 @@ sub,baerc001,"Carlos Baerga",0,9,11
 play,5,0,baerc001,01,.CX,S8/G+.1-2
 play,5,0,wilkb002,11,CBX,8/F
 play,5,0,cruzd001,02,CFX,S9/L-.2-3;1X3(9652);B-2
-com,"$3B coach Huppert stopped Byrd at the last minute and Baerga got caught"
-com,"in a rundown, eventually ending up at 3B with Byrd"
 play,5,0,carrj001,00,X,9/F
 play,5,1,jonea002,00,,NP
 sub,bergj001,"Jason Bergmann",0,9,1
@@ -10056,7 +10017,6 @@ play,7,0,byrdm001,21,.CBBX,D7/G+
 play,7,0,bergj001,00,,NP
 sub,zimmr001,"Ryan Zimmerman",0,9,11
 play,7,0,zimmr001,32,.*BBBCFC,K
-com,"Debut game for Ryan Zimmerman"
 play,7,0,wilkb002,11,BFH,HP
 play,7,0,cruzd001,12,BFFS,K
 play,7,0,carrj001,12,CFBX,S9/L-.2-3;1-2
@@ -10403,7 +10363,6 @@ play,7,0,cofft001,00,,NP
 sub,fostj001,"John Foster",1,9,1
 play,7,0,cofft001,00,,NP
 sub,olmer001,"Ray Olmedo",0,9,11
-com,"Braves RF Jeff Francoeur left the game due to an injured foot/ankle"
 play,7,0,olmer001,01,...CX,53/G-
 play,7,0,lopef001,32,FBBF.BX,63/G
 play,7,0,keara001,21,BFBX,8/F
@@ -10624,7 +10583,6 @@ play,12,0,grifk002,10,BX,S9/G.1-3
 play,12,0,keara001,00,X,D9/L-.3-H;1-3
 play,12,0,cases001,00,,NP
 sub,hudsl001,"Luke Hudson",0,3,12
-com,"Griffey sprained his right foot rounding 2B"
 play,12,0,cases001,30,.IIII,IW
 play,12,0,belim001,00,,NP
 sub,laruj001,"Jason LaRue",0,6,11
@@ -10632,7 +10590,6 @@ play,12,0,laruj001,32,.BFFBBFX,HR/7/F.3-H;2-H;1-H
 play,12,0,valej004,00,,NP
 sub,lerea001,"Anthony Lerew",1,9,1
 play,12,0,valej004,00,.X,8/F
-com,"Debut game for Anthony Lerew"
 play,12,0,olmer001,22,FFBBS,K
 play,12,1,estrj001,00,,NP
 sub,shacb001,"Brian Shackelford",0,3,1
@@ -12178,7 +12135,6 @@ play,6,1,jonea002,01,CX,54(1)/FO/G
 play,6,1,laroa001,11,BSX,7/F7LF
 play,7,0,freec001,00,,NP
 sub,browj003,"Jim Brower",1,9,1
-com,"Braves pitcher Blaine Boyer left the game due to an injured neck/shoulder"
 play,7,0,freec001,32,B.CFBBC,K
 play,7,0,acevj002,00,,NP
 sub,bigbl001,"Larry Bigbie",0,9,11

@@ -98,7 +98,6 @@ play,5,1,rossc001,32,BSBBFX,9/F.2-3
 play,5,1,maybc001,22,BCCBS,K
 play,6,0,guzmc001,00,X,S39/G+
 play,6,0,zimmr001,11,BCX,D7/L.1-3
-com,"Originally E5, changed next day to D7, changes 1 ER"
 play,6,0,dunna001,11,C*BX,HR/9/F+.3-H;2-H
 play,6,0,johnn001,01,CX,13/G+
 play,6,0,keara001,11,SBX,53/G-
@@ -376,7 +375,6 @@ play,2,1,rossc001,11,*B.FX,FC5/G.3XH(52)
 play,2,1,gloar001,01,CX,8/F
 play,3,0,dukee001,22,CBBST,K
 play,3,0,zimmr001,32,BBCBSS,K
-com,"$infield shift on for Dunn with 3Bman playing short right field"
 play,3,0,dunna001,32,BSBBFB,W
 play,3,0,willj004,21,C1BBX,64(1)/FO/G
 play,3,1,volsc001,12,BCCX,53/G
@@ -1200,7 +1198,6 @@ play,4,1,volsc001,10,BX,53/G
 play,5,0,felip001,10,BX,9/F
 play,5,0,marsl001,22,CBBCS,K
 play,5,0,parkc002,12,BFFS,K
-com,"$Ball one was behind Park at the knees; both benches warned"
 play,5,1,bonie001,22,MFBBX,3/G
 play,5,1,bakej002,10,BX,S4/G
 play,5,1,ramih003,01,1F1X,9/F
@@ -1294,8 +1291,6 @@ play,10,1,ramih003,22,BCBFS,K
 play,10,1,cantj001,20,BBX,D7/L
 play,10,1,uggld001,32,BBSSBB,W
 play,10,1,carrb001,32,*BBSBF>B,W.2-3;1-2
-com,"ej,manuc101,M,monte901,Balls and strikes"
-com,"Phillies Manager Charlie Manuel ejected by HP umpire Ed Montague for arguing balls and strikes"
 play,10,1,rossc001,22,.C*BS*BFS,K
 data,er,parkc002,4
 data,er,durbc001,0
@@ -1354,7 +1349,6 @@ start,paulr001,"Ronny Paulino",1,7,2
 start,rossc001,"Cody Ross",1,8,9
 start,taylg001,"Graham Taylor",1,9,1
 play,1,0,victs001,32,BCBFBFB,W
-com,"Debut game for Graham Taylor"
 play,1,0,brune001,31,BBBCB,W.1-2
 play,1,0,utlec001,22,BCCFBX,3/G.2-3;1-2
 play,1,0,howar001,21,BSBX,S6/P.3-H;2-3
@@ -1646,7 +1640,6 @@ play,11,1,pintr001,00,,NP
 sub,janip001,"Paul Janish",0,8,6
 play,11,1,pintr001,00,,NP
 sub,gloar001,"Ross Gload",1,8,11
-com,"Reds shortstop Alex Gonzalez left the game due to an injured chest"
 play,11,1,gloar001,01,..CX,63/G
 play,11,1,ameza001,10,BX,S8/L
 play,11,1,bonie001,11,B>F1,PO1(13)
@@ -2095,7 +2088,6 @@ play,5,0,andeg001,11,PSX,9/F
 play,5,0,kotcc001,00,1>X,D8/L.1-H
 play,5,0,franj004,00,,NP
 sub,badeb001,"Burke Badenhop",1,9,1
-com,"Marlins pitcher Anibal Sanchez left the game due to an injured neck/shoulder"
 play,5,0,franj004,02,S.CS,K
 play,5,1,rossc001,12,CFFBX,43/G
 play,5,1,paulr001,12,CSBX,3/P
@@ -2292,14 +2284,7 @@ play,8,0,blakc001,20,BBX,54(1)/FO/G
 play,8,1,cantj001,30,BBBB,W
 play,8,1,uggld001,00,,NP
 sub,wadec001,"Cory Wade",0,9,1
-com,"ej,gonzf801,M,rapue901,Arguing that Uggla was hit by pitch"
-com,"$on an attempted bunt, the pitch hit Dan Uggla and HP umpire Joe West told him to go"
-com,"to 1B; however, 1B umpire Ed Rapuano overruled West, saying that Uggla did got get out"
-com,"of the way and still had his bat out over the plate; Marlins Manager Fredi Gonzalez"
-com,"was ejected by Rapuano"
 play,8,1,uggld001,12,.CM*BS,K
-com,"ej,uggld001,P,westj901,Arguing that he was HBP"
-com,"Marlins second baseman Dan Uggla ejected by HP umpire Joe West"
 play,8,1,hermj001,22,C..BBFX,S9/L.1-2
 play,8,1,nunel001,00,,NP
 sub,helmw001,"Wes Helms",1,7,11
@@ -3159,8 +3144,6 @@ sub,coghc001,"Chris Coghlan",1,9,11
 play,10,1,coghc001,00,.X,1!/BP
 play,10,1,bonie001,12,11B>FFF1FX,8/F
 play,10,1,hermj001,22,1BF1BSC,K
-com,"ej,hermj001,P,ticht901,Called third strike"
-com,"Marlins left fielder Jeremy Hermida ejected by HP umpire Todd Tichenor"
 play,11,0,parrg001,00,,NP
 sub,lindm001,"Matt Lindstrom",1,2,1
 play,11,0,parrg001,00,,NP
@@ -3314,7 +3297,6 @@ play,6,0,ojeda001,00,,NP
 sub,bonie001,"Emilio Bonifacio",1,1,8
 play,6,0,ojeda001,00,,NP
 sub,helmw001,"Wes Helms",1,7,5
-com,"Marlins center fielder Cody Ross left the game due to an injured head"
 play,6,0,ojeda001,11,..CBX,63/G
 play,6,0,rober002,20,BBX,DGR/8/F
 play,6,0,uptoj001,12,BFFF.C,K
@@ -3336,7 +3318,6 @@ sub,zavac002,"Clay Zavada",0,8,1
 play,7,1,milla002,00,,NP
 sub,parrg001,"Gerardo Parra",0,9,8
 play,7,1,milla002,22,..BCBFX,6/P
-com,"Debut game for Clay Zavada"
 play,7,1,bonie001,22,BBCSS,K
 play,7,1,hermj001,02,CCS,K
 play,8,0,ojeda001,00,,NP
@@ -3344,7 +3325,6 @@ sub,martc005,"Cristhian Martinez",1,9,1
 play,8,0,ojeda001,00,,NP
 sub,drews001,"Stephen Drew",0,1,11
 play,8,0,drews001,12,..CSBX,3/G
-com,"Debut game for Cristhian Martinez"
 play,8,0,rober002,22,BCFBFS,K
 play,8,0,uptoj001,32,SSBBBB,W
 play,8,0,reynm001,00,X,HR/78/F.1-H
@@ -3515,7 +3495,6 @@ play,7,0,kaplg001,22,CBFFB.X,5/P-
 play,7,1,bakej002,00,,NP
 sub,thayd001,"Dale Thayer",0,9,1
 play,7,1,bakej002,00,.X,S8/F-
-com,"Debut game for Dale Thayer"
 play,7,1,uggld001,12,FFBFX,9/F9LF
 play,7,1,rossc001,21,BFBX,9/F
 play,7,1,coghc001,21,BBSX,7!/F
@@ -3528,7 +3507,6 @@ sub,calek001,"Kiko Calero",1,4,1
 play,8,0,zobrb001,00,,NP
 sub,helmw001,"Wes Helms",1,9,5
 play,8,0,zobrb001,00,....X,8/F
-com,"Debut game for Brett Hayes"
 play,8,0,aybaw001,31,BBFBB,W
 play,8,0,penac001,12,FCBS,K
 play,8,0,brigr001,01,FX,8/F
@@ -3600,7 +3578,6 @@ start,paulr001,"Ronny Paulino",1,7,2
 start,coghc001,"Chris Coghlan",1,8,7
 start,wests001,"Sean West",1,9,1
 play,1,0,uptob001,32,BBBCCFB,W
-com,"Debut game for Sean West"
 play,1,0,crawc002,01,CX,E4/G.1-2
 play,1,0,longe001,00,X,4/P/IF
 play,1,0,aybaw001,32,CBBC>FFB>X,4/P/IF
@@ -3895,7 +3872,6 @@ play,9,1,bonie001,00,,NP
 sub,howej003,"J.P. Howell",0,7,1
 play,9,1,bonie001,00,,NP
 sub,brigr001,"Reid Brignac",0,9,4
-com,"Rays second baseman Akinori Iwamura left the game due to an injured knee"
 play,9,1,bonie001,11,..CBX,53/BG
 play,9,1,hermj001,22,BCCBS,K
 play,9,1,ramih003,00,X,9/L
@@ -4056,7 +4032,6 @@ play,6,1,rossc001,00,,NP
 sub,julij001,"Jorge Julio",0,5,1
 play,6,1,rossc001,00,,NP
 sub,geruj001,"Jody Gerut",0,9,8
-com,"Brewers center fielder Mike Cameron left the game due to an injured knee"
 play,6,1,rossc001,01,..CX,S8/L
 play,6,1,martc005,00,,NP
 sub,hayeb001,"Brett Hayes",1,9,11
@@ -5269,7 +5244,6 @@ play,5,1,ramih003,32,BBC1F1FP>B,W.1-2
 play,5,1,cantj001,20,BBX,6/P
 play,6,0,pujoa001,00,,NP
 sub,paulr001,"Ronny Paulino",1,7,2
-com,"Marlins catcher John Baker left the game due to an injured head"
 play,6,0,pujoa001,02,CF..S,K
 play,6,0,rasmc001,00,X,D9/L
 play,6,0,ankir001,30,IIII,IW
@@ -5433,7 +5407,6 @@ play,7,0,duncc002,00,,NP
 sub,gloar001,"Ross Gload",1,4,3
 play,7,0,duncc002,00,,NP
 sub,martc005,"Cristhian Martinez",1,9,1
-com,"Marlins first baseman Jorge Cantu left the game due to an injured head"
 play,7,0,duncc002,21,..BFBX,4!3/G
 play,7,0,pujoa001,12,CBFX,53/G
 play,7,0,rasmc001,12,SSBX,3/G+
@@ -6016,7 +5989,6 @@ play,2,1,rossc001,10,BX,8/F
 play,2,1,carrb001,31,BBTBX,D7/L
 play,2,1,volsc001,00,,NP
 sub,aceva001,"Alfredo Aceves",0,9,1
-com,"Yankees pitcher CC Sabathia left the game due to an injured arm"
 play,2,1,volsc001,32,.BBBCSFX,3/P
 play,2,1,coghc001,02,CSX,8/F
 play,3,0,gardb001,11,CBX,43/G
@@ -6075,14 +6047,6 @@ play,7,1,helmw001,22,.11BS1C*B1S,K
 play,7,1,ramih003,32,BBCBF>F>B,W.1-2
 play,7,1,cantj001,12,BCCX,S7/L.2-H;1-H(E7/TH)(NR)(UR);B-3
 play,7,1,uggld001,12,SBFC,K
-com,"$Alejandro de Aza, who pinch hit for Renyel Pinto, was supposed to stay in the"
-com,"game and play LF; he did not go out and Chris Coghlan went back out to LF; after"
-com,"one pitch, Yankees manager Joe Girardi went to the umpires to ask about the"
-com,"lineup; after a delay, Coghlan was removed from the game and de Aza ran out to"
-com,"LF; then Girardi talked some more and the umpires conferred again and the Marlins"
-com,"had to send another player out to LF, since de Aza was also out of the game; Jeremy"
-com,"Hermida entered the game; Girardi protested the contest; MLB denied the protest two"
-com,"days later"
 play,8,0,jeted001,00,,NP
 sub,nunel001,"Leo Nunez",1,1,1
 play,8,0,jeted001,00,,NP
@@ -6231,7 +6195,6 @@ play,8,0,wietm001,21,.BCBX,HR/7/F
 play,8,0,andir001,00,X,S7/L
 play,8,0,pie-f001,00,,NP
 sub,meyed002,"Dan Meyer",1,9,1
-com,"Marlins pitcher Leo Nunez left the game due to an injured foot/ankle"
 play,8,0,pie-f001,00,,NP
 sub,salao001,"Oscar Salazar",0,9,11
 play,8,0,salao001,11,..BFX,S9/F-.1-3
@@ -6241,8 +6204,6 @@ play,8,1,uggld001,00,,NP
 sub,salao001,"Oscar Salazar",0,9,7
 play,8,1,uggld001,12,.BFSX,9/L
 play,8,1,rossc001,11,BFX,S5/G
-com,"$originally scored a single, changed after game to E5,"
-com,"changed back to single on 6-26"
 play,8,1,bakej002,02,CFS,K
 play,8,1,meyed002,00,,NP
 sub,helmw001,"Wes Helms",1,9,11
@@ -6577,7 +6538,6 @@ play,6,1,coghc001,02,CFS,K
 play,7,0,andir001,00,,NP
 sub,woodt003,"Tim Wood",1,9,1
 play,7,0,andir001,00,.X,4/L
-com,"Debut game for Tim Wood"
 play,7,0,hendm001,00,,NP
 sub,salao001,"Oscar Salazar",0,9,11
 play,7,0,salao001,11,.BCX,63/G
@@ -6819,7 +6779,6 @@ play,1,1,coghc001,21,CBBX,43/G
 play,1,1,bonie001,01,CX,S8/L
 play,1,1,ramih003,00,>B,SB2
 play,1,1,ramih003,20,>B.*BX,S5/G+.2-H(E5/TH)(NR)(UR)
-com,"Originally two E5, changed to single and E5 on 7-01"
 play,1,1,cantj001,00,>B,SB2
 play,1,1,cantj001,21,>B.FBX,3/P
 play,1,1,hermj001,00,>B,CS3(25)
@@ -6896,7 +6855,6 @@ sub,carrb001,"Brett Carroll",1,5,11
 play,7,1,carrb001,00,,NP
 sub,coloj001,"Jesus Colome",0,9,1
 play,7,1,carrb001,22,..BCSBF,NP
-com,"Game called for rain after delay of 1:29"
 data,er,stamc001,3
 data,er,clipt001,0
 data,er,beimj001,0
@@ -8309,20 +8267,10 @@ play,8,0,jonec004,00,,NP
 sub,meyed002,"Dan Meyer",1,9,1
 play,8,0,jonec004,30,..BBBB,W
 play,8,0,mccab002,21,BCBX,46(1)3/GDP
-com,"ej,cox-b103,M,hohnb901,Balls and strikes"
-com,"$Braves catcher Brian McCann thought HP umpire Bill Hohn missed the second"
-com,"pitch of McCann's at bat; after the double play, McCann said something to"
-com,"Hohn; when Hohn took a few steps in that direction, Braves Manager Bobby Cox"
-com,"argued with Hohn; Cox came out to the plate and after about a minute,"
-com,"Hohn ejected Cox"
 play,8,0,andeg001,32,SBC.FBBX,D8/L
 play,8,0,escoy001,00,,NP
 sub,donnb001,"Brendan Donnelly",1,9,1
 play,8,0,escoy001,00,.X,FC6/G.2X3(65)
-com,"ej,mccab002,P,hohnb901,Balls and strikes"
-com,"$when Braves catcher Brian McCann went to the plate to start taking warm-up"
-com,"pitches, he asked HP umpire Bill Hohn: 'Can you at least tell me that you"
-com,"missed that pitch?' Hohn ejected McCann"
 play,8,1,rossc001,00,,NP
 sub,rossd001,"David Ross",0,4,2
 play,8,1,rossc001,10,..BX,53/G
@@ -8409,7 +8357,6 @@ play,2,0,diazm003,00,X,63/G.2-3
 play,2,0,vazqj001,22,CCBFBX,53/G
 play,2,1,cantj001,00,,NP
 sub,hernd001,"Diory Hernandez",0,6,6
-com,"Braves shortstop Yunel Escobar left the game due to an injured hand/wrist"
 play,2,1,cantj001,12,.BCFFX,53/G
 play,2,1,hermj001,22,CBFBFS,K
 play,2,1,uggld001,00,X,9/L
@@ -8768,14 +8715,12 @@ play,3,1,hermj001,32,CBB.FF*BFX,S8/G.2-H(UR)
 play,3,1,rossc001,02,CCS,K
 play,4,0,blana001,00,,NP
 sub,bonie001,"Emilio Bonifacio",1,3,6
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured knee"
 play,4,0,blana001,20,.BBX,8/F
 play,4,0,lee-d002,22,BFSFFBX,D8/F
 play,4,0,ramia001,02,CFS,K
 play,4,0,bradm001,12,FCBC,K
 play,4,1,bakej002,00,,NP
 sub,samaj001,"Jeff Samardzija",0,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured back"
 play,4,1,bakej002,00,...X,D9/L
 play,4,1,sancb001,31,BBLBX,FC1/BG.2X3(15)
 play,4,1,coghc001,22,BCSBS,K
@@ -9514,7 +9459,6 @@ play,4,0,pench001,22,BSBFX,HR/78/F.2-H;1-H
 play,4,0,rodri001,01,CX,S48/G
 play,4,0,matsk001,30,*BBBB,W.1-2
 play,4,0,norrb001,01,CX,S6/G-.2-H(E3)(NR)(UR);1-3;B-2
-com,"originally E6, changed to E3 on 9-03"
 play,4,0,bourm001,12,FBFX,9/L
 play,4,1,woodt003,22,BBCFX,S9/L-
 play,4,1,coghc001,32,BCBBFX,7/F-
@@ -9691,7 +9635,6 @@ play,6,0,lee-c001,01,CX,63/G
 play,6,0,pench001,31,BBBCX,43/G
 play,6,1,cantj001,00,,NP
 sub,sampc001,"Chris Sampson",0,9,1
-com,"Astros pitcher Mike Hampton left the game due to an injured neck/shoulder"
 play,6,1,cantj001,12,.CSBX,S7/G
 play,6,1,uggld001,10,BB,WP.1-2
 play,6,1,uggld001,32,BB.BCSFX,43/G.2-3
@@ -9714,7 +9657,6 @@ play,7,0,keppj001,00,,NP
 sub,hermj001,"Jeremy Hermida",1,6,9
 play,7,0,keppj001,00,,NP
 sub,sancb001,"Brian Sanches",1,9,1
-com,"Marlins center fielder Cody Ross left the game due to an injured back"
 play,7,0,keppj001,00,..X,9/F-
 play,7,0,matsk001,01,CX,31/G
 play,7,0,quinh001,22,SCBBS,K
@@ -9954,7 +9896,6 @@ play,2,0,stewi001,00,,NP
 sub,hermj001,"Jeremy Hermida",1,2,9
 play,2,0,stewi001,00,.,NP
 sub,gloar001,"Ross Gload",1,8,3
-com,"Marlins first baseman Nick Johnson left the game due to an injured leg"
 play,2,0,stewi001,12,..CBSS,K
 play,2,0,barmc001,12,CFBS,K
 play,2,0,iannc001,21,BFBX,13/G
@@ -10337,7 +10278,6 @@ play,7,0,pagaa001,00,,NP
 sub,sancb001,"Brian Sanches",1,5,1
 play,7,0,pagaa001,00,,NP
 sub,paulr001,"Ronny Paulino",1,9,2
-com,"Marlins catcher John Baker left the game due to an injured back"
 play,7,0,pagaa001,32,..BCBBFFX,S8/L
 play,7,0,castl001,10,B>B,CS2(26)
 play,7,0,castl001,32,B>B.CCBX,4/L
@@ -10774,7 +10714,6 @@ sub,sancb001,"Brian Sanches",1,9,1
 play,2,0,venaw001,22,.BSFFBX,S34/G+.3-H;2-3;1-2
 play,2,0,blank002,00,,NP
 sub,headc001,"Chase Headley",0,6,11
-com,"Padres right fielder Kyle Blanks left the game due to an injured foot/ankle"
 play,2,0,headc001,22,.CBTBX,3/G
 play,2,1,bakej002,00,,NP
 sub,headc001,"Chase Headley",0,6,7
@@ -11453,7 +11392,6 @@ play,4,1,uggld001,12,CFBC,K
 play,4,1,rossc001,21,BBCX,2/P2F
 play,5,0,hudst001,00,,NP
 sub,bonie001,"Emilio Bonifacio",1,3,6
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured leg"
 play,5,0,hudst001,22,.CBSBX,13/G
 play,5,0,diazm003,12,CSFBFS,K
 play,5,0,pradm001,02,CCFX,3/G
@@ -11657,7 +11595,6 @@ play,7,0,andeg001,00,,NP
 sub,meyed002,"Dan Meyer",1,6,1
 play,7,0,andeg001,00,,NP
 sub,carrb001,"Brett Carroll",1,9,9
-com,"Marlins right fielder Jeremy Hermida left the game due to an injured chest"
 play,7,0,andeg001,01,..CX,4/P
 play,7,0,mccab002,02,FFX,E6/TH1/G
 play,7,0,laroa001,11,BSS,PB.1-2
@@ -11869,8 +11806,6 @@ play,7,1,helmw001,12,BFFX,46(1)3/GDP
 play,8,0,mccab002,00,,NP
 sub,pintr001,"Renyel Pinto",1,3,1
 play,8,0,mccab002,22,.BBCCFX,E1/G-
-com,"ej,cox-b103,M,wolfj901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Jim Wolf for arguing the strike zone"
 play,8,0,andeg001,02,C.SS,K
 play,8,0,escoy001,32,*BBCBCX,64(1)3/GDP
 play,8,1,pintr001,00,,NP
@@ -12106,7 +12041,6 @@ start,uggld001,"Dan Uggla",1,6,4
 start,rossc001,"Cody Ross",1,7,8
 start,carrb001,"Brett Carroll",1,8,9
 start,sanca004,"Anibal Sanchez",1,9,1
-com,"$Rain delay of 2:34 at start of game"
 play,1,0,harrw001,22,BSCFBC,K
 play,1,0,desmi001,31,BBSBB,W
 play,1,0,zimmr001,32,CB1BBS>F1>X,S9/G.1-2
@@ -12392,8 +12326,6 @@ play,9,0,maxwj002,02,CCS,K
 play,9,0,orr-p001,02,SFFC,K
 play,9,1,maybc001,12,CBFFX,S8/L
 play,9,1,gloar001,00,F,NP
-com,"$Game called after 53 minute rain delay, bringing total for"
-com,"game to 3:03"
 data,er,lannj001,1
 data,er,clipt001,0
 data,er,bergj001,0
@@ -12847,8 +12779,6 @@ play,9,1,coghc001,10,BX,9/L+.2-3
 play,9,1,maybc001,00,,NP
 sub,bakej002,"John Baker",1,2,11
 play,9,1,bakej002,32,.BCSBFBC,K
-com,"ej,gonzf801,M,holbs901,Called third strike on Baker"
-com,"Marlins Manager Fredi Gonzalez ejected by HP umpire Sam Holbrook"
 play,9,1,ramih003,32,.S*BBC*BB,W
 play,9,1,cantj001,10,BX,S8/L.3-H;1-3
 play,9,1,meyed002,00,,NP
@@ -13120,7 +13050,6 @@ play,4,1,bakej002,11,B.CX,43/G
 play,4,1,rossc001,10,BH,HP
 play,4,1,carrb001,00,,NP
 sub,maybc001,"Cameron Maybin",1,7,12
-com,"Marlins center fielder Cody Ross left the game due to an injured hand/wrist"
 play,4,1,carrb001,21,.BFBH,HP.1-2
 play,4,1,wests001,22,BCBSS,K
 play,5,0,pagaa001,00,,NP

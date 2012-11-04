@@ -89,7 +89,6 @@ play,6,0,alfoe001,10,BX,43/G
 play,6,0,santb001,00,X,7/F
 play,6,1,kotsm001,11,BCX,S7/L
 play,6,1,whitr001,22,1CBFBF>B,SB2
-com,"originally CS2(2E4), then change to SB2"
 play,6,1,whitr001,32,1CBFBF>B.FB,W
 play,6,1,klesr001,01,CX,D8/F.2-H;1-3
 play,6,1,nadyx001,00,,NP
@@ -453,7 +452,6 @@ play,9,1,nadyx001,00,X,S6/G.1-3
 play,9,1,burrs001,00,,NP
 sub,victs001,"Shane Victorino",1,5,12
 play,9,1,burrs001,02,.FFC,K
-com,"Debut game for Shane Victorino"
 data,er,mossd001,2
 data,er,nathj001,0
 data,er,eyres001,0
@@ -576,7 +574,6 @@ play,6,0,kinkm001,02,.CFS,K
 play,6,1,benng001,00,,NP
 sub,colys001,"Steve Colyer",0,9,1
 play,6,1,benng001,10,.BX,9/F
-com,"Debut game for Steve Colyer"
 play,6,1,vazqr001,10,BX,43/G
 play,6,1,lorem001,32,BBBCCX,S8/G
 play,6,1,kotsm001,31,BBFBX,S9/G.1-3
@@ -712,7 +709,6 @@ play,5,1,hansd001,21,BFN.BX,31/G.2-3
 play,5,1,burrs001,00,X,8/F
 play,6,0,belta001,00,,NP
 sub,mattm001,"Mike Matthews",1,9,1
-com,"Padres Clay Condrey left the game due to an injured leg"
 play,6,0,belta001,00,.X,63/G
 play,6,0,coraa001,10,BX,7/F
 play,6,0,iztuc001,01,CX,63/G
@@ -1228,7 +1224,6 @@ sub,hansd001,"Dave Hansen",1,9,3
 play,8,0,wilsp002,30,..BBBB,W.1-2
 play,8,0,hernj001,31,CBBBB,W.2-3;1-2
 play,8,0,johnc002,00,X,5/P
-com,"Infield Fly rule"
 play,8,0,stync001,12,SCBFX,S8/L.3-H;2-H;1-3
 play,8,0,miced001,00,,NP
 sub,villb001,"Brandon Villafuerte",1,4,1
@@ -1976,9 +1971,6 @@ play,1,0,loftk001,20,BBX,S9/L
 play,1,0,wilsj002,22,BL1SBFS,K
 play,1,0,kendj001,02,CC1S,K
 play,1,0,simor001,01,SX,S9/G.1-3
-com,"ej,perrg001,C,welkb901,Checked swing"
-com,"Pirates Batting Coach Gerald Perry ejected by 1B umpire Bill Welke"
-com,"for arguing a check swing call"
 play,1,0,ramia001,22,BCFBS,K
 play,1,1,vazqr001,01,CX,D7/F
 play,1,1,lockk001,11,BCF,SB3
@@ -2491,8 +2483,6 @@ start,eatoa001,"Adam Eaton",1,9,1
 play,1,0,rollj001,32,BFBFFBB,W
 play,1,0,polap001,00,X,63/G.1-2
 play,1,0,abreb001,22,CBB>FFS,K
-com,"ej,vukoj101,C,hohnb901,Balls and strikes"
-com,"Phillies 3B Coach John Vukovich ejected by HP umpire Bill Hohn"
 play,1,0,thomj002,22,CC.BBX,S7/G.2-H
 play,1,0,belld002,31,BBFBB,W.1-2
 play,1,0,leder001,00,X,46(1)/FO/G
@@ -2533,7 +2523,6 @@ play,5,1,merll001,10,BX,7/L
 play,5,1,eatoa001,22,CCFBBS,K
 play,6,0,belld002,00,,NP
 sub,bynum001,"Mike Bynum",1,9,1
-com,"Padres Adam Eaton left the game due to an injured groin"
 play,6,0,belld002,20,..BBX,53/G
 play,6,0,leder001,32,BFCBFFBB,W
 play,6,0,pratt001,10,1BX,54(1)3/GDP
@@ -2717,7 +2706,6 @@ play,7,1,whitr001,10,BX,S7/G.1-2
 play,7,1,buchb002,00,,NP
 sub,klesr001,"Ryan Klesko",1,4,11
 play,7,1,klesr001,22,.BBCFFX,6/P
-com,"Infield Fly rule"
 play,7,1,nadyx001,22,BBCFX,53/G
 play,8,0,encaj001,00,,NP
 sub,klesr001,"Ryan Klesko",1,4,3
@@ -3194,8 +3182,6 @@ play,5,0,gilem001,00,X,S9/L.1-3
 play,5,0,shefg001,01,FX,S7/G.3-H;1-2
 play,5,0,jonec004,30,BBBB,W.2-3;1-2
 play,5,0,jonea002,21,BF*BX,5(2)/FO/G.3-H;1-2;B-1
-com,"during this inning Condrey was injured while warming"
-com,"in bullpen"
 play,5,0,franj002,02,SSX,T8/F.2-H;1-H
 play,5,0,lopej001,00,,NP
 sub,wrigj002,"Jaret Wright",1,9,1
@@ -3208,8 +3194,6 @@ play,5,0,shefg001,02,CSS,K
 play,5,1,klesr001,12,SFBH,HP
 play,5,1,buchb002,00,,NP
 sub,nadyx001,"Xavier Nady",1,4,12
-com,"Padres Ryan Klesko left the game due to an injured head"
-com,"bruised cheek, no fracture"
 play,5,1,buchb002,10,..BX,8/F
 play,5,1,burrs001,00,X,HR/9/F.1-H
 play,5,1,gonzw001,01,FX,D7/L
@@ -3370,11 +3354,6 @@ play,3,1,buchb002,12,SBSS,K
 play,3,1,nadyx001,00,B,CS2(24).2-3
 play,3,1,nadyx001,22,B.BFCX,S8/L.3-H
 play,3,1,burrs001,21,BBCX,HR7/L/IPHR.1-H
-com,"$the ball rolled through the LF bullpen into a cage;"
-com,"Chipper Jones stopped running after the ball and held"
-com,"up his arms then went after the ball too late; the"
-com,"cage gate was supposed to be closed; after some"
-com,"discussion, the homer was allowed"
 play,3,1,merll001,21,CBBX,S8/L
 play,3,1,rivem003,01,>FX,13/G
 play,4,0,fickr001,12,BCSS,K
@@ -3603,7 +3582,6 @@ sub,merll001,"Lou Merloni",1,5,7
 play,9,0,lopej001,00,,NP
 sub,ojedm001,"Miguel Ojeda",1,8,2
 play,9,0,lopej001,10,....BX,9/F
-com,"Debut game for Miguel Ojeda"
 play,9,0,castv001,00,X,HR/7/L
 play,9,0,bragd001,00,X,43/G
 play,9,0,furcr001,32,BBFBFX,HR/7/L
@@ -4145,7 +4123,6 @@ play,2,1,klesr001,30,BBBB,W
 play,2,1,buchb002,32,BCBS+1B1FX,54(1)/FO/G
 play,2,1,mattg002,30,B+1BBB,W.1-2
 play,2,1,benng001,21,BBCX,5/P
-com,"Infield Fly rule"
 play,2,1,clarj003,22,FBCBFC,K
 play,3,0,clayr001,22,BCBFS,K
 play,3,0,kinnm002,12,FCBS,K
@@ -4613,7 +4590,6 @@ start,merll001,"Lou Merloni",1,7,6
 start,ojedm001,"Miguel Ojeda",1,8,2
 start,peavj001,"Jake Peavy",1,9,1
 play,1,0,delld001,02,CCS,K23
-com,"Debut game for Edgar Gonzalez"
 play,1,0,cinta001,02,CFX,63/G
 play,1,0,bautd001,12,CBFX,8/F
 play,1,1,mattg002,22,BBCCX,S9/G
@@ -4632,8 +4608,6 @@ play,3,0,gonze001,00,X,63/G
 play,3,1,ojedm001,00,X,6/P
 play,3,1,peavj001,00,,NP
 sub,finls001,"Steve Finley",0,1,8
-com,"Diamondbacks center fielder David Dellucci left the game"
-com,"due to an injured head. Collision with Cintron"
 play,3,1,peavj001,22,..CBSBC,K
 play,3,1,mattg002,32,FBBTBB,W
 play,3,1,lorem001,11,11P>LB,CS2(24)
@@ -4673,7 +4647,6 @@ play,6,0,bautd001,00,,NP
 sub,nagyc001,"Charles Nagy",1,9,1
 play,6,0,bautd001,00,,NP
 sub,womat001,"Tony Womack",0,2,12
-com,"Diamondbacks Alex Cintron left the game due to an injured leg"
 play,6,0,bautd001,01,...CX,D8/L.2-H
 play,6,0,gonzl001,01,CX,S8/G.2-H
 play,6,0,hills002,32,CBBBFF>X,63/G
@@ -4723,7 +4696,6 @@ play,9,0,overl001,21,.BFBX,8/F
 play,9,1,mattg002,00,,NP
 sub,valvj001,"Jose Valverde",0,7,1
 play,9,1,mattg002,22,.BCBCS,K
-com,"Debut game for Jose Valverde"
 play,9,1,lorem001,12,SBSX,HR/7/F
 play,9,1,whitr001,32,BSBFBFB,W
 play,9,1,klesr001,01,FX,S8/G.1-3
@@ -5270,7 +5242,6 @@ play,3,0,berna001,00,,NP
 sub,lorem001,"Mark Loretta",1,5,4
 play,3,0,berna001,00,,NP
 sub,lockk001,"Keith Lockhart",1,6,5
-com,"Padres Sean Burroughs left the game due to an injured elbow"
 play,3,0,berna001,02,...CCX,13/G
 play,3,0,sanca003,01,CX,43/G
 play,3,0,kingg001,21,BCBX,5/P5F
@@ -5447,8 +5418,6 @@ play,7,0,rogek001,12,FBCFX,43/G
 play,7,0,jonej003,32,CBFBFBFB,W
 play,7,0,guzmc001,02,1CFFX,S6/G.1-2
 play,7,0,koskc001,22,FBFFFBC,K
-com,"ej,koskc001,P,westj901,Called third strike"
-com,"Twins third baseman Corey Koskie ejected by HP umpire Joe West"
 play,7,0,huntt001,00,X,S7/L.2-H;1-3
 play,7,0,miend001,00,,NP
 sub,mattm001,"Mike Matthews",1,9,1
@@ -5684,7 +5653,6 @@ sub,nakam001,"Micheal Nakamura",0,9,1
 play,8,1,hergm001,00,,NP
 sub,hansd001,"Dave Hansen",1,5,11
 play,8,1,hansd001,12,..CFBC,K
-com,"Debut game for Micheal Nakamura"
 play,9,0,jonej003,00,,NP
 sub,orosj001,"Jesse Orosco",1,5,1
 play,9,0,jonej003,11,.FBX,31/G
@@ -6341,7 +6309,6 @@ play,1,0,heltt001,30,BBBI,IW
 play,1,0,wilsp002,00,B,WP.2-3;1-2
 play,1,0,wilsp002,31,B.BFBB,W
 play,1,0,walkl001,31,BBCBX,6/P
-com,"Infield Fly rule"
 play,1,0,stync001,11,BFX,S7/G.3-H;2-H;1X3(75)
 play,1,1,mattg002,32,CBSBBS,K
 play,1,1,kotsm001,31,BFBBX,7/F
@@ -8146,8 +8113,6 @@ play,1,1,vazqr001,32,CBBBCS,K
 play,1,1,kotsm001,11,TBX,153/G
 play,1,1,lorem001,00,,NP
 sub,simoj001,"Jason Simontacchi",0,9,1
-com,"Hard grounder hit Morris on first knuckle of index"
-com,"finger on pitching hand. Had to leave, X-rays OK"
 play,1,1,lorem001,01,..CX,D7/G
 play,1,1,klesr001,11,BFX,D9/L.2-H
 play,1,1,burrs001,12,BCFFFX,8/L
@@ -8180,7 +8145,6 @@ play,4,0,robik002,01,.FX,S4/G.3-H(UR);1-2
 play,4,0,hartb001,01,SX,53/G
 play,4,1,nadyx001,00,,NP
 sub,yan-e001,"Esteban Yan",0,9,1
-com,"Simontacchi left with triceps tendinitis in right arm"
 play,4,1,nadyx001,12,.CSBS,K
 play,4,1,benng001,12,CBFS,K
 play,4,1,peavj001,02,CFFX,43/G
@@ -8706,7 +8670,6 @@ sub,farnk001,"Kyle Farnsworth",0,9,1
 play,7,1,lorem001,12,.CBCX,D9/L
 play,7,1,klesr001,32,BSS*BB>FFB,W
 play,7,1,nevip001,12,SC*BX,3/P
-com,"Infield Fly rule"
 play,7,1,whitr001,30,BBBB,W.2-3;1-2
 play,7,1,vazqr001,00,,NP
 sub,guthm001,"Mark Guthrie",0,9,1
@@ -8862,10 +8825,6 @@ play,8,0,sosas001,22,BSSBX,9/L
 play,8,0,aloum001,02,CSC,K
 play,8,1,lorem001,32,BBBSCX,HR/8/F
 play,8,1,nevip001,02,FSS,K
-com,"ej,nevip001,P,vanol901,Balls and strikes"
-com,"Padres Phil Nevin ejected by HP umpire Larry Vanover;"
-com,"1B umpire Gary Darling said no swing but Vanover ruled a"
-com,"Swing for strike three"
 play,8,1,klesr001,00,,NP
 sub,guthm001,"Mark Guthrie",0,9,1
 play,8,1,klesr001,22,.FSBBX,6/P
@@ -9020,7 +8979,6 @@ sub,buchb002,"Brian Buchanan",1,5,9
 play,7,0,ramia001,00,,NP
 sub,hansd001,"Dave Hansen",1,7,5
 play,7,0,ramia001,11,....BSX,94/F
-com,"Buchanan dove and deflected ball into air, Merloni got it"
 play,7,0,karre001,00,X,2/P2F
 play,7,0,gonza001,22,CBBFFX,9/F
 play,7,1,roa-j001,00,,NP
@@ -9644,7 +9602,6 @@ play,1,0,reyej001,12,1SMFB1X,6/P
 play,1,0,piazm001,20,BBX,64(1)/FO/G
 play,1,0,philj003,22,BCCFBFFX,D9/L.1-3
 play,1,0,peret004,12,CBFFFX,S8/G.3-H;2XH(82)
-com,"TV shows very bad call, runner had BOTH feet on plate"
 play,1,1,mattg002,12,CBSX,S9/G
 play,1,1,kotsm001,00,X,8/L
 play,1,1,lorem001,10,1BB,SB2
@@ -10762,11 +10719,9 @@ play,7,1,vazqr001,02,FFS,K
 play,7,1,benng001,00,,NP
 sub,quinh001,"Humberto Quintero",1,8,11
 play,7,1,quinh001,00,.X,S7/L.1-2
-com,"Debut game for Humberto Quintero"
 play,7,1,lawrb001,00,,NP
 sub,greek002,"Khalil Greene",1,9,11
 play,7,1,greek002,32,.BSFBFFBX,9/F
-com,"Debut game for Khalil Greene"
 play,7,1,burrs001,02,FFS,K
 play,8,0,katam001,00,,NP
 sub,villb001,"Brandon Villafuerte",1,2,1
@@ -12523,10 +12478,6 @@ play,3,1,nevip001,02,C>C.FX,E1/TH/G
 play,3,1,nadyx001,00,X,S8/L.3-H;1-2
 play,3,1,mattg002,31,BBBCB,W.2-3;1-2
 play,3,1,greek002,12,FCBFX,74(1)/GDP.3-H(UR)(NR);2X3(46)
-com,"Liner trapped, but Nady (on 2nd) thought it was caught."
-com,"Throw came to 2nd to force Matthews. Nady broke for 3rd"
-com,"and was out to complete GDP.  RBI awarded, since neither"
-com,"out was on the batter"
 play,4,0,heltt001,12,FBCX,S7/L
 play,4,0,wilsp002,02,SSFX,8/F
 play,4,0,paytj001,00,X,9/F
@@ -12910,8 +12861,6 @@ play,7,1,nevip001,00,,NP
 sub,berna001,"Adam Bernero",0,9,1
 play,7,1,nevip001,31,.SBBBB,W
 play,7,1,kotsm001,00,X,13/G+.1-2
-com,"ej,bochb002,M,kellk901,Call at 1B"
-com,"Padres Manager Bruce Bochy ejected by 1B umpire Kevin Kelley"
 play,7,1,nadyx001,22,.BBCSX,HR/7/F.2-H
 play,7,1,greek002,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,7,11

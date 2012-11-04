@@ -227,7 +227,6 @@ play,2,1,stevl001,00,X,S7
 play,2,1,trubc001,11,SBX,8/F8D
 play,2,1,wilkb002,22,BBCCS,K
 play,3,0,lowem001,00,X,S5/G
-com,"originally scored as E5"
 play,3,0,lee-d002,31,SBBBB,W.1-2
 play,3,0,gonza002,00,B,WP.2-3;1-2
 play,3,0,gonza002,20,BBX,FC6.3XH(62);2-3;B-1
@@ -1130,7 +1129,6 @@ play,3,0,tracs001,10,BX,3/SH.1-2#
 play,3,0,peret004,20,BBX,4/L4
 play,3,1,wilkb002,22,BCCBX,S8
 play,3,1,armat002,00,X,E1/TH2/SH.1-2
-com,"originally scored 1E4"
 play,3,1,bergp001,01,LX,16(1)/FO.2-3
 play,3,1,vidrj001,32,BBCFBFX,7/F7S
 play,3,1,guerv001,01,CX,S8/8S.3-H(UR);1-2
@@ -1332,7 +1330,6 @@ sub,walkp001,"Pete Walker",0,9,1
 play,6,1,pavac001,12,SFBX,3/G#
 play,6,1,bergp001,10,BX,S8
 play,6,1,vidrj001,21,BFBB,SB2.1-3(E2/TH2)
-com,"E2 when Piazza's throw hit pitcher"
 play,6,1,vidrj001,32,BFBBFFFX,S8/8S.3-H
 play,6,1,guerv001,12,SBSX,8/F8D
 play,6,1,stevl001,32,BCBCBFX,43/G
@@ -2422,8 +2419,6 @@ sub,mateh001,"Henry Mateo",1,9,11
 play,7,1,mateh001,12,FFBX,23/G
 play,7,1,bergp001,22,BBCFS,K
 play,7,1,vidrj001,32,CSBBFBFC,K/C
-com,"ej,vidrj001,P,marqa901,Called third strike"
-com,"Jose Vidro ejected by HP umpire Alfonzo Marquez"
 play,8,0,edmoj001,00,,NP
 sub,mateh001,"Henry Mateo",1,9,4
 play,8,0,edmoj001,00,,NP
@@ -3439,7 +3434,6 @@ play,1,0,bondb001,12,CFBS,K
 play,1,1,chave002,01,CX,3/G#
 play,1,1,vidrj001,21,CBBX,53/G
 play,1,1,guerv001,12,FBCS,K
-com,"8 minute delay in the 2nd"
 play,2,0,kentj001,00,X,S
 play,2,0,sandr002,32,CCBBBC,K/C
 play,2,0,minod001,00,X,46(1)3/GDP
@@ -3660,7 +3654,6 @@ sub,tuckt001,"T.J. Tucker",1,5,1
 play,9,0,bragd001,32,FCBFBBX,5/L5
 play,9,0,furcr001,21,BSBX,S7/7S
 play,9,0,gilem001,00,X,E1/TH2.1-H(E8/THH)(UR)(NR);B-3
-com,"$Furcal hit in head by throw as he scored"
 play,9,0,shefg001,02,FCS,K
 play,9,0,jonec004,30,IIII,IW
 play,9,0,jonea002,22,BBFCC,K/C
@@ -3775,7 +3768,6 @@ play,3,1,armat002,10,BX,3/G#
 play,4,0,furcr001,21,BCBX,T/89
 play,4,0,lockk001,01,FX,43/G.3-H
 play,4,0,shefg001,22,BSCBX,63/G
-com,"$Sheffield pulled left hamstring running out grounder"
 play,4,0,jonec004,11,FBX,S9
 play,4,0,jonea002,01,SB,WP.1-2
 play,4,0,jonea002,32,SBBFBFB,W
@@ -3879,7 +3871,6 @@ start,mordm001,"Mike Mordecai",1,6,3
 start,barrm003,"Michael Barrett",1,7,2
 start,macij001,"Jose Macias",1,8,8
 start,ohkat001,"Tomokazu Ohka",1,9,1
-com,"PHI Mgr Bowa serving first of three game suspension"
 play,1,0,rollj001,21,BCBX,3/L3
 play,1,0,andem003,21,BBCX,5/FL
 play,1,0,roles001,32,BCBFBB,W
@@ -4005,7 +3996,6 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,barrm003,"Michael Barrett",1,7,2
 start,wilkb002,"Brad Wilkerson",1,8,3
 start,pavac001,"Carl Pavano",1,9,1
-com,"PHI Mgr Bowa serving game 2 of 3 game suspension"
 play,1,0,rollj001,10,BX,S8
 play,1,0,andem003,00,C,SB2
 play,1,0,andem003,02,CFX,8/F8
@@ -4418,7 +4408,6 @@ play,7,0,kendj001,11,CBX,9/L9
 play,7,0,gileb002,00,X,8/F8
 play,7,1,wilkb002,32,BBBCFX,S9/9S
 play,7,1,cabro001,00,X,26(1)3/BG/GDP#
-com,"bunt presumed"
 play,7,1,vidrj001,30,BBBB,W
 play,7,1,guerv001,00,,NP
 sub,fettm001,"Mike Fetters",0,9,1
@@ -4605,8 +4594,6 @@ play,8,1,guerv001,21,BSBB,WP.1-2
 play,8,1,guerv001,31,BSBBX,S8.2-H
 play,8,1,cordw001,02,CC,NP
 sub,schnb001,"Brian Schneider",1,5,11
-com,"ej,cordw001,P,westj901,Balls and strikes"
-com,"Wil Cordero ejected by HP umpire Joe West"
 play,8,1,schnb001,02,CC.X,64(1)3/GDP
 play,8,1,tatif001,31,BFBBB,W
 play,8,1,galaa001,11,CBX,64(1)/FO
@@ -4985,7 +4972,6 @@ play,4,0,lawrj001,32,CCBBBB,W
 play,4,0,loaie001,00,,NP
 sub,day-z001,"Zach Day",1,9,1
 play,4,0,loaie001,10,BX,FC4.1X2(4E6);B-1
-com,"Debut game for Zach Day"
 play,4,0,woodc001,12,BFCX,46(1)/FO.2-3
 play,4,0,cruzj004,00,X,46(1)3/GDP
 play,4,1,wilkb002,12,BCCX,S8
@@ -5300,7 +5286,6 @@ start,cabro001,"Orlando Cabrera",1,7,6
 start,schnb001,"Brian Schneider",1,8,2
 start,armat002,"Tony Armas",1,9,1
 play,1,0,peren001,00,X,3/G#
-com,"Debut game for Shawn Sedlacek"
 play,1,0,feblc001,22,CBFBS,K
 play,1,0,beltc001,10,BX,S9
 play,1,0,sweem002,12,FBFX,S.1-2
@@ -5539,7 +5524,6 @@ sub,lloyg001,"Graeme Lloyd",1,9,1
 play,8,0,ibanr001,00,,NP
 sub,randj002,"Joe Randa",0,5,11
 play,8,0,randj002,11,FBX,S8.1-3(E8);B-2(E8)
-com,"two errors on this play"
 play,8,0,bergb001,00,,NP
 sub,tuckt001,"T.J. Tucker",1,9,1
 play,8,0,bergb001,11,BFX,63/G.3-H(UR);2-3
@@ -6045,7 +6029,6 @@ play,9,0,mcdoj003,12,BFCX,5/L5
 play,9,0,colob001,00,,NP
 sub,broub001,"Benjamin Broussard",0,9,11
 play,9,0,broub001,32,BCCFFBBFX,43/G
-com,"Debut game for Benjamin Broussard"
 play,9,1,cabro001,00,,NP
 sub,wickb001,"Bob Wickman",0,9,1
 play,9,1,cabro001,01,CX,8/L8
@@ -6748,7 +6731,6 @@ play,3,0,jonec004,31,BBCBB,W
 play,3,0,jonea002,00,X,9/F9
 play,3,1,barrm003,00,X,S9/9S
 play,3,1,vazqj001,00,X,26(1)4/BG/GDP
-com,"bunt assumed"
 play,3,1,wilkb002,32,BCBBCX,S8
 play,3,1,vidrj001,10,BX,S.1-2
 play,3,1,guerv001,30,BBBB,W.2-3;1-2
@@ -6756,7 +6738,6 @@ play,3,1,cordw001,02,SFX,HR/7.3-H;2-H;1-H
 play,3,1,tatif001,22,BBSFFX,53/G
 play,4,0,castv001,00,X,S8
 play,4,0,lopej001,32,FFBFBBS,K.1-2(E4/TH)#
-com,"must be a rundown on pickoff after K"
 play,4,0,lockk001,31,BBBCX,7/F7
 play,4,0,mossd001,12,CCBX,63/G
 play,4,1,galaa001,31,FBBBX,S7/7S
@@ -7086,8 +7067,6 @@ play,3,0,abreb001,20,BBX,43/G
 play,3,1,wilkb002,12,CSBS,K
 play,3,1,vidrj001,12,CBFX,3/G#
 play,3,1,guerv001,01,CX,6/FL
-com,"$off concrete rim of stadium; Expos Mgr Robinson argued that"
-com,"ball was out of play, 3rd base umpire Meals ruled in play"
 play,4,0,burrp001,31,CBBBB,W
 play,4,0,lee-t002,22,CBFBS,K
 play,4,0,roles001,10,BX,8/F8
@@ -7274,7 +7253,6 @@ play,6,1,tatif001,22,CCBBS,K
 play,6,1,cabro001,21,BCBX,64(1)3/GDP
 play,7,0,ceder001,00,X,S8
 play,7,0,ordor001,02,LCX,S3/BG3.1X3(36)
-com,"apparently rounded base too far"
 play,7,0,corem001,00,,NP
 sub,valej002,"John Valentin",0,9,11
 play,7,0,valej002,22,CBCBX,64(1)3/GDP
@@ -7287,8 +7265,6 @@ play,7,1,macij001,22,FBBSX,S9
 play,7,1,wilkb002,10,BX,63/G.1-2
 play,7,1,vidrj001,32,FFBBBB,W
 play,7,1,guerv001,02,CFX,13/G
-com,"ej,robif103,M,iassd901,Balls and strikes"
-com,"Expos Manager Frank Robinson ejected by HP umpire Dan Iassogna in 8th"
 play,8,0,alomr001,00,,NP
 sub,stews003,"Scott Stewart",1,9,1
 play,8,0,alomr001,32,CFBFFBFFBX,S7
@@ -7760,7 +7736,6 @@ play,8,0,lee-d002,00,,NP
 sub,hergm001,"Matt Herges",1,9,1
 play,8,0,lee-d002,22,CBBFS,K
 play,8,0,encaj001,22,CBFBX,S4/G
-com,"originally scored E4, changed 2 days later"
 play,8,0,millk005,12,CBFFX,9/F9
 play,8,0,johnc002,12,BCFFX,6/P6
 play,8,1,guerv001,00,X,D/78
@@ -8394,7 +8369,6 @@ sub,cepim001,"Matthew Cepicky",1,1,9
 play,9,0,mccrq001,00,,NP
 sub,smitd006,"Dan Smith",1,3,1
 play,9,0,mccrq001,12,BCSS,K
-com,"Debut game for Matthew Cepicky"
 play,9,0,moelc001,10,BX,43/G
 play,9,0,johnr005,11,BCX,43/G
 play,9,1,galaa001,12,BCCX,S
@@ -9470,7 +9444,6 @@ play,3,0,klesr001,22,SBSFBX,9/F9
 play,3,1,cabro001,01,CX,13/G
 play,3,1,guerv001,10,BX,S8
 play,3,1,cordw001,01,CX,S1/L1.1-2
-com,"$Jones hit on left forearm, onto DL"
 play,3,1,galaa001,00,,NP
 sub,fikaj001,"Jeremy Fikac",0,9,1
 play,3,1,galaa001,12,BFSX,54(1)/FO.2-3
@@ -9536,7 +9509,6 @@ play,8,0,tramb001,00,,NP
 sub,macij001,"Jose Macias",1,3,8
 play,8,0,tramb001,00,,NP
 sub,cordw001,"Wil Cordero",1,4,9
-com,"$Guerrero left with strained shoulder"
 play,8,0,tramb001,00,,NP
 sub,cepim001,"Matthew Cepicky",1,9,7
 play,8,0,tramb001,00,,NP
@@ -9616,7 +9588,6 @@ start,wilkb002,"Brad Wilkerson",1,7,7
 start,barrm003,"Michael Barrett",1,8,2
 start,reamb001,"Britt Reames",1,9,1
 play,1,0,vazqr001,01,CX,63/G
-com,"Debut game for Mike Bynum"
 play,1,0,kotsm001,32,BBCBFX,S8
 play,1,0,klesr001,30,BBBB,W.1-2
 play,1,0,nevip001,22,SSBFBC,K/C
@@ -9802,7 +9773,6 @@ play,3,0,peavj001,00,X,3/SH.1-2#
 play,3,0,vazqr001,22,CBCBX,S7.2-3
 play,3,0,kotsm001,00,X,7/SF.3-H
 play,3,0,klesr001,21,CBBX,13
-com,"Klesko hit apparent double, missed 1st, out on appeal"
 play,3,1,oleat001,02,CSX,D7
 play,3,1,cordw001,12,CBFX,4/P4
 play,3,1,cabro001,00,X,D9.2-H
@@ -9945,7 +9915,6 @@ play,3,0,cruzd001,01,CX,S8
 play,3,0,lampt001,32,BFCFBBB,W.1-2
 play,3,0,lawrb001,10,BX,53/SH.2-3;1-2#
 play,3,0,vazqr001,11,BFX,8(B)2(3)/FDP
-com,"Cruz tagged out standing up"
 play,3,1,wilkb002,01,SX,D7
 play,3,1,vidrj001,31,BBCBB,W
 play,3,1,guerv001,00,X,HR/7.2-H;1-H
@@ -10657,7 +10626,6 @@ play,1,1,vidrj001,12,FCBX,8/L8
 play,2,0,liebm001,01,CX,S7
 play,2,0,lee-t002,10,BX,D7.1-3
 play,2,0,polap001,22,BCBFX,E5/TH1/G56.3-H(RBI);2-H(NR);B-2
-com,"$Tatis made a diving stop but his throw sailed into the Expos' dugout"
 play,2,0,andem003,01,SX,S8.2-3
 play,2,0,duckb001,31,BBBCX,13/SH.1-2#
 play,2,0,gland001,00,X,43/G.3-H(UR);2-3
@@ -10717,7 +10685,6 @@ play,8,0,lee-t002,00,,NP
 sub,smitd006,"Dan Smith",1,9,1
 play,8,0,lee-t002,00,X,D/89
 play,8,0,polap001,10,BX,5E3/SH.2-3
-com,"$Galarraga's foot came off the bag as he took the throw"
 play,8,0,andem003,02,CFFFS,K+CS2(2636)/TP.3X3(65)
 play,8,1,wilkb002,00,,NP
 sub,peret003,"Tomas Perez",0,9,4
@@ -10741,7 +10708,6 @@ play,9,1,tatif001,22,BBFFS,K
 play,9,1,cabro001,01,FX,3/P3
 play,9,1,schnb001,02,FCFX,13/G
 play,10,0,lee-t002,12,CFFBFFFFX,31/G
-com,"Eischen slide, twist ankle, tag bag"
 play,10,0,polap001,00,X,63/G
 play,10,0,timlm001,00,,NP
 sub,holld001,"Dave Hollins",0,8,11
@@ -11345,7 +11311,6 @@ sub,mcewj001,"Joe McEwing",0,8,4
 play,8,1,carrj001,00,,NP
 sub,strap001,"Pat Strange",0,2,1
 play,8,1,carrj001,22,CBBFX,S
-com,"Debut game for Pat Strange"
 play,8,1,cabro001,00,1,PO1(E1).1-2
 play,8,1,cabro001,02,1CFX,9/F9
 play,8,1,guerv001,01,SX,63/G
@@ -12293,9 +12258,6 @@ play,4,1,wilkb002,32,CBBBSS,K
 play,5,0,stink001,22,FFFBBX,9/L9
 play,5,0,desse001,10,BX,S8/8S
 play,5,0,taylr001,00,X,3(B)1(1)/GDP
-com,"Dessens held up so grounder would not hit him,"
-com,"then Wilkinson fielded ball, tagged Dessens and"
-com,"flipped to Vazquez to complete the double play"
 play,5,1,barrm003,22,FBBCC,K/C
 play,5,1,vazqj001,12,CBFC,K/C
 play,5,1,chave002,21,BCBX,S8/8S
@@ -12366,9 +12328,7 @@ play,11,1,cabro001,30,IIII,IW
 play,11,1,wilkb002,10,BX,32(3)/FO.2-3;1-2
 play,11,1,barrm003,00,,NP
 sub,schnb001,"Brian Schneider",1,8,11
-com,"$five-man infield, left fielder Dunn on left side"
 play,11,1,schnb001,10,BX,42(3)/FO.2-H(E2/TH1)(UR);1-2
-com,"$throwing error while trying to complete DP"
 data,er,desse001,3
 data,er,reitc001,0
 data,er,riedj001,0
@@ -12637,14 +12597,11 @@ play,8,0,guilj001,12,SFBS,K
 play,8,0,walkt002,22,BCBCS,K
 play,8,1,eiscj001,12,BSFFFFFX,8/L8
 play,8,1,guerv001,12,BFFS,K
-com,"$out on half-swing appeal; fans throw debris on field"
-com,"and Reds go to dugout, delaying game for 6 minutes"
 play,8,1,chave002,11,BCX,6/P6
 play,9,0,dunna001,11,BFX,31/G
 play,9,0,branr001,22,CSBBS,K
 play,9,0,penaw001,00,,NP
 sub,oleat001,"Troy O'Leary",1,1,9
-com,"$Guerrero leaves to standing ovation"
 play,9,0,penaw001,12,BCSC,K/C
 data,er,haynj001,5
 data,er,fernj002,0

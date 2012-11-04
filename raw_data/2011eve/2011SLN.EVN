@@ -519,7 +519,6 @@ play,3,0,joneg002,01,CX,S4/G+
 play,3,0,ceder002,20,BBX,6(1)3/GDP
 play,3,0,mortc002,01,FX,9/L-
 play,3,1,schus001,10,BX,DGR/7
-com,"$fan interference"
 play,3,1,lohsk001,01,LX,FC1/BG+.2X3(15)
 play,3,1,therr001,02,CLS,K
 play,3,1,rasmc001,10,BX,4(1)/FO/G
@@ -1412,22 +1411,15 @@ start,freed001,"David Freese",1,6,5
 start,moliy001,"Yadier Molina",1,7,2
 start,descd001,"Daniel Descalso",1,8,4
 start,batim001,"Miguel Batista",1,9,1
-com,"$the Cardinals opted to start the game on time even though it was raining with a threat of hail;"
-com,"Cardinals manager Tony LaRussa swapped his pitchers at the last minute by starting a relief pitcher"
-com,"instead of the scheduled starter, who came into the game after the first rain delay"
 play,1,0,stubd001,30,BBBB,W
 play,1,0,philb001,01,C>B,SB2
-com,"2:10 rain delay"
 play,1,0,philb001,00,,NP
 sub,mcclk001,"Kyle McClellan",1,9,1
-com,"$Kyle McClellan was the intended starter for the Cardinals"
 play,1,0,philb001,12,C>B..LFX,43/G.2-3
 play,1,0,vottj001,12,BCST,K
 play,1,0,gomej001,21,*BBCX,8/F
 play,1,1,therr001,00,,NP
 sub,malom001,"Matt Maloney",0,9,1
-com,"$the Reds starting pitcher, Edinson Volquez, warmed up before the delay and was done once the game"
-com,"restarted; he never pitched in the game so he is credited with a game played but no game pitched"
 play,1,1,therr001,22,.CBCBFFX,S7/L
 play,1,1,rasmc001,22,BBC1FX,S8/L.1-3
 play,1,1,pujoa001,31,BBFBX,8/SF/F.3-H
@@ -3073,8 +3065,6 @@ play,6,1,berkl001,00,,NP
 sub,stutm001,"Michael Stutes",0,9,1
 play,6,1,berkl001,30,BBB,NP
 sub,kendk001,"Kyle Kendrick",0,9,1
-com,"$Stutes left after 3 pitches with strain on right side."
-com,"He was charged with the walk that Kendrick completed"
 play,6,1,berkl001,31,.BBB.CB,W
 play,6,1,craia001,22,1CBFFB>X,53/G.1-2
 play,6,1,moliy001,10,BX,163/G.2-3
@@ -3194,7 +3184,6 @@ play,2,1,berkl001,11,CBX,31/G
 play,2,1,craia001,22,BSFBS,K
 play,3,0,quinh001,00,,NP
 sub,hamim001,"Mark Hamilton",1,4,7
-com,"Cardinals left fielder Matt Holliday left the game due to an injured leg"
 play,3,0,quinh001,01,.SX,63/G
 play,3,0,norrb001,12,CCBS,K
 play,3,0,bourm001,22,BCCBX,S8/L
@@ -3229,7 +3218,6 @@ play,5,1,pujoa001,22,CBBSX,63/G
 play,5,1,greet004,10,BH,HP
 play,5,1,berkl001,00,,NP
 sub,kozmp001,"Peter Kozma",1,5,11
-com,"Cardinals right fielder Lance Berkman left the game due to an injured wrist"
 play,5,1,kozmp001,21,.F1B+1B11>C,SB2
 play,5,1,kozmp001,22,.F1B+1B11>C.X,D7/G.2-H
 play,5,1,craia001,32,BFCBBS,K
@@ -4999,7 +4987,6 @@ play,4,1,garcj004,32,BCBBSFFFX,63/G
 play,4,1,kozmp001,31,BFBBX,S7/L
 play,4,1,therr001,00,,NP
 sub,colel001,"Louis Coleman",0,9,1
-com,"$Kansas City Royals pitcher Danny Duffy left the game due to an injured leg."
 play,4,1,therr001,20,.*BBB,PB.1-2
 play,4,1,therr001,31,.*BBB.CX,8/F
 play,5,0,gorda001,21,CBBX,8/F
@@ -5011,9 +4998,6 @@ play,5,1,pujoa001,32,BBCSBX,HR/7/L
 play,5,1,hollm001,00,X,7/L
 play,5,1,moliy001,00,X,5/P5F
 play,6,0,betew001,31,BBCBX,S4/G4M
-com,"$Peter Kozma's hurried throw tailed away from 1B towards the infield grass; batter Wilson Betemit"
-com,"collided with Albert Pujols, jamming Pujols' wrist and shoulder back; Pujols left with a non-displaced"
-com,"fracture of his left radius bone"
 play,6,0,tream001,00,,NP
 sub,berkl001,"Lance Berkman",1,3,3
 play,6,0,tream001,00,.X,13/SH/BG.1-2
@@ -5450,7 +5434,6 @@ play,2,1,jay-j001,21,BBCX,46(1)/FO/G
 play,3,0,ruizc001,31,BBBCX,9/F
 play,3,0,oswar001,00,,NP
 sub,lee-c003,"Cliff Lee",0,9,11
-com,"Phillies pitcher Roy Oswalt left the game due to an injured back"
 play,3,0,lee-c003,02,.FSS,K
 play,3,0,rollj001,00,X,4/P
 play,3,1,hollm001,00,,NP
@@ -5817,8 +5800,6 @@ play,8,0,rivej001,01,CX,63/G
 play,8,1,therr001,00,X,S8/G+
 play,8,1,jay-j001,01,TH,HP.1-2
 play,8,1,hollm001,12,CFBC,K
-com,"ej,hollm001,P,hudsm901,Called third strike"
-com,"Cardinals left fielder Matt Holliday ejected by HP umpire Marvin Hudson"
 play,8,1,berkl001,00,,NP
 sub,rzepm001,"Marc Rzepczynski",0,9,1
 play,8,1,berkl001,00,..X,46(1)3/GDP
@@ -6182,7 +6163,6 @@ play,3,1,jay-j001,22,BFSBS,K
 play,3,1,hollm001,12,CBFX,63/G
 play,3,1,berkl001,22,BCSBX,6/L-
 play,4,0,philb001,22,SBSBFX,DGR/9/L
-com,"fan interference"
 play,4,0,vottj001,11,BFX,3/G.2-3
 play,4,0,roles001,11,BCX,63/G.3-H
 play,4,0,brucj001,01,CX,13/G-
@@ -6701,10 +6681,6 @@ start,lohsk001,"Kyle Lohse",1,8,1
 start,descd001,"Daniel Descalso",1,9,6
 play,1,0,johnk003,00,,NP
 sub,lairg001,"Gerald Laird",1,7,2
-com,"$St. Louis manager Tony LaRussa turned in the wrong lineup"
-com,"card, listing Yadier Molina as the starting catcher.  When"
-com,"the Cardinals took the field in the first, Laird became an"
-com,"unannounced substitute, so Molina was not available for the game."
 play,1,0,johnk003,32,BFBBFX,43/G
 play,1,0,drews001,20,BBX,43/G
 play,1,0,uptoj001,12,CCBS,K
@@ -7343,9 +7319,6 @@ play,1,0,wallb001,22,SBBCS,K
 play,1,1,schus001,00,X,S8/L
 play,1,1,jay-j001,02,CFX,46(1)/FO/G
 play,1,1,pujoa001,00,X,HR/8/L+.1-H
-com,"$Albert Pujols' fly hit on the top of the wall and caromed back onto the field;"
-com,"it was ruled a home run but the Astros argued the call; acting crew chief Jim"
-com,"Reynolds watched the replay and upheld the call"
 play,1,1,berkl001,00,X,7/F
 play,1,1,freed001,21,BBCX,9/L
 play,2,0,johnc003,11,FBX,43/G
@@ -7659,7 +7632,6 @@ play,2,1,garcj004,10,B>C,CS3(25)
 play,2,1,garcj004,22,B>C.BCX,3/G-
 play,3,0,rodrw002,00,,NP
 sub,cruzt002,"Tony Cruz",1,6,2
-com,"Cardinals catcher Gerald Laird left the game due to an injured hand"
 play,3,0,rodrw002,12,.BCSX,63/G
 play,3,0,bourm001,10,BX,S3/BG
 play,3,0,altuj001,12,CBFX,54(1)3/GDP
@@ -7670,7 +7642,6 @@ play,3,1,hollm001,32,FBBBFB,W
 play,3,1,freed001,22,C*BFBX,46(1)3/GDP
 play,4,0,bourj001,00,,NP
 sub,descd001,"Daniel Descalso",1,1,4
-com,"Cardinals second baseman Nick Punto left the game due to an injured side"
 play,4,0,bourj001,21,..BBFX,63/G
 play,4,0,pench001,00,X,D7/G
 play,4,0,lee-c001,11,*BFX,S7/G+.2-H
@@ -7685,7 +7656,6 @@ play,5,0,rodrw002,01,CX,E5/G
 play,5,0,bourm001,31,BB*BCB,W.1-2
 play,5,0,altuj001,02,LLX,54(1)3/GDP.2-3
 play,5,0,bourj001,10,BX,DGR/7.3-H(UR)
-com,"fan interference"
 play,5,0,pench001,02,CFFB,PB.2-3
 play,5,0,pench001,12,CFFB.X,63/G
 play,5,1,garcj004,32,CBCBFBFS,K
@@ -7715,7 +7685,6 @@ play,8,0,pench001,21,BBFX,D9/L+
 play,8,0,lee-c001,12,CFFBS,K
 play,8,0,johnc003,00,,NP
 sub,moliy001,"Yadier Molina",1,6,2
-com,"Cardinals catcher Tony Cruz left the game due to an injured hand"
 play,8,0,johnc003,12,BSF.FFS,K
 play,8,0,barmc001,22,CBFFFFBFX,43/G
 play,8,1,schus001,00,,NP
@@ -7887,7 +7856,6 @@ play,8,1,therr001,10,B>B,SB2.3-H(E2/TH2);1-3
 play,8,1,therr001,22,B>B.CFX,D8/L.3-H
 play,8,1,jay-j001,12,CFF*BS,K
 play,8,1,pujoa001,11,BFX,D7/G+.2-H
-com,"$the 2000th hit of ALbert Pujols' career"
 play,8,1,hollm001,00,,NP
 sub,cruzt002,"Tony Cruz",1,4,11
 play,8,1,cruzt002,01,.CX,4/P
@@ -8002,13 +7970,6 @@ play,5,1,hollm001,31,BBBFB,W.3-H;2-3;1-2
 play,5,1,freed001,00,,NP
 sub,samaj001,"Jeff Samardzija",0,9,1
 play,5,1,freed001,11,.BFX,46(1)/FO/G.3-H;2-H(NR)
-com,"ej,quadm801,M,cousd901,Call at 2B"
-com,"$on the force at 2B, Matt Holliday tried to go through Cubs SS Starlin Castro; Holliday's hand"
-com,"was well off the ground but seemed to be over the bag as he went by; Castro fell and did not"
-com,"make a throw to 1B; Jon Jay scored on the play; when Castro got up slowly and did not look at"
-com,"the runners, Albert Pujols, who had run from 2B to 3B on the play, scored without a throw;"
-com,"Cubs Manager Mike Quade argued with 2B umpire Derryl Cousins, who ejected Quade and then was"
-com,"yelling at the manager until 1B umpire Jim Wolf moved Quade away"
 play,5,1,schus001,31,.BBBCB,W.1-2
 play,5,1,moliy001,10,BX,S8/L.2-H;1-3(THH);B-2(THH)
 play,5,1,descd001,30,IIII,IW
@@ -8155,9 +8116,6 @@ play,5,0,byrdm001,31,BBBCX,5/L
 play,5,0,soria001,01,FX,63/G
 play,5,1,berkl001,02,CFS,K
 play,5,1,freed001,22,BCFBX,D8/F
-com,"$the fly ball by David Freese hit on the top of the CF wall and caromed back onto the field; the"
-com,"ball was ruled in play but the Cardinals thought it might be a homer; crew chief Derryl Cousins"
-com,"watched the replay and upheld the call"
 play,5,1,moliy001,12,BFFX,9/F.2-3
 play,5,1,descd001,31,BTBBB,W
 play,5,1,westj001,31,BF*BBX,4/P
@@ -8361,7 +8319,6 @@ play,9,0,hartc001,00,,NP
 sub,doteo001,"Octavio Dotel",1,7,1
 play,9,0,hartc001,00,,NP
 sub,wilsj003,"Josh Wilson",0,9,12
-com,"Cardinals pitcher Lance Lynn left the game due to an injured side"
 play,9,0,hartc001,12,...FBFX,3/P2F
 play,9,1,lairg001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,9,1
@@ -8511,10 +8468,6 @@ play,9,0,hairj002,11,.CBX,S9/L
 play,9,0,kottg001,00,,NP
 sub,wilsj003,"Josh Wilson",0,8,11
 play,9,0,wilsj003,11,.BLX,E1/TH1/SH/BG.1-2;B-1
-com,"ej,larut101,M,gibsg901,Call at 1B"
-com,"$Marc Rzepczynski's throw pulled Albert Pujols off the bag; he tried twice to get his foot back on the bag"
-com,"before batter Josh Wilson touched it but 1B umpire Greg Gibson ruled that Pujols was still off the bag;"
-com,"Pujols objected and Cardinals Manager Tony La Russa argued the call until he was ejected by Gibson"
 play,9,0,wolfr001,00,,NP
 sub,lucrj001,"Jonathan Lucroy",0,9,11
 play,9,0,lucrj001,00,,NP
@@ -9069,7 +9022,6 @@ play,6,0,heltt001,10,BX,S7/L
 play,6,0,smits002,22,C*BBSX,S9/G.1-2
 play,6,0,wiggt001,30,BBB,NP
 sub,mottj001,"Jason Motte",1,9,1
-com,"$Motte entered with 3-0 count due to injury to Edwin Jackson, who suffered a hamstring cramp"
 play,6,0,wiggt001,32,BBB.CSFX,9/F
 play,6,0,iannc001,12,FBFX,13/G
 play,6,1,mottj001,00,,NP
@@ -9240,9 +9192,6 @@ play,8,0,kempm001,00,,NP
 sub,oeltt001,"Trent Oeltjen",0,2,12
 play,8,0,kempm001,00,,NP
 sub,pattc001,"Corey Patterson",1,4,7
-com,"$Cardinals LF Matt Holliday left the game when a moth flew into his right ear;"
-com,"the trainers took Holliday into a dark room hoping the moth would seek light"
-com,"and fly out; when that tactic didn't work, tweezers were used to extract the bug"
 play,8,0,kempm001,11,CB..X,7/F
 play,8,1,carpc002,00,,NP
 sub,guerm001,"Matt Guerrier",0,2,1
@@ -10833,7 +10782,6 @@ play,4,0,wolfr001,12,CBFS,K
 play,4,0,hartc001,22,BFBFS,K23
 play,4,1,therr001,00,,NP
 sub,counc001,"Craig Counsell",0,6,4
-com,"Brewers Jerry Hairston left the game due to an injured neck"
 play,4,1,therr001,22,.BCBFFT,K
 play,4,1,pujoa001,22,BFBFX,9!/F
 play,4,1,hollm001,10,BX,9/F
@@ -11133,8 +11081,6 @@ play,4,0,morgn001,01,CX,D9/G+
 play,4,0,braur002,22,*BBFFX,8/F
 play,4,0,fielp001,30,IIII,IW
 play,4,0,mcgec001,12,CCBC,K
-com,"ej,mcgec001,P,reybd901,Called third strike"
-com,"Brewers third baseman Casey McGehee ejected by HP umpire D. J. Reyburn"
 play,4,1,berkl001,00,,NP
 sub,counc001,"Craig Counsell",0,5,4
 play,4,1,berkl001,00,,NP
@@ -11181,13 +11127,6 @@ sub,therr001,"Ryan Theriot",1,5,4
 play,9,0,morgn001,00,,NP
 sub,schus001,"Skip Schumaker",1,6,9
 play,9,0,morgn001,22,..FCFFFBFBFS,K
-com,"ej,morgn001,P,cousd901,Yelling at Chris Carpenter after at bat"
-com,"$Brewers right fielder Nyjer Morgan yelled at Cardinals pitcher Chris Carpenter after"
-com,"striking out; as Morgan walked away, he continued to say things and then threw whatever"
-com,"he was chewing towards the field and Carpenter; Cardinals 1B Albert Pujols ran over,"
-com,"yelling at Morgan, who responded; both benches cleared; HP umpire D.J. Reyburn ran"
-com,"to hold Morgan off the field but Brewers Prince Fielder took Morgan away; the umpires"
-com,"huddled and Morgan was ejected by 3B umpire and crew chief Derryl Cousins"
 play,9,0,braur002,01,SX,13/G
 play,9,0,fielp001,10,BX,7/F
 data,er,greiz001,2
@@ -11923,7 +11862,6 @@ play,1,0,wrigd002,02,SCT,K
 play,1,1,furcr001,11,CBX,63/G
 play,1,1,craia001,10,BX,43/G
 play,1,1,pujoa001,12,FFBX,D8/F
-com,"$Mets RF Lucas Duda ran into the wall attempting to catch the ball"
 play,1,1,berkl001,30,*B*BBI,IW
 play,1,1,freed001,11,CBB,WP.2-3;1-2
 play,1,1,freed001,22,CBB.FFFX,T9/F.3-H;2-H
@@ -11946,7 +11884,6 @@ play,3,0,pagaa001,22,CF*B*BX,E6/G.3-H(UR);2-H(UR)
 play,3,0,wrigd002,00,X,S6/G.1-2
 play,3,0,dudal001,00,,NP
 sub,satij001,"Josh Satin",0,4,11
-com,"$Mets right fielder Lucas Duda left the game due to dizziness"
 play,3,0,satij001,32,.BFSBB>X,D7/L.2-H(UR);1-H(UR)
 play,3,0,evann001,22,*BCBCC,K
 play,3,1,freed001,00,,NP
@@ -12102,9 +12039,6 @@ play,4,0,tejar001,11,BCX,63/G
 play,4,0,pagaa001,32,BBFBFB,W
 play,4,0,wrigd002,12,C1CFB1>B,SB2
 play,4,0,wrigd002,32,C1CFB1>B.*BC,K
-com,"$Willie Harris hit the second pitch down the RF line; the ball passed just to the right of the pole"
-com,"and was called foul; the Mets objected to the call; crew chief Tim Welke watched the review and"
-com,"upheld the call"
 play,4,0,harrw001,12,CF*BFC,K
 play,4,1,moliy001,22,BCBCFX,63/G
 play,4,1,therr001,21,BBFX,D7/G

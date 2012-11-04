@@ -667,7 +667,6 @@ play,3,0,biggc001,00,X,7/F
 play,3,0,tavew001,32,BCLBBX,T9/G
 play,3,0,berkl001,12,FBCFX,63/G
 play,3,1,easld001,32,BCBSFBX,T8/F
-com,"originally scored 3-base error, changed 2 days later"
 play,3,1,snydc002,22,BCCBS,K
 play,3,1,vargc001,02,CFS,K
 play,3,1,byrne001,32,CBBFBFX,7/F
@@ -1186,7 +1185,6 @@ play,3,0,vizcj001,32,BBCFBFB,W
 play,3,0,morrm001,12,BMCL,K/BF
 play,3,0,winnr001,00,,NP
 sub,cruzj005,"Juan Cruz",1,9,1
-com,"Diamondbacks pitcher Russ Ortiz left the game due to an injured leg"
 play,3,0,winnr001,32,CSB.BF1FFB>B,W.1-2
 play,3,0,vizqo001,00,X,8/F
 play,3,0,finls001,02,CCX,6/P
@@ -2912,7 +2910,6 @@ play,2,1,hudso001,32,FFBBBFFX,8/F
 play,3,0,blumg001,30,BBBB,W
 play,3,0,barfj003,00,,NP
 sub,grimj001,"Jason Grimsley",1,9,1
-com,"Diamondbacks pitcher Orlando Hernandez left the game due to an injured back"
 play,3,0,barfj003,11,.B1SX,S7/G.1-2
 play,3,0,peavj001,01,LX,14/SH/BG.2-3;1-2
 play,3,0,robed001,01,SX,E1/TH/G.B-1
@@ -3422,7 +3419,6 @@ play,4,1,byrne001,21,BBFX,E5/G
 play,4,1,tracc001,00,X,D9/L.1-H(UR);B-3(E2)
 play,4,1,gonzl001,00,,NP
 sub,pratt001,"Todd Pratt",0,5,2
-com,"Braves catcher Brian McCann left the game due to an injured foot/ankle"
 play,4,1,gonzl001,32,.BF*BBFX,7/SF.3-H(UR)
 play,4,1,jackc002,21,BBCX,63/G
 play,4,1,grees001,10,BX,3/G
@@ -4202,8 +4198,6 @@ play,7,0,rollj001,12,BFFX,D9/L
 play,7,0,utlec001,22,FCFFB*BX,S4/G.2-H
 play,7,0,abreb001,31,1BBBCB,W.1-2
 play,7,0,burrp001,12,CCBC,K
-com,"ej,burrp001,P,diazl901,Balls and strikes"
-com,"Phillies left fielder Pat Burrell ejected by HP umpire Laz Diaz"
 play,7,1,counc001,00,,NP
 sub,fulta001,"Aaron Fultz",0,4,1
 play,7,1,counc001,00,,NP
@@ -4219,7 +4213,6 @@ play,8,0,belld002,22,CB11BCC,K
 play,8,0,liebm001,11,CBX,D8/F.1-H
 play,8,0,victs001,00,,NP
 sub,nunea001,"Abraham Nunez",0,8,12
-com,"Phillies catcher Mike Lieberthal left the game due to an injured leg"
 play,8,0,victs001,32,.BFBFBX,5/P
 play,8,1,gonzl001,00,,NP
 sub,rhoda001,"Arthur Rhodes",0,4,1
@@ -5687,7 +5680,6 @@ play,4,1,clart002,22,.SBBSS,K
 play,5,0,guerv001,00,,NP
 sub,aquig001,"Greg Aquino",1,9,1
 play,5,0,guerv001,01,.CX,DGR/7/F
-com,"fan interference"
 play,5,0,andeg001,01,CX,7/F
 play,5,0,napom001,30,BBBB,W
 play,5,0,morak001,12,FFBS,K
@@ -5847,7 +5839,6 @@ play,5,0,figgc001,22,FFBBX,4/L-
 play,5,0,cabro001,01,SX,7/L
 play,5,1,counc001,22,CBFBX,HR/9/F
 play,5,1,davaj001,10,BX,E4/G
-com,"originally single, changed to E4 on July 13"
 play,5,1,gonzl001,32,BBBCC>FFX,7/F
 play,5,1,jackc002,32,CCBFBB>X,8/F
 play,5,1,tracc001,32,BBC+1BS>F>F>C,K
@@ -5911,9 +5902,6 @@ play,9,1,gonzl001,30,BBBI,IW
 play,9,1,lyonb003,00,,NP
 sub,grees001,"Shawn Green",1,4,11
 play,9,1,grees001,12,.CF*BS,K
-com,"ej,melvb001,M,everm901,Balls and strikes"
-com,"ej,grees001,P,everm901,Balls and strikes"
-com,"Diamondbacks Shawn Green & Mgr Bob Melvin ejected by HP umpire Mike Everitt"
 play,10,0,guerv001,00,,NP
 sub,julij001,"Jorge Julio",1,4,1
 play,10,0,guerv001,00,,NP
@@ -6582,9 +6570,6 @@ sub,julij001,"Jorge Julio",1,4,1
 play,9,0,ibanr001,00,,NP
 sub,clart002,"Tony Clark",1,9,3
 play,9,0,ibanr001,31,..FBBBX,HR/8/F
-com,"ej,melvb001,M,kulpr901,Home run call"
-com,"Diamondbacks Manager Bob Melvin ejected by 2B umpire Ron Kulpa"
-com,"for disputing the home run, which hit just above the yellow line"
 play,9,0,sexsr001,10,.BX,3/P3F
 play,9,0,johjk001,12,BFFX,T9/L
 play,9,0,reedj004,00,,NP
@@ -7123,15 +7108,6 @@ play,1,0,kentj001,22,SB.BSS,K
 play,1,1,davaj001,12,CCBX,6/P
 play,1,1,byrne001,22,FBFFBX,8/F
 play,1,1,gonzl001,30,BBBB,W
-com,"ej,duncm001,C,herna901,Check swing"
-com,"$Dodgers First Base Coach Mariano Duncan ejected by"
-com,"3B umpire Angel Hernandez for complaining about check"
-com,"swing calls; Manager Grady Little came out to argue, then"
-com,"Duncan realized he was ejected and stormed across the"
-com,"field; crew chief Randy Marsh intercepted Duncan who"
-com,"threw his hat at Hernandez (about 25 feet); Hernandez"
-com,"caught the hat, jogged to stands and threw hat to a fan;"
-com,"Total delay over 5 minutes"
 play,1,1,tracc001,32,C11BF.BB>F>S,K
 play,2,0,saeno001,22,BSBSFX,63/G
 play,2,0,ethia001,12,CBFS,K
@@ -7442,7 +7418,6 @@ play,4,1,estrj001,32,BSBBCFX,S8/G.2-H
 play,4,1,grees001,32,BBBCF>X,HR/8/F.1-H
 play,4,1,hudso001,22,BSBFFX,53/G
 play,4,1,drews001,00,X,DGR/9/L
-com,"fan interference"
 play,4,1,batim001,11,SBX,43/G
 play,5,0,ethia001,11,BFX,S8/L-
 play,5,0,aybaw001,10,BX,7/F
@@ -7756,8 +7731,6 @@ play,7,0,barmc001,00,X,5/P5F
 play,7,0,heltt001,00,,NP
 sub,choar001,"Randy Choate",1,9,1
 play,7,0,heltt001,32,.BCBFB>F>S,K
-com,"ej,heltt001,P,hoyej901,Balls and strikes"
-com,"Rockies first baseman Todd Helton ejected by HP umpire James Hoye"
 play,7,1,estrj001,00,,NP
 sub,ramir003,"Ramon Ramirez",0,3,1
 play,7,1,estrj001,00,,NP
@@ -8362,7 +8335,6 @@ play,1,1,davaj001,10,BX,S7/L-
 play,1,1,jackc002,22,11CB111BC>B,SB2
 play,1,1,jackc002,00,,NP
 sub,byrne001,"Eric Byrnes",1,1,12
-com,"Diamondbacks Jeff DaVanon left the game due to an injured foot/ankle"
 play,1,1,jackc002,32,11CB111BC>B..S,K
 play,1,1,gonzl001,01,CX,9/F.2-3
 play,1,1,tracc001,22,CBBTFX,7/F
@@ -8716,7 +8688,6 @@ play,6,0,vizqo001,00,,NP
 sub,tracc001,"Chad Tracy",1,4,3
 play,6,0,vizqo001,00,,NP
 sub,calla001,"Alberto Callaspo",1,9,5
-com,"Diamondbacks first baseman Conor Jackson left the game due to an injured arm"
 play,6,0,vizqo001,12,...LCFFBX,S6/G
 play,6,0,aloum001,00,X,HR/78/F.1-H
 play,6,0,bondb001,01,CX,7/F
@@ -9001,7 +8972,6 @@ play,3,1,estrj001,21,BBCX,6/L
 play,4,0,felip001,00,X,S8/L
 play,4,0,hills002,12,CCBX,S7/L.1-2
 play,4,0,alfoe002,22,FS*BBX,46(1)3/DP/INT.2-2
-com,"Hillenbrand called for interference at 2B, DP, not GDP"
 play,4,0,morrm001,02,CCC,K
 play,4,1,grees001,00,X,9/F
 play,4,1,quenc001,11,BCX,53/G
@@ -9038,7 +9008,6 @@ play,7,1,penat003,00,,NP
 sub,calla001,"Alberto Callaspo",1,9,11
 play,7,1,calla001,10,.BX,7/F
 play,7,1,byrne001,10,BX,DGR/8/F
-com,"fan interference"
 play,7,1,hudso001,00,2>B,SB3
 play,7,1,hudso001,31,2>B.BBCX,D7/F.3-H
 play,7,1,gonzl001,00,,NP
@@ -9854,7 +9823,6 @@ play,4,1,tracc001,01,F>C,CS3(25)
 play,4,1,tracc001,32,F>C.BBBFFX,S5/G
 play,4,1,estrj001,00,,NP
 sub,beimj001,"Joe Beimel",0,9,1
-com,"Dodgers pitcher Derek Lowe left the game due to an injured hand/wrist"
 play,4,1,estrj001,11,.FB1X,S9/G.1-2
 play,4,1,clart002,02,FSX,S8/G.2-H;1-3
 play,4,1,counc001,32,FBBF*B>C,K
@@ -10588,7 +10556,6 @@ play,4,1,batim001,11,BFX,32(3)/FO/G.2-3;1-2
 play,4,1,younc004,32,BSSBFFB>X,5(2)/FO/G.1-2
 play,5,0,moliy001,00,,NP
 sub,montm001,"Miguel Montero",1,5,2
-com,"Diamondbacks catcher Johnny Estrada left the game due to an injured arm"
 play,5,0,moliy001,01,.CX,S8/G
 play,5,0,weavj002,00,X,14/SH/BG.1-2
 play,5,0,milea001,00,X,S4/G.2-3
@@ -11056,8 +11023,6 @@ play,5,1,byrne001,01,CX,8/F
 play,5,1,hudso001,11,BCX,13/G
 play,6,0,spies001,00,,NP
 sub,penat003,"Tony Pena",1,9,1
-com,"ej,larut101,M,culbf901,Balls and strikes"
-com,"Cardinals Manager Tony La Russa ejected by HP umpire Fieldin Culbreth"
 play,6,0,spies001,00,..X,HR/89/F
 play,6,0,encaj001,10,BX,E6/G
 play,6,0,vizcj001,11,SB1X,D9/F.1-3
@@ -11726,7 +11691,6 @@ play,7,0,hawpb001,00,,NP
 sub,tracc001,"Chad Tracy",1,4,5
 play,7,0,hawpb001,00,,NP
 sub,jackc002,"Conor Jackson",1,6,3
-com,"Diamondbacks shortstop Stephen Drew left the game due to an injured groin"
 play,7,0,hawpb001,22,...FBBCX,3/G
 play,7,0,spilr001,32,BCFBBX,53/G
 play,7,0,barmc001,00,X,53/G
@@ -11821,8 +11785,6 @@ play,2,0,matsk001,01,CX,9/SF.3-H(UR);2-3
 play,2,0,salaj002,11,CBX,43/G
 play,2,1,jackc002,12,CCBC,K
 play,2,1,quenc001,22,FBFBFT,K
-com,"ej,melvb001,M,emmep901,Foul tip call"
-com,"Diamondbacks Manager Bob Melvin ejected by HP umpire Paul Emmel"
 play,2,1,calla001,11,.BFX,9/F
 play,3,0,atkig001,11,CBX,13/G
 play,3,0,hollm001,00,X,63/G
@@ -12859,12 +12821,6 @@ sub,calla001,"Alberto Callaspo",1,9,11
 play,9,1,calla001,00,,NP
 sub,younc004,"Chris Young",1,8,12
 play,9,1,calla001,22,..BBCSFX,436(1)/FO/G34D
-com,"$Ball deep in hole, throw to first wide, Gonzalez came"
-com,"off bag to get it, threw to second and Young appeared to"
-com,"beat throw as Greene did not tag him. Padres protested"
-com,"that play at second was force out, so Poncino reversed"
-com,"call and ruled Young out. Replay shows that Greene was"
-com,"off base when he caught the ball."
 data,er,willw001,4
 data,er,embra001,0
 data,er,lines001,0

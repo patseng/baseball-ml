@@ -402,7 +402,6 @@ play,2,1,zambv001,22,BCBCT,K
 play,3,0,bagwj001,00,X,S7/L
 play,3,0,lambm001,30,1BBBB,W.1-2
 play,3,0,lanej001,00,X,4/P
-com,"infield fly"
 play,3,0,scotl001,12,CFBX,S9/L.2-3;1-2
 play,3,0,ausmb001,21,BFBX,52(3)/FO/G.2-3;1-2;B-1
 play,3,0,tavew001,10,BX,53/G
@@ -820,10 +819,6 @@ play,1,0,lowem001,11,CBX,5!/LDP.2X2(54)
 play,1,1,reyej001,01,CX,63/G
 play,1,1,matsk001,00,X,6/P5F
 play,1,1,beltc001,02,CCX,43/G
-com,"ej,alfoa001,P,relic901,Fair/foul call overturned (not in game)"
-com,"Marlins pitcher Antonio Alfonseca ejected by 3B umpire Charlie Reliford;"
-com,"Alfonseca, not in the game, was standing outside the bullpen after a fair"
-com,"ball call was reversed to foul on Paul LoDuca"
 play,2,0,lodup001,32,BCBCBF.B,W
 play,2,0,gonza002,22,CFBBX,3/P3F
 play,2,0,burna001,10,BX,13/SH/BG.1-2
@@ -2881,7 +2876,6 @@ play,9,1,floyc001,00,,NP
 sub,pujoa001,"Albert Pujols",0,6,3
 play,9,1,floyc001,00,,NP
 sub,isrij001,"Jason Isringhausen",0,9,1
-com,"Cardinals Jim Edmonds left the game due to an injured foot/ankle"
 play,9,1,floyc001,00,....X,9/F
 play,9,1,piazm001,11,CBX,1/L
 play,9,1,miend001,32,BFBCBS,K
@@ -3244,8 +3238,6 @@ play,5,0,jimed001,20,BBX,D7/F
 play,5,0,laruj001,01,CH,HP
 play,5,0,milte001,00,X,S7/G.2-3;1-2
 play,5,0,freer001,22,BCFBX,12(3)3/GDP.2-3;1-2
-com,"ej,miled801,M,buckc901,Call at 1B"
-com,"Reds Manager Dave Miley ejected by 1B umpire CB Bucknor"
 play,5,0,lopef001,31,.BBBCB,W
 play,5,0,cases001,11,CBX,S7/L.3-H;2-3;1-2
 play,5,0,grifk002,32,FBBBC>X,3/G
@@ -3601,16 +3593,12 @@ play,6,0,jeted001,00,,NP
 sub,woodc001,"Chris Woodward",1,7,9
 play,6,0,jeted001,00,,NP
 sub,miend001,"Doug Mientkiewicz",1,8,3
-com,"Mets CF Carlos Beltran left the game due to an injured leg"
-com,"Mets 2B Kazuo Matsui left the game due to an injured neck/shoulder"
 play,6,0,jeted001,32,.....SFBBBH,HP
-com,"$hit on left elbow"
 play,6,0,womat001,12,1BCLFFX,64(1)/FO/G
 play,6,0,willb002,32,1BBBCS>B,W.1-2
 play,6,0,matsh001,01,FX,4/LDP.2X2(46)
 play,6,1,wrigd002,00,,NP
 sub,sancr001,"Rey Sanchez",0,1,6
-com,"Yankees shortstop Derek Jeter left the game due to an injured elbow"
 play,6,1,wrigd002,12,.CFFBS,K
 play,6,1,woodc001,01,SX,53/G
 play,6,1,miend001,22,CBSFBX,3/G
@@ -4083,7 +4071,6 @@ play,7,1,zambv001,12,CCBS,K
 play,7,1,reyej001,01,CX,S8/L-
 play,7,1,cairm001,00,,NP
 sub,matsk001,"Kaz Matsui",1,2,11
-com,"Mets second baseman Miguel Cairo left the game due to an injured leg"
 play,7,1,matsk001,00,.1>C,SB2
 play,7,1,matsk001,01,.1>C.X,43/G.2-3
 play,7,1,beltc001,00,X,9/F
@@ -4895,7 +4882,6 @@ play,1,1,beltc001,00,X,S9/G.1-2
 play,1,1,floyc001,02,CCS,K
 play,1,1,piazm001,00,,NP
 sub,castr002,"Ramon Castro",1,5,11
-com,"Mets catcher Mike Piazza left the game due to an injured hand/wrist"
 play,1,1,castr002,22,.SFBFBX,D7/L.2-H;1-3
 play,1,1,andem003,01,CX,8!/F
 play,2,0,berkl001,00,,NP
@@ -5554,8 +5540,6 @@ play,1,1,beltc001,31,B.*BSBB,W
 play,1,1,floyc001,21,SBBX,S8/G.3-H;1-2
 play,1,1,piazm001,00,*B,WP.2-3;1-2
 play,1,1,piazm001,32,*B.F*BSBFC,K
-com,"ej,piazm001,P,coope901,Called third strike"
-com,"Mets catcher Mike Piazza ejected by HP umpire Eric Cooper"
 play,1,1,wrigd002,12,C*BS.S,K
 play,2,0,mcphd001,00,,NP
 sub,castr002,"Ramon Castro",1,5,2
@@ -5738,7 +5722,6 @@ play,4,0,burrp001,11,CBX,13/G-.1-2
 play,4,0,utlec001,21,BCBX,S9/G.2-3
 play,4,0,belld002,11,BS1X,S9/L.3-H;1-2
 play,4,0,liebm001,21,BCBX,3/P
-com,"infield fly"
 play,4,0,tejer001,22,BBCCS,K
 play,4,1,daubb001,30,BBBB,W
 play,4,1,zambv001,00,1X,1/SH/BG.1-2
@@ -6017,9 +6000,6 @@ play,2,0,peret003,02,SFS,K
 play,2,0,pratt001,21,BCB>X,63/G.1-2
 play,2,0,liebj001,11,CBX,63/G
 play,2,1,floyc001,22,CBBFFFFFX,S7/F-
-com,"ej,pratt001,P,marqa901,Balls and strikes (while catching)"
-com,"ej,manuc101,M,marqa901,Balls and strikes"
-com,"Todd Pratt and Mgr Charlie Manuel ejected by HP umpire Alfonso Marquez"
 play,2,1,piazm001,00,,NP
 sub,liebm001,"Mike Lieberthal",0,8,2
 play,2,1,piazm001,22,.CFBF1B..1X,8!/F
@@ -6178,7 +6158,6 @@ play,2,0,lowem001,12,FBCFX,8/F-
 play,2,0,lodup001,11,CBX,S8/L-
 play,2,0,encaj001,21,BBCX,S8/L.1-2
 play,2,0,gonza002,11,CBX,6/P
-com,"infield fly"
 play,2,0,burna001,01,CX,53/G
 play,2,1,wrigd002,22,CFBFFBS,K
 play,2,1,andem003,12,BCCX,8/F
@@ -6910,7 +6889,6 @@ play,4,1,beltc001,21,CBBX,8/F
 play,4,1,floyc001,12,CSBC,K
 play,4,1,wrigd002,21,BBCX,63/G
 play,5,0,hudst001,00,X,DGR/9
-com,"fan interference"
 play,5,0,furcr001,00,X,1/BP
 play,5,0,johnk003,32,FBBBCX,E7/F
 play,5,0,gilem001,31,FBBBB,W.2-3;1-2
@@ -7265,7 +7243,6 @@ play,9,1,piazm001,30,IIII,IW
 play,9,1,hernr001,00,,NP
 sub,offej001,"Jose Offerman",1,7,11
 play,9,1,offej001,11,.BFX,6/P
-com,"infield fly"
 play,9,1,cairm001,02,CFS,K
 play,10,0,sweem001,00,,NP
 sub,loopb001,"Braden Looper",1,7,1
@@ -7414,7 +7391,6 @@ play,7,0,greek002,22,BFBSX,53/G
 play,7,1,camem001,00,,NP
 sub,hensc002,"Clay Hensley",0,9,1
 play,7,1,camem001,12,.CSBX,63/G
-com,"Debut game for Clay Hensley"
 play,7,1,beltc001,31,BBBCX,3/G
 play,7,1,floyc001,22,SFBFBS,K
 play,8,0,lorem001,21,BBCX,S8/F
@@ -7659,7 +7635,6 @@ play,1,0,roblo001,21,BBLX,63/G
 play,1,0,iztuc001,11,CBX,S8/G
 play,1,0,kentj001,12,11BFSX,8/F
 play,1,0,leder001,11,1BCX,DGR/9/L.1-3
-com,"fan interference"
 play,1,0,philj003,10,BX,8/F
 play,1,1,reyej001,10,BX,7/F
 play,1,1,camem001,32,BCBSBC,K
@@ -7992,7 +7967,6 @@ play,4,0,roblo001,32,BCBBCX,153/G
 play,4,0,iztuc001,00,X,S5/BG
 play,4,0,bradm001,31,>F11BBB>B,W.1-2
 play,4,0,kentj001,20,*B*BX,6/P
-com,"infield fly"
 play,4,0,wertj001,22,BCFBFFFFX,S1/G-.2-3;1-2
 play,4,0,choih001,21,CBBX,9/F
 play,4,1,cairm001,00,X,63/G
@@ -8390,8 +8364,6 @@ play,9,0,hardj003,00,,NP
 sub,durrt001,"Trent Durrington",0,7,12
 play,9,0,hardj003,12,.1L1B>F1X,23/SH/BG.1-2
 play,9,0,helmw001,01,S>B,CS3(25)
-com,"ej,durrt001,P,nauep901,Call at 3B"
-com,"Brewers Trent Durrington ejected by 3B umpire Paul Nauert"
 play,9,0,helmw001,12,S>B..CX,S5/G
 play,9,0,clarb003,00,X,S9/L.1-3
 play,9,0,weekr001,32,BBBCF>F>B,W.1-2
@@ -8977,7 +8949,6 @@ play,4,0,lee-d002,22,CFBBFX,63/G
 play,4,0,ramia001,01,CX,2/P2F
 play,4,1,zambv001,00,,NP
 sub,wuerm001,"Michael Wuertz",0,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured back"
 play,4,1,zambv001,01,.CX,8/F
 play,4,1,reyej001,11,BSX,S8/L-
 play,4,1,cairm001,02,C1SX,36(1)1/GDP
@@ -9137,8 +9108,6 @@ play,6,1,diazv001,12,FBSS,K
 play,7,0,wilsj002,32,CFBBBB,W
 play,7,0,redmm002,11,LBX,24/SH/BG.1-2
 play,7,0,duffc001,22,BFTBFS,K
-com,"$Piazza hit by the foul tip, broke pisiform bone in left wrist,"
-com,"left game next inning."
 play,7,0,sancf001,22,B*BCFS,K
 play,7,1,woodc001,00,X,S8/L
 play,7,1,willg001,10,1BX,13/SH/BG.1-2
@@ -9876,8 +9845,6 @@ play,5,1,diazv001,00,X,S7/G.1-2
 play,5,1,padij001,00,,NP
 sub,jacom001,"Mike Jacobs",1,9,11
 play,5,1,jacom001,01,.CX,HR/9/F.2-H;1-H
-com,"Debut game for Mike Jacobs"
-com,"$Homer by Jacobs in first ML at bat"
 play,5,1,reyej001,00,X,43/G
 play,5,1,cairm001,10,BX,9/F
 play,6,0,johnn001,00,,NP
@@ -10024,8 +9991,6 @@ play,4,1,diazv001,22,SCBFBX,T8/L
 play,4,1,castr002,32,BBSSFBX,6/P
 play,5,0,loftk001,10,BX,D9/F
 play,5,0,utlec001,01,CX,S8/L.2XH(82)
-com,"ej,manuc101,M,culbf901,Call at HP"
-com,"Phillies Manager Charlie Manuel ejected by HP umpire Fieldin Culbreth"
 play,5,0,abreb001,22,.1B1CF1B1X,7/F
 play,5,0,burrp001,11,S1BX,S7/L.1-2
 play,5,0,howar001,12,BFCC,K
@@ -10336,8 +10301,6 @@ play,6,1,beltc001,10,BX,8/F
 play,6,1,floyc001,00,X,7/F
 play,7,0,belld002,22,CBFBX,9/F
 play,7,0,howar001,32,BSBFBX,9/L
-com,"ej,thomm001,C,younl901,Catch/no catch"
-com,"Phillies Batting Coach Milt Thompson ejected by HP umpire Larry Young"
 play,7,0,pratt001,31,BBBCB,W
 play,7,0,liebj001,32,CBCBB>S,K
 play,7,1,wrigd002,22,SFBBFFFFFX,53/G
@@ -10483,10 +10446,6 @@ play,6,0,castv001,21,SBBX,53/G
 play,6,0,cruzd001,00,X,9/F
 play,6,1,wrigd002,11,BFH,HP
 play,6,1,andem003,01,CX,43/G.1-2
-com,"ej,robif103,M,nelsj901,Balls and strikes"
-com,"$Washington manager Frank Robinson ejected by HP"
-com,"umpire Jeff Nelson for claiming that ball 1 to Diaz"
-com,"was actually a swing"
 play,6,1,diazv001,12,B.SFFS,K
 play,6,1,jacom001,00,,NP
 sub,eiscj001,"Joey Eischen",0,9,1
@@ -10510,9 +10469,6 @@ sub,offej001,"Jose Offerman",1,9,11
 play,7,1,offej001,32,..BSFFBBB,W
 play,7,1,reyej001,02,LMFS,K
 play,7,1,matsk001,00,X,84(1)/FO/G
-com,"$Offerman thought ball had been caught by pitcher"
-com,"and he went back to 1st. But it was a grounder into"
-com,"center, so he was out at second on an easy force"
 play,7,1,beltc001,12,C1C1BFX,7/F
 play,8,0,guilj001,00,,NP
 sub,hernr001,"Roberto Hernandez",1,9,1
@@ -10639,9 +10595,6 @@ play,4,1,floyc001,32,BFSBF2FBX,43/G.2-3
 play,4,1,wrigd002,10,BX,3/G.3-H
 play,4,1,piazm001,20,BBX,43/G
 play,5,0,guilj001,12,BCCC,K
-com,"ej,guilj001,P,millb901,Called third strike"
-com,"Nationals right fielder Jose Guillen ejected by HP umpire Bill Miller from"
-com,"the dugout; Guillen then threw various pieces of equipment onto the field"
 play,5,0,johnn001,11,CBX,9/L
 play,5,0,wilsp002,10,BX,HR/7/L
 play,5,0,castv001,00,X,HR/8/F
@@ -10800,7 +10753,6 @@ play,5,1,jacom001,01,.CX,S7/G
 play,5,1,reyej001,11,CBX,S9/G.1-2
 play,5,1,matsk001,11,FBX,S9/L.2-3;1-2
 play,5,1,beltc001,00,X,5/P
-com,"infield fly"
 play,5,1,floyc001,32,BBBCC>X,HR/9/F.3-H;2-H;1-H
 play,5,1,wrigd002,00,X,9!/F
 play,6,0,benng001,00,,NP
@@ -10852,7 +10804,6 @@ sub,loopb001,"Braden Looper",1,9,1
 play,9,0,benng001,00,,NP
 sub,zimmr001,"Ryan Zimmerman",0,7,11
 play,9,0,zimmr001,22,..BFBFX,D9/L
-com,"originally scored as S9 and E9, changed after game"
 play,9,0,guzmc001,00,,NP
 sub,kellk001,"Kenny Kelly",0,7,12
 play,9,0,guzmc001,00,.X,63/G.2-3
@@ -11246,7 +11197,6 @@ play,2,1,wrigd002,31,FB*B1BX,S7/L.1-3
 play,2,1,piazm001,10,BX,9!/F
 play,2,1,jacom001,12,S1TFBS,K
 play,2,1,herna003,02,CFS,K
-com,"Debut game for Anderson Hernandez"
 play,3,0,jordb001,21,BCBX,S6/G-
 play,3,0,estrj001,02,1F1FX,16(1)3/GDP
 play,3,0,thomj005,12,FBCS,K
@@ -11548,7 +11498,6 @@ play,1,1,reyej001,00,,NP
 sub,dillj001,"Joe Dillon",0,3,4
 play,1,1,reyej001,00,,NP
 sub,lowem001,"Mike Lowell",0,7,5
-com,"Miguel Cabrera left the game due to an injured knee"
 play,1,1,reyej001,00,..X,S8/F
 play,1,1,cairm001,12,B1>F.S111>B,SB2
 play,1,1,cairm001,22,B1>F.S111>B.FFS,K

@@ -56,7 +56,6 @@ play,1,1,grudm001,31,BCBBX,S7/L
 play,1,1,teahm001,02,CFFX,S8/G.1-2
 play,1,1,sweem002,10,BX,S9/L.2-3;1-2
 play,1,1,gorda001,12,CFFBFFS,K
-com,"Debut game for Alex Gordon"
 play,1,1,shear001,32,CBSF*BB>F>B,W.3-H;2-3;1-2
 play,1,1,gloar001,01,TX,8/F
 play,2,0,varij001,11,CBX,4/P
@@ -98,7 +97,6 @@ play,6,0,ramim002,20,BBX,64(1)3/GDP
 play,6,1,buckj001,00,,NP
 sub,okajh001,"Hideki Okajima",0,0,1
 play,6,1,buckj001,00,.X,HR/8/F
-com,"Debut game for Hideki Okajima"
 play,6,1,penat002,22,CBCFBS,K
 play,6,1,dejed001,11,BCX,8/F
 play,6,1,grudm001,22,BBFSFFX,53/G
@@ -236,7 +234,6 @@ play,6,0,drewj001,00,X,S9/G.1-2
 play,6,0,lowem001,00,,NP
 sub,sorij001,"Joakim Soria",1,0,1
 play,6,0,lowem001,32,.CBFBBB,W.2-3;1-2
-com,"Debut game for Joakim Soria"
 play,6,0,varij001,12,FSBFFFX,9/SF/F.3-H;2-3
 play,6,0,crisc001,32,BC*BBC>X,2/P2F
 play,6,1,gorda001,00,,NP
@@ -348,7 +345,6 @@ start,buckj001,"John Buck",1,8,2
 start,penat002,"Tony Pena",1,9,6
 start,greiz001,"Zack Greinke",1,0,1
 play,1,0,lugoj001,21,CBBX,7/F
-com,"Debut game for Daisuke Matsuzaka"
 play,1,0,youkk001,32,CBBFBB,W
 play,1,0,ortid001,02,CCC,K
 play,1,0,ramim002,11,BCX,D9/F.1-H
@@ -1124,7 +1120,6 @@ play,5,1,browe001,10,BX,64(1)/FO/G
 play,6,0,mornj001,00,,NP
 sub,mussn001,"Neal Musser",1,0,1
 play,6,0,mornj001,10,.BX,7/F
-com,"Debut game for Neal Musser"
 play,6,0,huntt001,00,X,S8/L.B-2(E8)
 play,6,0,kubej002,02,FFFX,S7/L.2-3
 play,6,0,redmm001,00,,NP
@@ -1732,7 +1727,6 @@ play,3,0,willr004,00,,NP
 sub,gloar001,"Ross Gload",1,5,3
 play,3,0,willr004,00,,NP
 sub,browe001,"Emil Brown",1,8,7
-com,"Royals first baseman Ryan Shealy left the game due to an injured leg"
 play,3,0,willr004,32,..BCCBBFB,W
 play,3,0,cabro001,12,CC1BX,S7/F.1-2
 play,3,0,guerv001,12,BCCX,64(1)3/GDP.2-3
@@ -1872,7 +1866,6 @@ play,2,0,hills002,12,CBCX,13/G
 play,2,1,gloar001,10,BX,S9/L
 play,2,1,gorda001,12,BFCC,K
 play,2,1,butlb003,11,CBX,S7/G.1-2
-com,"Debut game for Billy Butler"
 play,2,1,buckj001,22,BC+1SBX,64(1)3/GDP
 play,3,0,aybae001,32,BCBCBX,DGR/89/F
 play,3,0,molij001,00,X,9/F.2-3
@@ -2054,7 +2047,6 @@ play,6,1,sandr002,22,BSSBX,D7/L
 play,6,1,gloar001,11,BFX,S7/G.2-3
 play,6,1,gorda001,00,,NP
 sub,browe001,"Emil Brown",1,4,12
-com,"Royals designated hitter Reggie Sanders left the game due to an injured leg"
 play,6,1,gorda001,10,.BX,6/P
 play,6,1,butlb003,11,BCX,7/F
 play,7,0,napom001,12,.CFBX,63/G
@@ -2827,7 +2819,6 @@ play,6,0,ellim001,30,BBBB,W
 play,6,0,chave001,11,CBX,D8/L.1-3
 play,6,0,swisn001,30,IIII,IW
 play,6,0,johnd004,21,BBCX,46(1)3/G/DP/INT
-com,"$GDP awarded on runner interference"
 play,6,1,teahm001,00,X,S9/G
 play,6,1,sweem002,00,X,64(1)3/GDP
 play,6,1,gloar001,12,CFBX,3/G
@@ -3073,7 +3064,6 @@ play,2,0,stews002,01,CX,D7/L.2-H;1-H
 play,2,0,snelc001,11,BFX,E3/TH/G.2-H(UR)(NR)
 play,2,0,chave001,00,,NP
 sub,putnd001,"Danny Putnam",0,2,12
-com,"Athletics center fielder Chris Snelling left the game due to an injured knee"
 play,2,0,chave001,12,.FF1BX,43/G
 play,2,1,sweem002,00,,NP
 sub,putnd001,"Danny Putnam",0,2,8
@@ -3092,7 +3082,6 @@ play,3,1,germe001,31,BBBCB,W
 play,3,1,penat002,22,BC*BCFX,64(1)3/GDP
 play,3,1,laruj001,00,,NP
 sub,buckj001,"John Buck",1,9,11
-com,"Royals catcher Jason LaRue left the game due to an injured neck/shoulder"
 play,3,1,buckj001,22,.BC.BFC,K
 play,4,0,stews002,00,,NP
 sub,buckj001,"John Buck",1,9,2
@@ -3745,7 +3734,6 @@ play,5,0,belta001,22,BSSBFX,S8/L.1-2
 play,5,0,betay001,00,X,S8/L-.2-H;1-2
 play,5,0,lopej003,00,,NP
 sub,greiz001,"Zack Greinke",1,0,1
-com,"Royals pitcher Gil Meche left the game due to an injured back"
 play,5,0,lopej003,22,.CSBBS,K
 play,5,0,suzui001,21,BBCX,43/G
 play,5,1,buckj001,02,FCC,K
@@ -3772,7 +3760,6 @@ play,6,1,costs001,11,FBX,T8/F.2-H
 play,6,1,gorda001,20,BBX,D9/L.3-H
 play,6,1,shear001,00,,NP
 sub,grees004,"Sean Green",0,0,1
-com,"Mariners pitcher Felix Hernandez left the game due to an injured back"
 play,6,1,shear001,22,.BCFFBX,5/L
 play,6,1,buckj001,22,.BCF*BX,53/G
 play,7,0,lopej003,00,,NP
@@ -4465,9 +4452,6 @@ play,7,0,millk005,12,C1CBX,4/P
 play,7,0,gibbj002,22,CBFFBS,K
 play,7,1,teahm001,11,BCX,43/G
 play,7,1,browe001,02,SFC,K
-com,"ej,browe001,P,fostm901,Called third strike"
-com,"ej,bellb001,M,fostm901,Called third strike on Emil Brown"
-com,"Royals left fielder Emil Brown & Mgr Buddy Bell ejected by HP umpire Marty Foster"
 play,7,1,buckj001,21,BSBX,43/G
 play,8,0,hernr002,00,,NP
 sub,costs001,"Shane Costa",1,6,7
@@ -5056,7 +5040,6 @@ play,5,0,ecksd001,00,,NP
 sub,gorda001,"Alex Gordon",1,5,5
 play,5,0,ecksd001,00,,NP
 sub,germe001,"Esteban German",1,6,4
-com,"Royals second baseman Mark Grudzielanek left the game due to an injured knee"
 play,5,0,ecksd001,01,...CX,S8/L
 play,5,0,spies001,02,CFX,8/F
 play,5,0,pujoa001,32,CCFB*BFBFFX,64(1)3/GDP
@@ -5196,7 +5179,6 @@ play,4,0,encaj001,00,,NP
 sub,duckb001,"Brandon Duckworth",1,0,1
 play,4,0,encaj001,02,CF,NP
 sub,peraj002,"Joel Peralta",1,0,1
-com,"$Duckworth injured muscle in side, threw 2 pitches, goes to DL"
 play,4,0,encaj001,12,.CF.BX,8/F.2-3
 play,4,0,roles001,32,BBFFFFB>F>F>X,7/SF/F.3-H
 play,4,0,spies001,22,BSBCX,3/G
@@ -5204,7 +5186,6 @@ play,4,1,germe001,00,,NP
 sub,kenna001,"Adam Kennedy",0,1,4
 play,4,1,germe001,00,,NP
 sub,milea001,"Aaron Miles",0,9,6
-com,"Cardinals shortstop David Eckstein left the game due to lower back tightness"
 play,4,1,germe001,11,...BFX,9/F
 play,4,1,teahm001,00,X,8/F
 play,4,1,sweem002,22,BFSBX,63/G
@@ -5233,7 +5214,6 @@ play,7,0,milea001,02,FCX,S8/L-
 play,7,0,kenna001,02,FCX,13/G
 play,7,1,sweem002,00,,NP
 sub,browe001,"Emil Brown",1,4,11
-com,"Royals designated hitter Mike Sweeney left the game due to a back spasm"
 play,7,1,browe001,02,.FS.S,K
 play,7,1,gorda001,21,BCBX,8/F
 play,7,1,buckj001,32,.BCCBBFX,63/G
@@ -5805,7 +5785,6 @@ play,2,0,hermj001,01,FX,S7/F.2-3
 play,2,0,olivm001,00,X,6/P
 play,2,0,boona001,01,SX,7/SF/F.3-H
 play,2,0,carrb001,12,FFFBX,53/G
-com,"Debut game for Brett Carroll"
 play,2,1,browe001,00,X,9/F
 play,2,1,gorda001,22,CSBBX,S3/G
 play,2,1,shear001,32,BCBB>F1>X,S9/F.1-2
@@ -6230,7 +6209,6 @@ play,1,1,dejed001,00,,NP
 sub,gonza004,"Andy Gonzalez",0,2,9
 play,1,1,dejed001,00,,NP
 sub,mackr001,"Rob Mackowiak",0,7,7
-com,"White Sox left fielder Scott Podsednik left the game due to an injured chest"
 play,1,1,dejed001,11,...CBX,E6/G
 play,1,1,germe001,02,C>FFX,S8/F-.1-2
 play,1,1,teahm001,21,CBBX,9/L
@@ -6375,7 +6353,6 @@ start,buckj001,"John Buck",1,7,2
 start,penat002,"Tony Pena",1,8,6
 start,gathj001,"Joey Gathright",1,9,7
 start,mechg001,"Gil Meche",1,0,1
-com,"$John McLaren's first game as manager of the Mariners"
 play,1,0,suzui001,12,CBCX,3/G
 play,1,0,vidrj001,32,CFBFFFBBFB,W
 play,1,0,ibanr001,10,BX,D9/L.1-3
@@ -6451,7 +6428,6 @@ sub,oflae001,"Eric O'Flaherty",0,0,1
 play,9,1,dejed001,10,.BX,3/G
 play,9,1,germe001,00,,NP
 sub,broub001,"Ben Broussard",0,5,3
-com,"Mariners first baseman Richie Sexson left the game due to an injured hand/wrist"
 play,9,1,germe001,00,.X,D7/L
 play,9,1,teahm001,00,X,S9/L.2-3
 play,9,1,gloar001,00,,NP
@@ -6576,8 +6552,6 @@ play,2,1,germe001,12,BFFX,S56/G
 play,2,1,teahm001,12,*BC1FH,HP.1-2
 play,2,1,browe001,00,,NP
 sub,burkj003,"Jamie Burke",0,5,2
-com,"Mariners catcher Kenji Johjima left the game due to an injured wrist;"
-com,"he had been hit with a pitch while behind the plate"
 play,2,1,browe001,32,..BCBF2B>F>B,W.2-3;1-2
 play,2,1,gorda001,12,F*BSFFX,4/L
 play,2,1,butlb003,01,CX,D9/L.3-H;2-H;1-H
@@ -6942,9 +6916,6 @@ play,8,1,butlb003,12,.CBCC,K
 play,9,0,harrb001,00,,NP
 sub,sorij001,"Joakim Soria",1,0,1
 play,9,0,harrb001,12,.BSCS,K
-com,"ej,bellb001,M,hallt901,Balls and strikes"
-com,"Royals Manager Buddy Bell ejected by HP umpire Tom Hallion after"
-com,"the third pitch to Ty Wigginton"
 play,9,0,wiggt001,22,BBF.SFS,K
 play,9,0,yound003,32,BBBCSFFFX,S7/G
 play,9,0,penac001,00,1X,S9/G.1-3
@@ -8546,7 +8517,6 @@ play,3,1,grudm001,10,BX,S7/L.1-2
 play,3,1,teahm001,12,FBFFS,K
 play,4,0,bartj001,00,,NP
 sub,braur001,"Ryan Braun",1,0,1
-com,"City Royals pitcher Odalis Perez left the game due to an injured leg"
 play,4,0,bartj001,12,.CCFBS,K
 play,4,0,puntn001,22,CCBBX,D9/F
 play,4,0,mauej001,12,CCBX,FC1/G
@@ -8872,7 +8842,6 @@ play,7,1,teahm001,00,X,31/G
 play,7,1,butlb003,20,BBX,S6/G
 play,7,1,gloar001,00,,NP
 sub,jansc001,"Casey Janssen",0,0,1
-com,"Blue Jays pitcher Shaun Marcum left the game due to an injured leg"
 play,7,1,gloar001,12,..BFFFS,K
 play,8,0,riosa002,00,,NP
 sub,peraj002,"Joel Peralta",1,0,1
@@ -9558,7 +9527,6 @@ play,2,1,laruj001,31,BBBCX,63/G
 play,3,0,peraj001,00,,NP
 sub,buckb002,"Billy Buckner",1,0,1
 play,3,0,peraj001,02,.CCX,63/G
-com,"Debut game for Billy Buckner"
 play,3,0,loftk001,01,CX,D7/L
 play,3,0,gutif001,31,BBFBB,W
 play,3,0,blakc001,12,CBFX,5(2)3/GDP
@@ -10495,7 +10463,6 @@ play,5,0,jeted001,11,1B1F1>X,13/G.1-2
 play,5,0,abreb001,12,CBCX,5/P
 play,5,1,laruj001,00,,NP
 sub,gonza005,"Alberto Gonzalez",0,2,6
-com,"Yankees shortstop Derek Jeter left the game due to an injured knee"
 play,5,1,laruj001,00,.X,6/L
 play,5,1,gathj001,10,BX,63/G
 play,5,1,germe001,32,CBBFBFX,D9/F
@@ -10526,7 +10493,6 @@ sub,costs001,"Shane Costa",1,5,9
 play,7,0,canor001,00,,NP
 sub,hochl001,"Luke Hochevar",1,0,1
 play,7,0,canor001,00,...X,S4/G
-com,"Debut game for Luke Hochevar"
 play,7,0,betew001,10,BX,8/F
 play,7,0,cabrm002,31,BBBCB,W.1-2
 play,7,0,damoj001,00,X,9/F
@@ -11023,8 +10989,6 @@ play,7,0,kubej002,32,CB*BFBB,W.2-3;1-2
 play,7,0,mauej001,01,CX,8/SF/F.3-H;2-3
 play,7,0,huntt001,00,,NP
 sub,nunel001,"Leo Nunez",1,0,1
-com,"ej,bellb001,M,poncl901,Balls and strikes"
-com,"Royals Manager Buddy Bell ejected by HP umpire Larry Poncino"
 play,7,0,huntt001,00,..X,3/P3F
 play,7,1,sweem002,11,CBX,9/F
 play,7,1,gorda001,22,SSBFBX,S8/G
@@ -11151,7 +11115,6 @@ play,3,0,puntn001,22,CBCFFFBFFFFFS,K
 play,3,0,casia001,02,CFS,K
 play,3,1,teahm001,00,,NP
 sub,slowk001,"Kevin Slowey",0,0,1
-com,"Twins pitcher Carlos Silva left the game due to an injured groin"
 play,3,1,teahm001,10,.BX,HR/9/F
 play,3,1,butlb003,22,BCBCX,5/P
 play,3,1,gloar001,00,X,S8/G
@@ -11489,9 +11452,6 @@ play,3,1,gathj001,02,FFX,53/G
 play,4,0,fielj001,31,CBBBB,W
 play,4,0,thomj002,01,FX,S9/L.1-2
 play,4,0,dye-j001,22,BCCFBX,3/P3F.1X1(548)
-com,"$No DP because 1Bman made wild throw to third, but Thome "
-com,"(runner on 1st) tried for second only to find his teammate"
-com,"there. He was run down for second out, but no DP"
 play,4,0,erstd001,12,BFFX,E5/G.2-H(NR)(UR)
 play,4,0,piera001,11,BFX,6/L
 play,4,1,buckj001,10,BX,E6/TH/G
@@ -12093,10 +12053,6 @@ sub,hubej001,"Justin Huber",1,4,12
 play,8,1,gloar001,00,,NP
 sub,germe001,"Esteban German",1,5,11
 play,8,1,germe001,00,..X,24/BG/INT.1-1
-com,"ej,bellb001,M,welkb901,Arguing runner interference call"
-com,"$the throw from catcher Victor Martinez hit the batter/runner,"
-com,"Esteban German, and he was called out for running inside the"
-com,"base line; Royals Mgr Buddy Bell ejected by HP umpire Bill Welke"
 play,8,1,gorda001,00,.X,S9/L.1-2
 play,8,1,buckj001,00,,NP
 sub,lewij003,"Jensen Lewis",0,0,1

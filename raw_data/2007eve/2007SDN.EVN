@@ -1018,9 +1018,6 @@ play,11,1,cruzj004,22,.SBFBT,K
 play,12,0,calla001,00,,NP
 sub,thomm004,"Mike Thompson",1,9,1
 play,12,0,calla001,21,.CBBX,3E1/G
-com,"ej,welld001,P,eddid901,Call at 1B (from bench)"
-com,"Padres pitcher David Wells ejected from the bench by 1B umpire Doug Eddings;"
-com,"Wells had been out of the game since the seventh inning"
 play,12,0,hammr001,00,.X,56(1)4/BGDP
 play,12,0,hairs001,22,CBCBX,D7/L
 play,12,0,drews001,30,IIII,IW
@@ -1488,9 +1485,6 @@ play,7,1,kouzk001,00,X,S9/L.1-3
 play,7,1,bower002,00,,NP
 sub,tsaoc001,"Chin-Hui Tsao",0,9,1
 play,7,1,bower002,00,.X,FC1/BG/DP.3XH(152);1X3(2)
-com,"$Cameron out in rundown as batter went to second,"
-com,"leaving Kouzmanoff trapped between 2nd and 3rd and"
-com,"Martin tagged him at second base"
 play,8,0,furcr001,00,,NP
 sub,lines001,"Scott Linebrink",1,9,1
 play,8,0,furcr001,00,.X,43/G
@@ -2089,9 +2083,6 @@ play,2,1,bardj001,30,BBBB,W
 play,2,1,camem001,22,CFB*BS,K
 play,3,0,lopef001,12,CBF,NP
 sub,brocd001,"Doug Brocail",1,9,1
-com,"Padres pitcher Clay Hensley broke for first on the foul hit by"
-com,"Lopez and pulled his right groin. He tried one warmup pitch and"
-com,"left in obvious pain. Went onto 15-day DL immediately"
 play,3,0,lopef001,12,CBF.X,43/G
 play,3,0,bellr002,01,CX,63/G
 play,3,0,zimmr001,11,BCX,63/G
@@ -3418,7 +3409,6 @@ play,8,1,camem001,21,BCBX,2/P2F
 play,9,0,lee-d002,32,BBFCBX,S8/L
 play,9,0,ramia001,01,C>X,S8/L.1-3
 play,9,0,floyc001,12,SBFX,FC4/G.3-H;1-2;B-1
-com,"$Infield halfway in, Lee just scored on slow roller"
 play,9,0,barrm003,00,,NP
 sub,pagaa001,"Angel Pagan",0,5,12
 play,9,0,barrm003,00,.X,S2/BG.2-3;1-2
@@ -3491,7 +3481,6 @@ start,sledt001,"Terrmel Sledge",1,8,7
 start,maddg002,"Greg Maddux",1,9,1
 play,1,0,weekr001,01,CX,S7/L
 play,1,0,braur002,00,X,8/F
-com,"Debut game for Ryan Braun"
 play,1,0,hardj003,10,1B>B,SB2
 play,1,0,hardj003,30,1B>B.B22B,W
 play,1,0,fielp001,00,X,36(1)1/GDP
@@ -3565,9 +3554,6 @@ play,7,0,fielp001,30,BBBB,W
 play,7,0,jenkg001,00,,NP
 sub,bellh001,"Heath Bell",1,9,1
 play,7,0,jenkg001,12,11.CBSC,K
-com,"ej,jenkg001,P,laynj901,Called third strike"
-com,"ej,yoste001,M,laynj901,Called third strike on Jenkins"
-com,"Brewers left fielder Geoff Jenkins & Mgr Ned Yost ejected by HP umpire Jerry Layne"
 play,7,0,hallb001,22,BB..CFFX,53/G
 play,7,1,greek002,00,,NP
 sub,menck001,"Kevin Mench",0,5,7
@@ -3973,8 +3959,6 @@ play,6,1,bardj001,22,BCFBX,9/F
 play,7,0,martr004,11,BFX,S8/G
 play,7,0,ethia001,21,11FPP1>X,7/F
 play,7,0,abret001,12,1>F11F1>FP1X,S9/G.1X3(965);B-2(TH)
-com,"$Martin stumbled and fell after rounding second, then"
-com,"was tagged out in rundown"
 play,7,0,schmj001,00,,NP
 sub,betew001,"Wilson Betemit",0,9,11
 play,7,0,betew001,31,.*BBF*BB,W
@@ -4150,8 +4134,6 @@ play,9,0,garcn001,01,.FX,D8/F
 play,9,0,kentj001,01,CX,63/G
 play,9,0,gonzl001,01,FX,43/G.2-3
 play,9,0,martr004,12,SS*BC,K
-com,"Trevor Hoffman's 500th career save; he is the first pitcher"
-com,"to record 500 saves"
 data,er,wolfr001,5
 data,er,tomkb001,0
 data,er,hendm001,0
@@ -4458,7 +4440,6 @@ play,8,0,suzui001,00,,NP
 sub,bocah001,"Hiram Bocachica",1,8,8
 play,8,0,suzui001,00,,NP
 sub,cruzj004,"Jose Cruz",1,9,9
-com,"Padres center fielder Mike Cameron left the game due to an injured hand/wrist"
 play,8,0,suzui001,00,.....X,8/F
 play,8,0,lopej003,20,BBX,S7/L
 play,8,0,guilj001,02,1FFS,K
@@ -4481,9 +4462,6 @@ play,9,0,belta001,00,.X,2/BP2F
 play,9,0,betay001,21,BFB1X,7/F
 play,9,0,morrb001,00,,NP
 sub,vidrj001,"Jose Vidro",0,9,11
-com,"ej,garcc001,C,marqa901,Called strike to Vidro"
-com,"Mariners Third Base Coach Carlos Garcia ejected by HP umpire Alfonso Marquez"
-com,"for arguing a called strike to Vidro"
 play,9,0,vidrj001,12,.C.*BCX,3/G
 play,9,1,bocah001,00,,NP
 sub,burkj003,"Jamie Burke",0,6,2
@@ -4611,7 +4589,6 @@ play,4,1,kouzk001,12,CSBS,K
 play,5,0,betay001,00,X,S8/L
 play,5,0,weavj002,00,,NP
 sub,ellij001,"Jason Ellison",0,9,11
-com,"Mariners pitcher Jeff Weaver left the game due to an injured back"
 play,5,0,ellij001,12,.1CBFC,K
 play,5,0,suzui001,22,CBBSFX,8/F
 play,5,0,lopej003,00,X,64(1)/FO/G
@@ -4884,7 +4861,6 @@ start,branr001,"Russ Branyan",1,6,7
 start,greek002,"Khalil Greene",1,7,6
 start,headc001,"Chase Headley",1,8,5
 start,peavj001,"Jake Peavy",1,9,1
-com,"$Dave Trembley's first game as Orioles Interim Manager"
 play,1,0,robeb003,32,BFBBCFFX,7/F
 play,1,0,pattc001,02,FCFFS,K
 play,1,0,markn001,02,TFFX,S8/G
@@ -5123,8 +5099,6 @@ play,8,0,millk005,11,CBX,S8/L
 play,8,0,tejam001,00,,NP
 sub,pattc001,"Corey Patterson",0,3,12
 play,8,0,tejam001,01,.FH,HP.1-2
-com,"$Tejada was hit on the left wrist; he was diagnosed with"
-com,"distal radial fracture of the wrist"
 play,8,0,moram002,12,*BCCFX,S7/G.2-H;1-2
 play,8,0,gibbj002,12,CFFFBFFS,K
 play,8,0,paytj001,11,FBX,T9/L.2-H;1-H
@@ -5215,11 +5189,6 @@ play,1,0,robeb003,00,X,S8/L
 play,1,0,tejam001,01,1CX,16(1)/FO/BG
 play,1,0,markn001,00,,NP
 sub,gomec001,"Chris Gomez",0,2,12
-com,"$Tejada left after fulfilling the minimum for a game played to"
-com,"keep his consecutive games played streak active; he suffered a"
-com,"distal radial fracture of the left wrist after being hit with"
-com,"a pitch the previous day; the streak is 1,152 counting this game"
-com,"and is the fifth longest in history and longest active streak"
 play,1,0,markn001,01,.CX,6/P
 play,1,0,millk005,10,BB,PB.1-2
 play,1,0,millk005,30,BB.BB,W
@@ -5289,7 +5258,6 @@ play,7,1,greek002,00,,NP
 sub,bynuf001,"Freddie Bynum",0,4,6
 play,7,1,greek002,00,,NP
 sub,bradc001,"Chad Bradford",0,9,1
-com,"Orioles pitcher Erik Bedard left the game due to an injured leg"
 play,7,1,greek002,01,...CX,7/F
 play,7,1,kouzk001,01,CX,53/G
 play,7,1,bocah001,12,SBCS,K
@@ -5382,7 +5350,6 @@ start,greek002,"Khalil Greene",1,6,6
 start,branr001,"Russ Branyan",1,7,7
 start,kouzk001,"Kevin Kouzmanoff",1,8,5
 start,maddg002,"Greg Maddux",1,9,1
-com,"$first Red Sox visit to Petco Park"
 play,1,0,crisc001,02,CFX,S8/L
 play,1,0,pedrd001,00,>C,SB2
 play,1,0,pedrd001,01,>C.X,13/SH/BG.2-3
@@ -5430,9 +5397,6 @@ play,5,1,gonza003,02,FSX,5/P
 play,5,1,camem001,01,1F>B,SB2
 play,5,1,camem001,31,1F>B.BBB,W
 play,5,1,barrm003,12,FBFX,4/L
-com,"$Maddux spikes got caught in the dirt and he fell with his"
-com,"pitch sailing over Ortiz' head; Maddux later called it a"
-com,"'senior moment'"
 play,6,0,ortid001,31,CBBBX,63/G
 play,6,0,ramim002,10,BX,D7/L
 play,6,0,youkk001,01,CX,53/G
@@ -5589,8 +5553,6 @@ play,5,0,waket001,12,CFBS,K
 play,5,1,greek002,02,CSX,HR/7/F
 play,5,1,sledt001,32,BCBCBC,K
 play,5,1,kouzk001,11,BFX,S7/L
-com,"$ball ruled a catch by 3B umpire Brian Knight; umpires"
-com,"confer and change call to no catch"
 play,5,1,younc003,02,LLX,14/SH/BG.1-2
 play,5,1,gilem001,00,X,D7/F.2-H
 play,5,1,cruzj004,12,FSBFX,4!/L
@@ -5602,12 +5564,6 @@ play,6,1,gonza003,20,BBX,9/F
 play,6,1,camem001,00,X,D7/L
 badj,bardj001,R
 play,6,1,bardj001,00,X,HR/7/F.2-H
-com,"ej,frant001,M,knigb901,Second call reversal in game"
-com,"$ball was ruled foul by 3B umpire Brian Knight; SD Mgr Bud"
-com,"Black came out to argue; umpires huddled and changed call"
-com,"to home run; Boston Mgr Terry Francona talked with crew"
-com,"chief Dana DeMuth then yelled at Knight; Francona ejected"
-com,"by Knight"
 play,6,1,greek002,32,.BCBCBX,HR/7/F
 play,6,1,sledt001,00,,NP
 sub,timlm001,"Mike Timlin",0,9,1
@@ -5862,7 +5818,6 @@ play,3,0,uggld001,22,*BSBSFFS,K
 play,3,0,cabrm001,31,BCBBB,W
 play,3,0,jacom001,00,,NP
 sub,lindt001,"Todd Linden",0,1,12
-com,"$Ramirez injured left hamstring leaving batter's box on double"
 play,3,0,jacom001,22,.FF*BBX,31/G+
 play,3,1,kouzk001,00,,NP
 sub,lindt001,"Todd Linden",0,1,8
@@ -6145,7 +6100,6 @@ start,bardj001,"Josh Bard",1,6,2
 start,kouzk001,"Kevin Kouzmanoff",1,7,5
 start,cruzj004,"Jose Cruz",1,8,7
 start,younc003,"Chris Young",1,9,1
-com,"$Umpire Hunter Wendelstedt missed game for personal reasons"
 play,1,0,ameza001,32,BFBFFBX,T9/F
 play,1,0,uggld001,02,SFS,K
 play,1,0,cabrm001,02,FSX,3/P
@@ -6189,7 +6143,6 @@ play,6,0,cabrm001,12,CB1S+1FF1S,K
 play,6,0,jacom001,32,TBBF>FB>S,K
 play,6,1,gileb002,00,,NP
 sub,pintr001,"Renyel Pinto",0,9,1
-com,"$Johnson was removed with sore forearm. Onto DL next day"
 play,6,1,gileb002,20,.BBX,7/F
 play,6,1,gilem001,00,X,D7/L
 play,6,1,gonza003,20,BBX,8/L
@@ -6221,8 +6174,6 @@ play,8,0,uggld001,12,11CC>B.X,53/G
 play,8,1,barrm003,00,,NP
 sub,benia001,"Armando Benitez",0,9,1
 play,8,1,barrm003,11,.SBX,63/G
-com,"$tremendous play by Amezaga on outfield grass in hole,"
-com,"just got Barrett at 1st"
 play,8,1,gileb002,12,CCBX,8/F
 play,8,1,gilem001,01,CX,S8/L
 play,8,1,gonza003,12,F1FBS,K
@@ -6508,9 +6459,6 @@ play,7,1,hampj001,00,,NP
 sub,bocah001,"Hiram Bocachica",1,7,11
 play,7,1,bocah001,22,CFBBF,NP
 sub,mccab002,"Brian McCann",0,7,2
-com,"$foul ball hit Saltalamacchia in temple. He went down"
-com,"immediately and had trouble with his balance even after"
-com,"a few minutes. He left game under his own power."
 play,7,1,bocah001,32,.CFBBF.BX,4/P
 play,7,1,blumg001,32,FBFBBX,31/G
 play,7,1,kouzk001,00,X,D7/F
@@ -6587,7 +6535,6 @@ start,bardj001,"Josh Bard",1,7,2
 start,kouzk001,"Kevin Kouzmanoff",1,8,5
 start,welld001,"David Wells",1,9,1
 play,1,0,escoy001,00,X,9/L
-com,"Debut game for Jo-Jo Reyes"
 play,1,0,rente001,12,CBFX,8/F
 play,1,0,jonec004,11,BCX,63/G
 play,1,1,gileb002,31,BFBBB,W
@@ -6613,13 +6560,6 @@ play,4,0,jonea002,32,CBFFBBFB,W
 play,4,0,franj004,12,SSFB1X,HR/7/F.1-H
 play,4,0,diazm003,00,,NP
 sub,brocd001,"Doug Brocail",1,9,1
-com,"ej,welld001,P,hicke901,Balls and strikes"
-com,"$as Francoeur ran around the bases, Wells approached plate"
-com,"umpire Ed Hickox, arguing that the 2-2 and 3-2 pitches were"
-com,"strikes; Hickox turned away, Wells followed him and called"
-com,"him back; Hickox told him to get on the mound and then ejected"
-com,"him; Wells was restrained by manager Black and coach Hoffman,"
-com,"throwing the ball into the backstop as he left"
 play,4,0,diazm003,10,..BX,S7/L
 play,4,0,mccab002,00,1X,S9/L.1-2
 play,4,0,saltj001,22,SBFBS,K
@@ -6972,10 +6912,7 @@ sub,cruzj004,"Jose Cruz",1,9,11
 play,7,1,cruzj004,00,,NP
 sub,felip002,"Pedro Feliciano",0,9,1
 play,7,1,cruzj004,01,..MX,E1/TH/BG.2-3;1-2;B-1
-com,"originally ruled SH, but throw had Barrett beat if it had"
-com,"been on line, so changed to straight error, no SH"
 play,7,1,gileb002,20,BBX,162(3)/FO/G.2-3;1-2;B-1
-com,"infield in, grounder deflected by pitcher to shortstop"
 play,7,1,gilem001,10,BX,63/G.3-H(UR);2-3;1-2
 play,7,1,gonza003,32,FSBBBFS,K
 play,8,0,reyej001,00,,NP
@@ -6988,7 +6925,6 @@ sub,heila001,"Aaron Heilman",0,9,1
 play,8,1,camem001,32,.BBFBFX,HR/8/L
 play,8,1,bradm001,00,X,S7/L
 play,8,1,greek002,32,B1S*BB>F>F>S,K+SB2.1-3(E4)
-com,"originally scored E2/TH, changed to E4 after game"
 play,8,1,barrm003,00,X,S8/L.3-H
 play,8,1,kouzk001,01,SX,43/G.1-2
 play,8,1,lines001,00,,NP
@@ -7490,9 +7426,6 @@ play,1,1,gonza003,21,BF*BX,8/F
 play,1,1,camem001,22,B*BFSFFB,WP.2-3
 play,1,1,camem001,32,B*BFSFFB.B,W
 play,1,1,greek002,11,BFF,CSH(12)
-com,"$Cameron broke from 1st, pitcher stepped off and ran toward him."
-com,"Runner on 3rd then broke for home. Pitcher threw to plate and"
-com,"retired him, giving runner caught stealing of home"
 play,2,0,burrp001,32,CCBFBBX,63/G
 play,2,0,helmw001,11,CBX,13/G
 play,2,0,barar001,11,BFX,8/F
@@ -7506,11 +7439,6 @@ play,3,0,rollj001,11,CBX,7/L
 play,3,0,victs001,11,BCX,31/G
 play,3,1,gileb002,32,BFFBBB,W
 play,3,1,bradm001,12,1SCFBF1X,S7/G.1-3
-com,"$bloop down line, chased by left fielder and 3rd baseman, trailed"
-com,"by 3B umpire. Third base left open so pitcher Eaton ran to cover."
-com,"As he arrived, 2B umpire Guccione charged over and flattened Eaton"
-com,"with an excellent block.  The runner, pitcher, and umpire lay in a"
-com,"heap for a few moments."
 play,3,1,gonza003,01,FX,D7/F.3-H;1-3
 play,3,1,camem001,30,BBBX,9/F
 play,3,1,greek002,12,BFSS,K
@@ -7679,8 +7607,6 @@ play,2,0,ruizc001,01,CX,43/G
 play,2,0,moyej001,32,CBFFBBC,K
 play,2,1,bardj001,11,BCX,D7/G
 play,2,1,greek002,22,CBFBX,7/F
-com,"$Foul ball on 1-1 pitch hit umpire Montague on right thumb;"
-com,"he left after the fourth and returned at 3B in the 7th"
 play,2,1,kouzk001,10,BX,8!/L+
 play,2,1,gilem001,32,BBBCCB,W
 play,2,1,welld001,12,CFBX,13/G
@@ -7703,8 +7629,6 @@ play,4,1,kouzk001,12,CFBFS,K
 play,4,1,gilem001,31,BBCBX,8/L
 play,4,1,welld001,21,BBCX,S4/G
 play,4,1,gileb002,32,CCBBB>X,7/F
-com,"umpchange,5,umphp,millb901"
-com,"umpchange,5,ump2b,(None)"
 play,5,0,rollj001,01,CX,S8/G
 play,5,0,victs001,01,FX,2/P2F
 play,5,0,utlec001,01,CX,S8/L-.1-2
@@ -7725,8 +7649,6 @@ play,6,0,victs001,01,CX,8/F
 play,6,1,greek002,12,CBCS,K
 play,6,1,kouzk001,12,BFCS,K
 play,6,1,gilem001,01,FX,7/F
-com,"umpchange,7,ump2b,hudsm901"
-com,"umpchange,7,ump3b,monte901"
 play,7,0,utlec001,00,,NP
 sub,ringr001,"Royce Ring",1,7,1
 play,7,0,utlec001,00,,NP
@@ -7767,8 +7689,6 @@ play,9,0,utlec001,10,B>B,SB2
 play,9,0,utlec001,21,B>B.FX,3/G.2-3
 play,9,0,howar001,30,IIII,IW
 play,9,0,rowaa001,00,X,E4/G-.3-H(NR)(UR);1-2
-com,"originally ruled single, changed to E4 on 8-14-2007,"
-com,"changes 5 runs to unearned"
 play,9,0,bourm001,20,BBX,S6/G.2-3;1-2
 play,9,0,gordt001,00,,NP
 sub,dobbg001,"Greg Dobbs",0,7,11
@@ -7854,8 +7774,6 @@ play,3,0,rollj001,11,BCX,HR/9/F
 play,3,0,victs001,22,BCFBX,4/P
 play,3,0,utlec001,32,BBCCFBB,W
 play,3,0,howar001,12,FFBFX,DGR/9/F.1-H
-com,"fan interference, Utley allowed to score after umpires huddled"
-com,"and decided that he would have scored without the interference"
 play,3,0,rowaa001,02,CCX,9/F.2-3
 play,3,0,burrp001,31,CBBBX,31/G
 play,3,1,blumg001,12,BCSX,S9/L
@@ -7874,12 +7792,6 @@ play,5,0,utlec001,12,BCSX,43/G.2-3
 play,5,0,howar001,21,BBFX,8/SF/F.3-H
 play,5,0,rowaa001,22,SFBBS,K
 play,5,1,barrm003,02,CCFC,K
-com,"ej,barrm003,P,guccc901,Balls and strikes"
-com,"ej,blacb001,M,guccc901,Balls and strikes"
-com,"Padres catcher Michael Barrett argued that strike three was low"
-com,"and was ejected by HP umpire Chris Guccione; Manager Black came"
-com,"out to argue and was also ejected; Padres had been complaining"
-com,"all game that Howard and Utley were out of the batter's box"
 play,5,1,kouzk001,32,..CBBFBB,W
 play,5,1,blumg001,00,X,46(1)3/GDP
 play,6,0,burrp001,00,,NP
@@ -8154,18 +8066,14 @@ play,4,0,byrne001,00,X,S7/L.BX2(74)
 play,4,0,jackc002,11,BCX,7/L
 play,4,0,drews001,00,X,31/G
 play,4,1,camem001,11,BFX,T9/F
-com,"$Quentin lost ball in lights and it fell 20 feet behind him"
 play,4,1,bradm001,00,X,3/G.3-H
 play,4,1,gonza003,10,BX,7/F
 play,4,1,barrm003,11,CBX,8/L
 play,5,0,reynm001,10,BX,9!/F9DW
-com,"$Giles made great catch running into wall, caught spikes"
-com,"on screen over scoreboard, twisted ankle, left next inning"
 play,5,0,snydc002,22,CBFFBX,4/P
 play,5,0,quenc001,02,FFFX,D7/L
 play,5,0,owinm001,00,,NP
 sub,davaj001,"Jeff DaVanon",0,8,12
-com,"$Quentin hurt leg as he left batter's box, left for runner"
 play,5,0,owinm001,20,.BBX,D8/L.2-H
 play,5,0,younc004,12,*BSCX,D7/F.2-H
 play,5,0,hudso001,00,>C,SB3
@@ -8180,8 +8088,6 @@ play,5,1,gileb002,30,BBBB,W
 play,5,1,camem001,12,BCSF,NP
 sub,hairs001,"Scott Hairston",1,1,12
 play,5,1,camem001,22,BCSF.BFFX,8!/F
-com,"$Cameron's ball was over fence for grand slam, but Young"
-com,"brought it back"
 play,6,0,byrne001,00,,NP
 sub,hairs001,"Scott Hairston",1,1,7
 play,6,0,byrne001,00,,NP
@@ -8231,8 +8137,6 @@ play,9,0,davaj001,32,BBBCCFB,W
 play,9,0,ojeda001,12,F1F*BS,K
 play,9,0,younc004,10,1BX,S8/L.1-2
 play,9,0,hudso001,22,BCF*BX,463/G.2-3;1-2
-com,"$Padres appeared to have DP, but 2B umpire Cooper ruled"
-com,"that Greene crossed base before catching throw from Blum"
 play,9,0,byrne001,30,*BBII,IW
 play,9,0,jackc002,00,,NP
 sub,camek001,"Kevin Cameron",1,9,1
@@ -8423,7 +8327,6 @@ sub,gonze001,"Edgar Gonzalez",0,9,1
 play,8,1,merec001,00,,NP
 sub,kouzk001,"Kevin Kouzmanoff",1,9,11
 play,8,1,kouzk001,11,....BFX,63/G
-com,"Debut game for Justin Upton"
 play,8,1,mackr001,01,CX,S9/L
 play,8,1,blumg001,22,BBCFFFX,D9/L.1-H
 play,8,1,hairs001,22,BBCSX,63/G
@@ -8514,7 +8417,6 @@ play,4,0,klesr001,00,X,53/G
 play,4,0,molib001,01,CX,S7/L
 play,4,0,felip001,10,BX,54(1)3/GDP
 play,4,1,bradm001,01,TX,63/G
-com,"$Bradley strained right hamstring, left next inning"
 play,4,1,gonza003,32,CFBFBBB,W
 play,4,1,greek002,02,FSFX,9/L
 play,4,1,ensbm001,12,CFBC,K
@@ -8572,8 +8474,6 @@ play,9,0,chulv001,00,,NP
 sub,sweem001,"Mark Sweeney",0,9,11
 play,9,0,sweem001,31,.BCBBB,W
 play,9,0,robed001,22,CBC*BX,D9/L.1XH(942)
-com,"$Ball got to catcher when Sweeney was at least 20"
-com,"feet up the line"
 play,9,1,ensbm001,00,,NP
 sub,messr001,"Randy Messenger",0,9,1
 play,9,1,ensbm001,31,.SBBBX,53/G
@@ -8661,8 +8561,6 @@ play,1,1,bardj001,10,BX,D8/L
 play,1,1,gonza003,02,CFC,K
 play,1,1,greek002,12,CCFBX,9/F
 play,2,0,bondb001,21,CBBX,HR/7/F
-com,"$Bonds' homer #755 to tie Hank Aaron at the top of the"
-com,"all-time career list"
 play,2,0,klesr001,00,X,43/G
 play,2,0,molib001,01,CX,53/G
 play,2,0,felip001,31,BBBCB,W
@@ -8911,9 +8809,6 @@ play,6,0,klesr001,01,CX,31/G
 play,6,0,felip001,02,CFFFFX,13/G
 play,6,0,lewif001,00,,NP
 sub,brocd001,"Doug Brocail",1,9,1
-com,"$Grounder by Feliz hit Germano on the thumb of his pitching"
-com,"hand, splitting the nail and cutting the finger. He left but"
-com,"x-rays showed no breaks"
 play,6,0,lewif001,22,.CBBFFX,S8/G
 play,6,0,frank001,12,11PF1F11F>FX,S8/G.1-2
 play,6,0,rodrg001,02,CFX,13/G
@@ -9888,7 +9783,6 @@ play,8,0,burkc001,00,X,46(1)3/GDP
 play,8,1,mackr001,00,,NP
 sub,gutij002,"Juan Gutierrez",0,9,1
 play,8,1,mackr001,22,.CSBBFC,K
-com,"Debut game for Juan Gutierrez"
 play,8,1,bellh001,00,,NP
 sub,bradm001,"Milton Bradley",1,6,11
 play,8,1,bradm001,22,.BFBSX,31/G
@@ -10134,10 +10028,6 @@ play,6,1,bradm001,32,FCBBBB,W
 play,6,1,gonza003,22,CB11PFFX,S9/G.1-2
 play,6,1,greek002,10,BX,S8/L.2-H;1-2
 play,6,1,kouzk001,00,X,S1/BG.2-3;1-2
-com,"ej,melvb001,M,barkl901,Call at 1B"
-com,"$Webb fielded the ball and turned towards 3B but then threw to 1B;"
-com,"Diamondbacks Manager Bob Melvin ejected by 1B umpire Lance Barksdale"
-com,"for arguing the call at 1B"
 play,6,1,bardj001,20,.BBX,S18/G.3-H;2-3;1-2
 play,6,1,blumg001,00,X,6/L
 play,6,1,germj001,00,,NP
@@ -10746,8 +10636,6 @@ play,6,1,camem001,11,CB.X,4!/L
 play,7,0,kentj001,12,FBSX,43/G
 play,7,0,gonzl001,10,BX,9/F
 play,7,0,martr004,12,FBCC,K
-com,"ej,martr004,P,iassd901,Called third strike"
-com,"Dodgers catcher Russell Martin ejected by HP umpire Dan Iassogna"
 play,7,1,bradm001,00,,NP
 sub,hu--c001,"Chin-Lung Hu",0,1,6
 play,7,1,bradm001,00,,NP
@@ -10760,10 +10648,7 @@ play,7,1,bradm001,00,,NP
 sub,liebm001,"Mike Lieberthal",0,4,2
 play,7,1,bradm001,00,,NP
 sub,sledt001,"Terrmel Sledge",1,3,11
-com,"$Chin-Lung Hu is the first player with a two-letter last name"
 play,7,1,sledt001,01,.......CX,9/F
-com,"Debut game for Chin-Lung Hu"
-com,"Debut game for Jonathan Meloan"
 play,7,1,gonza003,01,CX,43/G
 play,7,1,greek002,12,SFBFS,K
 play,8,0,lonej001,00,,NP
@@ -11193,9 +11078,6 @@ play,2,0,aurir001,12,CBSS,K
 play,2,0,felip001,22,BSFBX,S9/G.1-2
 play,2,0,vizqo001,00,X,7/F
 play,2,1,gonza003,22,BFBSX,T7/F
-com,"$Barry Bonds jumped while attempting to catch the ball, which"
-com,"hit off a fan's glove; Bonds landed awkwardly on his right leg"
-com,"and fell"
 play,2,1,greek002,10,BX,7/SF/F.3-H
 play,2,1,kouzk001,21,BBCX,53/G
 play,2,1,hairs001,12,CSBFS,K
@@ -11207,8 +11089,6 @@ play,3,1,barrm003,00,,NP
 sub,winnr001,"Randy Winn",0,3,7
 play,3,1,barrm003,00,,NP
 sub,schin001,"Nate Schierholtz",0,4,9
-com,"San Francisco Giants left fielder Barry Bonds left the game due to a strained"
-com,"right big toe"
 play,3,1,barrm003,11,..BCX,13/G
 play,3,1,tomkb001,12,CSBFT,K
 play,3,1,gileb002,12,CFBX,7/F
@@ -11711,7 +11591,6 @@ play,7,1,merec001,00,,NP
 sub,sancr002,"Romulo Sanchez",0,9,1
 play,7,1,merec001,00,,NP
 sub,sledt001,"Terrmel Sledge",1,9,11
-com,"Pirates shortstop Jack Wilson left the game due to an injured leg"
 play,7,1,sledt001,21,...CBBX,8/F
 play,7,1,hairs001,00,X,D7/G
 play,7,1,camem001,30,BBBH,HP
@@ -12240,7 +12119,6 @@ play,14,1,kouzk001,12,BCSX,53/G
 play,14,1,thatj001,00,,NP
 sub,mortc001,"Colt Morton",1,7,11
 play,14,1,mortc001,02,.CCX,6/P
-com,"Debut game for Colt Morton"
 data,er,moraf001,0
 data,er,hawkl001,0
 data,er,fuenb001,0
@@ -12520,7 +12398,6 @@ sub,stanc001,"Craig Stansberry",1,9,11
 play,5,1,stanc001,32,.BBCCBS,K
 play,5,1,gileb002,22,BCCBX,63/G
 play,5,1,bradm001,22,BFBSC,K
-com,"$Bradley stood at the plate for a while and then threw his bat down"
 play,6,0,matsk001,00,,NP
 sub,ledew001,"Wil Ledezma",1,9,1
 play,6,0,matsk001,21,.FBBX,53/G
@@ -12530,10 +12407,6 @@ play,6,1,kouzk001,00,X,7/F
 play,6,1,gonza003,12,BSCFS,K
 play,6,1,greek002,12,CSBS,K
 play,7,0,atkig001,21,BCBX,HR7/F78/IPHR
-com,"$Cameron made a sliding attempt to catch the ball but missed; Bradley"
-com,"tried to jump over Cameron to avoid a collision; Bradley stepped on"
-com,"Cameron's right hand with his left foot; Cameron left with a"
-com,"with a bruised right thumb and index finger"
 play,7,0,hawpb001,00,,NP
 sub,clarb003,"Brady Clark",1,6,8
 play,7,0,hawpb001,32,.CBFFBFBB,W
@@ -12551,23 +12424,10 @@ play,8,1,ledew001,00,,NP
 sub,ensbm001,"Morgan Ensberg",1,9,11
 play,8,1,ensbm001,20,.BBX,7!/L
 play,8,1,gileb002,01,L.X,43/G
-com,"$HP umpire Brian Runge asked Bradley if he threw his bat at the umpire;"
-com,"Bradley said no and asked if that was what 1B umpire Mike Winters told him;"
-com,"Runge said no and told Bradley to calm down"
 play,8,1,bradm001,00,X,S8/G
-com,"ej,bradm001,P,wintm901,Arguing about bat throwing incident"
-com,"$Bradley said something to umpire Mike Winters; during Kouzmanoff's at-bat,"
-com,"the conversation escalated into an argument; Padres manager Bud Black came out;"
-com,"Bradley went after Winters, was restrained by coach Bobby Meacham, then was"
-com,"ejected by Winters; Bradley continued to go after Winters; Black tired to restrain"
-com,"Bradley, grabbing him by the jersey and pushing him to the ground; Bradley grabbed"
-com,"his right knee and had to be helped off the field"
 play,8,1,kouzk001,00,,NP
 sub,sledt001,"Terrmel Sledge",1,2,12
 play,8,1,kouzk001,22,FF*BF..BFX,D8/F.1-H
-com,"ej,blacb001,M,wendh902,Checked swing"
-com,"Padres Manager Bud Black ejected by 3B umpire Hunter Wendelstedt for"
-com,"arguing a check swing call on Gonzalez"
 play,8,1,gonza003,12,S.BSS,K
 play,9,0,atkig001,00,,NP
 sub,sledt001,"Terrmel Sledge",1,2,7

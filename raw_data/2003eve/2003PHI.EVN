@@ -66,7 +66,6 @@ play,2,1,byrdm001,22,BSBSX,3/G-.2-3;1-2
 play,2,1,roa-j001,00,,NP
 sub,utlec001,"Chase Utley",1,9,11
 play,2,1,utlec001,32,.FBSFBBS,K
-com,"Debut game for Chase Utley"
 play,3,0,ramia001,00,,NP
 sub,merch002,"Hector Mercado",1,9,1
 play,3,0,ramia001,22,.BFSBS,K
@@ -225,7 +224,6 @@ play,3,1,burrp001,32,1BFBBFX,7/F
 play,3,1,belld002,01,C1X,6(1)/FO/G
 play,4,0,reesp001,00,,NP
 sub,silvc001,"Carlos Silva",1,9,1
-com,"Phillies Kevin Millwood left the game due to an injured groin"
 play,4,0,reesp001,32,.CBBBCC,K
 play,4,0,nunea001,22,BCFBFX,S9/L
 play,4,0,damij001,12,C1LBX,S2/BG.1-2
@@ -423,10 +421,6 @@ sub,younk001,"Kevin Young",0,5,3
 play,6,1,abreb001,00,,NP
 sub,reesp001,"Pokey Reese",0,7,4
 play,6,1,abreb001,22,..CBFBX,63/G
-com,"ej,bowal001,M,millb901,Call at 1B"
-com,"$Phillies manager Larry Bowa argued with 1B umpire Bill Miller"
-com,"about the call on Bobby Abreu; Bowa told Miller that he had"
-com,"missed two plays in the game; Bowa was ejected by Miller"
 play,6,1,thomj002,21,.BBCX,7/F
 play,6,1,burrp001,32,FBSBBX,9/F
 play,7,0,loftk001,00,,NP
@@ -570,9 +564,6 @@ play,4,1,rollj001,01,CX,8/F
 play,4,1,polap001,00,X,9/F
 play,4,1,abreb001,22,BBFSFC,K
 play,5,0,shefg001,32,CBBSBC,K
-com,"ej,cox-b103,M,danlk901,Called third strike on Sheffield"
-com,"ej,shefg001,P,danlk901,Called third strike"
-com,"Gary Sheffield and manager Bobby Cox ejected by HP umpire Kerwin Danley"
 play,5,0,jonec004,12,..CSBS,K
 play,5,0,jonea002,12,BCSX,8/F
 play,5,1,thomj002,00,,NP
@@ -1074,7 +1065,6 @@ play,6,0,rodri001,30,BBBB,W
 play,6,0,encaj001,32,BCBSBX,64(1)/FO/G
 play,6,0,lowem001,00,,NP
 sub,silvc001,"Carlos Silva",1,9,1
-com,"Phillies Vicente Padilla left the game due to an injured arm"
 play,6,0,lowem001,01,.CX,16(1)3/GDP
 play,6,1,leder001,00,,NP
 sub,nealb001,"Blaine Neal",0,9,1
@@ -2226,7 +2216,6 @@ start,pratt001,"Todd Pratt",1,7,2
 start,peret003,"Tomas Perez",1,8,4
 start,duckb001,"Brandon Duckworth",1,9,1
 play,1,0,durhr001,32,CBBBCFFFB,W
-com,"Debut game for Jerome Williams"
 play,1,0,alfoe001,11,CB11X,8/F
 play,1,0,aurir001,11,1CBX,S8/G+.1-2
 play,1,0,bondb001,32,SBBCBX,8/F.2-3
@@ -2259,7 +2248,6 @@ play,4,0,durhr001,30,IIII,IW
 play,4,0,alfoe001,11,BFX,54(1)3/GDP
 play,4,1,abreb001,00,,NP
 sub,torry001,"Yorvit Torrealba",0,6,2
-com,"Giants Benito left with injured arm from HP"
 play,4,1,abreb001,30,.BBBB,W
 play,4,1,burrp001,12,S1BSC,K+SB2
 play,4,1,thomj002,31,BBBCB,W
@@ -2669,7 +2657,6 @@ play,1,1,abreb001,11,CB>X,S8/G.2-H
 play,1,1,thomj002,20,*BBX,S6/G.1-2
 play,1,1,liebm001,00,,NP
 sub,puffb001,"Brandon Puffer",0,9,1
-com,"Astros Wade Miller left the game due to an injured leg"
 play,1,1,liebm001,00,..X,S8/L.2-H;1-2
 play,1,1,burrp001,31,BBBCB,W.2-3;1-2
 play,1,1,belld002,00,X,32(3)/FO/G.2-3;1-2;B-1
@@ -3019,15 +3006,11 @@ play,7,0,barar001,12,C11CB1X,3/P3F
 play,7,0,webbb001,00,,NP
 sub,gracm001,"Mark Grace",0,9,11
 play,7,0,gracm001,32,.CBS1BBC,K
-com,"ej,gracm001,P,hollm901,Called third strike"
-com,"Diamondbacks Mark Grace ejected by HP umpire Matt Hollowell"
 play,7,1,millk004,00,,NP
 sub,villo001,"Oscar Villarreal",0,9,1
 play,7,1,millk004,00,,NP
 sub,houst001,"Tyler Houston",1,9,11
 play,7,1,houst001,12,...LBSX,S8/L-
-com,"Houston broke finger fouling off bunt, then got a hit;"
-com,"onto DL next day, pin in finger"
 play,7,1,rollj001,00,X,14/SH/BG.1-2
 play,7,1,polap001,21,SBBX,43/G.2-3
 play,7,1,abreb001,00,,NP
@@ -3448,7 +3431,6 @@ play,5,0,floyc001,00,X,D7/L
 play,5,0,philj003,02,CCFS,K
 play,5,1,rollj001,00,,NP
 sub,scutm001,"Marco Scutaro",0,1,4
-com,"Mets Roberto Alomar left the game due to an injured leg"
 play,5,1,rollj001,11,..BFX,13/G
 play,5,1,polap001,12,BSFC,K
 play,5,1,thomj002,31,BBSBB,W
@@ -4203,7 +4185,6 @@ play,1,1,thomj002,12,CBFFS,K
 play,1,1,abreb001,32,1BBSBSB,W+WP.3-H(NR);1-2
 play,1,1,burrp001,32,BBBCFFB,W.2-3;1-2
 play,1,1,belld002,12,CCBFX,3/P
-com,"Infield Fly rule"
 play,1,1,pratt001,01,CX,5(2)/FO/G
 play,2,0,wilkb002,22,CBCBFX,9/L
 play,2,0,callr001,11,BFX,8/F
@@ -4340,7 +4321,6 @@ start,belld002,"David Bell",1,6,5
 start,burrp001,"Pat Burrell",1,7,7
 start,byrdm001,"Marlon Byrd",1,8,8
 start,millk004,"Kevin Millwood",1,9,1
-com,"41 minute delay during game"
 play,1,0,suzui001,02,CFFC,K
 play,1,0,mclem001,32,BBCSBFC,K
 play,1,0,boonb002,00,X,S8/L.B-2(E8)
@@ -4385,8 +4365,6 @@ play,5,0,camem001,31,CBBBB,W
 play,5,0,winnr001,11,1F1B1X,S7/G.3-H;1-2
 play,5,0,cirij001,00,,NP
 sub,bloow001,"Willie Bloomquist",0,7,11
-com,"Mariners Jeff Cirillo left the game due to an injured knee;"
-com,"Cirillo ran into fence chasing Bell's foul in bottom 4th"
 play,5,0,bloow001,12,.CBCX,54(1)3/GDP
 play,5,1,burrp001,00,,NP
 sub,bloow001,"Willie Bloomquist",0,7,5
@@ -4490,7 +4468,6 @@ start,belld002,"David Bell",1,6,5
 start,burrp001,"Pat Burrell",1,7,7
 start,byrdm001,"Marlon Byrd",1,8,8
 start,padiv001,"Vicente Padilla",1,9,1
-com,"48 minute delay during game"
 play,1,0,suzui001,12,CBFFX,S7/L
 play,1,0,guilc001,31,BB1BCC,CS2(26)
 play,1,0,guilc001,32,BB1BCC.B,W
@@ -5005,7 +4982,6 @@ play,5,1,rollj001,00,,NP
 sub,byrne001,"Eric Byrnes",0,1,8
 play,5,1,rollj001,00,,NP
 sub,mcmib001,"Billy McMillon",0,2,7
-com,"Athletics Chris Singleton left the game due to an injured back"
 play,5,1,rollj001,00,..X,S8/G
 play,5,1,polap001,10,1B1B,CS2(26)
 play,5,1,polap001,22,1B1B.FFC,K
@@ -5291,14 +5267,6 @@ play,5,1,rollj001,32,BBBCSX,D9/L.3-H;2-H;1-3
 play,5,1,belld002,00,,NP
 sub,bongj001,"Jung Bong",0,9,1
 play,5,1,belld002,32,.BBCFF.BFFS,K
-com,"ej,cox-b103,M,culbf901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by 1B umpire Fieldin Culbreth;"
-com,"Cox had complained on Myers play in bottom 4th that Myers"
-com,"ran inside line, but lost argument; in 5th, Bell fouled low"
-com,"pitch that Braves claimed was tip to catcher for strike 3;"
-com,"Umpire initially agreed, but when Bowa came out, he consulted"
-com,"other umpires, who said ball was trapped; Cox then argued"
-com,"and was ejected"
 play,5,1,byrdm001,30,IIII,IW
 play,5,1,myerb001,32,PBSSBS,K
 play,5,1,abreb001,00,X,46(1)/FO/G
@@ -5647,9 +5615,6 @@ play,9,0,fickr001,00,,NP
 sub,mesaj001,"Jose Mesa",1,9,1
 play,9,0,fickr001,31,.BBBCX,9/F
 play,9,0,lopej001,22,BFFBFC,K
-com,"ej,bowal001,M,craft901,Balls and strikes"
-com,"Phillies manager Larry Bowa ejected by HP umpire Terry Craft"
-com,"after 1-2 pitch to Lopez"
 play,9,0,castv001,11,CBX,43/G
 play,9,1,burrp001,00,X,D7/L
 play,9,1,belld002,00,,NP
@@ -6697,8 +6662,6 @@ play,8,0,gonza002,00,,NP
 sub,wendt001,"Turk Wendell",1,9,1
 play,8,0,gonza002,01,.CX,3/P
 play,8,0,cabrm001,32,BBBCCFB,W
-com,"ej,bowal001,M,tscht901,Balls and strikes"
-com,"Phillies Manager Larry Bowa ejected by HP umpire Tim Tschida"
 play,8,0,phelt002,11,.BCX,14/SH/BG.1-2
 play,8,0,pierj002,00,,NP
 sub,plesd001,"Dan Plesac",1,9,1
@@ -6805,7 +6768,6 @@ play,3,0,pennb002,02,LCX,3/SH/BG.2-3
 play,3,0,pierj002,12,CBLH,HP
 play,3,0,castl001,10,1P1X,S7/G+.3-H;1-2
 play,3,0,rodri001,12,BFFFX,5/P
-com,"Infield Fly rule"
 play,3,0,lowem001,00,X,9/F
 play,3,1,byrdm001,02,CFFC,K
 play,3,1,padiv001,22,BCFBFS,K
@@ -7187,7 +7149,6 @@ play,10,0,cordw001,22,SBFFBFC,K
 play,10,1,thomj002,01,FX,3/G
 play,10,1,abreb001,00,,NP
 sub,knote001,"Eric Knott",0,6,1
-com,"Expos Rocky Biddle left the game due to an injured back"
 play,10,1,abreb001,21,.BC.BX,S1/G
 play,10,1,liebm001,01,CX,64(1)3/GDP
 play,11,0,wilkb002,00,,NP
@@ -8341,7 +8302,6 @@ start,rollj001,"Jimmy Rollins",1,6,6
 start,pratt001,"Todd Pratt",1,7,3
 start,peret003,"Tomas Perez",1,8,5
 start,duckb001,"Brandon Duckworth",1,9,1
-com,"Steady rain fell throughout game, hard in 5th and 6th"
 play,1,0,robed001,30,BBBB,W
 play,1,0,cabrj002,02,CL11S,K
 play,1,0,grees001,10,11B1X,3/G.1-2
@@ -9000,7 +8960,6 @@ play,6,1,pratt001,02,CFC,K
 play,7,0,lorem001,00,,NP
 sub,cormr001,"Rheal Cormier",1,9,1
 play,7,0,lorem001,22,.CFBBX,E9/F.B-2
-com,"originally D9, changed to E9 on 9-04-2003!"
 play,7,0,klesr001,32,BBCCFBFC,K
 play,7,0,burrs001,12,CBFX,S8/G.2-H(UR)
 play,7,0,mattg002,00,1X,S9/G.1-2
@@ -9737,7 +9696,6 @@ play,1,1,byrdm001,11,CBX,S8/F
 play,1,1,polap001,12,CBFFX,S7/G.1-2
 play,1,1,abreb001,30,BBBB,W.2-3;1-2
 play,1,1,thomj002,01,FX,5/P
-com,"Infield Fly rule"
 play,1,1,liebm001,11,BCX,S9/L.3-H;2-3;1-2
 play,1,1,burrp001,21,FB*BX,64(1)3/GDP
 play,2,0,palmo001,31,BBBCX,6!/L
@@ -9981,8 +9939,6 @@ sub,wendt001,"Turk Wendell",1,9,1
 play,9,0,roles001,01,.CX,4/P
 play,9,0,martt002,11,CBX,HR/9/L
 play,9,0,rente001,12,FBFH,HP
-com,"ej,larut101,M,davig901,Demanding ejection after HBP"
-com,"Cardinals Manager Tony Larussa ejected by 3B umpire Gerry Davis"
 play,9,0,cairm001,00,,NP
 sub,mesaj001,"Jose Mesa",1,9,1
 play,9,0,cairm001,20,..BBC,DI.1-2
@@ -10138,7 +10094,6 @@ sub,saues001,"Scott Sauerbeck",0,9,1
 play,7,1,abreb001,32,.BCBBCB,W
 play,7,1,liebm001,10,BX,S7/G.1-2
 play,7,1,thomj002,22,BCFB>B,SB3.1-2(E2/TH)
-com,"Throw dropped at 3rd and Lieberthal then went to 2nd"
 play,7,1,thomj002,32,BCFB>B.B,W
 play,7,1,burrp001,00,,NP
 sub,timlm001,"Mike Timlin",0,9,1
@@ -10347,8 +10302,6 @@ play,9,0,wilkb002,22,.CBSBX,8!/F
 play,9,0,cabro001,12,CBFX,S8/G
 play,9,0,vidrj001,11,BCB,SB2
 play,9,0,vidrj001,32,BCB.CBC,K
-com,"ej,vidrj001,P,fichm901,Balls and strikes"
-com,"Expos Jose Vidro ejected by HP umpire Mike Fichter"
 play,9,0,macij001,01,SX,13/G
 data,er,vazqj001,5
 data,er,telea001,2
@@ -10408,8 +10361,6 @@ play,1,0,cordw001,02,CSB,SB3
 play,1,0,cordw001,32,CSB.BBX,HR/7/F.3-H;1-H
 play,1,0,callr001,10,BX,S8/G
 play,1,0,schnb001,21,B1FB.X,9/L
-com,"ej,bowal001,M,marqa901,Balls and strikes"
-com,"Phillies Manager Larry Bowa ejected by HP umpire Alfonso Marquez"
 play,1,1,byrdm001,32,CBSBFBX,63/G
 play,1,1,rollj001,10,BX,13/G
 play,1,1,abreb001,31,BBCBX,43/G
@@ -11492,9 +11443,6 @@ play,8,1,rollj001,21,BFBX,9/F
 play,9,0,encaj001,00,,NP
 sub,delov001,"Valerio De Los Santos",1,9,1
 play,9,0,encaj001,11,.CBH,HP
-com,"ej,bowal001,M,barkl901,Protesting warning to pitcher"
-com,"HP umpire Lance Barksdale warned both teams; Phillies Manager"
-com,"Larry Bowa argued and was ejected by Barksdale"
 play,9,0,conij001,22,.BBFCFB,WP.1-2
 play,9,0,conij001,32,.BBFCFB.FB,W
 play,9,0,cabrm001,00,X,E1/TH/SH/BG.2-H(NR)(UR);1-2
@@ -11573,8 +11521,6 @@ start,michj001,"Jason Michaels",1,6,7
 start,rollj001,"Jimmy Rollins",1,7,6
 start,peret003,"Tomas Perez",1,8,4
 start,millk004,"Kevin Millwood",1,9,1
-com,"$Game was scheduled for 7:05, but was moved to 1:05 in anticipation"
-com,"of Hurricane Isabel"
 play,1,0,pierj002,02,FFX,3/G
 play,1,0,castl001,32,CBFBFBX,43/G
 play,1,0,rodri001,02,FFS,K
@@ -12306,7 +12252,6 @@ start,burrp001,"Pat Burrell",1,6,7
 start,utlec001,"Chase Utley",1,7,4
 start,peret003,"Tomas Perez",1,8,5
 start,telea001,"Amaury Telemaco",1,9,1
-com,"8 minute delay during game"
 play,1,0,furcr001,02,CFFFS,K
 play,1,0,derom001,00,X,7/F
 play,1,0,shefg001,31,BBBFH,HP
@@ -12377,7 +12322,6 @@ play,5,1,rollj001,10,.B.X,7!/L+
 play,6,0,blanh001,00,,NP
 sub,madsr001,"Ryan Madson",1,9,1
 play,6,0,blanh001,11,.CBX,5/P5F
-com,"Debut game for Ryan Madson"
 play,6,0,franj002,00,X,43/G
 play,6,0,castv001,22,CBBSX,3/P3F
 play,6,1,abreb001,00,,NP
@@ -12403,7 +12347,6 @@ play,7,1,stink001,00,.X,S9/F
 play,7,1,byrdm001,00,,NP
 sub,macha001,"Andy Machado",1,9,12
 play,7,1,byrdm001,10,.1B>B,SB2
-com,"Debut game for Andy Machado"
 play,7,1,byrdm001,31,.1B>B.CBB,W
 play,7,1,rollj001,00,X,8/F
 play,8,0,shefg001,00,,NP
@@ -12514,7 +12457,6 @@ start,burrp001,"Pat Burrell",1,6,7
 start,utlec001,"Chase Utley",1,7,4
 start,peret003,"Tomas Perez",1,8,5
 start,millk004,"Kevin Millwood",1,9,1
-com,"2 minute delay during game"
 play,1,0,furcr001,02,CCC,K
 play,1,0,gilem001,22,CBSBS,K
 play,1,0,shefg001,01,CX,63/G
@@ -12542,8 +12484,6 @@ play,3,0,jonea002,12,BCFX,9/F
 play,3,1,millk004,02,CSS,K
 play,3,1,byrdm001,31,BSBBX,S7/G
 play,3,1,rollj001,01,1S1X,3/G.1-2
-com,"Strange. Ball went past 1st baseman, hit runner, bounced"
-com,"back to 1st baseman who beat Rollins to bag"
 play,3,1,abreb001,21,BBCX,S8/G.2-H
 play,3,1,thomj002,22,BBSSB,WP.1-2
 play,3,1,thomj002,32,BBSSB.S,K
@@ -12551,8 +12491,6 @@ play,4,0,lopej001,12,FBCX,D9/L+
 play,4,0,fickr001,10,BX,S8/L.2-3
 play,4,0,derom001,010,S,NP
 sub,garcj001,"Jesse Garcia",0,8,11
-com,"The pitch to DeRosa hit his hand, but it was ruled a"
-com,"swing.  He left in much pain, X-rays showed no break"
 play,4,0,garcj001,01,.SX,S7/L.3-H;1-2
 play,4,0,maddg002,10,BX,14/SH/BG.2-3;1-2
 play,4,0,furcr001,32,BBBSFX,8/SF.3-H;2-3

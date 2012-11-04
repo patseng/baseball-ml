@@ -884,7 +884,6 @@ sub,jimed001,"D'Angelo Jimenez",0,9,11
 play,8,0,jimed001,10,.BX,1/SH/BG.1-2
 play,8,0,lopef001,30,BBBB,W+WP.2-3
 play,8,0,bellr002,21,BSBX,S9/L.3-H;1-2
-com,"the first lead of the season during a game for the Nationals"
 play,8,0,zimmr001,02,FFX,S9/L.2-H;1-3;B-2(E2)
 play,8,0,yound001,30,IIII,IW
 play,8,0,keara001,02,CCS,K
@@ -1762,7 +1761,6 @@ play,2,0,hamec001,22,CS*BBS,K
 play,2,0,rollj001,00,B,PB.3-H;2-3;1-2
 play,2,0,rollj001,00,,NP
 sub,penab002,"Brayan Pena",1,6,2
-com,"Braves catcher Brian McCann left the game due to an injured hand/wrist"
 play,2,0,rollj001,21,B..CBX,53/G.3-H
 play,2,0,rowaa001,20,BBX,S8/L.2-H(UR)
 play,2,0,utlec001,10,BX,S8/G.1-2
@@ -1809,8 +1807,6 @@ play,6,0,howar001,30,IIII,IW
 play,6,0,burrp001,22,BBCFX,4(1)3/GDP
 play,6,1,franj004,12,CSBS,K
 play,6,1,penab002,00,X,53/G
-com,"$Diaz appeared to strike out on a pitch in the dirt and the ground crew"
-com,"ran on the field; Diaz argued that it was a foul tip and Joe West agreed"
 play,6,1,diazm003,02,SFFFX,53/G
 play,7,0,helmw001,00,X,63/G
 play,7,0,wertj001,02,CFFX,6/L
@@ -1827,9 +1823,6 @@ play,8,0,rollj001,00,,NP
 sub,colys001,"Steve Colyer",1,9,1
 play,8,0,rollj001,21,.FBBX,S7/F+
 play,8,0,rowaa001,10,B1,POCS2(136)
-com,"ej,manuc101,M,westj901,Arguing for balk call"
-com,"Phillies Manager Charlie Manuel ejected by HP umpire Joe West for"
-com,"arguing a balk on the pick off"
 play,8,0,rowaa001,10,B1...X,9/F
 play,8,0,utlec001,32,CBBBFX,S9/L
 play,8,0,howar001,11,BS1,POCS2(135)
@@ -1929,7 +1922,6 @@ play,2,0,barar001,21,BBC1X,8/F
 play,2,0,garcf002,11,BC>B,CS2(26)
 play,2,1,franj004,10,BX,53/G
 play,2,1,saltj001,20,BBX,8/F
-com,"Debut game for Jarrod Saltalamacchia"
 play,2,1,harrw001,00,X,S8/G
 play,2,1,jamec002,00,X,6/P
 play,3,0,garcf002,21,BBCX,S7/G
@@ -2372,7 +2364,6 @@ play,1,1,saltj001,22,FBBFC,K
 play,2,0,kentj001,01,FX,7/F
 play,2,0,gonzl001,11,BFX,S9/G
 play,2,0,laroa002,12,BSCX,9/F
-com,"Debut game for Andy LaRoche"
 play,2,0,ethia001,00,1,PO1(E1).1-2
 play,2,0,ethia001,32,1.CBFBBS,K
 play,2,1,woodc001,12,CBCX,7!/F
@@ -2434,10 +2425,6 @@ play,7,1,jonea002,32,BBCCBB,W
 play,7,1,diazm003,00,,NP
 sub,jonec004,"Chipper Jones",1,5,11
 play,7,1,jonec004,22,.CBBCFS,K
-com,"ej,jonec004,P,davib902,Checked swing for strike three"
-com,"ej,cox-b103,M,davib902,Checked swing for strike three"
-com,"Braves third baseman Chipper Jones & Mgr Bobby Cox ejected by 3B"
-com,"umpire Bob Davidson for arguing a check swing call for strike three"
 play,7,1,wilsc003,00,,NP
 sub,thors001,"Scott Thorman",1,6,11
 play,7,1,thors001,11,...SBX,S9/G.2-H;1-3
@@ -2862,8 +2849,6 @@ play,6,0,gonza003,12,FSBX,43/G-.2-3
 play,6,0,camem001,01,FX,63/G
 play,6,0,branr001,22,SCBBFFS,K
 play,6,1,jonea002,12,CBSFX,E1/G
-com,"Off Maddux's glove, Originally scored S4, changed"
-com,"to E1 next day"
 play,6,1,mccab002,00,>B,SB2
 play,6,1,mccab002,10,>B.X,3/G+.2-3
 play,6,1,franj004,00,,NP
@@ -3561,9 +3546,6 @@ play,4,0,rowaa001,11,BCX,63/G
 play,4,0,dobbg001,11,CBX,S9/G+
 play,4,0,ruizc001,00,1X,9/F
 play,4,1,rente001,22,CBFBC,K
-com,"ej,cox-b103,M,emmep901,Called third strike on Renteria"
-com,"ej,rente001,P,emmep901,Called third strike"
-com,"Braves shortstop Edgar Renteria & Mgr Bobby Cox ejected by HP umpire Paul Emmel"
 play,4,1,franj004,31,..FBBBX,S5/G+
 play,4,1,jonea002,22,FBBF1FX,54(1)3/GDP
 play,5,0,moyej001,00,,NP
@@ -3618,7 +3600,6 @@ sub,helmw001,"Wes Helms",0,9,5
 play,8,1,yatet001,00,,NP
 sub,harrw001,"Willie Harris",1,9,11
 play,8,1,harrw001,00,...X,9/F
-com,"Debut game for Mike Zagurski"
 play,8,1,johnk003,11,CBX,3/G
 play,8,1,pradm001,32,BCBFBX,43/G
 play,9,0,rowaa001,00,,NP
@@ -3713,12 +3694,6 @@ play,3,0,burrp001,22,B.FCBFFC,K
 play,3,0,dobbg001,30,IIII,IW
 play,3,0,barar001,22,BCBFX,54(1)/FO/G
 play,3,1,johnk003,22,BBCFX,D9/L
-com,"ej,cox-b103,M,kulpr901,Fair/foul call at 1B"
-com,"ej,smolj001,P,kulpr901,Arguing after Cox ejection; not in game"
-com,"Braves Manager Bobby Cox ejected by 1B umpire Ron Kulpa for"
-com,"arguing a foul call on Willie Harris; Cox pointed to the spot"
-com,"he claimed the ball hit in the dirt; John Smoltz was"
-com,"also ejected by Kulpa from the bench (he was not in the game)"
 play,3,1,harrw001,32,BF..BFBB,W
 play,3,1,rente001,21,BBCX,D9/F+.2-H;1-H
 play,3,1,mccab002,01,FX,6/P
@@ -4969,14 +4944,12 @@ play,2,1,jonea002,01,FX,S7/L.3-H(UR);1-2
 play,2,1,mccab002,00,,NP
 sub,galls001,"Sean Gallagher",0,9,1
 play,2,1,mccab002,12,.F*BCX,S7/G.2-H(UR);1-2
-com,"Debut game for Sean Gallagher"
 play,2,1,franj004,10,BX,5/L
 play,3,0,lee-d002,22,BSCBX,S8/L-
 play,3,0,barrm003,01,F1X,S5/G.1-3(E5/TH)
 play,3,0,jonej003,00,X,FC1/G.3-H;1-2;B-1
 play,3,0,derom001,00,,NP
 sub,moylp001,"Peter Moylan",1,9,1
-com,"Braves pitcher Tim Hudson left the game due to an injured leg"
 play,3,0,derom001,22,.CLBFBX,9/F
 play,3,0,fontm001,21,CBBX,46(1)/FO/G/DP.2XH(6325)
 play,3,1,thors001,32,CFBBBFX,2/P2F
@@ -5113,10 +5086,6 @@ play,1,1,escoy001,02,FFC,K
 play,1,1,rente001,20,BBH,HP
 play,1,1,jonea002,00,,NP
 sub,marmc001,"Carlos Marmol",0,9,1
-com,"ej,lillt001,P,wolfj901,Intentional HBP"
-com,"$Renteria started towards the mound; this was a continuation of problems"
-com,"from the previous day;"
-com,"Cubs pitcher Ted Lilly ejected by HP umpire Jim Wolf"
 play,1,1,jonea002,00,..>B,SB2
 play,1,1,jonea002,22,..>B.CBSX,53/G
 play,2,0,jonej003,12,CBSX,63/G
@@ -5511,10 +5480,8 @@ play,6,1,rente001,11,BFX,S8/L
 play,6,1,jonec004,31,BFBBX,3/G.1-2
 play,6,1,mccab002,22,CBFBX,7/F
 play,6,1,jonea002,31,BBBCX,9/F
-com,"48-minute rain delay"
 play,7,0,drewj001,00,,NP
 sub,escoy001,"Yunel Escobar",1,3,6
-com,"Braves Edgar Renteria left with stiff back"
 play,7,0,drewj001,22,.BCBCC,K
 play,7,0,pedrd001,12,CSFBX,53/G
 play,7,0,ortid001,31,CBBBB,W
@@ -5630,7 +5597,6 @@ play,2,0,youkk001,11,BCX,S7/F.1-2
 play,2,0,varij001,31,FBBBX,43/G
 play,2,1,jonec004,00,,NP
 sub,penaw001,"Wily Mo Pena",0,1,9
-com,"Red Sox right fielder J. D. Drew left the game due to an injured leg"
 play,2,1,jonec004,22,.CFBBX,63/G
 play,2,1,mccab002,21,BBFX,7/F
 play,2,1,franj004,12,BTCS,K
@@ -5842,7 +5808,6 @@ play,8,0,shefg001,11,.FBX,2/P2F
 play,8,0,ordom001,02,CCH,HP
 play,8,0,guilc001,00,,NP
 sub,monrc001,"Craig Monroe",0,4,12
-com,"Tigers right fielder Magglio Ordonez left the game due to an injured left wrist"
 play,8,0,guilc001,22,.BBSFFX,16(1)/FO/G-
 play,8,0,rodri001,01,CX,64(1)/FO/G
 play,8,1,diazm003,00,,NP
@@ -5971,7 +5936,6 @@ play,6,1,mccab002,01,CX,43/G-
 play,7,0,cases001,20,BBX,7/F
 play,7,0,ingeb001,00,,NP
 sub,yatet001,"Tyler Yates",1,9,1
-com,"Braves pitcher Kyle Davies left the game due to an injured back"
 play,7,0,ingeb001,32,CFB.BBB,W
 play,7,0,verlj001,00,X,14/SH/BG.1-2
 play,7,0,granc001,12,BCCX,53/G+
@@ -6013,9 +5977,6 @@ play,9,0,granc001,22,CBCBS,K
 play,9,1,mccab002,00,,NP
 sub,jonet003,"Todd Jones",0,9,1
 play,9,1,mccab002,02,.CCC,K
-com,"ej,mccab002,P,fairc901,Called third strike"
-com,"ej,cox-b103,M,fairc901,Arguing McCann's ejection"
-com,"Braves catcher Brian McCann & Mgr Bobby Cox ejected by HP umpire Chad Fairchild"
 play,9,1,franj004,12,..BCCX,3/L-
 play,9,1,jonea002,32,BSBFBB,W
 play,9,1,thors001,22,BFFBX,53/G-
@@ -6638,7 +6599,6 @@ play,9,0,fickr001,00,,NP
 sub,paroc001,"Chad Paronto",1,4,1
 play,9,0,fickr001,01,.CX,S4/P
 play,9,0,churr001,12,BFFX,54(1)3/G/DP
-com,"$Church called out due to runner interference by Fick"
 play,9,0,bellr002,11,FBX,D7/G+
 play,9,0,jimed001,32,BCCBBX,43/G
 data,er,bowim001,6
@@ -6793,7 +6753,6 @@ sub,ascaj001,"Jose Ascanio",1,3,1
 play,9,0,armat002,00,,NP
 sub,castj005,"Jose Castillo",0,3,11
 play,9,0,castj005,12,..CBSC,K
-com,"Debut game for Jose Ascanio"
 play,9,0,bay-j001,10,BX,S8/L
 play,9,0,nadyx001,10,BX,8/F
 play,9,0,bautj002,00,X,S9/L.1-3
@@ -7210,8 +7169,6 @@ play,5,1,rente001,11,CBX,D7/G.1-3
 play,5,1,jonec004,32,FCFBBFFFFFBFB,W
 play,5,1,jonea002,12,CCBS,K
 play,5,1,franj004,02,SSFC,K
-com,"ej,franj004,P,herna901,Balls and strikes"
-com,"Braves right fielder Jeff Francoeur ejected by HP umpire Angel Hernandez"
 play,5,1,diazm003,12,.FBFX,2/P2F
 play,6,0,encae001,00,,NP
 sub,harrw001,"Willie Harris",1,5,7
@@ -9507,8 +9464,6 @@ play,5,1,johnk003,00,,NP
 sub,tascj001,"Jack Taschner",0,9,1
 play,5,1,johnk003,22,.CS*B*BS,K
 play,5,1,jonec004,22,CBF*BC,K
-com,"ej,cox-b103,M,barrt901,Balls and strikes"
-com,"$Braves Manager Bobby Cox ejected by HP umpire Ted Barrett"
 play,6,0,felip001,22,.BCFFBS,K
 play,6,0,vizqo001,10,BX,9/F
 play,6,0,tascj001,12,SBSX,3/G
@@ -9649,8 +9604,6 @@ play,2,1,johnk003,10,BX,43/G-
 play,3,0,ortir001,11,BCX,13/G+
 play,3,0,davir003,00,H,HP
 play,3,0,vizqo001,01,L1,BK.1-2
-com,"ej,cox-b103,M,herna901,Balk call on Hudson"
-com,"Braves Manager Bobby Cox ejected by 1B umpire Angel Hernandez"
 play,3,0,vizqo001,31,L1..*BBBX,9/F
 play,3,0,winnr001,10,BX,31/G
 play,3,1,jonec004,12,CFBX,S9/G+
@@ -9659,8 +9612,6 @@ play,3,1,mccab002,00,X,36(1)1/GDP.2-3
 play,3,1,franj004,02,FSS,K
 play,4,0,bondb001,20,BBX,43/G+
 play,4,0,klesr001,32,FCBBBC,K
-com,"ej,klesr001,P,carlm901,Balls and strikes"
-com,"Giants first baseman Ryan Klesko ejected by HP umpire Mark Carlson"
 play,4,0,durhr001,30,.BBBB,W
 play,4,0,felip001,00,>C,SB2
 play,4,0,felip001,01,>C.X,63/G
@@ -9671,8 +9622,6 @@ play,4,1,escoy001,31,BBBCX,7/L
 play,4,1,hudst001,21,BCBX,8/F
 play,5,0,rodrg001,11,CBX,D7/L
 play,5,0,ortir001,01,CX,24/SH/BG.2-3
-com,"ej,bochb002,M,carlm901,Balls and strikes"
-com,"Giants Manager Bruce Bochy ejected by HP umpire Mark Carlson"
 play,5,0,davir003,02,SC.X,S3/G-.3-H
 play,5,0,vizqo001,02,1CFFS,K
 play,5,0,winnr001,00,11,BK.1-2
@@ -9682,7 +9631,6 @@ play,5,1,johnk003,01,1F>B,CS2(26)
 play,5,1,johnk003,11,1F>B.X,8/F
 play,5,1,jonec004,30,BBBX,31/G
 play,6,0,bondb001,00,X,HR/8/F
-com,"$home run #759"
 play,6,0,ortmd001,00,X,43/G
 play,6,0,durhr001,22,CBBFX,S8/L
 play,6,0,felip001,00,X,8/F
@@ -9846,8 +9794,6 @@ play,6,0,davir003,11,BFX,4/P
 play,6,1,teixm001,00,,NP
 sub,miscp001,"Patrick Misch",0,9,1
 play,6,1,teixm001,11,.CBX,43/G
-com,"$Ball hit pitcher, but scorer decided it should not"
-com,"be an assist for him"
 play,6,1,mccab002,11,CBX,9/F
 play,6,1,franj004,10,BX,53/G
 play,7,0,robed001,20,BBX,S9/L
@@ -10747,9 +10693,6 @@ sub,mahar001,"Ron Mahay",1,9,1
 play,8,0,beltc001,32,.BBBCFB,W
 play,8,0,delgc001,12,C1BCF1S,K
 play,8,0,aloum001,12,CCB1>S,K+SB2
-com,"ej,aloum001,P,fleta901,Checked swing for strike three"
-com,"Mets left fielder Moises Alou ejected by 1B umpire Andy Fletcher"
-com,"for arguing a check swing call"
 play,8,0,grees001,32,.BFBSBFX,53/G
 play,8,1,jonec004,00,,NP
 sub,heila001,"Aaron Heilman",0,6,1
@@ -11085,11 +11028,6 @@ play,9,1,jonea002,00,,NP
 sub,myerb001,"Brett Myers",0,9,1
 play,9,1,jonea002,00,.X,S7/G+
 play,9,1,escoy001,12,CCBS,K
-com,"ej,penab002,P,marqa901,Checked swing strike call; not in game"
-com,"$Escobar complained to 1B umpire Alfonso Marquez about the check swing call;"
-com,"Atlanta manager Bobby Cox came out and talked briefly and then went back to"
-com,"the dugout; as he entered the bench area, backup catcher Brayan Pena was"
-com,"ejected by Marquez; Pena was not in the lineup"
 play,9,1,acosm001,00,,NP
 sub,diazm003,"Matt Diaz",1,9,11
 play,9,1,diazm003,10,.B>B,DI.1-2
@@ -11168,10 +11106,6 @@ play,2,0,utlec001,32,BBCBFX,9/SF/F.3-H
 play,2,0,burrp001,00,X,HR/78/F
 play,2,0,howar001,32,BBTCBX,S9/L
 play,2,0,rowaa001,12,CFBX,D8/F.1XH(8632/TH);B-3
-com,"$Howard stopped at third, but Rowand went well past 2nd,"
-com,"thinking that Howard would score.  Rowand evaded rundown"
-com,"and got to 3rd, but Howard then took off for home and was"
-com,"tagged out at plate"
 play,2,1,mccab002,20,BBX,S9/L
 play,2,1,franj004,22,BCFBFT,K
 play,2,1,jonea002,32,BSBBFFFX,8/L
@@ -11292,10 +11226,8 @@ play,9,1,penab002,02,.CSX,31/G
 play,9,1,franj004,01,CX,S6/G
 play,9,1,pradm001,11,CB>C,DI.1-2
 play,9,1,pradm001,12,CB>C.X,S1/G.2-3
-com,"$high chopper off plate"
 play,9,1,escoy001,30,BBBB,W.1-2
 play,9,1,diazm003,01,CX,D9/F.3-H;2-H;1-H
-com,"Off Roberson's glove"
 data,er,kendk001,2
 data,er,romej001,0
 data,er,davik001,0
@@ -11430,7 +11362,6 @@ play,8,0,lopef001,32,FBBCFBX,7/F
 play,8,1,jonea002,00,,NP
 sub,detwr001,"Ross Detwiler",0,9,1
 play,8,1,jonea002,11,.BFX,43/G
-com,"Debut game for Ross Detwiler"
 play,8,1,escoy001,32,BFBBCFX,E5/TH/G.B-2
 play,8,1,moylp001,00,,NP
 sub,diazm003,"Matt Diaz",1,9,11
@@ -11534,9 +11465,6 @@ play,5,1,jamec002,00,X,31/G
 play,5,1,escoy001,12,BFCX,S6/G
 play,5,1,rente001,10,B1X,S7/G.1-2
 play,5,1,jonec004,10,BX,E8/F.2-3;1-2
-com,"ej,corrp102,C,reynj901,Checked swing"
-com,"Nationals Bench Coach Pat Corrales ejected by 1B umpire Jim Reynolds"
-com,"for arguing a check swing call on Teixeira"
 play,5,1,teixm001,32,FFFB.B*BX,5(2)/FO/G.3-H(UR);1-3(E5/TH);B-2
 play,5,1,franj004,00,X,HR/9/F.3-H(UR);2-H(UR);B-H(UR)
 play,5,1,jonea002,12,CCBX,3/P
@@ -12521,8 +12449,6 @@ sub,dillj001,"Joe Dillon",0,7,11
 play,8,0,dillj001,30,...BBBB,W.3-H;2-3;1-2
 play,8,0,hallb001,00,,NP
 sub,yatet001,"Tyler Yates",1,9,1
-com,"ej,cox-b103,M,guccc901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Chris Guccione"
 play,8,0,hallb001,00,..X,S9/L.3-H;2XH(92);1-2
 play,8,1,rente001,00,,NP
 sub,counc001,"Craig Counsell",0,1,5
@@ -12817,7 +12743,6 @@ play,3,0,hallb001,12,FCFBX,8/F
 play,3,0,capuc001,02,CSC,K
 play,3,1,teixm001,00,,NP
 sub,rivem003,"Mike Rivera",0,7,2
-com,"Brewers catcher Johnny Estrada left the game due to an injured knee"
 play,3,1,teixm001,00,.X,4/F
 play,3,1,franj004,01,CX,9/F
 play,3,1,jonea002,32,BBCBFC,K
@@ -12875,12 +12800,6 @@ play,7,1,teixm001,01,FB,WP.3-H
 play,7,1,teixm001,32,FB.FBBFX,S4/G
 play,7,1,franj004,32,SSBFBB*B,W.1-2
 play,7,1,jonea002,10,BX,S8/F.2-H;1-2
-com,"ej,yoste001,M,guccc901,Call at 2B"
-com,"$Francoeur rounded second base, made a headfirst dive back into the bag and was called safe;"
-com,"Brewers Manager Ned Yost ejected by 2B umpire Chris Guccione for arguing the call;"
-com,"Yost then gestured and appeared to vent anger at 1B umpire Jerry Layne, who made the call"
-com,"on Teixeira's infield hit; Yost focused his postgame comments on what he said was poor"
-com,"umpiring throughout the series"
 play,7,1,diazm003,12,.SFBX,S8/L.2-H;1-2
 play,7,1,millc001,00,,NP
 sub,kingr001,"Ray King",0,6,1

@@ -43,8 +43,6 @@ start,kenna001,"Adam Kennedy",1,6,4
 start,rodri001,"Ivan Rodriguez",1,7,2
 start,desmi001,"Ian Desmond",1,8,6
 start,lannj001,"John Lannan",1,9,1
-com,"$Opening Day in DC; President Barack Obama threw the Ceremonial Pitch to"
-com,"Ryan Zimmerman"
 play,1,0,rollj001,10,BX,S7/L+
 play,1,0,polap001,01,CX,9/F9LF
 play,1,0,utlec001,22,BC1BF1X,8/F
@@ -78,14 +76,12 @@ play,4,0,ibanr001,12,B1FF1X,S9/G.1-3
 play,4,0,victs001,20,B*BX,S7/L.3-H;1-2
 play,4,0,ruizc001,10,BX,9/F.2-3;1-2
 play,4,0,hallr001,00,X,S1/G-.3-H;2-3
-com,"$the ball rolled about 30 feet up the third base line"
 play,4,0,rollj001,31,BBBCB,W.1-2
 play,4,0,polap001,10,BX,7/SF/L.3-H
 play,4,0,utlec001,31,CBBBX,S8/L+.2-3;1-2
 play,4,0,howar001,00,,NP
 sub,englj001,"Jesse English",1,9,1
 play,4,0,howar001,11,.SBX,43/G
-com,"Debut game for Jesse English"
 play,4,1,willj004,00,X,S7/G+
 play,4,1,kenna001,22,FBFBS,K
 play,4,1,rodri001,12,CBSX,54(1)3/GDP
@@ -159,7 +155,6 @@ play,9,0,howar001,32,BBBCF>X,8/F
 play,9,1,kenna001,00,,NP
 sub,hernd003,"David Herndon",0,9,1
 play,9,1,kenna001,32,.BCBFBX,3/G
-com,"Debut game for David Herndon"
 play,9,1,rodri001,11,BCX,D9/L
 play,9,1,morsm001,00,X,S7/G.2-3;B-2(E7/TH3)
 play,9,1,guzmc001,12,CFBC,K
@@ -432,7 +427,6 @@ sub,gloar001,"Ross Gload",0,9,11
 play,5,0,gloar001,11,.BFX,S9/L
 play,5,0,rollj001,10,*BX,9/F
 play,5,0,polap001,10,BX,S8/L.1-H(NR);B-3(E8)
-com,"$CF Nyjer Morgan allowed the ball to get by him"
 play,5,0,utlec001,12,*BFFX,13/G
 play,5,0,howar001,11,FBX,S8/L.3-H
 play,5,0,wertj001,21,CBBX,D7/L.1XH(7452)
@@ -568,9 +562,6 @@ play,1,1,harrw001,22,CBFBC,K
 play,1,1,guzmc001,11,CBX,S9/G
 play,1,1,dunna001,22,CCBBB,WP.1-2
 play,1,1,dunna001,32,CCBBB.>S,K
-com,"ej,dunna001,P,fleta901,Checked swing for strike three"
-com,"Nationals first baseman Adam Dunn ejected by 3B umpire Andy Fletcher for"
-com,"arguing a check-swing call on strike three"
 play,2,0,mcgec001,00,,NP
 sub,gonza005,"Alberto Gonzalez",1,4,5
 play,2,0,mcgec001,00,,NP
@@ -1643,7 +1634,6 @@ start,harrw001,"Willie Harris",1,7,5
 start,maxwj002,"Justin Maxwell",1,8,9
 start,atill001,"Luis Atilano",1,9,1
 play,1,0,furcr001,01,CX,31/G
-com,"Debut game for Luis Atilano"
 play,1,0,andeg001,12,CBSX,7/F
 play,1,0,ethia001,01,CX,S9/G
 play,1,0,kempm001,22,BBF1C1X,63/G
@@ -1705,7 +1695,6 @@ play,7,0,carrj001,00,,NP
 sub,clipt001,"Tyler Clippard",1,6,1
 play,7,0,carrj001,00,,NP
 sub,nievw001,"Wil Nieves",1,9,2
-com,"Nationals catcher Ivan Rodriguez left the game due to an injured back"
 play,7,0,carrj001,22,..BCCBS,K
 play,7,0,furcr001,12,CFBX,E4/G
 play,7,0,andeg001,01,CX,54(1)/FO/G-
@@ -2167,10 +2156,7 @@ play,4,1,willj004,21,BBFX,53/G
 play,4,1,rodri001,21,CBBX,8/F
 play,4,1,bernr001,31,BBBCX,6/P
 play,5,0,jonec004,00,X,43/G
-com,"$the infield was shifted to right for McCann"
 play,5,0,mccab002,01,CX,S6/G4S-.B-2(E6/TH1)
-com,"$Ian Desmond fielded the ball on the infield grass in the second baseman's"
-com,"area and threw the ball into the stands"
 play,5,0,glaut001,32,BBCBFX,63/G
 play,5,0,heywj001,30,IIII,IW
 play,5,0,cabrm002,22,BBCSX,7/F
@@ -2303,7 +2289,6 @@ play,1,0,mclon001,31,BCBBB,W
 play,1,0,pradm001,31,CB1BBX,4/P
 play,1,0,jonec004,00,>B,CS2(26)
 play,1,0,jonec004,32,>B.CCBBB,W
-com,"$infield shifted to right for McCann"
 play,1,0,mccab002,11,CBX,6(1)/FO/G4M
 play,1,1,morgn001,10,BX,DGR/78/F
 play,1,1,kenna001,00,X,13/SH/BG.2-3
@@ -2318,7 +2303,6 @@ play,2,0,infao001,32,BBBCSX,HR/7/F.2-H
 play,2,0,hanst001,02,CFC,K
 play,2,1,desmi001,00,,NP
 sub,cabrm002,"Melky Cabrera",0,6,9
-com,"Braves right fielder Jason Heyward left the game due to an injured right groin"
 play,2,1,desmi001,10,.BX,HR/7/F
 play,2,1,bernr001,12,FBCX,S8/G
 play,2,1,atill001,11,B1LX,13/SH/BG.1-2
@@ -2420,7 +2404,6 @@ play,10,0,glaut001,10,BX,S7/L
 play,10,0,cabrm002,00,,NP
 sub,hickb002,"Brandon Hicks",0,5,12
 play,10,0,cabrm002,00,.X,54/SH/BG.1-2
-com,"Debut game for Brandon Hicks"
 play,10,0,diazm003,01,CX,S9/L.2-H
 play,10,0,infao001,02,1CSX,6(1)3/GDP
 play,10,1,guzmc001,00,,NP
@@ -2569,8 +2552,6 @@ play,9,1,kenna001,32,BBBCCB,W
 play,9,1,zimmr001,00,,NP
 sub,moylp001,"Peter Moylan",0,9,1
 play,9,1,zimmr001,20,.BBX,D9/F9DW.1-3
-com,"$Ryan Zimmerman's fly to right hit the wall about 4 feet from the top,"
-com,"just missing a game-ending homer"
 play,9,1,gonza005,00,,NP
 sub,guzmc001,"Cristian Guzman",1,4,11
 play,9,1,guzmc001,30,.IIII,IW
@@ -2688,7 +2669,6 @@ play,7,1,desmi001,32,FBFBBX,43/G
 play,8,0,volsc001,00,,NP
 sub,peteb001,"Bryan Petersen",0,9,11
 play,8,0,peteb001,01,.FX,S7/L
-com,"Debut game for Bryan Petersen"
 play,8,0,coghc001,00,X,E1/SH/BG.1-2
 play,8,0,sancg001,02,SFX,S8/G.2-H;1-3;BX2(836)
 play,8,0,ramih003,30,IIII,IW
@@ -3115,10 +3095,6 @@ play,3,1,morgn001,10,BX,43/G
 play,4,0,bay-j001,00,X,8/F
 play,4,0,davii001,12,CFBC,K
 play,4,0,pagaa001,01,CX,HR7/F8RXDW/IPHR
-com,"$the first inside the park homer at Nationals Park; the ball hit high"
-com,"off the wall in CF while Nyjer Morgan made an attempt to catch it by"
-com,"leaping against the wall; the ball caromed towards LF and was fielded"
-com,"in CF by LF Josh Willingham"
 play,4,0,franj004,11,BSX,S9/G
 play,4,0,tatif001,22,B1BC1ST,K
 play,4,1,guzmc001,12,BFFX,S8/L
@@ -3134,12 +3110,6 @@ play,5,0,reyej001,11,BCX,5/P
 play,5,1,hernl003,22,CBCBX,S7/L
 play,5,1,morgn001,31,BBFBB,W.1-2
 play,5,1,guzmc001,01,LX,8/LTP.2X2(826);1X1(63)
-com,"$Mets CF Angel Pagan made a shoestring catch of Christian Guzman's sinking"
-com,"line drive and threw the ball into the infield; the throw went to catcher"
-com,"Henry Blanco, who relayed to SS Jose Reyes; Reyes stepped on 2B and threw"
-com,"to Ike Davis, who stepped on 1B to complete the triple play; crew chief"
-com,"Tim Tschida huddled the umpires to make sure that the catch was made and"
-com,"the two runners were out before comfirming the three outs on one play;"
 play,6,0,castl001,32,BBCBCX,63/G
 play,6,0,bay-j001,31,CBBBB,W
 play,6,0,davii001,31,BBBCX,S9/L.1-3(E9)
@@ -3467,7 +3437,6 @@ play,3,0,hernd002,02,CFFX,1/L
 play,3,1,desmi001,32,BCBBFX,63/G
 play,3,1,olses001,00,,NP
 sub,hernl003,"Livan Hernandez",1,9,11
-com,"Nationals pitcher Scott Olsen left the game due to an injured shoulder"
 play,3,1,hernl003,32,.BFFBBFS,K
 play,3,1,harrw001,20,BBX,9/F
 play,4,0,pattc001,00,,NP
@@ -3481,7 +3450,6 @@ play,4,1,guzmc001,00,,NP
 sub,pattc001,"Corey Patterson",0,1,8
 play,4,1,guzmc001,00,,NP
 sub,montl001,"Luis Montanez",0,6,7
-com,"Orioles center fielder Adam Jones left the game due to an injured leg"
 play,4,1,guzmc001,32,..BCBBFF.FB,W
 play,4,1,zimmr001,32,BBBCSX,8/F
 play,4,1,dunna001,32,CBBF*BFB,W.1-2
@@ -3640,14 +3608,10 @@ play,3,1,willj004,00,X,HR/78/F.1-H
 play,3,1,rodri001,12,TBFX,43/G
 play,4,0,scotl001,00,,NP
 sub,nievw001,"Wil Nieves",1,6,2
-com,"Nationals catcher Ivan Rodriguez left the game due to an injured back"
 play,4,0,scotl001,01,.CX,E1/G
 play,4,0,wiggt001,22,*BBSFX,13/G-.1-2
 play,4,0,wietm001,00,X,8/F.2-3
 play,4,0,jonea003,01,LX,HR87/F8RXDW/IPHR.3-H(UR);B-H(UR)
-com,"$Nationals CF Nyjer Morgan jumped at the fence and the ball hit his glove"
-com,"but caromed behind him to the ground; Morgan threw his glove to the ground"
-com,"and threw a mini-tantrum while LF Josh Willingham ran over retrieve ball"
 play,4,0,iztuc001,00,X,31/G
 play,4,1,kenna001,12,CCBX,8/F
 play,4,1,bernr001,31,BBCBX,31/G
@@ -3655,9 +3619,6 @@ play,4,1,stamc001,32,BBBCCX,D7/F
 play,4,1,morgn001,10,BX,S9/G+.2-3
 play,4,1,guzmc001,01,1CX,S7/G.3-H;1-3
 play,4,1,zimmr001,01,CX,64(1)/FO/G
-com,"ej,radid801,C,wintm901,Arguing about non-call on balk"
-com,"Nationals First Base Coach Dan Radison ejected by 1B umpire Mike Winters"
-com,"for arguing that the umpires missed a balk call"
 play,5,0,bergb002,11,.CBX,S9/L
 play,5,0,pattc001,11,CBX,6(1)3/GDP
 play,5,0,markn001,32,BCBBCFX,5!3/G
@@ -4028,15 +3989,6 @@ play,7,1,nievw001,00,X,14/SH/BG.2-3;1-2
 play,7,1,clipt001,00,,NP
 sub,harrw001,"Willie Harris",1,9,11
 play,7,1,harrw001,00,.X,8/SF/FDP.3-H(UR);2X3(815)
-com,"$com,"ej,desmi001,P,westj901,Overturned call at 3B; threw helmet"
-com,"the throw to the plate by CF Drew Stubbs hit the mound and caromed past the"
-com,"plate where it was fielded by pitcher Enerio Del Rosario backing up the"
-com,"play; Del Rosario's throw to 3B was a little late but Ian Desmond's foot"
-com,"came off the bag as he slid past; 3B umpire Paul Schrieber called Desmond"
-com,"safe; the Reds, including manager Dusty Baker, objected to the ruling; 1B"
-com,"umpire and crew chief Joe West came over and took the umpires into a huddle;"
-com,"then he called Desmond out; Desmond removed his helmet and threw it to the"
-com,"ground in protest; Desmond was ejected by West"
 play,8,0,brucj001,00,,NP
 sub,gonza005,"Alberto Gonzalez",1,7,6
 play,8,0,brucj001,00,,NP
@@ -4181,20 +4133,8 @@ play,8,0,philb001,32,B*BCLBX,S8/G.2-H
 play,8,0,vottj001,00,,NP
 sub,burns001,"Sean Burnett",1,9,1
 play,8,0,vottj001,02,.SFB,WP.1-3(E6)
-com,"ej,riggj801,M,belld901,Obstruction call on Desmond"
-com,"$Brandon Phillips advanced to second when the pitch went to the backstop; he"
-com,"rounded second and continued towards third; Nationals SS Ian Desmond was near"
-com,"the baseline but turned and ran towards LF to get out of Phillips way; Phillips"
-com,"ran towards Desmond and stuck his arm out to make contact; the throw to 3B was"
-com,"in time to get Phillips but 3B umpire Dan Bellino called Desmond for obstruction"
-com,"and allowed Phillips to stay at 3B; Nationals manager Jim Riggleman argued the"
-com,"ruling and was ejected by Bellino"
 play,8,0,vottj001,32,.SFB..BBFB,W
 play,8,0,roles001,21,BFBX,FC6/G.3-H(UR);1-2;B-1
-com,"$Brandon Phillips ran into and over Nationals catcher Wil Nieves, who tagged"
-com,"Phillips but dropped the ball; Phillips did not touch the plate, so he got"
-com,"up and stepped on the plate while he pounded his chest, which displeased the"
-com,"Nationals"
 play,8,0,gomej001,02,FFS,K
 play,8,0,brucj001,21,BBFX,S9/G.2-H;1-3(THH)
 play,8,0,stubd001,20,BBX,3/P3F
@@ -4215,9 +4155,6 @@ play,9,0,cabro001,22,BBFSX,53/G
 play,9,0,philb001,00,H,HP
 play,9,0,vottj001,00,,NP
 sub,slatd001,"Doug Slaten",1,9,1
-com,"ej,batim001,P,westj901,Intentional HBP"
-com,"Nationals pitcher Miguel Batista ejected by HP umpire Joe West for throwing at"
-com,"Brandon Phillips; this is probably a reaction to Phillips' actions in the eighth"
 play,9,0,vottj001,10,..BX,S8/L.1-2
 play,9,0,roles001,11,BFX,3/P
 play,9,1,willj004,00,,NP
@@ -4454,7 +4391,6 @@ start,bernr001,"Roger Bernadina",1,7,9
 start,desmi001,"Ian Desmond",1,8,6
 start,stras001,"Stephen Strasburg",1,9,1
 play,1,0,mccua001,20,BBX,6/L
-com,"Debut game for Stephen Strasburg"
 play,1,0,walkn001,31,BBFBX,3/G
 play,1,0,milll002,02,CCS,K
 play,1,1,guzmc001,01,CX,53/G
@@ -4495,7 +4431,6 @@ play,5,1,morgn001,01,CX,4/L
 play,6,0,mccua001,12,CCBS,K
 play,6,0,walkn001,02,CFS,K
 play,6,0,milll002,12,BCCS,K23
-com,"$three strikeouts on 11 pitches for Strasburg"
 play,6,1,zimmr001,32,CBBBCFFX,S7/L
 play,6,1,dunna001,10,BX,HR/9/F.1-H
 play,6,1,willj004,12,BFCX,HR/7/F
@@ -4507,8 +4442,6 @@ play,6,1,desmi001,00,X,43/G
 play,7,0,joneg002,22,BFCFBFS,K
 play,7,0,yound004,02,CST,K
 play,7,0,laroa002,02,CSS,K
-com,"$three strikeouts on 13 pitches for Strasburg; he struck out the"
-com,"last seven batters he faced, with his last pitch at 99 MPH"
 play,7,1,stras001,00,,NP
 sub,harrw001,"Willie Harris",1,9,11
 play,7,1,harrw001,22,.FCFBBFT,K
@@ -4591,9 +4524,7 @@ start,desmi001,"Ian Desmond",1,7,6
 start,nievw001,"Wil Nieves",1,8,2
 start,lannj001,"John Lannan",1,9,1
 play,1,0,tabaj002,10,BX,S6/G+
-com,"Debut game for Jose Tabata"
 play,1,0,walkn001,00,X,S5/BG.1-2
-com,"Debut game for Brad Lincoln"
 play,1,0,mccua001,22,CBBCS,K
 play,1,0,joneg002,10,BX,6/P/IF
 play,1,0,laroa002,32,BFFBB>B,W.2-3;1-2
@@ -4617,8 +4548,6 @@ play,3,0,joneg002,00,11X,S9/L.1-2
 play,3,0,laroa002,00,>C,SB3;SB2
 play,3,0,laroa002,11,>C.BX,63/G.3-H
 play,3,0,milll002,11,BSX,S8/L.2-H;B-2(E8/THH)
-com,"$Nyjer Morgan's throw hit the side of the mound and skipped past"
-com,"catcher Wil Nieves"
 play,3,0,ceder002,01,CX,S8/L.2-H(UR);B-2(THH)
 play,3,0,jaraj001,30,IIII,IW
 play,3,0,lincb001,22,BCBFX,13/G
@@ -4685,7 +4614,6 @@ play,8,1,willj004,00,,NP
 sub,milll002,"Lastings Milledge",0,6,7
 play,8,1,willj004,00,,NP
 sub,churr001,"Ryan Church",0,9,9
-com,"Pirates right fielder Jose Tabata left the game due to an injured leg"
 play,8,1,willj004,32,...BFBSBB,W
 play,8,1,bernr001,12,SBC>X,S8/G.1-3
 play,8,1,desmi001,10,BX,6/P
@@ -4798,8 +4726,6 @@ play,5,1,guzmc001,00,X,53/G
 play,5,1,desmi001,21,BCBX,53/G
 play,5,1,dunna001,02,CSX,S9/F
 play,5,1,zimmr001,10,BN,BK.1-2
-com,"$1B umpire Ed Rapuano called the balk because Pirates 1B Ryan Doumit was"
-com,"not at the bag and pitcher Zake Duke threw to Doumit instead of the bag"
 play,5,1,zimmr001,11,BN.CX,S5/G.2-H(E5/TH)(NR)(UR);B-2
 play,5,1,willj004,32,BCFFBBFFC,K
 play,6,0,dukez001,01,CX,D8/F
@@ -5008,8 +4934,6 @@ play,11,0,kotsm001,11,.BFX,S9/L
 play,11,0,pierj002,00,X,53/SH/BG.1-2
 play,11,0,vizqo001,12,CS*BX,31/G.2-3
 play,11,0,riosa002,31,BBFBX,S5/G5L.3-H;B-2(E5/TH1)
-com,"$Ryan Zimmerman made a diving stop on the line but threw"
-com,"high to 1B"
 play,11,0,konep001,30,IIII,IW
 play,11,0,jonea002,11,BFX,63/G
 play,11,1,desmi001,00,,NP
@@ -5132,9 +5056,6 @@ play,7,1,rodri001,11,BFX,63/G
 play,8,0,kotsm001,30,BBBB,W
 play,8,0,jonea002,00,,NP
 sub,batim001,"Miguel Batista",1,9,1
-com,"ej,riggj801,M,holbs901,Balls and strikes"
-com,"Nationals Manager Jim Riggleman ejected by HP umpire Sam Holbrook for"
-com,"arguing about the strike zone"
 play,8,0,jonea002,12,..CSBX,7/F
 play,8,0,quenc001,11,BTX,S8/L.1-2
 play,8,0,piera001,10,BX,16(1)3/GDP
@@ -5216,7 +5137,6 @@ play,1,1,guzmc001,01,CX,9/L
 play,1,1,zimmr001,12,SS*BC,K
 play,2,0,castr002,11,BCX,S6/L+
 play,2,0,vicid001,01,CX,8!/F+
-com,"Debut game for Dayan Viciedo"
 play,2,0,beckg001,02,CFFX,S8/L.1-2
 play,2,0,garcf002,01,M+2,SB3
 play,2,0,garcf002,01,M+2.X,26(1)3/BGDP
@@ -5719,9 +5639,6 @@ play,8,1,zimmr001,22,CC1B>B.S,K
 play,9,0,getzc001,00,,NP
 sub,slatd001,"Doug Slaten",1,9,1
 play,9,0,getzc001,21,.BBCX,2/BG/INT
-com,"$the bunt by Chris Getz bounced up the 1B line; the ball hit his"
-com,"bat a second time as he dropped the bat to run to 1B; Getz was"
-com,"called out and the automatic putout given to the catcher"
 play,9,0,tejer001,00,,NP
 sub,bloow001,"Willie Bloomquist",0,9,11
 play,9,0,bloow001,22,.BFFBC,K
@@ -5823,11 +5740,6 @@ play,5,0,felij002,20,BBX,S9/L
 play,5,0,tejar001,01,F1X,6/L+
 play,5,0,wrigd002,11,BCX,46(1)/FO/G
 play,5,1,desmi001,11,CBX,D7/L78+
-com,"$Ian Desmond's fly hit on the wall just to the right of the visiting"
-com,"bullpen near the top of the padding and bounced off the front of the"
-com,"bullpen wall; this is the spot where the wall cuts out away from the"
-com,"field; it was ruled in play but the Nationals asked about it so crew"
-com,"chief Tim Welke watched the replay and upheld the call"
 play,5,1,nievw001,01,FX,3/G.2-3
 play,5,1,hernl003,12,SBSS,K
 play,5,1,morgn001,10,*BX,7/F
@@ -6212,13 +6124,6 @@ play,9,1,morgn001,02,CCX,5!3/G.1-2
 play,9,1,harrw001,11,CBX,S9/L.2-3
 play,9,1,zimmr001,32,*BBC*BTFB,W.1-2
 play,9,1,dunna001,21,BCBX,D8/F.3-H;2-H;1-3
-com,"$Adam Dunn's fly ball hit the top of the wall at the 402 marker in CF just"
-com,"over the glove of CF Angel Pagan; it bounced back onto the field and was"
-com,"ruled in play; Cristian Guzman held up at 3B to see if the"
-com,"ball would be caught while Willie Harris ran to 3B; after the ball fell in,"
-com,"Guzman started for the plate closely followed by Harris; when Guzman tagged"
-com,"up, Harris nearly passed him; the Nationals thought the ball was over the"
-com,"fence so crew chief Tim Welke watched the replay and upheld the call"
 play,9,1,willj004,30,IIII,IW
 play,9,1,rodri001,10,BX,S9/L.3-H;2-3;1-2
 data,er,dickr001,0
@@ -6501,7 +6406,6 @@ play,4,0,cabre001,10,B1>P,CS2(26)
 play,4,0,cabre001,20,B1>P.X,8/F
 play,4,1,guzmc001,12,CCBX,8/F
 play,4,1,zimmr001,10,BX,HR/7/F
-com,"$over the LF bullpen into the seats"
 play,4,1,dunna001,12,CFBS,K
 play,4,1,willj004,01,FX,9/F
 play,5,0,richc002,20,BBX,S8/G-
@@ -6571,7 +6475,6 @@ play,9,0,hairs001,00,1X,D7/F.1XH(762)
 play,9,1,zimmr001,00,,NP
 sub,gregl001,"Luke Gregerson",0,8,1
 play,9,1,zimmr001,01,.CX,HR/8/F
-com,"$into the cutout in CF; Zimmermann's sixth game-ending homer"
 data,er,richc002,5
 data,er,mujie001,0
 data,er,adamm001,0
@@ -6725,7 +6628,6 @@ play,9,0,denoc001,12,...CCFBX,3/G
 play,9,0,webbr001,00,,NP
 sub,staim001,"Matt Stairs",0,1,11
 play,9,0,staim001,00,.X,HR/78/F+
-com,"$Matt Stairs' 20th career PH homer, tying Cliff Johnson for the ML record"
 play,9,0,hairj002,22,FSBFFBFX,S7/G
 play,9,0,gonza003,11,CBX,S8/L.1-2
 play,9,0,hairs001,11,BCX,36(1)/FO/G.2-3
@@ -6963,7 +6865,6 @@ play,5,0,rente001,02,CSX,9/F.2-3
 play,5,0,cainm001,12,CCBFS,K
 play,5,0,torra001,00,,NP
 sub,rowaa001,"Aaron Rowand",0,1,11
-com,"Giants center fielder Andres Torres left the game due to an injured groin"
 play,5,0,rowaa001,22,.BSBFFX,9/F
 play,5,1,nievw001,00,,NP
 sub,rowaa001,"Aaron Rowand",0,1,8
@@ -7179,9 +7080,6 @@ play,9,0,huffa001,00,,NP
 sub,batim001,"Miguel Batista",1,9,1
 play,9,0,huffa001,00,.X,S8/G
 play,9,0,poseb001,11,BFX,HR/89/F.1-H
-com,"$Posey's fly was caught over the RF scoreboard by a fan wearing a Giants cap;"
-com,"it was ruled a homer but the Nationals asked if the ball cleared the wall;"
-com,"crew chief Derryl Cousins watched the replay and upheld the call"
 play,9,0,uribj002,22,FBTBFS,K
 play,9,0,ishit001,32,FBBBFB,W
 play,9,0,sandp001,00,X,46(1)3/GDP
@@ -8168,13 +8066,9 @@ play,1,0,rollj001,21,BCBX,53/G
 play,1,0,polap001,22,CFBBX,63/G
 play,1,0,wertj001,32,CBBBFFX,D7/L+
 play,1,0,howar001,01,TH,HP
-com,"$Ryan Howard was hit on the right elbow; x-rays were negative"
 play,1,0,franb001,01,CX,S9/L-.2-H;1-2
 play,1,0,browd004,00,,NP
 sub,ransc001,"Cody Ransom",0,4,12
-com,"$Nationals right fielder Mike Morse threw behind Ryan Howard at second trying to"
-com,"pick him off after his turn on the single; Howard went back into the back with his"
-com,"foot awkwardly and sprained his left ankle"
 play,1,0,browd004,21,.B*BCX,S8/G+.2-H;1-2
 play,1,0,ruizc001,10,B>B,SB3;SB2
 play,1,0,ruizc001,20,B>B.X,FC5/G.2X3(5)
@@ -8687,11 +8581,6 @@ play,1,1,zimmr001,21,*BBCX,4/P
 play,2,0,uggld001,30,BBBB,W
 play,2,0,rossc001,11,C1BX,3/P
 play,2,0,stanm004,10,B+1X,HR/89/F.1-H
-com,"$Mike Stanton's fly ball hit on the top of the out-of-town scoreboard in"
-com,"right center and was ruled in play; Stanton made it to third for an"
-com,"apparent RBI triple; the Marlins asked about the ruling so, after the umpires"
-com,"huddled, crew chief Jerry Layne watched the replay and overturned the call"
-com,"to a home run"
 play,2,0,murpd004,02,CFX,53/G-
 play,2,0,hayeb001,01,CX,D7/L+
 play,2,0,nolar001,00,X,43/G
@@ -9291,7 +9180,6 @@ play,3,1,hernl003,00,,NP
 sub,fukuk001,"Kosuke Fukudome",0,3,9
 play,3,1,hernl003,00,,NP
 sub,colvt001,"Tyler Colvin",0,6,8
-com,"Cubs center fielder Marlon Byrd left the game due to an injured hand"
 play,3,1,hernl003,22,..CCB*BFX,43/G
 play,3,1,morgn001,32,CBBFBC,K
 play,3,1,kenna001,21,CBBX,8/F
@@ -9739,16 +9627,12 @@ play,3,0,lopef001,12,FBFS,K
 play,3,0,jay-j001,20,BBX,7/L
 play,3,1,zimmj003,32,CBBCFBX,8/F-
 play,3,1,kenna001,12,CCBX,E6/TH1/G.B-2
-com,"$the throw by Felipe Lopez landed in the camera well at the end of"
-com,"the dugout"
 play,3,1,morgn001,00,X,3/G.2-3
 play,3,1,zimmr001,32,*BCBCBFX,S18/G.3-H(UR)
 play,3,1,dunna001,21,CBBX,D9/L+.1-3
 play,3,1,desmi001,32,*BCBFBX,S7/G+.3-H(UR);2-H(UR);B-2(THH)
 play,3,1,bernr001,00,X,43/G
 play,4,0,pujoa001,01,CX,HR/89/F
-com,"$the 400th career home run for Albert Pujols; he is the third"
-com,"youngest player to reach that milestone (ARod and Griffey)"
 play,4,0,hollm001,10,BX,S6/G
 play,4,0,winnr001,10,B11>X,S8/F-.1-2
 play,4,0,moliy001,01,CH,HP.2-3;1-2
@@ -9763,7 +9647,6 @@ play,4,1,rodri001,01,.CX,63/G
 play,4,1,harrw001,00,X,3/L+
 play,4,1,zimmj003,00,,NP
 sub,marqj001,"Jason Marquis",1,9,11
-com,"$Nationals pitcher Jason Marquis pinch hits"
 play,4,1,marqj001,11,.BFX,43/G
 play,5,0,pujoa001,00,,NP
 sub,stamc001,"Craig Stammen",1,9,1
@@ -9809,7 +9692,6 @@ play,7,1,menck001,32,..S*BBF*B>F>F>S,K
 play,8,0,pujoa001,00,,NP
 sub,clipt001,"Tyler Clippard",1,9,1
 play,8,0,pujoa001,00,.X,D7/L+
-com,"$off the wall in front of the bullpen"
 play,8,0,hollm001,10,BX,8/L
 play,8,0,winnr001,31,BFB*BX,S9/L+.2-H
 play,8,0,moliy001,00,,NP
@@ -9833,7 +9715,6 @@ play,9,0,ryanb002,32,BBCFBX,D7/L.2-H;1-3
 play,9,0,jay-j001,12,BFFS,K
 play,9,0,pujoa001,30,IIII,IW
 play,9,0,hollm001,11,BFH,HP.3-H;2-3;1-2
-com,"$Holliday was hit on the left hand, which was still on the bat"
 play,9,0,winnr001,00,,NP
 sub,burns001,"Sean Burnett",1,9,1
 play,9,0,winnr001,12,.FBTFFFX,S8/G+.3-H;2-H;1-3
@@ -9854,7 +9735,6 @@ play,10,1,burns001,00,,NP
 sub,craia001,"Allen Craig",0,7,7
 play,10,1,burns001,00,,NP
 sub,maxwj002,"Justin Maxwell",1,9,11
-com,"Cardinals left fielder Matt Holliday left the game due to an injured hand"
 play,10,1,maxwj002,22,...FFBBX,53/G
 play,10,1,kenna001,22,.BCCFBFFFFFFS,K
 play,10,1,morgn001,02,LSFFX,7/F
@@ -9865,7 +9745,6 @@ play,11,0,jay-j001,10,BX,63/G+
 play,11,0,pujoa001,30,IIII,IW
 play,11,0,millt002,00,,NP
 sub,lohsk001,"Kyle Lohse",0,4,11
-com,"$Cardinals pitcher Kyle Lohse pinch hits"
 play,11,0,lohsk001,21,.FBBX,54(1)/FO/G
 play,11,1,zimmr001,00,,NP
 sub,salaf001,"Fernando Salas",0,4,1
@@ -9882,12 +9761,10 @@ play,12,1,rodri001,02,CFS,K
 play,12,1,harrw001,32,SBBSBB,W
 play,12,1,batim001,00,,NP
 sub,nievw001,"Wil Nieves",1,9,11
-com,"$the last player off the Nationals bench"
 play,12,1,nievw001,31,.BBBCB,W.1-2
 play,12,1,kenna001,11,CBX,6!/P
 play,13,0,milea001,00,,NP
 sub,slatd001,"Doug Slaten",1,9,1
-com,"$the last pitcher out of the Nationals bullpen"
 play,13,0,milea001,30,.BBBB,W
 play,13,0,ryanb002,02,CCB,WP.1-2
 play,13,0,ryanb002,12,CCB.X,7/F
@@ -9895,8 +9772,6 @@ play,13,0,jay-j001,32,BBBCCFX,8/F
 play,13,0,pujoa001,30,IIII,IW
 play,13,0,salaf001,00,,NP
 sub,waina001,"Adam Wainwright",0,4,11
-com,"$Cardinals pitcher Adam Wainwright pinch hits; he is the third"
-com,"pitcher to pinch hit in the game"
 play,13,0,waina001,01,.SX,6/P
 play,13,1,morgn001,00,,NP
 sub,hawkb001,"Blake Hawksworth",0,4,1
@@ -10132,10 +10007,6 @@ start,hernl003,"Livan Hernandez",1,9,1
 play,1,0,schus001,11,CBX,S8/L
 play,1,0,lopef001,00,>X,43/G.1-2
 play,1,0,pujoa001,11,CBX,DGR/7/F.2-H
-com,"$Nationals left fielder Roger Bernadina made a sliding attempt at the ball"
-com,"at the foul line; as he slid across the line, the ball struck the line and"
-com,"bounced up towards the stands; a fan touched the ball and was called for"
-com,"fan interference"
 play,1,0,hollm001,32,CBBCBX,5/P
 play,1,0,jay-j001,10,BX,HR/9/F.2-H
 play,1,0,felip001,12,SBCX,43/G
@@ -10157,23 +10028,10 @@ play,3,0,hollm001,01,1FX,8/F
 play,3,1,hernl003,02,CCX,S7/F
 play,3,1,kenna001,21,BBCX,S8/L.1-2
 play,3,1,desmi001,00,X,13/BG/INT.2-2;1-1
-com,"ej,olses001,P,drakr901,Bench jockeying on interference call"
-com,"ej,radid801,C,drakr901,Arguing interference call at 1B"
-com,"$Nationals shortstop Ian Desmond was called out by HP umpire Dan Bellino"
-com,"for running in fair territory and interfering with the throw to first;"
-com,"Nationals pitcher Scott Olsen was ejected by 1B umpire Rob Drake for"
-com,"yelling from the bench about the call; Nationals First Base Coach Dan"
-com,"Radison was ejected by 1B umpire Rob Drake; Nationals manager Jim"
-com,"Riggleman went to the plate to discuss the call with Bellino; Riggleman"
-com,"saw Radison gesturing and moving around while yelling at Drake, so"
-com,"Riggleman walked up to Radison and pushed him towards the bench and,"
-com,"once Radison left, Riggleman went back to the plate to continue the"
-com,"discussion with Bellino"
 play,3,1,bernr001,32,..C*BBFBFC,K
 play,3,1,zimmr001,10,BX,S9/L.2-H;1-3
 play,3,1,dunna001,01,CX,D7/L+.3-H;1-H
 play,3,1,morsm001,31,BCBBX,S9/G.2-H;BX2(936)
-com,"$timing play; Dunn scored before the third out was made"
 play,4,0,jay-j001,01,CX,7/F
 play,4,0,felip001,12,BCCC,K
 play,4,0,andeb005,11,BCX,8/F-
@@ -10227,19 +10085,11 @@ play,8,1,dunna001,30,BBBB,W
 play,8,1,morsm001,00,,NP
 sub,maxwj002,"Justin Maxwell",1,5,12
 play,8,1,morsm001,31,.1P+1BBC>X,S9/L.1-3
-com,"$Justin Maxwell's helmet fell off as he reached second; he stumbled"
-com,"over the bag and fell on his face after his first step beyond the bag;"
-com,"as he got up, he looked back and saw that he could still make it to third"
 play,8,1,rodri001,01,FX,S9/G+.3-H;1-2
 play,8,1,morgn001,00,X,E1/TH1/SH/BG.2-3;1-2
 play,8,1,burns001,00,,NP
 sub,harrw001,"Willie Harris",1,9,11
 play,8,1,harrw001,20,.BBX,D9/G.3-H;2-H;1XH(2)
-com,"$Nationals center fielder Nyjer Morgan ran into Cardinals catcher Bryan Anderson"
-com,"as he crossed the plate; Morgan did not touch the plate; Ivan Rodriguez, who had"
-com,"already scored on the play, grabbed Morgan and pushed him back to the plate; Morgan"
-com,"dove on the plate to touch it; 3B umpire Angel Hernandez called Morgan out because"
-com,"a teammate had assisted him in running the bases"
 play,8,1,kenna001,12,CBFX,S7/G.2-H
 play,8,1,desmi001,20,BBX,4/P
 play,8,1,bernr001,21,CBBX,HR/89/F.1-H;B-H
@@ -10324,7 +10174,6 @@ play,2,1,morsm001,12,CBFX,S98/F-.1-2
 play,2,1,harrw001,32,BCC*BBC,K
 play,2,1,nievw001,02,CCFFS,K
 play,2,1,lannj001,32,BBFBF>X,D7/L.2-H;1-H
-com,"$the ball bounced by Cardinals left fielder Matt Holliday"
 play,2,1,kenna001,30,BBBB,W
 play,2,1,desmi001,10,BX,7/L
 play,3,0,waina001,12,CBFX,9/F
@@ -10631,8 +10480,6 @@ start,espid001,"Danny Espinosa",1,7,4
 start,ramow001,"Wilson Ramos",1,8,2
 start,mayay001,"Yunesky Maya",1,9,1
 play,1,0,pagaa001,11,CBX,3/L
-com,"Debut game for Dillon Gee"
-com,"Debut game for Yunesky Maya"
 play,1,0,hernl004,10,BX,S7/L
 play,1,0,beltc001,31,BB1FB1X,S8/L.1-2
 play,1,0,davii001,10,*BX,HR/89/F+.2-H;1-H
@@ -11573,7 +11420,6 @@ play,1,0,johnc003,10,BX,D7/L
 play,1,0,manzt001,21,BFBX,8/F
 play,1,1,espid001,00,,NP
 sub,bogub001,"Brian Bogusevic",0,3,9
-com,"Astros right fielder Hunter Pence left the game due to an injured hip"
 play,1,1,espid001,22,.BFBFS,K
 play,1,1,desmi001,12,CBFX,8/F
 play,1,1,dunna001,30,BBBB,W
@@ -11811,7 +11657,6 @@ play,7,1,dunna001,00,,NP
 sub,abadf001,"Fernando Abad",0,9,1
 play,7,1,dunna001,00,,NP
 sub,menck001,"Kevin Mench",1,3,11
-com,"Nationals first baseman Adam Dunn left the game due to an injured elbow"
 play,7,1,menck001,31,..BFBBX,43/G
 play,8,0,johnc003,00,,NP
 sub,peraj002,"Joel Peralta",1,3,1
@@ -12111,8 +11956,6 @@ play,7,0,diazm003,11,BSX,9/F
 play,7,1,harrw001,00,,NP
 sub,farnk001,"Kyle Farnsworth",0,9,1
 play,7,1,harrw001,32,.BBBCFFX,HR8/F89/IPHR
-com,"$Braves CF Nate McLouth tried to make a running catch at the wall;"
-com,"the ball caromed back towards CF and he had trouble finding it"
 play,7,1,rodri001,00,X,63/G
 play,7,1,gonza005,02,FFX,63/G
 play,7,1,clipt001,00,,NP
@@ -12410,7 +12253,6 @@ play,3,1,bernr001,21,BBCX,43/G
 play,4,0,pradm001,22,CBCFBC,K
 play,4,0,mccab002,32,CBFBBX,S8/L
 play,4,0,freef001,21,BFBX,E3/TH2/FO/G.1-3;B-2
-com,"$Adam Dunn's throw glanced off Brian McCann's helmet into LF"
 play,4,0,gonza002,32,FBTBBX,4/P
 play,4,0,cabrm002,00,X,7/L
 play,4,1,rodri001,32,FFBBFFBS,K
@@ -12743,9 +12585,6 @@ play,7,1,rodri001,22,.BFFBX,9/F
 play,7,1,gonza005,12,BFFS,K
 play,7,1,harrw001,00,,NP
 sub,romej001,"J.C. Romero",0,9,1
-com,"ej,riggj801,M,cedeg901,Balls and strikes"
-com,"Nationals Manager Jim Riggleman ejected by HP umpire Gary Cederstrom"
-com,"for arguing balls and strikes"
 play,7,1,harrw001,22,.CCBBS,K
 play,8,0,howar001,00,X,43/G
 play,8,0,franb001,11,.BCX,S8/G

@@ -240,7 +240,6 @@ play,4,0,moram002,00,,NP
 sub,branr001,"Russ Branyan",1,2,5
 play,4,0,moram002,00,,NP
 sub,holld002,"Damon Hollins",1,3,9
-com,"Huff and Green collided chasing foul pop; Huff injured knee"
 play,4,0,moram002,22,BBF..CFX,5/L
 play,4,1,holld002,12,FSBX,13/G
 play,4,1,gomej001,00,X,63/G
@@ -426,10 +425,6 @@ play,6,1,gathj001,00,,NP
 sub,halaj001,"John Halama",0,0,1
 play,6,1,gathj001,22,.CBFBX,13/G
 play,6,1,crawc002,12,BCCX,13/G
-com,"ej,crawc002,P,darlg901,Throwing hat on field after making an out"
-com,"$Devil Rays center fielder Carl Crawford was mad that he made an out; when he"
-com,"returned to the dugout, he threw his helmet and hat; the hat landed on the field"
-com,"and he was ejected by 3B umpire Gary Darling"
 play,6,1,branr001,12,SCBC,K
 play,7,0,hernr002,00,,NP
 sub,holld002,"Damon Hollins",1,1,7
@@ -1816,7 +1811,6 @@ play,8,1,gathj001,22,SBBCX,64(1)/FO/G
 play,8,1,crawc002,32,BBCF>FF11FBB,W.1-2
 play,8,1,gomej001,00,,NP
 sub,cordf002,"Francisco Cordero",0,0,1
-com,"Rangers pitcher Antonio Alfonseca left the game due to an injured foot/ankle"
 play,8,1,gomej001,22,..*BBCFS,K
 play,8,1,wiggt001,21,CBBX,S7/G.2-H;1-3
 play,8,1,hallt001,01,CX,3/G
@@ -1978,8 +1972,6 @@ play,9,0,cairm001,02,CSFFS,K
 play,9,1,wiggt001,22,BCBFS,K
 play,9,1,hallt001,01,FX,7/F
 play,9,1,lee-t002,22,SSBBX,S7/G
-com,"originally scored S7, changed after game to E5,"
-com,"changed back to S7 next day"
 play,9,1,holld002,00,X,4/P
 play,10,0,damoj001,20,BBX,DGR/9/L
 play,10,0,jeted001,30,BBBB,W
@@ -2273,11 +2265,7 @@ play,4,1,gomej001,00,X,D9/L
 play,4,1,huffa001,11,CBX,4/L
 play,4,1,wiggt001,00,X,63/G
 play,4,1,lee-t002,22,BCCBX,23/G
-com,"ej,gibbj001,M,welkb901,Balls and strikes"
-com,"Blue Jays Manager John Gibbons ejected by HP umpire Bill Welke"
 play,5,0,riosa002,32,BCBBC.T,K
-com,"ej,branm001,C,welkb901,Balls and strikes"
-com,"Blue Jays Batting Coach Mickey Brantley ejected by HP umpire Bill Welke"
 play,5,0,cataf001,31,.BBBCX,31/G
 play,5,0,wellv001,22,BCFBS,K
 play,5,1,holld002,32,FBBCBS,K
@@ -2292,9 +2280,6 @@ play,6,0,overl001,22,CBSBX,S7/L-
 play,6,0,hills002,10,BX,9/F
 play,6,0,zaung001,22,BFBFX,63/G
 play,6,1,gomej001,00,X,6/P
-com,"$the ball landed on a catwalk that supports the roof; Gomes"
-com,"ran as if he had a home run but McDonald waited for the ball"
-com,"to roll off and caught it"
 play,6,1,huffa001,31,BBFBB,W
 play,6,1,wiggt001,22,FFBFFBX,64(1)3/GDP
 play,7,0,hilla001,10,BX,63/G
@@ -3173,8 +3158,6 @@ play,6,0,helmw001,10,BX,S9/L.B-2(E9)
 play,6,0,jacom001,02,FFFC,K
 play,6,0,borcj001,21,BFBX,7/F
 play,6,1,gomej001,01,CX,E6/TH1
-com,"ej,giraj001,M,mealj901,Play at 1B"
-com,"Marlins Manager Joe Girardi ejected by HP umpire Jerry Meals"
 play,6,1,huffa001,31,.1BBBC>X,43/G.1-2
 play,6,1,wiggt001,12,FFF*B>B,SB3
 play,6,1,wiggt001,22,FFF*B>B.X,63/G
@@ -4068,9 +4051,6 @@ play,5,0,cabro001,00,X,6/P
 play,5,0,guerv001,22,FFBBX,S7/L
 play,5,0,andeg001,12,FFBX,5/L-
 play,5,1,peret003,01,SX,43/BG
-com,"ej,maddj801,M,schrp901,Check swing"
-com,"Devil Rays Manager Joe Maddon ejected by HP umpire Paul Schrieber"
-com,"for arguing the check swing call by 3B umpire Doug Eddings"
 play,5,1,gathj001,22,BSM.BX,53/G
 play,5,1,lugoj001,01,CX,63/G+
 play,6,0,morak001,22,FBFBX,43/G
@@ -4564,7 +4544,6 @@ sub,peret003,"Tomas Perez",1,5,5
 play,9,0,hudso001,12,.BCCS,K
 play,9,0,counc001,00,,NP
 sub,meadb001,"Brian Meadows",1,0,1
-com,"Devil Rays pitcher Ruddy Lugo left the game due to an injured arm"
 play,9,0,counc001,12,CFBF..X,9/F
 play,9,0,byrne001,21,BBFX,HR/78/F
 play,9,0,gonzl001,22,BCBSFFX,8/F
@@ -4670,8 +4649,6 @@ play,5,0,byrne001,20,BBX,D8/L.3-H
 play,5,0,grees001,22,BCBFX,43/G
 play,5,1,cantj001,01,FX,63/G
 play,5,1,huffa001,12,FCBX,D8/L
-com,"ej,melvb001,M,herna901,Balls and strikes"
-com,"Diamondbacks Manager Bob Melvin ejected by HP umpire Angel Hernandez"
 play,5,1,branr001,00,.X,43/G.2-3
 play,5,1,gomej001,00,X,53/G
 play,6,0,tracc001,22,BFFBS,K
@@ -4931,7 +4908,6 @@ play,2,1,hallt001,12,BFFX,43/G
 play,2,1,holld002,12,SSBX,S3/G
 play,2,1,lugoj001,00,,NP
 sub,villo001,"Oscar Villarreal",0,0,1
-com,"Braves pitcher John Smoltz left the game due to an injured groin"
 play,2,1,lugoj001,32,.B1BBC>F>B,W.1-2
 play,2,1,crawc002,00,X,3/G
 play,3,0,gilem001,20,BBX,63/G
@@ -5301,8 +5277,6 @@ play,7,1,huffa001,01,FX,6/P
 play,7,1,gomej001,00,X,3/P
 play,7,1,wiggt001,32,CBBFBX,D7/L
 play,7,1,holld002,00,X,E6/P.2-H(UR);B-3(E6/TH)
-com,"originally scored double and E6, changed next day"
-com,"to two errors and unearned run"
 play,7,1,paulj001,00,,NP
 sub,baldr001,"Rocco Baldelli",1,8,11
 play,7,1,baldr001,02,.CSS,K
@@ -5692,8 +5666,6 @@ play,3,0,lorem001,22,CBFBX,53/G.1-2
 play,3,0,ortid001,02,FFS,K
 play,3,1,cantj001,11,BCX,S7/G
 play,3,1,gomej001,12,CF1F*BC,K
-com,"ej,gomej001,P,gibsg901,Called third strike"
-com,"Devil Rays designated hitter Jonny Gomes ejected by HP umpire Greg Gibson"
 play,3,1,branr001,31,.F1BBBB,W.1-2
 play,3,1,wiggt001,32,BFBBF>F>B,W.2-3;1-2
 play,3,1,paulj001,02,CFS,K
@@ -6435,7 +6407,6 @@ play,1,1,crawc002,10,BX,HR/9/F.1-H
 play,1,1,baldr001,12,BLFFFX,S8/L
 play,1,1,wiggt001,22,1CBC*B*B,WP.1-2
 play,1,1,wiggt001,32,1CBC*B*B.X,DGR/7/F.2-H
-com,"fan interference"
 play,1,1,nortg001,32,BFBBF*B,W
 play,1,1,cantj001,32,BBFCFFBX,D7/G.2-H;1-3
 play,1,1,lee-t002,00,,NP
@@ -7240,7 +7211,6 @@ sub,harvc001,"Chad Harville",1,0,1
 play,2,0,cabro001,10,.BX,54(1)/FO/G
 play,2,1,gomej001,00,,NP
 sub,gregk001,"Kevin Gregg",0,0,1
-com,"Angels pitcher Bartolo Colon left the game due to an injured elbow"
 play,2,1,gomej001,22,.BBFFS,K23
 play,2,1,navad001,32,BCCFFBFBX,S8/L
 play,2,1,lugoj001,32,BBCBCX,7/F
@@ -7274,7 +7244,6 @@ play,5,0,salmt001,10,BX,14(1)3/GDP
 play,5,1,baldr001,22,BBFFS,K
 play,5,1,wiggt001,00,,NP
 sub,carrh001,"Hector Carrasco",0,0,1
-com,"Angels pitcher Kevin Gregg left the game due to an injured knee"
 play,5,1,wiggt001,00,.X,S7/F
 play,5,1,lee-t002,00,X,46(1)3/GDP
 play,6,0,kendh001,01,CX,HR/89/F
@@ -7602,7 +7571,6 @@ play,6,1,zobrb001,22,BCBSX,6/L
 play,6,1,baldr001,00,H,HP
 play,6,1,crawc002,00,,NP
 sub,holld002,"Damon Hollins",1,1,12
-com,"Devil Rays center fielder Rocco Baldelli left the game due to an injured arm"
 play,6,1,crawc002,01,.CX,5/P
 play,7,0,ingeb001,00,,NP
 sub,holld002,"Damon Hollins",1,1,8
@@ -8021,7 +7989,6 @@ play,2,1,uptob001,01,FX,43/G
 play,2,1,peret003,01,CX,9/F
 play,3,0,mirad001,00,,NP
 sub,lopej001,"Javy Lopez",0,8,11
-com,"Red Sox catcher Doug Mirabelli left the game due to an injured foot/ankle"
 play,3,0,lopej001,32,.CBFBBT,K
 play,3,0,gonza002,02,FFX,8/F
 play,3,0,crisc001,31,CBBBX,S9/L
@@ -9256,7 +9223,6 @@ play,3,0,choos001,31,BBFBX,S8/L
 play,3,0,peraj001,01,C1X,S7/G.1-2
 play,3,0,shopk001,00,,NP
 sub,orvec001,"Chad Orvella",1,0,1
-com,"Devil Rays pitcher Jae Seo left the game due to an injured groin"
 play,3,0,shopk001,12,BCF.S,K
 play,3,0,gutif001,22,BSBFFX,64(1)/FO/G
 play,3,1,baldr001,20,BBX,S5/G
@@ -10617,8 +10583,6 @@ play,7,0,castl001,11,.BCX,63/G
 play,7,0,puntn001,12,BFFC,K
 play,7,0,mauej001,31,BBBCB,W
 play,7,0,cuddm001,10,BX,D8/F.1-H
-com,"ej,gardr001,M,tscht901,In play/homer call"
-com,"Twins Manager Ron Gardenhire ejected by 3B umpire Tim Tschida"
 play,7,0,mornj001,31,.BSBBX,T7/F.2-H
 play,7,0,huntt001,00,X,E9/F.3-H(UR)(NR);B-2
 play,7,0,whitr001,12,BFSB,WP.2-3
@@ -11556,8 +11520,6 @@ play,4,1,zobrb001,12,CBS+1,PO1(23)
 play,5,0,robeb003,11,BCX,S8/G
 play,5,0,moram002,00,1N,BK.1-2
 play,5,0,moram002,30,1N.BBBB,W
-com,"ej,butcm001,C,holbs901,Balls and strikes"
-com,"Devil Rays Pitching Coach Mike Butcher ejected by HP umpire Sam Holbrook"
 play,5,0,markn001,31,.BBBCX,S8/G.2-H;1-2
 play,5,0,tejam001,22,BCFBFX,4/P.2-3(TH);1-2
 play,5,0,gibbj002,00,X,S7/G.3-H;2-3
@@ -12304,10 +12266,6 @@ play,1,0,abreb001,21,BCBX,HR/8/F.2-H;1-H
 play,1,0,rodra001,32,CBBSBB,W
 play,1,0,shefg001,12,CF*BX,8/F
 play,1,0,canor001,11,FB>X,S5/G.1-2
-com,"ej,maddj801,M,marqa901,Balls and strikes"
-com,"ej,butcm001,C,marqa901,Balls and strikes"
-com,"Devil Rays Mgr Joe Maddon & pitching coach Mike Butcher ejected"
-com,"by HP umpire Alfonso Marquez"
 play,1,0,matsh001,32,CSBFFBFFB>F..>F>F>F>X,HR/9/F.2-H;1-H
 play,1,0,posaj001,11,BCX,S5/G
 play,1,0,cabrm002,11,BFX,5/P5F

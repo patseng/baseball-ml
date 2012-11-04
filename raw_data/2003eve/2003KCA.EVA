@@ -62,7 +62,6 @@ play,2,1,harvk001,12,SFBX,D7/L.1-3
 play,2,1,berra001,00,X,S9/L-.3-H;2-3
 play,2,1,maynb001,21,BCB1X,8/SF.3-H
 play,2,1,feblc001,11,11FBX,D8/F.1XH(842)
-com,"rounded base too far"
 play,2,1,tuckm001,10,BX,8/F
 play,3,0,aloms001,31,SBBBX,63/G
 play,3,0,jimed001,10,BX,63/G
@@ -124,7 +123,6 @@ sub,johnr007,"Rontrez Johnson",1,5,8
 play,9,0,valej003,00,,NP
 sub,macdm001,"Mike MacDougal",1,0,1
 play,9,0,valej003,22,...CBFBX,9/L
-com,"Debut game for Rontrez Johnson"
 play,9,0,thomf001,12,CBFC,K
 play,9,0,ordom001,00,X,6!3/G
 data,er,buehm001,2
@@ -273,7 +271,6 @@ sub,daubb001,"Brian Daubach",0,9,11
 play,8,0,daubb001,00,,NP
 sub,carrd001,"Dan Carrasco",1,0,1
 play,8,0,daubb001,00,..X,7/F
-com,"Debut game for Dan Carrasco"
 play,8,1,harvk001,00,,NP
 sub,riosa001,"Armando Rios",0,8,8
 play,8,1,harvk001,00,,NP
@@ -565,7 +562,6 @@ play,4,0,spens001,21,BBFX,53/G
 play,4,1,tuckm001,00,,NP
 sub,trabb001,"Billy Traber",0,0,1
 play,4,1,tuckm001,31,.BBCBB,W
-com,"Debut game for Billy Traber"
 play,4,1,randj002,22,CBBCX,7/F
 play,4,1,sweem002,00,X,9/F
 play,4,1,ibanr001,10,1BB,PB.1-2
@@ -727,7 +723,6 @@ play,7,1,feblc001,02,LCX,S9/L.1-2
 play,7,1,tuckm001,32,BBFFBX,8/F
 play,7,1,relad001,00,,NP
 sub,santj002,"Jose Santiago",0,0,1
-com,"Indians C. Sabathia left the game due to an injured arm"
 play,7,1,relad001,00,..X,S4/G.2-3;1-2
 play,7,1,sweem002,22,BCFBX,53/G
 play,8,0,selbb001,00,,NP
@@ -981,7 +976,6 @@ start,relad001,"Desi Relaford",1,7,4
 start,berra001,"Angel Berroa (Selmo)",1,8,6
 start,difem001,"Mike Difelice",1,9,2
 start,affej001,"Jeremy Affeldt",1,0,1
-com,"14 minute delay sometime in game"
 play,1,0,higgb001,10,BX,8/F
 play,1,0,santr002,10,BX,8/F
 play,1,0,penac001,31,SBBBX,3/L
@@ -1197,7 +1191,6 @@ sub,macdm001,"Mike MacDougal",1,0,1
 play,9,0,infao001,32,.BBCBCX,E1/TH/G
 play,9,0,walbm001,00,,NP
 sub,lopem001,"Mendy Lopez",1,6,3
-com,"Royals Ken Harvey left the game due to an injured knee"
 play,9,0,walbm001,10,..BX,34/SH/BG.1-2
 play,9,0,santr002,30,BBBB,W
 play,9,0,higgb001,32,BFBBFFX,4/LDP.2X2(46)
@@ -1871,7 +1864,6 @@ play,6,1,relad001,22,.1CBBF>X,D9/L.1-H
 play,6,1,browd002,22,SBFBX,53/G
 play,7,0,hills002,00,,NP
 sub,lopem001,"Mendy Lopez",1,4,3
-com,"Royals Mike Sweeney left the game due to an injured leg"
 play,7,0,hills002,12,.BCCX,D7/L
 play,7,0,muelb001,10,BX,53/G.2-3
 play,7,0,giamj002,32,C*BSBBFB,W
@@ -2637,7 +2629,6 @@ play,5,1,relad001,00,X,54(1)/FO/G
 play,6,0,hudso001,00,,NP
 sub,gilfj001,"Jason Gilfillan",1,0,1
 play,6,0,hudso001,10,.BX,S7/L
-com,"Debut game for Jason Gilfillan"
 play,6,0,woodc001,01,CX,S8/L.1-2
 play,6,0,stews002,12,BCFX,S3/G.2-3;1-2
 play,6,0,bordm001,12,CSBFFFFS,K
@@ -2670,8 +2661,6 @@ play,8,0,wellv001,01,FX,D7/L
 play,8,0,delgc001,00,X,S9/L.2-3
 play,8,0,wilst003,10,B,NP
 sub,lowes001,"Sean Lowe",1,0,1
-com,"Royals Albie Lopez left the game due to an injured leg"
-com,"On 5-17 onto 15-day DL for groin pull"
 play,8,0,wilst003,22,.B.CFBX,S9/L.3-H;1-2
 play,8,0,phelj001,22,BSCBB,WP.2-3;1-2
 play,8,0,phelj001,32,BSCBB.B,W
@@ -3996,7 +3985,6 @@ start,harvk001,"Ken Harvey",1,7,3
 start,maynb001,"Brent Mayne",1,8,2
 start,berra001,"Angel Berroa (Selmo)",1,9,6
 start,snydk001,"Kyle Snyder",1,0,1
-com,"1:45 delay during game"
 play,1,0,womat001,11,CBX,9/F
 play,1,0,cinta001,11,CBX,8/F
 play,1,0,spivj001,12,CBCX,S7/G
@@ -4076,7 +4064,6 @@ play,8,0,baerc001,01,CX,53/G
 play,8,0,bautd001,01,CX,43/G
 play,8,1,harvk001,00,,NP
 sub,servs001,"Scott Service",0,0,1
-com,"Royals Kyle Snyder left the game due to an injured back"
 play,8,1,harvk001,12,..CBCS,K
 play,8,1,maynb001,02,CFX,S7/L-
 play,8,1,berra001,01,CX,4/P
@@ -4517,7 +4504,6 @@ play,6,0,alfoe001,12,CBFS,K
 play,6,0,benam001,22,CBBFX,4/P
 play,6,0,grism001,00,,NP
 sub,aberb001,"Brent Abernathy",1,6,4
-com,"Royals Mendy Lopez left the game due to an injured leg"
 play,6,0,grism001,00,..X,63/G
 play,6,1,relad001,31,BBCBB,W
 play,6,1,randj002,01,CX,8/F
@@ -4718,7 +4704,6 @@ play,8,0,aurir001,10,BX,8/F
 play,8,1,beltc001,30,.BBBB,W
 play,8,1,harvk001,00,,NP
 sub,rodrf002,"Felix Rodriguez",0,0,1
-com,"Giants Ray Durham left the game due to an injured leg"
 play,8,1,harvk001,12,.1BS1S11X,54(1)/FO/G
 play,8,1,maynb001,00,1,PO1(13)
 play,8,1,maynb001,10,1.BX,43/G
@@ -5032,9 +5017,6 @@ play,6,1,feblc001,00,X,S1/BG.3-H;1-2
 play,6,1,guiea001,00,H,HP.2-3;1-2
 play,6,1,randj002,00,,NP
 sub,nakam001,"Micheal Nakamura",0,0,1
-com,"ej,romej001,P,poncl901,Intentional HBP"
-com,"ej,gardr001,M,poncl901,Intentional HBP"
-com,"Twins pitcher J. C. Romero and Manager Ron Gardenhire ejected by HP umpire Larry Poncino"
 play,6,1,randj002,22,...SBFBH,HP.3-H;2-3;1-2
 play,6,1,sweem002,01,CX,D8/F.3-H;2-H;1-H(NR)(E8);B-3
 play,6,1,beltc001,12,FBFS,K
@@ -5189,7 +5171,6 @@ play,4,1,guiea001,02,CCFX,2/P2F
 play,4,1,beltc001,20,BBX,S8/L+.2-H
 play,4,1,ibanr001,00,,NP
 sub,rincj001,"Juan Rincon",0,0,1
-com,"Royals Mike Sweeney left the game due to an injured back"
 play,4,1,ibanr001,21,..CB1B1X,43/G
 play,5,0,koskc001,32,CBCBBX,S7/L
 play,5,0,mornj001,00,X,S9/G.1-3
@@ -5799,7 +5780,6 @@ play,2,0,drewj001,00,X,36(1)/FO/G.3-H;2-3
 play,2,0,hartb001,11,FBX,D7/G.3-H;1-3
 play,2,0,edmoj001,00,,NP
 sub,robik002,"Kerry Robinson",0,9,12
-com,"Cardinals J. D. Drew left the game due to an injured leg"
 play,2,0,edmoj001,21,..BBFX,31/G.3-H;2-3
 play,2,0,pujoa001,00,X,S9/G.3-H
 play,2,0,roles001,22,BCC*BX,E5/G.1-2
@@ -5812,12 +5792,10 @@ play,2,1,guiea001,11,C*BX,3/G.2-3
 play,2,1,berra001,01,CX,53/G
 play,3,0,rente001,00,,NP
 sub,burkm001,"Morgan Burkhart",1,5,3
-com,"Royals Ken Harvey left the game due to an injured neck/shoulder"
 play,3,0,rente001,00,..X,D7/L
 play,3,0,martt002,11,BFX,5/P
 play,3,0,giraj001,00,,NP
 sub,mathm001,"Mike Matheny",0,8,11
-com,"Cardinals Joe Girardi left the game due to an injured back"
 play,3,0,mathm001,01,..F>X,S6/G.2XH(62)
 play,3,0,robik002,11,LBX,S7/L.1-2
 play,3,0,hartb001,10,BX,9/F
@@ -5877,11 +5855,9 @@ play,8,0,hartb001,10,BX,8/F
 play,8,1,feblc001,00,,NP
 sub,jourj001,"Jimmy Journell",0,0,1
 play,8,1,feblc001,30,.BBBB,W
-com,"Debut game for Jimmy Journell"
 play,8,1,beltc001,32,BCCBBC,K
 play,8,1,ibanr001,20,BBX,S8/G.1-2
 play,8,1,burkm001,01,FX,4/P
-com,"Infield Fly rule"
 play,8,1,tuckm001,00,X,S9/G.2-H;1-3
 play,8,1,guiea001,21,BBCX,S8/G-.3-H;1-3
 play,8,1,berra001,32,BCCFBB>B,W.1-2
@@ -6122,7 +6098,6 @@ start,burkm001,"Morgan Burkhart",1,7,10
 start,difem001,"Mike DiFelice",1,8,2
 start,feblc001,"Carlos Febles",1,9,4
 start,snydk001,"Kyle Snyder",1,0,1
-com,"50 minute delay during game"
 play,1,0,crisc001,21,BCBX,S9/L
 play,1,0,lawtm002,01,CX,HR/8/F.1-H
 play,1,0,bradm001,22,FFBBFC,K
@@ -6425,7 +6400,6 @@ play,1,0,bradm001,32,CBCBBFC,K
 play,1,1,tuckm001,32,BCBFBC,K
 play,1,1,randj002,00,,NP
 sub,relad001,"Desi Relaford",1,2,11
-com,"Royals Joe Randa left the game due to an injured chest"
 play,1,1,relad001,00,.X,S8/G
 play,1,1,beltc001,00,1X,S7/L.1-2
 play,1,1,harvk001,00,X,S8/F.2-3;1-2
@@ -6701,7 +6675,6 @@ play,1,0,monrc001,01,SX,D9/L.3-H;1-H;B-3(THH)
 play,1,0,munse001,22,C*BF*BS,K
 play,1,0,halts001,10,BX,S9/F.3-H
 play,1,0,rossc001,10,BX,64(1)/FO/G
-com,"Debut game for Cody Ross"
 play,1,1,tuckm001,32,FCBBFFBFX,S9/L+
 play,1,1,relad001,01,F11X,S7/L.1-2
 play,1,1,beltc001,22,LCBBF2X,3/G.2-3;1-2
@@ -6756,7 +6729,6 @@ play,6,0,hinca001,10,BX,4/P
 play,6,0,santr002,32,BBFFB>F>X,S7/L.1-2
 play,6,0,torra001,00,,NP
 sub,sanca003,"Alex Sanchez",0,7,12
-com,"Tigers Cody Ross left the game due to an injured leg"
 play,6,0,torra001,12,..CBCS,K
 play,6,0,morrw001,01,CX,6(1)/FO/G
 play,6,1,feblc001,00,,NP
@@ -6796,8 +6768,6 @@ play,8,1,ibanr001,01,CX,7/F
 play,9,0,torra001,22,CBFBS,K
 play,9,0,morrw001,01,CX,S9/L
 play,9,0,yound001,02,CFC,K
-com,"ej,yound001,P,herna901,Called third strike"
-com,"Tigers Dmitri Young ejected by HP umpire Angel Hernandez"
 play,9,0,monrc001,00,.>B,DI.1-2
 play,9,0,monrc001,10,.>B.X,HR/8/F.2-H
 play,9,0,munse001,01,CX,HR/8/F
@@ -6917,11 +6887,6 @@ play,5,1,harvk001,11,BSX,43/G
 play,6,0,sanca003,00,X,S2/BG
 play,6,0,morrw001,00,,NP
 sub,maynb001,"Brent Mayne",1,7,2
-com,"ej,difem001,P,marsr901,Fair/foul call"
-com,"$Royals Mike DiFelice watched the bunt roll along the line;"
-com,"just before it stopped, DiFelice knocked it into foul"
-com,"territory; HP umpire Randy Marsh called it fair and DiFelice"
-com,"yelled at Marsh and was ejected"
 play,6,0,morrw001,00,..11>B,CS2(26)
 play,6,0,morrw001,11,..11>B.CX,8/F
 play,6,0,yound001,02,SFX,9/F
@@ -7213,8 +7178,6 @@ play,6,0,bloow001,02,CCX,64(1)/FO/G.2-3
 play,6,0,wilsd001,10,BX,S9/L.3-H;1-2
 play,6,0,suzui001,00,,NP
 sub,pattj003,"Jarrod Patterson",1,5,3
-com,"ej,harvk001,P,emmep901,Call at 1B"
-com,"Royals Ken Harvey ejected by 1B umpire Paul Emmel"
 play,6,0,suzui001,21,..BCBX,4(1)/FO/G
 play,6,1,ibanr001,31,BFBBB,W
 play,6,1,pattj003,20,B1BX,S9/L.1-3
@@ -7225,7 +7188,6 @@ play,6,1,berra001,12,.CBFX,S6/G.3-H;2-3
 play,6,1,maynb001,00,X,S8/G.3-H;1-3
 play,6,1,feblc001,00,B,WP.3-H;1-2
 play,6,1,feblc001,10,B.H,HP
-com,"Royals Jose Lima left the game due to an injured groin"
 play,6,1,guiea001,10,.BX,8/F
 play,6,1,matoj001,22,CBBFFX,9/F
 play,6,1,beltc001,02,FFS,K
@@ -7251,9 +7213,6 @@ play,8,1,maynb001,00,.X,3/G
 play,8,1,feblc001,12,CBFH,HP
 play,8,1,guiea001,00,,NP
 sub,matej001,"Julio Mateo",0,0,1
-com,"ej,sorir001,P,westj901,Intentional HBP"
-com,"ej,melvb001,M,westj901,Intentional HBP"
-com,"Mariners pitcher Rafael Soriano and Manager Bob Melvin ejected by HP umpire Joe West"
 play,8,1,guiea001,32,...CFBBFFBFFX,S7/L.1-3
 play,8,1,matoj001,00,X,3/P3F
 play,8,1,beltc001,12,SFBX,7/F
@@ -7320,8 +7279,6 @@ play,1,0,camem001,12,CBSX,7/F
 play,1,0,boonb002,12,CCFBFS,K
 play,1,1,guiea001,00,,NP
 sub,mclem001,"Mark McLemore",0,3,4
-com,"ej,boonb002,P,emmep901,Balls and strikes (threw equipment)"
-com,"Mariners second baseman Bret Boone ejected by HP umpire Paul Emmel"
 play,1,1,guiea001,22,..CBFBS,K
 play,1,1,feblc001,32,BBCFBX,S7/L
 play,1,1,beltc001,01,111C11N,BK.1-2
@@ -7714,9 +7671,6 @@ sub,grimj001,"Jason Grimsley",1,0,1
 play,10,0,suzui001,02,.CFFFH,HP.2-3;1-2
 play,10,0,cirij001,00,,NP
 sub,wilsk001,"Kris Wilson",1,0,1
-com,"ej,grimj001,P,drakr901,Intentional HBP"
-com,"ej,penat001,M,drakr901,Intentional HBP"
-com,"Royals pitcher Jason Grimsley and Manager Tony Pena ejected by HP umpire Rob Drake"
 play,10,0,cirij001,22,...FCBFBFX,3/P3F
 play,10,0,camem001,22,CBCBC,K
 play,10,1,guiea001,02,CSC,K
@@ -7781,7 +7735,6 @@ start,maynb001,"Brent Mayne",1,8,2
 start,feblc001,"Carlos Febles",1,9,4
 start,snydk001,"Kyle Snyder",1,0,1
 play,1,0,longt002,12,CFBX,8/F
-com,"Debut game for Rich Harden"
 play,1,0,byrne001,01,CX,13/G
 play,1,0,durae001,22,CFFBBX,3/G
 play,1,1,guiea001,10,BX,63/G
@@ -7857,8 +7810,6 @@ play,9,0,hernr002,00,,NP
 sub,grimj001,"Jason Grimsley",1,0,1
 play,9,0,hernr002,32,.BCBBCFB,W.3-H;2-3;1-2
 play,9,0,hatts001,32,BCBBCFFB,W.3-H;2-3;1-2
-com,"ej,penat001,M,cousd901,Balls and strikes"
-com,"Royals Manager Tony Pena ejected by HP umpire Derryl Cousins"
 play,9,0,mccad001,00,,NP
 sub,fieln001,"Nate Field",1,0,1
 play,9,0,mccad001,00,,NP
@@ -7940,7 +7891,6 @@ play,1,0,chave001,11,BC1X,S9/G.1-3;BX1(963)
 play,1,0,hernr002,32,BBFFBC,K
 play,1,1,guiea001,00,,NP
 sub,piata001,"Adam Piatt",0,2,7
-com,"Athletics Billy McMillon left the game due to an injured head"
 play,1,1,guiea001,22,.CBBSX,43/G
 play,1,1,relad001,02,CFS,K
 play,1,1,beltc001,22,BCBSX,3/P3F
@@ -8628,16 +8578,13 @@ play,2,1,feblc001,11,CBX,S8/G
 play,2,1,relad001,02,C1CX,S9/G.1-2
 play,2,1,randj002,00,,NP
 sub,gaudc001,"Chad Gaudin",0,0,1
-com,"Devil Rays Joe Kennedy left the game due to an injured back"
 play,2,1,randj002,32,.LBBBF2>X,7/F
-com,"Debut game for Chad Gaudin"
 play,2,1,beltc001,02,FFX,S8/L-.2-3;1-2
 play,2,1,ibanr001,31,CB*BBB,W.3-H;2-3;1-2
 play,2,1,harvk001,32,CSFBBFBC,K
 play,2,1,berra001,00,X,31/G
 play,3,0,baldr001,00,,NP
 sub,wilsk001,"Kris Wilson",1,0,1
-com,"Royals Jose Lima left the game due to an injured groin"
 play,3,0,baldr001,20,.BBX,53/G
 play,3,0,lee-t002,01,CX,S8/L
 play,3,0,rolld001,11,BFX,S7/G+.1-2
@@ -8819,7 +8766,6 @@ play,4,1,browd002,22,FS*BBX,S8/L.3-H;2-3;1-2
 play,4,1,guiea001,00,,NP
 sub,switj001,"Jon Switzer",0,0,1
 play,4,1,guiea001,11,.BSX,7/SF.3-H
-com,"Debut game for Jon Switzer"
 play,4,1,randj002,00,B,PB.2-3;1-2
 play,4,1,randj002,22,B.CFBX,43/G
 play,5,0,rolld001,31,BCBBX,7/F
@@ -8947,7 +8893,6 @@ start,tuckm001,"Michael Tucker",1,8,8
 start,maynb001,"Brent Mayne",1,9,2
 start,gobbj001,"Jimmy Gobble",1,0,1
 play,1,0,crawc002,01,CX,S7/L
-com,"Debut game for Jimmy Gobble"
 play,1,0,perea001,10,BX,13/SH/BG.1-2
 play,1,0,baldr001,00,>C,SB3
 play,1,0,baldr001,12,>C.FBFX,53/G
@@ -9074,7 +9019,6 @@ start,difem001,"Mike DiFelice",1,7,2
 start,matoj001,"Julius Matos",1,8,4
 start,browd002,"Dee Brown",1,9,7
 start,abbop001,"Paul Abbott",1,0,1
-com,"$19 doubles in game; new AL record"
 play,1,0,soria001,01,CX,D7/G
 play,1,0,johnn001,00,X,13/SH/BG.2-3
 play,1,0,jeted001,22,SBCBX,FC5/G.3XH(526);B-2
@@ -9283,7 +9227,6 @@ play,5,1,matoj001,22,BCBFFX,S4/G
 play,5,1,browd002,01,CX,9/F
 play,5,1,guiea001,32,CF1BBB>F>B,W.1-2
 play,5,1,berra001,11,BFX,3/P
-com,"Infield Fly rule"
 play,5,1,ibanr001,02,CFS,K
 play,6,0,posaj001,10,BX,HR/8/F
 play,6,0,matsh001,01,CX,9/L
@@ -9680,9 +9623,6 @@ play,1,0,huntt001,32,BCBSB>F>F>X,S9/L.2-H;1-2
 play,1,0,piera001,22,BFBFX,D6/P.2-H;1-H;B-3(THH)
 play,1,0,mohrd001,00,,NP
 sub,maynb001,"Brent Mayne",1,9,2
-com,"ej,difem001,P,laynj901,Call at HP"
-com,"Royals catcher Mike DiFelice ejected by HP umpire Jerry Layne;"
-com,"Hunter scored on very close play and DiFelice argued"
 play,1,0,mohrd001,12,..SBFX,8/F
 play,1,1,guiea001,11,CBX,D9/L
 play,1,1,berra001,11,BFX,63/G
@@ -9871,7 +9811,6 @@ play,3,1,ibanr001,00,X,HR/9/F.1-H
 play,3,1,randj002,11,FBX,HR/78/F
 play,3,1,relad001,00,X,43/G
 play,3,1,harvk001,30,BBBX,S5/G
-com,"Twins Doug Mientkiewicz hit Harvey's helmet, hurt hand"
 play,3,1,maynb001,00,,NP
 sub,lecrm001,"Matthew LeCroy",0,3,3
 play,3,1,maynb001,02,..FS>X,4/P
@@ -10128,7 +10067,6 @@ start,relad001,"Desi Relaford",1,7,4
 start,berra001,"Angel Berroa",1,8,6
 start,maynb001,"Brent Mayne",1,9,2
 start,may-d002,"Darrell May",1,0,1
-com,"26 minute delay duering game"
 play,1,0,younm003,21,CBBX,S8/L
 play,1,0,sadld001,01,CX,13/SH/BG.1-2
 play,1,0,rodra001,12,FFBX,53/G
@@ -10274,7 +10212,6 @@ start,berra001,"Angel Berroa",1,7,6
 start,difem001,"Mike DiFelice",1,8,2
 start,lopem001,"Mendy Lopez",1,9,4
 start,abbop001,"Paul Abbott",1,0,1
-com,"1:42 delay during game"
 play,1,0,younm003,10,BX,53/G
 play,1,0,blalh001,02,CCS,K
 play,1,0,rodra001,32,BBFFBB,W
@@ -11289,7 +11226,6 @@ start,berra001,"Angel Berroa",1,7,6
 start,relad001,"Desi Relaford",1,8,4
 start,maynb001,"Brent Mayne",1,9,2
 start,may-d002,"Darrell May",1,0,1
-com,"2:38 delay during game"
 play,1,0,geruj001,12,CCBFX,7/F
 play,1,0,blakc001,00,X,8/F
 play,1,0,broub001,11,BCX,S8/L
@@ -11524,7 +11460,6 @@ play,6,1,randj002,11,CBX,S7/L.1-2
 play,6,1,guiea001,00,,NP
 sub,spurc001,"Chris Spurling",0,0,1
 play,6,1,guiea001,12,.CFBFX,6/P
-com,"Infield Fly rule"
 play,6,1,whitr001,00,X,D7/L.2-H;1-H
 play,6,1,relad001,32,BBFFFBB,W
 play,6,1,maynb001,12,FFFFBX,S5/G.2-3;1-2
@@ -11657,7 +11592,6 @@ play,2,1,berra001,21,BMBX,54(1)/FO/G
 play,3,0,monrc001,22,CBFFBX,S7/L
 play,3,0,yound001,32,F1BBSB>B,W.1-2
 play,3,0,penac001,00,X,4/P
-com,"Infield Fly rule"
 play,3,0,hinca001,00,X,9/F.2-3
 play,3,0,infao001,01,SX,S7/G.3-H;1-2
 play,3,0,torra001,12,BCSS,K

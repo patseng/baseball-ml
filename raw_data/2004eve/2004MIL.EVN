@@ -554,7 +554,6 @@ play,6,0,finls001,02,FSFFS,K
 play,6,0,alomr001,12,CBSH,HP
 play,6,0,gonzl001,00,,NP
 sub,katam001,"Matt Kata",0,2,12
-com,"Alomar suffered broken hand - out 6-8 weeks"
 play,6,0,gonzl001,01,.CX,DGR/9/F.1-3
 play,6,0,sexsr001,21,BBCX,FC1/G.3XH(125)
 play,6,0,cinta001,11,FBX,D9/F.2-H;1-H;B-3(TH)
@@ -704,8 +703,6 @@ play,5,1,podss001,01,CX,43/G
 play,6,0,maynb001,21,BCBX,D7/L-
 play,6,0,johnr005,10,BX,54/SH/BG.2-3
 play,6,0,finls001,32,FFFB*BFFFBC,K
-com,"ej,finls001,P,wegnm901,Called third strike"
-com,"Steve Finley ejected by HP umpire Mark Wegner"
 play,6,0,katam001,01,.CX,S8/G.3-H
 play,6,0,gonzl001,22,BFSBS,K
 play,6,1,counc001,00,,NP
@@ -768,7 +765,6 @@ play,9,0,baerc001,10,.BX,3/G
 play,9,0,sadld001,00,,NP
 sub,tracc001,"Chad Tracy",0,1,11
 play,9,0,tracc001,32,.BBBCSS,K
-com,"Debut game for Chad Tracy"
 data,er,johnr005,5
 data,er,choar001,1
 data,er,villo001,3
@@ -896,8 +892,6 @@ play,7,0,katam001,11,CBX,13/G-
 play,7,0,gonzl001,31,BBFBB,W
 play,7,0,sexsr001,31,BFBBB,W.1-2
 play,7,0,cinta001,00,X,E3/G.2-H(UR)(NR);1-H(UR)(NR);B-3
-com,"ej,nelsd101,C,everm901,Call at 1B"
-com,"Brewers 1B coach Dave Nelson ejected by 2B umpire Mike Everitt"
 play,7,0,bautd001,10,BX,8/F
 play,7,1,jenkg001,31,.BBBCB,W
 play,7,1,overl001,01,CX,D7/L.1-H
@@ -972,7 +966,6 @@ play,12,0,katam001,00,,NP
 sub,spivj001,"Junior Spivey",1,3,6
 play,12,0,katam001,00,,NP
 sub,durrt001,"Trent Durrington",1,6,4
-com,"$Hall left with injured leg"
 play,12,0,katam001,31,..BB1FBB,W.1-2
 play,12,0,choar001,00,,NP
 sub,maynb001,"Brent Mayne",0,3,11
@@ -1213,7 +1206,6 @@ start,grieb001,"Ben Grieve",1,7,9
 start,moelc001,"Chad Moeller",1,8,2
 start,saenc001,"Chris Saenz",1,9,1
 play,1,0,hartb001,02,CFT,K
-com,"Debut game for Chris Saenz"
 play,1,0,lankr001,00,X,S8/L
 play,1,0,pujoa001,10,BX,3/P3F
 play,1,0,edmoj001,31,FBBB1B,W.1-2
@@ -1581,7 +1573,6 @@ sub,nortp001,"Phil Norton",0,9,1
 play,6,1,podss001,21,.CBBX,1/BP
 play,6,1,counc001,00,,NP
 sub,riedj001,"John Riedling",0,9,1
-com,"$Norton left game with injured leg"
 play,6,1,counc001,32,.CBBFFBS,K
 play,6,1,spivj001,32,BBFBCB,W
 play,6,1,jenkg001,11,*BC>B,SB2.1-3(E2/TH)
@@ -1598,7 +1589,6 @@ play,7,1,overl001,21,...BCBX,9/L+
 play,7,1,helmw001,22,BFSBS,K
 play,7,1,gintk001,32,CBBFFBB,W
 play,7,1,moelc001,00,X,S8/G.1-3
-com,"$Moeller hit for the cycle"
 play,7,1,santv001,00,,NP
 sub,kiesb001,"Brooks Kieschnick",1,9,11
 play,7,1,kiesb001,20,.B*BX,43/G
@@ -1808,7 +1798,6 @@ sub,kolbd001,"Danny Kolb",1,3,1
 play,9,0,dunna001,32,.BCBBSB,W
 play,9,0,laruj001,12,BML,NP
 sub,larsb001,"Brandon Larson",0,6,11
-com,"Larue broke finger on bunt - onto DL"
 play,9,0,larsb001,22,BML.BC,K
 play,9,0,freer001,21,FBBX,54(1)/FO/G
 play,9,0,romaj002,11,SPX,S6/G.1-2
@@ -2136,7 +2125,6 @@ sub,hillb001,"Bobby Hill",0,9,11
 play,9,0,hillb001,31,....BCBBX,3/G
 play,9,0,redmt001,00,,NP
 sub,vizcl001,"Luis Vizcaino",1,8,1
-com,"$Kolb left with injured leg"
 play,9,0,redmt001,32,BBCB.CF.FX,5/P5F
 play,9,0,wilsj002,11,BFX,S7/L.BX2(74)
 play,9,1,spivj001,00,,NP
@@ -3056,9 +3044,7 @@ play,1,1,overl001,32,CBFB.B*B,W
 play,1,1,helmw001,12,CBFX,D9/F-.3-H;2-H;1-3
 play,1,1,grieb001,00,,NP
 sub,green001,"Nick Green",0,1,4
-com,"$Giles left game with injured neck/shoulder"
 play,1,1,grieb001,30,.BBBI,IW
-com,"Debut game for Nick Green"
 play,1,1,benng001,22,BBFCFX,9/F
 play,2,0,ortir001,22,CCBBS,K
 play,2,0,green001,22,BBSFFS,K23
@@ -3381,7 +3367,6 @@ play,4,1,benng001,01,CX,53/G
 play,4,1,santv001,00,,NP
 sub,hartc001,"Corey Hart",1,9,11
 play,4,1,hartc001,12,.SCFF*BS,K
-com,"Debut game for Corey Hart"
 play,4,1,podss001,01,CX,3/G-
 play,5,0,grees001,00,,NP
 sub,kinnm002,"Matt Kinney",1,9,1
@@ -3514,8 +3499,6 @@ play,1,0,belta001,10,1*B1,PO1(13)
 play,1,0,belta001,12,1*B1.FFFFX,63!/G
 play,1,1,podss001,01,CX,13/BG
 play,1,1,hallb001,11,FBX,31/G-
-com,"ej,yoste001,M,wendh902,Call at 1B"
-com,"Brewers Manager Ned Yost ejected by 1B umpire Hunter Wendlestedt"
 play,1,1,spivj001,11,.CBX,8/L
 play,2,0,lodup001,00,X,7/F
 play,2,0,encaj001,01,FX,HR/8/F
@@ -3542,7 +3525,6 @@ play,4,1,spivj001,31,BBSBB,W
 play,4,1,jenkg001,00,X,46(1)3/GDP
 play,5,0,pereo001,00,,NP
 sub,adamm001,"Mike Adams",1,9,1
-com,"$Capuano left game with injured arm"
 play,5,0,pereo001,22,CSBF..BS,K
 play,5,0,iztuc001,01,CX,43/G
 play,5,0,grees001,22,BFSBX,53/G
@@ -3882,8 +3864,6 @@ play,7,0,lawrb001,00,X,14/SH/BG.1-2
 play,7,0,greek002,31,BBBCB,W
 play,7,0,lorem001,22,*BBCFX,S7/G.2-H;1-2
 play,7,0,gileb002,12,CBFFFC,K
-com,"ej,gileb002,P,kulpr901,Called third strike"
-com,"Brian Giles ejected by HP umpire Ron Kulpa"
 play,7,1,overl001,00,,NP
 sub,longt002,"Terrence Long",0,6,9
 play,7,1,overl001,00,,NP
@@ -4213,7 +4193,6 @@ play,9,0,greek002,02,.CSS,K
 play,9,0,otsua001,00,,NP
 sub,knotj001,"Jon Knott",0,9,11
 play,9,0,knotj001,22,.BFCBX,2/P2F
-com,"Debut game for Jon Knott"
 play,9,0,burrs001,00,X,31/G
 play,9,1,counc001,00,,NP
 sub,hofft001,"Trevor Hoffman",0,9,1
@@ -4316,7 +4295,6 @@ play,5,0,biggc001,00,X,5!/L
 play,5,0,evera001,10,BX,53/G
 play,5,1,spivj001,00,,NP
 sub,lanej001,"Jason Lane",0,6,9
-com,"$Hidalgo left game with injured neck"
 play,5,1,spivj001,10,.BX,9/F
 play,5,1,jenkg001,32,FFBBFBX,S8/G
 play,5,1,overl001,30,BB*BB,W.1-2
@@ -4499,7 +4477,6 @@ play,6,1,spivj001,12,FBSX,13/G
 play,6,1,jenkg001,10,BX,8/L
 play,7,0,biggc001,31,BFBB,NP
 sub,adamm001,"Mike Adams",1,9,1
-com,"$Kinney left game with injured foot"
 play,7,0,biggc001,32,BFBB.CB,W
 play,7,0,evera001,11,.FBX,8/F
 play,7,0,bagwj001,12,CSBX,9/L
@@ -4931,7 +4908,6 @@ play,6,1,jenkg001,00,,NP
 sub,villr001,"Ron Villone",0,6,1
 play,6,1,jenkg001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,9,7
-com,"$Nageotte left game with injured hand"
 play,6,1,jenkg001,22,...CFBBS,K
 play,6,1,overl001,32,FBCBBX,3/G
 play,6,1,gintk001,22,.CBFFFFBS,K
@@ -6194,7 +6170,6 @@ start,benng001,"Gary Bennett",1,8,2
 start,santv001,"Victor Santos",1,9,1
 play,1,0,grudm001,12,BCCS,K
 play,1,0,harrb001,00,X,63/G
-com,"Debut game for Brendan Harris"
 play,1,0,sosas001,32,BBFSBC,K
 play,1,1,podss001,21,BBCX,D7/G
 play,1,1,counc001,00,X,S5/BG.2-H(NR)(E5/TH);B-2
@@ -6709,7 +6684,6 @@ play,8,1,gintk001,11,SBX,1/L-
 play,8,1,moelc001,00,,NP
 sub,ericm001,"Matt Erickson",1,8,11
 play,8,1,ericm001,22,.BFSFFBX,63/G
-com,"Debut game for Matt Erickson"
 play,8,1,kinnm002,00,,NP
 sub,magrc001,"Chris Magruder",1,9,11
 play,8,1,magrc001,22,.BBCFX,S7/F-.B-2(E7/TH)
@@ -6827,7 +6801,6 @@ play,4,1,hallb001,00,,NP
 sub,cruzj003,"Jacob Cruz",0,5,9
 play,4,1,hallb001,00,,NP
 sub,penaw001,"Wily Mo Pena",0,6,8
-com,"$Griffey left game with injured leg"
 play,4,1,hallb001,00,....>S,POCSH(E2).3-H(UR)(NR)
 play,4,1,hallb001,31,....>S.BBBB,W
 play,4,1,moelc001,10,BX,9/F
@@ -8784,7 +8757,6 @@ start,moelc001,"Chad Moeller",1,7,2
 start,counc001,"Craig Counsell",1,8,6
 start,delaj001,"Jorge De La Rosa",1,9,1
 play,1,0,pierj002,12,CFBX,53/G
-com,"Debut game for Jorge De La Rosa"
 play,1,0,castl001,32,CBBSFBFB,W
 play,1,0,lodup001,00,1X,S7/L.1-2
 play,1,0,cabrm001,00,B,WP.2-3;1-2
@@ -9813,8 +9785,6 @@ sub,worrt002,"Tim Worrell",0,2,1
 play,9,1,clarb003,00,,NP
 sub,gland001,"Doug Glanville",0,5,7
 play,9,1,clarb003,32,..CBBFBFC,K
-com,"ej,yoste001,M,nauep901,Called third strike"
-com,"Brewers Manager Ned Yost ejected by HP umpire Paul Nauert"
 play,9,1,counc001,12,.CBFX,53/G-
 play,9,1,benng001,10,BX,D9/L
 play,9,1,bennj002,00,,NP
@@ -10222,7 +10192,6 @@ play,2,0,bay-j001,32,CCFBBBFB,W
 play,2,0,redmt001,12,BCCFF1X,S5/G+.1-2
 play,2,0,wiggt001,00,,NP
 sub,burbd001,"Dave Burba",1,9,1
-com,"$Davis left game with injured arm"
 play,2,0,wiggt001,11,.BCX,6(1)3/GDP.2-3
 play,2,0,castj005,21,BBFX,S9/L.3-H
 play,2,0,vanbj001,22,BCS*BX,8/F-
@@ -10457,7 +10426,6 @@ sub,torrs001,"Salomon Torres",0,9,1
 play,9,1,benng001,00,,NP
 sub,krynd001,"Dave Krynzel",1,8,11
 play,9,1,krynd001,02,..FCS,K
-com,"Debut game for Dave Krynzel"
 play,9,1,kolbd001,00,,NP
 sub,hallb001,"Bill Hall",1,9,11
 play,9,1,hallb001,00,.X,53/G
@@ -10688,7 +10656,6 @@ play,2,0,lopef001,11,CBX,S9/G.3-H;2-3
 play,2,0,laruj001,22,CBF*BFX,46(1)/FO/G.3-H;B-2(E6/TH1)
 play,2,0,claub001,00,,NP
 sub,valej004,"Javier Valentin",0,8,12
-com,"$LaRue left game with injured knee"
 play,2,0,claub001,32,.BCBBCX,E6/G.2-3
 play,2,0,freer001,22,BBCFX,54(1)3/GDP
 play,2,1,oberw001,00,,NP
@@ -12309,7 +12276,6 @@ play,4,1,counc001,32,CCBBBFC,K
 play,4,1,moelc001,00,X,63/G
 play,5,0,ausmb001,00,,NP
 sub,magrc001,"Chris Magruder",1,5,9
-com,"$Clark left game with injured foot"
 play,5,0,ausmb001,32,.BBBCCS,K
 play,5,0,clemr001,10,BX,9/F
 play,5,0,biggc001,11,BFX,5!3/G

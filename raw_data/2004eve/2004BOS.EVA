@@ -87,7 +87,6 @@ play,4,1,reesp001,00,X,D7/F.3-H;2-H;1-3
 play,4,1,damoj001,00,,NP
 sub,kaplg001,"Gabe Kapler",1,1,11
 play,4,1,kaplg001,00,.X,63/G
-com,"$Damon left with injured knee"
 play,5,0,delgc001,00,,NP
 sub,kaplg001,"Gabe Kapler",1,1,8
 play,5,0,delgc001,00,.X,S8/L
@@ -661,7 +660,6 @@ play,11,0,matol001,02,FFX,E5/G.1-2
 play,11,0,bigbl001,00,,NP
 sub,seibp001,"Phil Seibel",1,0,1
 play,11,0,bigbl001,11,.BFX,E3/G.3-H(UR)(NR);2-3;1-2
-com,"Debut game for Phil Seibel"
 play,11,0,robeb003,30,BBBB,W.3-H(UR);2-3;1-2
 play,11,0,moram002,00,,NP
 sub,castf001,"Frank Castillo",1,0,1
@@ -1975,8 +1973,6 @@ sub,grimj001,"Jason Grimsley",0,0,1
 play,6,1,mccad001,02,.SSX,43/G.1-2
 play,6,1,kaplg001,11,FBX,FC6/G.2X3(65)
 play,6,1,reesp001,10,BX,HR/7/F.1-H
-com,"$Reese hit an IPHR and one over the wall in"
-com,"consecutive innings"
 play,6,1,damoj001,12,CBFX,S8/G
 play,6,1,bellm002,00,,NP
 sub,camps002,"Shawn Camp",0,0,1
@@ -2129,8 +2125,6 @@ play,7,0,guiea001,22,BCBCFFX,9/F
 play,7,0,santb001,02,CSS,K
 play,7,1,mccad001,00,,NP
 sub,stink001,"Kelly Stinnett",0,7,2
-com,"ej,santb001,P,dimum901,Balls and strikes"
-com,"Benito Santiago ejected by HP umpire Mike DiMuro"
 play,7,1,mccad001,20,..BBX,7/F
 play,7,1,reesp001,30,BBBB,W
 play,7,1,damoj001,12,CBSFF1B,WP.1-2
@@ -2903,7 +2897,6 @@ play,6,1,ortid001,32,..BBCFFBFFFS,K
 play,7,0,ponds001,00,,NP
 sub,marta003,"Anastacio Martinez",1,0,1
 play,7,0,ponds001,22,..BCFBS,K23
-com,"Debut game for Anastacio Martinez"
 play,7,0,hudso001,00,X,31/G
 play,7,0,menef001,11,CBX,8/F
 play,7,1,youkk001,01,CX,S5/G
@@ -3057,7 +3050,6 @@ play,5,1,cresc001,21,CBBX,63/G
 play,5,1,damoj001,22,CBFBS,K
 play,5,1,bellm002,11,SBX,8/F
 play,6,0,menef001,21,BBCX,S5/G
-com,"originally scored as E5, changed next day"
 play,6,0,wellv001,01,SX,54(1)/FO/G
 play,6,0,delgc001,31,BBBCX,S8/G.1-2
 play,6,0,phelj001,02,CCX,6(1)3/GDP
@@ -3257,7 +3249,6 @@ sub,cresc001,"Cesar Crespo",1,9,6
 play,8,0,dye-j001,00,,NP
 sub,dinal001,"Lenny Dinardo",1,0,1
 play,8,0,dye-j001,11,....BCX,43/G
-com,"Debut game for Andy Dominique"
 play,8,0,hatts001,10,BX,43/G
 play,8,0,durae001,22,SCBFBFS,K
 play,8,1,damoj001,00,,NP
@@ -4259,7 +4250,6 @@ play,7,1,bellm002,32,BFBBFB,W+WP.3-H(NR);2-3
 play,7,1,ortid001,00,,NP
 sub,rodre002,"Eddy Rodriguez",0,0,1
 play,7,1,ortid001,32,.BBBSFFS,K
-com,"Debut game for Eddy Rodriguez"
 play,7,1,ramim002,32,BBCFBS,K
 play,7,1,varij001,20,BBX,8/F
 play,8,0,moram002,00,,NP
@@ -5831,7 +5821,6 @@ play,8,1,kaplg001,00,,NP
 sub,gearg001,"Geoff Geary",0,0,1
 play,8,1,kaplg001,01,.CX,63/G
 play,8,1,cresc001,10,BB,NP
-com,"game called for rain"
 data,er,abbop001,5
 data,er,hernr001,3
 data,er,poweb001,4
@@ -6771,7 +6760,6 @@ play,8,0,barar001,12,CBCFFX,53/G
 play,8,1,varij001,00,,NP
 sub,regin001,"Nick Regilio",0,0,1
 play,8,1,varij001,20,.BBX,13/G
-com,"Debut game for Nick Regilio"
 play,8,1,muelb001,00,X,7/F
 play,8,1,damoj001,21,CBBX,HR/9/F
 play,8,1,bellm002,32,BBSFBB,W
@@ -7215,9 +7203,6 @@ play,7,0,bigbl001,11,BCX,S8/L
 play,7,0,matol001,11,L1BX,14/SH/BG.1-2
 play,7,0,robeb003,00,X,43/G.2-3
 play,7,0,newhd001,12,FCBX,HR8/F/IPHR.3-H
-com,"Damon made strong throw toward third, but Ramirez"
-com,"cut it off with a big dive, then threw from his knees,"
-com,"guaranteeing that Newhan would have IPHR"
 play,7,0,moram002,12,CBFX,S8/G
 play,7,0,tejam001,00,,NP
 sub,mendr001,"Ramiro Mendoza",1,0,1
@@ -7316,7 +7301,6 @@ start,varij001,"Jason Varitek",1,8,2
 start,kaplg001,"Gabe Kapler",1,9,8
 start,alvaa001,"Abe Alvarez",1,0,1
 play,1,0,robeb003,32,BBBCCFFB,W
-com,"Debut game for Abe Alvarez"
 play,1,0,newhd001,22,FFBBS,K
 play,1,0,moram002,11,BC>B,SB2
 play,1,0,moram002,22,BC>B.FX,D9/F.2-H
@@ -7764,10 +7748,6 @@ start,millk005,"Kevin Millar",1,7,3
 start,muelb001,"Bill Mueller",1,8,5
 start,bellm002,"Mark Bellhorn",1,9,4
 start,arrob001,"Bronson Arroyo",1,0,1
-com,"$started after a 54-minute delay to get the field"
-com,"ready; one hour before game time it was almost"
-com,"cancelled until the Boston players demanded to play;"
-com,"some Yankees had showered and left the park"
 play,1,0,willb002,00,X,8/F
 play,1,0,jeted001,10,BX,4/P
 play,1,0,shefg001,01,CX,8/F
@@ -7787,15 +7767,6 @@ play,3,0,willb002,12,CBLX,D9/F
 play,3,0,jeted001,10,BX,S7/L.2-3
 play,3,0,shefg001,21,CBBX,4(1)3/GDP.3-H(NR)
 play,3,0,rodra001,11,SBH,HP
-com,"ej,varij001,P,froeb901,Brawl"
-com,"ej,kaplg001,P,froeb901,Brawl"
-com,"ej,rodra001,P,froeb901,Brawl"
-com,"ej,loftk001,P,froeb901,Brawl"
-com,"$ARod hit on elbow; he yelled at Arroyo and"
-com,"Varitek stepped in; ARod challenged Varitek who"
-com,"went after ARod; benches cleared; Sturtze had choke"
-com,"hold on Kapler and Ortiz cut Sturtze's face; Varitek,"
-com,"ARod, Kapler & Lofton ejected by Froemming"
 play,3,0,posaj001,00,,NP
 sub,mirad001,"Doug Mirabelli",1,2,2
 play,3,0,posaj001,00,,NP
@@ -7816,7 +7787,6 @@ play,4,0,clart002,12,CBFS,K
 play,4,0,cairm001,22,BFFBC,K
 play,4,1,ortid001,00,,NP
 sub,padij001,"Juan Padilla",0,0,1
-com,"$Sturtze left game with bruised finger from fight"
 play,4,1,ortid001,31,.BBBFB,W
 play,4,1,ramim002,00,X,D7/L.1-3
 play,4,1,garcn001,00,.X,S8/G.3-H;2-H
@@ -7830,8 +7800,6 @@ play,5,0,shefg001,00,X,8/F
 play,5,1,damoj001,12,BSSFX,S8/L
 play,5,1,mirad001,12,11F1SPFF1S,K
 play,5,1,ortid001,32,BBCC1B>F>X,96(1)/FO/G
-com,"ej,frant001,M,wintm901,Call at 2B"
-com,"Manager Terry Francona ejected by 2B umpire Mike Winters"
 play,5,1,ramim002,12,.FCBX,9/F
 play,6,0,wilse001,21,BFBX,S6/G
 play,6,0,posaj001,00,X,D7/F.1-3
@@ -7979,14 +7947,11 @@ play,2,0,jeted001,00,X,9/F
 play,2,1,mirad001,22,CBBFFH,HP
 play,2,1,kaplg001,01,CX,S7/L.1-2
 play,2,1,damoj001,31,BBFBX,HR/9/F.2-H;1-H
-com,"$off the RF pole"
 play,2,1,bellm002,31,BBTBX,HR/9/F
 play,2,1,ortid001,11,CBX,7/F
 play,2,1,ramim002,01,SX,9/F
 play,2,1,garcn001,01,CX,S7/G
 play,2,1,millk005,32,BBCBC>FFF>H,HP.1-2
-com,"$both teams warned by Wendlestedt after 3rd HP of game;"
-com,"yesterday's game featured a HP and brawl with 4 ejections"
 play,2,1,muelb001,10,BX,64(1)/FO/G
 play,3,0,shefg001,10,BX,2/P2F
 play,3,0,rodra001,32,BBBCCX,63/G
@@ -8048,11 +8013,6 @@ play,8,0,loftk001,22,CBFBX,D9/F.1-3
 play,8,0,jeted001,00,,NP
 sub,foulk001,"Keith Foulke",1,0,1
 play,8,0,jeted001,00,.X,123/G/INT
-com,"$Jeter lined the ball off Foulke's leg and it rebounded"
-com,"to Mirabelli; Mirabelli's throw to 1B hit Jeter as Wilson"
-com,"scored; Wendlestedt called Jeter out for running inside"
-com,"the baseline & the runners were returned to their"
-com,"original bases"
 play,8,0,shefg001,10,BX,7/L
 play,8,1,ortid001,10,BX,S9/G
 play,8,1,ramim002,22,CFBB1FC,K
@@ -8480,7 +8440,6 @@ play,6,0,cruzj004,00,,NP
 sub,gutir001,"Ricky Gutierrez",1,8,4
 play,6,0,cruzj004,11,...FBX,43/G
 play,6,0,martt002,00,X,E8/F.B-2
-com,"originally scored as double, changed to E8 next day"
 play,6,0,uptob001,00,X,S8/L.2-3
 play,6,0,fordb001,11,FBX,S7/G.3-H(UR);1-2
 play,6,0,blumg001,00,X,64(1)/FO/G.2-3
@@ -8920,7 +8879,6 @@ play,2,0,davib003,00,X,5!/P5F
 play,2,0,credj001,02,CFH,HP
 play,2,0,harrw001,00,,NP
 sub,uribj002,"Juan Uribe",0,9,12
-com,"$Crede left game with injured hand"
 play,2,0,harrw001,21,.BCBX,4/P
 play,2,1,ortid001,00,,NP
 sub,uribj002,"Juan Uribe",0,9,5
@@ -9066,10 +9024,6 @@ play,3,1,ramim002,12,BCSC,K
 play,3,1,ortid001,22,BCBFC,K
 play,3,1,varij001,12,FSBX,S7/F.1-2
 play,3,1,cabro001,00,X,S8/L.2XH(82);1-2
-com,"$Youkilis slid hard into Alomar at the plate;"
-com,"his leg ran into the catcher's groin; both players"
-com,"left the game with injuries; Youkilis (leg),"
-com,"Alomar (groin)"
 play,4,0,harrw001,00,,NP
 sub,muelb001,"Bill Mueller",1,2,5
 play,4,0,harrw001,22,.CBCBS,K
@@ -9218,7 +9172,6 @@ play,1,1,robed001,21,LBBX,46(1)3/GDP
 play,1,1,ramim002,12,FBFS,K
 play,2,0,delgc001,32,BFBCFFF*BFB,W
 play,2,0,cataf001,11,CBX,4(1)/FO/G
-com,"$Delgado ran through Mientkiewicz"
 play,2,0,hinse001,12,CBFX,3/G.1-2
 play,2,0,woodc001,01,CX,53/G
 play,2,1,ortid001,31,BBFBX,D8/L
@@ -9265,7 +9218,6 @@ play,6,1,miend001,32,BBCBC>F>S,K+SB2
 play,6,1,damoj001,12,BFCX,FC6/G.2X3(65)
 play,6,1,robed001,02,CFC,K
 play,7,0,delgc001,00,H,HP
-com,"$hit on back in obvious retaliation for baserunning in 2nd"
 play,7,0,cataf001,02,CFC,K
 play,7,0,hinse001,10,BX,S7/L.1-2
 play,7,0,woodc001,22,CBBFFX,E6/FO/G.2-H(NR);1-3
@@ -9537,7 +9489,6 @@ play,2,1,miend001,12,CBFX,13/G
 play,3,0,riosa002,10,BX,9/F
 play,3,0,cataf001,01,FH,HP
 play,3,0,wellv001,01,SX,DGR/7.1-3
-com,"$fan interference"
 play,3,0,delgc001,00,X,7/SF.3-H
 play,3,0,menef001,00,X,43/G
 play,3,1,ramim002,02,CFS,K23
@@ -9708,7 +9659,6 @@ play,6,1,mirad001,00,,NP
 sub,knotg001,"Gary Knotts",0,0,1
 play,6,1,mirad001,00,,NP
 sub,thamm001,"Marcus Thames",0,5,7
-com,"$White left game with injured leg"
 play,6,1,mirad001,12,..BCFS,K
 play,6,1,robed001,00,X,3/BG
 play,6,1,damoj001,00,X,8/F
@@ -9716,7 +9666,6 @@ play,7,0,penac001,12,BFSS,K
 play,7,0,monrc001,00,X,8/F
 play,7,0,ingeb001,22,CBSBX,8/F
 play,7,1,bellm002,11,CBX,DGR/9
-com,"$fan interference"
 play,7,1,ramim002,12,CS*BC,K
 play,7,1,ortid001,30,IIII,IW
 play,7,1,millk005,22,CS*BBS,K
@@ -9840,7 +9789,6 @@ play,4,1,ramim002,12,FBSFFX,7/F
 play,4,1,ortid001,22,CBBSFX,341/G
 play,5,0,ingeb001,00,,NP
 sub,robed001,"Dave Roberts",1,3,7
-com,"$Ramirez left game with injured knee"
 play,5,0,ingeb001,01,.CX,43/G
 play,5,0,logan001,00,X,1/BP
 play,5,0,infao001,32,BBBCCS,K
@@ -10149,8 +10097,6 @@ play,6,1,muelb001,32,BBBCFFFX,8/F
 play,6,1,kaplg001,32,CBCBFFBFS,K
 badj,guilc001,R
 play,7,0,guilc001,02,CCC,K
-com,"ej,trama001,M,welkb901,Called third strike"
-com,"Tigers Manager Alan Trammell ejected by HP umpire Bill Welke"
 badj,yound001,R
 play,7,0,yound001,02,.FFX,63/G
 play,7,0,penac001,32,BCBSBFB,W
@@ -10490,7 +10436,6 @@ play,7,0,andeg001,00,,NP
 sub,timlm001,"Mike Timlin",1,0,1
 play,7,0,andeg001,00,..X,S8/L
 play,7,0,guilj001,00,X,DGR/9/L.1-3
-com,"$fan interference"
 play,7,0,glaut001,00,X,63/G.3-H;2-3
 play,7,0,kenna001,00,X,3/L
 play,7,0,molib001,02,FFFC,K
@@ -10739,8 +10684,6 @@ play,2,0,nix-l001,01,SX,63/G
 play,2,0,menck001,12,BCCS,K
 play,2,1,millk005,00,,NP
 sub,youne001,"Eric Young",0,1,7
-com,"$Dellucci left game with light-headedness; he had"
-com,"blurred vision and possible dehydration"
 play,2,1,millk005,20,.BBX,6/P
 play,2,1,cabro001,10,BX,7/F
 play,2,1,miend001,32,BBCFFFBX,7/F
@@ -11215,7 +11158,6 @@ play,4,1,ortid001,02,CFC,K
 play,4,1,varij001,01,FX,3/P3F
 play,5,0,crawc002,00,,NP
 sub,youkk001,"Kevin Youkilis",1,8,5
-com,"$Mueller left game with injured knee"
 play,5,0,crawc002,22,.CSBBX,9/F
 play,5,0,lugoj001,32,BFFBFBB,W
 play,5,0,huffa001,02,CCF1S,K
@@ -12099,7 +12041,6 @@ sub,foulk001,"Keith Foulke",1,0,1
 play,9,0,lopel002,00,,NP
 sub,palmr001,"Rafael Palmeiro",0,9,11
 play,9,0,palmr001,32,...CBFBBX,HR/9/F
-com,"$Palmeiro's 549th homer; 10th place on the career list"
 play,9,0,robeb003,21,BBFX,4/L
 play,9,0,newhd001,11,BSX,43/G
 play,9,0,moram002,32,BCBBSFFFS,K
@@ -12146,7 +12087,6 @@ play,12,0,tejam001,02,1CSX,S5/G.1-2
 play,12,0,surhb001,01,LX,34/SH/BG.2-3;1-2
 play,12,0,lopej001,30,IIII,IW
 play,12,0,gibbj002,02,SFFX,32(3)4/GDP
-com,"$infield playing in, so Reese (2B) covered 1B"
 play,12,1,cabro001,22,BCBSX,HR/7/F
 data,er,ponss001,6
 data,er,julij001,0
@@ -12209,7 +12149,6 @@ start,muelb001,"Bill Mueller",1,8,5
 start,reesp001,"Pokey Reese",1,9,4
 start,lowed001,"Derek Lowe",1,0,1
 play,1,0,robeb003,22,BCFBX,DGR/9
-com,"$fan interference"
 play,1,0,newhd001,02,SSX,S6/G.2-3
 play,1,0,moram002,21,BBF1,PO1(13)
 play,1,0,moram002,22,BBF1.SFX,S8/L.3-H
@@ -12584,9 +12523,6 @@ play,6,0,shefg001,00,X,S5/G
 play,6,0,matsh001,02,C1SX,46(1)/FO/G
 play,6,0,willb002,32,FBFBBB,W.1-2
 play,6,0,posaj001,10,BX,DGR9.2-H;1-H
-com,"ej,frant001,M,culbf901,Fan interference"
-com,"$fan interference; Red SOx Manager Terry Francona ejected by HP"
-com,"umpire Fieldin Culbreth"
 play,6,0,olerj001,21,.BFBX,31/G
 play,6,1,muelb001,31,BBBCX,43/G
 play,6,1,damoj001,21,CBBX,63/G
@@ -12793,9 +12729,6 @@ play,8,0,loftk001,00,,NP
 sub,astap001,"Pedro Astacio",1,0,1
 play,8,0,loftk001,30,BBB,NP
 sub,adamt001,"Terry Adams",1,0,1
-com,"ej,astap001,P,wolfj901,Pitch behind batter"
-com,"Pedro Astacio ejected for throwing behind Lofton by HP"
-com,"umpire Jim Wolf; both sides were warned"
 play,8,0,loftk001,30,....BBB..B,W
 play,8,0,jeted001,00,,NP
 sub,escaf001,"Felix Escalona",0,1,11
@@ -12822,11 +12755,6 @@ play,8,1,robed001,00,,NP
 sub,navad001,"Dioner Navarro",0,6,2
 play,8,1,robed001,10,B,NP
 sub,nitkc001,"C.J. Nitkowski",0,0,1
-com,"ej,halsb001,P,mcclt901,Beanball war continuation"
-com,"ej,torrj101,M,mcclt901,Beanball war continuation"
-com,"Brad Halsey and Manager Joe Torre ejected by 1B umpire Tim McClelland"
-com,"after Halsey threw a pitch up and in to Roberts; benches and"
-com,"bullpens emptied but players were kept apart"
 play,8,1,robed001,22,.....B...CSBS,K
 play,8,1,ortid001,00,,NP
 sub,mccad001,"David McCarty",1,4,11

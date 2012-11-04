@@ -78,7 +78,6 @@ play,4,1,schnb001,30,IIII,IW
 play,4,1,pereo002,12,SMBS,K
 play,5,0,felip001,00,,NP
 sub,easld001,"Damion Easley",1,2,4
-com,"Mets second baseman Luis Castillo left the game due to an injured knee"
 play,5,0,felip001,20,.BBX,63/G
 play,5,0,ruizc001,10,BX,S9/L
 play,5,0,moyej001,31,BBBCB,W.1-2
@@ -143,7 +142,6 @@ play,8,1,wrigd002,00,,NP
 sub,brune001,"Eric Bruntlett",0,1,6
 play,8,1,wrigd002,00,,NP
 sub,romej001,"J.C. Romero",0,5,1
-com,"Phillies shortstop Jimmy Rollins left the game due to an injured foot/ankle"
 play,8,1,wrigd002,02,..CFS,K
 play,8,1,beltc001,31,BBBCX,D7/L
 play,8,1,delgc001,32,BCBFBX,43/G.2-3
@@ -624,7 +622,6 @@ play,6,0,kendj001,00,,NP
 sub,andem003,"Marlon Anderson",1,1,4
 play,6,0,kendj001,00,,NP
 sub,easld001,"Damion Easley",1,6,6
-com,"Mets shortstop Jose Reyes left the game due to an injured leg"
 play,6,0,kendj001,11,..BCX,43/G
 play,6,0,weekr001,31,BBBCB,W
 play,6,0,grosg002,12,FBFX,9/F
@@ -797,7 +794,6 @@ play,9,0,hardj003,20,BBX,7/F
 play,9,0,shoub001,00,,NP
 sub,iribh001,"Hernan Iribarren",0,8,11
 play,9,0,iribh001,00,.X,S8/G
-com,"Debut game for Hernan Iribarren"
 play,9,0,kendj001,10,1B1,PO1(13)
 play,9,0,kendj001,10,1B1.X,8/F
 play,9,1,churr001,00,,NP
@@ -1555,7 +1551,6 @@ play,1,0,franj004,22,BCBFX,52(3)/FO/G.2-3;1-2
 play,1,0,diazm003,12,BCFS,K
 play,1,1,reyej001,00,,NP
 sub,pradm001,"Martin Prado",0,2,6
-com,"Braves shortstop Yunel Escobar left the game due to an injured hand/wrist"
 play,1,1,reyej001,32,..BCBBCS,K
 play,1,1,castl001,22,CCBBFFX,13/G
 play,1,1,wrigd002,32,BBFCBX,43/G
@@ -1577,12 +1572,6 @@ play,3,1,pelfm001,11,BLX,3/SH/BG.1-2
 play,3,1,reyej001,02,SFX,13/G
 play,3,1,castl001,32,CBBBCF*B,W
 play,3,1,wrigd002,32,FFBBB>B,W.3-H;2-3;1-2
-com,"ej,cox-b103,M,mcclt901,Balls and strikes"
-com,"$Braves pitcher Jair Jurrjens objected to the last pitch to David"
-com,"Wright by spreading his arms out to the side; plate umpire Tim"
-com,"McClelland started to walk towards the mound and Braves manager"
-com,"Bobby Cox went out to protect his player; Cox was ejected by"
-com,"McClelland"
 play,3,1,beltc001,31,.BBBCB,W.3-H;2-3;1-2
 play,3,1,churr001,32,BBCFB>B,W.3-H;2-3;1-2
 play,3,1,pagaa001,22,CFBBFFC,K
@@ -1731,7 +1720,6 @@ play,1,1,beltc001,22,1FF*B1BX,43/G
 play,2,0,franj004,00,X,2/P2F
 play,2,0,pradm001,02,CFC,K
 play,2,0,lillb001,12,FSBS,K
-com,"Debut game for Brent Lillibridge"
 play,2,1,churr001,02,SCX,8/F
 play,2,1,delgc001,00,X,8/F
 play,2,1,easld001,10,BX,S8/G
@@ -2768,7 +2756,6 @@ sub,brayb001,"Bill Bray",0,9,1
 play,5,1,delgc001,12,.BFCT,K
 play,6,0,grifk002,00,,NP
 sub,easld001,"Damion Easley",1,2,4
-com,"Mets second baseman Luis Castillo left the game due to an injured leg"
 play,6,0,grifk002,32,.BSBCBFB,W
 play,6,0,philb001,00,X,9/F9LF
 play,6,0,encae001,10,BX,D7/L.1-3
@@ -2824,10 +2811,6 @@ play,8,1,wrigd002,32,BF>B.*BSFFS,K
 play,8,1,beltc001,20,BBX,43/G
 play,9,0,pattc001,00,,NP
 sub,felip002,"Pedro Feliciano",1,9,1
-com,"$the Reds batted out of order when David Ross hit in Corey Patterson's"
-com,"spot; Ross flew out to right and then Mets Mgr Willie Randolph told the"
-com,"umpires about the issue; Patterson was called out instead of Ross; then"
-com,"Ross batted again and singled; bad move by Randolph"
 play,9,0,pattc001,00,.X,9/F
 play,9,0,rossd001,00,X,S8/G
 play,9,0,freer001,22,BSBSX,43/G.1-2
@@ -3237,8 +3220,6 @@ play,5,0,penaw001,12,SFBFS,K
 play,5,0,florj002,22,BCFBFFFC,K
 play,5,0,reddt001,22,FBBFFFX,53/G
 play,5,1,aloum001,22,FBFBC,K
-com,"ej,aloum001,P,demud901,Balls and strikes"
-com,"Mets left fielder Moises Alou ejected by HP umpire Dana DeMuth"
 play,5,1,delgc001,20,.BBX,63/G
 play,5,1,schnb001,20,BBX,HR/9/F
 play,5,1,easld001,32,BCFBBB,W
@@ -3398,7 +3379,6 @@ play,6,1,beltc001,01,FX,63/G
 play,6,1,churr001,21,SBBX,3/G
 play,6,1,delgc001,12,BSSFFS,K
 play,7,0,boona001,11,FBX,S9/L
-com,"$first hit of the game for the Nationals"
 play,7,0,milll002,02,FFX,4/P
 play,7,0,keara001,10,B>S,CS2(24)
 play,7,0,keara001,21,B>S.BH,HP
@@ -3422,12 +3402,6 @@ play,8,1,reyej001,00,,NP
 sub,harrw001,"Willie Harris",0,9,7
 play,8,1,reyej001,11,..BCX,S1/G-
 play,8,1,castl001,00,X,53/SH/BG/DP.1X3(36)
-com,"$Reyes attempted to go from first to third on the bunt when"
-com,"zimmerman fielded the ball on the grass; Guzman ran over and"
-com,"was in front of Reyes as they approcahed the bag; Guzman"
-com,"caught the ball and put his glove behind his back to tag"
-com,"Reyes; the broadcasters talked about how Guzman prevented"
-com,"Reyes from getting to the bag, which was not illegal"
 play,8,1,wrigd002,22,BCCBX,3/P
 play,9,0,boona001,21,BBCX,S8/L
 play,9,0,milll002,10,BX,63/G-.1-2
@@ -3697,7 +3671,6 @@ play,5,0,jacom001,32,BBCBFB,W
 play,5,0,uggld001,02,SCS,K
 play,5,1,castl001,32,BBCBCX,63/G
 play,5,1,wrigd002,31,BBFBX,DGR/7/INT
-com,"fan interference"
 play,5,1,beltc001,30,BBII,IW
 play,5,1,easld001,12,BCFX,9/F.2-3
 play,5,1,tatif001,02,SFF1X,S7/L.3-H;1-2
@@ -3744,7 +3717,6 @@ play,8,1,chave002,00,,NP
 sub,lindm001,"Matt Lindstrom",0,9,1
 play,8,1,chave002,02,.SFFX,S8/G
 play,8,1,reyej001,00,X,S1/BG.1-2
-com,"$changed from SH to single on 6-05"
 play,8,1,castl001,11,LBB,WP.2-3;1-2
 play,8,1,castl001,32,LBB.C*BFX,43/G
 play,8,1,wrigd002,22,CFBFF*BX,6/LDP.3X3(6)
@@ -4211,9 +4183,6 @@ play,7,0,dewib001,00,,NP
 sub,felip002,"Pedro Feliciano",1,9,1
 play,7,0,dewib001,21,.BBCX,S7/L
 play,7,0,mazal001,10,BX,64(1)3/GDP
-com,"$DeWitt slid into second and popped up into Castillo, who"
-com,"was pushed backwards, injuring his leg. He did manage to"
-com,"throw to first to complete the DP"
 play,7,0,parkc002,00,,NP
 sub,easld001,"Damion Easley",1,2,4
 play,7,0,parkc002,01,F.X,13/G
@@ -4801,8 +4770,6 @@ play,4,0,jackc002,12,BSCX,63/G.2-3
 play,4,0,tracc001,01,CX,63/G
 play,4,1,reyej001,00,X,S1/BG
 play,4,1,castl001,21,C1BB+111>X,E1/TH.1-3
-com,"Originally scored S and E, changed to E all the way"
-com,"on 6-23"
 play,4,1,wrigd002,21,BCBX,53/G.1-2
 play,4,1,beltc001,01,CX,S8/L.3-H;2-H(UR)
 play,4,1,delgc001,31,BBBC1>X,S16/G.1-3
@@ -5201,7 +5168,6 @@ play,6,1,delgc001,10,BX,D9/L
 play,6,1,andem003,12,FFBX,S9/L.2-H
 play,6,1,schnb001,01,CX,S9/L.1-3
 play,6,1,chave002,10,BX,DGR9/L/INT.3-H;1-3
-com,"fan interference"
 play,6,1,pereo002,00,,NP
 sub,rupej001,"Josh Rupe",0,5,1
 play,6,1,pereo002,00,,NP
@@ -5654,7 +5620,6 @@ play,5,1,nixot001,22,>B.BSFT,K
 play,5,1,castr002,12,FF*BB,WP.3-H
 play,5,1,castr002,00,,NP
 sub,corcr001,"Roy Corcoran",0,9,1
-com,"Mariners pitcher Felix Hernandez left the game due to an injured foot/ankle"
 play,5,1,castr002,32,FF*BB..BFB,W
 play,5,1,chave002,32,B*BCFB>F>X,13/G
 play,6,0,belta001,12,FFBX,5/L
@@ -5799,17 +5764,6 @@ play,3,1,castl001,32,BBCCBX,53/G
 play,4,0,dickr001,12,CBFX,63/G-
 play,4,0,suzui001,22,CBFBFS,K
 play,4,0,lopej003,11,BCX,4/P
-com,"ej,manuj101,M,rungb901,Balls and strikes"
-com,"ej,beltc001,P,rungb901,Balls and strikes"
-com,"$Carlos Beltran argued after the first two pitches were"
-com,"called strikes by HP umpire Brian Runge; Runge took off"
-com,"his mask and continued the discussion before cleaning off"
-com,"home plate; Mets manager Jerry Manuel came out to get"
-com,"involved and Runge appeared to bump into Manuel before"
-com,"ejecting Manuel; Beltran then told Runge that it was a weak"
-com,"move to bump Manuel and then eject him; Runge then ejected"
-com,"Beltran; Runge later suspended for one day, which was served"
-com,"on June 27"
 play,4,1,beltc001,02,CC,NP
 sub,andem003,"Marlon Anderson",1,3,11
 play,4,1,andem003,22,CC...FFBFBX,4/L
@@ -6475,7 +6429,6 @@ play,6,0,jeted001,00,X,46(1)/FO/G
 play,6,1,pereo002,00,,NP
 sub,robed002,"David Robertson",0,9,1
 play,6,1,pereo002,32,.CFFBFBFBS,K
-com,"Debut game for David Robertson"
 play,6,1,reyej001,31,BBBCX,S8/L
 play,6,1,castl001,21,11BC*BX,S7/G.1-2
 play,6,1,wrigd002,00,B,WP.2-3;1-2
@@ -7191,7 +7144,6 @@ play,4,1,chave002,12,FSBX,S1/L.2-3
 play,4,1,schnb001,31,BFB1BB,W.1-2
 play,4,1,martp001,00,,NP
 sub,evann001,"Nick Evans",1,9,11
-com,"Mets pitcher Pedro Martinez left the game due to an injured neck/shoulder"
 play,4,1,evann001,22,.BFSBFFFT,K
 play,5,0,bakej001,00,,NP
 sub,munic001,"Carlos Muniz",1,9,1
@@ -7462,14 +7414,6 @@ play,3,1,reyej001,30,BBBB,W
 play,3,1,chave002,22,B1111BCC>X,S4/G.1-2
 play,3,1,wrigd002,22,BBFFFX,D7/L.2-H;1XH(762)
 play,3,1,beltc001,32,BCBFBX,3/G.2-3
-com,"ej,thomm001,C,fostm901,Checked swing"
-com,"ej,manuc101,M,fostm901,Checked swing"
-com,"Phillies Coach Milt Thompson ejected by 3B umpire Marty Foster"
-com,"for yelling from the dugout after Foster called a check swing"
-com,"on a ball to Carlos Delgado; that would have been strike three;"
-com,"Phillies Manager Charlie Manuel went out to ask why Thompson"
-com,"was ejected; Manuel told Foster that Foster missed the call"
-com,"and then Manuel was ejected by Foster"
 play,3,1,delgc001,32,FF*BB*BFX,HR/9/F.3-H
 play,3,1,easld001,00,X,63/G
 play,4,0,wertj001,22,.BSBSFX,63/G
@@ -8525,8 +8469,6 @@ play,7,1,reyea003,31,.BBCBB,W
 play,7,1,reyej001,10,B1X,23/SH/BG.1-2
 play,7,1,murpd006,12,BFSX,D8/F.2-H
 play,7,1,wrigd002,01,FX,FC5/G/DP.2X3(545);BX2(53)
-com,"$A. Reyes out in rundown, 545. When Wright rounded"
-com,"first too far Kouzmanoff threw behind him for DP"
 play,8,0,gonza003,22,FCBBS,K
 play,8,0,kouzk001,21,FBBX,8/F+
 play,8,0,hensc002,00,,NP
@@ -8799,7 +8741,6 @@ play,4,1,santj003,11,LB+2X,25(2)/FO/BG.1-2
 play,4,1,reyej001,12,CFBFFFX,43/G
 play,5,0,hundn001,00,,NP
 sub,cancr001,"Robinson Cancel",1,7,2
-com,"Mets catcher Ramon Castro left the game due to an injured leg"
 play,5,0,hundn001,11,.CBX,4/P
 play,5,0,rodrl002,10,BX,9/F
 play,5,0,bankj001,01,CX,63/G
@@ -8850,16 +8791,6 @@ play,8,1,murpd006,00,,NP
 sub,geruj001,"Jody Gerut",0,6,8
 play,8,1,murpd006,00,,NP
 sub,coreb001,"Bryan Corey",0,9,1
-com,"ej,blacb001,M,ticht901,Argument over substitutes"
-com,"ej,colbc001,C,ticht901,Argument over substitutes"
-com,"$Padres manager Bud Black ejected by HP umpire Todd Tichenor as they"
-com,"disagreed on subs; Black claimed he indicated 'two hole', which would"
-com,"put new pitcher Bryan Corey batting second and Edgar Gonzalez playing"
-com,"second base, batting ninth; Tichenor said he interpreted Black's motion"
-com,"as 'straight up' meaning that the pitcher would bat ninth; Black continued"
-com,"to argue and was ejected; Scott Hairston moved from center field to play"
-com,"second base; Padres bench coach Craig Colbert took over managing, but"
-com,"continued to argue and was also ejected by Tichenor"
 play,8,1,murpd006,10,.....BX,43/G
 play,8,1,cancr001,32,BSSBBFX,4/P
 play,8,1,evann001,12,BF..CFFC,K
@@ -9501,8 +9432,6 @@ play,9,0,pears001,32,CBBBC>X,S8/L.3-H;2-H;1-3
 play,9,0,gomec001,11,CBX,53/G-
 play,9,1,beltc001,00,,NP
 sub,grabj002,"John Grabow",0,9,1
-com,"ej,manuj101,M,hohnb901,Balls and strikes"
-com,"Mets Manager Jerry Manuel ejected by HP umpire Bill Hohn"
 play,9,1,beltc001,32,.CBBBC.X,S7/L
 play,9,1,delgc001,02,FSS,K
 play,9,1,tatif001,20,BBX,64(1)3/GDP
@@ -10609,8 +10538,6 @@ play,6,0,victs001,22,1.BFFBFX,8/F
 play,6,0,utlec001,32,CBBSBX,43/G
 play,6,1,reyej001,11,BFX,9/F
 play,6,1,murpd006,32,BCFBFBFX,D7/F
-com,"ej,duber801,C,emmep901,Balls and strikes"
-com,"Phillies Pitching Coach Rich Dubee ejected by HP umpire Paul Emmel"
 play,6,1,wrigd002,02,.FFX,4/P
 play,6,1,delgc001,22,FFBBX,8/F
 play,7,0,howar001,32,BSBBFB,W
@@ -10873,10 +10800,6 @@ play,1,0,victs001,21,BSBX,8/F
 play,1,1,reyej001,32,BBCBCX,4/P
 play,1,1,churr001,22,FFBFBX,S7/L
 play,1,1,wrigd002,02,FFX,C/E2.1-2
-com,"ej,manuc101,M,mealj901,Catcher's interference"
-com,"$David Wright fouled a ball off but was awarded first on catcher's interference"
-com,"by plate umpire Jerry Meals, who said the bat struck catcher Chris Coste's glove;"
-com,"Phillies Manager Charlie Manuel argued vehemently and was ejected by Meals"
 play,1,1,beltc001,00,.X,S7/L.2-H;1-3;B-2(TH)
 play,1,1,delgc001,22,*BSFBX,S8/G.3-H(UR);2-H
 play,1,1,tatif001,11,*BSX,6!4(1)/FO/G
@@ -11135,7 +11058,6 @@ sub,hincm001,"Mike Hinckley",0,9,1
 play,8,1,churr001,10,.BX,43/G
 play,8,1,wrigd002,32,SBBTBFB,W
 play,8,1,beltc001,32,CFBBFB>S,K/DP/INT.1X2(2)
-com,"$Wright called out because of batter interference"
 play,9,0,milll002,00,,NP
 sub,ayall001,"Luis Ayala",1,9,1
 play,9,0,milll002,02,.CSX,7/F
@@ -12107,11 +12029,6 @@ play,5,0,lee-d002,01,CX,9/F
 play,5,1,churr001,02,CSS,K
 play,5,1,evann001,00,H,HP
 play,5,1,santj003,11,BLX,S6/G-.1-2
-com,"$Santana faked a bunt then punched at the pitch and broke his"
-com,"bat, with bat and ball arriving at pitcher at same time; pitcher"
-com,"could not make play; the bat went faster than ball and settled 25"
-com,"feet behind mound; the ball struck the bat and caromed away from Cub"
-com,"infielders who ended with no play"
 play,5,1,reyej001,12,*BFCS,K
 play,5,1,castl001,31,BFBBB,W.2-3;1-2
 play,5,1,wrigd002,10,*BX,S7/F.3-H;2-H;1-2
@@ -12282,7 +12199,6 @@ play,5,1,sancd001,00,,NP
 sub,fukuk001,"Kosuke Fukudome",0,5,9
 play,5,1,sancd001,00,,NP
 sub,andem003,"Marlon Anderson",1,9,11
-com,"Cubs second baseman Mark DeRosa left the game due to an injured leg"
 play,5,1,andem003,32,..CBFBBB,W
 play,5,1,reyej001,20,BBX,7/L
 play,5,1,murpd006,21,F1BBX,8/F
@@ -12912,7 +12828,6 @@ start,martr003,"Ramon Martinez",1,6,4
 start,churr001,"Ryan Church",1,7,9
 start,castr002,"Ramon Castro",1,8,2
 start,pereo002,"Oliver Perez",1,9,1
-com,"$the final game at Shea Stadium, New York"
 play,1,0,maybc001,12,BSFC,K
 play,1,0,bakej002,10,BX,7/F
 play,1,0,cantj001,00,X,63/G

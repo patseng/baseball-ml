@@ -748,7 +748,6 @@ play,6,1,jordb001,00,H,HP
 play,6,1,mcgrf001,30,BBBX,D9/L.2-H;1-H;B-3(TH)
 play,6,1,coomr001,00,,NP
 sub,gonzw001,"Wiki Gonzalez",0,7,2
-com,"Padres Gary Bennett left the game due to an injured knee"
 play,6,1,coomr001,32,B..SSBBFX,63/G
 play,6,1,coraa001,12,F*BSS,K
 play,7,0,whitr001,31,BBBCB,W
@@ -921,7 +920,6 @@ sub,orosj001,"Jesse Orosco",0,9,1
 play,8,1,grees001,22,.BBFCX,S7/G
 play,8,1,jordb001,22,BSFFFFFBX,S9/G.1-2
 play,8,1,mcgrf001,21,*BBCX,4/P
-com,"Infield fly rule"
 play,8,1,belta001,00,,NP
 sub,wrigj002,"Jaret Wright",0,9,1
 play,8,1,belta001,12,.BFCS,K
@@ -1172,7 +1170,6 @@ play,3,0,bondb001,10,BX,S6/G
 play,3,0,cruzj004,32,CBBS1FB>S,K
 play,3,1,robed001,00,,NP
 sub,galaa001,"Andres Galarraga",0,7,3
-com,"Giants J.T. Snow left the game due to an injured knee"
 play,3,1,robed001,00,.X,S1/G-
 play,3,1,lodup001,00,11X,9/F
 play,3,1,grees001,22,CB11FFFBFS,K
@@ -2031,7 +2028,6 @@ start,hundt001,"Todd Hundley",1,6,2
 start,belta001,"Adrian Beltre",1,7,5
 start,iztuc001,"Cesar Izturis",1,8,6
 start,ishik001,"Kazuhisa Ishii",1,9,1
-com,"16 minute delay during game"
 play,1,0,loftk001,02,CFS,K
 play,1,0,wilsj002,31,CBBBB,W
 play,1,0,kendj001,31,CBBBB,W.1-2
@@ -2574,7 +2570,6 @@ sub,broht001,"Troy Brohawn",1,9,1
 play,9,0,jonec004,30,.2BBBB,W
 play,9,0,jonea002,10,BX,S7/L.2-H;1-2
 play,9,0,fickr001,00,X,5/P
-com,"Infield Fly rule"
 play,9,0,lopej001,20,BBX,HR/7/L.2-H;1-H
 play,9,0,derom001,32,BBSFBC,K
 play,9,1,belta001,00,,NP
@@ -5028,7 +5023,6 @@ play,1,0,bondb001,30,BBBI,IW
 play,1,0,aurir001,22,SCFBFBFX,64(1)/FO/G
 play,1,1,robed001,00,,NP
 sub,felip001,"Pedro Feliz",0,2,3
-com,"Giants J. T. Snow left the game due to an injured groin"
 play,1,1,robed001,12,.CFBX,43/G
 play,1,1,lodup001,22,BCFBFFX,HR/8/F
 play,1,1,grees001,21,SBBX,43/G
@@ -5084,8 +5078,6 @@ play,6,1,browk001,01,CX,63/G
 play,7,0,alfoe001,22,BBFCFX,D9/L
 play,7,0,cruzj004,00,,NP
 sub,shuep001,"Paul Shuey",1,9,1
-com,"Dodgers Kevin Brown left the game due to an injured groin."
-com,"Injury came when running out grounder in 6th"
 play,7,0,cruzj004,12,.BFSS,K
 play,7,0,zerbc001,00,,NP
 sub,peren001,"Neifi Perez",0,9,11
@@ -5225,7 +5217,6 @@ sub,eyres001,"Scott Eyre",0,8,1
 play,6,1,grees001,00,,NP
 sub,santf002,"Francisco Santos",0,9,9
 play,6,1,grees001,01,..SX,D7/L.2-H
-com,"Debut game for Francisco Santos"
 play,6,1,jordb001,12,CFBFX,7/F
 play,7,0,santf002,00,,NP
 sub,coomr001,"Ron Coomer",1,5,3
@@ -5978,9 +5969,6 @@ play,9,0,mendd001,21,.CBBX,8/F
 play,9,0,mattg002,12,BCSX,S8/G
 play,9,0,kotsm001,00,X,S8/L.1-2
 play,9,0,lorem001,12,CCBX,S7/F.2-H;1-3(THH)
-com,"ej,tracj101,M,barrt901,Call at HP"
-com,"Dodgers manager Jim Tracy ejected by HP umpire Ted Barrett"
-com,"for arguing the call at HP"
 play,9,0,hackl001,00,,NP
 sub,buchb002,"Brian Buchanan",0,3,11
 play,9,0,buchb002,10,.BX,164(1)3/GDP
@@ -7581,7 +7569,6 @@ play,1,0,heltt001,02,CFX,S6/G.3-H;1-2
 play,1,0,wilsp002,22,BFSBFX,6!4(1)/FO/G.2-3
 play,1,0,paytj001,32,BBS1BFX,3/P3F
 play,1,0,reyer001,21,BBC>S,SB2
-com,"Debut game for Rene Reyes"
 play,1,0,reyer001,22,BBC>S.FX,53/G
 play,1,1,hendr001,12,CCBX,53/G
 play,1,1,coraa001,21,CBBX,63/G
@@ -7757,9 +7744,6 @@ play,4,0,bellm002,12,CSB1H,HP.1-2
 play,4,0,johnc002,00,X,9/F.2-3
 play,4,0,olivd001,30,BBBB,W.1-2
 play,4,0,bellr002,22,BFB+1FH,HP.3-H;2-3;1-2
-com,"ej,tracj101,M,drakr901,Claimed batter let himself be hit"
-com,"Dodgers Manager Jim Tracy ejected by HP umpire Rob Drake"
-com,"for arguing that the batter did not get out of the way"
 play,4,0,uribj002,00,.X,7/F
 play,4,1,hendr001,32,CBFFFBFBX,8/F-
 play,4,1,cabrj002,21,BFBX,S7/L.B-2(E7/TH)
@@ -7929,9 +7913,6 @@ play,6,0,walkl001,22,CFBFBC,K
 play,6,0,paytj001,00,X,13/G
 play,6,1,coraa001,22,CFFBBFX,S6/G
 play,6,1,cabrj002,02,1C11FX,6/P
-com,"$Uribe intentionally let the ball drop trying"
-com,"to start a double play but Froemming rule the"
-com,"batter out"
 play,6,1,grees001,11,BFX,6(1)/FO/G.B-2(E6/TH)
 play,6,1,lodup001,10,BX,9/F
 play,7,0,reyer001,01,FX,3/G
@@ -8285,7 +8266,6 @@ play,8,0,heref001,00,,NP
 sub,taylr001,"Reggie Taylor",0,9,11
 play,8,0,taylr001,00,,NP
 sub,martt003,"Tom Martin",1,9,1
-com,"Reds Barry Larkin left the game due to an injured groin"
 play,8,0,taylr001,02,...CFFS,K
 play,8,0,jimed001,00,,NP
 sub,quanp001,"Paul Quantrill",1,9,1
@@ -8979,10 +8959,6 @@ play,7,1,belta001,00,,NP
 sub,ayall001,"Luis Ayala",0,7,1
 play,7,1,belta001,00,,NP
 sub,guzme001,"Edwards Guzman",0,9,5
-com,"ej,guerv001,P,ripps901,Home run or ball in play by Green"
-com,"Expos Vladimir Guerrero ejected by 1B umpire Steve Rippley;"
-com,"Guerrero argued very strongly that Green's homer was"
-com,"fan interference"
 play,7,1,belta001,01,..CX,9/F
 play,8,0,schnb001,00,,NP
 sub,quanp001,"Paul Quantrill",1,9,1
@@ -9726,7 +9702,6 @@ play,9,0,bellj001,32,CBSBBX,S8/F
 play,9,0,duncj001,00,,NP
 sub,redmp001,"Prentice Redman",0,6,12
 play,9,0,duncj001,31,.BS11B1B>B,W.1-2
-com,"Debut game for Prentice Redman"
 play,9,0,scutm001,32,BCBSF*BX,64(1)3/GDP
 play,9,1,hendr001,00,,NP
 sub,wiggt001,"Ty Wigginton",0,6,5
@@ -9838,9 +9813,6 @@ play,6,1,coomr001,00,X,9/F-
 play,6,1,iztuc001,20,1B11BX,S5/G.1-2
 play,6,1,browk001,12,BLMX,54/SH/BG.2-3;1-2
 play,6,1,robed001,30,IIII,IW
-com,"ej,tracj101,M,wegnm901,Fair/foul call"
-com,"Dodgers Manager Jim Tracy ejected by 1B umpire Mark Wegner"
-com,"for arguing a foul ball call"
 play,6,1,hendr001,32,BBBCF.>F>B,W.3-H;2-3;1-2
 play,6,1,grees001,00,,NP
 sub,lopej002,"Javier Lopez",0,9,1
@@ -9994,12 +9966,9 @@ play,6,0,johnc002,12,CFBFC,K
 play,6,0,bellm002,32,CBCBBS,K
 play,6,1,robed001,11,CBX,S6/G
 play,6,1,lodup001,20,11BB1>B,SB2
-com,"Roberts hit head on Belliard's knee, game delayed"
-com,"several minutes, left next inning"
 play,6,1,lodup001,30,11BB1>B.B,W
 play,6,1,grees001,32,BBSFFBB,W.2-3;1-2
 play,6,1,mcgrf001,00,X,5/P
-com,"Infield Fly rule"
 play,6,1,belta001,31,BBBCB,W.3-H;2-3;1-2
 play,6,1,burnj001,01,FX,S9/G.3-H;2-H;1-2
 play,6,1,coraa001,00,,NP
@@ -10258,9 +10227,6 @@ play,3,1,lodup001,32,BFBFBX,9/F
 play,3,1,grees001,01,FX,43/G+
 play,4,0,hidar001,00,,NP
 sub,rossd001,"David Ross",1,2,2
-com,"$LoDuca had been hit on the jaw by a foul tip"
-com,"in the 3rd inning after being hit in the same"
-com,"spot the previous day"
 play,4,0,hidar001,00,.X,8/F
 play,4,0,ausmb001,21,BCBX,HR/7/F
 play,4,0,evera001,12,CFBX,53/G
@@ -11185,8 +11151,6 @@ play,7,1,coraa001,00,,NP
 sub,bautd001,"Danny Bautista",0,4,9
 play,7,1,coraa001,12,.BFFX,D9/L
 play,7,1,iztuc001,00,X,13/BG.2-3
-com,"ej,tracj101,M,carlm901,Call at 1B"
-com,"Dodgers Manager Jim Tracy ejected by 1B umpire Mark Carlson"
 play,7,1,quanp001,00,,NP
 sub,hundt001,"Todd Hundley",1,9,11
 play,7,1,hundt001,02,..CFX,2/P2F
@@ -11792,11 +11756,9 @@ sub,martt003,"Tom Martin",1,9,1
 play,7,0,snowj001,32,.CBBFBFFB,W
 play,7,0,aurir001,30,BBBB,W.1-2
 play,7,0,bondb001,11,BFX,3/P
-com,"Infield Fly rule"
 play,7,0,santb001,00,,NP
 sub,quanp001,"Paul Quantrill",1,9,1
 play,7,0,santb001,10,.BX,4/P
-com,"Infield Fly rule"
 play,7,0,alfoe001,22,CBSFBX,9/F
 play,7,1,rossd001,00,,NP
 sub,hergm001,"Matt Herges",0,5,1
@@ -11836,7 +11798,6 @@ sub,youne001,"Eric Young",0,5,11
 play,9,0,youne001,00,,NP
 sub,hammj001,"Jeffrey Hammonds",0,4,12
 play,9,0,youne001,10,..BX,4/P
-com,"Infield Fly rule"
 play,9,0,alfoe001,11,CBX,S7/G.1-2
 play,9,0,grism001,12,FSBX,S9/F.2-H;1-3
 play,9,0,cruzj004,12,CFBB,OA.3XH(21);1-2

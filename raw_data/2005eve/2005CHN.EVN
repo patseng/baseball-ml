@@ -806,7 +806,6 @@ play,9,1,hairj002,21,.BBCX,D9/L.1-3
 play,9,1,lee-d002,00,,NP
 sub,fontm001,"Mike Fontenot",1,4,12
 play,9,1,lee-d002,11,.BSX,53!/G-.3-H;2-3
-com,"Debut game for Mike Fontenot"
 play,9,1,hollt001,22,CBBFX,6/P
 data,er,peavj001,2
 data,er,hammc001,1
@@ -913,7 +912,6 @@ play,6,0,klesr001,00,X,7/F
 play,6,0,nevip001,12,CFBS,K
 play,6,1,peren001,00,X,S9/L
 play,6,1,pattc001,00,B,PB.1-2
-com,"originally scored PB, then WP, then PB again 3 days later"
 play,6,1,pattc001,10,B.X,7/F
 play,6,1,lee-d002,00,X,S9/L.2-H(UR)
 play,6,1,burnj001,12,S*BFS,K
@@ -1119,7 +1117,6 @@ play,9,1,grieb001,20,.BBX,S4/P.1-3
 play,9,1,pattc001,00,,NP
 sub,ceder002,"Ronny Cedeno",1,1,12
 play,9,1,pattc001,02,.SSS,K
-com,"Debut game for Ronny Cedeno"
 data,er,redmm002,2
 data,er,torrs001,1
 data,er,grabj002,0
@@ -1527,8 +1524,6 @@ play,5,0,dunna001,32,BCCFFBFBX,HR/9/F
 play,5,0,keara001,00,H,HP
 play,5,0,aurir001,00,,NP
 sub,ruscg001,"Glendon Rusch",1,9,1
-com,"ej,zambc001,P,welkt901,Intentional HBP"
-com,"Cubs pitcher Carlos Zambrano ejected by HP umpire Tim Welke"
 play,5,0,aurir001,21,..BBC1X,4/P
 play,5,1,hairj002,11,BFX,S7/L
 play,5,1,pattc001,01,C1X,S9/G.1-3;B-2(TH)
@@ -3033,7 +3028,6 @@ start,duboj001,"Jason Dubois",1,7,7
 start,blanh001,"Henry Blanco",1,8,2
 start,priom001,"Mark Prior",1,9,1
 play,1,0,podss001,02,CFC,K
-com,"Debut game for Brandon McCarthy"
 play,1,0,iguct001,21,TBBX,7/F
 play,1,0,rowaa001,12,CTBS,K
 play,1,1,hairj002,02,CFFC,K
@@ -3160,7 +3154,6 @@ start,pattc001,"Corey Patterson",1,7,8
 start,barrm003,"Michael Barrett",1,8,2
 start,ruscg001,"Glendon Rusch",1,9,1
 play,1,0,tavew001,12,CBCS,K
-com,"Debut game for Wandy Rodriguez"
 play,1,0,selft001,10,BX,D7/L
 play,1,0,biggc001,01,FX,3/G.2-3
 play,1,0,berkl001,32,CSBBBFB,W
@@ -3337,7 +3330,6 @@ play,6,0,berkl001,00,X,64(1)3/GDP
 play,6,0,lambm001,32,CSBBBX,53/G
 play,6,1,hairj002,00,,NP
 sub,wheed001,"Dan Wheeler",0,9,1
-com,"Astros pitcher Roger Clemens left the game due to an injured groin"
 play,6,1,hairj002,32,.CBB.BCC,K
 play,6,1,peren001,00,X,7/F
 play,6,1,lee-d002,12,BCCC,K
@@ -3768,9 +3760,6 @@ play,3,1,burnj001,00,X,3/G-
 play,4,0,hawpb001,00,X,15/L5F+
 play,4,0,hollm001,00,,NP
 sub,wellt002,"Todd Wellemeyer",1,9,1
-com,"$Line drive hit Prior on right elbow, caromed to Ramirez"
-com,"for out; X-ray showed no break, but MRI revealed compression"
-com,"fracture. May return later this year"
 play,4,0,hollm001,12,.B.FCX,13/G-
 play,4,0,atkig001,00,X,43/G
 play,4,1,pattc001,31,BBCBX,3/G
@@ -3806,7 +3795,6 @@ play,7,0,closj001,11,BSX,36(1)/FO/G.B-1
 play,7,0,cortd001,00,,NP
 sub,garae001,"Eddy Garabito",0,9,11
 play,7,0,garae001,11,.BCX,43/G-
-com,"Debut game for Eddy Garabito"
 play,7,1,pattc001,00,,NP
 sub,carvm001,"Marcos Carvajal",0,9,1
 play,7,1,pattc001,20,.BBX,HR/9/F
@@ -4856,7 +4844,6 @@ play,5,1,lee-d002,31,BCBB*B,W.1-2
 play,5,1,burnj001,00,X,46(1)/FO/G.2-3;B-1
 play,6,0,varij001,00,,NP
 sub,wellt002,"Todd Wellemeyer",1,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured foot/ankle"
 play,6,0,varij001,30,.BBBB,W
 play,6,0,muelb001,12,C1FBS,K
 play,6,0,bellm002,30,BBBB,W.1-2
@@ -5306,7 +5293,6 @@ play,6,1,pattc001,21,BFBX,31/G
 play,6,1,lee-d002,30,BBBX,HR/7/L+
 play,6,1,burnj001,00,,NP
 sub,smitt001,"Travis Smith",0,9,1
-com,"Marlins pitcher Josh Beckett left the game due to an injured hand/wrist"
 play,6,1,burnj001,31,CBB.BX,D7/F
 play,6,1,ramia001,11,CBX,HR/78/F.2-H
 play,6,1,walkt002,21,BBF.X,S9/G
@@ -5476,7 +5462,6 @@ play,5,1,peren001,01,CX,43/G
 play,6,0,castl001,00,,NP
 sub,hillr001,"Rich Hill",1,9,1
 play,6,0,castl001,12,.CSFBFX,9/F
-com,"Debut game for Rich Hill"
 play,6,0,cabrm001,32,BFBFBX,D9/F
 play,6,0,delgc001,12,CCBS,K
 play,6,0,lowem001,02,CFX,D8/F.2-H
@@ -5643,8 +5628,6 @@ play,6,1,lee-d002,22,BBCCS,K
 play,6,1,ramia001,22,BBCCS,K
 play,6,1,barrm003,11,SBX,4/P
 play,7,0,hallb001,02,CFFC,K
-com,"ej,hallb001,P,dimum901,Called third strike"
-com,"Brewers second baseman Bill Hall ejected by HP umpire Mike DiMuro"
 play,7,0,lee-c001,01,.CX,E5/G.B-1
 play,7,0,overl001,22,CSB1FFBFC,K
 play,7,0,helmw001,22,*BSF1BS,K
@@ -6754,14 +6737,9 @@ play,8,1,remlm001,00,,NP
 sub,grieb001,"Ben Grieve",1,9,11
 play,8,1,grieb001,01,..FX,S8/G
 play,8,1,hairj002,00,B,WP.1-2
-com,"$the first pitch to Jerry Hairston was behind him"
 play,8,1,hairj002,31,B.BBCX,5/P
 play,8,1,walkt002,00,,NP
 sub,voger001,"Ryan Vogelsong",0,3,1
-com,"ej,mesaj001,P,darlg901,Yelling at Jerry Hairston"
-com,"Pirates pitcher Jose Mesa stepped off the mound as Jerry Hairston"
-com,"ran across the infield on his way back to the dugout; Mesa was"
-com,"ejected by 1B umpire Gary Darling"
 play,8,1,walkt002,21,..BBFX,5/P5F
 play,8,1,lee-d002,02,CFX,S6/G-.2-3
 play,8,1,burnj001,00,,NP
@@ -6850,7 +6828,6 @@ play,2,1,ramia001,00,,NP
 sub,bay-j001,"Jason Bay",0,3,7
 play,2,1,ramia001,00,,NP
 sub,redmt001,"Tike Redman",0,4,8
-com,"Pirates left fielder Craig Wilson left the game due to an injured hand/wrist"
 play,2,1,ramia001,00,..X,63/G
 play,2,1,murtm001,32,CBBBSS,K
 play,2,1,burnj001,22,CCBBX,8/L
@@ -7313,7 +7290,6 @@ play,2,0,niekl001,00,X,S8/L-.1-2
 play,2,0,cruzd001,01,CX,64(1)3/GDP
 play,2,1,burnj001,00,,NP
 sub,tuckm001,"Michael Tucker",0,4,9
-com,"Giants right fielder Moises Alou left the game due to an injured leg"
 play,2,1,burnj001,32,.CBSFBFFFBX,9/F
 play,2,1,peren001,12,CLBC,K
 play,2,1,murtm001,11,BFX,S8/G+
@@ -7322,7 +7298,6 @@ play,3,0,mathm001,32,BFBSBX,7/F
 play,3,0,lowrn001,00,X,9/L+
 play,3,0,ellij001,00,X,D9/G
 play,3,0,vizqo001,22,FFB.BC,K
-com,"$Career strikeout 3000 for Greg Maddux"
 play,3,1,hairj002,31,CBBBB,W
 play,3,1,walkt002,20,BBX,5/P5F
 play,3,1,lee-d002,32,CBBF1FFFB>X,S9/F-.1-3
@@ -7349,7 +7324,6 @@ play,6,0,alfoe001,00,X,S9/L
 play,6,0,tuckm001,10,B>X,53/G.1-2
 play,6,0,felip001,21,*BF*BB,WP.2-3
 play,6,0,felip001,31,*BF*BB.X,FC1/G.3XH(1)
-com,"Maddux picked up slow roller on line, tagged Alfonzo going by"
 play,6,1,barrm003,00,,NP
 sub,munts001,"Scott Munter",0,9,1
 play,6,1,barrm003,12,.CFBX,D9/F
@@ -7723,7 +7697,6 @@ play,7,0,snydc002,02,CFC,K
 play,7,0,halsb001,00,,NP
 sub,jackc002,"Conor Jackson",0,9,11
 play,7,0,jackc002,12,.CBSX,3/P
-com,"Debut game for Conor Jackson"
 play,7,1,burnj001,00,,NP
 sub,terrl001,"Luis Terrero",0,2,8
 play,7,1,burnj001,00,,NP
@@ -9631,7 +9604,6 @@ play,1,1,lee-d002,22,CS*B1BX,7/F
 play,1,1,ramia001,00,X,64(1)3/GDP
 play,2,0,franj002,00,,NP
 sub,macij001,"Jose Macias",1,4,5
-com,"Cubs third baseman Aramis Ramirez left the game due to an injured leg"
 play,2,0,franj002,22,.BBSFFX,53/G
 play,2,0,franj004,22,BBSSX,4/P
 play,2,0,langr002,32,BBFBFFC,K
@@ -10142,8 +10114,6 @@ play,7,1,lee-d002,32,BSFBBX,S8/L.3-H
 play,7,1,burnj001,00,>C,SB2
 play,7,1,burnj001,32,>C.BCBBFX,S6/G.2-2
 play,7,1,garcn001,32,BBBC>F>F>B,W.2-3;1-2
-com,"ej,alfoa001,P,diazl901,Balls and strikes"
-com,"Marlins pitcher Antonio Alfonseca ejected by HP umpire Laz Diaz"
 play,7,1,hollt001,00,,NP
 sub,riedj001,"John Riedling",0,9,1
 play,7,1,hollt001,01,..FX,D7/F-.3-H;2-H;1-3
@@ -10273,7 +10243,6 @@ play,3,0,roblo001,10,BX,S7/L.2-3
 play,3,0,kentj001,00,X,D8/F.3-H;1-H
 play,3,0,leder001,00,,NP
 sub,valej003,"Jose Valentin",0,4,11
-com,"Dodgers left fielder Ricky Ledee left the game due to an injured leg"
 play,3,0,valej003,01,.CX,9/F
 play,3,1,wellt002,00,,NP
 sub,valej003,"Jose Valentin",0,4,7
@@ -10627,7 +10596,6 @@ play,6,1,hairj002,12,BCFFX,5!/P5F
 play,7,0,kentj001,00,,NP
 sub,vanbj002,"Jermaine Van Buren",1,9,1
 play,7,0,kentj001,32,.SBCBBX,8/F
-com,"Debut game for Jermaine Van Buren"
 play,7,0,saeno001,00,X,S8/G
 play,7,0,philj003,32,BCFBFFBC,K
 play,7,0,edwam001,12,CBFX,9/F
@@ -10654,7 +10622,6 @@ play,9,0,roblo001,02,....CCX,63/G
 play,9,0,kentj001,00,,NP
 sub,aybaw001,"Willy Aybar",0,3,11
 play,9,0,aybaw001,12,.FSBX,13/G-
-com,"Debut game for Willy Aybar"
 play,9,0,saeno001,30,BBBB,W
 play,9,0,philj003,32,BBCSF*B>B,W.1-2
 play,9,0,edwam001,10,BX,7/L
@@ -10990,7 +10957,6 @@ play,10,1,peren001,01,LX,3E4/SH/BG.1-2;B-1
 play,10,1,wuerm001,00,,NP
 sub,therr001,"Ryan Theriot",1,9,11
 play,10,1,therr001,32,.FLBFBFBC,K
-com,"Debut game for Ryan Theriot"
 play,10,1,hairj002,32,BBBCCFB,W.2-3;1-2
 play,10,1,walkt002,22,CFBBX,S9/F.3-H;2-3;1-2
 data,er,milte001,3
@@ -11154,7 +11120,6 @@ sub,belim001,"Matt Belisle",0,8,1
 play,8,1,barrm003,01,.FH,HP.1-2
 play,8,1,murtm001,00,,NP
 sub,blanh001,"Henry Blanco",1,6,12
-com,"Cubs catcher Michael Barrett left the game due to an injured head"
 play,8,1,murtm001,22,.BB.CFX,52(3)/FO/G-.2-3;1-2;B-1
 play,8,1,peren001,00,X,6/P-
 play,9,0,lopef001,00,,NP
@@ -11353,7 +11318,6 @@ play,9,1,grieb001,12,.FCBFFS,K
 play,9,1,peren001,31,BBBCB,W.1-2
 play,9,1,blanh001,22,BFBFF,FLE2
 play,9,1,blanh001,32,BFBFFB>F>X,S6/G-.2-3;1-2
-com,"$game called for rain after 58 minute delay"
 data,er,suppj001,1
 data,er,reyea001,0
 data,er,priom001,3
@@ -11429,8 +11393,6 @@ play,3,0,grudm001,12,CBCFX,4/P
 play,3,1,ruscg001,12,CFFFBH,HP
 play,3,1,hairj002,12,SMFFBC,K
 play,3,1,peren001,22,BCBCX,36(1)3/GDP
-com,"ej,hairj002,P,marsr901,Balls and strikes"
-com,"Cubs second baseman Jerry Hairston, Jr ejected by 2B umpire Randy Marsh"
 play,4,0,tagus001,00,,NP
 sub,murtm001,"Matt Murton",1,1,7
 play,4,0,tagus001,01,..CX,S8/L
@@ -11878,7 +11840,6 @@ play,1,1,walkt002,11,CBX,S8/L
 play,1,1,lee-d002,10,BX,D8/F.1-3
 play,1,1,garcn001,00,,NP
 sub,macij001,"Jose Macias",1,2,12
-com,"Todd Walker left the game due to an injured knee"
 play,1,1,garcn001,10,.BX,S7/L.3-H;2-3
 play,1,1,burnj001,22,SBS.*BFX,36(1)/FO/G.3-H;B-1
 play,1,1,barrm003,00,1B,WP.1-2
@@ -11934,7 +11895,6 @@ play,5,1,pattc001,11,SBX,S8/L
 play,5,1,ruscg001,00,,NP
 sub,sotog001,"Geovany Soto",1,9,11
 play,5,1,sotog001,31,.F1BBBX,9/L
-com,"Debut game for Geovany Soto"
 play,6,0,chavr001,00,,NP
 sub,wuerm001,"Michael Wuertz",1,9,1
 play,6,0,chavr001,02,.CLS,K

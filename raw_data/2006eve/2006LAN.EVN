@@ -555,7 +555,6 @@ start,repkj001,"Jason Repko",1,7,8
 start,navad001,"Dioner Navarro",1,8,2
 start,pennb002,"Brad Penny",1,9,1
 play,1,0,winnr001,01,CX,7/F
-com,"rain delayed start until 9:49 PM"
 play,1,0,vizqo001,22,CBBFX,63/G
 play,1,0,finls001,22,CBBFC,K
 play,1,1,furcr001,32,CBBFBB,W
@@ -603,8 +602,6 @@ play,6,1,lonej001,10,BX,31/G
 play,6,1,muelb001,22,CBBFX,41/G
 play,7,0,finls001,00,,NP
 sub,hamut001,"Tim Hamulack",1,9,1
-com,"Dodgers pitcher Brad Penny left the game due to an injured arm,"
-com,"hurt on Finley's comebacker in the 4th"
 play,7,0,finls001,31,.BCBBB,W
 play,7,0,bondb001,32,CBBBC>B,W.1-2
 play,7,0,durhr001,02,CCL,K/BF
@@ -904,7 +901,6 @@ sub,hamut001,"Tim Hamulack",1,9,1
 play,7,0,sweem001,22,.SCBBFFFC,K
 play,7,1,drewj001,32,CFBBFBB,W
 play,7,1,kentj001,00,H,HP.1-2
-com,"$Kent hit in head, suffered concussion"
 play,7,1,cruzj004,00,,NP
 sub,martr003,"Ramon Martinez",1,4,12
 play,7,1,cruzj004,10,.BX,54/SH/BG.2-3;1-2
@@ -926,9 +922,6 @@ play,8,0,aloum001,00,,NP
 sub,kuo-h001,"Hong-Chih Kuo",1,8,1
 play,8,0,aloum001,00,,NP
 sub,aloms001,"Sandy Alomar",1,9,2
-com,"ej,hamut001,P,barkl901,Intentional HBP"
-com,"Dodgers pitcher Tim Hamulack ejected by HP umpire"
-com,"Lance Barksdale who ruled this was retaliation for Kent"
 play,8,0,aloum001,10,....P>B,SB2
 play,8,0,aloum001,32,....P>B.CBFB,W
 play,8,0,durhr001,12,SBCT,K
@@ -1026,8 +1019,6 @@ play,2,1,muelb001,10,BX,3/G
 play,3,0,ceder002,22,BSSBX,S9/L
 play,3,0,maddg002,12,LPLC,K
 play,3,0,pierj002,12,PFFX,FC4/INT.1X2(4);B-1
-com,"originally ruled that ball hit runner, later changed"
-com,"to say that runner interfered with 2b man"
 play,3,0,walkt002,12,CS1BF1X,S7/G.1-2
 play,3,0,lee-d002,32,BCBFFB>S,K
 play,3,1,roblo001,32,CCBBFFBX,43/G
@@ -1360,8 +1351,6 @@ play,7,1,loftk001,00,,NP
 sub,wills002,"Scott Williamson",0,3,1
 play,7,1,loftk001,00,,NP
 sub,peren001,"Neifi Perez",0,5,4
-com,"Cubs pitcher Scott Eyre left the game due to an injured knee"
-com,"Cubs first baseman Derrek Lee left the game due to an injured hand/wrist"
 play,7,1,loftk001,00,...1>B,SB2
 play,7,1,loftk001,20,...1>B.BX,3/G
 play,7,1,cruzj004,12,BSSX,S4/G.2-3
@@ -1376,7 +1365,6 @@ play,8,0,wills002,00,,NP
 sub,navad001,"Dioner Navarro",1,9,2
 play,8,0,wills002,00,,NP
 sub,bynuf001,"Freddie Bynum",0,3,11
-com,"Dodgers catcher Sandy Alomar left the game due to an injured leg"
 play,8,0,bynuf001,01,....SX,53/G
 play,8,0,ramia001,01,SX,4/P-
 play,8,0,peren001,02,CSX,S7/L
@@ -1830,7 +1818,6 @@ play,4,1,saeno001,32,BFBBSFFFFB,W
 play,4,1,muelb001,00,X,7/F
 play,5,0,hudso001,32,BBFFFBX,S8/L
 play,5,0,tracc001,32,CBBSF1FB>S,K/INT/DP.1X1(2)
-com,"batter interference"
 play,5,0,gonzl001,00,X,5/P5F
 play,5,1,leder001,21,SBBX,3/G
 play,5,1,navad001,21,BCBX,S7/L
@@ -2342,9 +2329,6 @@ play,8,1,roblo001,01,CX,63/G
 play,9,0,lehrj001,00,,NP
 sub,cirij001,"Jeff Cirillo",0,9,11
 play,9,0,cirij001,32,.BBBCCC,K
-com,"ej,cirij001,P,laynj901,Called third strike"
-com,"ej,yoste001,M,laynj901,Called third strike"
-com,"Brewers Jeff Cirillo & Mgr Ned Yost ejected by HP umpire Jerry Layne"
 play,9,0,weekr001,11,CBX,8/F
 play,9,0,hardj003,21,..BFBX,D7/L
 play,9,0,jenkg001,00,X,3/G
@@ -2731,7 +2715,6 @@ play,1,0,berkl001,01,1CX,7/F
 play,1,0,ensbm001,30,BB*BX,HR/8/F.1-H
 play,1,0,wilsp002,00,,NP
 sub,loftk001,"Kenny Lofton",1,7,8
-com,"Dodgers left fielder Jason Repko left the game due to an injured foot/ankle"
 play,1,0,wilsp002,00,.X,S5/BG
 play,1,0,lanej001,01,CX,8/F
 play,1,1,furcr001,32,BBBCFX,9/L
@@ -3394,7 +3377,6 @@ start,martr004,"Russell Martin",1,8,2
 start,tomkb001,"Brett Tomko",1,9,1
 play,1,0,figgc001,12,CFFBX,53/G
 play,1,0,kenna001,00,X,DGR/9
-com,"fan interference"
 play,1,0,guerv001,20,B*BX,7/F
 play,1,0,rivej001,01,C*B,WP.2-3
 play,1,0,rivej001,12,C*B.FX,D9/L.3-H
@@ -3718,7 +3700,6 @@ play,2,1,ethia001,01,FX,7/F
 play,2,1,martr004,21,BBCX,3/G
 play,3,0,carrj001,00,,NP
 sub,gonzl004,"Luis Gonzalez",0,1,11
-com,"Rockies second baseman Jamey Carroll left the game due to an injured foot/ankle"
 play,3,0,gonzl004,00,.X,DGR/7/L
 play,3,0,atkig001,01,CX,S9/L.2XH(92);B-2(TH)
 play,3,0,heltt001,31,BFB*BB,W
@@ -4943,7 +4924,6 @@ play,2,0,floyc001,02,CSX,S8/L.1-2
 play,2,0,valej003,00,X,D9/L.2-H;1-3
 play,2,0,milll002,00,,NP
 sub,chave002,"Endy Chavez",0,6,12
-com,"Mets left fielder Cliff Floyd left the game due to an injured foot/ankle"
 play,2,0,milll002,32,.*BFBTBFFFFX,8/SF.3-H
 play,2,0,martp001,02,CSS,K
 play,2,0,woodc001,32,CBFB*BB,W
@@ -5810,7 +5790,6 @@ play,8,1,kempm001,02,CFS,K
 play,9,0,hernj001,22,CFFBBX,4/P
 play,9,0,cotah001,01,CX,S9/L
 play,9,0,sancf001,11,BSX,DGR/7/L.1-3
-com,"fan interference"
 play,9,0,wilsc003,11,*BSX,S8/G.3-H;2-3
 play,9,0,castj005,01,CX,63/G.3-H;1-2
 play,9,0,martd004,00,,NP
@@ -6262,9 +6241,6 @@ play,7,1,broxj001,00,,NP
 sub,meddb001,"Brandon Medders",0,9,1
 play,7,1,broxj001,00,,NP
 sub,saeno001,"Olmedo Saenz",1,4,11
-com,"ej,choar001,P,barrt901,Intentional HBP"
-com,"ej,melvb001,M,barrt901,Intentional HBP"
-com,"Diamondbacks Randy Choate & Mgr Bob Melvin ejected by HP umpire Ted Barrett"
 play,7,1,saeno001,02,....SFC,K
 play,7,1,kentj001,12,FFBS,K
 play,7,1,ethia001,02,SFFFX,S6/G.3-H(UR);2-3;1-2
@@ -6869,7 +6845,6 @@ play,5,0,vizqo001,32,BBBCFFX,3/P3F
 play,5,0,aloum001,00,X,63/G
 play,5,1,garcn001,00,X,4/P
 play,5,1,drewj001,10,BX,DGR/7
-com,"fan interference"
 play,5,1,ethia001,00,X,S8/G.2-H
 play,5,1,martr003,32,11BBC1B>F>B,W.1-2
 play,5,1,iztuc001,21,BCBX,6/LDP.2X2(6)
@@ -7207,7 +7182,6 @@ play,5,0,winnr001,32,FF*BBF*B>B,W.2-3;1-2
 play,5,0,vizqo001,00,X,S9/G.3-H;2-3;1-2
 play,5,0,aloum001,00,,NP
 sub,vizcj001,"Jose Vizcaino",0,2,12
-com,"Giants shortstop Omar Vizquel left the game due to an injured leg"
 play,5,0,aloum001,11,.SBX,6/P
 play,5,1,martr004,00,,NP
 sub,vizcj001,"Jose Vizcaino",0,2,6
@@ -7778,10 +7752,6 @@ play,1,0,piazm001,11,CBX,43/G
 play,1,1,furcr001,21,CBBX,7/F
 play,1,1,drewj001,00,X,5/P5F
 play,1,1,garcn001,21,BFBX,9/F
-com,"umpchange,2,umphome,hoyej901"
-com,"umpchange,2,ump1b,timmt901"
-com,"umpchange,2,ump2b,(None)"
-com,"$HP umpire Derryl Cousins left after one inning because of knee problems"
 play,2,0,gonza003,01,CX,S8/L
 play,2,0,greek002,11,CBX,S7/L.1-2
 play,2,0,bellm002,22,BBSSX,8/F
@@ -7866,7 +7836,6 @@ play,8,1,drewj001,01,CX,46(1)/FO/G
 play,8,1,garcn001,01,FX,7/F7LF
 play,8,1,ethia001,22,BBCSFX,S7/L.1-3
 play,8,1,martr004,00,X,D9/F9DW.3-H;1-H
-com,"$In and out of glove at wall, could have been E9"
 play,8,1,beimj001,00,,NP
 sub,leder001,"Ricky Ledee",1,6,11
 play,8,1,leder001,01,.CX,S7/L.2-H
@@ -7905,10 +7874,7 @@ play,11,0,greek002,00,,NP
 sub,carrg001,"Giovanni Carrara",1,6,1
 play,11,0,greek002,32,.CBBBSX,8/F
 play,11,0,youne001,01,CX,63/G
-com,"ej,bochb002,M,timmt901,Call at 1B"
-com,"Padres Manager Bruce Bochy ejected by 1B umpire Tim Timmons"
 play,11,0,barfj003,22,FSBBFFX,D4/P
-com,"bloop double over the glove of 2B Ramon Martinez"
 play,11,0,bardj001,01,CX,S8/G.2-H
 play,11,0,robed001,21,*BBC>C,SB2
 play,11,0,robed001,32,*BBC>C.FFBFB,W
@@ -8642,8 +8608,6 @@ play,2,0,churr001,32,BCBFBB,W
 play,2,0,jackd003,12,SMBX,S8/L.2-H;1-2
 play,2,0,schnb001,12,CSBX,36(1)/FO/G.2-3
 play,2,0,ortir002,00,N,BK.3-H;1-2
-com,"Hendrickson caught spikes of front foot as he strode to plate, fell"
-com,"without throwing the ball"
 play,2,0,ortir002,22,N.B+2BCSX,1/BP
 play,2,0,soria001,01,CX,53/G
 play,2,1,betew001,01,CX,D9/L
@@ -8665,7 +8629,6 @@ play,3,1,betew001,21,CBBX,S7/L
 play,3,1,lonej001,32,BBBCC>X,43/G
 play,4,0,schnb001,00,,NP
 sub,fickr001,"Robert Fick",0,8,11
-com,"Nationals catcher Brian Schneider left the game due to an injured back"
 play,4,0,fickr001,01,.CX,43/G
 play,4,0,ortir002,11,BCX,S7/G
 play,4,0,soria001,10,BX,4/P
@@ -8832,17 +8795,12 @@ play,5,1,martr004,00,,NP
 sub,corpm001,"Manuel Corpas",0,8,1
 play,5,1,martr004,00,,NP
 sub,smitj001,"Jason Smith",0,9,6
-com,"ej,foggj001,P,holbs901,Balls and strikes"
-com,"Rockies pitcher Josh Fogg ejected by HP umpire Sam Holbrook"
-com,"after he was removed by manager Clint Hurdle"
 play,5,1,martr004,32,...TBSBBX,4/P3F
 play,5,1,pennb002,10,BX,8/L
 play,6,0,smitj001,00,X,S7/L-
 play,6,0,carrj001,12,CFBF>B,SB2
 play,6,0,carrj001,32,CFBF>B.FBX,7/F
 play,6,0,sullc001,12,CFBFX,S4/G.2XH(4524);B-2(TH)
-com,"$Lugo stopped ball behind 2B, had no play at 1B, then caught"
-com,"Smith who had rounded 3B too far"
 play,6,0,atkig001,20,BBX,8/F
 play,6,1,furcr001,10,BX,53/G-
 play,6,1,loftk001,10,BX,S7/L
@@ -9117,9 +9075,6 @@ play,4,1,garcn001,31,BBBCX,S7/L.1-3
 play,4,1,drewj001,00,,NP
 sub,lonej001,"James Loney",1,4,11
 play,4,1,lonej001,12,.CCBN,CSH(12).1-2
-com,"Lugo broke for home, but the Rockies called out"
-com,"to Francis, who stepped off the rubber and made a perfect"
-com,"throw to the right hand batter's box as Lugo slid in"
 play,4,1,lonej001,12,.CCBN.X,3/G
 play,5,0,hawpb001,00,,NP
 sub,lonej001,"James Loney",1,4,9
@@ -9177,7 +9132,6 @@ play,9,0,heltt001,00,X,D7/L
 play,9,0,atkig001,00,,NP
 sub,carrj001,"Jamey Carroll",0,2,12
 play,9,0,atkig001,10,.BX,FC6/G56.2X3(65)
-com,"great play by Furcal in hole; no possible play at 1B"
 play,9,0,hollm001,12,CBFX,S8/L.1-2
 play,9,0,hawpb001,00,,NP
 sub,lugoj001,"Julio Lugo",1,2,4
@@ -9189,11 +9143,6 @@ play,9,0,hawpb001,00,,NP
 sub,betew001,"Wilson Betemit",1,9,5
 play,9,0,hawpb001,31,....BBBCX,S9/G.2-H;1-3
 play,9,0,torry001,12,CBF>B,SBH;SB2.1-3(E2/TH)
-com,"Dodger catcher Martin faked throw to second, then had"
-com,"Holliday trapped off 3B; Rundown ensued and Holliday"
-com,"scored when catcher dropped ball as Holliday went by;"
-com,"error on catcher accounts for Hawpe taking 3B"
-com,"Probable correct scoring is SBH;SB2.1X3(25E2)"
 play,9,0,torry001,22,CBF>B.X,7/F
 play,9,1,martr004,00,,NP
 sub,smitj001,"Jason Smith",0,1,3
@@ -9344,8 +9293,6 @@ play,8,1,ethia001,10,.BX,HR/8/F
 play,8,1,betew001,32,SFBFBBX,43/G
 play,8,1,martr004,00,,NP
 sub,mesaj001,"Jose Mesa",0,9,1
-com,"ej,kingr001,P,wendh902,Balls and strikes"
-com,"Rockies pitcher Ray King ejected by HP umpire Hunter Wendelstedt"
 play,8,1,martr004,10,..BX,63/G
 play,9,0,heltt001,00,,NP
 sub,saitt001,"Takashi Saito",1,9,1
@@ -10198,7 +10145,6 @@ play,4,1,selea001,00,,NP
 sub,hermj001,"Jeremy Hermida",0,6,9
 play,4,1,selea001,00,,NP
 sub,furcr001,"Rafael Furcal",1,9,11
-com,"Marlins right fielder Cody Ross left the game due to an injured knee"
 play,4,1,furcr001,20,..B*BX,4/P-
 play,4,1,loftk001,21,BFBX,7/F
 play,5,0,olivm001,00,,NP
@@ -11090,7 +11036,6 @@ play,4,1,kempm001,20,BBX,13/G
 play,5,0,sullc001,11,BFX,63/G
 play,5,0,barmc001,11,CBX,S7/G
 play,5,0,cooka002,01,LX,2/BG/INT.1-1
-com,"Cook out on batter interference"
 play,5,0,matsk001,01,C>B,CS2(26)
 play,5,1,drewj001,21,BFBX,HR/8/F
 play,5,1,kentj001,10,BX,4/P
@@ -11352,8 +11297,6 @@ play,9,0,carrj001,12,.CSBX,7/F
 play,9,0,hollm001,00,,NP
 sub,freec001,"Choo Freeman",0,4,11
 play,9,0,freec001,00,.X,E2/G-
-com,"dribbler in front of plate, originally scored as E2,"
-com,"then single, then back to E2 after game"
 play,9,0,castv001,12,FSBB,WP.1-2
 play,9,0,castv001,32,FSBB.FBX,HR/8/F.2-H(UR)
 play,9,0,iannc001,01,FX,43/G
@@ -11480,7 +11423,6 @@ play,7,0,walkt002,00,,NP
 sub,kentj001,"Jeff Kent",1,4,3
 play,7,0,walkt002,00,,NP
 sub,lugoj001,"Julio Lugo",1,6,4
-com,"Dodgers first baseman Nomar Garciaparra left the game due to an injured leg"
 play,7,0,walkt002,00,...X,43/G
 play,7,0,gileb002,01,CX,S9/L
 play,7,0,piazm001,01,CX,64(1)3/GDP
@@ -11489,7 +11431,6 @@ sub,brocd001,"Doug Brocail",0,9,1
 play,7,1,andem003,00,.X,S1/BG.B-2(E3/TH)
 play,7,1,maddg002,00,,NP
 sub,embra001,"Alan Embree",0,9,1
-com,"Broocail pulled hamstring and left"
 play,7,1,maddg002,00,,NP
 sub,saeno001,"Olmedo Saenz",1,9,11
 play,7,1,saeno001,20,..*BB>C,SB3
@@ -12055,7 +11996,6 @@ play,9,1,martr004,00,,NP
 sub,hofft001,"Trevor Hoffman",0,9,1
 play,9,1,martr004,00,.X,HR/7/F
 play,9,1,andem003,00,X,HR/9/F
-com,"$the fourth time in history a club has hit four consecutive homers"
 play,9,1,lugoj001,00,X,8/F
 play,9,1,saitt001,00,,NP
 sub,ethia001,"Andre Ethier",1,9,11
@@ -12570,8 +12510,6 @@ play,8,0,sancf001,00,.X,S9/L
 play,8,0,bay-j001,22,BCCBX,8/F
 play,8,0,nadyx001,00,X,S8/F-.1-3
 play,8,0,doumr001,12,CBCC,K
-com,"ej,doumr001,P,gibsg901,Called third strike"
-com,"Pirates catcher Ryan Doumit ejected by HP umpire Greg Gibson"
 play,8,0,paulr001,01,.FX,9/F
 play,8,1,kentj001,00,,NP
 sub,randj002,"Joe Randa",0,6,3

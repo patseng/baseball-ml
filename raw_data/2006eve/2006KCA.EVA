@@ -195,8 +195,6 @@ play,2,0,monrc001,12,CFBC,K
 play,2,0,ingeb001,02,FSFS,K
 play,2,1,miend001,12,CBFC,K
 play,2,1,browe001,00,X,43/G
-com,"$Brown fell as he hit the ball and only got two or three"
-com,"steps toward first base"
 play,2,1,teahm001,22,BSBFS,K23
 play,3,0,granc001,22,BSSBX,8/F
 play,3,0,polap001,10,BX,7/F
@@ -279,8 +277,6 @@ play,9,0,thamm001,10,...BX,HR/7/F
 play,9,0,shelc001,31,CBBBX,S7/L+
 play,9,0,guilc001,00,X,HR/9/F.1-H
 play,9,0,monrc001,00,H,HP
-com,"ej,woodm002,P,eddid901,Intentional HBP"
-com,"Royals pitcher Mike Wood ejected by HP umpire Doug Eddings"
 play,9,0,ingeb001,00,,NP
 sub,sisca001,"Andrew Sisco",1,0,1
 play,9,0,ingeb001,02,..CTS,K
@@ -421,7 +417,6 @@ play,7,0,credj001,00,,NP
 sub,costs001,"Shane Costa",1,1,8
 play,7,0,credj001,00,,NP
 sub,desse001,"Elmer Dessens",1,0,1
-com,"Royals center fielder David DeJesus left the game due to an injured leg"
 play,7,0,credj001,11,..CBX,9/F
 play,7,0,uribj002,31,BBCBX,53/G
 play,7,0,widgc001,22,CFBBC,K
@@ -726,9 +721,6 @@ play,9,0,podss001,12,.FFBX,3/G
 play,9,1,sweem002,00,,NP
 sub,jenkb001,"Bobby Jenks",0,0,1
 play,9,1,sweem002,32,.CFBBFBX,5/L
-com,"ej,bellb001,M,wintm901,Catch/no catch"
-com,"Royals Manager Buddy Bell ejected by HP umpire Mike Winters for"
-com,"arguing that the ball popped out of Crede's glove"
 play,9,1,sandr002,21,.BCBX,HR/89/F
 play,9,1,browe001,01,CX,53/G
 play,9,1,berra001,12,BCSS,K
@@ -1014,9 +1006,6 @@ play,6,0,broub001,11,BFX,43/G
 play,6,1,germe001,12,CBSH,HP
 play,6,1,costs001,00,,NP
 sub,slocb001,"Brian Slocum",0,0,1
-com,"ej,guthj001,P,wolfj901,Intentional HBP"
-com,"ej,wedge001,M,westj901,Arguing ejection of Guthrie"
-com,"Indians pitcher Jeremy Guthrie & Mgr Eric Wedge ejected by HP umpire Jim Wolf"
 play,6,1,costs001,00,...X,S9/L.1-3
 play,6,1,grudm001,10,1BB,PB.1-2
 play,6,1,grudm001,32,1BB.SSBFX,S8/F.3-H;2-3
@@ -4320,7 +4309,6 @@ play,2,0,gomej001,22,BFBCFFX,HR/7/F
 play,2,0,huffa001,32,CBBFFFFBB,W
 play,2,0,baldr001,01,CX,S9/G.1-3
 play,2,0,branr001,01,SX,8/F/TP.1X2(816);3X3(65)
-com,"Huff out on appeal for leaving 3B too soon to complete the triple play"
 play,2,1,teahm001,02,CCX,S8/G
 play,2,1,browe001,31,CB1BB11>X,53/G.1-2
 play,2,1,costs001,32,CBBBFFFX,31/G.2-3
@@ -5733,9 +5721,6 @@ play,7,0,castl001,00,,NP
 sub,wellt002,"Todd Wellemeyer",1,0,1
 play,7,0,castl001,12,.CCFBX,S8/L
 play,7,0,puntn001,21,BBS1>T,SB2
-com,"ej,bellb001,M,hallt901,Arguing for foul ball"
-com,"Royals Manager Buddy Bell ejected by 1B umpire Tom Hallion arguing that"
-com,"Nick Punto fouled the pitch when Luis Castillo stole 2B"
 play,7,0,puntn001,22,BBS1>T..X,43/G.2-3
 play,7,0,mauej001,30,BBII,IW
 play,7,0,cuddm001,01,CB,WP.1-2
@@ -6044,8 +6029,6 @@ play,8,1,grudm001,00,X,S8/L.2-H(UR)
 play,8,1,miend001,00,X,T9/L.1-H(UR)
 play,8,1,browe001,01,SX,7/F
 play,9,0,zaung001,12,CSBC,K
-com,"ej,zaung001,P,fleta901,Called third strike"
-com,"Blue Jays catcher Gregg Zaun ejected by HP umpire Andy Fletcher"
 play,9,0,hilla001,12,FS.BX,4/P
 play,9,0,adamr002,12,CSBX,9/F
 data,er,burna001,4
@@ -6160,7 +6143,6 @@ play,6,0,johnr008,00,,NP
 sub,miend001,"Doug Mientkiewicz",1,2,3
 play,6,0,johnr008,00,,NP
 sub,graft001,"Tony Graffanino",1,5,4
-com,"Royals second baseman Mark Grudzielanek left the game due to an injured back"
 play,6,0,johnr008,10,..BX,13/G
 play,6,0,cataf001,32,CBBBCFB,W
 play,6,0,wellv001,01,SX,4/P3F
@@ -6493,7 +6475,6 @@ play,5,1,berra001,31,FBBBB,W
 play,5,1,buckj001,00,,NP
 sub,gregk001,"Kevin Gregg",0,0,1
 play,5,1,buckj001,01,.1CX,46(1)3/DP/RINT
-com,"DP on runner interference, not GDP"
 play,6,0,quinr002,00,,NP
 sub,morak001,"Kendry Morales",0,8,11
 play,6,0,morak001,02,.CFX,7/L-
@@ -6794,9 +6775,6 @@ play,8,0,andeg001,20,BBX,63/G
 play,8,1,graft001,00,,NP
 sub,shies002,"Scot Shields",0,0,1
 play,8,1,graft001,12,.CBCS,K
-com,"ej,graft001,P,westj901,Balls and strikes"
-com,"ej,bellb001,M,westj901,Balls and strikes"
-com,"Royals Tony Graffanino & Mgr Buddy Bell ejected by HP umpire Joe West"
 play,8,1,costs001,11,..BSX,7/F
 play,8,1,berra001,01,CX,63/G
 play,9,0,rivej001,00,,NP
@@ -6949,7 +6927,6 @@ play,7,0,figgc001,31,BLBBB,W
 play,7,0,kendh001,00,,NP
 sub,nelsj002,"Joe Nelson",1,0,1
 play,7,0,kendh001,32,.PBCB>S>X,2/G/INT
-com,"Kendrick out for interfering with catcher Buck"
 play,7,1,costs001,00,,NP
 sub,iztum001,"Maicer Izturis",0,2,5
 play,7,1,costs001,01,.CX,43/G
@@ -7049,7 +7026,6 @@ play,2,0,robeb003,00,X,8/F
 play,2,0,moram002,11,BCX,S8/G
 play,2,0,tejam001,11,CBX,S9/G.1-2
 play,2,0,conij001,21,BBCX,2/G/INT
-com,"Conine out on batter interference"
 play,2,1,teahm001,11,CBX,43/G
 play,2,1,costs001,31,BFBBX,5/L
 play,2,1,berra001,01,CX,S7/G
@@ -7089,7 +7065,6 @@ play,6,0,conij001,12,BFFS,K
 play,6,0,hernr002,11,SBX,FC1/G.2X2(14)
 play,6,0,millk005,00,X,64(1)/FO/G
 play,6,1,staim001,20,BBF,FLE2
-com,"Error, even though Hernandez did not touch ball"
 play,6,1,staim001,31,BBFBB,W
 play,6,1,teahm001,21,BBCX,HR/7/F.1-H(UR)
 play,6,1,costs001,10,BX,13/G
@@ -7745,7 +7720,6 @@ play,8,0,konep001,00,,NP
 sub,gobbj001,"Jimmy Gobble",1,0,1
 play,8,0,konep001,00,,NP
 sub,podss001,"Scott Podsednik",0,4,11
-com,"White Sox designated hitter Paul Konerko left the game due to an injured elbow"
 play,8,0,podss001,11,..FBX,S8/L
 play,8,0,credj001,02,CFX,1/LDP.1X1(13)
 play,8,0,cinta001,00,X,S5/BG.B-2(E5/TH)
@@ -7782,8 +7756,6 @@ play,10,0,gloar001,02,1SFX,D7/G.1-H
 play,10,0,andeb003,21,FBBX,S7/L.2-H
 play,10,0,mackr001,00,,NP
 sub,nunel001,"Leo Nunez",1,0,1
-com,"ej,bellb001,M,welkb901,Balls and strikes"
-com,"Royals Manager Buddy Bell ejected by HP umpire Bill Welke"
 play,10,0,mackr001,00,..>X,9/F
 play,10,1,berra001,00,,NP
 sub,piera001,"A.J. Pierzynski",0,7,2
@@ -7997,8 +7969,6 @@ start,buckj001,"John Buck",1,7,2
 start,blana001,"Andres Blanco",1,8,6
 start,gathj001,"Joey Gathright",1,9,8
 start,delaj001,"Jorge DeLaRosa",1,0,1
-com,"Coach Scott Ullger managed in place of Ron Gardenhire"
-com,"who missed the game with flu-like symptoms"
 play,1,0,castl001,32,BBBCCFB,W
 play,1,0,puntn001,00,1X,13/SH/BG.1-2
 play,1,0,mauej001,31,BBC*BB,W
@@ -8361,8 +8331,6 @@ play,5,0,castl001,00,,NP
 sub,peraj002,"Joel Peralta",1,0,1
 play,5,0,castl001,10,.BX,S7/L.3-H;2-3;1-2
 play,5,0,puntn001,32,B*BBCC>B,W.3-H;2-3;1-2
-com,"ej,bakop001,P,knigb901,Balls and strikes"
-com,"Royals catcher Paul Bako ejected by HP umpire Brian Knight"
 play,5,0,mauej001,00,,NP
 sub,buckj001,"John Buck",1,7,2
 play,5,0,mauej001,11,..FBX,D7/F.3-H;2-H;1-3
@@ -8698,7 +8666,6 @@ play,5,0,youkk001,01,CX,9/F9LF.2-3
 play,5,0,lowem001,12,CBFX,13/G
 play,5,1,dejed001,00,,NP
 sub,coraa001,"Alex Cora",0,2,4
-com,"Loretta hit on elbow and left game with bad bruise"
 play,5,1,dejed001,32,.BCBBCX,3/G
 play,5,1,grudm001,00,X,S9/L
 play,5,1,sweem002,20,B*BX,S7/G.1-2
@@ -9157,7 +9124,6 @@ play,6,1,bakop001,11,LBX,54/SH/BG.2-3;1-2
 play,6,1,berra001,20,BBH,HP
 play,6,1,gathj001,00,,NP
 sub,blana001,"Andres Blanco",1,8,12
-com,"Royals shortstop Angel Berroa left the game due to an injured neck/shoulder"
 play,6,1,gathj001,21,.*BSBX,7/SF.3-H
 play,6,1,dejed001,31,BBBCX,46(1)/FO/G
 play,7,0,chave001,00,,NP
@@ -9426,7 +9392,6 @@ play,3,1,sweem002,31,BBCBB,W.1-2
 play,3,1,teahm001,21,CB*BX,S8/L.2-H;1-2
 play,3,1,browe001,00,,NP
 sub,germe001,"Esteban German",1,3,12
-com,"Royals designated hitter Mike Sweeney left the game due to an injured knee"
 play,3,1,browe001,30,.BBBX,D8/L.2-H;1XH(862)
 play,4,0,thomf001,01,.CX,8/F
 play,4,0,chave001,10,BX,4/P
@@ -9440,7 +9405,6 @@ play,5,0,ellim001,11,CBX,S9/L-
 play,5,0,kendj001,02,CFX,8/L
 play,5,1,blana001,00,X,S1/BG
 play,5,1,dejed001,01,C1X,2/BP/INT
-com,"DeJesus called out on batter's interference"
 play,5,1,grudm001,00,X,36(1)/FO/G
 play,5,1,germe001,02,CC11S,K
 play,6,0,kotsm001,22,CBBFFX,63/G
@@ -10870,7 +10834,6 @@ play,6,0,wilsc003,00,,NP
 sub,wellt002,"Todd Wellemeyer",1,0,1
 play,6,0,wilsc003,00,,NP
 sub,giamj001,"Jason Giambi",0,7,11
-com,"Royals pitcher Jorge De La Rosa left the game due to an injured hand/wrist"
 play,6,0,giamj001,12,..BCCFB,WP.2-3;1-2
 play,6,0,giamj001,22,..BCCFB.FFFT,K
 play,6,1,browe001,00,,NP
@@ -11076,7 +11039,6 @@ play,9,1,keppj001,00,,NP
 sub,farnk001,"Kyle Farnsworth",0,3,1
 play,9,1,keppj001,00,....X,13/G
 play,9,1,gathj001,20,BBX,S4/G
-com,"originally scored E4, changed after game"
 play,9,1,germe001,00,X,HR/8/F.1-H
 play,9,1,blana001,02,CSS,K
 play,9,1,sweem002,12,FFBC,K
@@ -11795,7 +11757,6 @@ play,3,1,germe001,22,BFCBX,53/G
 play,3,1,grudm001,00,X,S6/G
 play,3,1,sweem002,00,,NP
 sub,gathj001,"Joey Gathright",1,3,12
-com,"Royals second baseman Mark Grudzielanek left the game due to an injured leg"
 play,3,1,sweem002,31,.B.1*BBFB,W.1-2
 play,3,1,browe001,10,BX,16(1)3/GDP
 play,4,0,rivej001,00,,NP
@@ -11964,7 +11925,6 @@ play,4,1,berra001,21,BSBX,S5/BG
 play,4,1,bakop001,22,1CSBBS,K
 play,5,0,molij001,00,,NP
 sub,browe001,"Emil Brown",1,1,7
-com,"Royals center fielder David DeJesus left the game due to an injured hand/wrist"
 play,5,0,molij001,10,.BX,43/G
 play,5,0,kenna001,01,CX,3/G
 play,5,0,figgc001,11,CBX,S9/L-
@@ -11986,7 +11946,6 @@ play,7,0,molij001,21,1BCBX,9/F
 play,7,0,kenna001,00,1X,31/G.1-2
 play,7,0,figgc001,12,CBCFS,K
 play,7,1,berra001,01,CX,2/G
-com,"Berroa out on batter interference"
 play,7,1,bakop001,10,BX,43/G
 play,7,1,keppj001,22,BFBCFFX,9/F
 play,8,0,cabro001,00,,NP
@@ -12085,8 +12044,6 @@ start,berra001,"Angel Berroa",1,7,6
 start,keppj001,"Jeff Keppinger",1,8,5
 start,philp001,"Paul Phillips",1,9,2
 start,hudsl001,"Luke Hudson",1,0,1
-com,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils;"
-com,"bench coach Billy Doran running the team"
 play,1,0,granc001,32,BBBCFFS,K
 play,1,0,rodri001,12,FBFFFFS,K
 play,1,0,cases001,11,CBX,8/F
@@ -12242,8 +12199,6 @@ start,berra001,"Angel Berroa",1,7,6
 start,keppj001,"Jeff Keppinger",1,8,5
 start,gathj001,"Joey Gathright",1,9,8
 start,redmm002,"Mark Redman",1,0,1
-com,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils;"
-com,"bench coach Billy Doran running the team"
 play,1,0,granc001,21,CBBX,HR/8/F
 play,1,0,monrc001,02,CFX,63/G
 play,1,0,thamm001,31,BBBCB,W
@@ -12421,8 +12376,6 @@ start,keppj001,"Jeff Keppinger",1,7,5
 start,bakop001,"Paul Bako",1,8,2
 start,blana001,"Andres Blanco",1,9,6
 start,hernr003,"Runelvys Hernandez",1,0,1
-com,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils;"
-com,"bench coach Billy Doran running the team"
 play,1,0,granc001,32,CBBFBX,D9/F
 play,1,0,rodri001,10,BX,6/P
 play,1,0,cases001,31,BBFBB,W

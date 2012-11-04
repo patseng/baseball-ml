@@ -58,7 +58,6 @@ play,2,1,segud001,21,BCBX,S
 play,2,1,richc001,22,BBFFX,3(B)3(1)/LDP
 play,2,1,ripkc001,00,X,43/G
 play,3,0,hills002,00,X,9/F9S
-com,"Debut game for Shea Hillenbrand"
 play,3,0,daubb001,22,BSCBFS,K
 play,3,0,grebc001,22,BFBFFX,53/G
 play,3,1,moram002,10,BX,7/L7
@@ -81,8 +80,6 @@ play,5,0,daubb001,00,X,7/L7
 play,5,1,ripkc001,02,SFFX,43/G
 play,5,1,moram002,12,CSBFH,HP
 play,5,1,fordb001,01,CX,5/L.1X2(14)
-com,"Mora out on appeal for missing 2nd base while going"
-com,"to 3rd on Hillenbrand's wild throw. No DP."
 play,6,0,grebc001,12,FCBS,K
 play,6,0,stync001,10,BX,5/FL
 play,6,0,nixot001,12,CCBS,K
@@ -225,7 +222,6 @@ play,4,1,deshd001,30,BBBB,W
 play,4,1,segud001,00,X,46(1)/FO
 play,4,1,richc001,10,BX,4/P4
 play,4,1,moram002,12,BCFFB,OA.1X2(24)
-com,"originally scored as CS2, later changed to OA"
 play,5,0,varij001,32,BBCFBX,9/F9
 play,5,0,hills002,22,BFFBFX,9/F9
 play,5,0,daubb001,00,X,E6/G
@@ -376,7 +372,6 @@ play,6,1,bordm001,00,,NP
 sub,garcr001,"Rich Garces",0,0,1
 play,6,1,bordm001,32,BBFBCH,HP
 play,6,1,deshd001,32,FFBBFBX,9/DP.3X3(15)
-com,"Hairston out on appeal. Nixon gets a DP, no assist."
 play,7,0,daubb001,32,BBFBFB,W
 play,7,0,lansm001,00,X,43/G.1-2
 play,7,0,nixot001,22,CBFBB,WP.2-3
@@ -414,7 +409,6 @@ play,9,1,bordm001,12,BLFFFX,63/G.2-3
 play,9,1,deshd001,30,IIII,IW
 play,9,1,segud001,30,IIII,IW.1-2
 play,9,1,conij001,02,CFFX,52(3)/FO.2-3;1-2
-com,"$Boston with 5 infielders - Everett at '1B'"
 play,9,1,moram002,32,CBLBFBB,W.3-H;2-3;1-2
 data,er,castf001,1
 data,er,garcr001,0
@@ -798,8 +792,6 @@ play,7,1,bordm001,22,BCBFFX,S9
 play,7,1,deshd001,00,,NP
 sub,kinkm001,"Mike Kinkade",1,3,11
 play,7,1,kinkm001,10,BX,54(1)3/GDP
-com,"ej,hargm001,M,reynj901,Balls and strikes"
-com,"Orioles Manager Mike Hargrove ejected by HP umpire Jim Reynolds in 8th"
 play,8,0,vaugg001,00,,NP
 sub,kinkm001,"Mike Kinkade",1,3,7
 play,8,0,vaugg001,00,,NP
@@ -1242,7 +1234,6 @@ play,7,1,gibbj002,01,SX,9/F9
 play,8,0,alomr001,00,,NP
 sub,paroc001,"Chad Paronto",1,0,1
 play,8,0,alomr001,00,X,7/FL
-com,"Debut game for Chad Paronto"
 play,8,0,gonzj002,10,BX,53/G
 play,8,0,thomj002,00,X,63/G
 play,8,1,kinkm001,00,X,S9
@@ -1329,8 +1320,6 @@ play,1,1,bordm001,00,,BK.2-3;1-2
 play,1,1,bordm001,21,SBBX,63/G.3-H;2-3
 play,1,1,conij001,31,BBBCX,S7/7S.3-H
 play,1,1,segud001,22,BCBCFC,K+CS2(24)/DP/C
-com,"ej,segud001,P,kulpr901,Called third strike (threw helmet)"
-com,"David Segui ejected by HP umpire Ron Kulpa"
 play,2,0,cordm001,00,,NP
 sub,richc001,"Chris Richard",1,5,3
 play,2,0,cordm001,01,CX,S8/8S
@@ -1814,7 +1803,6 @@ play,7,0,cox-s001,31,FBBBB,W.1-2
 play,7,0,castv001,00,,NP
 sub,towej001,"Josh Towers",1,0,1
 play,7,0,castv001,00,X,2/FL
-com,"Debut game for Josh Towers"
 play,7,1,conij001,22,CBFBC,K/C
 play,7,1,richc001,01,FX,S
 play,7,1,ripkc001,00,H,HP.1-2
@@ -1951,9 +1939,6 @@ play,6,0,justd001,12,CBFS,K
 play,6,0,soria001,01,SX,D7
 play,6,0,olivj001,00,B,SB3
 play,6,0,olivj001,12,BFCX,7/SF.3-H
-com,"ej,hargm001,M,relic901,Arguing appeal play"
-com,"Orioles Manager Mike Hargrove ejected by HP umpire Charlie Reliford"
-com,"arguing that Alfonso Soriano left 3B too soon"
 play,6,0,bross001,11,CBX,53/G
 play,6,1,richc001,00,X,7/F7
 play,6,1,ripkc001,10,BX,53/G
@@ -2727,7 +2712,6 @@ sub,ryanb001,"B.J. Ryan",1,0,1
 play,9,0,fickr001,02,CCFC,K/C
 play,9,0,ceder001,21,BFBX,S7.1-3(E7)
 play,9,0,macij001,00,X,4(B)63(1)/LDP
-com,"Hairston caught ball on shoe tops, threw to 2nd to be sure."
 data,er,weavj002,2
 data,er,hentp001,2
 data,er,groob001,0
@@ -3303,7 +3287,6 @@ sub,guare001,"Eddie Guardado",0,0,1
 play,9,1,ripkc001,22,FFBBX,64(1)/FO.2-3
 play,9,1,kinkm001,00,H,HP.1-2
 play,9,1,lunaf001,02,FFX,4/SF.3-H
-com,"$deep popup, retreating second baseman made late throw"
 data,er,redmm002,2
 data,er,carrh001,0
 data,er,wellb002,1
@@ -3532,8 +3515,6 @@ play,1,0,ecksd001,12,BCCFFX,53/G
 play,1,0,erstd001,12,CFBFS,K
 play,1,0,glaut001,02,CFX,D9/9D
 play,1,0,joynw001,32,BBBCCC,K/C
-com,"ej,hatcm001,C,welkb901,Balls and strikes"
-com,"$Angel coach Mickey Hatcher ejected by HP umpire Bill Welke over strike call"
 play,1,1,andeb001,00,X,7/F7
 play,1,1,bordm001,11,CBX,3/G
 play,1,1,richc001,02,CSFX,63/G
@@ -3554,8 +3535,6 @@ play,2,1,bordm001,00,2,PO2(14)
 play,3,0,ecksd001,32,CBBBCC,K/C
 play,3,0,erstd001,31,BBSBX,S7
 play,3,0,glaut001,31,BBBCX,HR/7.1-H
-com,"ej,joynw001,P,welkb901,Balls and strikes"
-com,"Wally Joyner ejected by HP umpire Bill Welke over strike call"
 play,3,0,joynw001,01,C,NP
 sub,palmo001,"Orlando Palmeiro",0,4,11
 play,3,0,palmo001,01,CX,63/G
@@ -3623,9 +3602,6 @@ play,8,1,hairj002,00,,NP
 sub,andeg001,"Garret Anderson",0,5,7
 play,8,1,hairj002,00,X,63/G
 play,8,1,andeb001,32,BCFBBC,K/C
-com,"ej,andeb001,P,welkb901,Called third strike (Broke bat)"
-com,"$Brady Anderson broke bat in anger over high strike call,"
-com,"ejected by HP umpire Bill Welke; third for Welke in game"
 play,8,1,bordm001,12,BCCFFS,K
 play,9,0,salmt001,00,,NP
 sub,deshd001,"Delino DeShields",1,7,7
@@ -3912,7 +3888,6 @@ play,7,0,younm003,01,CX,163/G
 play,7,1,bordm001,01,CX,5/L5
 play,7,1,richc001,31,BBBFX,S8
 play,7,1,conij001,32,BBCFFFBX,8/F8
-com,"1:05 rain delay"
 play,7,1,segud001,00,,NP
 sub,morej001,"Juan Moreno",0,0,1
 play,7,1,segud001,31,BBFBX,S7.1-2
@@ -4406,7 +4381,6 @@ start,johnj007,"Jason Johnson",1,0,1
 play,1,0,jonet004,22,CBBSX,S
 play,1,0,pridc001,00,,NP
 sub,smitm004,"Mark Smith",0,1,12
-com,"$Jones stained left hamstring on infield hit"
 play,1,0,pridc001,31,BBBCB,W.1-2
 play,1,0,guerv001,00,X,9/L9.2-3
 play,1,0,stevl001,00,1,PO1(E1).3-H(UR);1-2
@@ -4879,7 +4853,6 @@ play,1,0,relad001,00,X,8/F8
 play,1,0,piazm001,01,CX,8/F8
 play,1,1,andeb001,02,CCS,K
 play,1,1,robeb003,00,X,8/L8
-com,"Debut game for Brian Roberts"
 play,1,1,segud001,21,BFBX,63/G
 play,2,0,ventr001,02,CFX,43/G
 play,2,0,shint001,02,CFX,63/G
@@ -5331,7 +5304,6 @@ play,4,0,gonza001,12,BFFX,64(1)/FO
 play,4,1,ripkc001,00,X,8/F8
 play,4,1,deshd001,20,BBX,6/L6
 play,4,1,lunaf001,22,CCBFFBC,K/C
-com,"1:05 rain delay in 5th"
 play,5,0,fletd001,12,CFBFX,7/L7
 play,5,0,fryej001,22,BSCBX,43/G
 play,5,0,stews002,02,SSFX,63/G
@@ -5348,7 +5320,6 @@ play,6,0,delgc001,22,CBFBX,9/F9
 play,6,0,cruzj004,01,FB,SB2
 play,6,0,cruzj004,12,FBFS,K
 play,6,1,gibbj002,22,SSBBX,HR/7
-com,"$off the pole"
 play,6,1,kinkm001,32,CBCBFBX,6/P6
 play,6,1,ripkc001,10,BX,3/P3
 play,6,1,deshd001,11,FBX,7/F7
@@ -5806,7 +5777,6 @@ sub,moram002,"Melvin Mora",1,6,6
 play,5,0,clayr001,00,,NP
 sub,bigbl001,"Larry Bigbie",1,2,9
 play,5,0,clayr001,01,FX,S9
-com,"Debut game for Larry Bigbie"
 play,5,0,johnm003,01,LX,63/G.1-2
 play,5,0,durhr001,00,X,3/G.2-3
 play,5,0,singc001,01,CX,8/F8D
@@ -6380,7 +6350,6 @@ start,ripkc001,"Cal Ripken",1,7,5
 start,kinkm001,"Mike Kinkade",1,8,7
 start,lunaf001,"Fernando Lunar",1,9,2
 start,towej001,"Josh Towers",1,0,1
-com,"42 minute rain delay in the 1st"
 play,1,0,knobc001,01,SX,1/P1
 play,1,0,jeted001,21,BBCX,D9/9D
 play,1,0,willb002,11,BCX,HR/89.2-H
@@ -6727,8 +6696,6 @@ play,4,1,ripkc001,22,BCFFBX,3/G.1-2
 play,4,1,moram002,22,CSBFBX,53/G.2-3
 play,4,1,lunaf001,32,BSBBCB,W
 play,4,1,hairj002,22,BCBCS,K
-com,"ej,hairj002,P,riekr901,Balls and strikes"
-com,"Jerry Hairston ejected by HP umpire Rich Rieker"
 play,5,0,rollj001,00,,NP
 sub,robeb003,"Brian Roberts",1,2,4
 play,5,0,rollj001,00,,NP
@@ -7015,7 +6982,6 @@ start,lunaf001,"Fernando Lunar",1,8,2
 start,hairj002,"Jerry Hairston",1,9,4
 start,dougs001,"Sean Douglass",1,0,1
 play,1,0,cataf001,21,BBCX,D/78
-com,"Debut game for Sean Douglass"
 play,1,0,lambm001,20,BBX,43/G.2-3
 play,1,0,rodra001,32,BFBBFB,W
 play,1,0,palmr001,01,CX,7/SF.3-H
@@ -7160,8 +7126,6 @@ start,batit001,"Tony Batista",1,7,10
 start,fordb001,"Brook Fordyce",1,8,2
 start,hairj002,"Jerry Hairston",1,9,4
 start,towej001,"Josh Towers",1,0,1
-com,"$first game in Baltimore after 3 days of postponements due to"
-com,"derailment of train carrying hazardous materials"
 play,1,0,ecksd001,11,CBX,S1/BG1
 play,1,0,glaut001,02,CSC,K/C
 play,1,0,erstd001,02,FFX,C/E2.1-2
@@ -7794,7 +7758,6 @@ start,kinkm001,"Mike Kinkade",1,7,7
 start,lunaf001,"Fernando Lunar",1,8,2
 start,hairj002,"Jerry Hairston",1,9,4
 start,ponss001,"Sidney Ponson",1,0,1
-com,"$Make-up of a game that was cancelled due to a chemical-train wreck"
 play,1,0,cataf001,02,CFFFX,8/F8S
 play,1,0,velar001,11,BCX,S/89S
 play,1,0,rodra001,21,BCBX,64(1)/FO
@@ -8323,7 +8286,6 @@ play,7,1,hairj002,00,X,S8/8S
 play,7,1,andeb001,31,CBBBB,W.1-2
 play,7,1,robeb003,20,BBX,13/SH.2-3;1-2
 play,7,1,richc001,10,BX,S8.3-H;2XH(5)
-com,"Anderson ruled out on interference for touching third base coach"
 play,7,1,conij001,12,FBSB,CS2(24)
 play,8,0,tynej001,00,,NP
 sub,kohlr001,"Ryan Kohlmeier",1,0,1
@@ -9066,7 +9028,6 @@ play,6,1,ripkc001,21,BBFX,31/G
 play,7,0,sadld001,10,BX,S7/7S
 play,7,0,feblc001,01,CX,FC3.1-2;B-1
 play,7,0,peren001,00,X,24/SH.2-H(NR);1-2
-com,"$Lunar failed to cover plate, no RBI, no error"
 play,7,0,beltc001,00,X,HR/89.2-H
 play,7,0,randj002,10,BX,9/F9
 play,7,0,ibanr001,11,FBX,7/L7
@@ -9907,8 +9868,6 @@ play,4,0,longt002,12,CCBX,6/P6
 play,4,1,ripkc001,01,CX,S8
 play,4,1,batit001,32,BCSBBX,7/F7
 play,4,1,richc001,20,BBX,7(B)43(1)/FDP
-com,"ej,hargm001,M,welkb901,Balls and strikes"
-com,"Orioles Manager Mike Hargrove ejected by HP umpire Bill Welke in 5th"
 play,5,0,hernr002,22,CCBBX,S8
 play,5,0,menef001,22,BCBCX,S9/9S.1-3
 play,5,0,damoj001,21,FBBX,9/SF.3-H
@@ -9931,8 +9890,6 @@ play,6,0,giamj002,00,,NP
 sub,gantr001,"Ron Gant",0,2,11
 play,6,0,gantr001,22,SBBFC,K/C
 play,6,1,hairj002,22,BFBCFX,9/F9
-com,"ej,moram002,P,welkb901,Balls and strikes"
-com,"Melvin Mora ejected by HP umpire Bill Welke after arguing called strike 1"
 play,6,1,moram002,01,C,NP
 sub,bigbl001,"Larry Bigbie",1,3,11
 play,6,1,bigbl001,12,C.BSC,K/C
@@ -10121,7 +10078,6 @@ play,9,0,olerj001,02,CCX,4/L4
 play,9,0,boonb002,00,,NP
 sub,robew001,"Willis Roberts",1,0,1
 play,9,0,boonb002,22,BBCFFFX,13/G
-com,"game called for rain after 45 minute delay"
 data,er,selea001,2
 data,er,halaj001,0
 data,er,maduc001,0
@@ -10183,7 +10139,6 @@ play,1,1,richc001,32,CBBBFS,K+CS2(26)/DP
 play,2,0,olerj001,21,CBBX,43/G4
 play,2,0,boonb002,22,BBCFS,K
 play,2,0,camem001,22,CBCFBFFX,HR/78
-com,"403'"
 play,2,0,javis001,21,BFBX,31/G34
 play,2,1,conij001,31,BFBBB,W
 play,2,1,ripkc001,32,BBFBFC,K/C
@@ -10199,7 +10154,6 @@ play,3,0,marte001,02,CCC,K/C
 play,3,1,moram002,11,BCX,8/F78S
 play,3,1,bigbl001,32,CBCBBB,W
 play,3,1,richc001,11,CBX,S5/G1.1-3;B-2(E5/TH1)
-com,"off the pitcher's leg"
 play,3,1,conij001,30,IIII,IW
 play,3,1,ripkc001,32,BCBFBS,K
 play,3,1,batit001,01,CX,2/P2RF
@@ -10226,7 +10180,6 @@ play,5,1,fordb001,02,CFFFC,K/C
 play,6,0,marte001,10,BX,3/FL
 play,6,0,olerj001,12,FBSS,K
 play,6,0,boonb002,11,BFX,S/G1
-com,"liner off the pitcher's leg"
 play,6,0,camem001,00,X,D/78.1-H
 play,6,0,javis001,01,CX,D7/L7LD.2-H
 play,6,0,belld002,30,BBBB,W
@@ -10239,7 +10192,6 @@ play,6,0,buhnj001,31,BSBBB,W
 play,6,0,suzui001,00,,NP
 sub,wilsd001,"Dan Wilson",0,9,12
 play,6,0,suzui001,21,BBCX,S9/G1.3-H;2-H;1-3
-com,"off the pitcher's leg and into RF"
 play,6,0,mclem001,11,BCB,SB2
 play,6,0,mclem001,22,BCBCX,63/G6D
 play,6,1,hairj002,00,,NP
@@ -10347,11 +10299,9 @@ start,fordb001,"Brook Fordyce",1,8,2
 start,hairj002,"Jerry Hairston",1,9,4
 start,bauer001,"Rick Bauer",1,0,1
 play,1,0,suzui001,22,BCFBFFFFX,6/P6
-com,"Debut game for Rick Bauer"
 play,1,0,mclem001,11,CBX,7/F7
 play,1,0,boonb002,02,CFS,K
 play,1,1,harrw001,11,CBX,43/G
-com,"Debut game for Willie Harris"
 play,1,1,moram002,22,SBSBC,K/C
 play,1,1,richc001,12,BFFX,S/78
 play,1,1,conij001,12,FCBFX,4/L4
@@ -11045,7 +10995,6 @@ sub,raint002,"Tim Raines",1,2,8
 play,9,0,fullb001,00,,NP
 sub,matol001,"Luis Matos",1,1,9
 play,9,0,fullb001,22,BCBSX,63/G
-com,"Debut game for Tim Raines"
 play,9,0,lopef001,01,CX,8/F8D
 play,9,0,fletd001,22,BCBFFS,K
 play,9,1,richc001,00,,NP
@@ -11207,7 +11156,6 @@ play,9,1,raint002,00,,NP
 sub,dewim001,"Matt DeWitt",0,0,1
 play,9,1,raint002,10,BX,D9
 play,9,1,robeb003,31,BBBCX,54/SH/BG5S.2-3
-com,"$the ball was on the line and rolling foul"
 play,9,1,conij001,30,IIII,IW
 play,9,1,richc001,30,IIII,IW.1-2
 play,9,1,batit001,22,BCBFFS,K
@@ -11900,9 +11848,6 @@ start,ripkc001,"Cal Ripken",1,7,5
 start,gil-g001,"Geronimo Gil",1,8,2
 start,hairj002,"Jerry Hairston",1,9,4
 start,bauer001,"Rick Bauer",1,0,1
-com,"$Home plate umpire Cooper left with strain to Achilles"
-com,"tendon somewhere in this game, don't know when"
-com,"$Cal Ripken's last game with ceremonies on field; number retired"
 play,1,0,offej001,21,FBBX,31/G
 play,1,0,lewid001,22,CBFFBC,K/C
 play,1,0,nixot001,21,CBBX,5/FL

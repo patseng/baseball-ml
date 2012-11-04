@@ -1604,7 +1604,6 @@ sub,halts001,"Shane Halter",1,8,3
 play,9,0,ingeb001,00,,NP
 sub,hensm001,"Matt Hensley",1,0,1
 play,9,0,ingeb001,01,.....FX,S9/L
-com,"Debut game for Matt Hensley"
 play,9,0,infao001,31,CBBBB,W.1-2
 play,9,0,sanca003,11,CBX,54(1)3/GDP.2-3
 play,9,0,vinaf001,00,,NP
@@ -1713,11 +1712,6 @@ play,6,0,penac001,32,BBBC1C>F>B,W.1-2
 play,6,0,higgb001,32,SSFBFBB>X,S9/L.2-H;1-H
 play,6,0,monrc001,00,,NP
 sub,gregk001,"Kevin Gregg",1,0,1
-com,"ej,escok001,P,marqa901,Balls and strikes (after being removed)"
-com,"ej,sciom001,M,marqa901,Protesting Escobar's ejection"
-com,"$Kelvim Escobar comlained about two pitches while leaving the field"
-com,"and was ejected by HP umpire Alfonzo Marquez; manager Mike Scioscia"
-com,"argued with Marquez and was also ejected"
 play,6,0,monrc001,12,...*BCC1B,WP.1-2
 play,6,0,monrc001,32,...*BCC1B.BT,K
 play,6,1,davaj001,00,,NP
@@ -2098,7 +2092,6 @@ play,3,1,guerv001,00,H,HP.1-2
 play,3,1,glaut001,10,BX,S7/G.2XH(72);1-2
 play,4,0,martt002,00,,NP
 sub,quinr002,"Robb Quinlan",1,2,3
-com,"$Erstad left game with injured leg"
 play,4,0,martt002,00,.H,HP
 play,4,0,cruzj004,00,X,6(1)3/GDP
 play,4,0,lugoj001,12,BCFFS,K
@@ -2228,7 +2221,6 @@ play,2,1,glaut001,01,CX,S7/F
 play,2,1,guilj001,10,BX,S7/G.1-2
 play,2,1,davaj001,11,BLX,3/G.2-3;1-2
 play,2,1,kotcc001,00,X,FC3/G.3XH(32)
-com,"Debut game for Casey Kotchman"
 play,2,1,molij001,01,SX,S8/L.2-H;1-3
 play,2,1,kenna001,11,BSX,9/F
 play,3,0,martt002,22,CBBSX,HR/9/F
@@ -2260,7 +2252,6 @@ play,5,0,lugoj001,10,BX,3/P
 play,5,0,sancr001,10,BX,53/G
 play,5,1,glaut001,00,,NP
 sub,fickr001,"Robert Fick",0,5,7
-com,"$Perez ruptured Achilles tendon. Out for season"
 play,5,1,glaut001,01,.CX,53/G
 play,5,1,guilj001,30,BBBX,HR/89/F
 play,5,1,davaj001,22,CBBCFX,7/F
@@ -2582,11 +2573,6 @@ play,6,0,jeted001,00,,NP
 sub,gregk001,"Kevin Gregg",1,0,1
 play,6,0,jeted001,32,.CBFBFBFB,W.3-H;2-3;1-2
 play,6,0,willb002,22,BCCBX,5/P/IF
-com,"ej,torrj101,M,timmt901,Balls and strikes"
-com,"Yankees Manager Joe Torre ejected by HP umpire Tim Timmons"
-com,"for arguing a called strike to Alex Rodriguez; Torre yelled"
-com,"that the pitch was low and motioned near the bottom of his shin"
-com,"near his ankle"
 play,6,0,rodra001,12,SBCS,K
 play,6,1,davaj001,00,,NP
 sub,wilse001,"Enrique Wilson",0,9,4
@@ -3586,7 +3572,6 @@ play,4,0,vizqo001,00,,NP
 sub,kenna001,"Adam Kennedy",1,1,4
 play,4,0,vizqo001,00,,NP
 sub,ameza001,"Alfredo Amezaga",1,9,6
-com,"$Eckstein left game with injured leg"
 play,4,0,vizqo001,02,..CFS,K23
 play,4,0,geruj001,20,BBX,6/P
 play,4,0,martv001,12,SSBX,S8/F
@@ -3898,7 +3883,6 @@ play,5,0,lawtm002,32,FBBBFS,K
 play,5,1,paulj001,00,X,7/F
 play,5,1,ameza001,00,,NP
 sub,whitr002,"Rick White",0,0,1
-com,"Dawley left game with injured elbow"
 play,5,1,ameza001,10,B.X,14/BG
 play,5,1,figgc001,12,CCBX,8/F
 play,6,0,bellr002,00,X,S7/G
@@ -4435,7 +4419,6 @@ play,8,0,clarb003,10,BX,S8/L-.1-3
 play,8,0,jenkg001,00,,NP
 sub,bergd003,"Dusty Bergman",1,0,1
 play,8,0,jenkg001,01,.CX,7/SF.3-H
-com,"Debut game for Dusty Bergman"
 play,8,0,overl001,10,BB,WP.1-2
 play,8,0,overl001,31,BB.BCB,W
 play,8,0,spivj001,00,X,S7/G.2-3;1-2
@@ -4563,7 +4546,6 @@ play,6,1,figgc001,00,X,53/BG
 play,6,1,guerv001,00,X,43/G
 play,7,0,gintk001,00,,NP
 sub,gregk001,"Kevin Gregg",1,0,1
-com,"$Sele left game with injured neck"
 play,7,0,gintk001,20,.BBX,3/G
 play,7,0,benng001,32,FBBFBB,W
 play,7,0,counc001,02,CSS,K
@@ -4815,7 +4797,6 @@ play,2,0,hollt001,22,CFBBS,K
 play,2,0,lee-d002,21,SBBX,6!3/G
 play,2,0,pattc001,02,FSFX,9/F
 play,2,1,guilj001,10,BX,DGR/9/F/INT
-com,"$fan interference"
 play,2,1,salmt001,21,FBBX,63/G.2-3
 play,2,1,halts001,12,BSSFS,K
 play,2,1,molij001,00,X,S7/G.3-H
@@ -5291,7 +5272,6 @@ play,9,0,durae001,12,FCFFB.X,S9/G.2-3
 play,9,0,crosb002,00,,NP
 sub,castr003,"Ramon Castro",0,7,11
 play,9,0,castr003,12,.CFBX,E5/G.3-H;1-2
-com,"Debut game for Ramon Castro"
 play,9,0,milld002,11,BCX,54(1)3/GDP
 data,er,hardr001,5
 data,er,rincr001,0
@@ -5785,8 +5765,6 @@ play,4,0,iztuc001,01,CX,43/G
 play,4,0,lodup001,02,CCX,8/F
 play,4,0,belta001,32,BBCBFX,S8/G
 play,4,0,bradm001,22,FBBCFFFC,K
-com,"ej,bradm001,P,hirsj901,Called third strike"
-com,"Milton Bradley ejected by HP umpire John Hirschbeck"
 play,4,1,ecksd001,00,,NP
 sub,robed001,"Dave Roberts",0,1,8
 play,4,1,ecksd001,00,,NP
@@ -5917,7 +5895,6 @@ play,2,1,davaj001,01,FX,2/BP2F
 play,2,1,molib001,12,FBSX,63/G
 play,2,1,quinr002,30,BBB,NP
 sub,sancd001,"Duaner Sanchez",0,0,1
-com,"$Jackson left game with injured elbow"
 play,2,1,quinr002,32,BBB.CFB,W
 play,2,1,kenna001,11,CBX,9/L
 play,3,0,iztuc001,01,CX,63/G
@@ -6393,8 +6370,6 @@ play,6,1,davaj001,11,1BC11X,63/G
 play,7,0,ortid001,00,,NP
 sub,shies002,"Scot Shields",1,0,1
 play,7,0,ortid001,22,.BCBSC,K
-com,"ej,ortid001,P,hollm901,Called third strike"
-com,"David Ortiz ejected by HP umpire Matt Hollowell"
 play,7,0,garcn001,21,.FBBX,63/G
 play,7,0,nixot001,31,BBBCB,W
 play,7,0,varij001,01,FX,1!/L
@@ -6674,7 +6649,6 @@ play,6,0,damoj001,32,CBBFBFB,W
 play,6,0,bellm002,11,B1FX,S9/G.1-2
 play,6,0,ortid001,10,BX,HR/9/F.2-H;1-H
 play,6,0,garcn001,00,H,HP
-com,"$HP umpire Kevin Kelley warned both teams"
 play,6,0,nixot001,00,1X,S9/G.1-2
 play,6,0,varij001,00,X,3/G.2-3;1-2
 play,6,0,muelb001,30,IIII,IW
@@ -6701,9 +6675,6 @@ play,8,0,kaplg001,12,CBSX,S9/F-
 play,8,0,damoj001,00,X,8/F
 play,8,1,salmt001,12,SFFBS,K
 play,8,1,molib001,10,BH,HP
-com,"ej,sciom001,M,kellk901,Arguing for ejection of Schilling"
-com,"$Angels manager Mike Scioscia argued that Curt Schilling"
-com,"should be ejected; Scioscia ejected by HP umpire Kevin Kelley"
 play,8,1,kenna001,02,.FCX,8/F
 play,8,1,ecksd001,00,X,9/F-
 play,9,0,bellm002,00,,NP
@@ -7916,7 +7887,6 @@ play,2,0,ibanr001,22,BBFSFX,8/F
 play,2,0,cabrj002,22,BCBFFS,K
 play,2,0,spies001,02,SFX,E2/P.1-2
 play,2,0,lopej003,22,SSF*BBX,7/F
-com,"Debut game for Jose Lopez"
 play,2,1,guerv001,22,SBFFBS,K
 play,2,1,guilj001,01,SX,53/G
 play,2,1,quinr002,10,BX,S7/G
@@ -7959,14 +7929,12 @@ play,5,1,guerv001,32,1SBFBBFB,W.1-2
 play,5,1,guilj001,00,,NP
 sub,atchs001,"Scott Atchison",0,0,1
 play,5,1,guilj001,00,.X,S9/L.3-H;2-3;1-2
-com,"Debut game for Scott Atchison"
 play,5,1,quinr002,22,CBFBFX,E5/TH/FO/G.3-H;2XH(152);1-2
 play,5,1,salmt001,32,BSBBFS,K
 play,6,0,olivm001,00,,NP
 sub,pridc001,"Curtis Pride",1,4,7
 play,6,0,olivm001,00,,NP
 sub,guilj001,"Jose Guillen",1,5,9
-com,"$Guerrero left game with injured neck"
 play,6,0,olivm001,21,..BBSX,63/G
 play,6,0,suzui001,00,X,7/F
 play,6,0,winnr001,01,CX,31/G
@@ -7982,7 +7950,6 @@ play,7,0,ibanr001,01,CX,S8/G
 play,7,0,cabrj002,02,CFB,WP.1-2
 play,7,0,cabrj002,00,,NP
 sub,molij001,"Jose Molina",1,8,2
-com,"$B.Molina left game with injured hand"
 play,7,0,cabrj002,12,.CFB..X,9!/F
 play,7,1,andeg001,22,BBSCX,S9/G
 play,7,1,pridc001,00,X,14/SH/BG.1-2
@@ -9685,12 +9652,10 @@ play,4,0,blanh001,00,1X,64(1)3/GDP
 play,4,0,rival001,20,BBX,63/G
 play,4,1,davaj001,00,,NP
 sub,pridc001,"Curtis Pride",1,6,11
-com,"$DaVanon left game with injured foot"
 play,4,1,pridc001,00,..X,D9/F
 play,4,1,molib001,12,FBFFX,FC6/G.2X3(65);B-1
 play,4,1,kenna001,00,,NP
 sub,cuddm001,"Michael Cuddyer",0,6,5
-com,"$Koskie left game with injured knee"
 play,4,1,kenna001,11,..FBX,HR/9/L.1-H
 play,4,1,figgc001,12,BCFX,13/G-
 play,4,1,ecksd001,01,CX,9/F
@@ -9964,8 +9929,6 @@ play,3,0,stews002,22,CB*BFS,K
 play,3,1,kenna001,10,BX,D9/L
 play,3,1,figgc001,00,X,E4/G.2-3;B-1
 play,3,1,ecksd001,22,BCBS>FX,4(1)3/GDP.3-H(NR)
-com,"ej,sciom001,M,cuzzp901,Call at 2B"
-com,"$Angels Manager Mike Scioscia ejected by 2B umpire Phil Cuzzi"
 play,3,1,erstd001,21,.CBBX,S8/G
 play,3,1,guerv001,00,X,D7/L.1-3
 play,3,1,andeg001,30,IIII,IW
@@ -9991,7 +9954,6 @@ play,6,0,huntt001,12,BFFX,6/P
 play,6,0,mornj001,22,SFFBBX,7/F
 play,6,1,guerv001,00,,NP
 sub,roa-j001,"Joe Roa",0,0,1
-com,"$Silva left game with injured neck"
 play,6,1,guerv001,21,.SBBX,D8/L
 play,6,1,andeg001,01,FX,3/G.2-3
 play,6,1,guilj001,30,BBBX,D8/L.3-H
@@ -10541,7 +10503,6 @@ sub,mcphd001,"Dallas McPherson",1,8,12
 play,7,1,ameza001,00,,NP
 sub,ecksd001,"David Eckstein",1,9,11
 play,7,1,ecksd001,00,..X,34/SH/BG.1-2
-com,"Debut game for Dallas McPherson"
 play,7,1,figgc001,00,,NP
 sub,cottn001,"Neal Cotts",0,0,1
 play,7,1,figgc001,32,.FBBFBB,W
@@ -10737,7 +10698,6 @@ play,8,0,gloar001,10,BX,S8/L.3-H;2-H;1-2
 play,8,0,uribj002,00,,NP
 sub,dunns002,"Scott Dunn",1,0,1
 play,8,0,uribj002,12,.CFBFX,54(1)/FO/G.2-3
-com,"Debut game for Scott Dunn"
 play,8,0,peret004,00,X,3/G
 play,8,1,glaut001,00,,NP
 sub,adkij001,"Jon Adkins",0,0,1
@@ -10884,7 +10844,6 @@ play,4,1,guerv001,00,X,8/F
 play,4,1,andeg001,32,CBFFBBX,8/F
 play,5,0,borcj001,00,,NP
 sub,kotcc001,"Casey Kotchman",1,2,3
-com,"$Erstad left game with injured back"
 play,5,0,borcj001,12,..STBX,D7/F
 play,5,0,credj001,10,BX,43/G.2-3
 play,5,0,harrw001,32,BFFBFBB,W
@@ -11386,8 +11345,6 @@ play,8,1,molib001,10,.BX,9/F
 play,8,1,figgc001,02,CCX,13/G
 play,8,1,ecksd001,30,BBB,NP
 sub,shoub001,"Brian Shouse",0,0,1
-com,"ej,almac001,P,rapue901,Balls and strikes"
-com,"Carlos Almanzar ejected by HP umpire Ed Rapuano"
 play,8,1,ecksd001,31,BBB..CB,W
 play,8,1,erstd001,12,CCB1S,K
 play,9,0,jordb001,00,,NP
@@ -11464,13 +11421,6 @@ play,1,0,ibanr001,20,BBX,63/G
 play,1,1,davaj001,11,CBX,8/F
 play,1,1,ecksd001,01,CX,63/G
 play,1,1,guerv001,02,SCH,HP
-com,"ej,sciom001,M,bellw901,Argument after HBP"
-com,"$Vlad Guerrero hit on left side of head; taken to hospital"
-com,"for x-rays which were normal; 5-minute delay for"
-com,"injury and manager discussion with umpires; Mike Scioscia"
-com,"yelled and pointed at Ryan Franklin who yelled back;"
-com,"both benches emptied and Scioscia ejected by HP umpire Wally Bell;"
-com,"both sides warned by Bell"
 play,1,1,andeg001,00,,NP
 sub,pridc001,"Curtis Pride",1,3,12
 play,1,1,andeg001,00,.X,S8/L.1-3
@@ -11492,7 +11442,6 @@ play,2,1,davaj001,11,BCX,8/F
 play,3,0,lopej003,21,BSBX,5/P
 play,3,0,suzui001,22,CBCBX,63/G
 play,3,0,winnr001,01,CH,HP
-com,"$hit on right knee; no ejections"
 play,3,0,ibanr001,02,FSF1FX,S7/F-.1-2
 play,3,0,boonb002,02,CFC,K
 play,3,1,ecksd001,11,CBX,S8/L
@@ -11514,7 +11463,6 @@ play,5,0,lopej003,32,CBBCBFFFX,7/F
 play,5,0,suzui001,10,BX,S4/G
 play,5,0,winnr001,00,,NP
 sub,figgc001,"Chone Figgins",1,9,4
-com,"$Kennedy left game with sprained knee"
 play,5,0,winnr001,32,.1B1BFF*B>C,K+SB2
 play,5,0,ibanr001,02,FCX,S6/G.2-3
 play,5,0,boonb002,10,*BX,S6/G.3-H;1-2
@@ -11524,7 +11472,6 @@ play,5,1,andeg001,00,,NP
 sub,bocah001,"Hiram Bocachica",0,2,8
 play,5,1,andeg001,00,,NP
 sub,reedj004,"Jeremy Reed",0,6,7
-com,"$Winn left game with bruised knee"
 play,5,1,andeg001,12,..BSSC,K
 play,5,1,guilj001,21,BFBX,53/G
 play,5,1,erstd001,21,CBBX,S8/L
@@ -11573,10 +11520,7 @@ sub,hases001,"Shigetoshi Hasegawa",0,0,1
 play,8,1,davaj001,00,.X,7/F.2-3;1-2
 play,8,1,ecksd001,10,BX,FC6/G.3XH(62);2-3
 play,8,1,pridc001,22,SB*BS>F>B,SBH;SB2
-com,"$cathcer Miguel Olivo argued the call on the tag at home"
 play,8,1,pridc001,32,SB*BS>F>B.S,K
-com,"ej,olivm001,P,bellw901,Call at HP (while catching)"
-com,"Miguel Olivo ejected by HP umpire Wally Bell"
 play,9,0,ibanr001,00,,NP
 sub,perct001,"Troy Percival",1,8,1
 play,9,0,ibanr001,00,,NP
@@ -11907,7 +11851,6 @@ sub,molij001,"Jose Molina",1,3,2
 play,9,0,wilsd001,00,,NP
 sub,river003,"Rene Rivera",0,8,11
 play,9,0,river003,00,........X,43/G
-com,"Debut game for Rene Rivera"
 play,9,0,santr002,22,BBFCX,6/P
 play,9,0,suzui001,01,FX,S4/G
 play,9,0,winnr001,00,,NP
@@ -12207,12 +12150,6 @@ play,8,1,andeg001,00,,NP
 sub,ameza001,"Alfredo Amezaga",1,4,12
 play,8,1,andeg001,00,,NP
 sub,rincr001,"Ricardo Rincon",0,0,1
-com,"$Guillen was not happy about being replaced; he"
-com,"threw his helmet towards the end of the dugout"
-com,"where Mgr Scioscia was standing, walked to and"
-com,"entered at the other end of the dugout, and threw"
-com,"his glove against the wall; he was suspended for"
-com,"the rest of the season the next day by the team"
 play,8,1,andeg001,12,..1BSC1X,D9/L.1-H
 play,8,1,molib001,22,CLBBS,K
 play,8,1,mcphd001,00,,NP
@@ -12290,9 +12227,6 @@ start,ecksd001,"David Eckstein",1,7,6
 start,rigga001,"Adam Riggs",1,8,7
 start,mcphd001,"Dallas McPherson",1,9,5
 start,lackj001,"John Lackey",1,0,1
-com,"$the Angels announced that Jose Guillen was"
-com,"suspended for the rest of the season due to"
-com,"his actions the previous day"
 play,1,0,kotsm001,12,FFBX,D9/G
 play,1,0,mclem001,00,X,13/SH/BG.2-3
 play,1,0,chave001,10,BX,7/SF.3-H

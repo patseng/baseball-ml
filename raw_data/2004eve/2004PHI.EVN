@@ -666,7 +666,6 @@ play,5,1,rollj001,31,BBBCB,W
 play,5,1,polap001,02,C1SB,WP.1-2
 play,5,1,polap001,22,C1SBB,NP
 sub,fikaj001,"Jeremy Fikac",0,9,1
-com,"Pitcher change with 2-2 count, K to reliever"
 play,5,1,polap001,32,C1SBB.BS,K
 play,5,1,abreb001,12,BCSX,3/G.2-3
 play,5,1,thomj002,12,SBRX,HR/9/F.3-H
@@ -1034,11 +1033,6 @@ sub,benia001,"Armando Benitez",0,7,1
 play,9,1,polap001,00,,NP
 sub,redmm001,"Mike Redmond",0,5,2
 play,9,1,polap001,00,..X,DGR/7/L
-com,"Ball was stuck under pad of left field wall."
-com,"Phillies claimed there is no ground rule for"
-com,"this and ball was in play.  Conine did not"
-com,"make a play so Polanco would have scored."
-com,"Phillies protest was declined next week"
 play,9,1,abreb001,01,CX,8/F
 play,9,1,thomj002,30,PIII,IW
 play,9,1,burrp001,32,BSBF*BX,3/P3F
@@ -1146,18 +1140,6 @@ play,2,0,gonza002,10,B,NP
 sub,mordm001,"Mike Mordecai",0,8,11
 play,2,0,mordm001,10,B,NP
 sub,liebm001,"Mike Lieberthal",1,7,2
-com,"ej,gonza002,P,marqa901,Fighting with Todd Pratt"
-com,"ej,pratt001,P,marqa901,Fighting with Alex Gonzalez"
-com,"$Brett Myers first pitch was high and tight"
-com,"to Alex Gonzalez who took a step towards the"
-com,"mound and pointed at the pitcher; catcher"
-com,"Todd Pratt stepped between them and exchanged"
-com,"angry words with Gonzalez, who swatted at"
-com,"Pratt; Pratt hit Gonzalez with a right"
-com,"cross and the benches cleared; Pratt"
-com,"threw several punches; Carl Pavano threw David Bell"
-com,"to the ground; Pratt and Gonzalez were"
-com,"ejected by HP umpire Alfonzo Marquez"
 play,2,0,mordm001,12,B..SSS,K
 play,2,0,olivd001,12,CBCX,E6/G.B-1
 play,2,0,pierj002,01,CX,46(1)/FO/G
@@ -1867,7 +1849,6 @@ play,5,1,polap001,00,X,63/G
 play,5,1,abreb001,22,BBCFX,HR/9/F
 play,5,1,thomj002,00,X,HR/7/F
 play,5,1,burrp001,32,BCBBCFFFX,HR/7/F
-com,"First homer into second deck in new park"
 play,5,1,liebm001,21,BSBX,S9/F
 play,5,1,belld002,11,CBX,53/G
 play,6,0,andem003,12,CFFFBX,S8/G
@@ -1892,8 +1873,6 @@ play,7,0,edmoj001,02,FSX,13/G
 play,7,0,roles001,00,,NP
 sub,cormr001,"Rheal Cormier",1,7,1
 play,7,0,roles001,31,.BCBBX,53/G
-com,"Hernandez injured calf muscle fielding dribbler."
-com,"Onto 15 day DL immediately after game"
 play,7,0,rente001,12,SBSX,8/F
 play,7,1,polap001,32,CBCFBBX,9/F
 play,7,1,abreb001,00,,NP
@@ -2235,8 +2214,6 @@ sub,isrij001,"Jason Isringhausen",0,6,1
 play,8,1,michj001,00,,NP
 sub,portc002,"Colin Porter",0,7,9
 play,8,1,michj001,02,....SFC,K
-com,"ej,michj001,P,demud901,Called third strike"
-com,"Jason Michaels ejected by HP umpire Dana DeMuth"
 play,9,0,portc002,00,,NP
 sub,liebm001,"Mike Lieberthal",1,7,2
 play,9,0,portc002,00,,NP
@@ -2250,8 +2227,6 @@ play,9,0,mathm001,20,.BBX,9/F
 play,9,0,lankr001,12,CBF11X,S9/G.1-3;B-2(TH)
 play,9,0,womat001,01,CX,FC6/G.B-1
 play,9,0,edmoj001,22,CBSBX,FC3/G.3-H;2-3;1-2;B-1
-com,"ej,bowal001,M,demud901,Call at HP"
-com,"Philies Manager Larry Bowa ejected by HP umpire Dana DeMuth"
 play,9,0,pujoa001,00,,NP
 sub,telea001,"Amaury Telemaco",1,8,1
 play,9,0,pujoa001,00,..X,32(3)3/GDP
@@ -2485,7 +2460,6 @@ play,2,1,belld002,21,BCBX,D7/L
 play,2,1,liebm001,12,FBFX,9/F.2-3
 play,2,1,utlec001,00,,NP
 sub,falkb001,"Brian Falkenborg",0,9,1
-com,"$Nomo left with split finger nail"
 play,2,1,utlec001,22,..BFFBX,S9/L.3-H
 play,2,1,woots001,12,FBCFFFX,63/G.1-2
 play,2,1,milte001,02,CSS,K+WP.2-3;B-1
@@ -2501,8 +2475,6 @@ play,3,1,burrp001,00,B,PB.2-3;1-2
 play,3,1,burrp001,20,B.BX,1/L
 play,3,1,belld002,00,X,D9/L.3-H;2-H
 play,3,1,liebm001,11,BCH,HP
-com,"$Lieberthal hit on RIGHT side of helmet, just above"
-com,"ear as he turned to his left"
 play,3,1,utlec001,31,BSBBB,W.2-3;1-2
 play,3,1,woots001,22,BFBFFX,64(1)/FO/G.3-H;2-3
 play,3,1,milte001,30,BBBB,W.1-2
@@ -2513,8 +2485,6 @@ play,4,0,hernj001,01,CX,S7/L
 play,4,0,rossd001,02,SCS,K
 play,4,0,falkb001,32,BBCBC>B,W.1-2
 play,4,0,iztuc001,02,CSFX,HR/7/F.2-H;1-H
-com,"Foul by Izturis ruled tip that was dropped. Bowa"
-com,"claimed it was missed. Next pitch was homer"
 play,4,0,lodup001,12,CBFX,63/G
 play,4,1,abreb001,12,CBFX,S8/L
 play,4,1,burrp001,11,CBX,HR/7/F.1-H
@@ -2898,7 +2868,6 @@ start,belld002,"David Bell",1,7,5
 start,peret003,"Tomas Perez",1,8,3
 start,hancj001,"Joshua Hancock",1,9,1
 play,1,0,burrs001,12,CBSX,13/G-
-com,"Debut game for Justin Germano"
 play,1,0,lorem001,20,BBX,8/F
 play,1,0,gileb002,31,BBBCB,W
 play,1,0,nevip001,12,CB1C>B,CS2(24)
@@ -2949,8 +2918,6 @@ play,6,0,nevip001,10,BX,8/F
 play,6,0,klesr001,31,CB*BBB,W.1-2
 play,6,0,paytj001,31,BFBBB,W.2-3;1-2
 play,6,0,hernr002,00,X,12(3)/FO/G.2-H(NR)(UR)(E2/TH);1-H(NR)(UR)
-com,"$As Lieberthal threw to first to finish the DP, Giles"
-com,"upended him and throw went way down into corner"
 play,6,0,greek002,02,CSC,K
 play,6,1,liebm001,00,,NP
 sub,tankd001,"Dennis Tankersley",0,9,1
@@ -3158,8 +3125,6 @@ sub,hernr001,"Roberto Hernandez",1,4,1
 play,8,0,paytj001,00,,NP
 sub,michj001,"Jason Michaels",1,7,7
 play,8,0,paytj001,22,..FCFFBBX,3/G
-com,"ej,paytj001,P,hoyej901,Call at 1B"
-com,"Jay Payton ejected by 1B umpire James Hoye"
 play,8,0,hernr002,10,BX,S9/G
 play,8,0,greek002,00,,NP
 sub,robik002,"Kerry Robinson",0,7,12
@@ -3398,8 +3363,6 @@ play,1,0,jonec004,00,1H,HP.1-2
 play,1,0,jonea002,10,BX,7/L
 play,1,1,byrdm001,00,,NP
 sub,wised001,"Dewayne Wise",0,4,7
-com,"$C.Jones left game with injured leg. Hit"
-com,"by pitch in left quadriceps"
 play,1,1,byrdm001,01,.CX,E6/TH/G
 play,1,1,rollj001,00,X,S7/G.1-2
 play,1,1,abreb001,11,BFX,8/F
@@ -3412,7 +3375,6 @@ play,2,0,furcr001,01,FX,FC1/G.3XH(12);1-2;B-1
 play,2,0,green001,02,FFC,K
 play,2,1,belld002,00,,NP
 sub,peree002,"Eddie Perez",0,8,3
-com,"$LaRoche left game with injured chest"
 play,2,1,belld002,20,.BBX,3/P
 play,2,1,liebm001,11,FBX,S8/L-
 play,2,1,utlec001,22,CBFBS,K
@@ -3612,8 +3574,6 @@ play,5,1,burrp001,02,SCFC,K
 play,5,1,utlec001,22,BFBFS,K
 play,6,0,derom001,00,,NP
 sub,madsr001,"Ryan Madson",1,9,1
-com,"$Padilla left with tendinitis in right triceps;"
-com,"onto 15 day DL after game"
 play,6,0,derom001,00,.X,8/F
 play,6,0,green001,32,CSFBBFBX,53/G
 play,6,0,thomj005,00,X,S8/L
@@ -3905,7 +3865,6 @@ sub,michj001,"Jason Michaels",1,9,11
 play,5,1,michj001,32,.CFFBFFBBFFB,W.2-3;1-2
 play,5,1,byrdm001,02,FFS,K
 play,5,1,belld002,12,CBFFX,S9/G.3-H(UR);2-H(UR);1-3;B-2(E9/THH)
-com,"Originally scored as E2, changed to E9 next day"
 play,5,1,abreb001,30,BBBB,W
 play,5,1,thomj002,12,FFBF>X,7/F
 play,6,0,garck002,00,,NP
@@ -3945,9 +3904,6 @@ play,8,0,philj003,00,,NP
 sub,mcewj001,"Joe McEwing",0,4,12
 play,8,0,philj003,00,.X,3/SH/BG.1-2
 play,8,0,spens001,11,BFX,E6/TH3.2-3
-com,"$Perez tried for the runner at third, but made a"
-com,"bad throw on the run to a moving target. Originally"
-com,"scored as FC, changed next day to E6, 2 UR"
 play,8,0,wiggt001,32,BBBFFX,FC1/G.3XH(1251);1-3;B-2
 play,8,0,camem001,01,FX,D7/G.3-H(UR);2-H(UR)
 play,8,0,valee002,00,X,7/F
@@ -4386,7 +4342,6 @@ play,1,1,rollj001,22,BBCFX,S8/L
 play,1,1,polap001,31,BBBCX,8/F
 play,1,1,abreb001,22,B1C*BCX,5/P
 play,1,1,thomj002,32,CC*BBB>F>F>X,HR/8/F.1-H
-com,"$Thome's 400th career homer"
 play,1,1,burrp001,01,CX,HR/8/L
 play,1,1,belld002,12,CFBX,63/G
 play,2,0,hummt001,31,BBBCX,S9/F
@@ -4501,7 +4456,6 @@ play,8,1,gland001,02,.FFFX,63/G
 play,8,1,rollj001,12,CBFX,S8/G
 play,8,1,polap001,10,BX,64(1)/FO/G
 play,8,1,abreb001,31,BCBBX,7/L
-com,"Game called for rain after long delay"
 data,er,acevj002,3
 data,er,nortp001,0
 data,er,riedj001,4
@@ -5120,7 +5074,6 @@ play,5,1,rollj001,12,CFBX,8/F
 play,5,1,polap001,32,BBCFFBX,6/P5F
 play,6,0,staim001,12,BSFX,HR/7/F
 play,6,0,santb001,01,CH,HP
-com,"Broken hand for Santiago, out for rest of year"
 play,6,0,relad001,00,,NP
 sub,stink001,"Kelly Stinnett",0,6,12
 play,6,0,relad001,10,.BX,43/G.1-2
@@ -5407,7 +5360,6 @@ play,2,0,staim001,10,BX,HR/9/F
 play,2,0,berra001,00,X,S7/L-
 play,2,0,relad001,22,1C1B1F1BX,8/F
 play,2,0,tonim001,21,1PBSX,64(1)3/GDP
-com,"Debut game for Mike Tonis"
 play,2,1,belld002,11,CBX,8/F
 play,2,1,michj001,30,BBBB,W
 play,2,1,pratt001,21,C111B*B1B,PB.1-2
@@ -5697,7 +5649,6 @@ start,liebm001,"Mike Lieberthal",1,7,2
 start,michj001,"Jason Michaels",1,8,8
 start,milte001,"Eric Milton",1,9,1
 play,1,0,wilkb002,01,CX,4/BP
-com,"Debut game for Shawn Hill"
 play,1,0,cabro001,22,CBBCFX,D7/L
 play,1,0,vidrj001,01,CB,SB3
 play,1,0,vidrj001,32,CB.BBFX,43/G.3-H
@@ -5745,7 +5696,6 @@ play,5,0,wilkb002,00,,NP
 sub,gland001,"Doug Glanville",1,5,8
 play,5,0,wilkb002,00,,NP
 sub,michj001,"Jason Michaels",1,8,7
-com,"$Burrell left game with injured groin"
 play,5,0,wilkb002,22,..CBBFX,8/F
 play,5,0,cabro001,00,X,S7/G
 play,5,0,vidrj001,00,B,SB2
@@ -6497,8 +6447,6 @@ play,6,0,bedae001,12,CFBS,K
 play,6,1,belld002,20,BBX,63/G
 play,6,1,liebm001,01,CX,HR/78/F
 play,6,1,michj001,32,BBBCFC,K
-com,"ej,pratt001,P,cuzzp901,Balls and strikes"
-com,"Todd Pratt ejected by HP umpire Phil Cuzzi from bench; not in game"
 play,6,1,millk004,02,.CCS,K
 play,7,0,robeb003,00,X,D7/F
 play,7,0,matol001,01,SX,63/G.2-3
@@ -7211,7 +7159,6 @@ play,1,1,polap001,11,CBX,13/G
 play,1,1,abreb001,11,CBX,9/L
 play,2,0,camem001,00,,NP
 sub,gland001,"Doug Glanville",1,8,8
-com,"$Michaels left game with injured leg"
 play,2,0,camem001,00,.X,13/BG
 play,2,0,philj003,01,CX,9/F
 play,2,0,gintm001,21,BFBX,9/L
@@ -7374,14 +7321,8 @@ play,3,0,estrj001,11,BFX,S7/G
 play,3,0,marre001,11,CBX,D9/L.1-3
 play,3,0,thomj005,12,SBSS,K
 play,3,0,furcr001,20,B*BX,HR/7/L.3-H;2-H
-com,"$the ball appeared to be foul but was called fair by 3B umpire Gerry Davis;"
-com,"LF Pat Burrell ran into the infield to protest and manager Larry Bowa ran"
-com,"out to argue; the umpires huddled but the call stood"
 play,3,0,green001,22,BFFBX,5/L
 play,3,0,drewj001,01,SX,9/F
-com,"ej,bowal001,M,drecb901,Fair/foul call"
-com,"Phillies Manager Larry Bowa ejected by HP umpire Bruce Dreckman for"
-com,"continuing to argue about the home run"
 play,3,1,rollj001,11,.BCX,9/L
 play,3,1,utlec001,21,CBBX,6/P
 play,3,1,abreb001,22,BCCBS,K
@@ -7564,7 +7505,6 @@ play,5,0,furcr001,12,CBCX,HR/89/F
 play,5,0,green001,00,X,53/G
 play,5,1,pratt001,02,FFS,K
 play,5,1,gland001,11,CBX,S9/L.B-2(E3)
-com,"$LaRoche interfered with Glanville as he rounded 1B"
 play,5,1,abbop001,00,X,31/G.2-3
 play,5,1,rollj001,01,MX,53/G
 play,6,0,drewj001,30,BBBB,W
@@ -7764,13 +7704,9 @@ play,9,0,estrj001,01,.FX,53/G+
 play,9,0,franj002,32,BBBCSS,K
 play,9,0,jonea002,31,BBBSB,W
 play,9,0,marre001,00,X,S7/G+.1-2
-com,"ej,bowal001,M,drakr901,Balls and strikes"
-com,"Manager Larry Bowa ejected by HP umpire Rob Drake"
 play,9,0,smolj001,22,BFFFB.S,K
 play,9,1,polap001,10,BX,S9/G
 play,9,1,abreb001,22,BFFBFX,S9/L.1-2
-com,"ej,varsg001,C,drakr901,Balls and strikes"
-com,"Phillies coach Gary Varsho ejected by HP umpire Rob Drake"
 play,9,1,thomj002,00,.X,5/P5F
 play,9,1,burrp001,02,FCX,9/F
 play,9,1,leder001,12,FBFC,K
@@ -8146,7 +8082,6 @@ start,belld002,"David Bell",1,6,5
 start,leder001,"Ricky Ledee",1,7,8
 start,liebm001,"Mike Lieberthal",1,8,2
 start,myerb001,"Brett Myers",1,9,1
-com,"Debut for umpire John McArdle"
 play,1,0,walkt002,30,BBBB,W
 play,1,0,pattc001,12,BCCX,36(1)/FO/G
 play,1,0,sosas001,12,1C1FBFX,5/L
@@ -8161,13 +8096,6 @@ play,2,0,lee-d002,31,BBBCX,HR/7/F
 play,2,0,ramia001,22,BCBFS,K
 play,2,0,barrm003,32,CBFFBBFX,8/F
 play,2,0,gonza001,00,X,4/P
-com,"umpchange,2,ump1b,westj901"
-com,"umpchange,2,ump2b,emmep901"
-com,"umpchange,2,ump3b,dimum901"
-com,"$game began with college umpires on the bases because regulars were"
-com,"late arriving; regulars took field in the bottom of the second;"
-com,"West was scheduled to work the plate but did not; Spagnardi did"
-com,"arrive on time and thus worked the plate on consecutive days"
 play,2,1,belld002,10,BX,63/G
 play,2,1,leder001,22,FBBFC,K
 play,2,1,liebm001,10,BX,D7/F
@@ -8817,7 +8745,6 @@ sub,castv001,"Vinny Castilla",0,6,11
 play,9,0,castv001,11,.BCX,D9/F.2-H;1-H;B-3(E3/TH)
 play,9,0,johnc002,32,FBFBBB,W
 play,9,0,gonzl004,01,CX,7/SF/DP.3-H(UR);1X1(78414)
-com,"$Appeal play"
 play,9,1,michj001,00,,NP
 sub,castv001,"Vinny Castilla",0,6,5
 play,9,1,michj001,00,,NP
@@ -10262,7 +10189,6 @@ play,7,0,podss001,02,CCC,K
 play,7,1,abreb001,00,,NP
 sub,lirip001,"Pedro Liriano",0,9,1
 play,7,1,abreb001,22,.BFCBS,K
-com,"Debut game for Pedro Liriano"
 play,7,1,thomj002,31,BSBBX,63/G
 play,7,1,belld002,32,BBFFBFFX,D8/L
 play,7,1,polap001,11,BFX,9/L
@@ -10364,8 +10290,6 @@ play,3,1,liebm001,32,CCBBBX,9/L
 play,3,1,byrdm001,32,FBBFBFFX,E5/G
 play,3,1,wolfr001,00,,NP
 sub,colll001,"Lou Collier",1,9,11
-com,"$Wolf left game with injured elbow."
-com,"On 8-31 onto DL with tendinitis"
 play,3,1,colll001,02,.CFS,K
 play,3,1,rollj001,12,C1BTFX,T9/L.1-H(UR)
 play,3,1,michj001,01,CX,S8/L.3-H(UR)
@@ -10799,7 +10723,6 @@ play,2,1,thomj002,00,X,S9/L
 play,2,1,belld002,00,X,S9/G.1-2
 play,2,1,polap001,10,BX,D7/G.2-H;1-3
 play,2,1,liebm001,00,X,8/SF.3-H;2XH(12)
-com,"no double play is correct"
 play,2,1,byrdm001,00,X,9/F
 play,3,0,estrj001,02,CCX,6/P
 play,3,0,jonea002,20,BBX,HR/7/F
@@ -10828,7 +10751,6 @@ play,5,1,byrdm001,00,X,54(1)/FO/G-
 play,5,1,padiv001,00,,NP
 sub,howar001,"Ryan Howard",1,9,11
 play,5,1,howar001,32,.SBB1BFC,K
-com,"Debut game for Ryan Howard"
 play,5,1,rollj001,12,BF1CX,8/L
 play,6,0,furcr001,00,,NP
 sub,cormr001,"Rheal Cormier",1,9,1
@@ -10938,7 +10860,6 @@ start,michj001,"Jason Michaels",1,7,8
 start,liebm001,"Mike Lieberthal",1,8,2
 start,floyg001,"Gavin Floyd",1,9,1
 play,1,0,valee002,00,X,S9/G
-com,"Debut game for Gavin Floyd"
 play,1,0,keppj001,22,CBCBX,64(1)3/GDP
 play,1,0,piazm001,31,BBBCB,W
 play,1,0,floyc001,02,CSC,K
@@ -10952,7 +10873,6 @@ play,2,0,willg001,00,X,43/G
 play,2,0,philj003,11,BCX,9/F
 play,2,1,burrp001,00,,NP
 sub,bellh001,"Heath Bell",0,9,1
-com,"$Ginter left game with injured foot"
 play,2,1,burrp001,12,.CBCS,K
 play,2,1,michj001,00,X,HR/9/F
 play,2,1,liebm001,22,BCFBS,K
@@ -11233,10 +11153,8 @@ play,3,0,tracs001,00,X,34/SH/BG.1-2
 play,3,0,keppj001,02,CCX,9/F
 play,3,1,burrp001,21,BBSX,S5/L
 play,3,1,liebm001,31,C1B1BBX,HR/7/F.1-H
-com,"Ties Phillies record for HR in season: 186"
 play,3,1,myerb001,01,CX,DGR/78/F
 play,3,1,rollj001,00,X,HR/9/F.2-H
-com,"Set Phillies record for HR in season"
 play,3,1,michj001,00,X,D7/G
 play,3,1,abreb001,12,SCBFX,7/F
 play,3,1,thomj002,32,BBFCBX,3/G.2-3
@@ -11386,7 +11304,6 @@ play,5,0,iztum001,11,BCX,13/G
 play,5,0,tuckt001,00,,NP
 sub,labaj001,"Josh Labandeira",0,9,11
 play,5,0,labaj001,22,.CBBFX,8/F
-com,"Debut game for Josh Labandeira"
 play,5,1,abreb001,00,,NP
 sub,beltf001,"Francis Beltran",0,9,1
 play,5,1,abreb001,11,.BCX,9/F
@@ -12694,8 +12611,6 @@ start,burrp001,"Pat Burrell",1,6,7
 start,liebm001,"Mike Lieberthal",1,7,2
 start,peret003,"Tomas Perez",1,8,6
 start,milte001,"Eric Milton",1,9,1
-com,"Phillies manager Larry Bowa fired before game."
-com,"Bench coach Gary Varsho to manage last two games"
 play,1,0,pierj002,00,X,D7/L-
 play,1,0,castl001,10,BX,8/F.2-3
 play,1,0,cabrm001,22,FBFFBX,3/P3F

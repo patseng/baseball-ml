@@ -927,7 +927,6 @@ play,6,0,grudm001,30,BBBB,W
 play,6,0,shefg001,00,,NP
 sub,lawrb001,"Brian Lawrence",1,9,1
 play,6,0,shefg001,01,CX,8/SF.3-H
-com,"Debut game for Brian Lawrence"
 play,6,0,grees001,12,FBFS,K
 play,6,1,darrm001,00,,NP
 sub,hergm001,"Matt Herges",0,9,1
@@ -1266,14 +1265,12 @@ play,7,0,hollt001,22,FBBSFC,K/C
 play,7,0,maynb001,22,SBFBX,8/F8
 play,7,1,tramb001,32,BFBBCB,W
 play,7,1,gonzw001,00,X,8/F8
-com,"$Gant and Hollandsworth collided, Gant hurt shoulder"
 play,7,1,ariaa001,00,,NP
 sub,littm001,"Mark Little",0,5,7
 play,7,1,ariaa001,00,,NP
 sub,hollt001,"Todd Hollandsworth",0,6,7
 play,7,1,ariaa001,00,,NP
 sub,littm001,"Mark Little",0,5,8
-com,"Little got a game in LF, even though no pitches."
 play,7,1,ariaa001,32,CBFBBC,K/C
 play,7,1,gomec001,22,CBBCS,K23
 play,8,0,uribj002,00,X,9/F9
@@ -1682,9 +1679,6 @@ play,4,1,mendd001,32,CBSFBBC,K/C
 play,4,1,willw001,02,FCH,HP
 play,4,1,jackd003,02,FCX,S.1-2
 play,4,1,colam001,10,BX,T9/F9L.2-H;1-H;BXH(942)
-com,"High fly landed near line, rolled into bullpen"
-com,"where Abreu dug it out from under a chair"
-com,"$great relay throw by Anderson"
 play,4,1,klesr001,32,BCCBBS,K
 play,5,0,abreb001,31,BBCBX,HR/89
 play,5,0,liebm001,00,,NP
@@ -1908,7 +1902,6 @@ play,9,0,rollj001,32,BBBCSS,K23
 play,9,1,hendr001,00,,NP
 sub,mesaj001,"Jose Mesa",0,9,1
 play,9,1,hendr001,31,BFBBB,W
-com,"$Henderson's 2063rd walk, breaking Babe Ruth's record"
 play,9,1,colam001,32,BBBCCFFFC,K+CS2(26)/DP/C
 play,9,1,ariaa001,22,FBBFFX,43/G
 data,er,daalo001,2
@@ -2767,8 +2760,6 @@ play,6,0,helmw001,12,CBSS,K
 play,6,0,veraq001,12,BFCX,43/G
 play,6,1,klesr001,11,CBX,31/G
 play,6,1,magad001,32,CBBFBC,K/C
-com,"ej,magad001,P,mealj901,Balls and strikes"
-com,"Dave Magadan ejected by HP umpire Jerry Meals"
 play,6,1,davib003,10,BX,13/G
 play,7,0,burkj001,00,,NP
 sub,ariaa001,"Alex Arias",1,5,5
@@ -3189,7 +3180,6 @@ start,jackd003,"Damian Jackson",1,7,4
 start,mendd001,"Donaldo Mendez",1,8,6
 start,serrw001,"Wascar Serrano",1,9,1
 play,1,0,castl001,12,FSBX,E4/TH1
-com,"Debut game for Wascar Serrano"
 play,1,0,owene001,30,BBBB,W.1-2
 play,1,0,floyc001,32,BCFBBB,W.2-3;1-2
 play,1,0,wilsp002,12,CBSX,2(3)/FO.2-3;1-2
@@ -4124,7 +4114,6 @@ play,2,1,nevip001,22,CFBBX,S
 play,2,1,darrm001,01,CX,5/FL
 play,2,1,davib003,32,CFBBBX,5/P5
 play,2,1,cresc001,30,BBBB,W.1-2
-com,"Debut game for Cesar Crespo"
 play,2,1,mendd001,22,SBFBX,64(1)/FO.2-3
 play,3,0,bottk001,02,CFFX,31/G
 play,3,0,biggc001,12,CFBX,4/P4
@@ -4176,7 +4165,6 @@ play,7,1,gomec001,10,BX,S8/8S
 play,7,1,hendr001,22,BBCCC,K/C
 play,7,1,kotsm001,32,BCFBBX,S7.1-3
 play,7,1,klesr001,32,BBBFFFX,3/G.3-H;1-2
-com,"$Klesko tied the Padres' RBI record for a month with 38"
 play,7,1,nevip001,31,BSBBB,W
 play,7,1,darrm001,00,X,63/G
 play,8,0,biggc001,12,CBSS,K
@@ -4200,7 +4188,6 @@ play,9,0,aloum001,01,SX,63/G
 play,9,0,hidar001,01,CX,S
 play,9,0,castv001,12,SSBFS,K
 play,9,0,lugoj001,10,BX,S1.1-2
-com,"$line drive hit Lee in face, 2 stitches"
 play,9,0,oswar001,00,,NP
 sub,hofft001,"Trevor Hoffman",1,8,1
 play,9,0,oswar001,00,,NP
@@ -4420,8 +4407,6 @@ start,gonzw001,"Wiki Gonzalez",1,6,2
 start,cresc001,"Cesar Crespo",1,7,4
 start,gomec001,"Chris Gomez",1,8,6
 start,serrw001,"Wascar Serrano",1,9,1
-com,"$SD starter Adam Eaton stabbed himself in the stomach while trying"
-com,"to open a DVD with a small knife; 2 stitches and scratched from start"
 play,1,0,lugoj001,32,BBBCCC,K/C
 play,1,0,vizcj001,32,FBBCBB,W
 play,1,0,bagwj001,00,B,WP.1-2
@@ -4487,8 +4472,6 @@ play,7,0,vizcj001,10,BX,S.2-2
 play,7,0,bagwj001,00,X,S7.2-3;1-2
 play,7,0,berkl001,21,SBBX,54(1)/FO.3-H;2-3
 play,7,0,aloum001,00,X,9/F9.3-H(E4/THH);1-3
-com,"$Trammell tossed ball to Crespo, ignoring Alou, who broke for home"
-com,"& Crespo threw ball away; Trammell given error, removed next day"
 play,7,0,wardd002,11,FBX,43/G
 play,7,1,davib003,00,,NP
 sub,berkl001,"Lance Berkman",0,4,7
@@ -5076,8 +5059,6 @@ sub,magad001,"Dave Magadan",1,6,11
 play,7,1,magad001,22,BBCFX,8/F8
 play,7,1,cresc001,00,X,53/G
 play,7,1,peres001,22,BFBCX,8/F8
-com,"ej,bochb002,M,randt901,Unknown reason"
-com,"Padres Manager Bruce Bochy ejected by HP umpire Tony Randazzo in 8th"
 play,8,0,suzui001,00,,NP
 sub,lee-d003,"David Lee",1,6,1
 play,8,0,suzui001,31,BBFBX,8/F8
@@ -5321,8 +5302,6 @@ start,tramb001,"Bubba Trammell",1,6,7
 start,wilkr001,"Rick Wilkins",1,7,2
 start,gomec001,"Chris Gomez",1,8,6
 start,willw001,"Woody Williams",1,9,1
-com,"$Padres pitching coach Dave Smith resigned; replaced by bullpen coach"
-com,"Greg Booker; Smith having personal problems"
 play,1,0,suzui001,20,BBX,9/F9
 play,1,0,mclem001,22,CBFBS,K
 play,1,0,boonb002,12,CFFBFS,K
@@ -5345,9 +5324,6 @@ play,3,0,selea001,00,X,E1/TH/SH.1-3;B-2
 play,3,0,suzui001,10,BX,S8.3-H(UR);2-3
 play,3,0,mclem001,11,FBC,SB2
 play,3,0,mclem001,32,FBCBBX,43/G.3-H(UR)(NR);2-3
-com,"Suzuki took off for 3rd on the ground ball, but Sele"
-com,"held at 3rd. Klesko threw to 2nd. Gomez held the"
-com,"ball long enough so that both runners advanced. No RBI."
 play,3,0,boonb002,02,CFC,K/C
 play,3,1,kotsm001,01,CX,S8.B-2(E8)
 play,3,1,klesr001,31,BBBFB,W
@@ -5669,8 +5645,6 @@ play,14,0,bondb001,32,BBBCCX,S7/7S.1-3
 play,14,0,kentj001,00,,NP
 sub,witaj001,"Jay Witasick",1,6,1
 play,14,0,kentj001,20,BBX,46(1)/FO/DP.3XH(62)
-com,"$Crespo dropped popup accidentally; after force out"
-com,"Aurilia tried to score and was out"
 play,14,0,riosa001,12,CSBS,K
 play,14,1,colam001,32,BCSBFFBB,W
 play,14,1,gomec001,12,LLBX,16(1)/FO
@@ -6893,7 +6867,6 @@ play,2,1,tramb001,32,CBBCBC,K/C
 play,2,1,davib003,32,BBCBSFFB,W
 play,2,1,jimed001,02,CFX,46(1)3/GDP
 play,3,0,butlb002,10,BX,7/F7
-com,"Debut game for Brent Butler"
 play,3,0,suzum001,22,BSBFS,K
 play,3,0,pierj002,21,BBCX,E6/TH1.B-2
 play,3,0,peren001,01,CX,53/G
@@ -6910,10 +6883,8 @@ play,4,1,tramb001,31,BBFBX,8/F8
 play,5,0,brumc001,01,CX,D7
 play,5,0,petrb001,02,CSS,K+WP.2-3;B-1
 play,5,0,butlb002,00,X,S9.3-H;1-2
-com,"$Butler's first ML hit"
 play,5,0,suzum001,00,X,54/SH.2-3;1-2
 play,5,0,pierj002,00,X,FC4.3XH(423);2-3(E2/TH);B-2
-com,"error inserted after game, removed two ER"
 play,5,0,peren001,00,X,D7.3-H(UR);2-H(UR)
 play,5,0,walkl001,00,X,3/G
 play,5,1,davib003,31,BCBBB,W
@@ -7602,7 +7573,6 @@ info,attendance,22184
 info,wp,johnr005
 info,lp,willw001
 info,save,
-com,"Suspend=20010719,,1,0,12"
 start,delld001,"David Dellucci",0,1,9
 start,bellj001,"Jay Bell",0,2,4
 start,gonzl001,"Luis Gonzalez",0,3,7
@@ -7635,9 +7605,6 @@ play,2,0,womat001,12,CFBX,43/G
 play,2,1,nevip001,22,CBFBX,53/G
 play,2,1,gwynt001,32,BCCFBBFFX,8/F8
 play,2,1,darrm001,11,FBX,8/F8
-com,"$delay of 1 hour 11 minutes for power failure with 0-2 count on"
-com,"Schilling; game suspended at this point, resumed on 07/19"
-com,"(subs happened when game resumed)"
 play,3,0,schic002,02,FCF,NP
 sub,andeb002,"Brian Anderson",0,9,11
 play,3,0,andeb002,02,FCF,NP
@@ -7827,8 +7794,6 @@ play,7,0,bellj001,31,BFBBX,8/F8D
 play,7,1,klesr001,00,,NP
 sub,broht001,"Troy Brohawn",0,9,1
 play,7,1,klesr001,21,SBBH,HP
-com,"ej,broht001,P,mcclt901,Intentional HBP"
-com,"Troy Brohawn ejected by HP umpire Tim McClelland"
 play,7,1,nevip001,00,,NP
 sub,swing001,"Greg Swindell",0,9,1
 play,7,1,nevip001,22,BFFBFB,SB2
@@ -8679,7 +8644,6 @@ start,jackd003,"Damian Jackson",1,7,4
 start,jimed001,"D'Angelo Jimenez",1,8,6
 start,hernj003,"Junior Herndon",1,9,1
 play,1,0,youne001,11,CBX,3/G
-com,"Debut game for Junior Herndon"
 play,1,0,deshd001,10,BX,43/G
 play,1,0,sosas001,22,BCFBX,9/F9
 play,1,1,hendr001,12,CSFBFFC,K/C
@@ -8827,13 +8791,11 @@ start,jarvk001,"Kevin Jarvis",1,9,1
 play,1,0,walkt002,12,BFFFFFFFX,7/F7LS
 play,1,0,dunna001,12,BSSX,6/L6
 play,1,0,grifk002,11,BCX,S3/G3
-com,"$ball hit bag, bounced high in air, came down in coaches box"
 play,1,0,cases001,01,.CX,3/P3S
 play,1,1,jackd003,32,SBBCFBS,K
 play,1,1,kotsm001,10,BX,3/P3
 play,1,1,klesr001,32,SSBBBS,K
 play,2,0,boona001,10,BX,D7/G5L
-com,"$hit right over bag"
 play,2,0,yound001,01,.FX,E4/G4M.2-3
 play,2,0,laruj001,00,X,S8/L8LM/R6.3-H;1-2
 play,2,0,reesp001,22,CBFFBC,K
@@ -8858,7 +8820,6 @@ play,4,0,laruj001,21,BBCX,7/P7S
 play,4,1,lankr001,00,X,HR/F9LD
 play,4,1,tramb001,32,CBCBBS,K
 play,4,1,davib003,10,BX,163/G1
-com,"deflection"
 play,4,1,jimed001,11,.CBX,43/G4
 play,5,0,reesp001,00,X,53/G5S
 play,5,0,browj003,10,BX,S8/G6M
@@ -8872,7 +8833,6 @@ play,5,1,jackd003,32,CSBBFBFFB,W
 play,5,1,kotsm001,30,BBBB,W.1-2
 play,5,1,klesr001,31,BBFBB,W.2-3;1-2
 play,5,1,nevip001,12,CFF*BS,K
-com,"$first foul by Nevin just foul for near grand slam"
 play,5,1,lankr001,12,.BFFS,K
 play,6,0,yound001,00,X,HR/F9LD
 play,6,0,laruj001,10,BX,HR/F89XD
@@ -8891,20 +8851,14 @@ play,6,1,tramb001,00,,NP
 sub,nichc002,"Chris Nichting",0,9,1
 play,6,1,tramb001,21,.BFBX,D7/L5D/R6
 play,6,1,davib003,32,BBCFBX,S9/F9DW/R6.2-3
-com,"$hit so hard off the wall, Trammell could not score"
 play,6,1,jimed001,21,.CBBX,FC5.3XH(5E2)(UR);1X3(45);B-2
-com,"$rundown; throw hit Trammell in head, allowing him to score;"
-com,"Walker got rebound, Davis rounded 3B too far and was out"
 play,6,1,hendr001,12,..CBFC,K
 play,6,1,jackd003,00,B,PB.2-3
 play,6,1,jackd003,32,B.BBCFFX,6/P6M
 play,7,0,cases001,22,BBSCX,S1/G1
-com,"$shot off Serrano's knee, bounced into foul ground"
 play,7,0,boona001,32,.B1BBCF>X,6E3/G6.1-2
-com,"$Klesko dropped low throw"
 play,7,0,yound001,01,.FX,43/G4.2-3;1-2
 play,7,0,laruj001,12,CCBB,WP.3-H;2-3
-com,"$wild pitch stuck in backstop screen"
 play,7,0,laruj001,22,CCBB..S,K
 play,7,0,reesp001,12,SBCFB,WP.3-H(UR)
 play,7,0,reesp001,22,SBCFB.S,K
@@ -8926,9 +8880,7 @@ play,8,0,stink001,00,,NP
 sub,mcelc001,"Chuck McElroy",1,5,1
 play,8,0,stink001,22,.FTBB*S,K23
 play,8,0,walkt002,00,X,13/G1
-com,"$off McElroy's shin, nice recovery"
 play,8,0,dunna001,11,.CBX,4/P9LF
-com,"$fine catch by Jackson about halfway down line"
 play,8,1,jimed001,00,.,NP
 sub,ferno001,"Osvaldo Fernandez",0,7,1
 play,8,1,jimed001,01,..FX,31/G34
@@ -9136,9 +9088,6 @@ play,3,1,kotsm001,00,X,9/F9
 play,3,1,klesr001,12,BFFX,63/G
 play,4,0,dunna001,31,CBBBX,T9
 play,4,0,grifk002,10,BX,FC3/G3L/THH.3-H(RBI);B-2(E2)
-com,"$Dunn plastered Gonzalez, but beat throw; error"
-com,"came when ball dropped and Griffey advanced;"
-com,"Gonzalez suffered concussion, came out 4 batters later"
 play,4,0,cases001,31,BBBCB,W
 play,4,0,boona001,31,BBBCB,W.2-3;1-2
 play,4,0,yound001,11,BFX,S9.3-H;2-3;1-2
@@ -9147,7 +9096,6 @@ play,4,0,reesp001,00,,NP
 sub,davib003,"Ben Davis",1,7,2
 play,4,0,reesp001,10,BX,S/78.3-H;1-3
 play,4,0,acevj002,00,C,CSH(25).1-2
-com,"busted squeeze"
 play,4,0,acevj002,12,CBFS,K
 play,4,1,nevip001,12,CBFX,S8
 play,4,1,lankr001,32,SBBSFBB,W.1-2
@@ -9225,9 +9173,7 @@ play,8,0,dunna001,21,FBBX,64(1)3/GDP
 play,8,1,nevip001,00,,NP
 sub,gravd001,"Danny Graves",0,9,1
 play,8,1,nevip001,12,SBFX,D/89
-com,"$foul by Nevin was off foot, nearly left game"
 play,8,1,lankr001,11,BCX,FC6.2X3(65);B-1
-com,"$very poor decision by Nevin, who was out easily"
 play,8,1,darrm001,21,BCBX,S.1-2
 play,8,1,davib003,00,X,64(1)3/GDP
 play,9,0,grifk002,00,,NP
@@ -9632,7 +9578,6 @@ play,6,1,hendr001,31,BBBCB,W
 play,6,1,kotsm001,21,BBCB,CS2(26)
 play,7,0,relad001,22,CBBSS,K
 play,7,0,shint001,01,FX,21/P2
-com,"$juggled popup from Davis to McElroy"
 play,7,0,johnm001,11,CBX,9/F9
 play,7,1,kotsm001,11,CBX,S7
 play,7,1,klesr001,32,BCBCFBB,W.1-2
@@ -9647,7 +9592,6 @@ play,7,1,gwynt001,32,CBBCFBS,K+CS3(25)/DP
 play,8,0,agbab001,00,,NP
 sub,fikaj001,"Jeremy Fikac",1,5,1
 play,8,0,agbab001,22,BCSBS,K
-com,"Debut game for Jeremy Fikac"
 play,8,0,wilsv001,32,CSBBBS,K23
 play,8,0,paytj001,02,CFFS,K
 play,8,1,davib003,00,,NP
@@ -10502,7 +10446,6 @@ play,8,1,jimed001,00,X,S8/8S.2-H
 play,8,1,klesr001,00,,NP
 sub,knote001,"Eric Knott",0,9,1
 play,8,1,klesr001,00,X,S9.1-2
-com,"Debut game for Eric Knott"
 play,8,1,nevip001,00,,NP
 sub,sabee001,"Erik Sabel",0,9,1
 play,8,1,nevip001,31,BBSBB,W.2-3;1-2
@@ -11163,7 +11106,6 @@ play,7,0,mcgwm001,02,SSFS,K
 play,7,0,rente001,12,BSCS,K
 play,7,0,marre001,32,BBBCCB,W
 play,7,0,willw001,22,CBCFFFBFX,5/P5
-com,"$Williams perfect through 6 innings"
 play,7,1,jimed001,00,X,S8.BX2(84)
 play,7,1,kotsm001,22,CCFBBX,13/G
 play,7,1,klesr001,00,X,5/P5
@@ -11917,7 +11859,6 @@ play,3,1,wittk001,32,CBBFBB,W
 play,3,1,hendr001,31,BBBCB,W.1-2
 play,3,1,jimed001,10,BX,8/F8
 play,3,1,klesr001,01,SX,D9/G3L.2-H;1-H
-com,"$Henderson scored his 2245th run to tie Cobb for record"
 play,3,1,nevip001,00,X,3/FL
 play,3,1,tramb001,10,BX,S.2-3
 play,3,1,davib003,22,BFSBS,K
@@ -12079,7 +12020,6 @@ play,3,0,grees001,00,X,D8/8D.1-H
 play,3,0,shefg001,00,X,S8/8S.2XH(82)
 play,3,1,middj001,12,BCSC,K/C
 play,3,1,hendr001,10,BX,HR/7
-com,"$Henderson scored 2246th run to set new career record"
 play,3,1,jimed001,32,CFBBBX,9/F9
 play,3,1,klesr001,32,SBBSBB,W
 play,3,1,nevip001,30,BBBB,W.1-2
@@ -12117,8 +12057,6 @@ play,6,1,hendr001,32,CBBBFB,W.3-H;2-3;1-2
 play,6,1,jimed001,32,BFBCBX,D9.3-H;2-H;1-3
 play,6,1,klesr001,31,BBBCB,W
 play,6,1,nevip001,02,CCS,K
-com,"ej,nevip001,P,everm901,Balls and strikes"
-com,"Phil Nevin ejected by HP umpire Mike Everitt"
 play,7,0,karre001,00,,NP
 sub,lundd001,"David Lundquist",1,9,1
 play,7,0,karre001,00,,NP
@@ -12512,12 +12450,10 @@ start,davib003,"Ben Davis",1,6,2
 start,cresc001,"Cesar Crespo",1,7,8
 start,jackd003,"Damian Jackson",1,8,4
 start,lawrb001,"Brian Lawrence",1,9,1
-com,"$Tony Gwynn's last game"
 play,1,0,pierj002,01,CX,63/G
 play,1,0,shumt001,02,CFFX,53/G
 play,1,0,heltt001,22,FBBFC,K/C
 play,1,1,hendr001,00,X,D9/9S
-com,"$Henderson's 3000th career hit"
 play,1,1,jimed001,22,CFBBFC,K/C
 play,1,1,klesr001,11,BCX,3E1/G.2-3
 play,1,1,nevip001,00,X,S9.3-H;1-2

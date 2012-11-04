@@ -713,7 +713,6 @@ play,8,0,ellim001,30,BBBB,W.2-3;1-2
 play,8,0,chave001,22,BFBCC,K
 play,8,1,belta001,32,CBFFBBB,W
 play,8,1,everc001,00,X,46(1)3/DP/RINT
-com,"DP on runner interference, not GDP"
 play,8,1,johjk001,32,BCCBBX,63/G
 play,9,0,thomf001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,2,5
@@ -1982,7 +1981,6 @@ start,reedj004,"Jeremy Reed",1,7,8
 start,betay001,"Yuniesky Betancourt-Pere",1,8,6
 start,river003,"Rene Rivera",1,9,2
 start,moyej001,"Jamie Moyer",1,0,1
-com,"$Debut for umpire Mike Muchlinski"
 play,1,0,ozunp001,12,CBSFX,D7/L+
 play,1,0,iguct001,01,LX,9/F
 play,1,0,thomj002,20,BBX,S8/L.2-H
@@ -2523,7 +2521,6 @@ play,8,0,sizeg001,32,BCFBB>B,W.3-H;2-3;1-2
 play,8,0,michj001,00,,NP
 sub,woodj002,"Jake Woods",1,0,1
 play,8,0,michj001,22,.BBCCX,DGR/9/L.3-H;2-H;1-3
-com,"fan interference"
 play,8,0,peraj001,31,BCBBX,63/G
 play,8,1,sexsr001,00,,NP
 sub,broub001,"Ben Broussard",0,6,3
@@ -2626,8 +2623,6 @@ play,2,1,lopej003,11,CBX,S7/L
 play,2,1,betay001,02,CSX,9/F
 play,3,0,boona001,01,FX,5/L
 play,3,0,sizeg001,00,X,143/G
-com,"ej,hargm001,M,reynj901,Balls and strikes"
-com,"Mariners Manager Mike Hargrove ejected by HP umpire Jim Reynolds"
 play,3,0,michj001,22,CBF.BS,K
 play,3,1,suzui001,01,CX,43/G
 play,3,1,bloow001,01,CX,3/P
@@ -2665,8 +2660,6 @@ play,7,1,ibanr001,22,FB>FFB1FFFX,D8/L.1-H
 play,7,1,sexsr001,00,,NP
 sub,cabrf002,"Fernando Cabrera",0,0,1
 play,7,1,sexsr001,02,.CCS,K
-com,"ej,goffm801,C,reynj901,Check swing"
-com,"Mariners First Base Coach Mike Goff ejected by HP umpire Jim Reynolds"
 play,8,0,blakc001,21,.BCBX,S8/L
 play,8,0,bellr002,10,BX,54(1)3/GDP
 play,8,0,vazqr001,12,CFBFX,8/F
@@ -3477,7 +3470,6 @@ play,8,0,greek002,01,FX,HR/7/F
 play,8,0,gonza003,00,X,43/G
 play,8,0,castv001,00,X,6!/L
 play,8,0,barfj003,11,FBX,S4/G
-com,"originally scored E4, changed to single next day"
 play,8,0,bardj001,01,FX,D9/L.1-3
 play,8,0,robed001,00,,NP
 sub,guare001,"Eddie Guardado",1,0,1
@@ -5814,8 +5806,6 @@ play,9,0,spilr001,00,X,9/F
 play,9,1,johjk001,22,FBBFX,8/F
 play,9,1,reedj004,01,CX,13/G-
 play,9,1,betay001,01,CX,63/G
-com,"Mariners send 27 batters to the plate in game for 3rd time"
-com,"in their history"
 data,er,foggj001,0
 data,er,moyej001,2
 id,SEA200607010
@@ -5866,7 +5856,6 @@ start,reedj004,"Jeremy Reed",1,8,8
 start,betay001,"Yuniesky Betancourt-Pere",1,9,6
 start,pinej001,"Joel Pineiro",1,0,1
 play,1,0,carrj001,02,CFFFFX,7!/F
-com,"Ibanez pulled ball back from over the fence"
 play,1,0,sullc001,21,BBCX,7/L
 play,1,0,heltt001,01,FX,S7/L
 play,1,0,hollm001,00,X,64(1)/FO/G+
@@ -6574,9 +6563,6 @@ sub,iztum001,"Maicer Izturis",0,2,5
 play,8,1,everc001,00,,NP
 sub,kenna001,"Adam Kennedy",0,9,4
 play,8,1,everc001,12,..BCFX,3/G
-com,"ej,everc001,P,knigb901,Comments about HP umpire Phil Cuzzi"
-com,"Mariners Carl Everett ejected by 1B umpire Brian Knight for saying something"
-com,"to the 1B coach about HP umpire Phil Cuzzi"
 play,8,1,johjk001,01,CX,8/F
 play,8,1,choos001,12,CBSH,HP
 play,8,1,betay001,11,B11FX,5!3/G
@@ -6830,8 +6816,6 @@ play,6,0,ingeb001,31,BCBBX,8/F
 play,6,1,ibanr001,00,,NP
 sub,walkj001,"Jamie Walker",0,0,1
 play,6,1,ibanr001,22,.SFBBFT,K
-com,"ej,hargm001,M,barrt901,Balls and strikes"
-com,"Mariners Manager Mike Hargrove ejected by HP umpire Ted Barrett"
 play,6,1,sexsr001,00,.X,9/F
 play,6,1,everc001,22,BCBSS,K
 play,7,0,infao001,00,,NP
@@ -7109,7 +7093,6 @@ play,6,0,youkk001,22,CBBCX,S7/L
 play,6,0,lorem001,11,CBX,4/L
 play,6,1,sexsr001,00,,NP
 sub,hansc001,"Craig Hansen",0,0,1
-com,"Red Sox pitcher Kyle Snyder left the game due to an injured leg"
 play,6,1,sexsr001,12,.CBSFX,53/G
 play,6,1,everc001,21,BBFX,7/F
 play,6,1,johjk001,01,CX,53/G
@@ -7440,7 +7423,6 @@ sub,timlm001,"Mike Timlin",0,0,1
 play,8,1,suzui001,12,.CFBX,53/G
 play,8,1,bloow001,21,CBBX,6/L
 play,8,1,belta001,10,BX,HR8/IPHR
-com,"$the first inside the park homer at Safeco Field"
 play,8,1,ibanr001,02,SFS,K
 play,9,0,ortid001,00,,NP
 sub,putzj001,"J.J. Putz",1,0,1
@@ -7687,8 +7669,6 @@ play,5,0,molib001,00,,NP
 sub,woodj002,"Jake Woods",1,0,1
 play,5,0,molib001,11,.BSX,9/F
 play,5,0,hilla001,30,IIII,IW
-com,"ej,hargm001,M,mcclt901,Balls and strikes"
-com,"Mariners Manager Mike Hargrove ejected by HP umpire Tim McClelland"
 play,5,0,mcdoj003,31,B.BCBB,W.3-H;2-3;1-2
 play,5,0,johnr008,22,BSFBFFFFX,53/G
 play,5,1,everc001,11,BCX,E6/TH/G.B-1
@@ -9056,7 +9036,6 @@ play,4,0,damoj001,00,X,S9/L.3-H;2-H;1-3;B-2(E9/TH)
 play,4,0,jeted001,10,BX,FC6/G.3XH(62);2-3
 play,4,0,abreb001,30,BBBB,W.1-2
 play,4,0,giamj001,12,CBFX,DGR/9.3-H;2-H;1-3
-com,"fan interference"
 play,4,0,posaj001,12,CCBFX,S4/G.3-H;2-3
 play,4,0,canor001,00,,NP
 sub,pinej001,"Joel Pineiro",1,0,1
@@ -9907,11 +9886,6 @@ play,8,0,cabro001,00,,NP
 sub,sorir001,"Rafael Soriano",1,0,1
 play,8,0,cabro001,12,.CCBS,K
 play,8,0,guerv001,00,X,S2/L
-com,"Guerrero's liner struck Soriano on his head behind his"
-com,"right ear and caromed into foul territory on the 3B side;"
-com,"he suffered a concussion and was admitted to the hospital."
-com,"On September 14, it was announced he was out for rest of"
-com,"season"
 play,8,0,rivej001,00,,NP
 sub,grees004,"Sean Green",1,0,1
 play,8,0,rivej001,32,.BFBBF>X,S7/G+.1-3
@@ -10962,7 +10936,6 @@ play,1,0,cataf001,11,BFX,8/F
 play,1,0,wellv001,10,BX,13/G
 play,1,1,suzui001,12,CSBS,K
 play,1,1,belta001,01,CX,DGR/7
-com,"fan interference"
 play,1,1,betay001,21,SBBX,3/G.2-3
 play,1,1,ibanr001,02,CSS,K
 play,2,0,overl001,22,BBSSX,43/G

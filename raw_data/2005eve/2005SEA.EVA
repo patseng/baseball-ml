@@ -361,7 +361,6 @@ play,5,0,cuddm001,22,CFBBX,13/G
 play,5,0,redmm001,00,X,D7/L
 play,5,0,castj004,31,FBBB,NP
 sub,franr001,"Ryan Franklin",1,0,1
-com,"Bobby Madritsch left the game due to an injured neck/shoulder"
 play,5,0,castj004,31,FBBB.B,W
 play,5,0,stews002,00,X,S7/L.2-3;1-2
 play,5,0,puntn001,01,CX,46(1)3/GDP
@@ -392,7 +391,6 @@ sub,villr001,"Ron Villone",1,0,1
 play,8,0,mornj001,02,.C1FH,HP.1-2
 play,8,0,lecrm001,00,,NP
 sub,rival001,"Luis Rivas",0,4,12
-com,"Justin Morneau left the game due to an injured head"
 play,8,0,lecrm001,32,.BBSBF>B,W.2-3;1-2
 play,8,0,jonej003,10,.BX,9/SF.3-H
 play,8,0,cuddm001,00,,NP
@@ -1188,7 +1186,6 @@ play,9,1,winnr001,21,CBBX,8/F
 play,9,1,olivm001,00,,NP
 sub,choos001,"Shin-Soo Choo",1,8,11
 play,9,1,choos001,10,.BX,3/G
-com,"Debut game for Shin-Soo Choo"
 data,er,hardr001,0
 data,er,rincr001,0
 data,er,duchj001,0
@@ -1983,7 +1980,6 @@ play,6,0,kenna001,22,F1BCBFFX,16(1)/FO/G
 play,6,0,erstd001,32,BBCB>F>X,43/G
 play,6,1,boonb002,00,,NP
 sub,molij001,"Jose Molina",0,8,2
-com,"Angels catcher Josh Paul left the game due to an injured hand/wrist"
 play,6,1,boonb002,02,.FCX,4/L
 play,6,1,ibanr001,12,FFBX,43/G
 play,6,1,reedj004,02,CSS,K
@@ -2008,7 +2004,6 @@ sub,olivm001,"Miguel Olivo",1,8,12
 play,7,1,winnr001,32,.BB.CFFB>S,K
 play,8,0,mcphd001,00,,NP
 sub,olivm001,"Miguel Olivo",1,8,2
-com,"Mariners catcher Dan Wilson left the game due to an injured knee"
 play,8,0,mcphd001,32,.CSBBBFX,43/G
 play,8,0,molij001,12,FSBFS,K
 play,8,0,kenna001,02,FCX,S7/L
@@ -2786,7 +2781,6 @@ play,6,0,posaj001,00,,NP
 sub,hansd001,"Dave Hansen",1,3,5
 play,6,0,posaj001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
-com,"Mariners third baseman Adrian Beltre left the game due to an injured leg"
 play,6,0,posaj001,02,..CSS,K
 play,6,0,giamj001,01,SX,HR/9/F
 play,6,0,canor001,12,CFBS,K
@@ -3096,7 +3090,6 @@ play,8,1,belta001,32,BF11FBB>X,53/G
 play,9,0,blumg001,00,,NP
 sub,campj002,"Jorge Campillo",1,0,1
 play,9,0,blumg001,02,.FCX,9/F
-com,"Debut game for Jorge Campillo"
 play,9,0,robed001,01,CX,E4/G
 play,9,0,ojedm001,00,,NP
 sub,fickr001,"Robert Fick",0,2,11
@@ -3599,8 +3592,6 @@ play,3,0,zaung001,12,CSBT,K
 play,3,0,cataf001,01,CX,S8/G
 play,3,0,adamr002,10,BX,64(1)/FO/G
 play,3,0,johnr008,00,H,HP.1-2
-com,"ej,franr001,P,wolfj901,Intentional HBP"
-com,"Mariners pitcher Ryan Franklin ejected by HP umpire Jim Wolf"
 play,3,0,hudso001,00,,NP
 sub,matej001,"Julio Mateo",1,0,1
 play,3,0,hudso001,21,..BSBX,8/F
@@ -3646,7 +3637,6 @@ play,7,1,ibanr001,21,CBBX,8/F.2-3
 play,7,1,boonb002,00,,NP
 sub,morsm001,"Mike Morse",1,6,11
 play,7,1,morsm001,22,.SSFBBS,K
-com,"Debut game for Mike Morse"
 play,8,0,cataf001,00,,NP
 sub,dobbg001,"Greg Dobbs",1,3,5
 play,8,0,cataf001,00,,NP
@@ -3915,7 +3905,6 @@ play,4,1,winnr001,31,BBBCX,E6/TH/G
 play,4,1,belta001,11,BCH,HP.1-2
 play,4,1,sexsr001,00,,NP
 sub,waecd001,"Doug Waechter",0,0,1
-com,"Devil Rays pitcher Casey Fossum left the game due to an injured groin"
 play,4,1,sexsr001,22,.CBFFBX,54(1)3/GDP.2-3
 play,4,1,ibanr001,32,BBF*BSX,S9/G.3-H(UR)
 play,4,1,boonb002,11,BF>X,8/F
@@ -4864,8 +4853,6 @@ sub,nelsj001,"Jeff Nelson",1,0,1
 play,8,0,woodc001,00,,NP
 sub,andem003,"Marlon Anderson",0,6,11
 play,8,0,andem003,12,..BCCC,K
-com,"ej,andem003,P,iassd901,Called third strike"
-com,"Marlon Anderson ejected by HP umpire Dan Iassogna"
 play,8,1,boonb002,00,,NP
 sub,matsk001,"Kaz Matsui",0,6,4
 play,8,1,boonb002,00,,NP
@@ -4936,9 +4923,6 @@ play,1,1,suzui001,21,CBBX,4/P
 play,1,1,winnr001,11,CBX,DGR/8/F
 play,1,1,ibanr001,20,BBX,S1/G.2-3
 play,1,1,sexsr001,12,CBCC,K
-com,"ej,sexsr001,P,scotd901,Called third strike"
-com,"ej,hargm001,M,scotd901,Called third strike"
-com,"Richie Sexson & Mgr Mike Hargrove ejected by HP umpire Dale Scott"
 play,1,1,reedj004,00,..X,43/G
 play,2,0,floyc001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,4,5
@@ -6436,7 +6420,6 @@ play,4,1,reedj004,21,BBCX,13/G-
 play,5,0,moram002,11,SBX,D7/G+
 play,5,0,tejam001,10,BX,8/F
 play,5,0,palmr001,22,FSBBX,D7/L.2-H
-com,"$3000th hit for Palmeiro"
 play,5,0,gibbj002,01,CX,D9/L.2-H
 play,5,0,matol001,01,FX,7/F
 play,5,0,bigbl001,32,BFSB*BX,3/G
@@ -6643,8 +6626,6 @@ play,9,1,belta001,00,,NP
 sub,fasas001,"Sal Fasano",0,9,2
 play,9,1,belta001,32,.CBSFBBFFX,S9/G
 play,9,1,bloow001,12,B1C1LFX,S1/G.1-3(E1/TH);B-2
-com,"originally scored S1 and E1, changed after game"
-com,"changed again back to S! and E1"
 play,9,1,morsm001,02,FCX,S9/L.3-H(UR);2-3
 data,er,chenb001,2
 data,er,ray-c001,0
@@ -7340,7 +7321,6 @@ play,2,0,sizeg001,01,CX,43/G
 play,2,1,bloow001,10,BX,8/F
 play,2,1,morsm001,12,FFFBS,K
 play,2,1,betay001,00,X,T8/F
-com,"Debut game for Yuniesky Betancourt"
 play,2,1,olivm001,12,SBFX,4/P
 play,3,0,bellr002,10,BX,D8/L
 play,3,0,peraj001,31,BBBCB,W
@@ -7355,7 +7335,6 @@ play,3,1,sexsr001,32,BSFBB>B,W.1-2
 play,3,1,belta001,10,B>C,CS2(24)
 play,4,0,broub001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
-com,"Mariners pitcher Gil Meche left the game due to an injured neck/shoulder"
 play,4,0,broub001,22,.CBBFFS,K
 play,4,0,duboj001,02,TFS,K
 play,4,0,sizeg001,12,FBFS,K
@@ -7530,7 +7509,6 @@ play,4,1,betay001,01,CX,S8/G
 play,4,1,gonzw001,11,BFX,9/F
 play,5,0,blakc001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,6,8
-com,"Mariners CF Jeremy Reed left the game due to an injured head"
 play,5,0,blakc001,01,.CX,S7/L
 play,5,0,duboj001,12,CBFFX,S7/L.1-2
 play,5,0,sizeg001,00,,NP
@@ -7553,17 +7531,11 @@ play,6,1,morsm001,11,SBX,63/G
 play,7,0,blakc001,12,BCSX,5/P
 play,7,0,duboj001,32,BCFBBFFFFFX,HR/8/F
 play,7,0,sizeg001,00,H,HP
-com,"ej,hases001,P,guccc901,Intentional HBP"
-com,"Mariners pitcher Shigetoshi Hasegawa ejected by HP umpire Chris Guccione"
 play,7,0,bellr002,00,,NP
 sub,matej001,"Julio Mateo",1,0,1
 play,7,0,bellr002,00,..X,4/P
 play,7,0,peraj001,02,SSS,K
 play,7,1,betay001,00,H,HP
-com,"ej,millk004,P,guccc901,Intentional HBP"
-com,"ej,wedge001,M,guccc901,Intentional HBP"
-com,"$both benches and bullpens emptied; Indians pitcher Kevin Millwood and"
-com,"manager Eric Wedge ejected by HP umpire Chris Guccione"
 play,7,1,gonzw001,00,,NP
 sub,betar001,"Rafael Betancourt",0,0,1
 play,7,1,gonzw001,00,...X,E9/F.1-2
@@ -7590,10 +7562,6 @@ play,9,1,gonzw001,00,,NP
 sub,riskd001,"David Riske",0,0,1
 play,9,1,gonzw001,11,.BCX,S9/L
 play,9,1,suzui001,01,FH,HP.1-2
-com,"ej,riskd001,P,guccc901,Intentional HBP"
-com,"ej,thomr003,C,guccc901,Intentional HBP"
-com,"Indians pitcher David Riske and bench coach (and acting manager)"
-com,"Robby Thompson ejected by HP umpire Chris Guccione"
 play,9,1,winnr001,00,,NP
 sub,rhoda001,"Arthur Rhodes",0,0,1
 play,9,1,winnr001,00,..X,S9/G.2-3;1-2
@@ -8325,7 +8293,6 @@ play,10,0,rodrl002,21,BCBX,7/F
 play,10,0,mauej001,30,IIII,IW
 play,10,0,lecrm001,00,,NP
 sub,bartj001,"Jason Bartlett",0,9,12
-com,"Twins shortstop Juan Castro left the game due to an injured knee"
 play,10,0,lecrm001,00,.X,2/P2F
 play,10,1,ibanr001,00,,NP
 sub,bartj001,"Jason Bartlett",0,9,6
@@ -8539,7 +8506,6 @@ play,9,0,guerv001,02,.SCC,K
 play,9,0,andeg001,00,,NP
 sub,mathj001,"Jeff Mathis",0,5,11
 play,9,0,mathj001,02,.SSC,K
-com,"Debut game for Jeff Mathis"
 play,9,0,molib001,01,CX,9/F
 play,9,1,betay001,11,.BCX,43/G
 play,9,1,spies001,12,FSBC,K
@@ -9698,7 +9664,6 @@ play,1,1,belta001,12,FSB.FFX,S9/G
 play,1,1,dobbg001,01,CX,8/F
 play,2,0,uribj002,00,,NP
 sub,hansd001,"Dave Hansen",1,4,3
-com,"Mariners first baseman Richie Sexson left the game due a blurry right eye"
 play,2,0,uribj002,11,.CBX,9/F
 play,2,0,blumg001,32,BBCFBX,7/F
 play,2,0,andeb003,22,FFBBX,5/L
@@ -9739,7 +9704,6 @@ play,5,1,dobbg001,21,B*BF>X,8/L
 play,5,1,morsm001,02,CSX,S8/L-.1-2
 play,5,1,reedj004,00,,NP
 sub,betay001,"Yuniesky Betancourt",1,5,12
-com,"Mariners third baseman Adrian Beltre left the game due to an injured knee"
 play,5,1,reedj004,00,.X,S7/L.2-H;1-2
 play,5,1,torry001,00,,NP
 sub,adkij001,"Jon Adkins",0,0,1
@@ -9866,7 +9830,6 @@ play,4,1,suzui001,01,.CX,46(1)/FO/G.3-H;2-3
 play,4,1,bloow001,12,FF*BX,46(1)/FO/G.3-H
 play,4,1,ibanr001,00,,NP
 sub,morsm001,"Mike Morse",1,2,12
-com,"Mariners third baseman Willie Bloomquist left the game due to an injured leg"
 play,4,1,ibanr001,31,.BC1BB1*B,W.1-2
 play,4,1,sexsr001,00,X,9/F
 play,5,0,giamj001,00,,NP
@@ -10326,7 +10289,6 @@ play,6,1,reedj004,21,CBBX,63/G
 play,6,1,ibanr001,31,BBFBX,S1/G
 play,6,1,sexsr001,00,,NP
 sub,sturt001,"Tanyon Sturtze",0,0,1
-com,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder"
 play,6,1,sexsr001,32,.FSBBB1B,W.1-2
 play,6,1,belta001,22,CFBBX,9/F
 play,6,1,hansd001,22,C*BBFX,S7/G.2-H;1-2
@@ -10484,8 +10446,6 @@ play,8,0,moram002,00,,NP
 sub,matej001,"Julio Mateo",1,0,1
 play,8,0,moram002,22,.CBFBX,63/G
 play,8,0,tejam001,00,X,S7/L+.2XH(72)
-com,"ej,perls101,M,dowda901,Call at HP"
-com,"Orioles Manager Sam Perlozzo ejected by HP umpire Adam Dowdy"
 play,8,1,ibanr001,00,,NP
 sub,klins002,"Steve Kline",0,0,1
 play,8,1,ibanr001,00,..X,D8/L
@@ -10572,8 +10532,6 @@ play,1,0,gibbj002,01,CX,2/P2F
 play,1,0,lopej001,01,CX,43/G-
 play,1,1,suzui001,22,BBSFX,S6/G
 play,1,1,reedj004,00,>C,CS2(26)
-com,"ej,hargm001,M,wintm901,Call at 2B"
-com,"Mariners Manager Mike Hargrove ejected by 2B umpire Mike Winters"
 play,1,1,reedj004,01,>C..X,1/G
 play,1,1,ibanr001,12,BSFFX,3/G+
 play,2,0,younw001,22,SBBSX,3/G
@@ -10738,7 +10696,6 @@ play,1,1,betay001,00,B,WP.3-H(UR);2-3;1-2
 play,1,1,betay001,10,B.X,6/P
 play,2,0,gibbj002,00,,NP
 sub,dobbg001,"Greg Dobbs",1,2,7
-com,"Mariners center fielder Jamal Strong left the game with a broken hand"
 play,2,0,gibbj002,20,.BBX,S9/L
 play,2,0,surhb001,32,BBCCBFB,W.1-2
 play,2,0,freia001,30,*BBBB,W.2-3;1-2
@@ -11106,7 +11063,6 @@ sub,shies002,"Scot Shields",0,0,1
 play,9,1,sexsr001,00,,NP
 sub,iztum001,"Maicer Izturis",0,7,8
 play,9,1,sexsr001,01,..FX,48(1)3/GDP.3-3
-com,"$Angels had 5 man infield"
 play,9,1,belta001,00,,NP
 sub,figgc001,"Chone Figgins",0,1,8
 play,9,1,belta001,00,,NP
@@ -11414,8 +11370,6 @@ play,7,1,reedj004,00,,NP
 sub,wilsc004,"C.J. Wilson",0,0,1
 play,7,1,reedj004,02,.FSS,K
 play,8,0,barar001,22,BFBSX,6!3/G
-com,"ej,showb801,M,timmt901,Call at 1B"
-com,"Rangers Manager Buck Showalter ejected by 1B umpire Tim Timmons"
 play,8,0,mattg002,30,.BBBB,W
 play,8,0,younm003,01,CX,64(1)3/GDP
 play,8,1,ibanr001,12,SSBFX,43/G

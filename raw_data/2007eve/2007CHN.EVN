@@ -952,7 +952,6 @@ play,1,0,gonza003,00,X,D9/F.2-H
 play,1,0,greek002,11,C*BX,53/G.2-3
 play,1,0,sledt001,21,BFBX,3/G
 play,1,1,pie-f001,11,BFX,43/G
-com,"Debut game for Felix Pie"
 play,1,1,therr001,12,CCBX,S5/G-
 play,1,1,lee-d002,00,>B,SB2
 play,1,1,lee-d002,30,>B.BBX,8/F
@@ -1176,14 +1175,12 @@ start,lillt001,"Ted Lilly",1,9,1
 play,1,0,ecksd001,32,BCBBFX,9/F
 play,1,0,duncc002,00,X,S7/F-
 play,1,0,pujoa001,12,CC*BX,S7/L+.1-3
-com,"Rolen returns from two games off with food poisoning"
 play,1,0,roles001,32,BBSBSX,46(1)3/GDP
 play,1,1,therr001,01,CX,S9/G
 play,1,1,floyc001,01,F1>X,9/F
 play,1,1,lee-d002,32,FBC1BB>X,S9/L+.1-3
 play,1,1,ramia001,11,BCX,S7/G.3-H;1-2
 play,1,1,derom001,00,X,54(1)3/GDP
-com,"$Pujols missed the tag at 1B but chased after DeRosa and tagged him"
 play,2,0,edmoj001,02,CFC,K
 play,2,0,wilsp002,02,FTX,9/L
 play,2,0,moliy001,32,BCBFBC,K
@@ -1226,11 +1223,6 @@ play,7,0,kenna001,12,BCCX,6/L-
 play,7,1,derom001,31,BBBCB,W
 play,7,1,jonej003,01,CX,S9/G.1-2
 play,7,1,blanh001,11,BCX,2/BG/INT.2-2;1-1
-com,"$Molina tried to reach around Blanco to catch the popup;"
-com,"Molina apparently tagged Blanco, threw to 2B where Eckstein"
-com,"stepped on the bag and then threw to 3B where Rolen tagged"
-com,"DeRosa for an apparent triple play; after Piniella complained,"
-com,"the umpires conferred and Blanco was called out for interference"
 play,7,1,iztuc001,22,CB*BCC,K
 play,7,1,lillt001,00,,NP
 sub,wardd002,"Daryle Ward",1,9,11
@@ -1270,8 +1262,6 @@ play,9,1,derom001,22,BCSBX,S8/G
 play,9,1,jonej003,00,,NP
 sub,ceder002,"Ronny Cedeno",1,5,12
 play,9,1,jonej003,32,.BF*BBS>B,W.1X2(26)
-com,"$Cedeno did not realize it was ball four and slid into 2nd."
-com,"He overslid the bag and was called out"
 play,9,1,blanh001,00,,NP
 sub,murtm001,"Matt Murton",1,7,11
 play,9,1,murtm001,00,.X,6/P
@@ -1751,7 +1741,6 @@ sub,pie-f001,"Felix Pie",1,9,11
 play,7,1,pie-f001,11,.1B1LX,S3/BG.1-2
 play,7,1,soria001,00,,NP
 sub,milld002,"Damian Miller",0,5,2
-com,"Brewers catcher Johnny Estrada left the game due to an injured knee"
 play,7,1,soria001,02,.LFB,WP.2-3;1-2
 play,7,1,soria001,12,.LFB.S,K
 play,7,1,floyc001,00,,NP
@@ -1827,7 +1816,6 @@ play,11,1,marqj001,02,.SFS,K
 play,12,0,hardj003,00,,NP
 sub,cherr001,"Rocky Cherry",1,2,1
 play,12,0,hardj003,21,.BBSX,6/P
-com,"Debut game for Rocky Cherry"
 play,12,0,fielp001,11,BCX,HR/9/F
 play,12,0,hallb001,11,FBX,9/F
 play,12,0,milld002,20,BBX,9/F
@@ -2070,7 +2058,6 @@ play,4,0,fielp001,22,CFBBS,K
 play,4,0,hallb001,21,BCBX,7/F
 play,4,1,ramia001,00,,NP
 sub,desse001,"Elmer Dessens",0,9,1
-com,"Brewers pitcher Ben Sheets left the game due to an injured groin"
 play,4,1,ramia001,30,..BBBB,W
 play,4,1,barrm003,12,CBCC,K
 play,4,1,jonej003,01,F1X,E6/FO/G.1-2;B-1
@@ -2393,7 +2380,6 @@ play,3,1,jonej003,21,BBFX,S9/L
 play,3,1,barrm003,11,BFX,S7/G.1-2
 play,3,1,murtm001,31,*BBBC,NP
 sub,speil001,"Levale Speigner",0,9,1
-com,"Nationals pitcher John Patterson left the game due to a sore bicep muscle"
 play,3,1,murtm001,32,*BBBC.FB,W.2-3;1-2
 play,3,1,derom001,30,B*BB*B,W.3-H;2-3;1-2
 play,3,1,hillr001,31,BCBBB,W.3-H;2-3;1-2
@@ -2791,8 +2777,6 @@ play,7,1,lillt001,00,,NP
 sub,wardd002,"Daryle Ward",1,9,11
 play,7,1,wardd002,00,.X,S7/L.1-2
 play,7,1,soria001,20,B*BX,S7/F.2-H(UR);1-2
-com,"ej,tracj101,M,hallt901,Call at 2B"
-com,"Pirates Manager Jim Tracy ejected by 1B umpire Tom Hallion"
 play,7,1,therr001,32,.FBF*B*BX,3/LDP.1X1(3)
 play,8,0,sancf001,00,,NP
 sub,pie-f001,"Felix Pie",1,5,8
@@ -3670,8 +3654,6 @@ sub,floyc001,"Cliff Floyd",1,9,11
 play,9,1,floyc001,00,,NP
 sub,jenkb001,"Bobby Jenks",0,6,1
 play,9,1,floyc001,02,..CSS,K
-com,"ej,floyc001,P,westj901,Balls and strikes"
-com,"$Cliff Floyd ejected by HP umpire Joe West"
 play,9,1,therr001,32,.CBTBBB,W
 play,9,1,pagaa001,32,BBBCFX,8/F
 play,9,1,soria001,01,CX,463/G
@@ -4094,7 +4076,6 @@ play,5,0,boona001,00,H,HP
 play,5,0,mitrs001,20,BBX,E1/TH/SH/BG.1-3
 play,5,0,aberr001,00,,NP
 sub,oberw001,"Wes Obermueller",0,9,12
-com,"Marlins pitcher Sergio Mitre left the game due to an injured leg"
 play,5,0,aberr001,12,FF.FFBS,K
 play,5,0,uggld001,21,SBBX,8/SF/F.3-H(UR)
 play,5,0,ramih003,12,FCBS,K
@@ -4378,7 +4359,6 @@ start,hillk002,"Koyie Hill",1,8,2
 start,hillr001,"Rich Hill",1,9,1
 play,1,0,pradm001,12,BCFS,K
 play,1,0,escoy001,32,CFBBFBFX,S9/F
-com,"Debut game for Yunel Escobar"
 play,1,0,rente001,02,CS1X,54(1)3/GDP
 play,1,1,soria001,22,FSBBFFS,K
 play,1,1,therr001,00,X,8/F
@@ -4452,15 +4432,6 @@ play,8,1,pagaa001,00,,NP
 sub,sorir001,"Rafael Soriano",0,9,1
 play,8,1,pagaa001,10,.BX,D9/L+
 play,8,1,jonej003,10,BB,OA.2X3(25)
-com,"ej,pinil001,M,wegnm901,Call at 3B; Piniella threw hat and kicked dirt"
-com,"$the pitch bounced away from catcher Jarrod Saltalamacchia;"
-com,"Angel Pagan tried to run to 3B; when 3B umpire Mark Wegne called Pagan"
-com,"out, 3B coach Mike Quade argued and Mgr Lou Piniella came"
-com,"out; Piniella kicked dirt on Wegner while arguing and then"
-com,"threw his cap, thus getting ejected by wegner; the umpires"
-com,"later claimed that Piniella kicked Wegner; fans littered the"
-com,"field; the umpires took the Braves off the field while"
-com,"the grounds crew picked up the trash; 7 minute delay"
 play,8,1,jonej003,22,BB..CFC,K
 play,8,1,hillk002,12,CSBX,63/G
 play,9,0,jonea002,00,,NP
@@ -5248,7 +5219,6 @@ play,8,0,guilj001,30,BBBB,W
 play,8,0,ibanr001,00,,NP
 sub,rapac001,"Clay Rapada",1,9,1
 play,8,0,ibanr001,22,.CBFFBFX,9/L+
-com,"Debut game for Clay Rapada"
 play,8,0,sexsr001,00,,NP
 sub,howrb001,"Bob Howry",1,4,1
 play,8,0,sexsr001,00,,NP
@@ -5340,7 +5310,6 @@ play,1,1,derom001,32,BBBCC>B,W.2-3;1-2
 play,1,1,barrm003,00,X,8/F
 play,2,0,greek002,12,BCFFX,7/F
 play,2,0,headc001,10,BX,8/F
-com,"Debut game for Chase Headley"
 play,2,0,blumg001,11,CBX,43/G
 play,2,1,fontm001,11,CBX,7/F
 play,2,1,therr001,31,BCBBX,9/L
@@ -5351,8 +5320,6 @@ play,3,0,cruzj004,20,BBX,7/F
 play,3,1,soria001,12,BCCS,K
 play,3,1,pie-f001,02,FCFS,K
 play,3,1,lee-d002,22,CBCBX,D7/L
-com,"$Fan reached over basket and touched ball for interference,"
-com,"hit ruled double. Not clear if it would have cleared basket"
 play,3,1,floyc001,22,BBFSS,K
 play,4,0,gonza003,11,BFX,43/G
 play,4,0,camem001,00,X,5!3/G
@@ -5374,9 +5341,6 @@ play,5,1,derom001,22,CBBFX,4/P
 play,6,0,bocah001,11,BCX,D8/L+
 play,6,0,cruzj004,11,BCX,7/F-
 play,6,0,gonza003,12,BFSX,T9/F.2-H
-com,"Fan reached over basket and deflected ball. Floyd"
-com,"claims he could have caught it, umpire Davis said"
-com,"he could not, ruled ball in play, went for triple"
 play,6,0,camem001,10,BX,3/P
 play,6,0,bardj001,00,X,4!/P
 play,6,1,barrm003,02,CFX,S8/L
@@ -5496,19 +5460,6 @@ play,4,1,floyc001,00,,NP
 sub,hampj001,"Justin Hampson",0,9,1
 play,4,1,floyc001,00,,NP
 sub,iztuc001,"Cesar Izturis",1,3,12
-com,"ej,lee-d002,P,everm901,Brawl after HBP"
-com,"ej,perrg001,C,everm901,Brawl after HBP"
-com,"ej,younc003,P,everm901,Brawl after HBP"
-com,"ej,peavj001,P,everm901,Brawl after HBP (not in the game)"
-com,"$Lee was hit on the left hand by a pitch that was"
-com,"going toward his head; as he walked to first, he had"
-com,"words with pitcher Young and threw a punch; Young"
-com,"punched back, both benches and bullpens emptied; after"
-com,"several minutes, Lee and Young were ejected along with"
-com,"San Diego pitcher Jake Peavy (not in the game) and"
-com,"Chicago hitting coach Gerald Perry, all by HP umpire Mike"
-com,"Everitt; San Diego catcher Bowen argued that the pitch"
-com,"hit the bat and not Lee's hand"
 play,4,1,floyc001,12,....1S..BSX,36(1)3/GDP
 play,4,1,derom001,10,BX,D7/L
 play,4,1,fontm001,11,SBX,13/G
@@ -6164,7 +6115,6 @@ play,6,1,soria001,02,SSFFX,8/F
 play,7,0,torry001,00,,NP
 sub,petrb002,"Billy Petrick",1,9,1
 play,7,0,torry001,12,.CFBX,43/G
-com,"Debut game for Billy Petrick"
 play,7,0,hirsj001,00,,NP
 sub,tavew001,"Willy Taveras",0,9,11
 play,7,0,tavew001,22,.BSSFBC,K
@@ -6878,7 +6828,6 @@ play,2,0,ensbm001,00,,NP
 sub,fontm001,"Mike Fontenot",1,5,4
 play,2,0,ensbm001,00,,NP
 sub,derom001,"Mark DeRosa",1,6,9
-com,"Floyd strained left shoulder diving for Burke's triple in 1st"
 play,2,0,ensbm001,00,..X,7/F-
 play,2,0,brune001,01,CX,63/G
 play,2,0,ausmb001,01,CX,7/F
@@ -7513,8 +7462,6 @@ sub,miscp001,"Patrick Misch",0,9,1
 play,5,1,wardd002,11,.CBB,PB.3-H;1-2
 play,5,1,wardd002,00,,NP
 sub,molib001,"Bengie Molina",0,8,2
-com,"San Francisco Giants catcher Guillermo Rodriguez left the game"
-com,"due to dehydration and 'heat illness'"
 play,5,1,wardd002,22,.CBB.C.X,13/G
 play,5,1,floyc001,00,X,D5/G+.2-H
 play,5,1,derom001,22,BCBSFS,K
@@ -7635,7 +7582,6 @@ play,2,0,molib001,32,BBCFBFX,2/P
 play,2,0,felip001,32,CSFBBBX,S3/P
 play,2,0,frank001,00,,NP
 sub,derom001,"Mark DeRosa",1,3,3
-com,"Cubs first baseman Daryle Ward left the game due to an injured leg"
 play,2,0,frank001,12,.BCCF1FFX,46(1)3/GDP
 play,2,1,soria001,12,CCBX,7/F
 play,2,1,therr001,01,CX,63/G-
@@ -7657,7 +7603,6 @@ play,3,1,kendj001,30,B.III,IW
 play,3,1,lillt001,20,BPX,13/G-
 play,4,0,felip001,00,,NP
 sub,pagaa001,"Angel Pagan",1,5,9
-com,"Cubs Cliff Floyd left the game due to an injured neck/shoulder"
 play,4,0,felip001,10,.BX,7/F
 play,4,0,frank001,12,BCFFFX,9!/F9LF
 play,4,0,vizqo001,22,BBCFFFX,3/G
@@ -7737,7 +7682,6 @@ play,8,1,jonej003,22,1BBFCX,S9/G.1-2
 play,8,1,marmc001,00,,NP
 sub,fox-j001,"Jake Fox",1,8,11
 play,8,1,fox-j001,02,.FSX,46(1)3/GDP
-com,"Debut game for Jake Fox"
 play,9,0,sancj002,00,,NP
 sub,howrb001,"Bob Howry",1,8,1
 play,9,0,sancj002,00,,NP
@@ -8270,7 +8214,6 @@ play,4,0,hamec001,10,BX,S7/L
 play,4,0,victs001,01,CX,64(1)3/GDP
 play,4,1,therr001,00,,NP
 sub,bourm001,"Michael Bourn",0,1,9
-com,"Phillies Shane Victorino hurt calf running out GDP"
 play,4,1,therr001,01,.CX,S14/G
 play,4,1,lee-d002,22,BBFSX,8/F
 play,4,1,ramia001,00,>C,SB2
@@ -8288,9 +8231,6 @@ play,5,1,lillt001,00,,NP
 sub,ceder002,"Ronny Cedeno",1,9,11
 play,5,1,ceder002,00,.X,3/P/IF
 play,5,1,soria001,12,FF*BFS,K
-com,"Phillies Michael Bourn tripped over mound in bullpen, chasing"
-com,"foul ball.  After 5 minute delay, game resumed, but Bourn"
-com,"left next inning with sprained left ankle"
 play,6,0,helmw001,00,,NP
 sub,wuerm001,"Michael Wuertz",1,9,1
 play,6,0,helmw001,10,.BX,53/G
@@ -8735,7 +8675,6 @@ play,1,1,ramia001,12,CBSH,HP
 play,1,1,floyc001,32,CBBBC>H,HP.2-3;1-2
 play,1,1,fontm001,32,BSBBF>B,W.3-H;2-3;1-2
 play,1,1,jonej003,10,BX,13/L+
-com,"$Liner off forearm of pitcher Lohse, who left next inning"
 play,2,0,burrp001,21,CBBX,HR/8/F
 play,2,0,helmw001,21,BBSX,D7/L
 play,2,0,costc001,10,BX,S7/L+.2-3
@@ -9236,8 +9175,6 @@ play,3,1,kendj001,21,CBBX,53/G+
 play,3,1,marqj001,32,CBCFFFBBFX,7/F
 play,3,1,soria001,12,CBFX,S7/G
 play,3,1,therr001,10,BX,S8/G.1X3(85);B-2(TH)
-com,"$Soriano tore right quad running to third, couldn't"
-com,"make it to third; out 2-4 weeks at least"
 play,4,0,grees001,00,,NP
 sub,fontm001,"Mike Fontenot",1,1,4
 play,4,0,grees001,00,,NP
@@ -9318,7 +9255,6 @@ play,8,1,lee-d002,00,,NP
 sub,gotar001,"Ruben Gotay",0,2,4
 play,8,1,lee-d002,00,,NP
 sub,sosaj002,"Jorge Sosa",0,9,1
-com,"Mets second baseman Luis Castillo left the game due to an injured head"
 play,8,1,lee-d002,00,..X,63/G
 play,8,1,ramia001,01,CX,63/G
 play,8,1,floyc001,31,BFBBB,W
@@ -9823,7 +9759,6 @@ sub,fontm001,"Mike Fontenot",1,5,4
 play,8,0,dunna001,00,,NP
 sub,pignc001,"Carmen Pignatiello",1,9,1
 play,8,0,dunna001,22,...BBFFX,S4/G-
-com,"Debut game for Carmen Pignatiello"
 play,8,0,hatts001,22,BBSFC,K
 play,8,0,valej004,02,FFX,7/F
 play,8,0,encae001,22,BBSSX,53/G
@@ -9919,14 +9854,9 @@ play,3,1,hillr001,12,FBSS,K
 play,4,0,pujoa001,32,BCCBFBX,S7/L
 play,4,0,encaj001,00,X,3/P3F
 play,4,0,roles001,32,SBFBBS,K/DP/INT.1X1(2)
-com,"$Rolen's follow-through carried him across the plate and he was"
-com,"called for interfereing with Jason Kendall's throw by HP umpire"
-com,"Angel Hernandez; Cardinals manager Tony LaRussa argued the call"
 play,4,1,therr001,31,CBBBX,S9/L
 play,4,1,jonej003,20,1B1BX,4!6(1)/FO/G+.B-1
 play,4,1,lee-d002,32,BCCBFB>S,K+SB2
-com,"$Lee's follow-through carried him onto the plate but no"
-com,"interference was called on the play; LaRussa again argues"
 play,4,1,ramia001,30,IIII,IW
 play,4,1,wardd002,10,BX,31/G
 play,5,0,edmoj001,10,BX,7/F
@@ -10707,7 +10637,6 @@ play,4,0,hardj003,32,BCBFFB>X,4/P
 play,4,0,braur002,02,CFS,K23
 play,4,1,kendj001,00,,NP
 sub,capuc001,"Chris Capuano",0,9,1
-com,"Brewers pitcher Manny Parra left the game due to an injured hand/wrist"
 play,4,1,kendj001,11,.BCX,S8/F-
 play,4,1,jonej003,22,BC1SBFFX,4(1)3/GDP
 play,4,1,lillt001,10,BX,S9/F-
@@ -11197,7 +11126,6 @@ sub,wuerm001,"Michael Wuertz",1,9,1
 play,6,0,willw001,00,,NP
 sub,andej004,"Josh Anderson",0,9,11
 play,6,0,andej004,22,..BFBFS,K
-com,"Debut game for Josh Anderson"
 play,6,0,pench001,11,BFX,63/G
 play,6,0,biggc001,32,BSSBBS,K
 play,6,1,jonej003,00,,NP
@@ -11217,8 +11145,6 @@ play,6,1,soria001,02,.FFX,8/SF/F.3-H
 play,6,1,therr001,12,BCFX,S8/L.2-H(UR);1-2
 play,6,1,lee-d002,01,FX,8/F
 play,6,1,ramia001,32,BCCBF*B>F>F>C,K
-com,"ej,ramia001,P,randt901,Called third strike"
-com,"Cubs third baseman Aramis Ramirez ejected by HP umpire Tony Randazzo"
 play,7,0,berkl001,00,,NP
 sub,fontm001,"Mike Fontenot",1,4,4
 play,7,0,berkl001,00,,NP
@@ -11586,7 +11512,6 @@ play,8,0,lonej001,30,BBII,IW
 play,8,0,martr003,00,,NP
 sub,hartk001,"Kevin Hart",1,9,1
 play,8,0,martr003,30,.BBBB,W.3-H;2-3;1-2
-com,"Debut game for Kevin Hart"
 play,8,0,pennb002,00,,NP
 sub,sweem001,"Mark Sweeney",0,9,11
 play,8,0,sweem001,12,.SSF*BC,K
@@ -11683,7 +11608,6 @@ play,3,0,liebm001,11,BFX,8/F
 play,3,0,stule002,32,CBCBBX,D8/F
 play,3,0,furcr001,01,CX,13/G-.2-3
 play,3,0,pierj002,31,BBBCX,56/L
-com,"$hard liner deflected from Ramirez to Cedeno"
 play,3,1,soria001,12,CFFBX,8/F
 play,3,1,derom001,11,BFX,S9/L
 play,3,1,lee-d002,00,X,8/F
@@ -11788,7 +11712,6 @@ sub,therr001,"Ryan Theriot",1,8,6
 play,9,0,ethia001,00,,NP
 sub,dempr002,"Ryan Dempster",1,9,1
 play,9,0,ethia001,00,......X,S9/L
-com,"Debut game for Sam Fuld"
 play,9,0,hills002,12,CC*BT,K
 play,9,0,lonej001,01,FX,63/G-.1-2
 play,9,0,liebm001,10,BX,53/G
@@ -12728,7 +12651,6 @@ play,4,0,nadyx001,32,BCBBS>B,W.1-2
 play,4,0,bautj002,02,CSX,8/L
 play,4,1,ramia001,00,,NP
 sub,katam001,"Matt Kata",0,8,6
-com,"Pirates shortstop Cesar Izturis left the game due to an injured elbow"
 play,4,1,ramia001,01,..CX,63/G+
 play,4,1,murtm001,22,SSBBFS,K
 play,4,1,sotog001,01,CX,5!/L+

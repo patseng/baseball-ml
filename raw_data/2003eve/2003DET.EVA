@@ -180,7 +180,6 @@ start,ingeb001,"Brandon Inge",1,8,2
 start,santr002,"Ramon Santiago",1,9,4
 start,bondj001,"Jeremy Bonderman",1,0,1
 play,1,0,jonej003,32,CBBBFX,7/F
-com,"Debut game for Jeremy Bonderman"
 play,1,0,guzmc001,12,FBCX,S9/G
 play,1,0,huntt001,01,C1X,463/G.1-2
 play,1,0,koskc001,10,BB,WP.2-3
@@ -223,7 +222,6 @@ play,4,1,palmd002,10,BX,8/F
 play,5,0,lecrm001,00,,NP
 sub,ledew001,"Wil Ledezma",1,0,1
 play,5,0,lecrm001,11,.BSX,23/G
-com,"Debut game for Wil Ledezma"
 play,5,0,miend001,32,BFCBBFX,7/F
 play,5,0,cuddm001,32,SBBBCB,W
 play,5,0,piera001,01,SX,43/G
@@ -242,7 +240,6 @@ play,6,1,yound001,12,BSFS,K
 play,7,0,huntt001,00,,NP
 sub,spurc001,"Chris Spurling",1,0,1
 play,7,0,huntt001,12,.FCFBS,K
-com,"Debut game for Chris Spurling"
 play,7,0,hockd001,10,BX,D9/L
 play,7,0,lecrm001,31,BBBCX,3/L
 play,7,0,miend001,32,BCFFBBX,4/L
@@ -253,7 +250,6 @@ play,7,1,munse001,21,CBBX,7/F
 play,8,0,cuddm001,00,,NP
 sub,ronem001,"Matt Roney",1,0,1
 play,8,0,cuddm001,32,.CSFFBBBFFB,W
-com,"Debut game for Matt Roney"
 play,8,0,piera001,22,BBFSFFX,S8/G.1-3
 play,8,0,rival001,12,*BFFC,K
 play,8,0,jonej003,30,BBBX,7/SF.3-H;1-2
@@ -1318,7 +1314,6 @@ play,9,1,ingeb001,31,C*BBBH,HP.1-2
 play,9,1,santr002,00,,NP
 sub,bauer001,"Rick Bauer",0,0,1
 play,9,1,santr002,01,.CX,6/P
-com,"Infield fly rule"
 play,9,1,torra001,01,CX,7/F
 play,9,1,infao001,01,CX,46(1)/FO/G
 data,er,johnj007,0
@@ -1394,7 +1389,6 @@ play,2,1,palmd002,01,CX,S9/L
 play,2,1,munse001,22,FBB>FFX,S7/L.1-3
 play,2,1,ingeb001,00,,NP
 sub,hentp001,"Pat Hentgen",0,0,1
-com,"Orioles Rodrigo Lopez left the game due to an injured back"
 play,2,1,ingeb001,21,BFB..1X,64(1)/FO/G.3-H
 play,2,1,santr002,01,M1S,CS2(26)
 play,2,1,santr002,02,M1S.C,K
@@ -2618,8 +2612,6 @@ sub,spars001,"Steve Sparks",1,0,1
 play,6,0,winnr001,20,.BBX,S8/G.2-H;1-3
 play,6,0,cirij001,12,CB1F*B,SB2
 play,6,0,cirij001,22,CB1F*B.C,K
-com,"ej,cirij001,P,vanol901,Called third strike"
-com,"Mariners Jeff Cirillo ejected by HP umpire Larry Vanover"
 play,6,0,wilsd001,02,.SFS,K
 play,6,0,suzui001,30,IIII,IW
 play,6,0,mclem001,32,BFBBCF>S,K
@@ -3167,7 +3159,6 @@ play,2,0,blakc001,12,BCCC,K
 play,2,0,philb001,22,CSBBX,1/P
 play,2,1,wittk001,00,,NP
 sub,trabb001,"Billy Traber",0,0,1
-com,"Indians Jason Bere left the game due to an injured neck/shoulder"
 play,2,1,wittk001,32,.BCBBSB,W
 play,2,1,munse001,32,CBSBBS,K
 play,2,1,ingeb001,02,CFX,DGR/9/L.1-3
@@ -3182,7 +3173,6 @@ play,3,1,yound001,22,1BC1BFX,S8/G.1-3
 play,3,1,penac001,00,X,36(1)/FO/G.3-H
 play,3,1,wittk001,00,,NP
 sub,halts001,"Shane Halter",1,5,12
-com,"Tigers Carlos Pena left the game due to an injured leg"
 play,3,1,wittk001,22,.>FBFBS,K
 play,4,0,bradm001,00,,NP
 sub,halts001,"Shane Halter",1,5,3
@@ -3327,7 +3317,6 @@ play,2,0,laket001,11,BFX,S7/G.2-H;1-2
 play,2,0,mcdoj003,32,BBBCF>B,W.2-3;1-2
 play,2,0,philb001,00,,NP
 sub,ledew001,"Wil Ledezma",1,0,1
-com,"Tigers Mike Maroth left the game due to an injured leg"
 play,2,0,philb001,11,.CBX,4/P
 play,2,0,geruj001,00,X,S9/L.3-H(UR);2-H(UR);1-3
 play,2,0,burke001,02,FS1X,3/P
@@ -3454,7 +3443,6 @@ start,munse001,"Eric Munson",1,7,5
 start,ingeb001,"Brandon Inge",1,8,2
 start,infao001,"Omar Infante",1,9,6
 start,knotg001,"Gary Knotts",1,0,1
-com,"44 minute delay during game"
 play,1,0,jeted001,01,FX,43/G
 play,1,0,matsh001,22,CFBBX,S8/L
 play,1,0,soria001,01,CX,54(1)/FO/G
@@ -3984,7 +3972,6 @@ start,munse001,"Eric Munson",1,7,5
 start,ingeb001,"Brandon Inge",1,8,2
 start,infao001,"Omar Infante",1,9,6
 start,knotg001,"Gary Knotts",1,0,1
-com,"28 minute delay during game"
 play,1,0,robed001,12,BCCX,23/BG
 play,1,0,lodup001,12,CBCFFX,53/G
 play,1,0,jordb001,12,CBSFFX,63/G
@@ -4488,8 +4475,6 @@ play,5,0,johnc002,01,CX,D7/L
 play,5,0,hernj001,32,BFBBFB,W
 play,5,0,uribj002,00,X,15(2)/FO/BG.1-2
 play,5,0,paytj001,22,BFSFBX,64(1)3/GDP
-com,"ej,apodb101,C,timmt901,Call at 1B (from the bench)"
-com,"Rockies Coach Bob Apodaca ejected by 1B umpire Tim Timmons"
 play,5,1,infao001,22,BCFFBX,S5/G
 play,5,1,sanca003,01,L1X,S3/BG.1-2
 play,5,1,morrw001,00,22X,14/SH/BG.2-3;1-2
@@ -5495,7 +5480,6 @@ start,santr002,"Ramon Santiago",1,7,6
 start,hinca001,"A.J. Hinch",1,8,2
 start,sanca003,"Alex Sanchez",1,9,8
 start,bondj001,"Jeremy Bonderman",1,0,1
-com,"1:36 delay during game"
 play,1,0,womat001,12,CBLS,K
 play,1,0,katam001,01,CX,D9/G
 play,1,0,cinta001,12,FCFBX,S6/G.2-3
@@ -5718,7 +5702,6 @@ play,10,0,gracm001,02,CFX,S8/L
 play,10,0,barar001,00,,NP
 sub,mearc001,"Chris Mears",1,0,1
 play,10,0,barar001,31,.BBFBX,54(1)3/GDP
-com,"Debut game for Chris Mears"
 play,10,1,torra001,00,,NP
 sub,valvj001,"Jose Valverde",0,0,1
 play,10,1,torra001,11,.CBX,9/F
@@ -6273,8 +6256,6 @@ play,8,1,munse001,12,CFBS,K
 play,8,1,rossc001,12,SBCX,13/G
 play,9,0,thomf001,32,CFBBBS,K
 play,9,0,ordom001,22,SBBFS,K
-com,"ej,ordom001,P,guccc901,Check swing"
-com,"White Sox Magglio Ordonez ejected by HP umpire Chris Guccione"
 play,9,0,lee-c001,11,.BCX,53/G
 data,er,garlj001,2
 data,er,martd004,0
@@ -8135,7 +8116,6 @@ play,7,1,wittk001,31,BBSBX,S7/L
 play,7,1,penac001,00,,NP
 sub,petrb001,"Ben Petrick",1,5,12
 play,7,1,penac001,32,.BLLB1B>B,W.1X2(26)
-com,"Witt was going on pitch, overslid base and was out"
 play,7,1,munse001,00,X,S7/L.1-2
 play,7,1,ingeb001,02,CFX,8/F
 play,7,1,santr002,00,X,9/F
@@ -8266,11 +8246,6 @@ play,1,0,stews002,00,X,53/G
 play,1,1,sanca003,22,BCCFFFBS,K
 play,1,1,halts001,00,X,S9/L
 play,1,1,higgb001,21,BBC1X,6/P
-com,"ej,gibsk001,C,eddid901,Protesting Higginson ejection"
-com,"ej,higgb001,P,eddid901,Threw bat after popping up"
-com,"Tigers Bobby Higginson threw his bat after hitting the popup;"
-com,"he was ejected by HP umpire Doug Eddings;"
-com,"Coach Kirk Gibson ejected by Eddings for yelling from the bench"
 play,1,1,yound001,02,..CFFFC,K
 play,2,0,hockd001,00,,NP
 sub,petrb001,"Ben Petrick",1,3,7
@@ -9480,7 +9455,6 @@ play,5,1,santr002,32,B.BFBFFX,14!3/G
 play,6,0,rigga001,00,,NP
 sub,schmb001,"Brian Schmack",1,0,1
 play,6,0,rigga001,12,.CBFX,6/P
-com,"Debut game for Brian Schmack"
 play,6,0,molib001,11,FBX,S8/G
 play,6,0,kenna001,32,FCBB*B>X,8/F
 play,6,0,ameza001,31,CBBBB,W.1-2
@@ -9611,8 +9585,6 @@ play,1,1,yound001,00,,NP
 sub,rowaa001,"Aaron Rowand",0,4,8
 play,1,1,yound001,00,,NP
 sub,everc001,"Carl Everett",0,6,9
-com,"Ordonez hyperextended left index finger diving for"
-com,"Higginson's double"
 play,1,1,yound001,22,..FSBFBX,S9/G.2-H
 play,1,1,monrc001,31,BFBBX,S7/L.1-2
 play,1,1,penac001,20,BB2X,7/F
@@ -10050,7 +10022,6 @@ start,halts001,"Shane Halter",1,7,5
 start,ingeb001,"Brandon Inge",1,8,2
 start,santr002,"Ramon Santiago",1,9,6
 start,mearc001,"Chris Mears",1,0,1
-com,"11 minute delay during game"
 play,1,0,crisc001,12,CCBX,9/F
 play,1,0,blakc001,32,BBFFBX,S8/G
 play,1,0,geruj001,32,BC1BBC>F1>X,S9/L.1-2
@@ -11354,8 +11325,6 @@ sub,kersj001,"Jason Kershner",0,0,1
 play,6,1,sanca003,00,.X,53/BG
 play,6,1,morrw001,00,X,63/G
 play,6,1,higgb001,22,CCFBBFS,K
-com,"ej,higgb001,P,hollm901,Checked swing"
-com,"Tigers Bobby Higginson ejected by HP umpire Matt Hollowell"
 play,7,0,hudso001,00,,NP
 sub,monrc001,"Craig Monroe",1,3,9
 play,7,0,hudso001,22,..BCFBFFX,S7/G

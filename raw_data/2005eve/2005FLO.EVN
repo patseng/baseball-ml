@@ -86,7 +86,6 @@ play,4,0,estrj001,10,BX,63/G-
 play,4,0,mondr002,22,SSBFBS,K
 play,4,1,cabrm001,00,,NP
 sub,peree002,"Eddie Perez",0,6,2
-com,"Braves catcher Johnny Estrada left the game due to an injured hand/wrist"
 play,4,1,cabrm001,00,.X,31/G-
 play,4,1,delgc001,22,CBSFFFBX,D9/L
 play,4,1,lowem001,12,CFFBS,K
@@ -109,7 +108,6 @@ play,6,0,jonea002,02,CSS,K
 play,6,1,pierj002,00,,NP
 sub,orr-p001,"Pete Orr",0,2,4
 play,6,1,pierj002,12,.CFFFFBFH,HP
-com,"Debut game for Pete Orr"
 play,6,1,castl001,32,.CBBFB>X,S9/G.1-3
 play,6,1,cabrm001,12,CBFS,K
 play,6,1,delgc001,00,X,S9/L.3-H;1-2
@@ -1162,7 +1160,6 @@ play,3,1,pierj002,02,CFFX,3/G
 play,4,0,loftk001,00,X,D8/L
 play,4,0,abreb001,22,CS*B*BX,S9/F.2-H
 play,4,0,thomj002,00,1,PO1(E1).1-2
-com,"originally scored as E3, changed on 04-14"
 play,4,0,thomj002,12,1.CSBX,FC6/G.2X3(65)
 play,4,0,burrp001,00,X,64(1)3/GDP
 play,4,1,castl001,21,BCBX,8/L
@@ -1622,7 +1619,6 @@ play,7,0,diazv001,00,,NP
 sub,aguic001,"Chris Aguila",1,5,9
 play,7,0,diazv001,21,.BBS,NP
 sub,perim001,"Matt Perisho",1,8,1
-com,"Marlins pitcher Antonio Alfonseca left the game due to an injured elbow"
 play,7,0,diazv001,31,..BBS.BB,W
 play,7,0,martp001,11,BFX,4(1)3/GDP
 play,7,0,reyej001,01,CX,8/F
@@ -1888,7 +1884,6 @@ play,2,1,lowem001,00,,NP
 sub,freer001,"Ryan Freel",0,1,7
 play,2,1,lowem001,00,,NP
 sub,lopef001,"Felipe Lopez",0,5,4
-com,"Reds right fielder Wily Mo Pena left the game due to an injured leg"
 play,2,1,lowem001,11,..CBX,53/G
 play,2,1,gonza002,21,CBBX,43/G
 play,2,1,willd003,02,CFX,63/G
@@ -2220,7 +2215,6 @@ play,6,1,cabrm001,02,CFFX,S8/L
 play,6,1,encaj001,31,BBBCX,S1/G.1-3(E1/TH);B-2
 play,6,1,lodup001,00,,NP
 sub,witaj001,"Jay Witasick",0,9,1
-com,"Rockies pitcher Joe Kennedy left the game due to an injured leg"
 play,6,1,lodup001,00,..X,S8/G.3-H;2-H
 play,6,1,lowem001,32,FBBCF1B>F>X,S7/G.1-2
 play,6,1,gonza002,11,BLX,FC1/SH/BG.2-3;1-2
@@ -2480,7 +2474,6 @@ play,2,0,closj001,31,FBBBB,W.2-3;1-2
 play,2,0,sullc001,12,BSCX,7/SF.3-H
 play,2,0,franj003,22,LBBLFX,14/SH/BG.2-3;1-2
 play,2,0,barmc001,31,BBBCX,HR9/IPHR.3-H;2-H
-com,"$Encarnacion tried to make a shoe-string catch and the ball rolled to the wall"
 play,2,0,milea001,11,BCX,53/G
 play,2,1,lowem001,11,CBX,8/F
 play,2,1,gonza002,20,BBX,7/F
@@ -2620,7 +2613,6 @@ start,lodup001,"Paul Lo Duca",1,6,2
 start,lowem001,"Mike Lowell",1,7,5
 start,gonza002,"Alex Gonzalez",1,8,6
 start,burna001,"A.J. Burnett",1,9,1
-com,"$Clemens' 330th career win to pass Carlton for 9th on the list"
 play,1,0,tavew001,32,CBBSFBFX,4/P3F
 play,1,0,biggc001,32,FBBCBFFX,S9/L
 play,1,0,lambm001,12,B1FCS,K
@@ -2671,7 +2663,6 @@ play,6,1,cabrm001,32,CSF*B*B*B*B,W
 play,6,1,encaj001,00,X,7/F
 play,7,0,ensbm001,00,,NP
 sub,easld001,"Damion Easley",1,2,4
-com,"Marlins second baseman Luis Castillo left the game due to an injured leg"
 play,7,0,ensbm001,10,.BX,4/P
 play,7,0,vizcj001,22,CBCB.X,T9/G+
 play,7,0,palmo001,02,CFX,8/SF.3-H
@@ -3397,8 +3388,6 @@ play,4,0,johnc002,00,X,65(2)/FO/G.1-2
 play,4,0,green001,21,B*BFX,9/F
 play,4,0,fossc001,02,LFX,43/G-
 play,4,1,lodup001,12,CBCFFFX,43/G
-com,"ej,mckej801,M,danlk901,Balls and strikes"
-com,"Marlins Manager Jack McKeon ejected by HP umpire Kerwin Danley"
 play,4,1,conij001,22,LC.BBFT,K
 play,4,1,cabrm001,11,BSX,53/G
 play,5,0,crawc002,02,FFX,4!3/G
@@ -3578,8 +3567,6 @@ play,6,1,gonza002,12,CFBS,K
 play,6,1,willd003,00,X,S7/G+
 play,6,1,pierj002,22,CBBCFFX,S7/L.1-2
 play,6,1,lodup001,22,CBSBX,3/G/INT.2-2;1-1
-com,"$interference called on LoDuca when hit by Lieber's"
-com,"throw while running inside baseline"
 play,6,1,delgc001,21,BFBX,HR/9/F.2-H;1-H
 play,6,1,cabrm001,00,X,HR/7/L
 play,6,1,encaj001,00,X,53/G
@@ -4058,7 +4045,6 @@ play,5,0,floyc001,30,>B.BB+2B,W
 play,5,0,piazm001,00,,NP
 sub,bazay001,"Yorman Bazardo",1,9,1
 play,5,0,piazm001,01,.SB,WP.2-3;1-2
-com,"Debut game for Yorman Bazardo"
 play,5,0,piazm001,32,.SB.F*BBB,W
 play,5,0,wrigd002,00,X,S8/L.3-H;2-3;1-2
 play,5,0,miend001,11,BSX,E4/FO/G.3-H;2-H(NR)(UR);1-3
@@ -4232,8 +4218,6 @@ play,7,1,delgc001,10,BX,D9/G+
 play,7,1,cabrm001,02,FFF2X,9/F.2-3
 play,7,1,encaj001,02,CFC,K
 play,7,1,lowem001,32,.CCBBBS,K
-com,"ej,encaj001,P,wegnm901,Balls and strikes"
-com,"Marlins Juan Encarnacion ejected by HP umpire Mark Wegner"
 play,8,0,miend001,00,,NP
 sub,conij001,"Jeff Conine",1,5,9
 play,8,0,miend001,12,.CBFC,K
@@ -4934,8 +4918,6 @@ play,3,1,castl001,31,B1BBC1>X,46(1)3/GDP
 play,4,0,winnr001,10,BX,8/F
 play,4,0,belta001,12,BCFX,S8/G
 play,4,0,sexsr001,10,1BX,S8/G.1-H(NR)(UR)(E8);B-2
-com,"originally E8, changed after game to E7"
-com,"And on July 14 it went back to E8"
 play,4,0,ibanr001,32,BSFBFBFT,K
 play,4,0,boonb002,02,CFX,8/F
 play,4,1,encaj001,01,CX,8/F
@@ -5156,7 +5138,6 @@ sub,wilsc004,"C.J. Wilson",0,9,1
 play,8,1,harrl001,00,,NP
 sub,conij001,"Jeff Conine",1,9,11
 play,8,1,conij001,02,..CFFX,S9/L.2XH(92);1-2
-com,"Debut game for C.J. Wilson"
 play,9,0,wilsc004,00,,NP
 sub,mecij001,"Jim Mecir",1,9,1
 play,9,0,wilsc004,00,,NP
@@ -5473,8 +5454,6 @@ play,9,1,gonza002,12,CBFX,43/G
 play,9,1,tream001,00,,NP
 sub,lodup001,"Paul Lo Duca",1,8,11
 play,9,1,lodup001,12,.BFCFC,K
-com,"ej,lodup001,P,drakr901,Called third strike"
-com,"Marlins catcher Paul Lo Duca ejected by HP umpire Rob Drake"
 play,9,1,encaj001,00,.X,3/P
 data,er,rodrr005,2
 data,er,wasdj001,0
@@ -5610,7 +5589,6 @@ play,8,1,cabrm001,00,,NP
 sub,browj003,"Jim Brower",0,9,1
 play,8,1,cabrm001,01,..FX,HR/7/F
 play,8,1,delgc001,12,BCSFX,9/F
-com,"game called for rain"
 data,er,ramih002,1
 data,er,browj003,1
 data,er,moehb001,3
@@ -5744,7 +5722,6 @@ sub,resoc001,"Chris Resop",1,9,1
 play,9,0,fostj001,00,,NP
 sub,langr002,"Ryan Langerhans",0,9,11
 play,9,0,langr002,21,..BFBX,S8/F
-com,"Debut game for Chris Resop"
 play,9,0,furcr001,32,L1BBLB>X,S7/F.1-3
 play,9,0,johnk003,01,>FB,SB2
 play,9,0,johnk003,12,>FB.CX,S1/G.2-2
@@ -6049,7 +6026,6 @@ start,lodup001,"Paul Lo Duca",1,6,2
 start,encaj001,"Juan Encarnacion",1,7,9
 start,gonza002,"Alex Gonzalez",1,8,6
 start,beckj002,"Josh Beckett",1,9,1
-com,"2:46 rain delay before game"
 play,1,0,furcr001,31,BBCBB,W
 play,1,0,johnk003,12,B1FS1C,K
 play,1,0,gilem001,10,1B>B,CS2(26)
@@ -6061,12 +6037,6 @@ play,1,1,castl001,32,>C.CBB>F2>B.X,S4/G.3-H
 play,1,1,cabrm001,02,1CF1X,HR/7/F.1-H
 play,1,1,delgc001,00,X,43/G
 play,1,1,lowem001,01,CX,53/G
-com,"ej,estrj001,P,eddid901,Balls and strikes"
-com,"ej,cox-b103,M,eddid901,Balls and strikes"
-com,"ej,hampm001,P,eddid901,Balls and strikes (on DL at the time)"
-com,"Johnny Estrada, Mgr Bobby Cox and Mike Hampton all ejected by HP"
-com,"umpire Doug Eddings; Hampton was on the DL at the time; Estrada appeared"
-com,"to bump Eddings during argument"
 play,1,1,lodup001,00,,NP
 sub,mccab002,"Brian McCann",0,6,2
 play,1,1,lodup001,32,.CBCFFB..FBFS,K
@@ -6362,8 +6332,6 @@ play,2,1,lodup001,11,CBX,4/P
 play,3,0,overl001,10,BX,S7/G
 play,3,0,lee-c001,21,BBF,NP
 sub,leita001,"Al Leiter",1,9,1
-com,"Beckett left after foul line drive with strained"
-com,"oblique muscle"
 play,3,0,lee-c001,21,BBF.X,46(1)/FO/G
 play,3,0,jenkg001,00,X,D9/L.1-3
 play,3,0,milld002,21,BBCX,S8/G.3-H;2-3
@@ -6729,7 +6697,6 @@ play,5,1,encaj001,32,1BFF1FB>B.FFX,S7/G.2-3
 play,5,1,lowem001,22,1BCFBX,S9/L.3-H(UR);1-3;B-2(TH)
 play,5,1,gonza002,20,II,NP
 sub,bottr001,"Ricky Bottalico",0,9,1
-com,"Mid-count sub on an IW!"
 play,5,1,gonza002,30,II.II,IW
 play,5,1,tream001,00,,NP
 sub,lodup001,"Paul Lo Duca",1,8,11
@@ -6841,7 +6808,6 @@ play,1,1,castl001,31,BCBBB,W
 play,1,1,delgc001,00,X,45(1)3/GDP
 play,2,0,ceder002,01,LX,9/F
 play,2,0,murtm001,20,BBX,S7/G
-com,"Debut game for Matt Murton"
 play,2,0,zambc001,10,BX,34/SH/BG.1-2
 play,2,0,hairj002,11,CBX,9/F
 play,2,1,cabrm001,11,CBX,HR/9/F
@@ -6923,7 +6889,6 @@ play,9,0,barrm003,00,,NP
 sub,mecij001,"Jim Mecir",1,4,1
 play,9,0,barrm003,22,CCBB,NP
 sub,jonet003,"Todd Jones",1,4,1
-com,"injury?"
 play,9,0,barrm003,22,.CCBB.FH,HP
 play,9,0,burnj001,22,SF1BBX,S9/L.1-3
 play,9,0,peren001,12,FFBX,7/SF.3-H
@@ -7048,8 +7013,6 @@ sub,hollt001,"Todd Hollandsworth",0,8,11
 play,7,0,hollt001,22,.BBFFS,K
 play,7,0,woodk002,12,FSFBS,K23
 play,7,0,hairj002,00,X,D7/G+.2-H
-com,"ej,mckej801,M,laynj901,Fair/foul call"
-com,"Marlins Manager Jack McKeon ejected by 3B umpire Jerry Layne"
 play,7,0,walkt002,31,.BBBCX,HR/9/F.2-H
 play,7,0,lee-d002,32,BBBCSX,9!/F9LF
 play,7,1,lodup001,00,,NP
@@ -7078,8 +7041,6 @@ play,9,0,hollt001,01,.CX,6!3/G
 play,9,0,ohmaw001,00,,NP
 sub,greea002,"Adam Greenberg",0,9,11
 play,9,0,greea002,00,.H,HP
-com,"Debut game for Adam Greenberg"
-com,"$Greenberg hit in head by first ML pitch he saw"
 play,9,0,hairj002,00,,NP
 sub,zambc001,"Carlos Zambrano",0,9,12
 play,9,0,hairj002,12,.CSFFBS,K
@@ -7326,7 +7287,6 @@ play,1,1,lodup001,22,CBB1FFFX,S9/F.1-2
 play,1,1,encaj001,22,CB2BFX,S7/G.2-3;1-2
 play,1,1,lowem001,01,CX,5(2)/FO/G
 play,2,0,mackr001,21,FBBX,S6/G
-com,"originally scored as E6, changed to single next day"
 play,2,0,castj005,11,1BF>B,CS2(24)
 play,2,0,castj005,21,1BF>B.X,S9/F
 play,2,0,cotah001,32,BBCBC>X,63/G.1-2
@@ -7557,8 +7517,6 @@ play,7,0,lawtm002,00,X,S8/G+.1-3
 play,7,0,duffc001,02,S1FX,S6/G-.3-H;1-2
 play,7,0,bay-j001,12,BFCS,K
 play,7,1,lowem001,01,FX,S7/L+.BX2(4)
-com,"originally scored as double, changed 2 days later."
-com,"Apparently slid off bag - assist for LF?"
 play,7,1,easld001,00,X,HR/78/F
 play,7,1,alfoa001,00,,NP
 sub,harrl001,"Lenny Harris",1,9,11
@@ -8456,7 +8414,6 @@ play,8,0,snydc002,00,,NP
 sub,clart002,"Tony Clark",0,9,11
 play,8,0,clart002,11,.BSX,S7/L.2-3
 play,8,0,counc001,00,,OA.3X3(5)
-com,"$Mike Lowell caught Luis Terrero with the hidden ball trick"
 play,8,0,counc001,22,.SBBCS,K
 play,8,1,tream001,00,,NP
 sub,worrt002,"Tim Worrell",0,6,1
@@ -8759,8 +8716,6 @@ sub,walkt003,"Tyler Walker",0,4,1
 play,9,1,conij001,00,,NP
 sub,ellij001,"Jason Ellison",0,9,7
 play,9,1,conij001,12,...CBSFS,K
-com,"ej,conij001,P,everm901,Balls and strikes"
-com,"Marlins first baseman Jeff Conine ejected by HP umpire Mike Everitt"
 play,9,1,encaj001,20,BB.X,63/G
 play,9,1,lowem001,22,FBBFX,53/G
 data,er,lowrn001,0
@@ -9667,8 +9622,6 @@ play,2,1,tream001,12,CCBX,9/F
 play,2,1,moehb001,12,BCCC,K
 play,3,0,roblo001,00,,NP
 sub,pierj002,"Juan Pierre",1,5,8
-com,"Marlins left fielder Juan Encarnacion left the game"
-com,"due to an injured hand/wrist"
 play,3,0,roblo001,21,.CBBX,S7/L
 play,3,0,choih001,32,CFBFFBB>X,T9/F.1-H
 play,3,0,bradm001,00,,NP
@@ -9973,7 +9926,6 @@ play,1,0,perea001,22,CBFBFX,9/F
 play,1,0,bradm001,10,BX,54(1)3/GDP
 play,1,1,pierj002,00,,NP
 sub,repkj001,"Jason Repko",0,3,8
-com,"Dodgers left fielder Milton Bradley left the game due to an injured knee"
 play,1,1,pierj002,32,.BCBBCX,S8/G
 play,1,1,easld001,32,BBCB>F1>F>F>B,W.1-2
 play,1,1,cabrm001,32,BCFFBFFB>F>S,K+CS2(24)/DP.2-3
@@ -10048,8 +10000,6 @@ play,7,1,delgc001,22,FBBFX,S8/L.2-H;1-2
 play,7,1,conij001,32,BBCFFBS,K
 play,7,1,lowem001,11,FBX,7/F
 play,7,1,gonza002,22,BBFFC,K
-com,"ej,gonza002,P,herna901,Called third strike"
-com,"Marlins shortstop Alex Gonzalez ejected by HP umpire Angel Hernandez"
 play,8,0,repkj001,00,,NP
 sub,easld001,"Damion Easley",1,2,6
 play,8,0,repkj001,00,,NP
@@ -10241,8 +10191,6 @@ play,9,1,gonza002,22,.BBCFFFX,4/P
 play,9,1,tream001,00,,NP
 sub,lodup001,"Paul Lo Duca",1,8,11
 play,9,1,lodup001,22,.SBBCX,63/G-
-com,"ej,lodup001,P,barrt901,Call at 1B"
-com,"Marlins catcher Paul Lo Duca ejected by 1B umpire Ted Barrett"
 play,9,1,resoc001,00,,NP
 sub,aguic001,"Chris Aguila",1,9,11
 play,9,1,aguic001,31,.B.SBBB,W
@@ -10530,10 +10478,6 @@ sub,hermj001,"Jeremy Hermida",1,9,11
 play,7,1,hermj001,00,,NP
 sub,reyea001,"Al Reyes",0,9,1
 play,7,1,hermj001,11,..SBX,HR/9/F.3-H;2-H(UR);1-H
-com,"Debut game for Jeremy Hermida"
-com,"Hermida hit a grand slam on his first ML at bat;"
-com,"second player to perform feat (Duggleby in 1898)"
-com,"first PH slam on first at bat in history"
 play,7,1,pierj002,00,X,9/F
 play,7,1,castl001,11,BFX,3/G
 play,7,1,cabrm001,12,BFFX,9/F
@@ -10703,7 +10647,6 @@ play,8,1,cabrm001,00,X,8/F
 play,8,1,delgc001,00,,NP
 sub,hamut001,"Tim Hamulack",0,9,1
 play,8,1,delgc001,02,.SSX,6/L
-com,"Debut game for Tim Hamulack"
 play,9,0,beltc001,00,,NP
 sub,conij001,"Jeff Conine",1,4,3
 play,9,0,beltc001,12,.CBCX,S6/G.B-2(E6/TH)
@@ -10990,7 +10933,6 @@ sub,andir001,"Robert Andino",1,8,6
 play,8,0,miend001,00,,NP
 sub,mecij001,"Jim Mecir",1,9,1
 play,8,0,miend001,32,..CBBCBX,7/L
-com,"Debut game for Robert Andino"
 play,8,0,castr002,21,BBCX,8/F
 play,8,0,diazv001,12,CFBS,K23
 play,8,1,castl001,00,,NP
@@ -11086,7 +11028,6 @@ play,2,0,burrp001,12,CBFC,K
 play,2,0,howar001,12,BCCX,D7/F
 play,2,0,belld002,00,,NP
 sub,andir001,"Robert Andino",1,6,6
-com,"Marlins second baseman Damion Easley left the game due to an injured foot/ankle"
 play,2,0,belld002,00,.X,3/P
 play,2,1,andir001,12,CBFX,3/L-
 play,2,1,pierj002,32,BCBBCS,K
@@ -11537,7 +11478,6 @@ play,7,1,castl001,11,BCX,E4/G
 play,7,1,conij001,32,C*BBBF>X,D7/G.1-3
 play,7,1,cabrm001,00,,NP
 sub,wilsj003,"Josh Wilson",1,1,12
-com,"Marlins second baseman Luis Castillo left the game due to an injured leg"
 play,7,1,cabrm001,32,..FBBBFX,D8/L.3-H(UR);2-H(UR)
 play,7,1,delgc001,10,BX,1!/L+
 play,8,0,abreb001,00,,NP
@@ -11655,7 +11595,6 @@ play,3,0,carrj001,32,CBFBBX,S7/L
 play,3,0,guilj001,32,1BCBB>F1>H,HP.1-2
 play,3,0,johnn001,00,,NP
 sub,byrdm001,"Marlon Byrd",0,3,12
-com,"Jose Guillen left the game due to a bruised left hand"
 play,3,0,johnn001,32,.CBBCB>F>F>S,K+SB3;SB2
 play,3,0,wilsp002,10,BX,7/F
 play,3,1,vargj001,00,,NP

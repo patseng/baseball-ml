@@ -99,7 +99,6 @@ play,6,0,gileb002,11,CBX,43/G
 play,6,0,iguct001,22,FBFBX,53/G
 play,6,1,velee001,00,,NP
 sub,bardj001,"Josh Bard",0,8,2
-com,"$Barrett left game with strained elbow, onto DL next day"
 play,6,1,velee001,00,.X,13/G+
 play,6,1,rowaa001,01,CX,13/G
 play,6,1,molib001,21,BBCX,63/G
@@ -278,8 +277,6 @@ play,8,0,edmoj001,00,X,S9/L
 play,8,0,greek002,21,B1SB1>C,SB2
 play,8,0,greek002,32,B1SB1>C.*BFS,K
 play,8,0,hairs001,12,SS*BS,K
-com,"ej,hairs001,P,timmt901,Balls and strikes"
-com,"Padres left fielder Scott Hairston ejected by HP umpire Tim Timmons"
 play,8,1,walkt003,00,,NP
 sub,crabc001,"Callix Crabbe",0,7,7
 play,8,1,walkt003,00,,NP
@@ -322,7 +319,6 @@ sub,timpc001,"Clay Timpner",1,2,7
 play,10,0,edmoj001,00,,NP
 sub,hennb001,"Brad Hennessey",1,7,1
 play,10,0,edmoj001,32,..BBBCFT,K
-com,"Debut game for Clay Timpner"
 play,10,0,greek002,12,CBSS,K
 play,10,0,crabc001,22,BBFFX,S15/G
 play,10,0,mortc001,00,X,3/P
@@ -701,7 +697,6 @@ play,3,0,glaut001,01,SX,9/F
 play,3,1,bocob001,12,BFSX,6!/L
 play,3,1,zitob001,01,CX,53/G
 play,3,1,lewif001,22,BCBCX,DGR/7/L/INT
-com,"fan interference"
 play,3,1,davir003,01,CX,43/G
 play,4,0,ludwr001,12,CCBFFX,53/G
 play,4,0,moliy001,00,X,9/F9LF
@@ -845,7 +840,6 @@ play,2,0,laruj001,00,X,9/F
 play,2,1,molib001,12,CBFFS,K
 play,2,1,castj005,02,SFC,K
 play,2,1,bowkj001,20,BBX,S8/L
-com,"Debut game for John Bowker"
 badj,ortmd001,R
 play,2,1,ortmd001,32,CBCFFFB*B>C,K
 play,3,0,wellt002,22,CSFFBBX,63/G
@@ -1111,7 +1105,6 @@ sub,valdm003,"Merkin Valdez",1,7,1
 play,8,0,moliy001,00,,NP
 sub,ortmd001,"Daniel Ortmeier",1,9,3
 play,8,0,moliy001,00,..X,DGR/8/F.1-H
-com,"fan interference"
 play,8,0,villr001,00,,NP
 sub,glaut001,"Troy Glaus",0,8,11
 play,8,0,glaut001,31,.BBFBB,W
@@ -1789,7 +1782,6 @@ play,1,0,pattc001,10,BX,7/F
 play,1,0,keppj001,02,CCFX,S6/G
 play,1,0,grifk002,32,CBB,NP
 sub,hennb001,"Brad Hennessey",1,9,1
-com,"Giants pitcher Kevin Correia left the game due to an injured chest"
 play,1,0,grifk002,32,CBB.1BF>F1>B,W.1-2
 play,1,0,philb001,22,CBFFBFX,S8/G.2-H;1-2
 play,1,0,dunna001,22,BF*BFS,K
@@ -1909,7 +1901,6 @@ sub,chulv001,"Vinnie Chulk",1,6,1
 play,9,0,pattc001,22,.BFFBX,9/F
 play,9,0,keppj001,11,BCX,31/G
 play,9,0,grifk002,11,BFX,DGR/9/INT
-com,"fan interference"
 play,9,0,philb001,11,FBX,5/P
 play,9,1,holms002,00,,NP
 sub,cofft001,"Todd Coffey",0,3,1
@@ -2144,8 +2135,6 @@ play,1,0,atkig001,01,CX,9/F
 play,1,1,winnr001,32,BBCBCX,8/F
 play,1,1,burre001,00,X,S1/BG
 play,1,1,durhr001,10,BN,BK.1-2
-com,"ej,hurdc001,M,emmep901,Balk call"
-com,"Rockies Manager Clint Hurdle ejected by HP umpire Paul Emmel"
 play,1,1,durhr001,12,BN.CC.X,S8/F.2-H
 play,1,1,molib001,10,BX,9/F
 play,1,1,rowaa001,00,>B,SB2
@@ -2315,7 +2304,6 @@ play,1,1,bowkj001,00,.,NP
 sub,iannc001,"Chris Iannetta",0,6,5
 play,1,1,bowkj001,00,..,NP
 sub,barmc001,"Clint Barmes",0,7,6
-com,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg"
 play,1,1,bowkj001,12,...1BFCS,K
 play,2,0,iannc001,20,BBX,HR/8/F
 play,2,0,barmc001,12,BCCX,8/F
@@ -2358,8 +2346,6 @@ play,6,1,bocob001,11,BCX,4!3/G
 play,7,0,iannc001,12,FBFFX,D8/F
 play,7,0,barmc001,01,CX,54/SH/BG.2-3
 play,7,0,torry001,10,BN,BK.3-H
-com,"ej,bochb002,M,darlg901,Balk call"
-com,"Giants Manager Bruce Bochy ejected by HP umpire Gary Darling"
 play,7,0,torry001,11,BN..CX,8/F
 play,7,0,cooka002,00,X,53/G
 play,7,1,linct001,00,,NP
@@ -2465,7 +2451,6 @@ play,2,0,spilr001,32,BFBBFX,43/G
 play,2,0,iannc001,11,CBX,9/F
 play,2,0,barmc001,10,BX,D8/F
 play,2,0,herrj002,12,CFFBX,53/G
-com,"Debut game for Jonathan Herrera"
 play,2,1,rowaa001,01,CX,HR/78/F
 play,2,1,bowkj001,00,X,8/F
 play,2,1,castj005,12,CCBS,K
@@ -3616,7 +3601,6 @@ play,8,0,ausmb001,32,.BSBBCB,W
 play,8,0,bourm001,00,,NP
 sub,hinsa001,"Alex Hinshaw",1,9,1
 play,8,0,bourm001,32,.BBCBSS,K
-com,"Debut game for Alex Hinshaw"
 play,8,0,matsk001,21,1BB>F1X,S7/L.1-2
 play,8,0,pench001,00,,NP
 sub,chulv001,"Vinnie Chulk",1,6,1
@@ -3636,7 +3620,6 @@ play,8,1,lewif001,00,,NP
 sub,byrdt001,"Tim Byrdak",0,8,1
 play,8,1,lewif001,00,,NP
 sub,molib001,"Bengie Molina",1,1,11
-com,"Astros pitcher Geoff Geary left the game due to an injured groin"
 play,8,1,molib001,01,..FX,9/F
 play,8,1,vizqo001,22,CBF*BFFFFFX,9/F
 play,9,0,berkl001,00,,NP
@@ -4287,7 +4270,6 @@ play,10,0,iguct001,11,TBX,4/P
 play,10,1,yabuk001,00,,NP
 sub,horwb001,"Brian Horwitz",1,9,11
 play,10,1,horwb001,02,.SFS,K
-com,"Debut game for Brian Horwitz"
 play,10,1,lewif001,12,BFSX,7/L
 play,10,1,vizqo001,10,BX,9/F
 play,11,0,gileb002,00,,NP
@@ -5701,9 +5683,6 @@ play,7,0,hollm002,11,BFX,43/G
 play,7,0,verlj001,00,,NP
 sub,rente001,"Edgar Renteria",0,9,11
 play,7,0,rente001,11,.BSX,9/SF/F.3-H
-com,"ej,bochb002,M,hallt901,Call at HP"
-com,"Giants Manager Bruce Bochy ejected by HP umpire Tom Hallion for arguing that"
-com,"Bengie Molina had tagged Ivan Rodriguez"
 play,7,0,granc001,31,.BBCBX,6/P
 play,7,1,linct001,00,,NP
 sub,dolsf001,"Freddy Dolsi",0,8,1
@@ -5731,7 +5710,6 @@ play,8,1,yabuk001,00,,NP
 sub,castj005,"Jose Castillo",1,9,11
 play,8,1,castj005,32,.BBFCBB,W
 play,8,1,lewif001,12,BCFX,DGR/7/L/INT.2-H;1-H
-com,"fan interference"
 play,8,1,durhr001,00,,NP
 sub,fossc001,"Casey Fossum",0,8,1
 play,8,1,durhr001,10,.BX,63/G
@@ -6650,7 +6628,6 @@ play,8,1,lewif001,20,BBX,5/P
 play,9,0,derom001,00,,NP
 sub,matoo001,"Osiris Matos",1,6,1
 play,9,0,derom001,22,.CBBFFX,53/G
-com,"Debut game for Osiris Matos"
 play,9,0,therr001,32,BBBCCS,K
 play,9,0,liebj001,00,,NP
 sub,wardd002,"Daryle Ward",0,9,11
@@ -6882,7 +6859,6 @@ start,castj005,"Jose Castillo",1,7,5
 start,vizqo001,"Omar Vizquel",1,8,6
 start,zitob001,"Barry Zito",1,9,1
 play,1,0,kempm001,11,CBX,DGR/78/F/INT
-com,"fan interference"
 play,1,0,ethia001,00,X,D9/G.2-H
 play,1,0,martr004,22,BFBFFS,K
 play,1,0,kentj001,32,CF*BBBX,S8/L-.2-3
@@ -7207,7 +7183,6 @@ play,2,1,castj005,01,FX,53/G
 play,3,0,kendj001,10,BX,63/G
 play,3,0,sabac001,00,X,D8/F
 play,3,0,weekr001,10,BX,E3/G.2-3
-com,"Giants manager Bruce Bochy argued the call at 1B"
 play,3,0,hardj003,01,CX,43/G.3-H(UR);1-2
 play,3,0,braur002,32,BBBCFB,W
 play,3,0,fielp001,00,B,WP.2-3;1-2
@@ -7226,9 +7201,6 @@ play,4,1,lewif001,00,X,8/F
 play,4,1,ochoi001,32,BCBBCX,53/G
 play,4,1,winnr001,22,SBCBX,63/G
 play,5,0,braur002,00,X,T7/F
-com,"ej,bochb002,M,wolfj901,Call at 3B"
-com,"Giants Manager Bruce Bochy ejected by HP umpire Jim Wolf for"
-com,"arguing that Ryan Braun was out at 3B"
 play,5,0,fielp001,22,.*BBFFS,K
 play,5,0,hartc001,01,SX,3/G
 play,5,0,branr001,32,BSFBBS,K
@@ -7574,7 +7546,6 @@ play,7,1,alfoe002,01,.CX,63/G
 play,8,0,camem001,00,,NP
 sub,espig001,"Geno Espineli",1,9,1
 play,8,0,camem001,22,.BFBCC,K
-com,"Debut game for Geno Espineli"
 play,8,0,kendj001,21,BBCX,43/G
 play,8,0,parrm001,21,CBBX,9/F
 play,8,1,burre001,01,CX,S9/G
@@ -7672,7 +7643,6 @@ play,2,0,keara001,10,BX,9/F
 play,2,0,bellr002,32,CTFFBBBX,7/F
 play,2,0,florj002,31,BFBBX,T9/L
 play,2,0,lodup001,12,CBFX,DGR/7/INT.3-H
-com,"fan interference"
 play,2,0,lopef001,31,CBBBB,W
 play,2,0,bergj001,12,CBSS,K
 play,2,1,aurir001,12,BCCS,K
@@ -9426,7 +9396,6 @@ play,7,0,billc001,00,,NP
 sub,pierj002,"Juan Pierre",0,9,11
 play,7,0,pierj002,12,.BCFFFX,63/G
 play,7,0,kempm001,00,X,DGR/9/L
-com,"fan interference"
 play,7,0,ethia001,32,BCBFFBB,W
 play,7,0,kentj001,00,X,9/F.2-3
 play,7,0,ramim002,22,BFBFX,D8/L+.3-H;1-H
@@ -9712,7 +9681,6 @@ play,4,0,hermj001,00,X,HR/9/F.1-H
 play,4,0,olses001,22,BBCSS,K
 play,4,1,aurir001,00,,NP
 sub,ameza001,"Alfredo Amezaga",0,1,6
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured hand/wrist"
 play,4,1,aurir001,02,.LFX,43/G
 play,4,1,lewif001,31,BBFBB,W
 play,4,1,sandp001,20,BBX,S9/L.1-2
@@ -10132,7 +10100,6 @@ start,aurir001,"Rich Aurilia",1,7,5
 start,burre001,"Emmanuel Burriss",1,8,4
 start,zitob001,"Barry Zito",1,9,1
 play,1,0,hairs001,10,BX,3/P
-com,"Debut game for Dirk Hayhurst"
 play,1,0,gonze003,02,CCX,13/G
 play,1,0,gonza003,22,TFBBC,K
 play,1,1,robed001,31,BBBCB,W
@@ -11232,10 +11199,6 @@ play,4,1,winnr001,11,BCX,E1/TH/G
 play,4,1,burre001,10,BX,S7/G.1-2
 play,4,1,schin001,11,BFX,S6/P.2-3;1-2
 play,4,1,sandp001,00,X,D87/L78-.3-H(UR);2-H;1-H
-com,"$Sandoval hit a sinking liner to left-center and McClouth dove for the ball;"
-com,"it bounced up into he face, knocking the lens out of his sunglasses and driving"
-com,"the frame into his face; he suffered a laceration above his left eyebrow that"
-com,"required six stitches to close"
 play,4,1,mccls001,00,,NP
 sub,morgn001,"Nyjer Morgan",0,1,8
 play,4,1,mccls001,11,.CBX,S5/G.2-3
@@ -11589,7 +11552,6 @@ sub,qualc001,"Chad Qualls",0,8,1
 play,6,1,winnr001,00,,NP
 sub,romea001,"Alex Romero",0,9,9
 play,6,1,winnr001,02,...CSS,K
-com,"Debut game for Conor Gillaspie"
 play,6,1,ochoi001,00,X,46(1)/FO/G
 play,7,0,romea001,00,,NP
 sub,yabuk001,"Keiichi Yabu",1,9,1
@@ -12456,20 +12418,6 @@ sub,repkj001,"Jason Repko",0,9,9
 play,6,1,velee001,12,....CSBC,K
 play,6,1,sandp001,22,FBFBX,S8/G
 play,6,1,molib001,00,X,HR/9/F.1-H
-com,"$Bengie Molina's fly ball hit a few feet to the left of the 'Splash Hits' sign"
-com,"in right field; Molina held at first while Pablo Sandoval ran from first to third;"
-com,"Giants manager Bruce Bochy had told Emmanuel Burriss to run for Molina if he got"
-com,"on base, so Burriss immediately popped out of the dugout and replaced Molina;"
-com,"then Omar Vizquel said he thought the ball hit the green metal awning along the"
-com,"right field wall, which is a home run; Bochy saw a baseball with green paint on"
-com,"it and went out to the field to show it to the umpires and asked them to discuss"
-com,"the play; crew chief Tim Welke decided to use the replay system and reversed the"
-com,"call from ball in play to home run; however, he would not allow the Giants to"
-com,"put Molina back in to run out his homer; Bochy protested the game, which became"
-com,"moot because the Giants won the contest; Molina was given credit for a home"
-com,"run and two RBI but no run scored; Burriss ran out the homer and was given"
-com,"credit for the run scored; when he returned to the dugout, Molina greeted him"
-com,"by saying 'Good Swing!'; the total delay was 12 minutes"
 play,6,1,ishit001,22,BCFBX,2/P2F
 play,6,1,rowaa001,11,CBX,D7/L
 play,6,1,schin001,30,BBBB,W
@@ -12628,8 +12576,6 @@ start,vizqo001,"Omar Vizquel",1,8,6
 start,cainm001,"Matt Cain",1,9,1
 play,1,0,furcr001,00,,NP
 sub,ishit001,"Travis Ishikawa",1,5,3
-com,"$J.T. Snow signed a one-day contract with the Giants so he could"
-com,"retire as a Giant"
 play,1,0,furcr001,32,.BBBCFX,S7/L-
 play,1,0,dewib001,01,1C1>B,CS2(26)
 play,1,0,dewib001,11,1C1>B.X,S7/L-

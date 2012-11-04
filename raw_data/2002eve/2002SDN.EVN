@@ -1103,19 +1103,7 @@ sub,gantr001,"Ron Gant",1,9,11
 play,6,1,gantr001,12,CCBX,63/G
 play,6,1,jimed001,12,BFCX,43/G
 play,6,1,kotsm001,22,BBCFFX,S8/8S
-com,"ej,bochb002,M,everm901,Balls and strikes on Nevin"
-com,"Padres Manager Bruce Bochy ejected by HP umpire Mike Everitt"
-com,"for arguing strike 1 to Phil Nevin from the dugout; he then"
-com,"ran to the plate and swiped a foot through the left-handed"
-com,"batter's box as if to indicate that was how far outside the"
-com,"pitch was"
 play,6,1,nevip001,22,BCSBS,K
-com,"ej,nevip001,P,everm901,Balls and strikes"
-com,"$Phil Nevin slammed down his helmet and bat then flipped his shin"
-com,"guard over his head; HP umpire Mike Everitt ejected him; Nevin"
-com,"charged Everitt; Padres 3B coach Tim Flannery tried to get in"
-com,"Nevin's way and bench coach Rob Picciolo grabbed Nevin; 3B umpire"
-com,"John Shulock also helped restrain Nevin, who finally was led away"
 play,7,0,shint001,00,,NP
 sub,sweem001,"Mark Sweeney",1,9,3
 play,7,0,shint001,00,,NP
@@ -1524,7 +1512,6 @@ start,cruzd001,"Deivi Cruz",1,7,6
 start,lampt001,"Tom Lampkin",1,8,2
 start,joneb003,"Bobby J. Jones",1,9,1
 play,1,0,pattc001,01,CX,S43/G34.BX2(36)
-com,"$just through infield, played by 1st baseman"
 play,1,0,gonza001,12,BFCFC,K/C
 play,1,0,sosas001,32,BFFBBFFFX,63/G
 play,1,1,jimed001,11,BFX,S7
@@ -2182,7 +2169,6 @@ play,8,0,kendj001,01,CX,64(1)/FO.3-H;2-H(E4/TH1)(UR)
 play,8,0,beimj001,00,,NP
 sub,browa001,"Adrian Brown",0,7,11
 play,8,0,browa001,01,CB,OA.1X2(26)
-com,"originally scored as CS2"
 play,8,1,burrs001,00,,NP
 sub,mackr001,"Rob Mackowiak",0,1,9
 play,8,1,burrs001,00,,NP
@@ -2192,9 +2178,6 @@ sub,fettm001,"Mike Fetters",0,4,1
 play,8,1,burrs001,11,CBX,63/G
 play,8,1,klesr001,22,BBFFFX,7/F7
 play,8,1,nevip001,01,SX,7/F7D
-com,"ej,kendj001,P,barrm901,Balls and strikes (while catching)"
-com,"ej,mccll001,M,barrm901,Protesting Kendall's ejection"
-com,"Jason Kendall and Pirates Manager Lloyd McClendon ejected by HP umpire Mark Barron"
 play,9,0,browa001,00,,NP
 sub,tramb001,"Bubba Trammell",1,5,9
 play,9,0,browa001,00,,NP
@@ -2663,7 +2646,6 @@ play,11,0,stews003,00,,NP
 sub,oleat001,"Troy O'Leary",0,9,11
 play,11,0,oleat001,31,BBCBX,9/F9
 play,11,0,chave002,00,X,2/INT
-com,"$illegally batted ball"
 play,11,0,vidrj001,10,BX,9/F9
 play,11,1,tramb001,00,,NP
 sub,reamb001,"Britt Reames",0,9,1
@@ -2796,7 +2778,6 @@ play,2,0,ordor001,02,CCS,K
 play,2,0,leita001,12,BCCS,K
 play,2,1,gonzw001,31,FBBBB,W
 play,2,1,pelaa001,01,CX,3/P3
-com,"Debut game for Alex Pelaez"
 play,2,1,burrs001,12,CBFFC,K/C
 play,2,1,sweem001,02,FFX,D9.1-3
 play,2,1,lawrb001,22,BCFFBS,K
@@ -2838,7 +2819,6 @@ play,6,1,sweem001,22,CBBSS,K
 play,7,0,leita001,00,,NP
 sub,wiggt001,"Ty Wigginton",0,9,11
 play,7,0,wiggt001,02,CSS,K
-com,"Debut game for Ty Wigginton"
 play,7,0,ceder001,01,CX,S/78
 play,7,0,alomr001,11,FBX,54(1)3/GDP
 play,7,1,lawrb001,00,,NP
@@ -2871,7 +2851,6 @@ play,9,0,ceder001,20,BBX,D7/7D.1-H
 play,9,0,alomr001,00,,NP
 sub,pickk001,"Kevin Pickford",1,9,1
 play,9,0,alomr001,00,C,SB3
-com,"Debut game for Kevin Pickford"
 play,9,0,alomr001,22,CBBFX,63/G
 play,9,1,burrs001,00,,NP
 sub,guthm001,"Mark Guthrie",0,9,1
@@ -3772,7 +3751,6 @@ play,3,0,walkl001,31,CBBBB,W.1-2
 play,3,0,heltt001,00,X,S9.2-3;1-2
 play,3,0,zeilt001,10,B,NP
 sub,middj001,"Jason Middlebrook",1,9,1
-com,"$Tollberg hurt elbow"
 play,3,0,zeilt001,21,BBCX,8/SF.3-H;2-3
 play,3,0,hollt001,00,X,S8.3-H;1-2
 play,3,0,butlb002,02,SSS,K
@@ -3817,7 +3795,6 @@ play,7,0,hollt001,00,,NP
 sub,vazqr001,"Ramon Vazquez",1,2,5
 play,7,0,hollt001,00,,NP
 sub,jimed001,"D'Angelo Jimenez",1,4,4
-com,"$Nevin broke his arm diving for Zeile's hit"
 play,7,0,hollt001,00,X,43/G
 play,7,1,tramb001,00,,NP
 sub,butlb002,"Brent Butler",0,7,5
@@ -4136,7 +4113,6 @@ sub,vazqr001,"Ramon Vazquez",1,2,6
 play,7,0,jensm001,00,,NP
 sub,hubbt001,"Trenidad Hubbard",1,3,4
 play,7,0,jensm001,20,BBX,7/F7
-com,"Debut game for Julius Matos"
 play,7,0,quevr001,12,FBFS,K
 play,7,0,sanca003,10,BX,S8
 play,7,0,bellr002,02,CSX,43/G
@@ -4791,7 +4767,6 @@ play,9,0,santb001,22,CFFBBX,63/G
 play,9,0,snowj001,00,,NP
 sub,pearj002,"Jason Pearson",1,9,1
 play,9,0,snowj001,21,BBFX,9/L9
-com,"Debut game for Jason Pearson"
 play,9,0,belld002,00,X,53/G
 play,9,1,matoj001,00,,NP
 sub,sweem001,"Mark Sweeney",1,8,11
@@ -4875,8 +4850,6 @@ play,3,0,jensr001,00,X,D9/9D
 play,3,0,goodt001,30,BBBB,W
 play,3,0,aurir001,01,FH,HP.2-3;1-2
 play,3,0,bondb001,00,X,HR/9.3-H;2-H;1-H
-com,"$Career homer 587 to pass Frank Robinson for 4th all-time"
-com,"Off scoreboard, estimated 482 feet"
 play,3,0,kentj001,02,CFX,S9/9S
 play,3,0,snowj001,22,BCFBS,K
 play,3,1,kotsm001,32,BBCBFX,T/89D
@@ -5336,7 +5309,6 @@ start,gonzw001,"Wiki Gonzalez",1,7,2
 start,jimed001,"D'Angelo Jimenez",1,8,5
 start,pereo002,"Oliver Perez",1,9,1
 play,1,0,suzui001,22,CBBFS,K
-com,"Debut game for Oliver Perez"
 play,1,0,cirij001,22,BSFBS,K
 play,1,0,boonb002,01,CX,63/G
 play,1,1,kotsm001,22,BFBSX,S9
@@ -5702,10 +5674,6 @@ play,7,1,jimed001,11,CBX,4/L4
 play,7,1,lampt001,01,CX,S8
 play,7,1,matoj001,00,,BK.1-2
 play,7,1,matoj001,11,BCX,D7/7D.2-H
-com,"ej,castf001,P,welkb901,Balk call"
-com,"Frank Castillo ejected by 3B umpire Bill Welke for arguing"
-com,"the balk call; he blamed Welke for the run and spiked Welke's"
-com,"foot after rushing at him; he was restrained by  teammates"
 play,7,1,tomkb001,00,,NP
 sub,varij001,"Jason Varitek",0,9,2
 play,7,1,tomkb001,00,,NP
@@ -5964,7 +5932,6 @@ play,4,0,johnn001,30,BBBB,W.2-3;1-2
 play,4,0,welld001,12,BCSS,K
 play,4,1,matoj001,00,X,S8
 play,4,1,barkk001,12,CBCX,4E1/G.1-3
-com,"quite likely a bunt"
 play,4,1,pereo002,10,BX,13/SH.1-2#
 play,4,1,kotsm001,32,BSBBCX,8/SF.3-H(UR)
 play,4,1,cruzd001,22,CBBSX,5/FL
@@ -6081,7 +6048,6 @@ start,jimed001,"D'Angelo Jimenez",1,7,5
 start,barkk001,"Kevin Barker",1,8,3
 start,peavj001,"Jake Peavy",1,9,1
 play,1,0,soria001,00,X,D7
-com,"Debut game for Jake Peavy"
 play,1,0,jeted001,02,SSS,K
 play,1,0,giamj001,21,BBCX,D8/89D.2-H;BX3(85)
 play,1,0,willb002,21,CBBX,3/G
@@ -6266,7 +6232,6 @@ sub,gonzw001,"Wiki Gonzalez",1,9,2
 play,7,0,giamj001,00,,NP
 sub,cyr-e001,"Eric Cyr",1,6,1
 play,7,0,giamj001,01,CX,7/F7
-com,"Debut game for Eric Cyr"
 play,7,0,willb002,12,CFBFS,K
 play,7,1,vazqr001,00,,NP
 sub,johnn001,"Nick Johnson",0,3,3
@@ -6302,7 +6267,6 @@ play,8,1,tramb001,12,CBFC,K/C
 play,8,1,vazqr001,01,FX,53/G
 play,8,1,matoj001,11,SBX,S7
 play,8,1,gonzw001,01,FX,S4.1X2(4)#
-com,"scoring correct, play unclear"
 play,9,0,mendr001,00,,NP
 sub,wilse001,"Enrique Wilson",0,9,11
 play,9,0,wilse001,31,BBBCB,W
@@ -6418,8 +6382,6 @@ play,5,1,kotsm001,12,SFBX,S9/9S.2-H(UR);BX2(926)
 play,6,0,kentj001,11,BFX,8/F8S
 play,6,0,santb001,00,X,S/89
 play,6,0,snowj001,10,BX,S9.1-3;BX2(56)
-com,"$relay from Trammell to Matos, then overthrow at third,"
-com,"Snow out trying to advance, no assists for 9 or 4"
 play,6,0,belld002,02,SCX,HR/7.3-H
 play,6,0,shint001,12,FBSFX,13/G
 play,6,1,barkk001,22,BCBFFFS,K
@@ -6605,7 +6567,6 @@ play,7,0,kentj001,00,,NP
 sub,lundd001,"David Lundquist",1,6,1
 play,7,0,kentj001,30,BBBB,W.2-3;1-2
 play,7,0,sandr002,32,CBBBFX,S9.3-H;2-H;1X3(265);B-2(THH)
-com,"Kingsale overthrew plate, so does not get assist"
 play,7,0,minod001,30,BBII,IW
 play,7,0,shint001,12,SBFFFX,S.2-3;1-2
 play,7,0,torry001,00,,NP
@@ -6871,8 +6832,6 @@ play,1,1,kotsm001,11,CBX,63/G
 play,1,1,klesr001,22,BCBSX,13/G
 play,2,0,pujoa001,10,BX,53/G
 play,2,0,martt002,11,CBX,3/G#
-com,"ej,martt002,P,buckc901,Call at 1B"
-com,"Tino Martinez ejected by 1B umpire CB Bucknor"
 play,2,0,rente001,00,X,63/G
 play,2,1,nevip001,00,,NP
 sub,peree001,"Eduardo Perez",0,5,3
@@ -7601,7 +7560,6 @@ start,kingg001,"Eugene Kingsale",1,7,7
 start,lampt001,"Tom Lampkin",1,8,2
 start,pereo002,"Oliver Perez",1,9,1
 play,1,0,mccrq001,02,CFS,K
-com,"Debut game for John Patterson"
 play,1,0,counc001,11,CBX,S9
 play,1,0,spivj001,22,CBBSC,K/C
 play,1,0,gonzl001,12,BCFX,2/FL
@@ -7780,7 +7738,6 @@ play,2,1,tramb001,30,BBBB,W
 play,2,1,buchb002,02,FSS,K
 play,2,1,cruzd001,01,FX,S7.1-2
 play,2,1,nievw001,02,SFS,K
-com,"Debut game for Wilbert Nieves"
 play,2,1,peavj001,00,X,D7.2-H;1-H
 play,2,1,kingg001,31,BBCBB,W
 play,2,1,matoj001,32,BBSSBB,W.2-3;1-2
@@ -8921,7 +8878,6 @@ play,4,1,nievw001,11,FBX,63/G
 play,5,0,peret003,00,X,7/F7
 play,5,0,andem003,11,BCX,S/78
 play,5,0,wolfr001,00,X,16(1)4/BG/GDP
-com,"bunt assumed"
 play,5,1,pereo002,21,BFBX,S7
 play,5,1,kotsm001,21,BBCX,HR/89.1-H
 play,5,1,cruzd001,10,BX,9/F9
@@ -10398,8 +10354,6 @@ play,1,1,kingg001,00,X,S4/BG4
 play,1,1,hubbt001,32,BBBCCB,W.1-2
 play,1,1,nevip001,21,BCBX,9/F9
 play,1,1,gantr001,21,SBBX,S7.2-3;1X2(725);B-2
-com,"Gant rounded too far and had to stop when Kingsale"
-com,"held at third. Rockies threw behind him for out"
 play,1,1,buchb002,12,CFFBX,S9.3-H;2-H
 play,1,1,cruzd001,00,X,5/L5
 play,2,0,heltt001,00,X,S8
@@ -10632,7 +10586,6 @@ start,kingg001,"Eugene Kingsale",1,6,9
 start,cruzd001,"Deivi Cruz",1,7,6
 start,lampt001,"Tom Lampkin",1,8,2
 start,eatoa001,"Adam Eaton",1,9,1
-com,"$Padres set ML record with 57th player this year"
 play,1,0,pierj002,02,FFS,K
 play,1,0,uribj002,30,BBBB,W
 play,1,0,walkl001,32,BCBSBX,D/89.1-H
@@ -10715,7 +10668,6 @@ play,6,0,heltt001,12,SBCS,K
 play,6,1,klesr001,12,BCCX,8/F8
 play,6,1,nevip001,02,CFX,HR/7
 play,6,1,gantr001,32,CCBBBX,HR/7
-com,"$Gant's 1000th career RBI"
 play,6,1,kingg001,00,,NP
 sub,speij001,"Justin Speier",0,9,1
 play,6,1,kingg001,22,CFBBX,8/F8D
@@ -11548,7 +11500,6 @@ play,8,0,minod001,01,CX,13/G
 play,8,1,gonzw001,00,,NP
 sub,lunst001,"Trey T. Lunsford",0,8,2
 play,8,1,gonzw001,01,CX,63/G
-com,"Debut game for Trey T. Lunsford"
 play,8,1,villb001,00,,NP
 sub,lankr001,"Ray Lankford",1,9,11
 play,8,1,lankr001,22,CFBBFX,7/F7
@@ -11965,8 +11916,6 @@ play,1,1,klesr001,10,BX,8/F8
 play,1,1,nevip001,31,CBBBB,W
 play,1,1,gantr001,12,CCBFFFFC,K/C
 play,2,0,milld002,31,CBBBX,D7/7DW
-com,"$Off orange stripe on top of wall, originally called"
-com,"home run, then changed to double after Bochy complained"
 play,2,0,cinta001,12,BFCC,K/C
 play,2,0,hellr001,00,X,23/SH.2-3#
 play,2,0,mccrq001,02,CSX,53/G
@@ -12496,8 +12445,6 @@ play,1,0,grees001,02,FSS,K
 play,1,0,jordb001,22,BCSFBFX,7/F7
 play,1,1,vazqr001,00,,NP
 sub,grism001,"Marquis Grissom",0,1,8
-com,"$Roberts pulled an oblique muscle during his first inning"
-com,"AB, barely able to jog out home run"
 play,1,1,vazqr001,00,X,S8
 play,1,1,kotsm001,12,FFFBFX,9/F9
 play,1,1,klesr001,02,CSFX,43/G.1-2

@@ -784,7 +784,6 @@ play,2,0,menck001,11,CBX,S8/G
 play,2,0,nix-l001,31,CBB1B1X,S9/L.1-2
 play,2,0,barar001,32,BFBSFB>B,W.2-3;1-2
 play,2,0,gonza003,01,CX,7/F
-com,"Debut game for Adrian Gonzalez"
 play,2,0,younm003,11,BFX,S8/L.3-H;2-H;1-2
 play,2,0,blalh001,00,X,9/F
 play,2,1,olerj001,22,BCFBFC,K
@@ -1006,8 +1005,6 @@ sub,hases001,"Shigetoshi Hasegawa",1,0,1
 play,10,0,melha001,21,.BCBX,D9/L
 play,10,0,scutm001,31,BLBBB,W
 play,10,0,kotsm001,02,LMC,K
-com,"ej,kotsm001,P,emmep901,Called third strike"
-com,"Mark Kotsay ejected by HP umpire Paul Emmel"
 play,10,0,byrne001,10,.*BX,7/F
 play,10,0,chave001,30,BBBB,W.2-3;1-2
 play,10,0,dye-j001,22,CCBBFT,K
@@ -1170,7 +1167,6 @@ play,4,1,spies001,00,,NP
 sub,germe001,"Esteban German",0,7,4
 play,4,1,spies001,00,,NP
 sub,scutm001,"Marco Scutaro",0,9,6
-com,"$Crosby left with injured knee"
 play,4,1,spies001,21,..BCBX,S8/L
 play,4,1,ibanr001,31,BCBBX,46(1)/FO/G
 play,4,1,aurir001,00,1X,64(1)3/GDP
@@ -1560,8 +1556,6 @@ start,winnr001,"Randy Winn",1,9,8
 start,moyej001,"Jamie Moyer",1,0,1
 play,1,0,stews002,01,CX,63/G
 play,1,0,guzmc001,22,BFSBX,2/G-
-com,"ej,gardr001,M,fostm901,Balls and strikes"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Marty Foster"
 play,1,0,miend001,22,.BCFBX,5/P
 play,1,1,suzui001,00,X,S8/L
 play,1,1,spies001,11,BC1>B,CS2(24)
@@ -1647,9 +1641,6 @@ play,9,1,suzui001,00,,NP
 sub,ryanm001,"Mike Ryan",0,5,8
 play,9,1,suzui001,00,,NP
 sub,cuddm001,"Michael Cuddyer",0,9,5
-com,"ej,koskc001,P,fostm901,Call at HP"
-com,"Corey Koskie ejected by HP umpire Marty Foster;"
-com,"Torii Hunter left game with injured leg"
 play,9,1,suzui001,00,...X,S8/L
 play,9,1,spies001,00,X,13/SH/BG.1-2
 play,9,1,boonb002,30,IIII,IW
@@ -1677,8 +1668,6 @@ play,11,0,guzmc001,10,BX,36(1)/FO/BG
 play,11,0,miend001,00,,NP
 sub,myerm001,"Mike Myers",1,0,1
 play,11,0,miend001,11,.11CB1>X,96(1)/FO/G
-com,"Hit and run, Guzman to 2nd, didn't know where"
-com,"ball was, went back to 1st - then forced out"
 play,11,0,puntn001,11,BC1,POCS2(136)
 play,11,1,spies001,12,CCBX,63/G
 play,11,1,boonb002,12,BFSS,K
@@ -2092,9 +2081,6 @@ play,2,1,suzui001,20,BBX,S8/G.2-H
 play,2,1,winnr001,01,CX,43/G
 play,3,0,matsh001,32,BCBSBFB,W
 play,3,0,sierr001,22,BBCCX,S9/F89XDW.1-2;BX1(4)
-com,"$Ball juggled at wall. Matsui thought it was"
-com,"caught and returned to first as Sierra ran"
-com,"past him. Sierra out for passing runner."
 play,3,0,wilse001,02,CSX,8/F
 play,3,0,loftk001,00,X,8/F
 play,3,1,spies001,00,X,9/F
@@ -2822,7 +2808,6 @@ play,2,1,wilsd001,02,C1SS,K
 play,3,0,bigbl001,31,BBBCB,W
 play,3,0,hairj002,02,CCX,FC6.1X2(6E4);B-1
 play,3,0,robeb003,01,LX,2/BG/INT.1-1
-com,"Roberts called for batter's interference"
 play,3,0,moram002,12,CFFBX,8/F
 play,3,0,tejam001,12,BCSFFX,8/F
 play,3,1,aurir001,00,X,8/F
@@ -3116,7 +3101,6 @@ play,2,1,marte001,22,FBS*BC,K
 play,2,1,spies001,10,B+1X,5/P5F
 play,2,1,olerj001,01,C>X,7/F
 play,3,0,guilc001,21,CBBX,DGR/9/F
-com,"$fan interference"
 play,3,0,rodri001,00,X,53/G
 play,3,0,whitr001,00,>B,CS3(25)
 play,3,0,whitr001,32,>B.CBCBX,E6/G
@@ -3567,7 +3551,6 @@ play,2,1,suzui001,01,CX,3/G
 play,3,0,zaung001,00,,NP
 sub,nagec001,"Clint Nageotte",1,0,1
 play,3,0,zaung001,10,.BX,3/G
-com,"Debut game for Clint Nageotte"
 play,3,0,phelj001,22,BCBSFX,53/G
 play,3,0,ponds001,32,BBBCFX,6/P
 play,3,1,winnr001,10,BX,63/G
@@ -3719,7 +3702,6 @@ play,2,0,menef001,20,BBX,4/P
 play,2,1,ibanr001,00,X,S5/G
 play,2,1,boonb002,00,,NP
 sub,bocah001,"Hiram Bocachica",1,4,12
-com,"$Ibanez left game with injured leg"
 play,2,1,boonb002,31,.BBFBB,W.1-2
 play,2,1,cabrj002,12,CBCC,K
 play,2,1,aurir001,32,BFFBFFBF*B,W.2-3;1-2
@@ -3736,7 +3718,6 @@ play,3,1,marte001,32,SFBBFBS,K
 play,3,1,bocah001,10,BX,4/P/IF
 play,3,1,boonb002,12,CBFX,43/G
 play,4,0,zaung001,22,BBCFFX,DGR/9
-com,"$fan interference"
 play,4,0,gomec001,20,BBX,31/G.2-3
 play,4,0,clarh001,00,>X,123/SH/BG.3-H
 play,4,0,phelj001,12,BFCX,3/G
@@ -4644,7 +4625,6 @@ play,5,1,suzui001,22,FBBFX,7/L
 play,5,1,winnr001,00,X,63/G
 play,6,0,ensbm001,21,BSBX,63/G
 play,6,0,hidar001,00,X,8!/F
-com,"$Randy Winn stole HR from over the wall"
 play,6,0,ausmb001,22,BBCCS,K
 play,6,1,marte001,12,SFBFC,K
 play,6,1,olerj001,32,BBBCFX,5/P
@@ -4655,12 +4635,6 @@ play,7,0,evera001,02,CFS,K
 play,7,1,spies001,32,CFBBBFB,W
 play,7,1,aurir001,00,,NP
 sub,miced001,"Dan Miceli",0,0,1
-com,"ej,melvb001,M,scotd901,Fair/foul call (changed from homer)"
-com,"$Rich Aurilia's drive to LF ruled a homer by 3B umpire Dale Scott;"
-com,"the Astros immediately argued the call; Scott"
-com,"conferred with HP umpire Ron Kulpa and changed the"
-com,"call to foul; Seattle manager Bob Melvin argued heatedly"
-com,"and was ejected by Scott"
 play,7,1,aurir001,22,BCBF..X,16(1)3/GDP
 play,7,1,cabrj002,12,SSBX,S8/L
 play,7,1,wilsd001,00,>B,SB2
@@ -4934,11 +4908,6 @@ play,6,1,bocah001,22,CBFFBS,K
 play,6,1,winnr001,00,X,7/F
 play,7,0,cabro001,11,CBX,S7/G
 play,7,0,wilkb002,02,CCC,K
-com,"ej,wilkb002,P,relic901,Called third strike"
-com,"ej,everc001,P,iassd901,Yelling about Wilkerson ejection"
-com,"Brad Wilkerson ejected by HP umpire Charlie Reliford;"
-com,"Carl Everett ejected by 2B umpire Dan Iassogna for yelling"
-com,"about Wilkerson ejection (from bench)"
 play,7,0,diaze002,12,.BC.SS,K
 play,7,0,sledt001,21,BBC>X,8/L
 play,7,1,aurir001,00,,NP
@@ -4948,7 +4917,6 @@ sub,sledt001,"Terrmel Sledge",0,9,7
 play,7,1,aurir001,00,,NP
 sub,horgj001,"Joe Horgan",0,0,1
 play,7,1,aurir001,10,...BX,53/G
-com,"Debut game for Joe Horgan"
 play,7,1,suzui001,11,CBX,5/L
 play,7,1,boonb002,32,BBFBFFX,53/G
 play,8,0,chave002,00,,NP
@@ -5081,8 +5049,6 @@ play,6,1,winnr001,22,BBF>S.X,S9/L.2-H
 play,6,1,aurir001,31,CB1BBX,54(1)3/GDP
 play,6,1,suzui001,00,X,43/G
 play,7,0,cabro001,02,CFFFFFS,K
-com,"ej,cabro001,P,eddid901,Balls and strikes"
-com,"Orlando Cabrera ejected by HP umpire Doug Eddings"
 play,7,0,sledt001,12,.BCCX,9/L
 play,7,0,schnb001,10,BX,43/G
 play,7,1,boonb002,00,,NP
@@ -5511,7 +5477,6 @@ play,5,1,wilsd001,02,CFX,8/L
 play,6,0,cirij001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
 play,6,0,cirij001,31,.BBBCB,W
-com,"Debut game for Matt Thornton"
 play,6,0,buchb002,12,BSSX,4/P
 play,6,0,quinh001,01,FX,16(1)3/GDP
 play,6,1,bloow001,01,FX,43/G
@@ -6085,7 +6050,6 @@ start,spies001,"Scott Spiezio",1,8,5
 start,bordp001,"Pat Borders",1,9,2
 start,blact001,"Travis Blackley",1,0,1
 play,1,0,youne001,12,BFCS,K
-com,"Debut game for Travis Blackley"
 play,1,0,younm003,02,CCX,8/F
 play,1,0,soria001,22,BCBSX,9/F
 play,1,1,suzui001,00,X,S9/G
@@ -6363,7 +6327,6 @@ play,2,0,crisc001,02,CCX,63/G
 play,2,0,bellr002,20,BBX,7/L
 play,2,1,ibanr001,10,BX,9/F
 play,2,1,jacob002,22,CSFBBS,K
-com,"Debut game for Bucky Jacobsen"
 play,2,1,cabrj002,32,CSFBBBFB,W
 play,2,1,leonj003,12,BFC>X,8/F
 play,3,0,vizqo001,32,BCFBBFX,S8/L
@@ -6415,7 +6378,6 @@ play,6,1,cabrj002,22,C*BFFBX,9/F
 play,7,0,crisc001,00,,NP
 sub,sherg001,"George Sherrill",1,0,1
 play,7,0,crisc001,32,.BBFCBFX,8/F
-com,"Debut game for George Sherrill"
 play,7,0,bellr002,01,CX,9/F
 play,7,0,vizqo001,01,SX,S8/G
 play,7,0,lawtm002,02,FFFX,D9/L.1-3
@@ -6463,8 +6425,6 @@ play,9,0,hafnt001,32,BCBBFX,HR/89/F
 play,9,0,merll001,10,BH,HP
 play,9,0,geruj001,00,,NP
 sub,myerm001,"Mike Myers",1,0,1
-com,"ej,matej001,P,tscht901,Intentional HBP"
-com,"Julio Mateo ejected by HP umpire Tim Tschida"
 play,9,0,geruj001,32,..BFBCB>F>X,HR/9/F.1-H
 play,9,0,crisc001,00,X,D9/F
 play,9,0,bellr002,22,CBBFS,K
@@ -6588,9 +6548,6 @@ play,5,1,jacob002,30,BBBB,W.3-H;2-3;1-2
 play,5,1,cabrj002,02,CFFX,4/L
 play,6,0,lawtm002,12,FCBC,K
 play,6,0,vizqo001,22,BBCCFFC,K
-com,"ej,vizqo001,P,nelsj901,Balls and strikes"
-com,"ej,wedge001,M,nelsj901,Balls and strikes"
-com,"Omar Vizquel and Manager Eric Wedge ejected by HP umpire Jeff Nelson"
 play,6,0,hafnt001,22,..CFBFBX,HR/8/F
 play,6,0,martv001,00,X,6/P
 play,6,1,leonj003,00,,NP
@@ -6793,9 +6750,6 @@ play,7,0,geruj001,02,.CF11X,4/L
 play,7,1,boonb002,12,FBSX,63/G
 play,7,1,ibanr001,12,CBFX,6/L
 play,7,1,jacob002,21,BBFH,HP
-com,"ej,wedge001,M,fostm901,Intentional HBP"
-com,"ej,whitr002,P,fostm901,Intentional HBP"
-com,"Rick White and Manager Eric Wedge ejected by HP umpire Marty Foster"
 play,7,1,spies001,00,,NP
 sub,millm002,"Matt Miller",0,0,1
 play,7,1,spies001,00,...X,43/G
@@ -6917,7 +6871,6 @@ play,3,0,muelb001,00,X,8/F
 play,3,0,ortid001,21,11BBFX,9!/F
 play,3,1,olivm001,00,,NP
 sub,bellm002,"Mark Bellhorn",0,9,4
-com,"$Reese left game with injured chest"
 play,3,1,olivm001,02,.SLX,9/F
 play,3,1,bocah001,11,FBX,53/G
 play,3,1,suzui001,22,LBCBX,S7/L
@@ -7381,7 +7334,6 @@ play,9,1,jacob002,00,11,PO1(13)
 play,10,0,chave001,00,,NP
 sub,madrb001,"Bobby Madritsch",1,0,1
 play,10,0,chave001,00,.X,S8/G+
-com,"Debut game for Bobby Madritsch"
 play,10,0,dye-j001,22,BCB1F1X,E5/TH/FO/G.1-2;B-1
 play,10,0,hatts001,00,X,14/SH/BG.2-3;1-2
 play,10,0,kielb001,01,FX,5/LDP.3X3(5)
@@ -7650,7 +7602,6 @@ play,7,0,figgc001,21,..BBCX,D7/G
 play,7,0,guerv001,01,SH,HP
 play,7,0,guilj001,00,,NP
 sub,davaj001,"Jeff DaVanon",0,3,12
-com,"$Guerrero left game with injured hand"
 play,7,0,guilj001,22,..*BBSFFX,S8/L-.2-H;1-3
 play,7,0,erstd001,12,CBFFX,46(1)3/GDP.3-H(NR)
 play,7,0,quinr002,12,BSSC,K
@@ -7957,7 +7908,6 @@ play,7,1,hansd001,12,CSBFX,43/G
 play,7,1,cabrj002,01,SX,5/P5F
 play,7,1,spies001,31,BBBCX,2/P2F
 play,8,0,molij001,12,CBCX,DGR/7/INT
-com,"$fan interference"
 play,8,0,kenna001,32,BSSBBX,3/G.2-3
 play,8,0,ecksd001,02,CFX,FC5/G.3XH(525)
 play,8,0,figgc001,22,BBCC>X,3!/L+
@@ -8891,7 +8841,6 @@ start,lopej003,"Jose Lopez",1,8,6
 start,bloow001,"Willie Bloomquist",1,9,5
 start,madrb001,"Bobby Madritsch",1,0,1
 play,1,0,crawc002,12,CBSX,8/F
-com,"Debut game for Scott Kazmir"
 play,1,0,lugoj001,32,CBBFBS,K
 play,1,0,uptob001,12,SCBS,K
 play,1,1,suzui001,12,CBCX,63/G
@@ -9638,7 +9587,6 @@ play,3,1,winnr001,11,CBX,S9/L
 play,3,1,marte001,22,CFB1BS,K
 play,4,0,buckj001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
-com,"$Nageotte left game with injured back"
 play,4,0,buckj001,32,.BFFBBS,K
 play,4,0,berra001,31,BBBCX,E6/TH/G
 play,4,0,dejed001,32,.B111CBC1>FB>F>S,K+CS2(24)/DP
@@ -10154,7 +10102,6 @@ play,9,1,marte001,32,BCBCBB,W.1-2
 play,9,1,ibanr001,00,,NP
 sub,lopem002,"Mickey Lopez",1,3,12
 play,9,1,ibanr001,22,.BFFBX,7/L
-com,"Debut game for Mickey Lopez"
 data,er,sabac001,0
 data,er,mechg001,4
 data,er,kidam001,0
@@ -10313,12 +10260,9 @@ sub,wickb001,"Bob Wickman",0,0,1
 play,9,1,lopej003,00,,NP
 sub,dobbg001,"Greg Dobbs",1,8,11
 play,9,1,dobbg001,32,..FBFBFBFX,HR/9/F
-com,"Debut game for Greg Dobbs"
-com,"$Dobbs homers in first ML at bat"
 play,9,1,bloow001,00,,NP
 sub,reedj004,"Jeremy Reed",1,9,11
 play,9,1,reedj004,00,.X,63/G
-com,"Debut game for Jeremy Reed"
 play,9,1,suzui001,10,BX,43/G
 play,9,1,winnr001,12,FBSC,K
 data,er,lee-c003,4
@@ -10798,7 +10742,6 @@ play,8,1,winnr001,01,CX,64(1)3/GDP
 play,9,0,youkk001,00,,NP
 sub,willr003,"Randy Williams",1,0,1
 play,9,0,youkk001,31,.BBBCX,7/F
-com,"Debut game for Randy Williams"
 play,9,0,kaplg001,31,BBBCX,9/F
 play,9,0,mccad001,10,BX,S8/L
 play,9,0,reesp001,30,BBBB,W.1-2
@@ -12016,7 +11959,6 @@ play,1,0,younm003,12,1CSBC,K
 play,1,0,teixm001,21,BFBX,HR/78/F.1-H
 play,1,0,menck001,32,BCFBBX,53/G
 play,1,1,suzui001,02,CFFX,S7/G
-com,"$tied Sisler's 1920 record of 257 hits"
 play,1,1,winnr001,10,1BX,S8/G.1-2
 play,1,1,marte001,21,BFBX,3/P/IF
 play,1,1,ibanr001,30,BBBX,S9/G.2-3;1-2
@@ -12032,7 +11974,6 @@ play,3,0,huckk001,12,SSBFS,K
 play,3,0,youne001,22,BTFBX,7/L
 play,3,0,blalh001,01,SX,8/F
 play,3,1,suzui001,32,BFFBBX,S8/G
-com,"$passed Sisler for new hit record - 258"
 play,3,1,winnr001,10,BX,S4/P-.1-3
 play,3,1,marte001,11,BSX,S7/L.3-H;1-2
 play,3,1,ibanr001,00,X,D9/F.2-H;1-3
@@ -12259,8 +12200,6 @@ play,9,0,teixm001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",1,6,3
 play,9,0,teixm001,10,...B,NP
 sub,bloow001,"Willie Bloomquist",1,3,5
-com,"Martinez plays 3B for 1 pitch, then leaves to"
-com,"ovation on Edgar Martinez night"
 play,9,0,teixm001,12,...B.SST,K
 play,9,0,menck001,11,CBX,S7/L
 play,9,0,allec001,10,BX,9/F

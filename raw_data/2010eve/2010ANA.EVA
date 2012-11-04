@@ -568,7 +568,6 @@ sub,casia001,"Alexi Casilla",0,2,4
 play,9,1,iztum001,00,,NP
 sub,burna002,"Alex Burnett",0,0,1
 play,9,1,iztum001,11,..BCX,7/F
-com,"Debut game for Alex Burnett"
 play,9,1,mathj001,00,,NP
 sub,napom001,"Mike Napoli",1,9,11
 play,9,1,napom001,12,.BSCFX,9/F
@@ -636,7 +635,6 @@ play,1,0,bartd001,12,C11B>FX,D7/L.1-H
 play,1,0,sweer001,11,BFX,5!3/G
 play,1,0,kouzk001,01,CH,HP
 play,1,0,suzuk001,12,CF*BX,S7/G.2-H;1-3(E7/THH);B-2
-com,"$the throw home by LF Juan Rivera bounced past catcher Jeff Mathis"
 play,1,0,chave001,22,BF*BCX,43/G.3-H(UR);2-3
 play,1,0,ellim001,21,BS*BX,8/F
 play,1,1,iztum001,01,CX,13/BG
@@ -696,7 +694,6 @@ play,7,0,pennc001,32,BS*BC*BX,HR/9/F.3-H;2-H
 play,7,0,davir003,00,,NP
 sub,cassb001,"Bobby Cassevah",1,0,1
 play,7,0,davir003,10,.BX,8!/L
-com,"Debut game for Bobby Cassevah"
 play,7,1,rivej001,32,CBBFFBFFX,D7/L+
 play,7,1,kendh001,00,,NP
 sub,ramie003,"Edwar Ramirez",0,0,1
@@ -1397,9 +1394,6 @@ play,5,0,santr002,00,X,S7/L-
 play,5,0,sizes001,12,BCFX,S9/F-.1-2
 play,5,0,jacka001,32,CCBBB>F>F*B,W.2-3;1-2
 play,5,0,damoj001,12,CBFC,K
-com,"ej,damoj001,P,scotd901,Called third strike"
-com,"$Tigers left fielder Johnny Damon ejected by HP umpire Dale Scott for arguing the"
-com,"called third strike"
 play,5,1,napom001,00,,NP
 sub,rabur001,"Ryan Raburn",0,2,7
 play,5,1,napom001,01,..FX,E5/TH1/G
@@ -1566,7 +1560,6 @@ play,5,0,lairg001,30,BBBB,W
 play,5,0,sizes001,22,CBCBX,S8/F.2XH(842);1-3
 play,5,1,huntt001,00,,NP
 sub,kelld001,"Don Kelly",0,5,7
-com,"Tigers left fielder Carlos Guillen left the game due to an injured leg"
 play,5,1,huntt001,22,.CSFFBFBFFFX,13/G
 play,5,1,matsh001,22,CBCBFFFFFX,HR/8/F
 play,5,1,morak001,12,SSBX,23/G
@@ -1708,10 +1701,6 @@ play,3,0,johnn001,12,BCCC,K
 play,3,0,teixm001,11,CBH,HP
 play,3,0,rodra001,31,BBCBX,S7/G.2-H;1-2
 play,3,0,canor001,10,BX,S9/L.2-H;1-3(TH);B-2(E9/TH)
-com,"$Yankees Mark Teixeira ran into Angels catcher Bobby Wilson at the plate even"
-com,"though Wilson was on the 1B side of the plate; Teixeira lowered his shoulder"
-com,"into Wilson's head, knocking the mask and helmet away; Wilson left with a"
-com,"concussion and an injured left ankle"
 play,3,0,posaj001,00,,NP
 sub,napom001,"Mike Napoli",1,9,2
 play,3,0,posaj001,10,.BX,6/P
@@ -2459,14 +2448,6 @@ play,2,0,hafnt001,32,CB*BS*BX,43/G.2-3
 play,2,0,branr001,32,BFCBBB,W
 play,2,0,peraj001,00,X,9/SF/F.3-H
 play,2,0,valbl001,32,BBC1FB>S,K
-com,"ej,sciom001,M,drakr901,Checked swing"
-com,"$the second pitch to Hideki Matsui was inside and in the dirt and"
-com,"almost hit the batter; as he tried to get out of the way, his bat"
-com,"flew over the plate; after the pitch, HP umpire Joe West asked 3B"
-com,"umpire Rob Drake for a ruling on whether Matsui swung; it was ruled"
-com,"a swing and Angels manager Mike Scioscia started yelling at Drake"
-com,"from the 3B dugout; Drake ejected Scioscia, who then came out to argue"
-com,"some more; he was escorted off the field by West"
 play,2,1,matsh001,02,CS.S,K
 play,2,1,morak001,20,BBX,13/G
 play,2,1,rivej001,22,CBFBS,K
@@ -2492,9 +2473,6 @@ play,5,1,rivej001,11,BFX,54(1)/FO/G
 play,5,1,kendh001,21,BFBX,E6/FO/G.1-3
 play,5,1,woodb003,21,CBBX,46(1)3/GDP
 play,6,0,marsl001,21,BBFX,D8/F89XDW
-com,"$the fly ball by Lou Marson hit the top of the wall in right center and was ruled"
-com,"in play by 2B umpire Paul Schrieber; Indians manager Manny Acta asked about the call"
-com,"so crew chief Joe West watched the replay and upheld the call"
 play,6,0,cabra002,00,X,34/SH/BG.2-3
 play,6,0,sizeg001,11,S+3*BX,S9/L.3-H
 play,6,0,choos001,00,>P,SB2
@@ -3224,7 +3202,6 @@ start,woodb003,"Brandon Wood",1,9,5
 start,sante001,"Ervin Santana",1,0,1
 play,1,0,pennc001,11,CBX,DGR/9/F
 play,1,0,bartd001,10,BX,13/SH/BG.2-3
-com,"$infield in for Ryan Sweeney"
 play,1,0,sweer001,22,B+3CBSX,FC4/G.3-H(E4/THH)(UR)(NR)
 play,1,0,kouzk001,12,SB1FX,46(1)3/GDP
 play,1,1,aybae001,32,BBCCBFFX,43/G
@@ -3252,7 +3229,6 @@ play,4,0,patte001,12,CFBS,K23
 play,4,1,aybae001,11,BCX,43/G-
 play,4,1,kendh001,00,X,53/G
 play,4,1,abreb001,32,CCBBFBX,S4/G-
-com,"$high bouncer fielded on the infield grass"
 play,4,1,huntt001,31,BBTBX,S8/L.1-3
 play,4,1,morak001,01,FX,HR/8/F.3-H;1-H
 play,4,1,matsh001,00,,NP
@@ -4086,7 +4062,6 @@ play,1,1,morak001,32,FF*BFB*B>B,W.2-3;1-2
 play,1,1,matsh001,00,X,8/F
 play,2,0,tuiam001,00,,NP
 sub,willr004,"Reggie Willits",1,4,8
-com,"Angels center fielder Torii Hunter left the game due to a bruised left hand"
 play,2,0,tuiam001,12,.CBCC,K
 play,2,0,wilsj003,02,CCX,6/P
 play,2,0,johnr009,02,FCX,8/F
@@ -4163,10 +4138,6 @@ play,10,1,iztum001,21,BCBX,D9/F
 play,10,1,abreb001,30,IIII,IW
 play,10,1,willr004,21,BSBX,E4/FO/G.2-3;1-2
 play,10,1,morak001,00,X,HR/8/F.3-H;2-H(UR);1-H
-com,"$Kendry Morales jumped into the crowd of Angels players at the plate"
-com,"to celebrate the game-ending grand slam; he missed the plate the first"
-com,"time and jumped again, landing awkwardly; Morales suffered a broken"
-com,"lower left leg"
 data,er,hernf002,1
 data,er,leagb001,3
 data,er,weavj003,0
@@ -4234,16 +4205,12 @@ play,2,0,lopej003,31,CBBBX,8/F
 play,2,0,kotcc001,32,CBCBBX,53/G
 play,2,0,alfoe002,10,BX,S8/F-
 play,2,0,wilsj003,11,BFX,S3/G.1-2
-com,"$Josh Wilson's grounder hit 2B umpire Brian Knight on the left leg"
 play,2,0,suzui001,31,BB*BCX,S8/L.2-H;1XH(862)
 play,2,1,kendh001,00,X,8/F
 play,2,1,wilsb002,22,BFSBX,7/F
 play,2,1,willr004,22,CFBFBFX,S7/F-
 play,2,1,aybae001,32,11BBF1BF>B,W.1-2
 play,2,1,iztum001,00,X,3/P
-com,"umpchange,3,ump2b,(None)"
-com,"$2B umpire Brian Knight left the game and was taken to the hospital for"
-com,"precautionary x-rays on his bruised left leg"
 play,3,0,figgc001,10,BX,7/F
 play,3,0,gutif001,12,CSBX,5/P5F
 play,3,0,bradm001,10,BX,63/G
@@ -4448,9 +4415,6 @@ play,7,0,fielp001,22,CSFB*BX,63/G.2-3
 play,7,0,braur002,32,B+3BCBSX,S7/F-.3-H
 play,7,0,mcgec001,01,SH,HP.1-2
 play,7,0,gomec002,00,X,36(1)/FO/G.2-3
-com,"$Angels shortstop Erick Aybar leaped for the wide throw from Kevin Frandsen"
-com,"and the runner, Casey McGehee, slid hard through the bag; McGehee hit Aybar's"
-com,"knee, which buckled; Aybar left with a hyperextended left knee"
 play,7,0,counc001,00,,NP
 sub,quinr002,"Robb Quinlan",1,1,3
 play,7,0,counc001,00,,NP
@@ -4897,9 +4861,6 @@ play,8,0,andeg001,22,..CCBBFFX,S8/F
 play,8,0,blakc001,22,CBBFFFX,E5/G.1-2
 play,8,0,kempm001,02,CSFX,6!4(1)3/GDP.2-3
 play,8,0,dewib001,31,BBFBX,8/L
-com,"ej,rodnf001,P,welkb901,Balls and strikes"
-com,"Angels pitcher Fernando Rodney ejected by HP umpire Bill Welke as he"
-com,"left the field at the end of the inning"
 play,8,1,huntt001,00,,NP
 sub,tronr001,"Ramon Troncoso",0,0,1
 play,8,1,huntt001,12,..CFBX,63/G
@@ -5043,26 +5004,10 @@ play,9,0,blakc001,00,,NP
 sub,johnr008,"Reed Johnson",0,6,12
 play,9,0,blakc001,12,.BCFS,K
 play,9,0,martr004,31,BBBC2,PO2(14)
-com,"$Angels pitcher Brian Fuentes spun in the opposite direction"
-com,"from most left-handed pickoff throws to get Matt Kemp; the"
-com,"Dodgers had talked about that move before the series because"
-com,"it was in the scouting report on Fuentes"
 play,9,0,martr004,31,BBBC2.B,W.1-2
 play,9,0,dewib001,00,,NP
 sub,carrj001,"Jamey Carroll",0,9,11
 play,9,0,carrj001,01,.CX,S7/F7S.2-3;1X3(74)
-com,"ej,martr004,P,reynj901,Call at 2B to end the game"
-com,"$Jamey Carroll's bloop hit fell in front of LF Juan Rivera and"
-com,"should have scored Reed Johnson from 2B; however, Johnson slowed"
-com,"down as he ran between 3B and the plate; Rivera threw the ball"
-com,"behind Russell Martin, who had advanced from 1B and slipped"
-com,"while trying to get back to 2B after taking the turn; when"
-com,"2B Howie Kendrick tagged Martin and 2B umpire Jim Reynolds"
-com,"called him out, HP umpire Mike DiMuro waved off the run that"
-com,"should have tied the game since Johnson crossed the plate"
-com,"after the out was made; Martin got up and slammed his helmet"
-com,"to the ground and was ejected by Reynolds even though the game"
-com,"Was over"
 data,er,ely-j001,1
 data,er,broxj001,0
 data,er,pinej001,1
@@ -5193,10 +5138,6 @@ play,7,0,lonej001,30,IIII,IW
 play,7,0,blakc001,01,SX,S7/L.2-H;1-2
 play,7,0,martr004,00,,NP
 sub,bellt002,"Trevor Bell",1,0,1
-com,"$while Trevor Bell warmed up, some of the field lights went out;"
-com,"after some time, the umpires and managers talked and agreed to"
-com,"restart the game even though not all the lights were back on;"
-com,"total delay time was 18 minutes"
 play,7,0,martr004,22,.BCBST,K
 play,7,0,johnr008,11,BFX,4(1)/FO/G
 play,7,1,frank001,22,CBSFFFBFX,7/F
@@ -5308,7 +5249,6 @@ play,2,0,stewi001,32,BBFSBS,K
 play,2,0,iannc001,32,CBSBBFS,K
 play,2,1,rivej001,00,,NP
 sub,spilr001,"Ryan Spilborghs",0,5,9
-com,"Rockies right fielder Brad Hawpe left the game due to an injured chest"
 play,2,1,rivej001,12,.BFCX,S4/G-
 play,2,1,napom001,01,CX,S9/L.1-3
 play,2,1,mathj001,30,1BBBX,7/SF/F.3-H;1-2
@@ -5904,7 +5844,6 @@ start,wilsb002,"Bobby Wilson",1,8,2
 start,willr004,"Reggie Willits",1,9,7
 start,kazms001,"Scott Kazmir",1,0,1
 play,1,0,andre001,22,BBCCX,63/G
-com,"Debut game for Omar Beltre"
 play,1,0,younm003,11,CBX,9/F
 play,1,0,kinsi001,02,SCX,53/G
 play,1,1,aybae001,21,BCBX,HR/9/F
@@ -7235,8 +7174,6 @@ play,4,1,mathj001,32,CBBCBFS,K
 play,5,0,scutm001,20,BBX,63/G
 play,5,0,drewj001,12,BFFC,K
 play,5,0,youkk001,00,X,S13/L+
-com,"$the line drive by Kevin Youkilis struck pitcher Dan Haren on the right"
-com,"(throwing) arm"
 play,5,0,ortid001,00,,NP
 sub,rodrf005,"Francisco Rodriguez",1,0,1
 play,5,0,ortid001,00,.X,7/F
@@ -7278,9 +7215,6 @@ play,8,0,youkk001,22,CCFBBFFX,S9/F
 play,8,0,ortid001,10,B>B,SB2
 play,8,0,ortid001,32,B>B.BFFFX,HR/89/F.2-H
 play,8,0,belta001,10,BH,HP
-com,"$Adrian Beltre stood at the plate for almost 30 seconds staring at"
-com,"pitcher Fernando Rodney before going to 1B; both teams were warned"
-com,"by HP umpire Wally Bell"
 play,8,0,martv001,21,CBBX,6/L
 play,8,0,lowrj001,12,CSBX,46(1)/FO/G
 play,8,1,iztum001,00,,NP
@@ -7289,16 +7223,12 @@ play,8,1,iztum001,11,.BCX,S7/L-
 play,8,1,abreb001,22,CBBFX,4(1)/FO/G
 play,8,1,huntt001,00,X,9/F
 play,8,1,matsh001,32,CBC*BFB>X,HR/89/F.1-H
-com,"$Hideki Matsui’s fly ball was touched by a fan and ruled a homer; the ball"
-com,"caromed back onto the field; the Red Sox asked about the call, so acting chief"
-com,"Wally Bell watched the replay and upheld the call"
 play,8,1,calla001,00,,NP
 sub,papej001,"Jonathan Papelbon",0,0,1
 play,8,1,calla001,12,.SBSFX,43/G
 play,9,0,camem001,00,,NP
 sub,kohnm001,"Michael Kohn",1,0,1
 play,9,0,camem001,32,.CSBBBB,W
-com,"Debut game for Michael Kohn"
 play,9,0,patte001,21,1L1PB1X,3/BP
 play,9,0,scutm001,12,FB+1LF1FFFX,S7/L.1-2
 play,9,0,drewj001,32,CBBCBFFX,D9/F.2-H;1-H
@@ -8533,7 +8463,6 @@ play,2,0,encae001,00,X,S7/L.3-H;1-2
 play,2,0,molij001,01,FX,54(1)3/GDP
 play,2,1,huntt001,10,BX,63/G
 play,2,1,rivej001,12,CBCFX,DGR/9/L
-com,"fan interference"
 play,2,1,kendh001,11,BFX,53/G
 play,2,1,napom001,11,CBX,63/G
 play,3,0,lewif001,22,SBBCC,K
@@ -8684,11 +8613,6 @@ play,3,0,wellv001,32,>C.BF*BBB,W
 play,3,0,linda001,21,SB+2BX,3/G
 play,3,1,abreb001,22,BCSFBX,D9/L
 play,3,1,aybae001,00,X,53/BG/INT
-com,"$as the throw by Jose Bautista reached first baseman Lyle Overbay, batter"
-com,"Erick Aybar's left shoulder hit Overbay's glove; the ball popped out of the"
-com,"glove; Aybar had been running inside the line and HP umpire Joe West called"
-com,"Aybar out for interfering with Overbay; Angels manager Mike Scioscia argued"
-com,"that Aybar beat the throw so his contact with Overbay should not matter"
 play,3,1,calla001,11,FBX,S6/G-.2-3
 play,3,1,huntt001,11,BFX,54(1)3/GDP
 play,4,0,hilla001,10,BX,4/P
@@ -8699,8 +8623,6 @@ play,4,1,napom001,10,1*BX,9/F
 play,4,1,matsh001,01,1CX,D9/L.1-3
 play,4,1,wilsb002,00,X,HR/7/F.3-H;2-H
 play,4,1,bourp001,12,CSBX,63/G
-com,"$Peter Bourjos was hit by the third pitch but HP umpire Joe West said he"
-com,"leaned into the pitch and thus was not entitled to first base on the play"
 play,4,1,abreb001,12,CCBFFFC,K
 play,5,0,molij001,01,CX,7/F
 play,5,0,lewif001,12,CFBX,HR/9/F
@@ -9150,9 +9072,6 @@ play,5,0,zobrb001,22,SFBBX,63/G
 play,5,0,crawc002,10,BX,3/G
 play,5,0,longe001,12,CTFBX,S9/F-
 play,5,0,penac001,01,C1>S,CS2(26)
-com,"ej,maddj801,M,campa902,Call at 2B"
-com,"$Rays Manager Joe Maddon argued the call and a previous call in the fourth"
-com,"inning on Jason Bartlett; Maddon was ejected by 2B umpire Angel Campos"
 play,5,1,abreb001,31,.BBCBB,W
 play,5,1,kendh001,01,CX,54(1)/FO/G
 play,5,1,calla001,02,CFS,K
@@ -9494,7 +9413,6 @@ play,4,1,calla001,00,,NP
 sub,bellj004,"Josh Bell",0,1,5
 play,4,1,calla001,00,,NP
 sub,lugoj001,"Julio Lugo",0,8,4
-com,"Orioles second baseman Brian Roberts left the game due to an injured hip"
 play,4,1,calla001,11,..BCX,43/G
 play,4,1,huntt001,32,CBSBBX,S8/G
 play,4,1,matsh001,01,FN,BK.1-2
@@ -9740,8 +9658,6 @@ play,1,0,lugoj001,31,BBBCB,W
 play,1,0,pie-f001,12,BC1CF1,NP
 sub,fox-j001,"Jake Fox",0,1,12
 play,1,0,pie-f001,12,BC1CF1.S,K+WP.1-2
-com,"$Orioles second baseman Julio Lugo was hit on the head by a pickoff"
-com,"throw and left the game feeling dizzy and with ringing in his ears"
 play,1,0,markn001,12,BSCX,13/G-
 play,1,0,scotl001,12,CBS+2S,K
 play,1,1,willr004,00,,NP
@@ -10068,10 +9984,6 @@ play,5,1,matsh001,20,BBX,7/F
 play,5,1,napom001,00,X,53/G
 play,5,1,kendh001,12,BSSS,K
 play,6,0,hafnt001,10,BX,HR/89/F
-com,"$Travis Hafner's fly hit the top of the wall in right center, bounced off a"
-com,"railing and caromed back onto the field; it was ruled a home run but the Angels"
-com,"asked about the ruling; crew chief Joe West watched the replay and upheld the"
-com,"call"
 play,6,0,lapom001,21,BBCX,7/F
 play,6,0,browj006,00,,NP
 sub,rodrf005,"Francisco Rodriguez",1,0,1
@@ -10099,7 +10011,6 @@ play,7,0,hafnt001,32,.BBCBFFS,K
 play,7,0,lapom001,31,BFBBB,W
 play,7,0,crowt001,32,BCCBBFF,NP
 sub,kohnm001,"Michael Kohn",1,0,1
-com,"Angels pitcher Scot Shields left the game due to an injured elbow"
 play,7,0,crowt001,32,BCCBBFF.>F>B,W.1-2
 play,7,0,donaj002,02,FFX,46(1)/FO/G.2-3
 play,7,0,valbl001,02,CF.X,2/P2F
@@ -10309,7 +10220,6 @@ play,10,0,marta004,32,*BBFFB.FX,53/G
 play,10,1,rivej001,00,,NP
 sub,germj001,"Justin Germano",0,0,1
 play,10,1,rivej001,10,.BX,8!/F
-com,"$Indians CF Michael Brantley caught what appeared to be a homer"
 play,10,1,bourp001,22,CBBFFS,K
 play,10,1,willr004,21,BCBX,4/L-
 play,11,0,donaj002,00,X,63/G
@@ -10555,9 +10465,6 @@ play,12,0,tuiam001,00,,NP
 sub,kohnm001,"Michael Kohn",1,0,1
 play,12,0,tuiam001,32,...BBSBFB,W
 play,12,0,moora001,00,X,23/BG/INT.1-1
-com,"$Adam Moore's bunt was fielded along the 1B line by catcher Bobby Wilson, whose"
-com,"throw hit Moore on the back; Moore was called for interfering with the play"
-com,"because he was running in fair territory"
 play,12,0,saunm001,12,BC>FS,K
 play,12,0,wilsj003,12,FBSF11>C,K
 play,12,1,calla001,12,CFBC,K
@@ -10701,11 +10608,9 @@ play,7,1,huntt001,10,.BX,D9/F.2-H;1-H
 play,7,1,matsh001,00,,NP
 sub,congh001,"Hank Conger",1,4,11
 play,7,1,congh001,12,.BCFS,K
-com,"Debut game for Hank Conger"
 play,7,1,napom001,00,,NP
 sub,trumm001,"Mark Trumbo",1,5,11
 play,7,1,trumm001,02,.CCFS,K
-com,"Debut game for Mark Trumbo"
 play,8,0,moora001,00,,NP
 sub,willr004,"Reggie Willits",1,2,7
 play,8,0,moora001,00,,NP
@@ -10796,7 +10701,6 @@ play,1,1,huntt001,20,BB2X,3/P3F
 play,1,1,napom001,31,BB+1BSB,W.2-3;1-2
 play,1,1,rivej001,31,BBFBX,3/P
 play,1,1,matsh001,12,CCBX,C/E2.3-H(UR);2-3;1-2
-com,"$per rule 10.04(a)(2) this is an RBI"
 play,1,1,wilsb002,11,BCX,54(1)/FO/G
 play,2,0,gutif001,11,BCX,7/F
 play,2,0,kotcc001,01,FX,13/G
@@ -11422,7 +11326,6 @@ play,3,0,teahm001,22,CB>S.BS,K
 play,3,0,moreb001,12,BFFX,6/LDP.3X3(65)
 play,3,1,woodb003,02,CFS,K
 play,3,1,romia001,12,CBCS,K23
-com,"Debut game for Andrew Romine"
 play,3,1,bourp001,00,X,3/BP3F
 play,4,0,pierj002,01,CX,13/G
 play,4,0,vizqo001,32,BBFBCFX,3/G
@@ -11869,7 +11772,6 @@ play,2,0,hermj001,01,CX,HR/9/F
 play,2,0,cartc002,30,BBBB,W
 play,2,0,pennc001,22,BC>FFBX,S9/L.1-2
 play,2,0,davir003,00,>C,SB3;SB2
-com,"originally scored as PB to advance runners, changed next day"
 play,2,0,davir003,02,>C.FFS,K
 play,2,0,bartd001,30,IIII,IW
 play,2,0,ellim001,01,CX,S7/L.3-H;2-3;1-2
@@ -11880,14 +11782,7 @@ play,2,1,rivej001,31,BBCBX,D7/G
 play,2,1,napom001,30,BBBB,W
 play,2,1,iztum001,32,BBBCC>F>X,S8/L.2-H;1-3
 play,2,1,aybae001,02,S>L1FFX,FC1/G.3-H;1-2;B-1
-com,"$pitcher Brett Anderson flipped the ball to catcher Kurt Suzuki, who blocked the"
-com,"plate and tagged Mike Napoli before his foot touched the plate; HP umpire CB"
-com,"Bucknor called Napoli safe; Athletics manager Bob Geren talked with Bucknor"
 play,2,1,wilsb002,11,B>SX,2/INT.2-2;1-1
-com,"$Bobby Wilson swung at a pitch while the runners attempted stolen bases; Wilson's"
-com,"swing carried him across the plate and he got in the way of Kurt Suzuki who was"
-com,"attempting to throw to second; Wilson was called out for batter interference"
-com,"and the runners returned to their original bases"
 play,2,1,bourp001,00,X,S5/BG.2-3;1-2
 play,2,1,kendh001,11,CBX,S4/G.3-H;2-3;1-2
 play,2,1,abreb001,02,CFFX,7/F
@@ -12074,8 +11969,6 @@ play,4,0,kouzk001,00,X,HR/7/F
 play,4,0,hermj001,32,CBBFBX,S8/L
 play,4,0,cartc002,12,BSSX,8/F
 play,4,0,powel001,32,SCFBFBB>X,8/F
-com,"Angels CF Peter Bourjos caught the ball over the wall, thus"
-com,"taking a home run back from Landon Powell"
 play,4,1,huntt001,02,CCFX,6/P
 play,4,1,napom001,10,BX,4/P
 play,4,1,matsh001,12,CCBX,S9/L
@@ -12109,10 +12002,6 @@ play,7,1,mathj001,00,,NP
 sub,grosg002,"Gabe Gross",0,7,7
 play,7,1,mathj001,00,.X,S9/G
 play,7,1,woodb003,00,X,E2/TH1/SH/BG.1-3;B-2
-com,"$Peter Bourjos hit the 2-2 pitch down the LF line; the ball was"
-com,"ruled fair and a home run; the Athletics argued the call, so"
-com,"crew chief Dana DeMuth watched the replay and overturned the call"
-com,"to a foul ball"
 play,7,1,bourp001,22,BFF*BFX,9/F
 play,7,1,kendh001,10,BX,9/SF/F.3-H(UR);2-3
 play,7,1,abreb001,12,CCBT,K

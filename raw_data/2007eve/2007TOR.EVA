@@ -64,11 +64,8 @@ play,2,1,zaung001,20,BBX,D7/L.1-3
 play,2,1,clayr001,32,BFFFBFBFB,W
 play,2,1,johnr008,22,FSB*BFX,S9/F-.3-H;2-3;1-2
 play,2,1,overl001,02,SFFX,DGR/9.3-H;2-H;1-H
-com,"fan interference"
 play,2,1,wellv001,00,,NP
 sub,stanj001,"Jason Standridge",0,0,1
-com,"ej,bellb001,M,davig901,Arguing fan interference call"
-com,"Royals Manager Buddy Bell ejected by 3B umpire Gerry Davis"
 play,2,1,wellv001,01,..CX,7/L
 play,2,1,thomf001,02,SFS,K
 play,3,0,penat002,12,CBSS,K23
@@ -1738,7 +1735,6 @@ play,9,0,younm003,00,,NP
 sub,frasj002,"Jason Frasor",1,0,1
 play,9,0,younm003,32,...CFBBBFFX,S8/L
 play,9,0,teixm001,11,BS>B,SB2
-com,"$originally scored DI, changed after game to SB"
 play,9,0,teixm001,31,BS>B.BB,W
 play,9,0,sosas001,12,SBFS,K
 play,9,0,blalh001,10,BX,5/P5F
@@ -2156,7 +2152,6 @@ play,6,0,lugoj001,32,FBBBSX,46(1)3/GDP
 play,6,0,youkk001,00,H,HP
 play,6,0,ortid001,00,,NP
 sub,hinse001,"Eric Hinske",0,2,12
-com,"Red Sox first baseman Kevin Youkilis left the game due to an injured leg"
 play,6,0,ortid001,32,.CB*BF*B>X,7/F
 play,6,1,riosa002,00,,NP
 sub,hinse001,"Eric Hinske",0,2,3
@@ -2587,7 +2582,6 @@ play,1,1,glaut001,01,CX,8/F
 play,1,1,thomf001,00,1>B,CS2(24)
 play,2,0,penac001,00,,NP
 sub,smitj001,"Jason Smith",1,3,5
-com,"Blue Jays third baseman Troy Glaus left the game due to an injured foot/ankle"
 play,2,0,penac001,11,.BCH,HP
 play,2,0,harrb001,00,X,9/F
 play,2,0,paulj001,32,CFBB*B1X,S8/L.1-2
@@ -3135,7 +3129,6 @@ start,philj003,"Jason Phillips",1,8,2
 start,mcdoj003,"John McDonald",1,9,6
 start,litsj001,"Jesse Litsch",1,0,1
 play,1,0,robeb003,31,BBBCB,W
-com,"Debut game for Jesse Litsch"
 play,1,0,markn001,32,1B1BCBC>X,S48/G.1-3
 play,1,0,tejam001,00,X,64(1)3/GDP.3-H(NR)
 play,1,0,hernr002,12,CBSX,31/G
@@ -3777,7 +3770,6 @@ play,9,0,rodra001,10,BX,S8/G.3-H;1-2
 play,9,0,posaj001,00,,NP
 sub,wolfb001,"Brian Wolfe",1,0,1
 play,9,0,posaj001,32,.CBBBF>X,S5/P.2-H;1-3
-com,"Debut game for Brian Wolfe"
 play,9,0,giamj001,22,FFFB*B>B,DI.1-2
 play,9,0,giamj001,32,FFFB*B>B.X,S8/G.3-H;2-H
 play,9,0,miend001,00,,NP
@@ -3886,8 +3878,6 @@ play,5,1,linda001,21,BBCX,3/G
 play,6,0,uribj002,22,FBSBT,K
 play,6,0,erstd001,22,CBBS,NP
 sub,terrl001,"Luis Terrero",0,1,11
-com,"$Erstad hurt ankle swinging and missing at 2-1 pitch."
-com,"Popping sound heard from dugout"
 badj,terrl001,L
 play,6,0,terrl001,22,CBBS.S,K
 play,6,0,iguct001,22,SSBBX,7/F
@@ -4287,16 +4277,12 @@ play,3,0,credj001,32,BBCSFB>F>X,9/F
 play,3,1,linda001,11,BCX,43/G
 play,3,1,riosa002,11,CBX,D7/F+
 play,3,1,overl001,12,BCSFH,HP
-com,"ej,guilo001,M,marqa901,Arguing HBP call"
-com,"White Sox Manager Ozzie Guillen ejected by HP umpire Alfonso Marquez"
-com,"for arguing that Overbay should not be sent to 1B"
 play,3,1,wellv001,12,.BSFT,K
 play,3,1,glaut001,32,BBFBS>S,K
 play,4,0,mackr001,00,,NP
 sub,tallb001,"Brian Tallet",1,0,1
 play,4,0,mackr001,00,,NP
 sub,staim001,"Matt Stairs",1,2,3
-com,"Blue Jays pitcher Shaun Marcum left the game due to tightness in his back"
 play,4,0,mackr001,02,..MFS,K
 play,4,0,uribj002,32,BBCFFBB,W
 play,4,0,owenj002,12,B1FF1C,K
@@ -4411,7 +4397,6 @@ start,fasas001,"Sal Fasano",1,8,2
 start,mcdoj003,"John McDonald",1,9,6
 start,hallr001,"Roy Halladay",1,0,1
 play,1,0,dukee001,21,BCBX,8/F
-com,"Debut game for Andy Sonnanstine"
 play,1,0,uptob001,10,BX,S5/G-
 play,1,0,crawc002,22,CBFB>X,3/G.1-2
 play,1,0,nortg001,32,CBBF*BB,W
@@ -4603,7 +4588,6 @@ play,2,1,philj003,11,BCX,9/F
 play,2,1,linda001,12,CCBX,S9/L
 play,2,1,clayr001,30,BBBB,W.1-2
 play,2,1,thigc001,00,X,S8/L-.2-3;1-2
-com,"Debut game for Curtis Thigpen"
 play,2,1,riosa002,11,CBX,12(3)3/GDP
 play,3,0,harrb001,00,X,D7/L
 play,3,0,crawc002,01,FX,S7/L.2-H
@@ -4683,7 +4667,6 @@ play,8,1,thigc001,32,BBCFFBX,7/F
 play,9,0,penac001,00,,NP
 sub,dejoj001,"Jordan De Jong",1,0,1
 play,9,0,penac001,22,.FBSBFC,K
-com,"Debut game for Jordan De Jong"
 play,9,0,yound003,12,SBSS,K
 play,9,0,cantj001,12,CBSS,K
 play,9,1,riosa002,00,,NP
@@ -4948,10 +4931,6 @@ play,5,0,keara001,00,X,S8/L-
 play,5,0,churr001,10,BX,46(1)3/GDP
 play,5,0,schnb001,22,BFFBFX,S9/L.B-2(E9)
 play,5,0,logan001,32,BBSBFS,K
-com,"umpchange,5,umphp,rapue901"
-com,"umpchange,5,ump2b,(None)"
-com,"$delay while umpire Ed Rapuano replaced CB Bucknor, who was ill,"
-com,"behind the plate"
 play,5,1,thigc001,02,CSS,K
 play,5,1,zaung001,31,BBCBB,W
 play,5,1,linda001,11,FBX,S9/L.1-2
@@ -5389,7 +5368,6 @@ play,4,1,hilla001,32,BBCCFBX,8/F
 play,5,0,furcr001,00,,NP
 sub,gronl001,"Lee Gronkiewicz",1,0,1
 play,5,0,furcr001,31,.BBBCX,8/F
-com,"Debut game for Lee Gronkiewicz"
 play,5,0,pierj002,10,BX,63/G
 play,5,0,garcn001,11,CBX,8/F
 play,5,1,linda001,12,CFBX,31/G
@@ -5570,10 +5548,6 @@ sub,beimj001,"Joe Beimel",0,0,1
 play,6,1,wellv001,00,..X,63/G
 play,6,1,glaut001,32,CBBBFX,31/G
 play,6,1,thomf001,22,FBBFX,8/F
-com,"umpchange,7,umphome,fairc901"
-com,"umpchange,7,ump2b,(None)"
-com,"$plate umpire Eric Cooper left with a pulled muscle; game"
-com,"delayed 8 minutes"
 play,7,0,liebm001,02,CSX,4/P
 play,7,0,saeno001,02,CCX,13/G-
 play,7,0,betew001,10,BX,8/F
@@ -6035,8 +6009,6 @@ play,3,1,philj003,00,X,53/G
 play,4,0,tulot001,31,CBBBX,3/P
 play,4,0,bakej001,32,BBBFCX,7/F
 play,4,0,torry001,12,BCCS,K
-com,"ej,torry001,P,davig901,Balls and strikes"
-com,"Rockies catcher Yorvit Torrealba ejected by HP umpire Gerry Davis"
 play,4,1,mcdoj003,00,,NP
 sub,iannc001,"Chris Iannetta",0,9,2
 play,4,1,mcdoj003,21,..BBCX,43/G
@@ -6481,7 +6453,6 @@ play,5,1,wellv001,20,BBX,53/G+
 play,5,1,johnr008,00,H,HP
 play,5,1,riosa002,00,,NP
 sub,shopk001,"Kelly Shoppach",0,3,2
-com,"Indians catcher Victor Martinez left the game due to an injured knee"
 play,5,1,riosa002,01,.CX,9/F
 play,6,0,shopk001,00,,NP
 sub,frasj002,"Jason Frasor",1,0,1
@@ -6762,9 +6733,6 @@ play,6,1,thomf001,12,CSFBS,K
 play,6,1,overl001,00,X,S9/G+.1-2
 play,6,1,hilla001,00,,NP
 sub,grees004,"Sean Green",0,0,1
-com,"ej,gibbj001,M,timmt901,Checked swing for strike"
-com,"Blue Jays Manager John Gibbons ejected by 1B umpire Tim Timmons for"
-com,"arguing a check-swing call on Green for strike two"
 play,6,1,hilla001,22,.CBS.BS,K
 play,7,0,betay001,00,X,5/L
 play,7,0,suzui001,32,BCBCBX,7/F
@@ -7022,8 +6990,6 @@ play,5,1,clayr001,01,C>X,S1/BG.1-2
 play,5,1,johnr008,11,LBX,54/SH/BG.2-3;1-2
 play,5,1,overl001,30,IIII,IW
 play,5,1,riosa002,22,FBFFFBX,S7/G.3-H;2-H;1-3(E7/TH);B-2
-com,"ej,mclaj801,M,fairc901,Balls and strikes"
-com,"Mariners Manager John McLaren ejected by HP umpire Chad Fairchild"
 play,5,1,glaut001,00,.X,HR/78/F+.3-H;2-H
 play,5,1,wellv001,01,CX,D7/G
 play,5,1,thomf001,12,CBFFS,K
@@ -8161,11 +8127,6 @@ play,3,0,damoj001,31,*BCBBB,W
 play,3,0,jeted001,22,BCLBX,15(2)3/GDP.1-2
 play,3,0,abreb001,32,BBBCCX,T8/L.2-H
 play,3,0,rodra001,00,H,HP
-com,"$hit on the calf; ARod walked towards the mound but was"
-com,"stopped by HP umpire Angel Hernandez; both benches"
-com,"emptied; probably a retaliation for ARod's bush"
-com,"league play on May 30 when he yelled at an infielder"
-com,"who was trying to catch a popup; both sides warned"
 play,3,0,posaj001,01,CX,D7/L.3-H;1-H
 play,3,0,canor001,30,IIII,IW
 play,3,0,phila001,00,X,9/F
@@ -8206,9 +8167,6 @@ play,7,0,duncs001,00,X,53/G
 play,7,1,riosa002,10,BH,HP
 play,7,1,wellv001,00,,NP
 sub,browj003,"Jim Brower",0,0,1
-com,"ej,clemr001,P,herna901,Intentional HBP"
-com,"ej,torrj101,M,herna901,Intentional HBP"
-com,"Yankees Roger Clemens & Mgr Joe Torre ejected by HP umpire Angel Hernandez"
 play,7,1,wellv001,32,...*BFBBFFB,W.1-2
 play,7,1,thomf001,22,BSSBFX,D7/L.2-H;1-H
 play,7,1,glaut001,12,CBCS,K
@@ -8230,7 +8188,6 @@ sub,chamj002,"Joba Chamberlain",0,0,1
 play,8,1,mcdoj003,00,,NP
 sub,olmer001,"Ray Olmedo",1,9,11
 play,8,1,olmer001,32,...BBCBCT,K
-com,"Debut game for Joba Chamberlain"
 play,8,1,johnr008,12,CFBX,43/G
 play,8,1,overl001,32,CBBCBB,W
 play,8,1,riosa002,02,CSX,S8/L.1-2
@@ -8244,7 +8201,6 @@ play,9,0,phila001,21,BCBX,S9/L
 play,9,0,duncs001,00,,NP
 sub,giamj001,"Jason Giambi",0,8,11
 play,9,0,giamj001,10,.BX,56(1)/FO/G
-com,"$Giambi's first game after two months on the DL"
 play,9,0,cabrm002,12,BFSX,64(1)/FO/G
 play,9,1,thomf001,00,,NP
 sub,thigc001,"Curtis Thigpen",1,5,11
@@ -8338,8 +8294,6 @@ play,3,1,mcdoj003,00,.B,WP.2-3
 play,3,1,mcdoj003,31,.B.BC*BB,W
 play,3,1,staim001,32,CBSBB>S,K
 play,4,0,abreb001,32,BCBFBC,K
-com,"ej,abreb001,P,cousd901,Called third strike"
-com,"Yankees right fielder Bobby Abreu ejected by HP umpire Derryl Cousins"
 play,4,0,posaj001,31,.CBBBB,W
 play,4,0,matsh001,00,X,46(1)/FO/G
 play,4,0,giamj001,22,BCFBX,3/P3F
@@ -8915,7 +8869,6 @@ play,4,0,huffa001,00,X,2/P2F
 play,4,0,moram002,31,B*BBCB,W.1-2
 play,4,0,hernr002,11,BCX,64(1)/FO/G
 play,4,1,riosa002,22,BFBFX,DGR/7/L
-com,"fan interference"
 play,4,1,wellv001,22,*BF*BSFS,K
 play,4,1,thomf001,31,CBBBX,3/P
 play,4,1,glaut001,12,BFSFS,K
@@ -9951,15 +9904,8 @@ play,2,0,lopej003,11,BFX,7/F
 play,2,0,burkj003,01,FX,3/G
 ladj,1,7
 play,2,1,overl001,32,CBFBBX,7/F
-com,"$Overbay batted out of turn, but made an out, so Seattle did"
-com,"not point out the mistake"
 ladj,1,6
 play,2,1,hilla001,00,X,2
-com,"$Hill doubled, but he was also batting out of turn, so Seattle"
-com,"did point out this mistake and Hill was called out. However, the"
-com,"correct batter at this point was actually Zaun and he is the one"
-com,"who should have been called out. The umpires called the wrong man"
-com,"out."
 ladj,1,8
 play,2,1,zaung001,12,CBCS,K
 play,3,0,betay001,22,BCFFBX,3/P3F
@@ -10338,7 +10284,6 @@ sub,thigc001,"Curtis Thigpen",1,8,2
 play,9,0,canor001,00,,NP
 sub,bankj001,"Josh Banks",1,0,1
 play,9,0,canor001,02,...FFFFFFX,43/G
-com,"Debut game for Josh Banks"
 play,9,0,cabrm002,21,BBFX,8/F
 play,9,0,damoj001,32,CBBBFX,43/G
 play,9,1,overl001,00,,NP
@@ -10346,7 +10291,6 @@ sub,betew001,"Wilson Betemit",0,4,5
 play,9,1,overl001,00,,NP
 sub,ohler001,"Ross Ohlendorf",0,0,1
 play,9,1,overl001,12,..CFBS,K
-com,"Debut game for Ross Ohlendorf"
 play,9,1,thigc001,32,CSBBBX,63/G
 play,9,1,olmer001,00,X,63/G
 data,er,hughp001,1

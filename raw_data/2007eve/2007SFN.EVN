@@ -421,7 +421,6 @@ play,7,0,gonza003,12,CBFC,K
 play,7,1,bondb001,00,,NP
 sub,camek001,"Kevin Cameron",0,9,1
 play,7,1,bondb001,01,.CX,8/F
-com,"Debut game for Kevin Cameron"
 play,7,1,durhr001,02,CFFX,41/G
 play,7,1,aurir001,32,BCBSFBC,K
 play,8,0,bardj001,00,,NP
@@ -882,9 +881,6 @@ play,9,0,garcn001,00,,NP
 sub,klesr001,"Ryan Klesko",1,5,7
 play,9,0,garcn001,22,..CFBBX,63/G
 play,9,0,kentj001,21,SBBX,DGR/9/F
-com,"ej,bochb002,M,wintm901,Fair/foul call on double"
-com,"Giants Manager Bruce Bochy ejected by 1B umpire Mike Winters"
-com,"for arguing that Kent's fly had landed foul"
 play,9,0,billc001,00,,NP
 sub,andem003,"Marlon Anderson",0,5,11
 play,9,0,andem003,02,..CFX,8/F.2-3
@@ -970,7 +966,6 @@ play,2,1,morrm001,02,CF1S,K
 play,3,0,moliy001,30,BBBB,W
 play,3,0,schus001,00,X,S7/F.1-2
 play,3,0,keisr001,10,BX,E5/BG.2-H(NR)(UR);1-3;B-2
-com,"Preceding play is really 1E5 at third base"
 play,3,0,ecksd001,12,CFBX,63/G.3-H(UR);2-3
 play,3,0,duncc002,22,CBFBS,K
 play,3,0,pujoa001,21,BBCX,HR/7/F.3-H(UR);B-H(UR)
@@ -1355,7 +1350,6 @@ play,8,0,younc004,01,CX,53/G
 play,8,1,durhr001,00,,NP
 sub,schum001,"Mike Schultz",0,9,1
 play,8,1,durhr001,21,.CBBX,S7/F-
-com,"Debut game for Mike Schultz"
 play,8,1,molib001,02,1CSX,64(1)3/GDP
 play,8,1,felip001,22,CBSBS,K
 play,9,0,montm001,00,,NP
@@ -1885,7 +1879,6 @@ play,4,1,sweem001,31,.F*BBBX,D9/F.3-H;2-H;1-3
 play,4,1,robed001,00,,NP
 sub,ariaa002,"Alberto Arias",0,9,1
 play,4,1,robed001,00,.X,43/G.3-H;2-3
-com,"Debut game for Alberto Arias"
 play,4,1,vizqo001,31,BC*BBX,4/L
 play,5,0,hawpb001,00,,NP
 sub,chulv001,"Vinnie Chulk",1,9,1
@@ -2547,9 +2540,6 @@ play,7,0,liebj001,00,,NP
 sub,wertj001,"Jayson Werth",0,9,11
 play,7,0,wertj001,00,,NP
 sub,tascj001,"Jack Taschner",1,9,1
-com,"ej,righd001,C,reynj901,Balls and strikes"
-com,"Giants Pitching Coach Dave Righetti ejected by 1B umpire Jim Reynolds"
-com,"for arguiing balls and strikes"
 play,7,0,wertj001,32,..CBS*B.FFFB>S,K
 play,7,1,alfoe002,00,,NP
 sub,rosaf001,"Francisco Rosario",0,9,1
@@ -2584,8 +2574,6 @@ play,8,1,durhr001,32,.*BFSBB>X,S9/L.2-H;1-2
 play,8,1,felip001,00,,NP
 sub,herny001,"Yoel Hernandez",0,9,1
 play,8,1,felip001,20,.BBX,HR/7/F.2-H;1-H
-com,"Debut game for Yoel Hernandez"
-com,"$Hernandez surrenders homer to first batter faced in career"
 play,8,1,alfoe002,00,X,43/G
 play,8,1,vizqo001,02,FFX,S6/G
 play,8,1,klins002,00,,NP
@@ -2659,7 +2647,6 @@ start,lindt001,"Todd Linden",1,7,8
 start,frank001,"Kevin Frandsen",1,8,5
 start,linct001,"Tim Lincecum",1,9,1
 play,1,0,rollj001,21,CBBX,S8/G
-com,"Debut game for Tim Lincecum"
 play,1,0,victs001,02,FF1>X,HR/9/F.1-H
 play,1,0,utlec001,22,BBSFFS,K23
 play,1,0,howar001,12,CFBFS,K
@@ -2701,10 +2688,6 @@ play,4,1,winnr001,02,CSC,K
 play,4,1,vizqo001,21,BCBX,54(1)/FO/G
 play,5,0,victs001,32,BBBCCX,S8/G
 play,5,0,utlec001,10,B1,PO1(1363E6).1-2
-com,"$during rundown, Victorino ran towards Vizquel on the infield"
-com,"grass and threw out his arms to make contact; called obstruction"
-com,"by umpire Cederstrom; originally ruled CS, but changed next day"
-com,"because rule 10.07(h) says it is not CS"
 play,5,0,utlec001,32,B1.FCBF*BFX,7/F
 play,5,0,howar001,30,IIII,IW
 play,5,0,burrp001,31,BBBFB,W.2-3;1-2
@@ -2862,8 +2845,6 @@ play,5,0,reyej001,11,C*BX,D8/L.2-H
 play,5,0,wrigd002,12,CBFX,53/G
 play,5,1,durhr001,32,CBBFBB,W
 play,5,1,molib001,00,X,HR/78/F.1-H
-com,"$the umpires discussed whether this was a homer as it hit at the"
-com,"top of the wall"
 play,5,1,felip001,10,BX,8/L
 play,5,1,lindt001,21,BSBX,8/F
 play,5,1,zitob001,00,X,S8/L
@@ -2875,7 +2856,6 @@ play,5,1,durhr001,22,FCBBX,S9/L.1-2
 play,5,1,molib001,00,,NP
 sub,urdal001,"Lino Urdaneta",0,9,1
 play,5,1,molib001,10,.BX,HR/8/F.2-H(UR);1-H(UR);B-H(TUR)
-com,"$the 51st time a player hit two homers in one inning"
 play,5,1,felip001,10,BX,53/G
 play,6,0,beltc001,01,CX,63/G
 play,6,0,aloum001,12,BFFX,53/G
@@ -3871,7 +3851,6 @@ play,2,1,winnr001,01,CX,63/G
 play,3,0,cooka002,00,X,S8/L
 play,3,0,tavew001,00,X,S1/BG.1-2
 play,3,0,matsk001,01,CX,E5/BG.2-H(NR)(UR);1-3;B-2
-com,"Preceding play is really 1E5 at third base"
 play,3,0,hollm001,22,CF*BBX,53/G.3-H(UR)
 play,3,0,heltt001,11,BCX,E4/G.2-3
 play,3,0,atkig001,31,*BCBBX,D8/L.3-H(UR);1-3
@@ -4180,7 +4159,6 @@ play,1,1,lewif001,10,BX,64(1)3/GDP
 play,1,1,klesr001,00,X,3/G
 play,2,0,chave001,00,,NP
 sub,ortmd001,"Dan Ortmeier",1,2,9
-com,"Giants right fielder Fred Lewis left the game due to an injured back"
 play,2,0,chave001,02,.CCS,K
 play,2,0,johnd004,21,CBBX,53/G
 play,2,0,crosb002,31,BBCBX,9/F
@@ -4571,7 +4549,6 @@ play,5,0,kendj001,22,BFFBFFX,8/L
 play,5,0,dinal001,01,SX,S7/F
 play,5,0,buckt001,00,,NP
 sub,custj001,"Jack Cust",0,1,11
-com,"Athletics left fielder Travis Buck left the game due to an injured hand/wrist"
 play,5,0,custj001,21,.BCBX,7/F
 play,5,0,scutm001,30,BBBB,W.1-2
 play,5,0,swisn001,22,BBSSC,K
@@ -4758,7 +4735,6 @@ sub,winnr001,"Randy Winn",1,2,7
 play,9,0,glaut001,00,,NP
 sub,schin001,"Nate Schierholtz",1,4,9
 play,9,0,glaut001,22,..BCBSFX,9/F
-com,"Debut game for Nate Schierholtz"
 play,9,0,hilla001,00,X,8/F+
 play,9,0,linda001,22,BCBFX,43/G
 data,er,towej001,3
@@ -4858,7 +4834,6 @@ play,5,1,klesr001,22,CBCBFS,K
 play,5,1,bondb001,11,SBX,S9/F
 play,5,1,durhr001,00,,NP
 sub,frasj002,"Jason Frasor",0,9,1
-com,"Blue Jays pitcher A. Burnett left the game due to an injured neck/shoulder"
 play,5,1,durhr001,22,.BBCFC,K
 play,6,0,wellv001,02,CCFFS,K
 play,6,0,glaut001,32,BCBSBFFB,W
@@ -4987,7 +4962,6 @@ play,2,1,durhr001,10,BX,9/F
 play,2,1,felip001,12,SBCX,3/P
 play,2,1,frank001,31,BBBCB,W
 play,2,1,rodrg001,02,CFX,53/G
-com,"Debut game for Guillermo Rodriguez"
 play,3,0,clarh001,31,BBCBB,W
 play,3,0,riosa002,21,B1CBX,S7/G.1-2
 play,3,0,staim001,21,FBBX,8/F.2-3;1-2
@@ -5022,8 +4996,6 @@ play,4,1,sweem001,32,.CS*BFBB>C,K
 play,5,0,philj003,00,,NP
 sub,chulv001,"Vinnie Chulk",1,9,1
 play,5,0,philj003,12,.FFBX,143/G
-com,"$hard shot off Chulk's forearm. He tried a few pitches,"
-com,"but had to leave game"
 play,5,0,mcgod001,00,,NP
 sub,sancj002,"Jonathan Sanchez",1,9,1
 play,5,0,mcgod001,11,.BFX,S8/G
@@ -5371,9 +5343,6 @@ play,6,0,abreb001,22,.CBFF*BX,43/G
 play,6,1,robed001,21,LBBX,43/G
 play,6,1,winnr001,00,X,S1/BG
 play,6,1,durhr001,11,1CBX,163/G.1-2
-com,"ej,bochb002,M,cuzzp901,Call at 1B"
-com,"Giants Manager Bruce Bochy ejected by 1B umpire Phil Cuzzi,"
-com,"arguing that throw pulled Cairo off the bag"
 play,6,1,bondb001,11,.CBX,S7/L.2-H
 play,6,1,klesr001,10,BX,6(1)/FO/G
 play,7,0,rodra001,32,CBBSBFB,W
@@ -5415,7 +5384,6 @@ play,8,1,molib001,00,,NP
 sub,cairm001,"Miguel Cairo",0,8,6
 play,8,1,molib001,00,,NP
 sub,phila001,"Andy Phillips",0,9,3
-com,"Yankees shortstop Derek Jeter left the game due to an injured leg"
 play,8,1,molib001,12,...BFFX,S8/L-
 play,8,1,felip001,00,X,9/F
 play,8,1,vizqo001,32,BCBFBX,7/F
@@ -5766,7 +5734,6 @@ play,6,1,durhr001,11,CB1X,46(1)3/GDP
 play,6,1,bondb001,22,BCBFFS,K
 play,7,0,kouzk001,00,,NP
 sub,figul001,"Luis Figueroa",1,2,6
-com,"Giants shortstop Omar Vizquel left the game due to an injured groin"
 play,7,0,kouzk001,00,.X,63/G
 play,7,0,germj001,00,,NP
 sub,sledt001,"Terrmel Sledge",0,9,11
@@ -6281,7 +6248,6 @@ sub,ojeda001,"Augie Ojeda",0,3,4
 play,8,1,bondb001,00,,NP
 sub,clart002,"Tony Clark",0,5,3
 play,8,1,bondb001,32,..BFBFBX,HR/89/F
-com,"$home run #750 for Bonds"
 play,8,1,klesr001,12,BFFFX,8/F
 play,8,1,molib001,11,CBX,63/G
 play,8,1,felip001,00,X,4/P
@@ -6975,7 +6941,6 @@ play,9,0,pierj002,00,,NP
 sub,hennb001,"Brad Hennessey",1,2,1
 play,9,0,pierj002,00,,NP
 sub,lewif001,"Fred Lewis",1,9,9
-com,"Giants Randy Winn left the game due to an injured foot/ankle"
 play,9,0,pierj002,11,..CBX,13/BG
 play,9,0,martr004,22,CBBCS,K
 play,9,0,kempm001,00,X,S8/L
@@ -7120,8 +7085,6 @@ play,4,0,garcn001,32,CBSFBBC,K
 play,4,0,lonej001,12,CFBX,S7/L.B-2(E7)
 play,4,0,kempm001,10,BX,T9/F.2-H
 play,4,0,tomkb001,00,X,E1/G.3-H(NR)(UR)
-com,"$dribbler down third base line, Lowry bobbled ball, ran into"
-com,"runner (Kemp). Play ruled dead and Lowry charged with obstruction"
 play,4,0,furcr001,12,BCFFX,4(1)/FO/G
 play,4,0,pierj002,30,BB*BB,W.1-2
 play,4,0,martr004,00,X,4/P
@@ -7789,7 +7752,6 @@ play,5,1,durhr001,01,CX,S8/G+.3-H;1-2
 play,5,1,bondb001,00,X,7/F
 play,6,0,jonea002,01,CX,7/F
 play,6,0,mccab002,10,BX,DGR/9
-com,"fan interference"
 play,6,0,franj004,22,BBSFX,63/G
 play,6,0,thors001,12,FBFFFFX,43/G
 play,6,1,klesr001,00,X,D9/L+
@@ -8627,9 +8589,6 @@ play,5,0,churr001,11,BFB,WP.1-2
 play,5,0,churr001,22,BFB.FX,8/F
 play,5,1,winnr001,00,X,7/F
 play,5,1,bondb001,32,BBCFBFX,HR/89/F
-com,"$Bonds' 756th home run to pass Hank Aaron on the all-time list"
-com,"and set a new record; Bonds is only the third record holder in"
-com,"86 years"
 play,5,1,molib001,22,BBCCX,53/G
 play,5,1,durhr001,12,CBCX,1/P
 play,6,0,schnb001,00,,NP
@@ -8753,7 +8712,6 @@ play,1,1,robed001,00,X,2/BP2F
 play,1,1,vizqo001,21,BFBX,7/F
 play,1,1,winnr001,32,BCBBFB,W
 play,1,1,bondb001,11,BSX,HR/9/L+.1-H
-com,"$career homer #757"
 play,1,1,klesr001,10,BX,9/F
 play,2,0,keara001,12,CCBS,K
 play,2,0,churr001,02,FFX,S8/F-
@@ -8761,7 +8719,6 @@ play,2,0,schnb001,22,BBFFC,K
 play,2,0,logan001,22,CBBFX,64(1)/FO/G
 play,2,1,molib001,00,,NP
 sub,fickr001,"Robert Fick",0,4,3
-com,"Nationals first baseman Dmitri Young left the game due to an injured leg"
 play,2,1,molib001,22,..BCFBX,43/G
 play,2,1,felip001,22,BSFBX,S57/G+
 play,2,1,frank001,22,BCCFBFFX,5/P5F
@@ -8899,7 +8856,6 @@ play,2,0,bellr002,00,,NP
 sub,frank001,"Kevin Frandsen",1,1,7
 play,2,0,bellr002,00,,NP
 sub,davir003,"Rajai Davis",1,7,8
-com,"Giants center fielder Dave Roberts left the game due to an injured knee"
 play,2,0,bellr002,10,..BX,43/G
 play,2,0,florj002,21,BCBX,4!3/G-
 play,2,0,fickr001,21,BCBX,163/G
@@ -9425,7 +9381,6 @@ play,1,1,bondb001,11,BCX,S7/L.1-2
 play,1,1,molib001,01,CX,1/P
 play,2,0,paulr001,32,CFFBBBX,6!/L
 play,2,0,castj005,22,BBCCX,DGR/9/L
-com,"fan interference"
 play,2,0,gorzt001,02,CFFX,43/G.2-3
 play,2,0,iztuc001,00,X,S9/L+.3-H
 play,2,0,bautj002,32,BBFCB>F>X,4/P
@@ -10054,12 +10009,10 @@ play,4,0,menck001,02,SFX,9/F
 play,4,0,estrj001,22,B*BFSX,1/P
 play,4,1,winnr001,10,BX,53/G
 play,4,1,bondb001,20,BBX,HR/9/F
-com,"$Homer #761 for Bonds"
 play,4,1,klesr001,00,X,43/G
 play,4,1,molib001,10,BX,9/F
 play,5,0,dillj001,00,,NP
 sub,frank001,"Kevin Frandsen",1,2,4
-com,"Giants second baseman Ray Durham left the game due to an injured leg"
 play,5,0,dillj001,02,.CFC,K
 play,5,0,hardj003,10,BX,8/F
 play,5,0,capuc001,01,CX,43/G
@@ -11112,7 +11065,6 @@ play,6,1,winnr001,00,X,63!/G
 play,7,0,hills002,00,,NP
 sub,giesd001,"Dan Giese",1,9,1
 play,7,0,hills002,00,.X,8/F
-com,"Debut game for Dan Giese"
 play,7,0,welld001,02,FSC,K
 play,7,0,furcr001,22,BCFBX,8/F
 play,7,1,felip001,00,,NP
@@ -11759,12 +11711,10 @@ play,8,1,durhr001,10,BX,3/G
 play,9,0,clart002,00,,NP
 sub,three001,"Erick Threets",1,6,1
 play,9,0,clart002,30,.BBBB,W
-com,"Debut game for Erick Threets"
 play,9,0,younc004,32,CCBFFBFBB,W.1-2
 play,9,0,reynm001,00,X,63/G-.2-3;1-2
 play,9,0,snydc002,02,CFFX,3/P3F
 play,9,0,drews001,00,X,DGR/7/F.3-H;2-H
-com,"fan interference"
 play,9,0,ojeda001,32,BCBCBFX,53/G
 play,9,1,molib001,00,,NP
 sub,nippd001,"Dustin Nippert",0,2,1
@@ -11992,12 +11942,7 @@ start,frank001,"Kevin Frandsen",1,7,4
 start,vizqo001,"Omar Vizquel",1,8,6
 start,miscp001,"Patrick Misch",1,9,1
 play,1,0,hoppn001,00,X,2/BG
-com,"$Hopper beat out a bunt single but was called out for being"
-com,"out of the batter's box when he hit the pitch; he argued and went"
-com,"to the dugout"
 play,1,0,keppj001,11,CBX,S9/G
-com,"ej,hoppn001,P,davib902,Out of batter's box when he hit the ball"
-com,"Reds Norris Hopper ejected by HP umpire Bob Davidson"
 play,1,0,philb001,00,X,8/L
 play,1,0,encae001,11,BSX,64(1)/FO/G
 play,1,1,robed001,00,,NP
@@ -12431,7 +12376,6 @@ play,6,0,rossd001,00,.X,D8/F.2-H;1-H
 play,6,0,haraa001,01,SX,3/G
 play,6,1,davir003,00,,NP
 sub,coatb001,"Buck Coats",0,4,7
-com,"Reds left fielder Adam Dunn left the game due to an injured knee"
 play,6,1,davir003,10,.BX,S9/L-
 play,6,1,frank001,01,CX,S9/G.1-2
 play,6,1,lewif001,11,CBX,D7/F.2-H;1-3

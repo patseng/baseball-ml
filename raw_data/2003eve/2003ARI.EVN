@@ -112,9 +112,7 @@ play,8,0,coraa001,12,CCBFFX,13/G
 play,8,0,iztuc001,30,IIII,IW
 play,8,0,nomoh001,00,,NP
 sub,villo001,"Oscar Villarreal",1,9,1
-com,"Diamondbacks pitcher Bret Prinz left the game due to an injured groin"
 play,8,0,nomoh001,12,.CFB.C,K
-com,"Debut game for Oscar Villarreal"
 play,8,1,willm003,01,FX,S8/G
 play,8,1,overl001,12,SBSC,K
 play,8,1,moelc001,10,BX,8/L
@@ -124,7 +122,6 @@ play,8,1,mccrq001,02,.CCS,K
 play,9,0,robed001,00,,NP
 sub,rands001,"Stephen Randolph",1,9,1
 play,9,0,robed001,02,.CCX,S7/L
-com,"Debut game for Stephen Randolph"
 play,9,0,lodup001,12,1CBF1F1FS,K
 play,9,0,grees001,11,BCX,D7/L.1-3
 play,9,0,jordb001,30,IIII,IW
@@ -565,7 +562,6 @@ sub,myerm001,"Mike Myers",1,5,1
 play,7,0,clayr001,00,,NP
 sub,hammr001,"Robby Hammock",1,7,5
 play,7,0,clayr001,22,..BCCBX,43/G
-com,"Debut game for Robby Hammock"
 play,7,0,franw001,11,BFX,43/G
 play,7,0,sanca003,00,,NP
 sub,podss001,"Scott Podsednik",0,1,11
@@ -732,10 +728,6 @@ play,7,0,sanca003,10,11BX,FC1/SH/BG.1-2;B-1
 play,7,0,youne001,10,BX,E5/TH/SH/BG.2-3;1-2
 play,7,0,sexsr001,00,,NP
 sub,villo001,"Oscar Villarreal",1,9,1
-com,"ej,brenb001,M,dimum901,Call at 1B"
-com,"Diamondbacks Manager Bob Brenly argued that Eric Young was out"
-com,"even though Matt Williams' throw was wide at 1B; Brenly was"
-com,"ejected by 1B umpire Mike DiMuro"
 play,7,0,sexsr001,12,..BFFS,K
 play,7,0,jenkg001,00,,NP
 sub,myerm001,"Mike Myers",1,9,1
@@ -753,8 +745,6 @@ play,8,0,helmw001,00,,NP
 sub,delld001,"David Dellucci",1,3,7
 play,8,0,helmw001,00,,NP
 sub,mccrq001,"Quinton McCracken",1,4,9
-com,"ej,gonzl001,P,cousd901,Checked swing"
-com,"Diamondbacks Luis Gonzalez ejected by HP umpire Derryl Cousins"
 play,8,0,helmw001,32,...FBBBFFX,4/L
 play,8,0,peree002,12,CBSX,53/G
 play,8,0,clayr001,01,FX,S8/L
@@ -1188,10 +1178,6 @@ play,3,1,gonzl001,00,X,31/G.3-H(UR);2-3
 play,3,1,bautd001,12,CFBH,HP
 play,3,1,finls001,00,,NP
 sub,delld001,"David Dellucci",1,4,12
-com,"ej,bautd001,P,culbf901,Threatening pitcher with bat after HBP"
-com,"Diamondbacks Danny Bautista threatened pitcher Shawn Chacon"
-com,"with his bat after being HBP; Bautista ejected by HP umpire"
-com,"Fieldin Culbreth"
 play,3,1,finls001,00,..X,43/G
 play,4,0,richc001,00,,NP
 sub,delld001,"David Dellucci",1,4,9
@@ -1247,7 +1233,6 @@ play,8,1,delld001,00,,NP
 sub,kaplg001,"Gabe Kapler",0,9,7
 play,8,1,delld001,22,..C*BSBS,K
 play,8,1,finls001,20,BBX,3/P
-com,"Infield fly rule"
 play,8,1,willm003,00,,NP
 sub,speij001,"Justin Speier",0,8,1
 play,8,1,willm003,00,.X,63/G
@@ -2273,7 +2258,6 @@ play,5,1,webbb001,20,BBX,FC1/BG.2X3(15)
 play,5,1,counc001,22,CCBBX,S7/L.1-2
 play,5,1,spivj001,31,BCBBB,W.2-3;1-2
 play,5,1,gonzl001,31,BBBCX,5/P
-com,"Infield fly rule"
 play,5,1,bautd001,00,X,8/L
 play,6,0,jonec004,21,BBSX,43/G
 play,6,0,jonea002,32,BSSBBS,K
@@ -2422,8 +2406,6 @@ start,schic002,"Curt Schilling",1,9,1
 play,1,0,furcr001,00,X,S8/L
 play,1,0,gilem001,32,1FBBSBB,W.1-2
 play,1,0,jonec004,32,CBBBCFFFB,W.2-3;1-2
-com,"ej,brenb001,M,buckc901,Balls and strikes"
-com,"D-Backs Manager Bob Brenly ejected by HP umpire CB Bucknor"
 play,1,0,jonea002,22,.BS*BFS,K
 play,1,0,fickr001,11,BCX,52(3)/FO/G.2-3;1-2
 play,1,0,lopej001,10,*BX,6/P
@@ -2510,12 +2492,6 @@ play,7,1,villo001,00,,NP
 sub,delld001,"David Dellucci",1,6,11
 play,7,1,delld001,32,.TBBFBB,W
 play,7,1,barar001,12,F1BCX,S9/G.1-2
-com,"$Braves pitcher Kevin Gryboski was told by 1B umpire Tim"
-com,"McClelland that he could not wear a light grey bandage"
-com,"on his left wrist; Braves manager Bobby Cox got mad because"
-com,"it took the umpires three batters to make that decision;"
-com,"new pitcher Jung Bong was given all the time he needed to"
-com,"get ready"
 play,7,1,womat001,00,,NP
 sub,bongj001,"Jung Bong",0,9,1
 play,7,1,womat001,00,,NP
@@ -2604,8 +2580,6 @@ start,desse001,"Elmer Dessens",1,9,1
 play,1,0,furcr001,00,X,43/G
 play,1,0,gilem001,32,CFBBBB,W
 play,1,0,jonec004,10,BX,36(1)1/GDP
-com,"ej,cox-b103,M,randt901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Tony Randazzo"
 play,1,1,counc001,01,CX,43/G
 play,1,1,spivj001,32,FBBBFX,D7/L
 play,1,1,gonzl001,32,CBBCBB,W
@@ -2707,7 +2681,6 @@ sub,mccrq001,"Quinton McCracken",1,4,9
 play,10,0,jonec004,00,,NP
 sub,capuc001,"Chris Capuano",1,9,1
 play,10,0,jonec004,10,..BX,63/G
-com,"Debut game for Chris Capuano"
 play,10,0,jonea002,10,BX,8/F
 play,10,0,fickr001,01,CX,63/G
 play,10,1,gonzl001,00,,NP
@@ -2729,8 +2702,6 @@ play,11,0,castv001,32,1B1C1BLB.B,W
 play,11,0,blanh001,00,X,24/SH/BG.2-3;1-2
 play,11,0,franj002,30,IIII,IW
 play,11,0,furcr001,22,C*BFFBX,3/P3F/SF.3-H;2-H(E3/THH)(NR);1-3
-com,"$Mark Grace and Junior Spivey collided as Grace made the catch;"
-com,"Grace's throw bounced into the D-Backs dugout"
 play,11,0,gilem001,01,CX,S8/G.3-H(UR)
 play,11,0,jonec004,10,BX,7/L
 play,11,1,womat001,00,,NP
@@ -3262,7 +3233,6 @@ play,2,1,bautd001,32,CBBFB>F>F>X,63/G
 play,3,0,nunea001,22,BCBCX,43/G
 play,3,0,wellk001,22,CBFBX,D8/L
 play,3,0,loftk001,32,BCBSBX,S4/G.2-3
-com,"originally scored E4, changed later"
 play,3,0,wilsj002,12,BFFF1>B,SB2
 play,3,0,wilsj002,32,BFFF1>B.BS,K
 play,3,0,gileb002,30,IIII,IW
@@ -3662,8 +3632,6 @@ play,7,0,mahop001,00,,NP
 sub,mackr001,"Rob Mackowiak",0,9,11
 play,7,0,mackr001,00,.X,S9/L
 play,7,0,loftk001,12,CBCC,K
-com,"ej,loftk001,P,gibsg901,Called third strike"
-com,"Pirates Kenny Lofton ejected by HP umpire Greg Gibson"
 play,7,0,wilsj002,00,.X,64(1)3/GDP
 play,7,1,finls001,00,,NP
 sub,meadb001,"Brian Meadows",0,1,1
@@ -4006,7 +3974,6 @@ sub,servs001,"Scott Service",1,5,1
 play,9,0,santb001,00,,NP
 sub,delld001,"David Dellucci",1,9,8
 play,9,0,santb001,11,..BFX,S5/G.2-3
-com,"originaly scored E5"
 play,9,0,alfoe001,22,C*BSBX,5/L
 play,9,1,bautd001,00,,NP
 sub,worrt002,"Tim Worrell",0,9,1
@@ -4216,7 +4183,6 @@ play,1,1,willm003,20,BBX,3/P
 play,2,0,whitr001,02,CSS,K
 play,2,0,nadyx001,21,BFBX,63/G
 play,2,0,bay-j001,00,X,53/G
-com,"Debut game for Jason Bay"
 play,2,1,moelc001,21,BBFX,9/F
 play,2,1,webbb001,22,FBBSS,K
 play,2,1,womat001,02,CFX,5/L
@@ -4282,7 +4248,6 @@ play,8,1,willm003,00,,NP
 sub,hergm001,"Matt Herges",0,9,1
 play,8,1,willm003,00,.X,S9/L.1-2
 play,8,1,moelc001,22,BFSBX,3/P
-com,"Infield fly rule"
 play,8,1,koplm001,00,,NP
 sub,baerc001,"Carlos Baerga",1,9,11
 play,8,1,baerc001,10,.BX,8/F
@@ -4505,7 +4470,6 @@ play,3,0,lockk001,12,CSBX,46(1)3/GDP
 play,3,0,burrs001,12,CCBFC,K
 play,3,1,gracm001,00,,NP
 sub,mattg002,"Gary Matthews",0,7,8
-com,"Padres Jason Bay left with broken hand"
 play,3,1,gracm001,32,.BBBCFB,W
 play,3,1,baerc001,22,BSBCX,54(1)3/GDP
 play,3,1,bautd001,11,CBX,53/G
@@ -4707,9 +4671,6 @@ play,7,1,womat001,00,X,S5/BG.1-2
 play,7,1,spivj001,21,BBCH,HP.2-3;1-2
 play,7,1,gonzl001,00,,NP
 sub,orosj001,"Jesse Orosco",0,9,1
-com,"ej,bochb002,M,wintm901,Protesting HBP call"
-com,"Padres Manager Bruce Bochy ejected by HP umpire Mike Winters"
-com,"for arguing HBP"
 play,7,1,gonzl001,10,..BX,7/F
 play,7,1,delld001,10,*BH,HP.3-H;2-3;1-2
 play,7,1,bautd001,00,,NP
@@ -5290,8 +5251,6 @@ play,6,0,broub001,00,X,S7/L.2-3
 play,6,0,blakc001,12,CBCX,S8/L.3-H;1-2
 play,6,0,bardj001,12,SBFFS,K
 play,6,0,philb001,12,B+1SFX,S7/L.2-H;1-2
-com,"ej,wedge001,M,wendh902,Balls and strikes"
-com,"Indians Manager Eric Wedge ejected by HP umpire Hunter Wendelstedt"
 play,6,0,davij005,00,,NP
 sub,servs001,"Scott Service",1,9,1
 play,6,0,davij005,00,..X,54/SH/BG.2-3;1-2
@@ -5749,7 +5708,6 @@ play,4,1,finls001,01,CX,S9/L
 play,4,1,gonzl001,01,CX,46(1)3/GDP
 play,4,1,delld001,22,BFCFBS,K
 play,5,0,castj004,11,FBX,S4/G
-com,"Originally scored E4, changed on 8-06!"
 play,5,0,gravd001,00,>S,CS2(26)
 play,5,0,gravd001,12,>S.SBX,8/F
 play,5,0,larkb001,01,CX,S4/G
@@ -6049,7 +6007,6 @@ play,5,0,dunna001,11,CBH,HP
 play,5,0,olmer001,01,L1X,23/SH/BG.1-2
 play,5,0,grifk002,32,BSBBSB,W
 play,5,0,guilj001,00,X,43/G.2-3;1X2(5E4)
-com,"Why is there no assist for the 1Bman here?"
 play,5,0,boona001,02,CFS,K
 play,5,1,moelc001,10,BX,S7/L
 play,5,1,gooda001,00,,NP
@@ -6965,8 +6922,6 @@ play,1,0,mattg002,21,BBCX,43/G
 play,1,0,lorem001,11,CBX,D8/F
 play,1,0,whitr001,01,CH,HP
 play,1,0,buchb002,10,BX,C/E1/INT/G.2-3;1-2#
-com,"This is really 6E1 as pitcher ran into runner, but"
-com,"for now I can't capture the assist"
 play,1,0,burrs001,31,BBFBX,3/G.3-H(UR);2-3;1-2
 play,1,0,nadyx001,12,BSFC,K
 play,1,1,counc001,22,CBBCX,7/F
@@ -7199,7 +7154,6 @@ sub,gooda001,"Andrew Good",1,5,1
 play,8,0,lorem001,00,,NP
 sub,terrl001,"Luis Terrero",1,9,8
 play,8,0,lorem001,02,...CCX,S7/G
-com,"Debut game for Luis Terrero"
 play,8,0,orosj001,00,,NP
 sub,merll001,"Lou Merloni",0,3,11
 play,8,0,merll001,00,.X,S7/L.1-2
@@ -7341,11 +7295,6 @@ play,7,0,grism001,01,C11X,S7/L.1-2
 play,7,0,bondb001,30,BBBB,W.2-3;1-2
 play,7,0,cruzj004,00,,NP
 sub,villo001,"Oscar Villarreal",1,9,1
-com,"ej,brenb001,M,mcclt901,Balls and strikes"
-com,"ej,rodre801,C,mcclt901,Balls and strikes (from bench)"
-com,"D-Backs Coach Eddie Rodriguez and manager Bob Brenly ejected"
-com,"by HP ump Tim McClelland; Brenly threw baseball into stands"
-com,"after ejection and later called it a four-seamer"
 play,7,0,cruzj004,10,.BX,9/SF.3-H;2-3
 play,7,0,peren001,20,BBX,43/G
 play,7,1,moelc001,01,CX,D8/L
@@ -9421,8 +9370,6 @@ play,9,1,counc001,32,.BBCBCX,3/G
 play,9,1,cinta001,21,BBCX,D9/F
 play,9,1,mondr002,11,BSB,WP.2-3
 play,9,1,mondr002,22,BSB.SC,K
-com,"ej,mondr002,P,dimum901,Called third strike (threw bat)"
-com,"Diamondbacks Raul Mondesi ejected by HP umpire Mike DiMuro"
 play,9,1,gonzl001,31,.BBBCB,W
 play,9,1,hills002,02,CFC,K
 data,er,haraa001,0
@@ -9807,8 +9754,6 @@ play,5,1,katam001,21,CBBX,T8/F.3-H
 play,5,1,cinta001,00,X,S8/G.3-H
 play,5,1,gonzl001,12,BCFS,K
 play,6,0,womat001,22,CCBBFFX,E4/TH/G.B-2
-com,"Womack hit knee on head of Hillenbrand who was diving for"
-com,"wild throw.  Womack deep bruise, left for MRI"
 play,6,0,aloum001,00,,NP
 sub,martr003,"Ramon Martinez",0,2,12
 play,6,0,aloum001,00,,NP
@@ -9878,7 +9823,6 @@ sub,karre001,"Eric Karros",0,8,11
 play,9,0,karre001,01,.CX,S7/L
 play,9,0,milld002,31,BBBCX,54(1)/FO/G
 play,9,0,gland001,31,BBBCX,S5/G.1-2
-com,"originally scored E5, changed next day"
 play,9,0,martr003,32,CCBFBFFB>F>C,K
 data,er,estes001,6
 data,er,alfoa001,6
@@ -9995,11 +9939,6 @@ play,6,0,gonza001,32,1MBBFBX,S8/G.1-2
 play,6,0,sosas001,12,SSBFX,6/P/IF
 play,6,0,aloum001,02,SCX,54(1)/FO/G
 play,6,1,gonzl001,12,CFBS,K
-com,"ej,gonzl001,P,kellk901,Check swing"
-com,"$Luis Gonzalez objected to the check swing call by 3B umpire Bill"
-com,"Miller; Gonzalez gestured at Miller and was ejected by HP umpire"
-com,"Kevin Kelley; Gonzalez then started up the 3B line but was restrained"
-com,"by coaches and Kelley"
 play,6,1,mondr002,00,.X,S7/L
 play,6,1,spivj001,10,BX,S8/L.1-2
 play,6,1,finls001,31,BCBBX,43/G.2-3;1-2
@@ -10032,9 +9971,6 @@ play,8,1,spivj001,32,SBSBBS,K
 play,8,1,finls001,30,BBBB,W.2-3;1-2
 play,8,1,hills002,10,BX,36(1)/FO/G.3-H;2-3
 play,8,1,hammr001,22,SBFFFBS,K
-com,"ej,brenb001,M,kellj901,Check swing"
-com,"D-Backs manager Bob Brenly argued about the check swing cal"
-com,"by 1B umpire Jeff Kellogg; Brenly was ejected by Kellogg"
 play,9,0,ramia001,00,,NP
 sub,mantm001,"Matt Mantei",1,7,1
 play,9,0,ramia001,00,,NP
@@ -10806,8 +10742,6 @@ play,8,1,katam001,00,,NP
 sub,hammj001,"Jeffrey Hammonds",0,1,7
 play,8,1,katam001,00,,NP
 sub,cruzj004,"Jose Cruz",0,4,9
-com,"Bonds left with accelerated heart rate, hospitalized"
-com,"NEXT night for exhaustion"
 play,8,1,katam001,22,..BCFBS,K
 play,8,1,cinta001,02,CFFFC,K
 play,8,1,gonzl001,32,BBBCFX,8/F
@@ -11090,7 +11024,6 @@ play,9,0,bondb001,10,.BX,S8/L.3-H;2-H;1-2
 play,9,0,aurir001,00,,NP
 sub,valvj001,"Jose Valverde",1,8,1
 play,9,0,aurir001,12,.C*BTX,6/P
-com,"Infield Fly rule"
 play,9,0,alfoe001,00,B,SB3.1-2(PB)
 play,9,0,alfoe001,12,B.SSS,K
 play,9,0,cruzj004,30,IIII,IW
@@ -11315,7 +11248,6 @@ start,hammr001,"Robby Hammock",1,7,2
 start,katam001,"Matt Kata",1,8,6
 start,johnr005,"Randy Johnson",1,9,1
 play,1,0,iztuc001,01,FX,9/F9LF
-com,"Debut game for Edwin Jackson"
 play,1,0,lodup001,30,BBBB,W
 play,1,0,grees001,11,CBX,7/F
 play,1,0,belta001,22,BBSCX,4/P
@@ -11336,7 +11268,6 @@ play,3,0,iztuc001,01,CX,1E3/BG.B-2
 play,3,0,lodup001,10,BX,S8/G.2-H(UR);B-2(TH)
 play,3,0,grees001,00,X,S8/G.2-3
 play,3,0,belta001,00,1X,S1/G.3-3;1-2
-com,"Johnson looked at both runners, then threw late to 1st"
 play,3,0,coomr001,02,SFS,K
 play,3,0,cabrj002,00,X,S7/L.3-H;2-3;1-2
 play,3,0,kinkm001,12,BCFH,HP.3-H;2-3;1-2
@@ -11960,7 +11891,6 @@ play,5,0,bellm002,32,BBC1BFB,W.1-2
 play,5,0,stard001,00,,NP
 sub,sweem001,"Mark Sweeney",0,9,11
 play,5,0,sweem001,20,.BBX,4/P
-com,"Infield Fly rule"
 play,5,0,uribj002,00,X,3/P
 play,5,1,overl001,00,,NP
 sub,sancj001,"Jesus Sanchez",0,9,1

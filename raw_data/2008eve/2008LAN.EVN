@@ -59,12 +59,10 @@ play,2,0,rowaa001,10,*BX,S7/L.1-3
 play,2,0,castj005,12,*BFFX,54(1)3/GDP
 play,2,1,lonej001,22,BBCTX,3/P
 play,2,1,dewib001,11,BFX,S7/L
-com,"Debut game for Blake DeWitt"
 play,2,1,pennb002,00,1X,14/SH/BG.1-2
 play,2,1,furcr001,32,BCCBBX,S8/G.2-H
 play,2,1,ethia001,02,1FFFFX,43/G
 play,3,0,bocob001,32,BFBBFB,W
-com,"Debut game for Brian Bocock"
 play,3,0,zitob001,00,X,34/SH/BG.1-2
 play,3,0,robed001,12,CF*BX,9/F.2-3
 play,3,0,aurir001,31,BBF*BX,6/P
@@ -244,11 +242,6 @@ play,6,1,martr004,02,CFFX,2/P2F
 play,6,1,ethia001,12,FBSX,S7/G
 play,6,1,kentj001,02,FCS,K
 play,6,1,jonea002,31,BBBFB,W.1-2
-com,"ej,bowal001,C,monte901,Refusing to stay in the coaching box"
-com,"Dodgers 3B Coach Larry Bowa ejected by 3B umpire Ed Montague after being told"
-com,"to stay in the coaching box; the ejection occured with one strike on Loney;"
-com,"Mariano Duncan moved from coaching first to third and Mike Easler"
-com,"went to coach first"
 play,6,1,lonej001,31,C.*BB*BB,W.2-3;1-2
 play,6,1,pierj002,00,,NP
 sub,tascj001,"Jack Taschner",0,9,1
@@ -274,7 +267,6 @@ play,7,0,velee001,00,.X,S89/F.3-H;2-3;1-2
 play,7,0,aurir001,00,,NP
 sub,tronr001,"Ramon Troncoso",1,9,1
 play,7,0,aurir001,11,.BFX,46(1)3/GDP
-com,"Debut game for Ramon Troncoso"
 play,7,1,dewib001,00,,NP
 sub,hennb001,"Brad Hennessey",0,1,1
 play,7,1,dewib001,00,,NP
@@ -1528,7 +1520,6 @@ sub,cruzj005,"Juan Cruz",0,9,1
 play,5,1,hu--c001,32,.BFBFBX,S8/G.3-H;2-H(UR)
 play,5,1,lowed001,00,,NP
 sub,yound004,"Delwyn Young",1,9,11
-com,"Dodgers pitcher Derek Lowe left the game due to an injured elbow"
 play,5,1,yound004,02,.1SCFS,K
 play,6,0,younc004,00,,NP
 sub,parkc002,"Chan Ho Park",1,9,1
@@ -1726,9 +1717,6 @@ play,7,1,lonej001,10,BX,46(1)3/GDP
 play,8,0,hudso001,20,BBX,43/G
 play,8,0,jackc002,01,SX,S7/L
 play,8,0,reynm001,01,1CX,FC5.1X2(5E4);B-1
-com,"$Garciaparra threw to Kent, who pulled his foot off the bag as"
-com,"as he caught the ball; 2B umpire Fletcher ruled that Kent was"
-com,"off the bag when he caught the ball; Kent argued briefly"
 play,8,0,uptoj001,11,CB*B,WP.2-3;1-2
 play,8,0,uptoj001,22,CB*B.CX,7/SF/F.3-H(UR)
 play,8,0,montm001,00,,NP
@@ -1750,15 +1738,7 @@ play,9,0,penat003,00,,NP
 sub,burkc001,"Chris Burke",0,9,11
 play,9,0,burkc001,00,,NP
 sub,hu--c001,"Chin-Lung Hu",1,4,4
-com,"ej,kentj001,P,fleta901,Call at 2B; continued argument"
-com,"ej,torrj101,M,fleta901,Call at 2B; arguing Kent's ejection"
-com,"$Just as play was about to start in the 9th, Kent continued"
-com,"to argue the call from the previous inning with Fletcher, who"
-com,"ejected Kent; Kent then went to crew chief Reilly to continue"
-com,"the argument and manager Torre came out and was ejected by"
-com,"Fletcher"
 play,9,0,burkc001,12,.....CFBX,8/F
-com,"Debut game for Cory Wade"
 play,9,0,younc004,32,BCSBBFS,K
 play,9,0,drews001,02,CFH,HP
 play,9,0,hudso001,01,C*B,OA.1X2(26)
@@ -2086,15 +2066,6 @@ play,3,1,pennb002,01,SX,S8/G
 play,3,1,furcr001,00,X,46(1)3/GDP
 play,3,1,pierj002,22,BBCFX,63/G
 play,4,0,atkig001,22,BCCBX,9/F
-com,"umpchange,4,umphome,campa902"
-com,"umpchange,4,ump1b,rungb901"
-com,"umpchange,4,ump2b,(None)"
-com,"$First pitch to Atkins was missed by Martin and hit plate umpire"
-com,"Danley on right edge of mask; he fell immediately and lost"
-com,"consciousness briefly; there was an 18 minute delay as"
-com,"medical staff attended to him and an ambulance was brought"
-com,"onto the field to remove him to a hospital; he was released"
-com,"a few hours later"
 play,4,0,hawpb001,11,BFX,13/G
 play,4,0,tulot001,21,BCBX,8/F
 play,4,1,kempm001,22,SSBBX,9/F
@@ -2679,7 +2650,6 @@ play,3,0,casar001,00,>P,SB2
 play,3,0,casar001,20,>P.BX,43/G
 play,3,1,dewib001,00,,NP
 sub,chave002,"Endy Chavez",0,6,7
-com,"Mets center fielder Angel Pagan left the game due to an injured neck/shoulder"
 play,3,1,dewib001,11,.CBX,31/G
 play,3,1,hu--c001,31,BBBCX,D9/L
 play,3,1,pennb002,00,X,5/P5F
@@ -3582,7 +3552,6 @@ play,1,0,grifk002,11,CBX,S7/F
 play,1,0,philb001,00,X,5/P
 play,1,1,pierj002,00,,NP
 sub,janip001,"Paul Janish",0,2,6
-com,"$Shortstop Hairston left with dizziness from dehydration"
 play,1,1,pierj002,02,.CFX,S8/L
 play,1,1,ethia001,21,BBCX,64(1)/FO/G
 play,1,1,martr004,12,CBFFS,K
@@ -4017,7 +3986,6 @@ start,dewib001,"Blake DeWitt",1,7,5
 start,hu--c001,"Chin-Lung Hu",1,8,6
 start,kersc001,"Clayton Kershaw",1,9,1
 play,1,0,schus001,12,BCFFFFS,K
-com,"Debut game for Clayton Kershaw"
 play,1,0,bartb001,30,BBBB,W
 play,1,0,pujoa001,32,BBTCBFFX,D7/F.1-H
 play,1,0,ludwr001,32,CBFFFBFBS,K
@@ -4415,18 +4383,6 @@ sub,bucht001,"Taylor Buchholz",0,9,1
 play,8,1,mazal001,22,.CBFBS,K
 play,8,1,pierj002,32,BCBBCX,5/L
 play,8,1,kempm001,02,CFS,K
-com,"ej,torry001,P,wintm901,Wrestling with Matt Kemp"
-com,"ej,kempm001,P,wintm901,Wrestling with Yorvit Torrealba"
-com,"$Kemp struck out on a ball in the dirt which was not fielded"
-com,"by Torrealba; as Kemp moved out of the batter's box, Torrealba"
-com,"accidently bumped into Kemp while trying to pick up the ball;"
-com,"Kemp turned around and shoved Torrealba and they started"
-com,"wrestling as they fell to the ground; both benches emptied;"
-com,"Kemp and Torrealba were ejected by HP umpire Mike Winters."
-com,"Kemp was suspended for four games which was reduced to two"
-com,"on appeal; he served them on 6-12 and 6-13; Torrealba was"
-com,"suspended for three games which he served on 6-07, 6-08 and"
-com,"6-09. Both players were also fined"
 play,9,0,bucht001,00,,NP
 sub,pierj002,"Juan Pierre",1,1,8
 play,9,0,bucht001,00,,NP
@@ -4836,8 +4792,6 @@ play,5,0,blanh001,00,X,7/F
 play,5,1,pierj002,11,BFX,13/G
 play,5,1,yound004,12,FBFS,K
 play,5,1,kentj001,32,BCCBBC,K
-com,"ej,kentj001,P,fostm901,Called third strike"
-com,"Dodgers second baseman Jeff Kent ejected by HP umpire Marty Foster"
 play,6,0,galls001,00,,NP
 sub,mazal001,"Luis Maza",1,3,4
 play,6,0,galls001,00,,NP
@@ -5400,7 +5354,6 @@ play,2,1,martr004,32,CBBBSFFX,3/G
 play,2,1,yound004,31,BSBBX,43/G
 play,2,1,lonej001,22,FFBBX,3/G
 play,3,0,sabac001,10,BX,HR/9/F
-com,"$Homer was 440 feet"
 play,3,0,sizeg001,22,BSFBC,K
 play,3,0,carrj001,00,X,7/L
 play,3,0,franb001,32,CBBSBC,K
@@ -6059,11 +6012,7 @@ play,7,1,ardod001,00,,NP
 sub,thorm001,"Matt Thornton",0,9,1
 play,7,1,ardod001,00,,NP
 sub,mazal001,"Luis Maza",1,8,11
-com,"the White Sox objected to a check swing call by 1B umpire Lance Barksdale"
-com,"on the third pitch to Maza"
 play,7,1,mazal001,22,..C.FBBFX,S8/L
-com,"ej,coopd001,C,barkl901,Checked swing"
-com,"White Sox Pitching Coach Don Cooper ejected by 1B umpire Lance Barksdale"
 play,7,1,wadec001,00,,NP
 sub,ethia001,"Andre Ethier",1,9,11
 play,7,1,ethia001,02,.1FFX,7/F
@@ -7313,7 +7262,6 @@ play,2,0,nolar001,10,BX,34/SH/BG.1-2
 play,2,0,ramih003,32,CBBS*BX,63/G
 play,2,1,kempm001,00,,NP
 sub,ameza001,"Alfredo Amezaga",0,1,6
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured shoulder"
 play,2,1,kempm001,10,.BX,HR/89/F
 play,2,1,dewib001,11,BFX,6/P
 play,2,1,kuroh001,12,CFBFFX,9/L
@@ -7385,8 +7333,6 @@ play,9,0,rossc001,32,.BCBBSS,K
 play,9,0,bakej002,12,CCBS,K
 play,9,0,helmw001,00,,NP
 sub,falkb001,"Brian Falkenborg",1,9,1
-com,"Dodgers pitcher Takashi Saito left the game due to"
-com,"a strained elbow. Onto DL, expected to miss 6 weeks"
 play,9,0,helmw001,22,FBBF.X,53/G
 play,9,1,lonej001,00,X,8/F
 play,9,1,kempm001,01,CX,53/G
@@ -7931,7 +7877,6 @@ play,5,1,kentj001,01,FX,8/F
 play,5,1,lonej001,01,CX,7/F
 play,6,0,harrw001,00,,NP
 sub,berra001,"Angel Berroa",1,6,6
-com,"Dodgers shortstop Nomar Garciaparra left the game due to an injured knee"
 play,6,0,harrw001,01,.FX,7/F
 play,6,0,lopef001,00,X,63/G
 play,6,0,zimmr001,01,CX,9/F
@@ -8134,13 +8079,6 @@ play,8,1,lonej001,00,,NP
 sub,burre001,"Emmanuel Burriss",0,9,4
 play,8,1,lonej001,22,....BSCBFFS,K
 play,8,1,blakc001,12,SBFFS,K
-com,"ej,blakc001,P,gibsg901,Balls and strikes"
-com,"ej,torrj101,M,gibsg901,Arguing Blake's ejection"
-com,"$Dodgers third baseman Casey Blake called out when 1B umpire Greg Gibson"
-com,"ruled a half swing for strike three; Blake went to the dugout, threw his"
-com,"helmet and yelled at Gibson, who ejected him; Blake then ran out to 1B"
-com,"to continue the argument, Dodgers Manager Joe Torre followed and was also"
-com,"ejected by Gibson"
 play,8,1,ethia001,32,..BCBFBX,7/F
 play,9,0,burre001,00,,NP
 sub,ozunp001,"Pablo Ozuna",1,1,5
@@ -8276,7 +8214,6 @@ play,8,0,cainm001,00,,NP
 sub,robed001,"Dave Roberts",0,9,11
 play,8,0,robed001,12,.CCBFX,63/G
 play,8,0,lewif001,32,BCBSBX,6E3/G
-com,"originally E6, changed two days later"
 play,8,0,castj005,00,,NP
 sub,broxj001,"Jonathan Broxton",1,9,1
 play,8,0,castj005,12,.CBSS,K
@@ -8650,8 +8587,6 @@ play,5,0,drews001,22,BF*BFX,3/G
 play,5,1,lonej001,01,CX,S9/L
 play,5,1,jonea002,22,BBSCT,K
 play,5,1,berra001,22,FCBFFFFBFX,4/LDP.1X1(43)
-com,"ej,duncm001,C,cousd901,Call at 1B"
-com,"Dodgers First Base Coach Mariano Duncan ejected by 1B umpire Derryl Cousins"
 play,6,0,younc004,22,.CBCBX,53/G
 play,6,0,hudso001,22,BBTFFX,S8/G
 play,6,0,jackc002,21,*B1BTX,54(1)/FO/G
@@ -8946,14 +8881,6 @@ play,3,0,tracc001,01,CX,6/P
 play,3,0,reynm001,12,CBCC,K
 play,3,1,lonej001,31,BCBBB,W
 play,3,1,blakc001,12,CB1SFX,3/P/INT
-com,"$Blake hit high popup right in front of the plate. Catcher"
-com,"Snyder lost it in the sun but as first baseman Tracy came"
-com,"in to make the play, Blake bumped him and Tracy lost his"
-com,"glove. Tracy tried to barehand the ball and dropped it, but"
-com,"picked it up in time to get an apparent force at second."
-com,"Arizona manager Melvin argued that Blake should be out for"
-com,"interference. Umpires huddled and agreed, returning Loney"
-com,"to first and calling Blake out"
 play,3,1,berra001,12,FBSS,K
 play,3,1,johnj007,12,CBCS,K
 play,4,0,romea001,10,BX,43/G
@@ -10052,7 +9979,6 @@ play,6,0,camem001,12,C*BCS,K
 play,6,0,kendj001,00,X,13/G
 play,6,1,martr004,00,,NP
 sub,durhr001,"Ray Durham",0,1,4
-com,"Brewers second baseman Rickie Weeks left the game due to an injured hand/wrist"
 play,6,1,martr004,10,.BX,S8/G
 play,6,1,blakc001,00,X,8/F
 play,6,1,berra001,11,1CPX,D7/F.1-3
@@ -10624,7 +10550,6 @@ play,1,1,lonej001,11,1C>B.X,S7/G.3-H
 play,1,1,kempm001,12,CC*B>S,K
 play,2,0,hundn001,21,BCBX,8!/L
 play,2,0,antom001,11,CBX,S8/L
-com,"Debut game for Matt Antonelli"
 play,2,0,younc003,00,X,14/SH/BG.1-2
 play,2,0,gileb002,21,BCBX,7/F
 play,2,1,blakc001,00,X,S7/G
@@ -10914,7 +10839,6 @@ start,dewib001,"Blake DeWitt",1,7,4
 start,berra001,"Angel Berroa",1,8,6
 start,kuroh001,"Hiroki Kuroda",1,9,1
 play,1,0,gileb002,10,BX,13/G
-com,"Debut game for Wade LeBlanc"
 play,1,0,rodrl002,10,BX,3/L
 play,1,0,kouzk001,02,SFX,S9/L
 play,1,0,gonza003,10,BX,43/G
@@ -11421,7 +11345,6 @@ play,3,1,ethia001,22,CFBBT,K
 play,3,1,ramim002,12,CCBS,K
 play,3,1,lonej001,22,BFBCX,43/G
 play,4,0,reynm001,32,CCBBBX,S7/L.B-2(E7)
-com,"$Ramirez dropped the ball as he started to throw it into the infield"
 play,4,0,uptoj001,01,LX,13/G.2-3
 play,4,0,snydc002,32,FBBFFBX,D7/L.3-H
 play,4,0,schem001,00,X,43/G.2-3

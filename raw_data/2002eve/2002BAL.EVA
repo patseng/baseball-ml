@@ -964,7 +964,6 @@ play,9,1,batit001,22,BBCFFX,S7/7S
 play,9,1,moram002,00,,NP
 sub,garcl003,"Luis Garcia",1,6,12
 play,9,1,moram002,31,BBBCB,W.1-2
-com,"Debut game for Luis Garcia"
 play,9,1,gil-g001,00,,NP
 sub,mattg002,"Gary Matthews",1,8,11
 play,9,1,mattg002,01,CX,13/SH.2-3;1-2#
@@ -1135,7 +1134,6 @@ sub,escaf001,"Felix Escalona",0,9,6
 play,8,1,bordm001,00,,NP
 sub,morim001,"Mike Moriarty",1,9,11
 play,8,1,morim001,21,BBFX,13/G
-com,"Debut game for Mike Moriarty"
 play,8,1,singc001,12,CCBFC,K/C
 play,8,1,moram002,10,BX,S8
 play,8,1,segud001,10,BX,8/F8
@@ -1788,7 +1786,6 @@ play,1,1,conij001,11,FB1,POCS2(136)
 play,1,1,conij001,22,FB1FBX,S7
 play,1,1,batit001,12,BFFX,9/F9
 play,2,0,britj002,01,SX,63/G
-com,"Debut game for Juan Brito"
 play,2,0,feblc001,31,BBFBB,W
 play,2,0,knobc001,01,CX,54(1)3/GDP
 play,2,1,cordm001,12,CSBX,HR/7
@@ -2273,8 +2270,6 @@ play,5,1,hairj002,12,CLBFX,3/G.2-3;1-2
 play,5,1,moram002,02,CFX,S.3-3;2-2
 play,5,1,singc001,10,BX,T9.3-H;2-H;1-H
 play,5,1,conij001,00,X,9/DP.3XH(15)
-com,"$Singleton out on appeal for leaving too soon,"
-com,"erased run he had scored"
 play,6,0,frymt001,00,,NP
 sub,robew001,"Willis Roberts",1,0,1
 play,6,0,frymt001,32,BFCBBX,S7/7S
@@ -2708,7 +2703,6 @@ play,5,1,conij001,01,CX,E5/G
 play,5,1,gibbj002,31,BBFBB,W.1-2
 play,5,1,batit001,10,BX,6/P6
 play,6,0,grieb001,00,X,63/G
-com,"1:12 rain delay"
 play,6,0,vaugg001,21,SBB,NP
 sub,robew001,"Willis Roberts",1,0,1
 play,6,0,vaugg001,31,SBBBB,W
@@ -3960,9 +3954,6 @@ sub,franr001,"Ryan Franklin",0,0,1
 play,8,1,cordm001,20,BBX,3/G#
 play,8,1,fordb001,01,FX,D9
 play,8,1,bordm001,02,CFFC,K/C
-com,"ej,bordm001,P,danlk901,Called third strike"
-com,"ej,hargm001,M,danlk901,Balls and strikes; between innings"
-com,"Mike Bordick and Orioles Manager Mike Hargrove ejected by HP umpire Kerwin Danley"
 play,8,1,robeb003,02,CCFFC,K/C
 play,9,0,davib003,00,,NP
 sub,moram002,"Melvin Mora",1,9,6
@@ -4207,8 +4198,6 @@ play,6,0,belta001,11,BSX,9/F9
 play,6,1,moram002,00,X,4/P4
 play,6,1,robeb003,00,X,13/BG
 play,6,1,mattg002,00,X,63/G
-com,"ej,hargm001,M,guccc901,Call at 2B"
-com,"Orioles Manager Mike Hargrove ejected by 2B umpire Chris Guccione in 7th"
 play,7,0,grudm001,00,,NP
 sub,brocc001,"Chris Brock",1,0,1
 play,7,0,grudm001,02,FCX,D9
@@ -4334,7 +4323,6 @@ play,3,1,bordm001,11,BCB,BK.1-2
 play,3,1,bordm001,32,BCBBLFX,9/F9
 play,3,1,moram002,00,X,13/G
 play,3,1,robeb003,01,CX,FC6/G5S.2X3(654);B-1
-com,"Fordyce in rundown, tagged out at second"
 play,4,0,grudm001,02,CSX,43/G
 play,4,0,belta001,01,CX,53/G
 play,4,0,coraa001,12,CBCX,3/G#
@@ -4379,8 +4367,6 @@ play,9,1,bordm001,00,,NP
 sub,mattg002,"Gary Matthews",1,9,11
 play,9,1,mattg002,11,FBX,D/78
 play,9,1,moram002,00,B,SB3
-com,"Matthews picked off, but beat throw to third"
-com,"if out, play would have been 245"
 play,9,1,moram002,22,BSSFBS,K
 play,9,1,robeb003,32,BBBCSS,K
 play,9,1,singc001,02,FFX,7/F7
@@ -4714,7 +4700,6 @@ play,10,0,hubbt001,10,BX,63/G
 play,10,1,batit001,00,,NP
 sub,trujj001,"J.J. Trujillo",0,0,1
 play,10,1,batit001,22,BCSBX,HR/7
-com,"Debut game for J.J. Trujillo"
 data,er,pickk001,5
 data,er,myerr002,0
 data,er,reeds001,0
@@ -4819,8 +4804,6 @@ play,6,0,lankr001,02,FCC,K/C
 play,6,0,tramb001,32,BCBCBFB,W
 play,6,0,barkk001,01,CX,64(1)3/GDP
 play,6,1,moram002,12,BCCS,K
-com,"ej,moram002,P,iassd901,Balls and strikes"
-com,"Melvin Mora ejected by HP umpire Dan Iassogna"
 play,6,1,mattg002,02,CCX,8/F8D
 play,6,1,singc001,12,CCBFFS,K
 play,7,0,cruzd001,00,,NP
@@ -5200,7 +5183,6 @@ start,leonj002,"Jose Leon",1,7,3
 start,bordm001,"Mike Bordick",1,8,6
 start,fordb001,"Brook Fordyce",1,9,2
 start,erics001,"Scott Erickson",1,0,1
-com,"45 minute rain delay in the first inning"
 play,1,0,soria001,22,FSFBBX,S7/7S
 play,1,0,jeted001,00,B,SB2
 play,1,0,jeted001,12,BSSC,K/C
@@ -5225,7 +5207,6 @@ play,3,1,fordb001,00,X,D9.1-3
 play,3,1,moram002,31,BBBCX,S.3-H;2-2
 play,3,1,hairj002,11,CBX,7/F7D
 play,3,1,mattg002,00,B,SB2.2-H(E2/TH)(UR);1-3(WP)
-com,"originally scored as a double steal"
 play,3,1,mattg002,21,BSBX,6/L6
 play,4,0,giamj001,00,X,HR/8
 play,4,0,willb002,22,BSFBX,D9
@@ -5272,8 +5253,6 @@ play,8,0,posaj001,10,BB,SB2
 play,8,0,posaj001,22,BBCCFC,K/C
 play,8,0,spens001,22,SBSBS,K
 play,8,1,hairj002,22,BCCFBC,K/C
-com,"ej,hairj002,P,fostm901,Called third strike"
-com,"Jerry Hairston ejected by HP umpire Marty Foster"
 play,8,1,mattg002,02,SSS,K
 play,8,1,batit001,22,BBCFX,43/G
 play,9,0,johnn001,00,,NP
@@ -5401,7 +5380,6 @@ play,7,0,andem003,00,,NP
 sub,brocc001,"Chris Brock",1,0,1
 play,7,0,andem003,01,SX,43/G
 play,7,0,leder001,00,X,D8
-com,"originally scored E8.B-2, changed next day"
 play,7,0,rollj001,10,BX,43/G.2-3
 play,7,0,abreb001,11,BCX,8/F8D
 play,7,1,leonj002,12,CFBFFFFX,5/P5
@@ -5484,8 +5462,6 @@ play,1,0,rollj001,22,BCBCX,S
 play,1,0,abreb001,20,BBB,PB.1-2
 play,1,0,abreb001,31,BBBCB,W
 play,1,0,burrp001,12,CCFBFFFX,14(1)/FO/DP.2XH(32)
-com,"apparently late throw to 1st trying for DP, but"
-com,"then got greedy runner trying to score from 2nd"
 play,1,1,moram002,21,BBFX,HR/8
 play,1,1,robeb003,10,BX,S9/9S
 play,1,1,mattg002,11,CBX,S7/7S.1-2
@@ -6178,7 +6154,6 @@ play,8,1,moram002,32,CBCFBFBB,W
 play,8,1,lopel002,11,CBX,7/F7
 play,8,1,mattg002,32,CBSBBB,W.1-2
 play,8,1,batit001,22,SBCBX,FC6.2X3(6E5);1-2;B-1
-com,"$throw beat runner, Saenz couldn't find bag"
 play,8,1,cordm001,10,B,NP
 sub,bradc001,"Chadwick Bradford",0,0,1
 play,8,1,cordm001,10,BX,6(1)3/GDP
@@ -6554,7 +6529,6 @@ play,1,0,mclem001,10,BX,7/F7
 play,1,0,olerj001,31,BBBCX,S9.1-3
 play,1,0,sierr001,20,BBX,46(1)3/GDP
 play,1,1,clarh001,11,BSX,D/89
-com,"Debut game for Howie Clark"
 play,1,1,singc001,20,BBX,13/SH.2-3#
 play,1,1,mattg002,21,CBBX,63/G.3-H
 play,1,1,batit001,12,CBFC,K/C
@@ -6692,9 +6666,6 @@ play,2,0,clayr001,22,BBFFFFS,K
 play,2,1,clarh001,11,CBX,43/G
 play,2,1,gil-g001,32,BCFBFFFFBB,W
 play,2,1,hairj002,12,BCCX,E5/TH1.1-3;BX1(3)
-com,"ej,hairj002,P,westj901,Call at 1B"
-com,"Jerry Hairston tagged out after having turned twoards 2B;"
-com,"Hairston ejected by 1B umpire Joe West"
 play,2,1,moram002,12,FBFX,8/F8
 play,3,0,loftk001,00,,NP
 sub,lopel002,"Luis Lopez",1,9,4
@@ -7228,7 +7199,6 @@ play,3,0,huckk001,10,BX,9/FL
 play,3,0,stews002,12,CBSX,9/FL
 play,3,1,gil-g001,00,,NP
 sub,lawrj001,"Joe Lawrence",0,8,4
-com,"not clear why Berg left"
 play,3,1,gil-g001,12,SFBX,S9/9S
 play,3,1,hairj002,32,BCBBFFFS,K+CS2(24)/DP
 play,3,1,moram002,01,CX,53/G
@@ -7362,7 +7332,6 @@ play,2,1,gibbj002,01,CX,E4/G
 play,2,1,cordm001,11,BCX,64(1)3/GDP
 play,3,0,huckk001,00,X,63/G
 play,3,0,hudso001,21,BFBX,63/G
-com,"Debut game for Orlando Hudson"
 play,3,0,woodc001,31,BFBBX,8/F8
 play,3,1,singc001,12,CBFX,7/F7
 play,3,1,gil-g001,12,FBFS,K
@@ -9443,8 +9412,6 @@ play,6,0,delgc001,00,X,D7
 play,6,0,wellv001,32,BFBFBX,S7/7S.2-H;B-2(THH)
 play,6,0,phelj001,00,X,HR/78.2-H
 play,6,0,hudso001,10,BH,HP
-com,"ej,johnj007,P,spiep901,Intentional HBP"
-com,"Jason Johnson ejected by HP umpire Pat Spieler"
 play,6,0,huckk001,00,,NP
 sub,stepj001,"John Stephens",1,0,1
 play,6,0,huckk001,00,X,43/G.1-2
@@ -9553,9 +9520,6 @@ play,1,0,hollt001,11,BSX,4/P4
 play,1,0,younm003,22,CBCBX,53/G
 play,1,0,rodra001,02,CSH,HP
 play,1,0,palmr001,32,BFBCBC,K/C
-com,"ej,myeta001,P,hirsm901,Threw behind batter"
-com,"$Aaron Myette threw 2 pitches behind Melvin Mora and was"
-com,"ejected by HP umpire Mark Hirschbeck"
 play,1,1,moram002,20,BB,NP
 sub,vanpt001,"Todd Van Poppel",0,0,1
 play,1,1,moram002,30,BBBB,W
@@ -9641,7 +9605,6 @@ play,9,1,hairj002,12,CCBX,T9
 play,9,1,richc001,00,X,43/G.3-H
 play,9,1,batit001,32,BBCFFBX,53/G
 play,9,1,gibbj002,02,FFX,8/F8S
-com,"$Benoit pitched 7 innings for longest save ever"
 data,er,myeta001,0
 data,er,vanpt001,0
 data,er,benoj001,1
@@ -9694,7 +9657,6 @@ start,singc001,"Chris Singleton",1,7,8
 start,gil-g001,"Geronimo Gil",1,8,2
 start,bordm001,"Mike Bordick",1,9,6
 start,ponss001,"Sidney Ponson",1,0,1
-com,"$Myette started for second consecutive day after 2 pitch outing"
 play,1,0,hollt001,02,CFS,K
 play,1,0,younm003,32,BCBSFBFB,W
 play,1,0,rodra001,12,BCCX,64(1)3/GDP
@@ -9886,8 +9848,6 @@ play,2,1,matol001,02,SSS,K
 play,2,1,gil-g001,10,BX,64(1)3/GDP
 play,3,0,younm003,22,CCBBS,K
 play,3,0,rodra001,01,CX,HR/7
-com,"$A.Rodriguez' 50th homer of season; first SS and 5th person"
-com,"with consecutive 50 HR seasons"
 play,3,0,palmr001,22,BCBFS,K
 play,3,0,rodri001,21,BFBX,D/89D
 play,3,0,everc001,12,FCBX,S7/7S.2-H
@@ -9927,7 +9887,6 @@ play,5,1,moram002,22,SBBFX,53/G
 play,6,0,rodri001,00,,NP
 sub,rogee001,"Eddie Rogers",1,9,6
 play,6,0,rodri001,32,SBBBSS,K
-com,"Debut game for Eddie Rogers"
 play,6,0,everc001,00,X,S
 play,6,0,menck001,21,CBBX,64(1)/FO
 play,6,0,river002,02,CSFS,K
@@ -10084,7 +10043,6 @@ play,5,1,singc001,11,BCX,9/L9
 play,6,0,ecksd001,00,,NP
 sub,bechs001,"Steve Bechler",1,0,1
 play,6,0,ecksd001,01,CX,S
-com,"Debut game for Steve Bechler"
 play,6,0,erstd001,01,CX,9/F9
 play,6,0,spies001,10,BX,9/FL
 play,6,0,andeg001,02,FCX,3/G#
@@ -11034,7 +10992,6 @@ sub,casar001,"Raul Casanova",1,8,2
 play,9,0,phelj001,00,,NP
 sub,duboe001,"Eric DuBose",1,0,1
 play,9,0,phelj001,00,X,S7
-com,"Debut game for Eric DuBose"
 play,9,0,cruzj004,32,BFBCBS,K
 play,9,0,woodc001,00,X,46(1)3/GDP
 play,9,1,moram002,00,,NP

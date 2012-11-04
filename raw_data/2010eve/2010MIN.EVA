@@ -45,7 +45,6 @@ start,yound003,"Delmon Young",1,7,7
 start,hardj003,"J.J. Hardy",1,8,6
 start,puntn001,"Nick Punto",1,9,5
 start,pavac001,"Carl Pavano",1,0,1
-com,"$First game at Target Field, Minneapolis"
 play,1,0,scutm001,21,BBCX,S8/L
 play,1,0,pedrd001,00,C,CS2(14)
 play,1,0,pedrd001,01,C.X,D7/L
@@ -87,11 +86,6 @@ play,4,1,hudso001,10,B>C,SB2
 play,4,1,hudso001,21,B>C.BX,53/G-.2-3
 play,4,1,mauej001,22,BF*BFX,S6/G.3-H
 play,4,1,mornj001,12,FFBT,K
-com,"$Mike Cameron hit a fly ball down the LF line that went between the pole and the limestone"
-com,"facing of the stands; it was ruled a foul ball by 3B umpire Kerwin Danley; Red Sox manager"
-com,"Terry Francona asked about the ruling, so crew chief Tim Tschida looked at the replay and"
-com,"upheld the call; the gap between the pole and the wall is very narrow; first replay in the"
-com,"fifth inning of the first game in the park"
 play,5,0,camem001,12,SBFS,K
 play,5,0,hermj001,32,CBCBBC,K
 play,5,0,scutm001,22,CBBCX,8/F
@@ -407,9 +401,6 @@ play,6,1,hardj003,12,CBSX,E5/TH1/G
 badj,puntn001,R
 play,6,1,puntn001,02,FTX,S7/L.1-2
 play,6,1,spand001,21,TBBX,D9/L.2-H(UR);1-H(NR)(TH2)
-com,"$after the throw to the plate Red Sox catcher Victor Martinez threw to 2B"
-com,"attempting to put out Denard Span; Nick Punto, who had stopped at 3B, scored"
-com,"on the throw to 2B"
 play,6,1,hudso001,00,,NP
 sub,schos001,"Scott Schoeneweis",0,0,1
 play,6,1,hudso001,20,.BBX,9/F
@@ -985,9 +976,6 @@ play,3,1,kubej002,12,C*BFS,K
 play,3,1,yound003,01,FX,E6/FO/G.2-3;1-2
 play,3,1,hardj003,30,BBBB,W.3-H;2-3;1-2
 play,3,1,harrb001,01,CB,WP.3-H(UR);2-H(E1)(UR);1-3
-com,"$catcher Lou Marson retrieved the ball after the wild pitch and threw it in the dirt to pitcher"
-com,"Justin Masterson, who was covering the plate; Delmon Young rounded 3B and scored when the ball"
-com,"got away from Masterson"
 play,3,1,harrb001,11,CB.X,8/SF/F.3-H(UR)
 play,3,1,spand001,12,CBCFFFT,K
 play,4,0,choos001,22,FCBBS,K
@@ -999,8 +987,6 @@ play,4,1,mornj001,31,BBBCB,W
 play,4,1,cuddm001,02,SFFS,K
 play,5,0,branr001,12,SSBS,K
 play,5,0,keara001,01,SX,D7/F
-com,"$Kearns' fly hit the top of the wall and bounced back onto the field; the Indians asked"
-com,"about the call so crew chief Tim Tschida watched the replay and upheld the call"
 play,5,0,valbl001,20,BBX,6/P
 play,5,0,marsl001,12,FCBFFX,13/L
 play,5,1,kubej002,00,,NP
@@ -1545,12 +1531,10 @@ play,4,1,ramow001,10,BX,63/G
 play,4,1,puntn001,32,BCCBFFBFX,9/F
 play,5,0,lairg001,32,CBFBBX,53/G
 play,5,0,evera001,01,FX,DGR/7/L
-com,"fan interference"
 play,5,0,jacka001,10,BX,63/G.2-3
 play,5,0,damoj001,10,BX,8/F
 play,5,1,spand001,00,,NP
 sub,avila001,"Alex Avila",0,8,2
-com,"Tigers catcher Gerald Laird left the game due to an injured leg"
 play,5,1,spand001,00,.X,3/G
 play,5,1,hudso001,10,BX,63/G
 play,5,1,mornj001,12,BSFC,K
@@ -1589,9 +1573,6 @@ play,9,0,avila001,10,BX,D7/F
 play,9,0,evera001,00,,NP
 sub,santr002,"Ramon Santiago",0,9,11
 play,9,0,santr002,00,.X,S6/G.2XH(65)
-com,"$Twins shortstop J.J. Hardy made a diving stop in the hole and had"
-com,"no chance to get the batter; Alex Avila rounded 3B too far and Hardy"
-com,"threw to 3B Nick Punto to catch Avila"
 play,9,1,yound003,00,,NP
 sub,santr002,"Ramon Santiago",0,9,6
 play,9,1,yound003,12,.FBFX,63/G-
@@ -1681,7 +1662,6 @@ play,4,0,kelld001,10,1B1X,6/P
 play,4,0,avila001,21,FBBX,8/F
 play,4,1,yound003,00,,NP
 sub,rabur001,"Ryan Raburn",0,2,7
-com,"Tigers left fielder Johnny Damon left the game due to an injured leg"
 play,4,1,yound003,01,.CX,43/G
 play,4,1,ramow001,02,CSFS,K
 play,4,1,casia001,31,BBBCB,W
@@ -2229,10 +2209,6 @@ play,1,1,mauej001,21,BBC1X,46(1)/FO/G
 play,1,1,mornj001,32,BC*BSB>S,K
 play,2,0,tejam001,02,FCX,9/F
 play,2,0,wietm001,32,BCFFBFBB,W
-com,"$ball four to Matt Wieters rolled away from catcher Wilson Ramos;"
-com,"HP umpire Ted Barrett handed Ramos a new ball, although the other"
-com,"ball was still live; Ramos tried to give it back but Barrett"
-com,"called time to prevent a problem"
 play,2,0,scotl001,00,X,S7/F-.1-2
 play,2,0,jonea003,01,CX,64(1)3/GDP
 play,2,1,cuddm001,10,BX,7!/F
@@ -2655,7 +2631,6 @@ play,1,1,kubej002,20,BBX,S8/L.3-H;2-H;1-2
 play,1,1,yound003,00,N,BK.2-3;1-2
 play,1,1,yound003,00,N.X,S4/L-.3-H;2-3
 play,1,1,plout001,10,BX,S7/L.3-H;1-2
-com,"Debut game for Trevor Plouffe"
 play,1,1,puntn001,21,CB*BX,D9/L.2-H;1-3
 play,1,1,spand001,32,FBFBBX,FC3/G.3-H;2-3;B-1
 play,1,1,hudso001,00,,NP
@@ -2724,7 +2699,6 @@ play,7,1,plout001,02,FSS,K23
 play,8,0,kottg001,00,,NP
 sub,lucrj001,"Jonathan Lucroy",0,8,11
 play,8,0,lucrj001,11,.BCX,S7/L
-com,"Debut game for Jonathan Lucroy"
 play,8,0,escoa003,00,X,54(1)/FO/G
 play,8,0,inglj001,02,CFX,D9/F.1-3
 play,8,0,gomec002,01,FX,HR/7/F+.3-H;2-H
@@ -2839,7 +2813,6 @@ play,5,0,gomec002,01,SX,S8/F-.1-2
 play,5,0,braur002,22,FBCFBFC,K
 play,5,1,mauej001,00,,NP
 sub,geruj001,"Jody Gerut",0,7,7
-com,"Brewers second baseman Joe Inglett left the game due to an injured ankle"
 play,5,1,mauej001,11,.BCX,S34/G
 play,5,1,mornj001,12,SCB1X,6/P
 play,5,1,cuddm001,01,1FH,HP.1-2
@@ -2876,7 +2849,6 @@ play,7,1,yound003,01,.FX,54(1)/FO/G.3-H;2-3
 play,7,1,plout001,22,C*BBCS,K
 play,8,0,braur002,00,,NP
 sub,casia001,"Alexi Casilla",1,2,4
-com,"Twins second baseman Orlando Hudson left the game due to an injured elbow"
 play,8,0,braur002,01,.SX,3/P3F
 play,8,0,fielp001,30,BBBB,W
 play,8,0,mcgec001,32,S*BSB*BC,K
@@ -3065,10 +3037,8 @@ play,6,0,counc001,12,CFBFFFC,K
 play,6,1,buted001,00,,NP
 sub,bradz001,"Zach Braddock",0,0,1
 play,6,1,buted001,21,.BCBX,9/F9LF
-com,"Debut game for Zach Braddock"
 play,6,1,spand001,00,,NP
 sub,casia001,"Alexi Casilla",1,1,11
-com,"Twins center fielder Denard Span left the game due to an injured shoulder"
 play,6,1,casia001,21,.BBCX,7/L
 play,6,1,hudso001,32,BSSBFBX,D7/G
 play,6,1,mornj001,30,BBBB,W
@@ -3168,7 +3138,6 @@ start,yound003,"Delmon Young",1,7,7
 start,hardj003,"J.J. Hardy",1,8,6
 start,harrb001,"Brendan Harris",1,9,5
 start,bakes002,"Scott Baker",1,0,1
-com,"Suspend=20100526,,0,0,30"
 play,1,0,jeted001,11,FBX,43/G
 play,1,0,gardb001,11,CBX,S8/L
 play,1,0,teixm001,01,CX,6(1)3/GDP
@@ -3208,7 +3177,6 @@ play,5,1,harrb001,12,CBFC,K
 play,5,1,spand001,00,X,S1/BG
 play,5,1,hudso001,12,11F1P1C*B,SB2
 play,5,1,hudso001,22,11F1P1C*B.S,K
-com,"$After rain delay of 1:23, game suspended until next day"
 play,6,0,russk001,00,,NP
 sub,duenb001,"Brian Duensing",1,0,1
 play,6,0,russk001,02,.CFS,K
@@ -3610,9 +3578,6 @@ play,3,1,mornj001,31,*BBBCB,W.1-2
 play,3,1,thomj002,11,C*BX,3/G
 play,4,0,younm003,12,CBCX,63/G
 play,4,0,kinsi001,02,FFX,D9/L
-com,"$Ian Kinsler's fly down the LF line was just foul but called a"
-com,"home run; the Twins asked about the play so crew chief Brian"
-com,"Gorman watched the replay and overturned the call"
 play,4,0,guerv001,00,>B,SB3
 play,4,0,guerv001,11,>B.FX,S9/L.3-H
 play,4,0,hamij003,01,FX,6/P
@@ -3751,9 +3716,6 @@ play,3,0,borbj001,20,BBX,S14/G.3-H
 play,3,0,andre001,10,B1X,S5/BG.1-2
 play,3,0,younm003,01,S>C,SB3;SB2
 play,3,0,younm003,32,S>C.*BFFBFBX,9/FDP.3XH(92)
-com,"$Delmon Young hit the 1-1 pitch down the RF line; the ball hit on the top"
-com,"of the wall about 2 feet foul and was called foul; the Twins asked about"
-com,"the call so crew chief Brian Gorman looked at the replay and upheld the call"
 play,3,1,yound003,32,BFFFBFBX,53/G
 play,3,1,hardj003,11,BCX,S8/L
 play,3,1,harrb001,22,BBC1FS,K
@@ -3892,7 +3854,6 @@ play,2,1,hardj003,31,BFBB1B,W.1-2
 play,2,1,puntn001,32,LBBSB>X,S9/L.2-H;1-3
 play,2,1,spand001,00,,NP
 sub,harrm001,"Matt Harrison",0,0,1
-com,"Rangers pitcher Derek Holland left the game due to an injured shoulder"
 play,2,1,spand001,10,.BX,S8/G.3-H;1-2
 play,2,1,hudso001,10,BX,5(2)4(1)/GDP
 play,2,1,mauej001,10,1BX,46(1)/FO/G
@@ -4333,12 +4294,6 @@ play,3,1,puntn001,02,CTX,S8/G
 play,3,1,spand001,11,CB1X,D9/L.1-3
 play,3,1,tolbm001,12,CBFFS,K
 play,3,1,mauej001,32,BBBCFX,8/FDP.2X2(86)
-com,"$Denard Span ran from 2B towards 3B without tagging up; Nick Punto, who"
-com,"was part way to the plate, turned and yelled to Span to go back to 2B;"
-com,"Punto trotted towards the plate, thinking that his run would not count"
-com,"because the third out was going to be made at 2B; however, if he had"
-com,"crossed the plate before the out at 2B, his run would count; after the"
-com,"game, he admitted to not knowing the rule"
 play,4,0,maiem001,22,CBFBFS,K
 play,4,0,betew001,12,BSCS,K
 play,4,0,getzc001,31,BFBBB,W
@@ -4516,7 +4471,6 @@ play,6,1,puntn001,00,,NP
 sub,blang001,"Gregor Blanco",0,7,8
 play,6,1,puntn001,00,,NP
 sub,cabrm002,"Melky Cabrera",0,9,7
-com,"Braves second baseman Omar Infante left the game due to an injured foot"
 play,6,1,puntn001,12,..BCF.FX,63/G
 play,6,1,spand001,12,BFCFX,9/F
 play,6,1,plout001,01,CX,4/P
@@ -5177,17 +5131,9 @@ play,1,0,gonzc001,32,BCSBFBS,K
 play,1,0,heltt001,11,TBX,S7/L
 play,1,0,tulot001,11,FBX,T8/L.1-H
 play,1,0,spilr001,00,H,HP
-com,"$the pitch deflected off Ryan Spilborghs and hit HP umpire"
-com,"Jerry Crawford on the right foot; the Twins trainer checked"
-com,"him before the game resumed"
 play,1,0,olivm001,01,SX,S8/F-.3-H;1-2
 play,1,0,moram002,10,BX,S7/L.2-H;1X3(754)
 play,1,0,hawpb001,00,H,HP.1-2
-com,"$the pitch deflected off Brad Hawpe and hit HP umpire"
-com,"Jerry Crawford on the left shoulder; the Twins trainer"
-com,"checked Crawford again; Crawford took a few minutes to"
-com,"recover; Twins catcher Drew Butera talked with Crawford,"
-com,"who patted Butera on the back before they resumed"
 play,1,0,iannc001,31,SBB*BB,W.2-3;1-2
 play,1,0,barmc001,12,C*BSC,K
 play,1,1,spand001,11,CBX,63/G
@@ -5692,7 +5638,6 @@ play,6,1,thomj002,32,FFBF*B*B>S,K+CS2(26)/DP
 play,6,1,puntn001,11,BCX,8/F
 play,7,0,cabrm001,00,,NP
 sub,duenb001,"Brian Duensing",1,0,1
-com,"Twins pitcher Kevin Slowey left the game due to an injured ankle"
 play,7,0,cabrm001,02,.CSFX,43/G
 play,7,0,boesb001,02,CFX,3/P
 play,7,0,guilc001,11,CBX,13/G
@@ -5900,13 +5845,6 @@ sub,brigr001,"Reid Brignac",0,5,11
 play,10,0,brigr001,01,..SX,S9/L
 play,10,0,shopk001,11,11BL1H,HP.1-2
 play,10,0,aybaw001,01,CX,S7/L.2-H;1X3(7E5);B-2(TH3)
-com,"ej,gardr001,M,marqa901,Call at 3B on missed tag"
-com,"$Kelly Shoppach ran to 3B on the single to LF; Delmon Young's throw"
-com,"beat Shoppach by at least eight steps; Shoppach stopped running so"
-com,"Michael Cuddyer moved over and tagged Shoppach, or so he thought;"
-com,"Shoppach ran to 3B and said something to 3B umpire Alfonso Marquez"
-com,"about no tag; Marquez called Shoppach safe; Twins manager Ron"
-com,"Gardenhire argued the call and was ejected by Marquez"
 play,10,0,rodrs002,01,.SX,3/P3F
 play,10,0,bartj001,10,BX,9/F
 play,10,0,zobrb001,30,BBBB,W
@@ -6944,7 +6882,6 @@ play,6,0,pierj002,12,BLCFS,K
 play,6,0,vizqo001,10,BX,43/G
 play,6,1,yound003,00,,NP
 sub,jonea002,"Andruw Jones",0,5,9
-com,"White Sox right fielder Carlos Quentin left the game due to an injured hand"
 play,6,1,yound003,21,.CBBX,8/F
 play,6,1,valed001,01,CX,S7/L
 play,6,1,hardj003,11,BCX,8/F
@@ -7077,14 +7014,8 @@ play,4,0,branm003,31,*BBCBB,W.2-3;1-2
 play,4,0,nix-j001,11,FBX,7/F
 play,4,1,kubej002,00,,NP
 sub,duncs001,"Shelley Duncan",0,4,9
-com,"Indians left fielder Austin Kearns left the game due to an injured knee"
 play,4,1,kubej002,21,.BFBX,D9/L
 play,4,1,yound003,10,BX,S7/F.2-2
-com,"$Indians left fielder Trevor Crowe jumped at the wall attempting to catch"
-com,"Delmon Young's fly ball; it hit his glove and bounced off the wall then came"
-com,"back down where Crowe caught it and immediately threw to the infield; it was"
-com,"ruled no catch; the Twins asked if it was over the wall, so the umpires"
-com,"huddled and crew chief Dana DeMuth watched the replay and upheld the call"
 play,4,1,thomj002,32,BS*BSFFFBS,K
 play,4,1,valed001,30,BBBB,W.2-3;1-2
 play,4,1,hardj003,00,B,PB.3-H(UR);2-3;1-2
@@ -7454,7 +7385,6 @@ play,8,1,kubej002,12,CFBC,K
 play,9,0,lapom001,00,,NP
 sub,slama001,"Anthony Slama",1,0,1
 play,9,0,lapom001,01,.CX,S7/L
-com,"Debut game for Anthony Slama"
 play,9,0,duncs001,22,BCCFBFS,K
 play,9,0,crowt001,12,BCSS,K
 play,9,0,donaj002,22,BBCCX,53/G
@@ -7554,10 +7484,6 @@ play,5,1,hardj003,32,CBBBCX,S8/G
 play,5,1,spand001,00,X,S9/G.1-3
 play,5,1,casia001,31,BB11BC1,POCS2(1634)
 play,5,1,casia001,31,BB11BC1.X,HR/89/F.3-H
-com,"$Alexi Casilla's fly ball hit the top of the wall and caromed off the metal"
-com,"railing behind the flower bed; the ball bounced back onto the field and was"
-com,"ruled in play; Casilla stopped at third; the Twins asked about the call so crew"
-com,"chief Tom Hallion watched the replay and overturned the call to a home run"
 play,5,1,mauej001,30,BBBB,W
 play,5,1,yound003,22,CBFBFX,8/F
 play,6,0,branr001,01,TX,D9/L
@@ -7793,9 +7719,6 @@ play,1,1,yound003,12,CF1FB1X,8/F
 play,1,1,cuddm001,12,CFBX,9/F
 play,2,0,branr001,32,BBBCSS,K
 play,2,0,kotcc001,32,SBFBBC,K
-com,"$Josh Wilson golfed the ball down the left field line just foul; the"
-com,"Mariners asked about the call, so crew chief Tom Hallion watched the"
-com,"replay and upheld the call"
 play,2,0,wilsj003,12,SBCFFFS,K
 play,2,1,kubej002,22,BFFBS,K
 play,2,1,valed001,01,CX,D8/F
@@ -8551,7 +8474,6 @@ play,6,0,jonea002,22,.SFFBBX,6!3/G
 play,6,0,vizqo001,32,CFBBBFX,9/F
 play,6,0,beckg001,32,BCCBBS,K
 play,6,1,cuddm001,11,CBX,DGR/7
-com,"fan interference"
 play,6,1,thomj002,32,FBBBS*B,W
 play,6,1,yound003,10,BX,D7/L.2-H;1-3
 play,6,1,valed001,02,SCX,S6/G-.3-H;2-3
@@ -8969,7 +8891,6 @@ play,3,1,thomj002,32,CBBFFBFFB,W
 play,3,1,yound003,12,SBFFFFS,K
 play,4,0,abreb001,00,,NP
 sub,mansj001,"Jeff Manship",1,0,1
-com,"Twins pitcher Kevin Slowey left the game due to an injured arm"
 play,4,0,abreb001,11,.CBX,S9/G
 play,4,0,kendh001,11,1CBX,8/F
 play,4,0,calla001,00,X,S9/L.1-2
@@ -9000,7 +8921,6 @@ play,6,0,matsh001,00,.X,E8/F.1-H(UR)(NR);B-3
 play,6,0,aybae001,01,LX,S4/G-.3-H(UR)
 play,6,0,napom001,00,,NP
 sub,raucj001,"Jon Rauch",1,0,1
-com,"Twins pitcher Ron Mahay left the game due to an injured shoulder"
 play,6,0,napom001,02,.CSFF1>X,6/P
 play,6,1,valed001,02,CCX,53/G
 play,6,1,hardj003,12,CSBX,563/G
@@ -9163,7 +9083,6 @@ play,8,0,matsh001,22,CFBFBFFS,K
 play,8,1,mauej001,00,,NP
 sub,waldj001,"Jordan Walden",0,0,1
 play,8,1,mauej001,31,.BSBBB,W
-com,"Debut game for Jordan Walden"
 play,8,1,kubej002,32,BCCBB>X,S7/G.1-3
 play,8,1,cuddm001,02,CCS,K
 play,8,1,thomj002,02,FCS,K
@@ -9560,9 +9479,6 @@ play,2,0,kelld001,10,BX,HR/89/F
 play,2,0,avila001,02,CFC,K
 play,2,0,santr002,22,BBFSX,9/F
 play,2,0,jacka001,01,SX,T7/F78
-com,"$Austin Jackson's fly hit the top of the wall in left center and caromed"
-com,"back onto the field; left fielder Delmon Young played it as if it were a"
-com,"home run and there was no play at third on Jackson"
 play,2,0,rhymw001,22,FFBFFFBX,7/L
 play,2,1,cuddm001,11,BCX,S7/L
 play,2,1,yound003,00,X,S8/F.1-2
@@ -9573,7 +9489,6 @@ play,2,1,hardj003,22,BC*BCFX,36(1)/FO/G.2-3
 play,2,1,spand001,00,X,43/G
 play,3,0,damoj001,00,,NP
 sub,mansj001,"Jeff Manship",1,0,1
-com,"Twins pitcher Scott Baker left the game due to an injured elbow"
 play,3,0,damoj001,32,.CBBBCX,7/F
 play,3,0,cabrm001,12,BCCS,K
 play,3,0,boesb001,22,CBSBX,3/G
@@ -9600,7 +9515,6 @@ play,5,1,casia001,32,BBCLFBX,43/G
 play,5,1,mauej001,21,SBBX,S7/L
 play,5,1,cuddm001,10,BX,S7/G.1-2
 play,5,1,yound003,10,BX,FC1/G.2-H(NR)(UR);1X3(1E4)
-com,"second baseman dropped throw at second and runner continued to third"
 play,5,1,valed001,21,SBBX,9/SF/F.3-H(UR)
 play,5,1,moraj002,31,1BB1F1BX,S9/G+.1-2
 play,5,1,repkj001,11,BSX,S9/L.2-H(UR);1-3;B-2(THH)
@@ -9612,7 +9526,6 @@ play,6,1,spand001,00,,NP
 sub,wellc001,"Casper Wells",0,4,7
 play,6,1,spand001,00,,NP
 sub,kelld001,"Don Kelly",0,7,3
-com,"Tigers first baseman Miguel Cabrera left the game due to an injured shoulder"
 play,6,1,spand001,10,..BX,341/G+
 play,6,1,casia001,01,CX,9/F
 play,6,1,mauej001,22,CCBFBT,K
@@ -9621,11 +9534,6 @@ sub,raucj001,"Jon Rauch",1,0,1
 play,7,0,santr002,12,.BCFX,8/F
 play,7,0,jacka001,32,BFFBBB,W
 play,7,0,rhymw001,22,.C*BBCX,FC6.1X2(6E4);B-1
-com,"ej,gardr001,M,westj901,Call at 2B"
-com,"$Twins second baseman Alexi Casilla took the throw and appeared to be pulling the"
-com,"ball out of his glove when he dropped it; 2B umpire Joe West called Austin Jackson"
-com,"safe at second on the play; Twins Manager Ron Gardenhire vehemently argued the"
-com,"ruling and was ejected by West"
 play,7,0,damoj001,12,.BCFX,31/G-.2-3;1-2
 play,7,0,wellc001,01,CX,7/F
 play,7,1,cuddm001,00,,NP
@@ -9798,7 +9706,6 @@ start,repkj001,"Jason Repko",1,8,9
 start,hardj003,"J.J. Hardy",1,9,6
 start,fox-m001,"Matt Fox",1,0,1
 play,1,0,andre001,22,CBFBFX,63/G
-com,"Debut game for Matt Fox"
 play,1,0,younm003,22,BFCBX,63/G
 play,1,0,murpd005,00,X,8/F
 play,1,1,spand001,22,CBCBX,D7/G
@@ -9860,7 +9767,6 @@ play,7,1,thomj002,10,BX,4/L
 play,7,1,valed001,22,CBFBX,S7/G
 play,7,1,repkj001,00,,NP
 sub,tolbm001,"Matt Tolbert",1,7,12
-com,"Twins third baseman Danny Valencia left the game due to an injured leg"
 play,7,1,repkj001,32,BSF.B11B>F1>B,W.1-2
 play,7,1,hardj003,00,,NP
 sub,ogana001,"Alexi Ogando",0,0,1
@@ -9886,7 +9792,6 @@ play,8,0,cruzn002,00,,NP
 sub,cappm001,"Matt Capps",1,0,1
 play,8,0,cruzn002,00,,NP
 sub,guzmc001,"Cristian Guzman",0,4,12
-com,"Rangers designated hitter Josh Hamilton left the game due to an injured back"
 play,8,0,cruzn002,02,..FFS,K
 play,8,0,kinsi001,10,BX,54(1)/FO/G
 play,8,1,yound003,12,.BSSFS,K
@@ -9991,13 +9896,11 @@ play,4,0,hamij003,22,SFBBX,43/G
 play,4,0,guerv001,02,CTX,53/G
 play,4,1,buted001,00,,NP
 sub,guzmc001,"Cristian Guzman",0,1,6
-com,"Rangers shortstop Elvis Andrus left the game due to an injured leg"
 play,4,1,buted001,01,..FX,63/G
 play,4,1,spand001,00,X,S9/L
 play,4,1,hudso001,10,BX,64(1)/FO/G
 play,4,1,cuddm001,11,FBX,S7/L.1-2
 play,4,1,thomj002,32,C*BBSB>X,HR/78/F.2-H;1-H
-com,"$Jim Thome's 584th career homer to pass Mark McGwire for ninth place"
 play,4,1,yound003,00,,NP
 sub,nippd001,"Dustin Nippert",0,0,1
 play,4,1,yound003,32,.BSFBBB,W
@@ -10056,7 +9959,6 @@ play,8,1,yound003,12,FBSS,K
 play,9,0,kinsi001,00,,NP
 sub,delar002,"Rob Delaney",1,0,1
 play,9,0,kinsi001,12,.BCSX,HR/7/F
-com,"Debut game for Rob Delaney"
 play,9,0,morem001,30,BBBB,W
 play,9,0,franj004,22,BBCSX,S8/G.1-2
 play,9,0,teagt001,12,CSBX,64(1)/FO/G.2-3
@@ -10423,7 +10325,6 @@ play,3,0,avilm001,10,BX,53/G
 play,3,1,spand001,11,BCX,S34/G+
 play,3,1,hudso001,00,,NP
 sub,kaaik001,"Kila Ka'aihue",0,3,3
-com,"Royals first baseman Billy Butler left the game due to an injured hand"
 play,3,1,hudso001,00,.1*B,SB2
 play,3,1,hudso001,11,.1*B.FX,7/F
 play,3,1,mauej001,01,CX,13/G+.2-3
@@ -10466,7 +10367,6 @@ play,6,0,betew001,10,BX,5!3/G
 play,6,0,fielj001,21,BBCX,63/G
 play,6,1,cuddm001,00,X,7/F
 play,6,1,thomj002,32,FBSBBX,HR/9/F+
-com,"$Jim Thome's 586th homer to tie Frank Robinson for eighth place"
 play,6,1,yound003,01,FX,7/F
 play,6,1,hardj003,12,CCBX,7/F
 play,7,0,gorda001,12,CBSS,K
@@ -10480,7 +10380,6 @@ play,7,1,tolbm001,12,.CBFX,8/F
 play,7,1,spand001,00,,NP
 sub,reveb001,"Ben Revere",1,1,11
 play,7,1,reveb001,12,.CFBS,K
-com,"Debut game for Ben Revere"
 play,7,1,hudso001,22,CBFBFX,63/G
 play,8,0,avilm001,00,,NP
 sub,reveb001,"Ben Revere",1,1,8
@@ -10503,7 +10402,6 @@ sub,neshp001,"Pat Neshek",1,0,1
 play,9,0,gorda001,00,,NP
 sub,dysoj001,"Jarrod Dyson",0,6,11
 play,9,0,dysoj001,30,...BBBB,W
-com,"Debut game for Jarrod Dyson"
 play,9,0,penab002,00,,NP
 sub,may-l001,"Lucas May",0,7,11
 play,9,0,may-l001,01,.CX,8/F
@@ -10887,7 +10785,6 @@ play,6,0,crisc001,01,CX,S7/L
 play,6,0,bartd001,12,CB1CS,K
 play,6,0,ellim001,00,1,PO1(E1).1-2
 play,6,0,ellim001,00,1,OA.2X3(95)
-com,"DWS: last two plays really one, but must be split for now"
 play,6,0,ellim001,21,1.BSBX,4/P
 play,6,1,mauej001,32,BBBCCFB,W
 play,6,1,cuddm001,10,BX,S7/G.1-2
@@ -11021,11 +10918,6 @@ play,4,0,iwama001,32,CFBBBS,K
 play,4,0,cartc002,11,FBX,5/P
 play,4,1,yound003,30,BBBB,W
 play,4,1,thomj002,12,CFBX,8/FDP.1X1(84)
-com,"ej,gardr001,M,hirsj901,Call on fly ball"
-com,"$center fielder Rajai Davis caught and dropped the ball; the play was ruled no"
-com,"catch, so Delmon Young ran to second; 2B umpire John Hirschbeck then ruled that"
-com,"it was a catch; since the Athletics tagged Young, he was out as well; Twins Manager"
-com,"Ron Gardenhire argued the decision for a while and was ejected by Hirschbeck"
 play,4,1,valed001,01,.CX,9/F
 play,5,0,tolls001,00,X,53/G
 play,5,0,davir003,22,CBCFFBX,53/G
@@ -11061,7 +10953,6 @@ play,7,0,tolls001,00,,NP
 sub,neshp001,"Pat Neshek",1,0,1
 play,7,0,tolls001,00,,NP
 sub,pennc001,"Cliff Pennington",0,9,11
-com,"Twins catcher Joe Mauer left the game due to an injured knee"
 play,7,0,pennc001,12,...CFBS,K
 play,7,0,davir003,32,BBFBCB,W
 play,7,0,bartd001,21,11BCB1,POCS2(136)
@@ -11237,7 +11128,6 @@ play,7,0,cabra002,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
 play,7,0,cabra002,00,,NP
 sub,valbl001,"Luis Valbuena",0,2,11
-com,"Indians shortstop Asdrubal Cabrera left the game due to an injured hand"
 play,7,0,valbl001,32,...BBCFBFX,9/F
 play,7,0,choos001,31,BBBCB,W
 play,7,0,duncs001,01,FX,8/F
@@ -12120,7 +12010,6 @@ play,2,1,cuddm001,00,.X,6(1)3/GDP
 play,2,1,kubej002,32,BFBSBFX,9/L
 play,3,0,arenj001,00,,NP
 sub,repkj001,"Jason Repko",1,7,9
-com,"Twins Jason Kubel left the game due to an injured foot"
 play,3,0,arenj001,32,..CBFBBX,4/P
 play,3,0,hoffj002,00,X,53/G
 play,3,0,mccom001,12,CCBX,53/G

@@ -206,7 +206,6 @@ play,1,0,bradm001,02,S1FS,K
 play,1,1,davir003,00,X,7/F7LF
 play,1,1,bartd001,32,BCCBBC,K
 play,1,1,sweer001,21,BBCX,S5/L
-com,"originally scored E5, changed to single next day"
 play,1,1,kouzk001,11,B11FH,HP.1-2
 play,1,1,suzuk001,20,BBX,2/P2F
 play,2,0,lopej003,10,BX,53/G
@@ -280,7 +279,6 @@ play,9,0,kotcc001,00,X,4/L
 play,9,1,chave001,00,,NP
 sub,texek001,"Kanekoa Texeira",0,0,1
 play,9,1,chave001,10,.BX,8/F
-com,"Debut game for Kanekoa Texeira"
 play,9,1,ellim001,00,X,S7/L
 play,9,1,buckt001,00,X,D7/L-.1-3
 play,9,1,pennc001,30,BPPB,W
@@ -411,7 +409,6 @@ play,6,0,gutif001,32,CBFB.BX,S8/L.2-H
 play,6,0,johnr009,00,,NP
 sub,rosst001,"Tyson Ross",1,0,1
 play,6,0,johnr009,00,.>S,SB2
-com,"Debut game for Tyson Ross"
 play,6,0,johnr009,12,.>S.BFS,K
 play,6,1,buckt001,00,,NP
 sub,whits002,"Sean White",0,0,1
@@ -1155,7 +1152,6 @@ play,4,1,fox-j001,00,X,S7/G.3-H;1-2
 play,4,1,rosaa001,12,TBSS,K
 play,5,0,jonea003,00,,NP
 sub,chave001,"Eric Chavez",1,2,3
-com,"Athletics first baseman Daric Barton left the game due to an injured elbow"
 play,5,0,jonea003,32,.CBSBBX,9/F
 play,5,0,wiggt001,12,BFCX,E6/TH1/G
 play,5,0,markn001,22,BCBFX,S8/L.1-2
@@ -1315,20 +1311,13 @@ play,5,1,davir003,12,C1*BCS,K
 play,5,1,bartd001,12,CC1BFX,16(1)3/GDP
 play,6,0,swisn001,00,,NP
 sub,rosaa001,"Adam Rosales",1,7,4
-com,"Athletics second baseman Mark Ellis left the game due to an injured leg"
 play,6,0,swisn001,31,.BBBCX,8/F
 play,6,0,granc001,01,FX,S8/L-
 play,6,0,gardb001,11,BCX,6/P
 play,6,0,jeted001,12,1B11FFF.1FFX,9/F
 play,6,1,sweer001,02,CCT,K
-com,"$Kevin Kouzmanoff fouled the second pitch off the mask of HP umpire Ed Rapuano,"
-com,"the ball striking the chin area"
 play,6,1,kouzk001,02,SFX,S8/F-
 play,6,1,suzuk001,02,CFX,HR/7/F.1-H
-com,"umpchange,6,umphome,kulpr901"
-com,"umpchange,6,ump2b,(None)"
-com,"$HP umpire Ed Rapuano left the field and 2B umpire Ron Kulpa moved behind the"
-com,"plate after a 13-minute delay for Kulpa to put on his plate gear"
 play,6,1,chave001,00,,NP
 sub,logab001,"Boone Logan",0,0,1
 play,6,1,chave001,31,.BBCBX,63/G
@@ -1490,8 +1479,6 @@ play,8,0,teixm001,12,SS.BS,K
 play,8,0,rodra001,11,BCX,S5/G-
 play,8,0,canor001,01,CX,6(1)/FO/G
 play,8,1,chave001,00,X,S1/G+
-com,"$the first hit off Phil Hughes; the ball struck Hughes on the forearm and"
-com,"bounced away"
 play,8,1,kouzk001,12,BFF1S,K
 play,8,1,grosg002,32,B11FSF1FBF1B1B,W.1-2
 play,8,1,rosaa001,00,,NP
@@ -2155,14 +2142,6 @@ play,2,0,smoaj001,10,BX,53/G
 play,2,0,tream001,32,BBCBCX,7/F
 play,2,1,kouzk001,00,X,63/G
 play,2,1,chave001,12,CCFFBFX,E1/G
-com,"ej,washr001,M,westj901,Call at 1B changed"
-com,"$Rangers pitcher Rich Harden fielded the ball to the right of the mound and ran"
-com,"to 1B to make the putout; as he approached the bag, he looked over his shoulder"
-com,"and never touched the base, stepping to the foul side of the bag as he went by;"
-com,"Eric Chavez was called out by 1B umpire Paul Schrieber; Athletics manager Bob"
-com,"Geren came out to discuss the call; the umpires huddled and changed the call"
-com,"to safe; Rangers manager Ron Washington came out and argued with crew chief"
-com,"Joe West, who ejected Washington"
 play,2,1,rosaa001,22,.CSFBFB1C,K
 play,2,1,patte001,12,CBCS,K
 play,3,0,blana001,01,CX,13/G
@@ -2883,7 +2862,6 @@ start,patte001,"Eric Patterson",1,7,7
 start,powel001,"Landon Powell",1,8,2
 start,davir003,"Rajai Davis",1,9,8
 start,bradd002,"Dallas Braden",1,0,1
-com,"$Dallas Braden throws the 19th perfect game in history"
 play,1,0,bartj001,01,CX,5/L
 play,1,0,crawc002,12,BCFX,3/G
 play,1,0,zobrb001,02,CSX,8/F
@@ -3044,8 +3022,6 @@ play,3,1,pennc001,11,C*B.X,8/F
 play,4,0,lopej003,01,CX,13/G
 play,4,0,grifk002,00,X,8/F
 play,4,0,tuiam001,21,CBBX,HR/8/F
-com,"$Matt Tuiasosopo's fly ball to the warning track hit Rajai Davis' glove"
-com,"and caromed over the fence"
 play,4,0,kotcc001,01,SX,13/G
 play,4,1,bartd001,32,FBBFBX,S8/L
 play,4,1,suzuk001,01,C1X,9/F
@@ -3636,7 +3612,6 @@ play,3,0,rowaa001,11,*BFX,53/G
 play,3,0,sancf001,22,BFSBX,63/G
 play,3,1,rosaa001,00,,NP
 sub,rohlr001,"Ryan Rohlinger",0,6,6
-com,"Giants third baseman Juan Uribe left the game due to an injured leg"
 play,3,1,rosaa001,11,.CBX,S8/L
 play,3,1,pennc001,02,L1FX,D94/F.1-3
 play,3,1,davir003,01,FX,D9/F-.3-H;2-H
@@ -3925,13 +3900,6 @@ play,6,1,kouzk001,22,BCF1BFS,K
 play,7,0,huffa001,00,,NP
 sub,wuerm001,"Michael Wuertz",1,0,1
 play,7,0,huffa001,30,.BBBB,W
-com,"ej,gereb001,M,gibsg901,Foul tip call"
-com,"$Juan Uribe swung at the 1-2 slider and barely tipped it; Kurt"
-com,"Suzuki caught the pitch and HP umpire Brian Knight called Uribe"
-com,"out; Uribe protested that the ball hit the ground, so Knight"
-com,"checked with 1B umpire Greg Gibson, who agreed that the ball"
-com,"hit the ground and thus was not a strikeout; Athletics manager"
-com,"Bob Geren argued the call with Gibson, who ejected Geren"
 play,7,0,uribj002,12,CCB1F.B,WP.1-2
 play,7,0,uribj002,22,CCB1F.B.S,K
 play,7,0,rowaa001,21,*BFBX,5/L
@@ -4565,8 +4533,6 @@ play,5,1,bartd001,30,B*BBB,W
 play,5,1,suzuk001,12,SBCFX,7/F
 play,6,0,huntt001,32,CBCBBC,K
 play,6,0,matsh001,32,BCCBBX,S7/F
-com,"ej,skaaj801,C,coope901,Balls and strikes"
-com,"Athletics Batting Coach Jim Skaalen ejected by HP umpire Eric Cooper"
 play,6,0,napom001,22,BCFBT,K
 play,6,0,rivej001,00,X,64(1)/FO/G
 play,6,1,kouzk001,32,BBFBSFX,31/G
@@ -4577,8 +4543,6 @@ play,7,0,frank001,00,,NP
 sub,patte001,"Eric Patterson",1,1,8
 play,7,0,frank001,00,,NP
 sub,rodrh002,"Henry Rodriguez",1,0,1
-com,"Athletics center fielder Rajai Davis left the game due to a pulled hamstring"
-com,"suffered while running out his fifth inning triple"
 play,7,0,frank001,32,..BFFBBB,W
 play,7,0,wilsb002,11,C>BX,8/F
 play,7,0,aybae001,00,X,E6/G.1X3(65)
@@ -5425,11 +5389,6 @@ play,4,1,jackc002,00,X,S7/L
 play,4,1,suzuk001,32,FBCBBB,W.1-2
 play,4,1,kouzk001,10,BX,S7/L.2-3;1-2
 play,4,1,grosg002,22,FBBFX,42(3)5(2)/GDP.1-2
-com,"ej,gereb001,M,crawj901,Arguing for infield fly call on double"
-com,"$Brandon Phillips allowed the soft liner to bounce in front of him,"
-com,"picked up the ball and threw it home to start the double play; Athletics"
-com,"manager Bob Geren argued with 2B umpire Jerry Crawford that the play"
-com,"should have been and infield fly; Geren was ejected by Crawford"
 play,4,1,rosaa001,32,.BSBTB>C,K
 play,5,0,cairm001,31,BBBCX,S8/L
 play,5,0,vottj001,22,C*BBCS,K
@@ -5562,7 +5521,6 @@ play,2,0,crosb002,01,CX,8/F
 play,2,0,tabaj002,32,BCCFBBX,S9/L
 play,2,0,walkn001,00,1,PO1(E1).1-2
 play,2,0,walkn001,00,1,OA.2X3(35)
-com,"DWS: these two plays are really one, but must be separated for now"
 play,2,1,pennc001,10,BX,7/F
 play,2,1,davir003,02,CFX,53/G
 play,2,1,crisc001,02,CCX,D9/F
@@ -6160,9 +6118,6 @@ play,5,1,carsm001,00,X,S9/G.1-2
 play,5,1,davir003,10,BX,3/P3F
 play,5,1,crisc001,32,BBCFB>B,W.2-3;1-2
 play,5,1,bartd001,32,CBBBF>C,K
-com,"ej,bartd001,P,wintm901,Called third strike"
-com,"Athletics first baseman Daric Barton slammed his bat down after being"
-com,"called out on strikes; he was ejected by HP umpire Mike Winters"
 play,6,0,teixm001,00,,NP
 sub,pennc001,"Cliff Pennington",1,2,6
 play,6,0,teixm001,00,,NP
@@ -7145,25 +7100,13 @@ play,10,0,scutm001,11,BFX,9/F
 play,10,1,crisc001,00,,NP
 sub,patte001,"Eric Patterson",0,7,8
 play,10,1,crisc001,12,.BCCS,K
-com,"ej,crisc001,P,davib902,Balls and strikes"
-com,"$as Athletics center fielder Coco Crisp walked away from the plate, he"
-com,"was yelling at HP umpire Bob Davidson, who ejected Crisp; Crisp then went"
-com,"back to the plate to continue yelling and Davidson stood there and smiled"
-com,"at Crisp; Athletics manager Bob Geren came out and led Crisp away from"
-com,"the plate before talking with Davidson"
 play,10,1,bartd001,31,BB.SBX,S8/L
 play,10,1,suzuk001,00,N,BK.1-2
-com,"$HP umpire Bob Davidson called the balk and the Red Sox dugout erupted"
 play,10,1,suzuk001,30,N.IIII,IW
 play,10,1,custj001,00,,NP
 sub,richd002,"Dustin Richardson",0,0,1
 play,10,1,custj001,00,,NP
 sub,rosaa001,"Adam Rosales",1,4,11
-com,"ej,farrj001,C,davib902,Checked swing"
-com,"$the 2-2 pitch to Adam Rosales was a check swing that 1B umpire Angel Campos"
-com,"ruled as no swing; Red Sox pitching coach John Farrell and manager Terry"
-com,"Francona yelled at Campos about the call; HP umpire Bob Davidson ejected"
-com,"Farrell and Francona came out to vent some frustration after the balk call"
 play,10,1,rosaa001,32,..BFFBFB.S,K
 play,10,1,kouzk001,00,,NP
 sub,bowdm001,"Michael Bowden",0,0,1
@@ -7832,7 +7775,6 @@ start,davir003,"Rajai Davis",1,7,9
 start,watsm002,"Matt Watson",1,8,7
 start,pennc001,"Cliff Pennington",1,9,6
 start,cahit001,"Trevor Cahill",1,0,1
-com,"Debut for umpire John Tumpane"
 play,1,0,getzc001,32,CBFBBFX,63/G
 play,1,0,kendj001,01,CX,8/F
 play,1,0,butlb003,11,CBX,13/G
@@ -7863,8 +7805,6 @@ play,4,0,guilj001,00,X,64(1)/FO/G
 play,4,1,rosaa001,11,BSX,S8/G
 play,4,1,davir003,21,C1BB>X,S7/G.1-2
 play,4,1,watsm002,02,SCX,D7/L/R64.2-H;1-H(NR)
-com,"$Royals second baseman tagged Matt Watson and complained about the safe ruling;"
-com,"as Watson talked to 2B umpire John Tumpane, Rajai Davis scored from third"
 play,4,1,pennc001,00,X,13/SH/BG.2-3
 play,4,1,crisc001,32,BFBCB*B,W
 play,4,1,bartd001,12,CBF>B,SB2
@@ -7905,7 +7845,6 @@ play,8,0,betay001,11,CBX,64(1)3/GDP
 play,8,1,davir003,00,,NP
 sub,hollg001,"Greg Holland",0,0,1
 play,8,1,davir003,32,.BFFBFBFX,63/G
-com,"Debut game for Greg Holland"
 play,8,1,grosg002,32,CBBFBB,W
 play,8,1,pennc001,32,BBBCFF>X,S7/L.1-3
 play,8,1,crisc001,01,FX,S49/L.3-H;1-2
@@ -8027,19 +7966,6 @@ sub,blevj001,"Jerry Blevins",1,0,1
 play,7,0,maiem001,11,.CBX,D9/F
 play,7,0,betay001,10,BX,S7/L.2-3
 play,7,0,blang001,00,X,FC2/BG23.3XH(251);1-3(TH3);B-2
-com,"ej,gereb001,M,darlg901,Call at 3B"
-com,"$on a squeeze play, Mitch Maier was caught between third and home;"
-com,"pitcher Jerry Blevins tagged Maier after he stepped on the bag and"
-com,"then tagged Yuniesky Betancourt, who was also standing on the bag;"
-com,"3B umpire Bill Hohn correctly called the trailing runner Betancourt"
-com,"out; however Maier had stepped off the bag after he was tagged and"
-com,"before Betancourt was tagged; the umpires huddled for a few minutes"
-com,"and ruled that Meier was out because he abandoned his effort per rule"
-com,"7.08; Betancourt was safe because he was then the only runner on"
-com,"the bag when he was tagged; Athletics Manager Bob Geren argued the"
-com,"ruling, saying that Betancourt was out as the trail runner when he"
-com,"was tagged and the Meier was out for leaving the base; Geren was"
-com,"ejected by HP umpire Gary Darling"
 play,7,0,getzc001,01,.CX,6/P
 play,7,0,kendj001,00,,NP
 sub,wuerm001,"Michael Wuertz",1,0,1
@@ -8059,7 +7985,6 @@ play,8,1,watsm002,22,B*BSSX,8/F
 play,9,0,gorda001,00,,NP
 sub,bresc001,"Craig Breslow",1,0,1
 play,9,0,gorda001,22,.BBCCFX,E3/G.B-2
-com,"originally scored as double, changed next day, makes run unearned"
 play,9,0,maiem001,00,X,53/SH/BG.2-3
 play,9,0,betay001,30,BBBI,IW
 play,9,0,blang001,11,C*BX,64(1)/FO/G.3-H(UR)
@@ -8586,7 +8511,6 @@ play,5,1,crisc001,32,BBCBCB,W
 play,5,1,bartd001,00,1X,E6/FO/G.1-2
 play,5,1,suzuk001,00,,NP
 sub,powel001,"Landon Powell",1,2,12
-com,"Athletics first baseman Daric Barton left the game due to an injured shoulder"
 play,5,1,suzuk001,12,.CF*BX,43/G.2-3;1-2
 play,5,1,custj001,02,FFC,K
 play,6,0,andre001,00,,NP
@@ -10044,7 +9968,6 @@ play,5,1,bartd001,10,BX,7/F
 play,5,1,kouzk001,22,BFSBX,S7/L
 play,5,1,custj001,00,,NP
 sub,grosg002,"Gabe Gross",1,3,12
-com,"Athletics third baseman Kevin Kouzmanoff left the game due to an injured back"
 play,5,1,custj001,32,.1BFFB>+11*B>+1>B,W.1-2
 play,5,1,ellim001,32,CB*BC*B>B,W.2-3;1-2
 play,5,1,larij001,12,SBFS,K
@@ -11007,9 +10930,6 @@ sub,papej001,"Jonathan Papelbon",0,0,1
 play,9,1,pennc001,02,.CFC,K
 play,9,1,crisc001,32,FBBFBC,K
 play,9,1,bartd001,12,CBFC,K
-com,"ej,bartd001,P,wendh902,Called third strike to end game"
-com,"Athletics first baseman Daric Barton ejected by HP umpire Hunter Wendelstedt"
-com,"even though the game was over"
 data,er,beckj002,3
 data,er,atchs001,0
 data,er,papej001,0
@@ -11070,7 +10990,6 @@ play,1,0,ramia003,20,BBX,13/G
 play,1,0,riosa002,12,BCCS,K
 play,1,1,davir003,00,,NP
 sub,penat003,"Tony Pena",0,0,1
-com,"White Sox pitcher Gavin Floyd left the game due to an injured shoulder"
 play,1,1,davir003,22,CFBFBFF.X,8/F
 play,1,1,bartd001,22,CTBBX,D8/L
 play,1,1,ellim001,32,BCFBBFX,53/G

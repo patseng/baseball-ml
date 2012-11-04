@@ -591,7 +591,6 @@ play,5,0,furcr001,21,BBC1,PO1(13)
 play,5,0,furcr001,32,BBC1.BFB,W
 play,5,0,carrj001,31,BB1BCX,S8/L.1-2
 play,5,0,ethia001,10,B>S,SB3
-com,"$Dodgers SS Rafael Furcal broke his thumb sliding head first into 3B"play,5,0,ethia001,11,B>S.1X,S8/L.3-H;1-2
 play,5,0,ethia001,11,B>S.1X,S8/L.3-H;1-2
 play,5,0,kempm001,01,CX,S7/L.2-H;1-H(E7)(NR);BX3(765)
 play,5,0,uribj002,00,X,S8/L
@@ -1305,7 +1304,6 @@ start,sancj002,"Jonathan Sanchez",1,9,1
 play,1,0,pradm001,32,BCCBBFFB,W
 play,1,0,heywj001,22,11BCSBX,D9/L.1-3
 play,1,0,jonec004,12,*BSFX,DGR/7.3-H;2-H
-com,"$fan interference"
 play,1,0,uggld001,01,CX,63/G
 play,1,0,freef001,30,BBBX,7/F
 play,1,0,rossd001,22,C*BBFS,K
@@ -2598,7 +2596,6 @@ play,8,1,poseb001,00,,NP
 sub,suzuk001,"Kurt Suzuki",0,7,2
 play,8,1,poseb001,00,,NP
 sub,ziegb001,"Brad Ziegler",0,9,1
-com,"Athletics third baseman Kevin Kouzmanoff left the game due to an injured groin"
 play,8,1,poseb001,11,...CBX,S9/L
 play,8,1,burrp001,22,BFBSX,1/G.1-2
 play,8,1,rossc001,02,CCX,S7/L.2-H
@@ -3046,7 +3043,6 @@ play,4,1,schin001,22,BSBCFS,K
 play,4,1,fontm001,10,BX,43/G
 play,5,0,volsc001,00,,NP
 sub,burre001,"Emmanuel Burriss",1,7,6
-com,"Giants shortstop Mike Fontenot left the game due to an injured groin"
 play,5,0,volsc001,12,.CBSFX,43/G
 play,5,0,coghc001,32,CBBFBX,D8/L
 play,5,0,ramih003,00,>C,SB3
@@ -3112,7 +3108,6 @@ play,9,1,schin001,00,,NP
 sub,mujie001,"Edward Mujica",0,2,1
 play,9,1,schin001,00,,NP
 sub,bonie001,"Emilio Bonifacio",0,9,6
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured foot"
 play,9,1,schin001,12,..BCFX,S9/L
 play,9,1,burre001,10,BX,9/F
 play,9,1,tejam001,11,C.BX,D9/F.1-3
@@ -3160,8 +3155,6 @@ play,12,0,infao001,00,1>X,S9/G.1-3
 play,12,0,bonie001,22,FBBSX,9/SF/F.3-H;1-2
 play,12,0,coghc001,00,,NP
 sub,white004,"Eli Whiteside",1,4,2
-com,"$Scott Cousins ran into Giants catcher Buster Posey, who did not catch the ball; Posey"
-com,"left due to a broken bone in his left leg as well as torn ligaments"
 play,12,0,coghc001,21,.BSBX,6/L
 play,12,1,white004,00,,NP
 sub,badeb001,"Burke Badenhop",0,1,1
@@ -3804,12 +3797,8 @@ play,3,0,nix-l001,12,SF*BX,64(1)/FO/G.3-H;2-3
 play,3,0,morsm001,21,B*BSX,D9/L.3-H;1-H
 play,3,0,espid001,11,SBX,4/P
 play,3,1,torra001,32,BCCBBFX,9/F
-com,"$Miguel Tejada fouled off the third pitch; the ball glanced off the mask of catcher Ivan Rodriguez and"
-com,"struck HP umpire Gerry Davis on the right forearm, opening a deep cut"
 play,3,1,tejam001,22,BCFBX,7/F
 play,3,1,sancf001,10,BX,63/G
-com,"$HP umpire Gerry Davis was treated by the Giants trainer, causing a five-minute delay; his right forearm"
-com,"swelled up where the ball hit him"
 play,4,0,rodri001,32,FSBBFBX,53/G
 play,4,0,hairj002,32,FBSBBFB,W
 play,4,0,lannj001,00,X,54/SH/BG.1-2
@@ -3823,9 +3812,6 @@ play,5,0,wertj001,11,BFX,7/L
 play,5,0,nix-l001,00,>B,SB2
 play,5,0,nix-l001,11,>B.CX,3/G.2-3
 play,5,0,morsm001,00,X,9/F
-com,"umpchange,5,umphome,ticht901"
-com,"umpchange,5,ump2b,(None)"
-com,"$HP umpire Gerry Davis was removed from the game by the Giants trainer"
 play,5,1,white004,00,X,9/F
 play,5,1,linct001,00,,NP
 sub,burre001,"Emmanuel Burriss",1,9,11
@@ -4640,7 +4626,6 @@ play,5,1,burre001,00,X,36(1)/FO/G
 play,5,1,tejam001,12,BFCX,13/G-
 play,6,0,leakm001,12,BFCFFX,3/P-
 play,6,0,stubd001,01,SX,DGR/7
-com,"fan interference"
 play,6,0,philb001,22,*BCBCFFFFFX,9/F
 play,6,0,vottj001,02,CCF2X,S1/G.2-3
 play,6,0,brucj001,12,SBFX,63/G
@@ -4918,7 +4903,6 @@ play,1,0,yound003,00,X,S8/G.3-H;2-3
 play,1,0,valed001,01,CX,D7/L.3-H;1-3
 play,1,0,hughl001,01,CX,S7/L.3-H;2-H
 play,1,0,nisht001,10,BX,D8/L.1-3
-com,"$the eighth consecutive hit to start the game for the Twins to tie the major league record"
 play,1,0,pavac001,02,TFS,K
 play,1,0,reveb001,00,X,D7/F.3-H;2-H
 play,1,0,casia001,00,,NP
@@ -5110,10 +5094,6 @@ play,5,1,sandp001,10,BX,8/F
 play,5,1,huffa001,12,CBFS,K
 play,6,0,blacn001,12,CFBX,43/G
 play,6,0,reveb001,20,BBX,E6/G
-com,"$Alexi Casilla hit the third pitch down the LF line; Cody Ross ran to the stands"
-com,"and reached in to catch the ball; however, a fan with a glove caught the ball thus"
-com,"preventing Ross from making a routine catch; Ross fell into the seats, knocking"
-com,"down the fan"
 play,6,0,casia001,22,1CBF1>F*B1>X,43/G.1-2
 play,6,0,mauej001,02,CFX,63/G
 play,6,1,rossc001,02,CFFX,8/F
@@ -5565,7 +5545,6 @@ play,7,0,cabro001,01,SX,43/G
 play,7,0,hannj001,02,CCS,K
 play,7,0,keara001,22,BBCSX,63/G-
 play,7,1,schin001,00,X,D8/F.BX3(863)
-com,"$Nate Schierholtz tripped on his way to 3B on a sure triple"
 play,7,1,tejam001,12,CFBX,E4/TH1/G.B-1
 play,7,1,stewc001,32,PBBC>F>X,6/P
 play,7,1,cainm001,01,LX,E4/FO/G.1-2
@@ -5573,8 +5552,6 @@ play,7,1,torra001,00,,NP
 sub,sippt001,"Tony Sipp",0,9,1
 play,7,1,torra001,32,.BTC*BB>F>F>B,W.2-3;1-2
 play,7,1,burre001,01,SN,BK.3-H(UR);2-3;1-2
-com,"$pitcher Tony Sipp flinched while on the pitcher's plate; the balk was called by HP umpire Bob"
-com,"Davidson and scored the only run of the game"
 play,7,1,burre001,02,SN.FX,9/F
 play,8,0,sippt001,00,,NP
 sub,hafnt001,"Travis Hafner",0,9,11
@@ -5659,17 +5636,10 @@ play,1,0,santc002,01,CX,54(1)/FO/G
 play,1,1,torra001,02,CCX,43/G
 play,1,1,crawb001,01,CX,13/G
 play,1,1,sandp001,00,X,3/L
-com,"$Grady Sizemore bunted the second pitch foul; the ball struck the mask of"
-com,"HP umpire Hunter Wendelstedt, who remained in the game"
 play,2,0,sizeg001,22,CLBFFBX,D9/L-
 play,2,0,duncs001,12,FBSS,K
 play,2,0,marsl001,12,BCF>B,CS3(25)
 play,2,0,marsl001,22,BCF>B.X,43/G
-com,"umpchange,2,umphome,laynj901"
-com,"umpchange,2,ump2b,(None)"
-com,"$a Giants trainer talked with HP umpire Hunter Wendelstedt between innings and the"
-com,"latter left the game because of the ball which struck his mask; Jerry Layne moved"
-com,"from 2B to HP"
 play,2,1,huffa001,12,CSBS,K
 play,2,1,rossc001,11,BCX,S7/L
 play,2,1,schin001,01,CX,7/F
@@ -5715,7 +5685,6 @@ play,6,1,bumgm001,01,LX,14/SH/BG.1-2
 play,6,1,torra001,21,BSBX,3/G
 play,7,0,duncs001,00,,NP
 sub,tejam001,"Miguel Tejada",1,3,5
-com,"Giants third baseman Pablo Sandoval left the game due to an injured leg"
 play,7,0,duncs001,12,.CBSS,K
 play,7,0,marsl001,22,CSBFBX,S9/F-
 play,7,0,evera001,12,BFCC,K
@@ -5857,7 +5826,6 @@ play,6,1,huffa001,22,.BBCFX,43/G
 play,6,1,rossc001,32,BBBFS*B,W
 play,6,1,schin001,00,,NP
 sub,voger001,"Ryan Vogelsong",1,5,12
-com,"Giants right fielder Cody Ross left the game due to an injured leg"
 play,6,1,schin001,00,.1X,5/P5F
 play,7,0,bartj001,00,,NP
 sub,rowaa001,"Aaron Rowand",1,1,7
@@ -5898,10 +5866,6 @@ sub,tejam001,"Miguel Tejada",1,5,5
 play,9,0,venaw001,32,..BCFFBBX,HR/9/F
 play,9,0,bartj001,20,BBX,53/G
 play,9,0,headc001,02,CCS,K
-com,"ej,headc001,P,timmt901,Dropped bat at plate after strikeout"
-com,"$Padres third baseman Chase Headley dropped his bat at the plate after striking out;"
-com,"as he walked back to the dugout HP umpire Tim Timmons told him to pick up his bat;"
-com,"when Headley did not do so, Timmons ejected Headley"
 play,9,0,ludwr001,30,.BBBX,53/G
 play,9,1,tejam001,00,,NP
 sub,bellh001,"Heath Bell",0,3,1
@@ -6366,7 +6330,6 @@ play,4,0,bartj001,10,>B.X,S4/G.2-3
 play,4,0,headc001,21,1B+1BS1>B,CS2(24)
 play,4,0,headc001,00,,NP
 sub,burre001,"Emmanuel Burriss",1,7,4
-com,"Giants second baseman Bill Hall left the game due to an injured leg"
 play,4,0,headc001,31,1B+1BS1>B..X,4/P
 play,4,0,ludwr001,02,FFS,K
 play,4,1,burrp001,22,SFBBX,53/G
@@ -6955,7 +6918,6 @@ play,3,0,billc001,32,FBBSFBB,W
 play,3,0,furcr001,31,BBCBX,E6/FO/G.1-2
 play,3,0,milea001,00,,NP
 sub,crawb001,"Brandon Crawford",1,7,6
-com,"Giants shortstop Miguel Tejada left the game due to an injured side"
 play,3,0,milea001,02,.CFS,K
 play,3,1,voger001,01,CX,43/G
 play,3,1,torra001,22,BCSBS,K
@@ -7539,9 +7501,6 @@ play,3,1,rowaa001,12,CSBFS,K
 play,3,1,fontm001,12,CBCC,K
 play,4,0,braur002,00,X,HR/78/L
 play,4,0,fielp001,11,BCX,3/G-
-com,"ej,wotur001,C,holbs901,Balls and strikes"
-com,"Giants Bench Coach Ron Wotus ejected by HP umpire Sam Holbrook for arguing balls and strikes"
-com,"after the fourth pitch to Rickie Weeks"
 play,4,0,weekr001,32,CBFB.BX,D7/L
 play,4,0,mcgec001,12,CBCX,S7/L.2XH(72);B-2(THH)
 play,4,0,betay001,22,FSFB*BX,S6/G.2-3
@@ -8427,18 +8386,8 @@ play,6,0,worlv001,01,M2X,2/BP2F
 play,6,0,rollj001,00,B,WP.2-3;1-2
 play,6,0,rollj001,21,B.*BCX,S9/L.3-H;2-H
 play,6,0,polap001,00,*B,SB2
-com,"$the Giants were not happy that Jimmy Rollins stole a base with a six run lead"
 play,6,0,polap001,32,*B.F*B*BCX,S2/G-.2-3
 play,6,0,victs001,00,H,HP.1-2
-com,"ej,ramir003,P,muchm901,Intentional HBP"
-com,"ej,victs001,P,muchm901,Fight after intentional HBP"
-com,"ej,white004,P,muchm901,Fight after intentional HBP"
-com,"$Shane Victorino was hit on the back by the first pitch; he flipped his bat and started walking to"
-com,"the mound; catcher Eli Whiteside ran out and got in front of Victorino as did HP umpire Mike"
-com,"Muchlinski; the runner on 1B, Placido Polanco, ran in and was tackled by Whiteside and the scrum"
-com,"grew from there; Victorino wrestled with and eventually got away from Muchlinski and ran into the"
-com,"middle of the pile looking for pitcher Ramon Ramirez; Ramirez had been ejected immediately by"
-com,"Muchlinski; after the scrum was over, Victorino and Whiteside were also ejected by Muchlinski"
 play,6,0,utlec001,00,,NP
 sub,affej001,"Jeremy Affeldt",1,3,1
 play,6,0,utlec001,00,,NP
@@ -8604,7 +8553,6 @@ play,8,0,hamec001,02,FFS,K
 play,8,0,rollj001,00,X,4/P
 play,8,1,rossc001,00,,NP
 sub,martm003,"Michael Martinez",0,7,5
-com,"Phillies third baseman Placido Polanco left the game due to an injured hip"
 play,8,1,rossc001,22,.CBCBFX,9/F
 play,8,1,huffa001,12,CFBX,2/P2F
 play,8,1,white004,01,CX,S34/G+
@@ -8748,8 +8696,6 @@ sub,rowaa001,"Aaron Rowand",1,3,7
 play,8,0,victs001,00,,NP
 sub,schin001,"Nate Schierholtz",1,7,9
 play,8,0,victs001,02,..CCFFFX,6/P
-com,"$Chase Utley fouled off the 2-1 pitch and lost the grip on his bat; it flew towards the mound, bounced"
-com,"and struck Tim Lincecum on the right knee"
 play,8,0,utlec001,22,BCBFX,S9/L-
 play,8,0,howar001,20,BBX,8/F
 play,8,0,pench001,12,BCFX,E3/G.1-3
@@ -10117,7 +10063,6 @@ play,9,0,martj006,22,..CCBBC,K
 play,9,0,lee-c001,22,BCBCX,D9/F-
 play,9,0,downm001,00,,NP
 sub,altuj001,"Jose Altuve",0,4,12
-com,"Astros left fielder Carlos Lee left the game due to an injured ankle"
 play,9,0,downm001,02,.SFS,K
 play,9,0,bogub001,00,,NP
 sub,affej001,"Jeremy Affeldt",1,2,1
@@ -10151,13 +10096,6 @@ play,10,1,fontm001,20,.BBX,8/F
 play,10,1,torra001,21,BSBX,S8/L
 play,10,1,derom001,00,>C,SB2
 play,10,1,derom001,22,>C.BBFFX,S9/G.2-H;BX2(96)
-com,"ej,bochb002,M,belld901,Call at 2B"
-com,"$Mark DeRosa made a diving, head-first slide around SS Angel Sanchez but his"
-com,"hand came off the bag; as DeRosa tried to get his left hand back onto the bag,"
-com,"Sanchez tagged him; DeRosa was called out by 2B umpire Dan Bellino; DeRosa jumped"
-com,"up yelling at Bellino, who yelled back; as DeRosa walked off the field,"
-com,"Giants Manager Bruce Bochy walked out to talk with Bellino; the conversation"
-com,"started calmly but escalated and Bochy was ejected by Bellino"
 play,10,1,beltc001,01,.SX,S9/G
 play,10,1,sandp001,10,*B>B,SB2
 play,10,1,sandp001,30,*B>B.II,IW
@@ -10437,7 +10375,6 @@ play,7,0,soria001,12,..CBFX,9/F
 play,7,0,byrdm001,11,BSX,53/G-.2-3;1-2
 play,7,0,colvt001,30,IIII,IW
 play,7,0,sotog001,32,C*BBFB>X,DGR/7/L.3-H;2-H;1-3
-com,"fan interference"
 play,7,0,garzm001,02,SSFFS,K
 play,7,1,fontm001,22,CBBFFS,K
 play,7,1,stewc001,00,,NP
@@ -10563,7 +10500,6 @@ play,4,1,fontm001,01,FX,9/L
 play,5,0,byrdm001,00,X,S8/L
 play,5,0,sotog001,01,CX,7/F
 play,5,0,barnd001,32,CBFBFFB1>F>S,K/DP.1X1(2)
-com,"$Darwin Barney called for batter interference"
 play,5,1,stewc001,00,X,S5/BG
 play,5,1,bumgm001,01,1L1X,24/SH/BG.1-2
 play,5,1,torra001,00,X,13/BG.2-3
@@ -10705,7 +10641,6 @@ play,5,0,uptoj001,22,BFBFX,D9/L
 play,5,0,montm001,22,FSB*BX,3/G+.2-3
 play,5,0,goldp001,11,BCX,8/F
 play,5,1,cainm001,22,BFBFX,E6/TH
-com,"originally scored as single, changed to E6 next day"
 play,5,1,rossc001,12,CBCFX,D8/F.1-3
 play,5,1,keppj001,20,BBX,53/L
 play,5,1,beltc001,10,BX,S7/L.3-H(UR);2-3
@@ -10743,7 +10678,6 @@ play,7,1,sandp001,12,.CBS.FS,K
 play,7,1,torra001,30,BBBB,W
 play,7,1,huffa001,21,BCBX,13/G
 play,8,0,uptoj001,21,CBBX,7!/F
-com,"Giants LF Cody Ross dove and slid into foul territory as he caught the sinking liner"
 play,8,0,montm001,00,X,8/F
 play,8,0,goldp001,32,BBCBFFX,63/G
 play,8,1,cabro001,00,,NP
@@ -10846,7 +10780,6 @@ play,4,0,montm001,00,,NP
 sub,rossc001,"Cody Ross",1,1,7
 play,4,0,montm001,00,,NP
 sub,torra001,"Andres Torres",1,5,8
-com,"Giants left fielder Pat Burrell left the game due to an injured foot"
 play,4,0,montm001,00,..X,7/F
 play,4,0,goldp001,20,BBX,HR/8/F
 play,4,0,younc004,22,BBCSX,D7/G
@@ -10997,8 +10930,6 @@ play,3,1,keppj001,01,SX,43/G
 play,3,1,beltc001,32,CBFBBX,3/G
 play,4,0,hilla001,00,X,S7/L
 play,4,0,uptoj001,22,BCC*BF1F1C,K
-com,"ej,uptoj001,P,knigb901,Called third strike"
-com,"D-backs right fielder Justin Upton ejected by HP umpire Brian Knight"
 play,4,0,montm001,02,.1FC>S,K+CS2(26)/DP
 play,4,1,sandp001,00,,NP
 sub,cowgc001,"Collin Cowgill",0,3,7
@@ -11451,8 +11382,6 @@ play,2,0,mitcr001,30,IIII,IW
 play,2,0,kuroh001,12,BCMFX,52(3)/FO/G.2-3;1-2
 play,2,0,gordd002,01,FX,13/G-
 play,2,1,huffa001,11,BCX,D8/F
-com,"$Aubrey Huff's fly hit the top of the CF wall; the ball was ruled in play"
-com,"but crew chief John Hirschbeck watched the replay and upheld the call"
 play,2,1,beltb001,32,FSBBF*BB,W
 play,2,1,crawb001,11,2BFX,7/F
 play,2,1,white004,21,BSBX,S7/G.2-H;1-2
@@ -11983,7 +11912,6 @@ play,1,0,darnj001,22,BCF*BX,13/G
 play,1,1,rossc001,22,BSSFBC,K
 play,1,1,keppj001,20,BBX,53/G
 play,1,1,beltc001,01,CX,HR/9/F
-com,"$Carlos Beltran's 300th career homer; it landed in McCovey Cove"
 play,1,1,sandp001,12,CBFS,K
 play,2,0,rizza001,02,CSX,9/L
 play,2,0,martl002,00,X,53/G
@@ -12204,7 +12132,6 @@ play,8,1,fontm001,00,,NP
 sub,romej001,"J.C. Romero",0,9,1
 play,8,1,fontm001,32,.FBFBBB,W
 play,8,1,beltc001,31,BBF1*B1B,W.1-2
-com,"$Pedro Sandoval hit left-handed due to a sore left shoulder"
 badj,sandp001,L
 play,8,1,sandp001,00,X,53/SH/BG.2-3;1-2
 play,8,1,pillb001,00,,NP

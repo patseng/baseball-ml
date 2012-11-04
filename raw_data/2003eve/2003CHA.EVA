@@ -305,7 +305,6 @@ start,rowaa001,"Aaron Rowand",1,8,8
 start,olivm001,"Miguel Olivo",1,9,2
 start,stewj001,"Josh Stewart",1,0,1
 play,1,0,higgb001,32,CC*BBBX,43/G
-com,"Debut game for Josh Stewart"
 play,1,0,halts001,00,X,9/F
 play,1,0,yound001,21,BC*BX,43/G
 play,1,1,jimed001,32,CCBBBFX,43/G
@@ -550,11 +549,6 @@ play,8,1,thomf001,10,.BX,HR/7/L
 play,8,1,ordom001,02,CSS,K
 play,8,1,konep001,10,BX,63/G
 play,8,1,lee-c001,11,BFX,9/F9LF
-com,"$a fan jumped out of the stands and grabbed 1B umpire Laz Diaz around the waist"
-com,"as Diaz turned to watch Carlos Lee's fly down the RF line; Diaz turned and got"
-com,"the man off him; the fan was pinned down by players and security personnel and"
-com,"arrested by the Chicago Police; three times earlier in the game, rowdy fans had"
-com,"run on the field and been taken away by security"
 play,9,0,tuckm001,00,,NP
 sub,rowaa001,"Aaron Rowand",1,6,8
 play,9,0,tuckm001,00,,NP
@@ -783,7 +777,6 @@ start,credj001,"Joe Crede",1,7,5
 start,rowaa001,"Aaron Rowand",1,8,8
 start,olivm001,"Miguel Olivo (Pena)",1,9,2
 start,loaie001,"Esteban Loaiza",1,0,1
-com,"10 minute delay sometime in game"
 play,1,0,tuckm001,32,BBBCFFFFFC,K
 play,1,0,relad001,01,CX,4/P
 play,1,0,sweem002,32,BCBBFB,W
@@ -1692,15 +1685,6 @@ play,6,0,lecrm001,00,,NP
 sub,gordt001,"Tom Gordon",1,0,1
 play,6,0,lecrm001,00,,NP
 sub,rowaa001,"Aaron Rowand",1,7,8
-com,"ej,garlj001,P,froeb901,Intentional HBP"
-com,"ej,riosa001,P,froeb901,Verbal exchange with LaTroy Hawkins"
-com,"ej,hawkl001,P,froeb901,Verbal exchange with Armando Rios"
-com,"$both benches cleared after Jon Garland hit Doug Mientkiewicz"
-com,"with a pitch; Magglio Ordonez had been hit in the previous"
-com,"inning; Ordonez had been hit in the previous game;"
-com,"Garland was ejected by HP umpire Bruce Froemming"
-com,"White Sox Armando Rios and Twins Latroy Hawkins were ejected"
-com,"by Froemming for a heated verbal exchange"
 play,6,0,lecrm001,32,....BC*BBF>X,S8/G.1-3
 play,6,0,piera001,12,FBSX,53/G
 play,6,1,credj001,00,.X,63/G
@@ -1791,8 +1775,6 @@ start,olivm001,"Miguel Olivo (Pena)",1,9,2
 start,loaie001,"Esteban Loaiza",1,0,1
 play,1,0,jonej003,02,CMS,K
 play,1,0,guzmc001,01,CX,S1/G
-com,"ej,manuj101,M,eddid901,Call at 1B"
-com,"White Sox Manager Jerry Manuel ejected by 1B umpire Doug Eddings"
 play,1,0,kielb001,22,.BFSB11S,K
 play,1,0,koskc001,11,BCX,S9/G.1-2
 play,1,0,huntt001,12,FCBC,K
@@ -1907,7 +1889,6 @@ start,credj001,"Joe Crede",1,7,5
 start,rowaa001,"Aaron Rowand",1,8,8
 start,aloms001,"Sandy Alomar",1,9,2
 start,colob001,"Bartolo Colon",1,0,1
-com,"1:25 delay during game"
 play,1,0,ellim001,32,BBCCBB,W
 play,1,0,hatts001,32,C1111BB1FB>X,9/F
 play,1,0,tejam001,02,CSC,K
@@ -2043,7 +2024,6 @@ start,credj001,"Joe Crede",1,7,5
 start,rowaa001,"Aaron Rowand",1,8,8
 start,aloms001,"Sandy Alomar",1,9,2
 start,buehm001,"Mark Buehrle",1,0,1
-com,"45 minute delay during game"
 play,1,0,ellim001,21,CBBX,9/F
 play,1,0,hatts001,22,CCBBX,4/P
 play,1,0,tejam001,22,BCBFFS,K
@@ -2186,7 +2166,6 @@ play,2,0,longt002,30,BBBB,W
 play,2,0,singc001,32,BCBFBB,W.1-2
 play,2,0,byrne001,32,BCBCFBX,E6/G.2-3;1-2
 play,2,0,johnm003,11,BCX,6/P
-com,"Infield fly rule"
 play,2,0,hatts001,32,CBBBFX,8/SF.3-H(UR)
 play,2,0,ellim001,01,CX,6(1)/FO/G
 play,2,1,rowaa001,00,X,13/BG
@@ -2363,7 +2342,6 @@ play,4,0,guilc001,10,BX,S7/L
 play,4,0,davib003,10,1BX,S8/L.1-3
 play,4,0,suzui001,10,BX,S7/L.3-H;1-2
 play,4,0,mclem001,22,CBBCX,6/P
-com,"Infield fly rule"
 play,4,0,boonb002,22,FBBCX,S6/G.2-3;1-2
 play,4,0,marte001,30,BBBB,W.3-H;2-3;1-2
 play,4,0,olerj001,00,,NP
@@ -2638,7 +2616,6 @@ start,credj001,"Joe Crede",1,7,5
 start,olivm001,"Miguel Olivo (Pena)",1,8,2
 start,harrw001,"Willie Harris",1,9,8
 start,colob001,"Bartolo Colon",1,0,1
-com,"1:08 rain delay during game"
 play,1,0,suzui001,10,BX,3/P3F
 play,1,0,guilc001,32,CBBBFS,K
 play,1,0,boonb002,00,X,63/G
@@ -2682,7 +2659,6 @@ play,5,1,credj001,00,X,D9/F.1-3
 play,5,1,olivm001,31,BCBBX,63/G.3-H
 play,5,1,harrw001,10,BX,8/F
 play,6,0,camem001,00,X,3/G
-com,"Game called for rain"
 data,er,mechg001,1
 data,er,colob001,5
 id,CHA200305130
@@ -2732,8 +2708,6 @@ start,graft001,"Tony Graffanino",1,7,5
 start,olivm001,"Miguel Olivo (Pena)",1,8,2
 start,harrw001,"Willie Harris",1,9,8
 start,loaie001,"Esteban Loaiza",1,0,1
-com,"$Sam Perlozzo managing the Orioles in Mike"
-com,"Hargrove's absence; Hargrove's mother died"
 play,1,0,hairj002,22,BBCFS,K
 play,1,0,moram002,32,B*BCLBFC,K
 play,1,0,segud001,00,X,S8/L
@@ -2805,8 +2779,6 @@ sub,robew001,"Willis Roberts",0,0,1
 play,8,1,thomf001,10,.BX,S9/L
 play,8,1,ordom001,32,CFB*BB>X,8/F
 play,8,1,lee-c001,12,CFBX,96(1)/FO/G
-com,"ej,manuj101,M,relic901,Call at 1B"
-com,"White Sox Manager Jerry Manuel ejected by 1B umpire Charlie Reliford"
 play,8,1,konep001,12,.SSB11FFFS,K23
 play,9,0,gibbj002,00,,NP
 sub,kochb001,"Billy Koch",1,0,1
@@ -2865,8 +2837,6 @@ start,riosa001,"Armando Rios",1,7,8
 start,credj001,"Joe Crede",1,8,5
 start,aloms001,"Sandy Alomar",1,9,2
 start,wrigd001,"Dan Wright",1,0,1
-com,"$Sam Perlozzo managing the Orioles in Mike"
-com,"Hargrove's absence; Hargrove's mother died"
 play,1,0,hairj002,32,BBCBCB,W
 play,1,0,bigbl001,10,BX,8/F.1-2
 play,1,0,segud001,22,CBFFBS,K
@@ -3083,10 +3053,6 @@ play,8,1,lee-c001,10,BX,8/F
 play,9,0,hairj002,10,BH,HP
 play,9,0,moram002,00,,NP
 sub,wunsk001,"Kelly Wunsch",1,0,1
-com,"ej,colob001,P,craft901,Intentional HBP"
-com,"ej,manuj101,M,craft901,Intentional HBP"
-com,"White Sox pitcher Bartolo Colon ejected by HP umpire Terry Craft;"
-com,"White Sox Manager Jerry Manuel ejected by HP umpire Terry Craft"
 play,9,0,moram002,01,...CX,9/F
 play,9,0,segud001,11,BCX,7/L
 play,9,0,conij001,02,CFC,K
@@ -3144,9 +3110,6 @@ start,konep001,"Paul Konerko",1,7,3
 start,credj001,"Joe Crede",1,8,5
 start,aloms001,"Sandy Alomar",1,9,2
 start,wrigd001,"Dan Wright",1,0,1
-com,"ej,manuj101,M,herna901,Fair/foul call"
-com,"White Sox manager Jerry Manuel ejected sometime during the game"
-com,"by 3B umpire Angel Hernandez for arguing a fair/foul call"
 play,1,0,stews002,22,BBCFFX,3/G
 play,1,0,cataf001,32,CBFFBBX,HR/9/L
 play,1,0,wellv001,10,BX,8/F
@@ -3799,7 +3762,6 @@ play,7,0,santr002,11,1>C.BX,13/G
 play,7,1,lee-c001,10,BH,HP
 play,7,1,daubb001,00,,NP
 sub,riosa001,"Armando Rios",1,4,12
-com,"White Sox Carlos Lee left the game due to an injured head"
 play,7,1,daubb001,22,..FF*B1FBFS,K
 play,7,1,konep001,22,BCB>FX,64(1)3/GDP
 play,8,0,higgb001,00,,NP
@@ -4112,7 +4074,6 @@ play,4,1,daubb001,12,SBFX,S9/L.3-H
 play,4,1,lee-c001,00,C,BK.1-2
 play,4,1,lee-c001,32,C.CB*BBX,S8/G.2-H
 play,4,1,riosa001,12,BSFX,46(1)3/G/DP/INT
-com,"DP from interference, no GDP"
 play,5,0,snowj001,31,BSBBX,D9/L
 play,5,0,alfoe001,12,BCCFX,53/G
 play,5,0,cruzj004,20,B+2*BX,3/G.2-3
@@ -5153,11 +5114,6 @@ play,7,0,varij001,00,,NP
 sub,sandd002,"David Sanders",1,0,1
 play,7,0,varij001,00,,NP
 sub,daubb001,"Brian Daubach",1,3,3
-com,"ej,thomf001,P,coope901,Called third strike"
-com,"White Sox Frank Thomas ejected by HP umpire Eric Cooper;"
-com,"Thomas complained when called out in 6th, broke bat on"
-com,"ground and continued grumbling when taking field;"
-com,"he was not ejected until he had come back onto the field"
 play,7,0,varij001,10,...BX,8/F
 play,7,0,damoj001,02,CFFFFFFX,7/F7LF
 play,7,0,walkt002,02,CFFFX,9/F
@@ -5251,7 +5207,6 @@ start,credj001,"Joe Crede",1,7,5
 start,valej003,"Jose Valentin",1,8,6
 start,olivm001,"Miguel Olivo",1,9,2
 start,loaie001,"Esteban Loaiza",1,0,1
-com,"34 minute delay during game"
 play,1,0,damoj001,11,CBX,S9/G
 play,1,0,walkt002,02,CSX,16(1)3/GDP
 play,1,0,garcn001,00,X,7/F
@@ -5470,8 +5425,6 @@ sub,konep001,"Paul Konerko",1,5,11
 play,8,1,konep001,12,..CBFX,3/P3F
 play,8,1,lee-c001,22,BFCBFFX,63/G
 play,8,1,valej003,32,FBFBBFB,W
-com,"ej,manuj101,M,hollm901,Balls and strikes"
-com,"White Sox Manager Jerry Manuel ejected by HP umpire Matt Hollowell"
 play,8,1,credj001,12,11C.1B+1C11S,K
 play,9,0,ramim002,32,BCBFBS,K
 play,9,0,millk005,22,CSBBFX,6/P
@@ -5697,7 +5650,6 @@ start,konep001,"Paul Konerko",1,7,3
 start,credj001,"Joe Crede",1,8,5
 start,olivm001,"Miguel Olivo",1,9,2
 start,colob001,"Bartolo Colon",1,0,1
-com,"36 minute delay during game"
 play,1,0,grudm001,11,CBX,S8/L
 play,1,0,harrl001,31,111BB1BCB,W.1-2
 play,1,0,pattc001,12,BFSC,K
@@ -5748,7 +5700,6 @@ play,5,1,ordom001,12,BCFX,9/F
 play,5,1,lee-c001,12,FBFX,D7/L.1-3
 play,5,1,valej003,30,IIII,IW
 play,5,1,konep001,12,CBFX,5/P
-com,"Infield Fly rule"
 play,5,1,credj001,11,SBX,64(1)/FO/G
 play,6,0,martr003,01,CX,4/P3F
 play,6,0,milld002,32,BFCFBBB,W
@@ -6048,7 +5999,6 @@ play,3,0,rival001,12,FCBS,K
 play,3,0,jonej003,00,X,8/F
 play,3,1,rowaa001,00,,NP
 sub,fordl001,"Lew Ford",0,1,7
-com,"Twins Jacque Jones left the game due to an injured groin"
 play,3,1,rowaa001,32,..FFFBBBFB,W
 play,3,1,thomf001,11,BCX,D7/F.1-H
 play,3,1,ordom001,11,FBX,HR/7/F.2-H
@@ -6075,7 +6025,6 @@ play,5,0,rival001,02,FCX,9/F
 play,5,0,fordl001,11,BCX,53/G
 play,5,1,lee-c001,00,,NP
 sub,lecrm001,"Matthew LeCroy",0,6,3
-com,"Twins Doug Mientkiewicz left the game due to an injured knee"
 play,5,1,lee-c001,01,..CX,53/G
 play,5,1,valej003,11,BCX,43/G
 play,5,1,credj001,00,X,8/F
@@ -6323,11 +6272,6 @@ play,1,0,miend001,21,CB1BX,9/F
 play,1,0,koskc001,22,F1BBSX,4/P
 play,1,0,huntt001,11,B11CB,WP.1-2
 play,1,0,huntt001,31,B11CB.BX,HR/F7L.2-H
-com,"ej,manuj101,M,westj901,Fair/foul call on HR"
-com,"$the ball struck the LF pole and 3B umpire Lance Barksdale"
-com,"made no call; when Mgr Gardenhire came out for an"
-com,"explanation, HP umpire and crew chief Joe West called it"
-com,"a fair ball; White Sox Manager Jerry Manuel ejected by West"
 play,1,0,mornj001,02,.FFX,31/G
 play,1,1,alomr001,02,SCS,K
 play,1,1,valej003,21,BBFX,43/G
@@ -6509,7 +6453,6 @@ start,konep001,"Paul Konerko",1,7,3
 start,credj001,"Joe Crede",1,8,5
 start,olivm001,"Miguel Olivo",1,9,2
 start,colob001,"Bartolo Colon",1,0,1
-com,"3:02 delay during game"
 play,1,0,sanca003,21,BBCX,3/G
 play,1,0,morrw001,11,BCX,D9/L
 play,1,0,yound001,32,SB*BFBX,HR/9/F.2-H
@@ -6557,7 +6500,6 @@ play,5,0,munse001,32,CBBBCB,W
 play,5,0,hinca001,00,1X,S7/L.1-3
 play,5,0,santr002,00,,NP
 sub,walbm001,"Matt Walbeck",0,8,12
-com,"Tigers A. J. Hinch left the game due to an injured leg"
 play,5,0,santr002,11,..1CB1X,4/L
 play,5,0,sanca003,32,BBBCF>X,S9/L.3-H;1-3
 play,5,0,morrw001,12,FFB>X,S7/L.3-H;1-H;B-2(TH)
@@ -7714,7 +7656,6 @@ start,credj001,"Joe Crede",1,7,5
 start,valej003,"Jose Valentin",1,8,6
 start,olivm001,"Miguel Olivo",1,9,2
 start,colob001,"Bartolo Colon",1,0,1
-com,"36 minute delay during game"
 play,1,0,crawc002,20,BBX,7/F
 play,1,0,baldr001,10,BX,HR/7/F
 play,1,0,huffa001,02,FFC,K
@@ -7900,8 +7841,6 @@ play,6,0,tuckm001,00,,NP
 sub,schos001,"Scott Schoeneweis",1,0,1
 play,6,0,tuckm001,32,.11BCC*BBFF,NP
 sub,harvk001,"Ken Harvey",0,7,11
-com,"Royals Michael Tucker left the game due to an injured knee;"
-com,"he fouled the ball off his knee and left on stretcher"
 play,6,0,harvk001,32,.11BCC*BBFF..B,W.1-2
 play,6,0,maynb001,11,FBX,S9/G.2-H;1-2
 play,6,0,browd002,10,BX,S2/BG.2-3;1-2
@@ -7912,11 +7851,6 @@ play,6,0,randj002,11,.LBX,34/SH/BG.2-3
 play,6,0,beltc001,11,FBH,HP
 play,6,0,ibanr001,00,,NP
 sub,wunsk001,"Kelly Wunsch",1,0,1
-com,"ej,gintm001,P,wegnm901,Intentional HBP"
-com,"ej,manuj101,M,wegnm901,Intentional HBP"
-com,"White Sox pitcher Matt Ginter and Manager Jerry Manuel ejected"
-com,"by HP umpire Mark Wegner; this was the third HBP in the game"
-com,"and the teams had been warned"
 play,6,0,ibanr001,01,...1SX,46(1)/FO/G.3-H
 play,6,0,relad001,30,BBBB,W.1-2
 play,6,0,berra001,12,CBFFFFX,D7/L.2-H;1-H
@@ -8081,7 +8015,6 @@ play,6,1,valej003,22,.BSBCFS,K
 play,6,1,credj001,01,FX,S8/L
 play,6,1,aloms001,10,BX,S8/L.1-2
 play,6,1,alomr001,10,BX,4/P
-com,"Infield Fly rule"
 play,6,1,lee-c001,12,CFBS,K
 play,7,0,browd002,00,,NP
 sub,wunsk001,"Kelly Wunsch",1,0,1
@@ -9041,8 +8974,6 @@ play,5,1,everc001,02,1F>S.B,PB.2-3
 play,5,1,everc001,12,1F>S.B.X,8/SF.3-H(UR)
 play,5,1,daubb001,32,BFSFBBB,W
 play,5,1,valej003,12,CBS>B,PO1(23)
-com,"ej,daubb001,P,reilm901,Call at 1B"
-com,"White Sox Brian Daubach ejected by 1B umpire Mike Reilly"
 play,6,0,andeg001,00,,NP
 sub,konep001,"Paul Konerko",1,6,3
 play,6,0,andeg001,22,..BSCBX,D8/L
@@ -9234,7 +9165,6 @@ sub,thamm001,"Marcus Thames",0,6,11
 play,9,0,thamm001,32,..CBBBCB,W
 play,9,0,greet003,00,X,3/P3F
 play,9,0,jonej004,32,BBCBCX,E6/G.1-2
-com,"originally scored S7, changed on 9-16 to E6"
 play,9,0,nivar001,00,,NP
 sub,gordt001,"Tom Gordon",1,0,1
 play,9,0,nivar001,12,.CSBFS,K
@@ -9322,7 +9252,6 @@ play,3,1,everc001,12,BCSFS,K
 play,4,0,palmr001,31,BCBBB,W
 play,4,0,spens001,32,SBBCBFB,W.1-2
 play,4,0,teixm001,21,BBCX,6/P
-com,"Infield Fly rule"
 play,4,0,sadld001,12,CBCX,9/F
 play,4,0,diaze002,21,BLBX,8/L
 play,4,1,konep001,32,BCBBCB,W
@@ -9346,7 +9275,6 @@ sub,blalh001,"Hank Blalock",0,7,11
 play,6,0,blalh001,22,..BCBFX,9/F.2-3
 play,6,0,diaze002,02,CFH,HP.1-2
 play,6,0,nivar001,11,FBX,4/P
-com,"Infield Fly rule"
 play,6,0,younm003,02,SSC,K
 play,6,1,ordom001,00,,NP
 sub,blalh001,"Hank Blalock",0,7,5
@@ -9446,7 +9374,6 @@ play,1,0,younm003,11,CBX,31/G
 play,1,0,blalh001,01,CX,53/G
 play,1,0,rodra001,32,BSBTBB,W
 play,1,0,palmr001,32,BFB1C1>FB>F>F>FF>FC,K
-com,"BFB1C1>FB>F>F>FF>F>F>F>F>F>F>C"
 play,1,1,alomr001,12,CCBS,K
 play,1,1,lee-c001,21,CBBX,53/G
 play,1,1,thomf001,11,FBX,63/G
@@ -9458,7 +9385,6 @@ play,2,1,ordom001,01,CX,S8/L
 play,2,1,everc001,10,B1X,S9/G.1-3
 play,2,1,daubb001,32,BCBFBB,W.1-2
 play,2,1,valej003,12,BFCX,1/P
-com,"Infield Fly rule"
 play,2,1,credj001,22,BBCSX,8(B)2(3)/FDP
 play,3,0,nivar001,10,BX,1/BG
 play,3,0,younm003,12,CBSFFS,K
@@ -9901,8 +9827,6 @@ play,4,0,millk005,30,BBBB,W
 play,4,0,varij001,12,CFB1X,6/L
 play,4,1,ordom001,22,CCBBFX,S7/F
 play,4,1,everc001,11,BF>X,8/FDP.1X1(843)
-com,"$Ordonez was running on the pitch, great fake by Garciaparra"
-com,"that he was taking a throw at 2B; Ordonez had no chance to get back"
 play,4,1,konep001,30,BBBB,W
 play,4,1,valej003,10,BX,3/P3F
 play,5,0,kaplg001,02,LCX,4/L
@@ -9937,7 +9861,6 @@ play,7,1,lee-c001,01,1CX,D7/G.1-3
 play,7,1,thomf001,30,IIII,IW
 play,7,1,ordom001,00,X,S6/G.3-H;2-3;1-2
 play,7,1,everc001,12,FBFX,6/P
-com,"Infield Fly rule"
 play,7,1,konep001,12,CFBFS,K
 play,8,0,ramim002,00,,NP
 sub,harrw001,"Willie Harris",1,5,8
@@ -9962,8 +9885,6 @@ sub,saues001,"Scott Sauerbeck",0,0,1
 play,8,1,daubb001,00,,NP
 sub,graft001,"Tony Graffanino",1,9,11
 play,8,1,graft001,12,...CFBFC,K
-com,"ej,manuj101,M,dimum901,Called third strike"
-com,"White Sox Manager Jerry Manuel ejected by HP umpire Mike DiMuro"
 play,8,1,alomr001,11,.CBX,63/G
 play,9,0,damoj001,00,,NP
 sub,olivm001,"Miguel Olivo",1,9,2
@@ -10549,8 +10470,6 @@ play,4,0,huntt001,00,X,63/G
 play,4,0,koskc001,11,CBX,2/P2F
 play,4,0,piera001,10,BX,D9/L
 play,4,0,guzmc001,02,FFFX,3/G
-com,"ej,gardr001,M,davig901,Fair/foul call"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Gerry Davis"
 play,4,1,olivm001,31,.BFBBB,W
 play,4,1,alomr001,00,1X,34(B)6(1)/BGDP
 play,4,1,lee-c001,11,FBX,53/G
@@ -10766,10 +10685,6 @@ play,9,0,lecrm001,10,BX,4/P
 play,9,0,koskc001,30,B*B*BB,W.1-2
 play,9,0,huntt001,00,,NP
 sub,gordt001,"Tom Gordon",1,0,1
-com,"ej,panij001,P,carlm901,Balls and strikes after removal"
-com,"White Sox Jose Paniagua ejected by HP umpire Mark Carlson;"
-com,"Paniagua made an obscene gesture as he left the field and was"
-com,"released by the White Sox next day"
 play,9,0,huntt001,32,.BB.SBSB,W.2-3;1-2
 play,9,0,piera001,12,CS*BFFFFFFX,7/SF.3-H
 play,9,0,mohrd001,00,,NP
@@ -11040,7 +10955,6 @@ play,7,1,credj001,00,X,5/P5F
 play,7,1,olivm001,00,,NP
 sub,milea001,"Aaron Miles",1,9,11
 play,7,1,milea001,12,.CBSFX,5/P5F
-com,"Debut game for Aaron Miles"
 play,7,1,alomr001,12,CBCX,S8/G
 play,7,1,lee-c001,12,BFS1,PO1(13)
 play,8,0,lecrm001,00,,NP
@@ -11605,8 +11519,6 @@ play,5,1,credj001,02,CFX,S8/G
 play,5,1,olivm001,00,X,13/SH/BG.1-2
 play,5,1,graft001,10,BX,S7/L.2-H
 play,5,1,alomr001,00,X,53/BG.1-2
-com,"ej,manuj101,M,randt901,Call at 1B"
-com,"White Sox Manager Jerry Manuel ejected by 1B umpire Tony Randazzo"
 play,5,1,thomf001,02,.CFX,S7/L.2-H
 play,5,1,ordom001,10,BX,7/F
 play,6,0,willb002,20,BBX,5/P5F
@@ -11880,7 +11792,6 @@ start,valej003,"Jose Valentin",1,7,6
 start,credj001,"Joe Crede",1,8,5
 start,olivm001,"Miguel Olivo",1,9,2
 start,loaie001,"Esteban Loaiza",1,0,1
-com,"49 minute delay during game"
 play,1,0,soria001,12,CSBFFS,K
 play,1,0,johnn001,00,X,43/G
 play,1,0,jeted001,12,FSBFFS,K

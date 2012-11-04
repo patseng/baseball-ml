@@ -43,7 +43,6 @@ start,derom001,"Mark DeRosa",1,6,4
 start,sotog001,"Geovany Soto",1,7,2
 start,pie-f001,"Felix Pie",1,8,8
 start,zambc001,"Carlos Zambrano",1,9,1
-com,"$Start of game delayed 41 minutes by rain"
 play,1,0,weekr001,02,CFS,K
 play,1,0,gwynt002,22,CFBBFX,S5/G-
 play,1,0,fielp001,20,1BBX,43/G.1-2
@@ -57,7 +56,6 @@ play,2,0,hartc001,22,BFCBX,8/F+
 play,2,0,hardj003,32,BFCFFBBX,4/P
 play,2,1,ramia001,22,SBBSFX,43/G
 play,2,1,fukuk001,00,X,D8/L+
-com,"Debut game for Kosuke Fukudome"
 play,2,1,derom001,12,CBSX,8/F.2-3
 play,2,1,sotog001,30,B*BBB,W
 play,2,1,pie-f001,12,BSCS,K23
@@ -66,7 +64,6 @@ play,3,0,kendj001,30,BBBB,W
 play,3,0,weekr001,11,BSX,4/P
 play,3,0,gwynt002,10,BX,4/L-
 play,3,1,zambc001,02,SCFFS,K
-com,"$Rain delay of 49 minutes"
 play,3,1,therr001,12,CCBFS,K
 play,3,1,soria001,22,CBBSS,K
 play,4,0,fielp001,12,BFFS,K
@@ -94,7 +91,6 @@ play,7,0,hallb001,22,BCBCX,D7/L+
 play,7,0,hartc001,22,CF2BB2,PO2(14)
 play,7,0,hartc001,00,,NP
 sub,marmc001,"Carlos Marmol",1,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"
 play,7,0,hartc001,22,CF2BB2..C,K
 play,7,1,ramia001,22,SBBSFX,8/F
 play,7,1,fukuk001,00,X,S8/G
@@ -102,7 +98,6 @@ play,7,1,derom001,00,,NP
 sub,torrs001,"Salomon Torres",0,8,1
 play,7,1,derom001,22,.1F1BBF1H,HP.1-2
 play,7,1,sotog001,22,BFFB+2,OA.2X3(2);1-2
-com,"$Pitch in dirt, Fukudome took off, Kendall ran out and tagged him"
 play,7,1,sotog001,32,BFFB+2.*BB,W
 play,7,1,pie-f001,01,CX,43/G
 play,8,0,hardj003,12,BCCS,K
@@ -426,7 +421,6 @@ play,6,0,braur002,02,CFFC,K
 play,6,0,hallb001,12,CSBX,9/F
 play,6,1,pie-f001,00,,NP
 sub,kaplg001,"Gabe Kapler",0,2,8
-com,"Brewers right fielder Tony Gwynn left the game due to an injured leg"
 play,6,1,pie-f001,32,.CBFFBFBX,9/F
 play,6,1,dempr002,00,,NP
 sub,fontm001,"Mike Fontenot",1,9,11
@@ -710,7 +704,6 @@ play,4,0,wiggt001,00,X,S5/G
 play,4,0,lorem001,10,BX,46(1)3/GDP
 play,4,1,derom001,00,,NP
 sub,erstd001,"Darin Erstad",0,3,3
-com,"Astros Lance Berkman left the game due to an injured neck/shoulder"
 play,4,1,derom001,22,..CBBFX,S9/L
 play,4,1,sotog001,00,X,4(1)3/GDP
 play,4,1,therr001,21,CBBX,13/G
@@ -743,7 +736,6 @@ play,7,1,therr001,00,,NP
 sub,peret003,"Tomas Perez",0,6,4
 play,7,1,therr001,00,,NP
 sub,lorem001,"Mark Loretta",0,7,5
-com,"Astros third baseman Ty Wigginton left the game due to an injured hand/wrist"
 play,7,1,therr001,31,...BBBCB,W
 play,7,1,hartk001,00,,NP
 sub,fontm001,"Mike Fontenot",1,9,11
@@ -987,7 +979,6 @@ play,1,0,keppj001,00,X,9/F
 play,1,0,grifk002,10,BX,7/F
 play,1,1,soria001,00,,NP
 sub,fontm001,"Mike Fontenot",1,1,11
-com,"Cubs left fielder Alfonso Soriano left the game due to an injured leg"
 play,1,1,fontm001,22,.BCFFFBX,7/L
 play,1,1,therr001,21,BBCX,D7/L
 play,1,1,lee-d002,32,FBC*BBX,4!3/G.2-3
@@ -2313,13 +2304,6 @@ play,2,1,pie-f001,30,BBBB,W.2-3;1-2
 play,2,1,marqj001,12,BFFX,4(1)/FO/G.3-H;2-3;B-1
 play,2,1,johnr008,12,CSBFX,9/SF/F.3-H
 play,2,1,therr001,01,FX,9/F
-com,"umpchange,3,umphome,nauep901"
-com,"umpchange,3,ump1b,hallt901"
-com,"umpchange,3,ump2b,(None)"
-com,"$HP umpire Jerry Crawford left the game due to a bad reaction to"
-com,"medicine. He was taken to a local hospital and admitted over night"
-com,"there was a 13-minute delay while 1B umpire Paul Nauert changed"
-com,"into his plate gear"
 play,3,0,camem001,32,BCBSBX,S6/G
 play,3,0,braur002,20,BBX,D9/F.1-3
 play,3,0,fielp001,00,X,9/SF/F.3-H;2-3
@@ -3320,7 +3304,6 @@ sub,germj001,"Justin Germano",0,5,1
 play,6,1,johnr008,00,,NP
 sub,gonze003,"Edgar Gonzalez",0,9,5
 play,6,1,johnr008,10,..BB,WP.2-3
-com,"Debut game for Edgar Gonzalez"
 play,6,1,johnr008,20,..BB.X,S8/G.3-H
 play,6,1,zambc001,11,SBX,S8/G.1-3
 play,6,1,soria001,12,CBFFFX,8/F
@@ -4202,7 +4185,6 @@ sub,hoffm001,"Micah Hoffpauir",1,9,11
 play,6,1,hoffm001,00,,NP
 sub,grabj002,"John Grabow",0,9,1
 play,6,1,hoffm001,12,..BSSS,K23
-com,"Debut game for Micah Hoffpauir"
 play,6,1,soria001,22,CFBBFS,K
 play,7,0,miend001,00,,NP
 sub,howrb001,"Bob Howry",1,9,1
@@ -5082,18 +5064,8 @@ play,1,1,therr001,22,FFBFBX,S9/G
 play,1,1,lee-d002,22,CBBFFFX,S9/L-.1-2
 play,1,1,ramia001,11,BFX,9/F.2-3
 play,1,1,sotog001,02,FFX,9!/F
-com,"umpchange,2,ump1b,crawj901"
-com,"umpchange,2,ump2b,(None)"
-com,"$1B umpire Brian O'Nora left the game after pulling his left hamstring in the"
-com,"first inning while running into the outfield to rule on a catch; he was taken to a"
-com,"hospital for an MRI"
 play,2,0,iannc001,01,FX,8!/F
 play,2,0,bakej001,32,CBCBBFFB,W
-com,"umpchange,2,ump2b,(None)"
-com,"umpchange,2,ump1b,crawj901"
-com,"$1B umpire Brian O'Nora pulled his left hamstring running down the RF line to make a call; when he"
-com,"favored it making a check swing call on Jeff Baker, Cubs trainer Mark O'Neal visited with O'Nora"
-com,"and walked him off the field; O'Nora went to the hospital for an MRI"
 play,2,0,quino001,02,CSB,WP.1-2
 play,2,0,quino001,12,CSB.X,HR/9/F.2-H
 play,2,0,ruscg001,10,BX,63/G
@@ -5447,7 +5419,6 @@ play,4,0,mccab002,10,BX,8/F
 play,4,0,infao001,01,CX,8/L
 play,4,1,soria001,00,,NP
 sub,carlb001,"Buddy Carlyle",0,9,1
-com,"Braves pitcher Tom Glavine left the game due to an injured elbow"
 play,4,1,soria001,31,.BBBCB,W
 play,4,1,therr001,22,1BF1B>FFX,S8/L.1-2
 play,4,1,lee-d002,01,CX,9/L
@@ -5589,8 +5560,6 @@ play,2,1,edmoj001,02,CFC,K
 play,2,1,derom001,10,BX,S8/L+
 play,2,1,dempr002,12,CMBX,14/SH/BG.1-2
 play,2,1,soria001,02,CFH,HP
-com,"$Soriano hit on left hand; he suffered a minimally displaced fracture"
-com,"of the fourth metacarpal; expected to be in a splint for three weeks"
 play,2,1,therr001,00,,NP
 sub,fontm001,"Mike Fontenot",1,1,12
 play,2,1,therr001,10,.BX,D8/L.2-H;1-H
@@ -6084,7 +6053,6 @@ play,4,1,ramia001,22,BFFBX,HR/7/L.3-H;1-H
 play,4,1,edmoj001,00,,NP
 sub,logab001,"Boone Logan",0,9,1
 play,4,1,edmoj001,01,.FX,HR/7/F
-com,"$second homer of the inning for Edmonds"
 play,4,1,fontm001,00,,NP
 sub,derom001,"Mark DeRosa",1,6,11
 play,4,1,derom001,10,.BX,8/F
@@ -6505,7 +6473,6 @@ start,sotog001,"Geovany Soto",1,6,2
 start,derom001,"Mark DeRosa",1,7,9
 start,fontm001,"Mike Fontenot",1,8,4
 start,lillt001,"Ted Lilly",1,9,1
-com,"$Debut for umpire Dan Bellino"
 play,1,0,robeb003,00,X,9/F
 play,1,0,markn001,20,BBX,43/G
 play,1,0,moram002,12,BCSFX,9/F
@@ -6516,7 +6483,6 @@ play,1,1,ramia001,32,FBSB1BX,S7/G.3-H;1-2
 play,1,1,edmoj001,30,BBBB,W.2-3;1-2
 play,1,1,sotog001,00,,NP
 sub,corml001,"Lance Cormier",0,9,1
-com,"Orioles pitcher Matt Albers left the game due to an injured neck/shoulder"
 play,1,1,sotog001,32,.BBF*BFX,S6/G.3-H;2-H;1-3;B-2(TH)
 play,1,1,derom001,11,C*BX,S9/L-.3-H;2-3
 play,1,1,fontm001,22,BBCCC,K
@@ -7310,7 +7276,6 @@ play,3,0,cainm001,02,CCS,K
 play,3,0,lewif001,10,BX,8/F
 play,3,1,therr001,00,,NP
 sub,velee001,"Eugenio Velez",0,3,9
-com,"Giants right fielder Randy Winn left the game due to an injured knee"
 play,3,1,therr001,22,.FFBBFFFX,S49/P
 play,3,1,fontm001,31,BBBC>C,CS2(26)
 play,3,1,fontm001,32,BBBC>C.X,13/G
@@ -7502,7 +7467,6 @@ sub,tascj001,"Jack Taschner",0,8,1
 play,6,1,edmoj001,00,,NP
 sub,ochoi001,"Ivan Ochoa",0,9,6
 play,6,1,edmoj001,01,..FX,FC3/G.3XH(32);1-2
-com,"Debut game for Ivan Ochoa"
 play,6,1,derom001,32,BCSFBB>X,8/F
 play,7,0,ochoi001,00,,NP
 sub,hartk001,"Kevin Hart",1,6,1
@@ -7537,7 +7501,6 @@ sub,marmc001,"Carlos Marmol",1,6,1
 play,9,0,ochoi001,01,.TX,D7/L
 play,9,0,velee001,02,CSFX,43/G.2-3
 play,9,0,castj005,12,BSSX,E1/G-.3-3
-com,"Changed from S1 on 8-08-2008, makes 3 runs unearned"
 play,9,0,durhr001,22,BBCSX,S8/G.3-H;1-3
 play,9,0,molib001,10,BX,S9/L.3-H(UR);1-2
 play,9,0,rowaa001,31,BBBCB,W.2-3;1-2
@@ -7996,7 +7959,6 @@ sub,samaj001,"Jeff Samardzija",1,9,1
 play,7,0,nelsj002,00,,NP
 sub,ameza001,"Alfredo Amezaga",0,9,11
 play,7,0,ameza001,32,..BBCBCFC,K
-com,"Debut game for Jeff Samardzija"
 play,7,0,ramih003,02,CCX,S8/G
 play,7,0,gonzl001,01,F1>P,SB2
 play,7,0,gonzl001,11,F1>P.X,8/F.2-3
@@ -8131,12 +8093,6 @@ play,2,1,derom001,00,X,53/G
 play,2,1,sotog001,32,BBCFFFBFX,D7/F
 play,2,1,fukuk001,21,*BBCX,S6/G.2-2
 play,2,1,hardr001,01,LB,PB.2-3;1-2
-com,"umpchange,2,umphome,drecb901"
-com,"umpchange,2,ump2b,(None)"
-com,"$Rich Harden squared to bunt but pulled the bat back; the pitch"
-com,"hit HP umpire Gerry Davis on the mask; he was attended to by the"
-com,"Cubs trainer and taken to the hospital for further observation;"
-com,"2B umpire Bruce Dreckman moved behind the plate"
 play,2,1,hardr001,22,LB.TBS,K
 play,2,1,soria001,12,CFBX,63/G
 play,3,0,volsc001,12,CBFX,8/F
@@ -8217,10 +8173,6 @@ play,9,1,fontm001,00,,NP
 sub,johnr008,"Reed Johnson",1,5,11
 play,9,1,johnr008,22,..CFBFBS,K
 play,9,1,derom001,32,BCBBCX,63/G
-com,"ej,sinam001,C,drakr901,Call at 1B"
-com,"ej,pinil001,M,drakr901,Call at 1B"
-com,"Cubs First Base Coach Matt Sinatro & Manager Lou Piniella ejected"
-com,"by 1B umpire Rob Drake for arguing call at 1B"
 play,9,1,sotog001,22,..BCFFBS,K
 play,10,0,hermj001,00,,NP
 sub,johnr008,"Reed Johnson",1,5,8
@@ -8967,7 +8919,6 @@ play,5,1,fukuk001,12,CLBC,K
 play,5,1,ceder002,12,BFCFX,9/F
 play,5,1,dempr002,00,X,S7/G
 play,5,1,soria001,12,BFFX,43/G
-com,"$Rain delay of 2:45, heavy lightning with tornado warnings"
 play,6,0,lee-c001,00,,NP
 sub,gaudc001,"Chad Gaudin",1,9,1
 play,6,0,lee-c001,22,.SBCFFBFFS,K
@@ -9006,8 +8957,6 @@ play,8,1,soria001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,9,1
 play,8,1,soria001,22,.SBFFBS,K
 play,8,1,fontm001,01,C,NP
-com,"$Lightning and rain return, game called at this point as"
-com,"shortened game"
 data,er,moehb001,0
 data,er,byrdt001,0
 data,er,gearg001,0
@@ -9762,7 +9711,6 @@ play,6,1,derom001,00,,NP
 sub,thomb002,"Brad Thompson",0,7,1
 play,6,1,derom001,00,,NP
 sub,lopef001,"Felipe Lopez",0,8,4
-com,"Cardinals pitcher Chris Carpenter left the game due to a strained right tricep"
 play,6,1,derom001,20,..BBX,S64/G.3-H(UR);1X3(45)
 play,6,1,sotog001,00,X,S7/L.1-3
 play,6,1,ceder002,22,BFBCX,D8/F.3-H(TUR);1-H(TUR);BX3(865)
@@ -10936,11 +10884,6 @@ play,7,0,rollj001,02,CFX,36(1)/FO/G
 play,7,0,victs001,30,11B1PBB,W.1-2
 play,7,0,utlec001,10,BX,46(1)/FO/G.2-3
 play,7,0,howar001,21,FBBX,31/G
-com,"ej,smits801,C,welkb901,Call at 1B"
-com,"$the grounder bounced off the glove of Cubs first baseman Derrek Lee,"
-com,"who retrieved it and threw to pitcher Jeff Samardzija; Ryan Howard and"
-com,"manager Charlie Manuel protested the call; 3B coach Steve Smith argued"
-com,"with HP umpire Bill Welke, who ejected Smith"
 play,7,1,johnr008,00,,NP
 sub,condc001,"Clay Condrey",0,8,1
 play,7,1,johnr008,02,..CFX,9/F
@@ -11536,11 +11479,6 @@ play,5,1,derom001,10,.BX,64(1)3/GDP
 play,6,0,pench001,00,,NP
 sub,howrb001,"Bob Howry",1,9,1
 play,6,0,pench001,22,.BCBFX,T8/F
-com,"$the ball and Cubs center fielder Jim Edmonds both hit the ivy-covered wall, with"
-com,"the ball dropping to the ground; a second ball came out of the ivy and fell to the"
-com,"ground; this was likely a batting practice ball that got stuck in the ivy; Edmonds"
-com,"threw the game ball into the infield and then retrieved the second ball and tossed"
-com,"it into the stands"
 play,6,0,newhd001,20,BBX,S9/G.3-H
 play,6,0,quinh001,12,LMBF1X,S6/G+.1-2
 play,6,0,nievf001,00,,NP
@@ -11605,7 +11543,6 @@ play,9,1,derom001,00,X,16(1)/FO/BG
 play,9,1,marmc001,00,,NP
 sub,mcgec001,"Casey McGehee",1,6,11
 play,9,1,mcgec001,22,.C*BBCS,K
-com,"Debut game for Casey McGehee"
 play,9,1,sotog001,11,FBX,9/F
 play,10,0,quinh001,00,,NP
 sub,woodk002,"Kerry Wood",1,6,1
@@ -11861,9 +11798,6 @@ play,5,0,counc001,22,BCSFBX,S8/L
 play,5,0,kendj001,11,B1CX,S7/G+.1-2
 play,5,0,sabac001,01,CX,E1/SH/BG.2-3;1-2
 play,5,0,camem001,02,CCX,5(2)3/GDP
-com,"ej,sedae801,C,westj901,Call at 1B"
-com,"Brewers First Base Coach Ed Sedar ejected by 1B umpire Joe West for arguing"
-com,"that the relay throw pulled Cubs first baseman Derrek Lee off the bag"
 play,5,1,therr001,11,BCX,9/F
 play,5,1,lee-d002,22,SBSBS,K
 play,5,1,ramia001,10,BX,S7/F
@@ -12278,10 +12212,6 @@ play,11,1,lee-d002,12,CSBS,K
 play,11,1,ramia001,32,BBBCFB,W
 play,11,1,edmoj001,12,BCC,NP
 sub,pie-f001,"Felix Pie",1,5,11
-com,"ej,edmoj001,P,rapue901,Balls and strikes"
-com,"Cubs center fielder Jim Edmonds objected to two pitches that he thought were"
-com,"outside but called strikes; he was ejected by HP umpire Ed Rapuano after the"
-com,"second one"
 play,11,1,pie-f001,12,BCC..FX,36(1)/FO/G
 play,11,1,derom001,10,BX,S7/L.1-3
 play,11,1,sotog001,00,*B,DI.1-2

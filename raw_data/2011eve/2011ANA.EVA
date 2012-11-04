@@ -334,22 +334,13 @@ play,13,0,escoy001,31,.BBBCB,W.1-2
 play,13,0,arenj001,12,BCLS,K
 play,13,0,snidt001,02,CCX,31/G.2-3;1-2
 play,13,0,encae001,01,CX,FC5/G.2X3(5)
-com,"$on the slow roller on the grass to the left of 3B Alberto Callaspo, he had to wait for"
-com,"Yunel Escobar, who was running towards third; when Callaspo's throw was wide at first,"
-com,"Escobar was called out for runner interference and thus the apparent run did not count"
 play,13,1,abreb001,00,,NP
 sub,nix-j001,"Jayson Nix",0,8,5
 play,13,1,abreb001,02,..CTX,S8/L
 play,13,1,huntt001,01,CX,S7/G.1-3
 play,13,1,wellv001,00,>X,7/FDP.1X1(763)
-com,"$Torii Hunter ran on the pitch; LF Travis Snider made a sliding catch in shallow LF"
-com,"and threw the ball into the infield; Hunter stood on 2B and never ran back to 1B and"
-com,"was doubled off first"
 play,13,1,calla001,30,IIII,IW
 play,13,1,woodb003,00,1,CSH(142)
-com,"$Pitcher Shawn Camp tried the 'fake to third, turn to first' move and caught Alberto Callaspo"
-com,"off first; when Camp threw the ball to second, Bobby Abreu ran towards home and was out by a"
-com,"few steps"
 play,14,0,mcdoj003,00,,NP
 sub,hared001,"Dan Haren",1,0,1
 play,14,0,mcdoj003,01,.CX,63/G
@@ -468,7 +459,6 @@ play,5,1,abreb001,00,,NP
 sub,snidt001,"Travis Snider",0,7,8
 play,5,1,abreb001,00,,NP
 sub,nix-j001,"Jayson Nix",0,8,7
-com,"Blue Jays right fielder Rajai Davis left the game due to an injured ankle"
 play,5,1,abreb001,12,...CBSS,K
 play,5,1,huntt001,12,CSBX,53/G
 play,5,1,wellv001,00,X,8/F
@@ -985,8 +975,6 @@ start,chatt001,"Tyler Chatwood",1,0,1
 play,1,0,drewj001,00,X,3/G
 play,1,0,pedrd001,11,CBX,S8/G
 play,1,0,gonza003,10,BX,S8/L.1-2
-com,"$Red Sox Kevin Youkilis fouled the penultimate pitch off his left shin; he stayed in for the"
-com,"remainder of the plate appearance but left the game with a sore, bruised leg"
 play,1,0,youkk001,32,*BCCFFBFBFX,6(1)3/GDP
 play,1,1,iztum001,12,CCBX,8/F
 play,1,1,kendh001,32,BCBBCS,K
@@ -1766,7 +1754,6 @@ play,3,1,abreb001,00,,NP
 sub,jackc002,"Conor Jackson",0,3,7
 play,3,1,abreb001,00,,NP
 sub,sweer001,"Ryan Sweeney",0,6,9
-com,"Athletics center fielder Coco Crisp left the game due to an injured leg"
 play,3,1,abreb001,22,....BCCBX,S7/F
 play,3,1,huntt001,12,F1B1S.X,D7/F.1-3
 play,3,1,wellv001,01,CB,WP.3-H;2-3
@@ -2817,7 +2804,6 @@ play,5,0,quenc001,21,FBBX,8/F
 play,5,0,piera001,11,*BFX,S7/L.1-2
 play,5,0,riosa002,21,FBBX,5(2)/FO/G.1-2
 play,5,1,bourp001,00,X,13/BG
-com,"batter interference"
 play,5,1,aybae001,10,BX,5/P
 play,5,1,abreb001,11,CBX,43/G
 play,6,0,teahm001,21,BFBX,43/G
@@ -2888,8 +2874,6 @@ play,10,0,pierj002,12,.CCBFX,63/G
 play,10,0,ramia003,10,BX,S8/G
 play,10,0,dunna001,22,BCFFFB1X,D7/F.1-3
 play,10,0,konep001,00,I,WP.3-H;2-3
-com,"$Kevin Jepsen's first pitch of the intentional walk was way over the head of catcher"
-com,"Hank Conger, allowing Alexei Ramirez to score"
 play,10,0,konep001,30,I.III,IW
 play,10,0,lillb001,01,CX,8/SF/F.3-H
 play,10,0,piera001,02,CF>B,SB2
@@ -3298,8 +3282,6 @@ start,bourp001,"Peter Bourjos",1,9,8
 start,chatt001,"Tyler Chatwood",1,0,1
 play,1,0,mclon001,22,CBCB,NP
 sub,hernd001,"Diory Hernandez",0,1,11
-com,"$Braves center fielder Nate McLouth left the game due to a strained left oblique; he twisted his torso"
-com,"slightly watching the fourth pitch but did not swing at the ball"
 play,1,0,hernd001,22,CBCB.X,3/G
 play,1,0,pradm001,10,BX,9/F
 play,1,0,mccab002,02,CTX,3/G
@@ -4166,7 +4148,6 @@ play,3,1,huntt001,32,B>B.BTSS,K
 play,4,0,teixm001,11,BCX,8/F
 play,4,0,rodra001,21,BBFX,63/G
 play,4,0,canor001,32,FBFFFBFFBX,HR/9/F
-com,"$Angels RF Torii Hunter fell into the stands while running for the homer"
 play,4,0,martr004,21,BCBX,53/G
 play,4,1,calla001,10,BX,D8/L
 play,4,1,kendh001,00,X,E6/G.2-3
@@ -5308,7 +5289,6 @@ start,calla001,"Alberto Callaspo",1,7,5
 start,bourp001,"Peter Bourjos",1,8,8
 start,wilsb002,"Bobby Wilson",1,9,2
 start,sante001,"Ervin Santana",1,0,1
-com,"$Davey Johnson's first game as Nationals manager"
 play,1,0,bernr001,22,BBCFX,43/G
 play,1,0,wertj001,12,BCCX,3/P3F
 play,1,0,zimmr001,32,CFBBBFFX,S7/G
@@ -5673,7 +5653,6 @@ play,5,0,espid001,32,BBCBCB,W
 play,5,0,hairj002,32,CB+11P>F>FFF*B>H,HP.1-2
 play,5,0,rodri001,00,,NP
 sub,desmi001,"Ian Desmond",0,7,12
-com,"Nationals third baseman Jerry Hairston left the game due to an injured hand"
 play,5,0,rodri001,02,.FFX,9/F
 play,5,0,coraa001,12,CBSX,6(1)/FO/G
 play,5,1,trumm001,00,,NP
@@ -5690,8 +5669,6 @@ play,6,0,bixlb001,32,BSSBFFBS,K
 play,6,0,zimmr001,02,CSX,63/G
 play,6,1,aybae001,10,BX,8/F
 play,6,1,huntt001,02,CFS,K+WP.BX2(96)
-com,"$Torii Hunter struck out on wild pitch, catcher Ivan Rodriguez threw wildly past 1B"
-com,"and Hunter was out trying for 2B on a good throw from RF Brian Bixler"
 play,6,1,abreb001,32,.BBCFBX,S8/L.BX2(84)
 play,7,0,staim001,22,CBBSFS,K
 play,7,0,morsm001,12,FBFFX,53/G
@@ -5802,7 +5779,6 @@ play,3,0,ethia001,00,,NP
 sub,wellv001,"Vernon Wells",1,4,9
 play,3,0,ethia001,00,,NP
 sub,kendh001,"Howard Kendrick",1,5,7
-com,"Angels right fielder Torii Hunter left the game due to an injured hand"
 play,3,0,ethia001,20,.....BBX,S9/L
 play,3,0,kempm001,00,X,13/G-.1-2
 play,3,0,lonej001,21,CBBX,8/F
@@ -5849,9 +5825,6 @@ play,7,0,gordd002,12,LSBX,16(1)/FO/G
 play,7,0,gwynt002,10,11*B>B,SB2
 play,7,0,gwynt002,30,11*B>B.BB,W
 play,7,0,blakc001,10,B+1,SB3
-com,"$Tony Gwynn made a short break towards 2B but went back to 1B; catcher Hank Conger"
-com,"threw to 1B but Gwynn got back safely; Dee Gordon advanced to 3B on the throw to 1B."
-com,"On July 5, the scoring was changed to be a steal for Gordon"
 play,7,0,blakc001,20,B+1.B>B,SBH;SB2
 play,7,0,blakc001,32,B+1.B>B.CFFB,W
 play,7,0,ethia001,00,,NP
@@ -6138,8 +6111,6 @@ play,8,0,ethia001,00,,NP
 sub,huntt001,"Torii Hunter",1,3,9
 play,8,0,ethia001,12,.FFBFFX,8/F
 play,8,0,kempm001,10,BX,2/G/INT
-com,"$Dodgers Matt Kemp chopped the ball at the plate and stepped onto the plate as catcher"
-com,"Hank Conger tried to move out to field the ball; Kemp was called out for interference"
 play,8,0,lonej001,00,X,D9/F
 play,8,0,milea001,00,,NP
 sub,downs001,"Scott Downs",1,0,1
@@ -6353,14 +6324,11 @@ play,1,0,cabrm001,00,X,8/F
 play,1,1,iztum001,22,CBBCX,8/F
 play,1,1,huntt001,11,CBX,63/G
 play,1,1,abreb001,32,CSBBBC,K
-com,"ej,abreb001,P,campa901,Called third strike"
-com,"Angels designated hitter Bobby Abreu ejected by HP umpire Angel Campos"
 play,2,0,martv001,31,.BBBCX,43/G
 play,2,0,peraj001,00,X,7!/F
 play,2,0,avila001,12,BSFFFC,K
 play,2,1,wellv001,22,BBFFFFFT,K
 play,2,1,kendh001,02,SSFX,S6/G-
-com,"$Tigers manager Jim Leyland argued about this call with Joe West"
 play,2,1,aybae001,20,1B1B11>X,D9/G.1-H
 play,2,1,trumm001,10,BX,63/G.2-3
 play,2,1,bourp001,11,FBX,9/F
@@ -6370,7 +6338,6 @@ play,3,0,jacka001,32,CSBBBX,T8/F
 play,3,0,boesb001,12,SFFFBX,13/G
 play,3,1,mathj001,00,,NP
 sub,dirka001,"Andy Dirks",0,2,7
-com,"Tigers left fielder Brennan Boesch left the game due to an injured knee"
 play,3,1,mathj001,22,.BFBFC,K
 play,3,1,iztum001,00,X,63/G
 play,3,1,huntt001,11,BFX,8/F
@@ -6398,10 +6365,6 @@ play,6,0,ordom001,22,BCBFS,K
 play,6,1,branr001,12,CSBC,K
 play,6,1,wellv001,01,TX,D7/L
 play,6,1,kendh001,01,CX,3/LDP.2X2(36)
-com,"ej,leylj801,M,westj901,Call at 1B"
-com,"$between innings, Tigers Manager Jim Leyland and Jow West continued their argument"
-com,"about a call in the second inning; during the argument, West gradually moved towards"
-com,"the Tigers dugout, eventually standing at the railing; Leyland was ejected by West"
 play,7,0,cabrm001,02,CSS,K
 play,7,0,martv001,02,.CCX,3/G
 play,7,0,peraj001,32,FBBSFBS,K
@@ -6417,10 +6380,6 @@ play,8,1,huntt001,22,B111CB1SX,64(1)3/GDP
 play,8,1,branr001,32,SSBFFBBB,W
 play,8,1,wellv001,00,,NP
 sub,benoj001,"Joaquin Benoit",0,0,1
-com,"ej,verlj001,P,westj901,Call at 1B"
-com,"$as Tigers pitcher Justin Verlander walked off the field after being relieved, he was ejected"
-com,"by 1B umpire Joe West; apparently, Verlander was upset over a call at 1B in the second that"
-com,"eventually scored the only run of the game for the Angels"
 play,8,1,wellv001,00,..X,5/P5F
 play,9,0,jacka001,02,CFX,9/F
 play,9,0,dirka001,02,FFS,K23
@@ -6693,7 +6652,6 @@ play,8,1,trumm001,02,C>FFX,63/G.2-3
 play,8,1,bourp001,00,X,D7/L.3-H
 play,8,1,mathj001,00,,NP
 sub,calla001,"Alberto Callaspo",1,8,12
-com,"Angels center fielder Peter Bourjos left the game due to an injured leg"
 play,8,1,mathj001,01,.SX,S8/F-.2-H
 play,8,1,iztum001,00,.X,9/F
 play,9,0,ackld001,00,,NP
@@ -6809,7 +6767,6 @@ play,6,1,kendh001,02,>FFF1X,46(1)3/GDP
 play,7,0,gutif001,21,BBCX,7/F
 play,7,0,seagk001,31,BBBCB,W
 play,7,0,halmg001,12,1FBF>S,K/DP.1X2(2)
-com,"$runner Kyle Seager was called out because batter Greg Halman interfered with catcher Hank Conger"
 play,7,1,calla001,22,CBBFX,7/F
 play,7,1,trumm001,11,FBX,S7/L
 play,7,1,congh001,00,,NP
@@ -6912,11 +6869,6 @@ play,3,0,suzui001,00,X,7/F
 play,3,0,ryanb002,20,BBX,54(1)/FO/G
 play,3,1,trumm001,11,BSX,S7/L
 play,3,1,congh001,32,.BBC1BC>FF>B,W.1-2
-com,"ej,wedge001,M,holbs901,Checked swing"
-com,"$Mariners catcher Miguel Olivo appeared to throw out Mark Trumbo at 2B on a steal"
-com,"attempt but Hank Conger was awarded 1B on a walk after a check swing was not called;"
-com,"Mariners Manager Eric Wedge ejected by 3B umpire Sam Holbrook; Wedge then came on the"
-com,"field to argue with Holbrook"
 play,3,1,troum001,01,.LX,S1/G.2-H(E1/TH)(NR);1-3
 play,3,1,iztum001,32,BS1CB*B>F1>F>FX,7/F
 play,3,1,huntt001,00,X,HR/78/F.3-H;1-H
@@ -7068,7 +7020,6 @@ play,3,0,ackld001,00,X,9!/F
 play,3,1,aybae001,22,CFBBFX,8/F
 play,3,1,huntt001,22,BBCCX,S9/F
 play,3,1,abreb001,21,CBBB,W.1-2
-com,"$Abreu awarded a walk after only 3 balls"
 play,3,1,wellv001,02,CFFFFFS,K
 play,3,1,kendh001,12,BFSX,8/F
 play,4,0,smoaj001,01,CX,3/G
@@ -8405,7 +8356,6 @@ play,1,0,hamij003,01,FX,53/G
 play,1,0,younm003,02,CSX,S5/G-
 play,1,0,cruzn002,00,,NP
 sub,cassb001,"Bobby Cassevah",1,0,1
-com,"Angels pitcher Garrett Richards left the game due to an injured groin"
 play,1,0,cruzn002,12,CBF.S,K
 play,1,1,iztum001,32,BBBCFX,S7/L-
 play,1,1,calla001,12,C*B.1SX,46(1)3/GDP
@@ -8471,7 +8421,6 @@ play,7,1,aybae001,00,,NP
 sub,gentc001,"Craig Gentry",0,5,8
 play,7,1,aybae001,00,,NP
 sub,murpd005,"David Murphy",0,7,9
-com,"Rangers right fielder Nelson Cruz left the game due to an injured leg"
 play,7,1,aybae001,22,...CBCBX,9/F
 play,7,1,bourp001,32,BBBCCX,S7/G
 play,7,1,wilsb002,00,,NP
@@ -8635,7 +8584,6 @@ play,8,1,kendh001,00,,NP
 sub,gentc001,"Craig Gentry",0,3,8
 play,8,1,kendh001,00,,NP
 sub,chave002,"Endy Chavez",0,9,7
-com,"Rangers left fielder Josh Hamilton left the game due to an injured back"
 play,8,1,kendh001,02,..CFS,K
 play,8,1,aybae001,21,BCBX,43/G
 play,8,1,mathj001,11,CBX,53/G+
@@ -8717,12 +8665,6 @@ play,1,1,bourp001,21,CBBX,T7/L
 play,1,1,kendh001,00,X,43/G.3-H
 play,1,1,huntt001,01,CX,E6/TH1/G
 play,1,1,trumm001,10,BX,D9/F.1-H(UR)
-com,"$Mark Trumbo's fly hit near the top of the out-of-town scoreboard and caromed back onto"
-com,"the field; it was ruled in play; Torii Hunter slid into home just ahead of the tag by"
-com,"Yorvit Torrealba; Rangers manager Ron Washington argued the call at home with HP umpire"
-com,"Fieldin Culbreth while Angels manager Mike Scioscia went onto the field to ask about"
-com,"the ruling on the fly ball by 1B umpire Lance Barksdale; acting crew chief Ted Barrett"
-com,"watched the replay and upheld the call"
 play,1,1,wellv001,12,CBCX,7/F
 play,2,0,napom001,22,BBCCX,D9/G
 play,2,0,morem001,10,BX,43/G.2-3
@@ -9933,7 +9875,6 @@ play,2,1,aybae001,31,CBBBB,W
 play,2,1,mathj001,10,BX,53/SH/BG.1-2
 play,2,1,bourp001,00,,NP
 sub,olivl001,"Lester Oliveros",0,0,1
-com,"Twins pitcher Brian Duensing left the game due to an injured side"
 play,2,1,bourp001,22,CB.FBC,K
 play,2,1,calla001,10,BX,D9/F.2-H
 play,2,1,kendh001,11,CBX,8/F
@@ -10202,8 +10143,6 @@ play,1,1,iztum001,22,CBSFBFX,43/G
 play,1,1,bourp001,11,CBX,D9/G
 play,1,1,kendh001,11,CBX,43/G.2-3
 play,1,1,huntt001,10,BX,E8/F.3-H(UR);B-3
-com,"Originally ruled a triple, changed 3 days later to E8, leading"
-com,"to 3 UR"
 play,1,1,trumm001,11,CBX,HR/78/F.3-H(UR);B-H(UR)
 play,1,1,wellv001,10,BX,3/P3F
 play,2,0,kenna001,21,BBCX,D8/F
@@ -11224,7 +11163,6 @@ play,6,1,huntt001,10,1*BX,HR/7/F.1-H
 play,6,1,trumm001,02,CFFX,3/P
 play,7,0,sizes001,00,,NP
 sub,navae001,"Efren Navarro",1,5,3
-com,"Angels first baseman Mark Trumbo left the game due to an injured ankle"
 play,7,0,sizes001,32,.BCCBBX,8/F
 play,7,0,sogae001,00,,NP
 sub,takah001,"Hisanori Takahashi",1,0,1
@@ -11369,7 +11307,6 @@ sub,cassb001,"Bobby Cassevah",1,0,1
 play,7,0,willj004,32,.SBBBFX,3/P3F
 play,7,0,dejed001,00,,NP
 sub,taylm001,"Michael Taylor",0,5,11
-com,"Athletics right fielder David DeJesus left the game due to an injured hip"
 play,7,0,taylm001,21,.BBF.>S,SB3
 play,7,0,taylm001,32,.BBF.>S.B>X,63/G
 play,7,1,aybae001,00,,NP

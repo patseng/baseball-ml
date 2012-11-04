@@ -1630,7 +1630,6 @@ play,7,0,berkl001,11,CBX,3/G+
 play,7,0,lee-c001,01,CX,8/L
 play,7,0,scotl001,22,FCFBBC,K
 play,7,1,jenkg001,10,BX,DGR/7/L
-com,"fan interference"
 play,7,1,grosg002,30,BBBB,W
 play,7,1,counc001,32,CFF*B*BFBFX,6/P/IF
 play,7,1,bushd001,00,H,HP.2-3;1-2
@@ -1762,7 +1761,6 @@ play,5,1,hardj003,20,BBX,8/F
 play,5,1,fielp001,22,BSBFFX,43/G
 play,6,0,duncc002,00,X,13/G-
 play,6,0,pujoa001,22,CSFBBFB,W
-com,"$Pujols awarded a walk after only 3 balls"
 play,6,0,roles001,01,FX,64(1)3/GDP
 play,6,1,hallb001,02,FSFX,D7/G
 play,6,1,estrj001,01,FX,13/G-.2-3
@@ -1777,7 +1775,6 @@ play,7,0,moliy001,12,FBFX,6/P
 play,7,1,counc001,00,,NP
 sub,doved001,"Dennis Dove",0,9,1
 play,7,1,counc001,11,.BFX,43/G
-com,"Debut game for Dennis Dove"
 play,7,1,hardj003,01,CX,S1/G-
 play,7,1,fielp001,32,C*BBBSC,K
 play,7,1,hallb001,21,BFBX,64(1)/FO/G
@@ -2025,7 +2022,6 @@ play,3,0,duncc002,21,1B1BF1X,5/P5F
 play,3,1,graft001,21,BCBX,8/F
 play,3,1,capuc001,00,,NP
 sub,gwynt002,"Tony Gwynn",1,9,11
-com,"Brewers pitcher Chris Capuano left the game due to an injured leg"
 play,3,1,gwynt002,32,.LBSFBBF.C,K
 play,3,1,weekr001,12,CSBS,K
 play,4,0,pujoa001,00,,NP
@@ -2534,8 +2530,6 @@ play,7,1,hardj003,00,X,HR/7/F.2-H;1-H
 play,7,1,fielp001,01,FH,HP
 play,7,1,hallb001,00,,NP
 sub,baylj001,"Jonah Bayliss",0,4,1
-com,"ej,cappm001,P,marqa901,Intentional HBP"
-com,"Pirates pitcher Matt Capps ejected by HP umpire Alfonso Marquez"
 play,7,1,hallb001,00,..X,4/P
 play,7,1,menck001,00,X,7/F
 play,8,0,laroa001,00,,NP
@@ -2807,7 +2801,6 @@ play,4,0,zimmr001,22,1C1*BB1FFC,K
 play,4,0,churr001,00,X,8/F
 play,4,0,keara001,10,BX,S9/F-.1-3
 play,4,0,yound001,10,BX,3/P/INT
-com,"$batter interfered with first baseman on popup"
 play,4,1,menck001,22,BBCFS,K
 play,4,1,jenkg001,12,CCBS,K
 play,4,1,graft001,00,X,3/P3F
@@ -3811,13 +3804,11 @@ play,3,1,hartc001,30,BIII,IW
 play,3,1,sheeb001,02,CFS,K
 play,4,0,orr-p001,22,BFFBFX,53/G
 play,4,0,smolj001,11,FBX,S4/G
-com,"$Smoltz re-injured his right pinkie finger during at bat"
 play,4,0,johnk003,10,B1X,7/F
 play,4,0,harrw001,10,BX,43/G
 play,4,1,weekr001,00,X,4/L
 play,4,1,hardj003,00,,NP
 sub,villo001,"Oscar Villarreal",0,9,1
-com,"Braves pitcher John Smoltz left the game due to an injured shoulder"
 play,4,1,hardj003,22,.CCBBX,9/F9LF
 play,4,1,braur002,11,SBX,13/G
 play,5,0,rente001,02,CSX,9/F
@@ -5029,7 +5020,6 @@ play,2,1,fielp001,00,,NP
 sub,derom001,"Mark DeRosa",0,6,5
 play,2,1,fielp001,00,,NP
 sub,therr001,"Ryan Theriot",0,7,4
-com,"Cubs third baseman Aramis Ramirez left the game due to an injured knee"
 play,2,1,fielp001,31,...BBBCB,W
 play,2,1,estrj001,01,CX,4/P
 play,2,1,jenkg001,22,SSBBFX,3/G.1-2
@@ -5168,7 +5158,6 @@ start,menck001,"Kevin Mench",1,7,7
 start,weekr001,"Rickie Weeks",1,8,4
 start,gally001,"Yovani Gallardo",1,9,1
 play,1,0,robed001,32,CBCBFBX,S8/L
-com,"Debut game for Yovani Gallardo"
 play,1,0,winnr001,22,CBB11C>X,53/G.1-2
 play,1,0,klesr001,22,FFB*BC,K
 play,1,0,bondb001,32,BBCBCB,W
@@ -5483,7 +5472,6 @@ play,3,1,menck001,12,CBFX,D7/G+
 play,3,1,milld002,00,X,53/G
 play,4,0,molib001,00,,NP
 sub,counc001,"Craig Counsell",1,2,6
-com,"Brewers shortstop J. Hardy left the game due to an injured back"
 play,4,0,molib001,11,.CBX,9/F
 play,4,0,schin001,00,X,8/F
 play,4,0,felip001,10,BX,8/F
@@ -5514,8 +5502,6 @@ play,6,0,klins002,00,,NP
 sub,bondb001,"Barry Bonds",0,9,11
 play,6,0,bondb001,22,.BCSBFX,E4/TH/G.2-H(NR)(UR);1XH(21);B-2
 play,6,0,robed001,00,X,63/G
-com,"ej,bochb002,M,knigb901,Call at 1B"
-com,"Giants Manager Bruce Bochy ejected by 1B umpire Brian Knight"
 play,6,1,menck001,00,,NP
 sub,messr001,"Randy Messenger",0,9,1
 play,6,1,menck001,12,..FCBC,K
@@ -5686,9 +5672,6 @@ play,6,1,counc001,22,.11C>FB*BF1X,8/L
 play,6,1,braur002,22,1BSB11CB,WP.1-3
 play,6,1,braur002,32,1BSB11CB.FB,W
 play,6,1,fielp001,00,N,SB2
-com,"$After walk, there the Royals had a conference on the"
-com,"mound but did not call time so Braun stole 2nd. Not"
-com,"recorded as steal in official records until June 25"
 play,6,1,fielp001,12,SBSS,K
 play,6,1,hallb001,12,CCBT,K
 play,7,0,teahm001,22,CBSBS,K
@@ -6791,9 +6774,6 @@ play,4,0,atkig001,12,CBCS,K
 play,4,0,heltt001,32,CBBCBFF,FLE2
 play,4,0,heltt001,00,,NP
 sub,gally001,"Yovani Gallardo",1,9,1
-com,"Brewers pitcher Ben Sheets left the game with tissue damage to"
-com,"middle finger on pitching hand.  Onto DL in two days, estimated"
-com,"out for 4 to 6 weeks"
 play,4,0,heltt001,32,CBBCBFFFF.C,K
 play,4,0,tulot001,22,FBBCX,8!/L
 play,4,1,hardj003,01,CX,8/F
@@ -7747,7 +7727,6 @@ sub,parrm001,"Manny Parra",1,2,1
 play,8,0,rodrg001,00,,NP
 sub,counc001,"Craig Counsell",1,8,6
 play,8,0,rodrg001,22,..FSBBFFFS,K
-com,"Debut game for Manny Parra"
 play,8,1,menck001,00,,NP
 sub,lewif001,"Fred Lewis",0,4,7
 play,8,1,menck001,31,.BBCBX,8/F
@@ -8553,8 +8532,6 @@ play,7,0,aloum001,11,SBX,8/F
 play,7,0,easld001,00,X,S7/L+.2-3;1-2
 play,7,0,castr002,12,BFFS,K
 play,7,0,milll002,31,BFBBX,S6/G.3-H;2-H;1-2
-com,"Originally E6 and no RBI to allow second run to score,"
-com,"changed to RBI next day."
 play,7,0,sosaj002,00,X,DGR/8/F.2-H;1-3
 play,7,0,reyej001,00,,NP
 sub,shoub001,"Brian Shouse",1,9,1
@@ -10216,7 +10193,6 @@ play,1,0,sancf001,21,BBFX,D7/F.2-H
 play,1,0,laroa001,02,CCS,K
 play,1,0,bay-j001,32,FFBB*BB,W
 play,1,0,pears001,32,BBFBS>X,8!/F
-com,"Debut game for Steve Pearce"
 play,1,1,weekr001,01,CX,S8/G
 play,1,1,hardj003,32,BBBCFX,46(1)3/GDP
 play,1,1,braur002,01,CX,9/F
@@ -10273,9 +10249,7 @@ play,6,1,weekr001,00,,NP
 sub,perej001,"Juan Perez",0,5,1
 play,6,1,weekr001,00,,NP
 sub,morgn001,"Nyjer Morgan",0,9,8
-com,"Pirates first baseman Adam LaRoche left the game due to an injured knee"
 play,6,1,weekr001,11,....CBX,7/F
-com,"Debut game for Nyjer Morgan"
 play,6,1,hardj003,12,CBCX,7/F
 play,6,1,braur002,22,BSBFS,K
 play,7,0,wilsj002,00,,NP
@@ -10312,7 +10286,6 @@ sub,mccls002,"Seth McClung",1,6,1
 play,8,0,perej001,00,,NP
 sub,castj005,"Jose Castillo",0,5,11
 play,8,0,castj005,02,.....SFC,K
-com,"Debut game for Mel Stocker"
 play,8,0,pears001,32,BFBBCFX,4/L+
 play,8,0,katam001,12,BCSS,K
 play,8,1,hardj003,00,,NP
@@ -10327,7 +10300,6 @@ play,8,1,grosg002,32,.BFBFBX,3/G+
 play,9,0,wilsj002,00,,NP
 sub,stetm001,"Mitch Stetter",1,6,1
 play,9,0,wilsj002,10,.BH,HP
-com,"Debut game for Mitch Stetter"
 play,9,0,morgn001,00,B,WP.1-2
 play,9,0,morgn001,31,B.BCBB,W
 play,9,0,mclon001,00,H,HP.2-3;1-2
@@ -10455,7 +10427,6 @@ play,6,0,osorf001,02,CLT,K
 play,6,0,morgn001,00,1X,36(1)/FO/G
 play,6,0,mclon001,00,,NP
 sub,estrj001,"Johnny Estrada",1,7,2
-com,"Brewers catcher Damian Miller left the game due to an injured leg"
 play,6,0,mclon001,12,.CSFBS,K
 play,6,1,weekr001,02,CCS,K
 play,6,1,hardj003,00,.X,23/G-
@@ -10587,7 +10558,6 @@ play,4,1,jenkg001,01,FX,S8/L.2-H
 play,4,1,estrj001,00,X,S7/F-.1-2
 play,4,1,counc001,00,,NP
 sub,hallb001,"Bill Hall",1,6,12
-com,"Brewers left fielder Geoff Jenkins left the game due to an injured foot/ankle"
 play,4,1,counc001,32,.BCS*BFFFB>F>F>X,S8/L.2-H;1X3(85)
 play,5,0,pench001,00,,NP
 sub,grosg002,"Gabe Gross",1,1,7
@@ -10954,7 +10924,6 @@ play,4,0,lee-c001,22,CBFBX,64(1)3/GDP
 play,4,1,weekr001,00,,NP
 sub,paulf001,"Felipe Paulino",0,9,1
 play,4,1,weekr001,32,.CBFBBB,W
-com,"Debut game for Felipe Paulino"
 play,4,1,grosg002,21,BBCX,7/F
 play,4,1,braur002,32,BBBCSX,7/F
 play,4,1,fielp001,00,B,WP.1-2
@@ -10996,7 +10965,6 @@ sub,brune001,"Eric Bruntlett",0,5,5
 play,6,1,dillj001,00,,NP
 sub,munse001,"Eric Munson",0,8,3
 play,6,1,dillj001,11,....CBX,63/G
-com,"Debut game for J.R. Towles"
 play,6,1,rottv001,00,X,63/G
 play,6,1,hartc001,00,,NP
 sub,hallb001,"Bill Hall",1,5,11
@@ -11165,8 +11133,6 @@ play,7,0,philb001,22,FBSBS,K
 play,7,1,fielp001,12,FBFX,6/P
 play,7,1,hartc001,32,LBBSBFX,D7/L+
 play,7,1,jenkg001,12,FSBS,K
-com,"ej,jenkg001,P,hirsj901,Checked swing"
-com,"Brewers left fielder Geoff Jenkins ejected by 3B umpire John Hirschbeck"
 play,7,1,estrj001,10,.BX,S8/L.2-H
 play,7,1,hardj003,00,,NP
 sub,stocm001,"Mel Stocker",1,7,12
@@ -11661,18 +11627,11 @@ play,6,1,weekr001,31,..BBCBB,W
 play,6,1,hardj003,22,*BC*B1CFX,4/P3F
 play,6,1,braur002,01,SX,HR/78/F.1-H
 play,6,1,fielp001,32,BBBCCC,K
-com,"$Fielder and Mgr Ned Yost argue called third strike"
 play,6,1,hartc001,22,BFFBFX,E5/G.B-2
 play,6,1,jenkg001,10,*BX,S8/G.2-H(UR)
 play,6,1,hallb001,00,B,WP.1-2
 play,6,1,hallb001,32,B.CBF*B*B,W
 play,6,1,milld002,22,CFBBC,K
-com,"ej,skaaj801,C,cuzzp901,Called third strike on Miller"
-com,"ej,milld002,P,cuzzp901,Called third strike"
-com,"$Miller barked at HP umpire Phil Cuzzi after being called out but went to the dugout;"
-com,"Brewers Batting Coach Jim Skaalen ejected by HP umpire Phil Cuzzi for arguing from"
-com,"the dugout; Miller ejected as he returned to the plate to catch; Mgr Ned Yost also"
-com,"argued the call"
 play,7,0,benng001,00,,NP
 sub,rivem003,"Mike Rivera",1,8,2
 play,7,0,benng001,11,...BFX,63/G
@@ -11686,10 +11645,6 @@ play,7,0,pujoa001,31,BBBCB,W.1-2
 play,7,0,ludwr001,00,,NP
 sub,reyea002,"Anthony Reyes",0,3,12
 play,7,0,ludwr001,10,.BX,S7/G.3-H;2-H;1-2
-com,"ej,yoste001,M,cuzzp901,Call at HP after arguing balls and strikes"
-com,"$Mgr Ned Yost argued the call at the plate on Rick Ankiel, the third time he had"
-com,"been out to argue with HP umpire Phil Cuzzi since the bottom of the sixth;"
-com,"Yost was ejected by Cuzzi"
 play,7,0,tagus001,00,,NP
 sub,mccls002,"Seth McClung",1,7,1
 play,7,0,tagus001,00,,NP
@@ -11843,8 +11798,6 @@ play,7,0,ecksd001,01,CX,64(1)3/GDP
 play,7,0,schus001,01,FX,3/G
 play,7,1,counc001,22,BFCBX,S7/G
 play,7,1,fielp001,22,BBCSX,HR/7/F.1-H
-com,"$homer #50 for Fielder; he is the youngest to hit 50 and he and Cecil"
-com,"are the first father/son pair to each hit 50 in a season"
 play,7,1,hartc001,22,CFBFBS,K
 play,7,1,jenkg001,32,CBBBCC,K
 play,7,1,hallb001,22,BBFFX,S7/L
@@ -11926,8 +11879,6 @@ start,villc001,"Carlos Villanueva",1,9,1
 play,1,0,ryanb002,02,CSS,K
 play,1,0,ankir001,11,CBX,3/G
 play,1,0,pujoa001,01,CX,HR/9/L
-com,"$Pujols becomes the first player with 30 HR and 100 RBI in each of his"
-com,"first seven seasons"
 play,1,0,ludwr001,12,BCSX,8/F
 play,1,1,weekr001,02,CSFX,63/G
 play,1,1,hardj003,22,BBCFFFFX,E5/G
@@ -11946,7 +11897,6 @@ play,2,1,weekr001,02,CCS,K
 play,2,1,hardj003,32,BBFBFX,64(1)/FO/G.2-3
 play,2,1,braur002,01,CX,DGR/7/F.3-H(UR);1-3
 play,2,1,fielp001,10,BH,HP
-com,"$both sides warned"
 play,2,1,hartc001,01,FX,9/F
 play,3,0,milea001,21,BBCX,S9/G
 play,3,0,ryanb002,01,1FX,53/SH/BG.1-2
@@ -12003,9 +11953,6 @@ play,8,0,ankir001,11,.CBX,8/F
 play,8,0,pujoa001,00,,NP
 sub,mccls002,"Seth McClung",1,9,1
 play,8,0,pujoa001,00,.H,HP
-com,"ej,mccls002,P,hallt901,Intentional HBP"
-com,"ej,yoste001,M,hallt901,Intentional HBP by McClung"
-com,"Brewers pitcher Seth McClung & Mgr Ned Yost ejected by HP umpire Tom Hallion"
 play,8,0,ludwr001,00,,NP
 sub,turnd001,"Derrick Turnbow",1,9,1
 play,8,0,ludwr001,22,...CBBSS,K
@@ -12324,8 +12271,6 @@ sub,gwynt002,"Tony Gwynn",1,9,11
 play,5,1,gwynt002,21,.LBBX,6/L-
 play,5,1,weekr001,32,BBBCSX,S7/G
 play,5,1,hardj003,32,BCPBF>X,S5/G.1-2
-com,"$Froemming blew the call as replays are unequivocal that"
-com,"the throw beat the runner.  Only mild complaint from Padres"
 play,5,1,braur002,12,CFB>X,64(1)3/GDP
 play,6,0,gonza003,00,,NP
 sub,vargc001,"Claudio Vargas",1,9,1

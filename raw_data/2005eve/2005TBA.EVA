@@ -369,8 +369,6 @@ play,4,0,hills002,01,FX,6/L
 play,4,0,menef001,22,CFBBX,43/G
 play,4,0,riosa002,00,X,9/F
 play,4,1,lugoj001,22,BSCBC,K
-com,"ej,lugoj001,P,cuzzp901,Called third strike"
-com,"Devil Rays second baseman Julio Lugo ejected by HP umpire Phil Cuzzi"
 play,4,1,singc001,22,.BSFFBFS,K
 play,4,1,cantj001,32,BBSFBFS,K
 play,5,0,zaung001,00,,NP
@@ -703,7 +701,6 @@ play,4,1,huffa001,32,BBFBFB,W.1-2
 play,4,1,lugoj001,00,,NP
 sub,yabuk001,"Keiichi Yabu",0,0,1
 play,4,1,lugoj001,12,.CF*BFX,S7/L-.3-H;2-H;1-2
-com,"Debut game for Keiichi Yabu"
 play,4,1,cantj001,02,CSS,K
 play,4,1,phelj001,10,BX,D7/L.2-H;1XH(762)
 play,5,0,thomc001,22,CBCBX,6/P
@@ -2088,7 +2085,6 @@ play,3,0,rente001,00,X,FC5/G.2X3(5)
 play,3,1,singc001,01,CX,S9/L
 play,3,1,johnc002,00,,NP
 sub,hallt001,"Toby Hall",1,8,11
-com,"Devil Rays catcher Charles Johnson left the game due to an injured neck/shoulder"
 play,3,1,hallt001,01,.CX,46(1)3/GDP
 play,3,1,green001,00,X,S9/L
 play,3,1,crawc002,11,CBX,43/G
@@ -2124,16 +2120,6 @@ play,7,0,nixot001,00,,NP
 sub,cartl002,"Lance Carter",1,0,1
 play,7,0,nixot001,10,.BX,3/P
 play,7,0,ramim002,10,BX,HR/7/L
-com,"ej,nixot001,P,barrt901,Bench-clearing brawl"
-com,"ej,cartl002,P,barrt901,Throwing at David Ortiz"
-com,"ej,pinil001,M,barrt901,Throwing at David Ortiz"
-com,"ej,brazd001,P,barrt901,Bench-clearing brawl"
-com,"$Carter threw a pitch at Ortiz' head; Ortiz started to the mound"
-com,"but was held by Umpire Barrett; benches cleared;"
-com,"Devil Rays pitcher Lance Carter & Mgr Lou Piniella ejected by"
-com,"HP umpire Ted Barrett;"
-com,"Red Sox right fielder Trot Nixon ejected by HP umpire Ted Barrett"
-com,"Devil Rays pitcher Dewon Brazelton ejected by HP umpire Ted Barrett"
 play,7,0,ortid001,22,CFBB,NP
 sub,mccls002,"Seth McClung",1,0,1
 play,7,0,ortid001,22,CFBB..FFFS,K
@@ -2143,10 +2129,6 @@ sub,paytj001,"Jay Payton",0,2,9
 play,7,1,singc001,00,.H,HP
 play,7,1,hallt001,00,,NP
 sub,mantm001,"Matt Mantei",0,0,1
-com,"ej,arrob001,P,barrt901,Intentional HBP"
-com,"ej,frant001,M,barrt901,Intentional HBP"
-com,"Red Sox pitcher Bronson Arroyo & Mgr Terry Francona ejected by"
-com,"HP umpire Ted Barrett"
 play,7,1,hallt001,32,..SBBFFBB,W.1-2
 play,7,1,green001,32,...CBBFBFS,K
 play,7,1,crawc002,00,,NP
@@ -2419,7 +2401,6 @@ play,2,1,phelj001,20,BBX,S8/F
 play,2,1,holld002,22,FS*BBX,54(1)/FO/G
 play,3,0,martt002,12,BFFX,HR/9/F
 play,3,0,canor001,00,X,63/G
-com,"Debut game for Robinson Cano"
 play,3,0,jeted001,21,BFBX,8/L
 play,3,0,womat001,01,CX,63/G
 play,3,1,green001,10,BX,53/G
@@ -2535,7 +2516,6 @@ start,hallt001,"Toby Hall",1,8,2
 start,holld002,"Damon Hollins",1,9,8
 start,nomoh001,"Hideo Nomo",1,0,1
 play,1,0,jeted001,02,FCX,7/F
-com,"Debut game for Sean Henn"
 play,1,0,womat001,22,CBCBFFX,43/G
 play,1,0,shefg001,21,BCBX,8/F
 play,1,1,crawc002,12,CSBX,S7/L-
@@ -2620,7 +2600,6 @@ sub,millt002,"Trever Miller",1,0,1
 play,8,0,giamj001,02,.CFFH,HP
 play,8,0,posaj001,00,,NP
 sub,phila001,"Andy Phillips",0,6,12
-com,"$Giambi hit on head by pitch"
 play,8,0,posaj001,10,..BX,S8/F.1-3;B-2(E8)
 play,8,0,martt002,20,BBX,8/SF.3-H(UR);2-3
 play,8,0,canor001,01,CX,43/G.3-H(UR)
@@ -3016,7 +2995,6 @@ play,6,0,cuddm001,00,X,9/F
 play,6,1,cantj001,00,,NP
 sub,bakes002,"Scott Baker",0,0,1
 play,6,1,cantj001,31,.BFBBX,D8/L
-com,"Debut game for Scott Baker"
 play,6,1,green001,00,X,1/SH/BG.2-3
 play,6,1,hallt001,21,SBBX,3/P3F
 play,6,1,holld002,32,BFBFFBX,4/P
@@ -3277,7 +3255,6 @@ play,1,0,iguct001,10,B>C,SB2
 play,1,0,iguct001,21,B>C.BX,D9/L.2-H
 play,1,0,everc001,32,CBB*BFFX,S6/G.2-3
 play,1,0,konep001,02,CSX,8/SF.3-H;1X2(24)
-com,"No DP"
 play,1,0,rowaa001,01,CX,7/F
 play,1,1,sanca003,30,BBBB,W
 play,1,1,lugoj001,22,BCBS>F>S,K+SB2
@@ -3318,7 +3295,6 @@ play,5,1,sanca003,11,CBX,3/BP3F
 play,5,1,lugoj001,11,BCX,9/F9LF
 play,6,0,konep001,00,,NP
 sub,cartl002,"Lance Carter",1,0,1
-com,"Devil Rays pitcher Hideo Nomo left the game due to an injured leg"
 play,6,0,konep001,21,B..BCX,S6/G
 play,6,0,rowaa001,00,X,S8/L-.1-2
 play,6,0,dye-j001,21,CBBX,6/P/IF
@@ -3931,7 +3907,6 @@ play,4,1,cantj001,00,H,HP
 play,4,1,sanca003,32,BFFBFFBX,46(1)3/GDP
 play,5,0,hatts001,00,,NP
 sub,peree001,"Eduardo Perez",1,7,9
-com,"Devil Rays center fielder Alex Sanchez left the game due to an injured leg"
 play,5,0,hatts001,32,..BCBCBX,9/F
 play,5,0,ellim001,31,FBBBB,W
 play,5,0,swisn001,30,BBBB,W.1-2
@@ -4678,7 +4653,6 @@ play,1,1,peree001,10,B1,PO1(13)
 play,2,0,hallb001,20,BBX,8/F
 play,2,0,jenkg001,12,CFBFS,K
 play,2,0,fielp001,00,X,63/G
-com,"Debut game for Prince Fielder"
 play,2,1,peree001,22,BCBSX,D8/L
 play,2,1,holld002,20,BBX,9/FDP.2X3(95)
 play,2,1,gomej001,12,FFBX,8/F
@@ -4875,7 +4849,6 @@ play,7,1,green001,00,X,9/F
 play,8,0,milld002,00,,NP
 sub,corct002,"Tim Corcoran",1,0,1
 play,8,0,milld002,00,.X,9/F
-com,"Debut game for Tim Corcoran"
 play,8,0,helmw001,01,CX,3/P3F
 play,8,0,magrc001,20,BBX,9/F
 play,8,1,crawc002,01,CX,S7/L
@@ -5118,7 +5091,6 @@ play,4,1,gomej001,22,FBFBH,HP.1-2
 play,4,1,hallt001,02,CFX,4(1)3/GDP
 play,5,0,pujoa001,00,,NP
 sub,harpt002,"Travis Harper",1,0,1
-com,"Devil Rays pitcher Scott Kazmir left the game due to an injured foot/ankle"
 play,5,0,pujoa001,10,.BX,9/F
 play,5,0,sandr002,20,BBX,S9/L
 play,5,0,grudm001,02,FC>X,9/F
@@ -5693,7 +5665,6 @@ start,hallt001,"Toby Hall",1,8,2
 start,green001,"Nick Green",1,9,4
 start,fossc001,"Casey Fossum",1,0,1
 play,1,0,pierj002,01,CX,S7/L
-com,"Debut game for Scott Olsen"
 play,1,0,castl001,12,1CC1B1>X,S7/L.1-3
 play,1,0,cabrm001,12,CB+3FS,K
 play,1,0,delgc001,00,X,S8/G.3-H;1-3
@@ -5994,8 +5965,6 @@ play,3,1,crawc002,31,BBBCB,W
 play,3,1,lugoj001,10,1B>B,SB2
 play,3,1,lugoj001,30,1B>B.BB,W
 play,3,1,huffa001,11,BCX,HR/9/F.2-H;1-H
-com,"ej,gibbj001,M,buckc901,Balls and strikes"
-com,"Blue Jays Manager John Gibbons ejected by HP umpire CB Bucknor"
 play,3,1,cantj001,11,C.BX,8/F
 play,4,0,wellv001,01,CX,S7/L
 play,4,0,hills002,10,*BX,S6/L.1-2
@@ -6585,10 +6554,6 @@ play,1,0,monrc001,01,FX,S8/G.3-H;2-H
 play,1,0,infao001,01,C1>X,3/P
 play,1,1,crawc002,10,B,NP
 sub,germf001,"Franklyn German",0,0,1
-com,"ej,roben001,P,mcclt901,Throwing behind batter"
-com,"Tigers pitcher Nate Robertson ejected by HP umpire Tim McClelland; his"
-com,"first pitch sailed behind Carl Crawford apparently as retaliation for"
-com,"Polanco being hit; he threw one pitch as a starter and then was ejected"
 play,1,1,crawc002,21,B..CBX,8/F
 play,1,1,lugoj001,12,BCFX,43/G
 play,1,1,cantj001,01,CX,9/F
@@ -6802,7 +6767,6 @@ play,7,0,rodri001,00,X,46(1)3/GDP
 play,7,1,green001,00,,NP
 sub,hoopk001,"Kevin Hooper",0,4,7
 play,7,1,green001,11,.BCX,6/P
-com,"Debut game for Kevin Hooper"
 play,7,1,hallt001,00,X,53/G
 play,7,1,gathj001,32,LBBBFFFS,K
 play,8,0,yound001,21,CBBX,43/G
@@ -6917,7 +6881,6 @@ play,4,0,polap001,00,X,63/G
 play,4,0,guilc001,10,BX,53/G
 play,4,1,gomej001,00,,NP
 sub,infao001,"Omar Infante",0,1,4
-com,"Tigers second baseman Placido Polanco left the game due to an injured leg"
 play,4,1,gomej001,21,..FBBX,53/G
 play,4,1,green001,12,CSBS,K
 play,4,1,cashk001,12,BCCC,K
@@ -7100,7 +7063,6 @@ play,6,0,bigbl001,31,CBBBX,S8/G.1-2
 play,6,0,fasas001,11,FBX,9/F
 play,6,1,crawc002,00,,NP
 sub,surhb001,"B.J. Surhoff",0,6,9
-com,"Jay Gibbons left the game due to an injured back"
 play,6,1,crawc002,22,.LBFBX,7/F
 play,6,1,cantj001,31,BBBCB,W
 play,6,1,gomej001,32,CCFBBFBX,S5/G.1-2
@@ -7672,7 +7634,6 @@ play,3,0,varij001,31,BCBBB,W.1-2
 play,3,0,millk005,30,BBBX,S7/L.3-H;2-3;1-2
 play,3,0,nixot001,00,,NP
 sub,hyzda001,"Adam Hyzdu",0,7,11
-com,"Red Sox right fielder Trot Nixon left the game due to an injured back"
 play,3,0,hyzda001,32,.BBT.CBC,K
 play,3,0,muelb001,01,CB,WP.3-H;2-3;1-2
 play,3,0,muelb001,21,CB.BX,2/P2F
@@ -7682,8 +7643,6 @@ play,3,1,lafop001,12,.CSBT,K
 play,3,1,gonza001,11,BCX,D7/L
 play,3,1,gathj001,12,BFFX,S3/G.2-3
 play,3,1,crawc002,00,X,S17/L.3-H;1-2
-com,"$Line drive off right side of Clement's head. Did not"
-com,"lose consciousness. CT scan shows no damage"
 play,3,1,lugoj001,00,,NP
 sub,bradc001,"Chad Bradford",0,0,1
 play,3,1,lugoj001,10,.BX,S5/G.2-3;1-2
@@ -7761,7 +7720,6 @@ play,8,0,ortid001,00,.X,5/P
 play,8,1,gomej001,00,,NP
 sub,delcm001,"Manny Delcarmen",0,0,1
 play,8,1,gomej001,32,..CBBFBS,K
-com,"Debut game for Manny Delcarmen"
 play,8,1,lee-t002,10,BX,43/G
 play,8,1,gonza001,22,CBBCFX,163/G
 play,9,0,ramim002,00,,NP
@@ -8014,7 +7972,6 @@ start,hallt001,"Toby Hall",1,8,2
 start,green001,"Nick Green",1,9,4
 start,kazms001,"Scott Kazmir",1,0,1
 play,1,0,dejed001,32,BBCFFBX,DGR/9/L
-com,"fan interference"
 play,1,0,ambrc001,32,CBBBFB,W
 play,1,0,sweem002,12,FFF*BX,D7/G.2-H;1-H
 play,1,0,browe001,00,X,3/P3F
@@ -9598,8 +9555,6 @@ play,7,0,blakc001,22,CS*BBX,S9/F.1-3
 play,7,0,sizeg001,11,SBX,S9/L.3-H;1-2
 play,7,0,crisc001,01,CX,S9/L.2-H;1-2
 play,7,0,peraj001,22,CBFFBX,8/F
-com,"Tremendous catch by Gathright who crashed into wall, hurting"
-com,"shoulder.  Left for pinch-hitter."
 play,7,1,gathj001,00,,NP
 sub,saues001,"Scott Sauerbeck",0,0,1
 play,7,1,gathj001,00,,NP
@@ -10924,9 +10879,6 @@ play,7,0,hills002,00,X,S7/G
 play,7,0,hilla001,11,BCX,S8/F.1-3;B-2(E8)
 play,7,0,zaung001,12,FC*BX,3/P3F
 play,7,0,riosa002,22,CFBBFS,K
-com,"ej,gibbj001,M,welkb901,Arguing that the third strike foul tip hit the ground"
-com,"Blue Jays Manager John Gibbons ejected by HP umpire Bill Welke"
-com,"arguing that the third strike foul tip hit the ground"
 play,7,0,quirg001,31,.BCBBX,D8/F.3-H;2-H(UR)
 play,7,0,adamr002,02,CSS,K
 play,7,1,gomej001,01,CX,8/F
@@ -11144,7 +11096,6 @@ play,6,0,willb002,20,.BBX,S9/L.2-3;1-2
 play,6,0,posaj001,00,,NP
 sub,ventm001,"Mike Vento",0,6,12
 play,6,0,posaj001,01,.CX,S8/G.3-H;2-H;1-2
-com,"Debut game for Mike Vento"
 play,6,0,canor001,12,BFSX,46(1)/FO/G.2-3
 play,6,0,crosb001,01,FX,8/F
 play,6,1,huffa001,00,,NP
@@ -11185,8 +11136,6 @@ play,7,1,holld002,10,BX,2/P2F
 play,8,0,sierr001,01,FX,7/F
 play,8,0,lawtm002,32,CBBSBB,W
 play,8,0,ventm001,02,CCX,64(1)/FO/DP.BX1(13)
-com,"$Vento thought the inning was over on the force at second and"
-com,"turned to dugout after crossing base"
 play,8,1,cantj001,00,,NP
 sub,rodrf002,"Felix Rodriguez",0,0,1
 play,8,1,cantj001,10,.BX,53/G
@@ -11514,7 +11463,6 @@ play,8,0,matsh001,00,,NP
 sub,womat001,"Tony Womack",0,4,12
 play,8,0,matsh001,00,,NP
 sub,cartl002,"Lance Carter",1,0,1
-com,"Devil Rays pitcher Jesus Colome left the game due to an injured leg"
 play,8,0,matsh001,22,...1BCCF1BX,S8/F.1-2
 play,8,0,willb002,00,X,36(1)/FO/G
 play,8,1,gomej001,00,,NP
@@ -11624,7 +11572,6 @@ play,3,0,rente001,12,BFSX,8/SF.3-H
 play,3,0,ortid001,12,CBFS,K
 play,3,1,cantj001,00,,NP
 sub,coraa001,"Alex Cora",0,8,4
-com,"Red Sox second baseman Tony Graffanino left the game due to an injured groin"
 play,3,1,cantj001,32,.FBBF*BX,63/G
 play,3,1,gomej001,10,BX,S6/G
 play,3,1,peree001,00,*B,WP.1-2
@@ -11656,7 +11603,6 @@ play,5,0,ramim002,00,X,9/F
 play,5,1,hallt001,00,,NP
 sub,hansc001,"Craig Hansen",0,0,1
 play,5,1,hallt001,12,.CSFBS,K
-com,"Debut game for Craig Hansen"
 play,5,1,holld002,32,BBCBFFFX,6/P
 play,5,1,lugoj001,22,CSFBBS,K
 play,6,0,varij001,31,CBBBB,W
@@ -11882,7 +11828,6 @@ sub,petar001,"Roberto Petagine",0,8,7
 play,7,1,gonza001,00,,NP
 sub,coraa001,"Alex Cora",0,9,5
 play,7,1,gonza001,12,....FSBX,63/G
-com,"Debut game for Hanley Ramirez"
 play,7,1,lee-t002,10,BX,S9/L
 play,7,1,lafop001,31,CBBBB,W.1-2
 play,7,1,gathj001,12,BSSS,K
@@ -12331,8 +12276,6 @@ play,6,1,huffa001,00,X,7/F7LF
 play,7,0,newhd001,00,X,S6/BG
 play,7,0,gil-g001,00,X,13/SH/BG.1-2
 play,7,0,byrne001,22,CSBFBX,7/F7LF.2-H(E7/TH)(NR)(UR)
-com,"$Hollins thought it was third out, threw the ball into"
-com,"stands. Scored as 2 base throwing error"
 play,7,0,gomec001,22,BCBFX,63/G
 play,7,1,gomej001,22,BFFBX,4/P
 play,7,1,lee-t002,00,X,S5/BG

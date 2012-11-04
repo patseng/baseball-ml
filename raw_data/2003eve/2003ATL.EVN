@@ -46,7 +46,6 @@ start,maddg002,"Greg Maddux",1,9,1
 play,1,0,chave002,02,CFX,T9/F
 play,1,0,vidrj001,00,X,7/F7LF/SF.3-H
 play,1,0,callr001,00,X,D9/G
-com,"Debut game for Ron Calloway"
 play,1,0,cordw001,02,CFS,K
 play,1,0,wilkb002,21,BBCX,S8/L.2-H
 play,1,0,cabro001,00,1X,HR/7/F.1-H
@@ -55,7 +54,6 @@ play,1,1,furcr001,10,BX,7/F
 play,1,1,fickr001,11,BCX,S8/G
 play,1,1,shefg001,12,BFFX,S3/P.1-2
 play,1,1,jonec004,22,BCFFBX,6/P
-com,"Infield Fly rule"
 play,1,1,jonea002,11,BSX,8/F
 play,2,0,barrm003,11,CBX,53/G
 play,2,0,armat002,10,BX,53/G
@@ -138,7 +136,6 @@ sub,ayall001,"Luis Ayala",0,4,1
 play,8,1,shefg001,00,,NP
 sub,liefj001,"Jeff Liefer",0,9,3
 play,8,1,shefg001,32,..BBCCBB,W
-com,"Debut game for Luis Ayala"
 play,8,1,jonec004,20,BBX,S9/L.1-2
 play,8,1,jonea002,11,C*BX,8/F.2-3
 play,8,1,gilem001,01,CX,S8/L.3-H;1-2
@@ -211,7 +208,6 @@ start,castv001,"Vinny Castilla",1,7,5
 start,derom001,"Mark De Rosa",1,8,4
 start,ramih002,"Horacio Ramirez",1,9,1
 play,1,0,chave002,10,BX,S7/L
-com,"Debut game for Horacio Ramirez"
 play,1,0,vidrj001,12,BF111FX,HR/7/F.1-H
 play,1,0,callr001,10,BX,3/G
 play,1,0,cordw001,00,X,9/F
@@ -1022,7 +1018,6 @@ start,lopej001,"Javy Lopez",1,6,2
 start,castv001,"Vinny Castilla",1,7,5
 start,gilem001,"Marcus Giles",1,8,4
 start,ortir001,"Russ Ortiz",1,9,1
-com,"11 minute delay sometime in game"
 play,1,0,castl001,00,X,43/G
 play,1,0,pierj002,21,BBCX,9/F
 play,1,0,rodri001,11,SBX,4/F
@@ -1210,7 +1205,6 @@ play,6,1,gilem001,22,FFBBX,E5/G.B-2
 play,6,1,shefg001,02,CSX,S7/G+.2-3
 play,6,1,jonec004,30,B*BBB,W.1-2
 play,6,1,jonea002,12,*BCFX,6/P
-com,"Infield fly rule"
 play,6,1,franj002,20,BBX,S9/L-.3-H(UR);2-H;1-2
 play,6,1,castv001,00,,NP
 sub,silvc001,"Carlos Silva",0,9,1
@@ -1318,7 +1312,6 @@ play,2,1,jonea002,12,CSBX,3/P3F
 play,2,1,lopej001,02,CFX,64(1)/FO/G
 play,2,1,castv001,00,,NP
 sub,blanh001,"Henry Blanco",1,6,12
-com,"Javy Lopez left the game due to an injured leg"
 play,2,1,castv001,02,..SFS,K
 play,3,0,padiv001,00,,NP
 sub,blanh001,"Henry Blanco",1,6,2
@@ -1787,7 +1780,6 @@ play,7,0,martt002,20,BBX,5/P
 play,7,0,marre001,01,FX,5/P
 play,7,1,jonea002,00,X,S9/L
 play,7,1,franm001,02,F1FX,4(1)3/G/DP/INT
-com,"DP from interference, no GDP"
 play,7,1,castv001,22,BBCFS,K
 play,8,0,mathm001,00,,NP
 sub,hernr001,"Roberto Hernandez",1,9,1
@@ -1876,7 +1868,6 @@ start,franm001,"Matt Franco",1,6,3
 start,castv001,"Vinny Castilla",1,7,5
 start,estrj001,"Johnny Estrada",1,8,2
 start,hampm001,"Mike Hampton",1,9,1
-com,"36 minute delay during game"
 play,1,0,vinaf001,22,BCCBS,K
 play,1,0,cairm001,01,CX,63/G
 play,1,0,rente001,00,X,63/G
@@ -2039,7 +2030,6 @@ start,franm001,"Matt Franco",1,6,3
 start,estrj001,"Johnny Estrada",1,7,2
 start,derom001,"Mark De Rosa",1,8,5
 start,reyns001,"Shane Reynolds",1,9,1
-com,"7 minute delay during game"
 play,1,0,sanca003,10,BX,S4/L
 play,1,0,youne001,01,1CX,S9/L.1-3
 play,1,0,sexsr001,10,BX,HR/7/F.3-H;1-H
@@ -2251,7 +2241,6 @@ play,6,1,castv001,22,BFFFBX,S7/G.2-H;1-2
 play,6,1,lopej001,00,,NP
 sub,vizcl001,"Luis Vizcaino",0,9,1
 play,6,1,lopej001,31,.BBFBX,5/P
-com,"Infield fly rule"
 play,6,1,grybk001,00,,NP
 sub,franm001,"Matt Franco",1,9,11
 play,6,1,franm001,00,.X,43/G
@@ -3047,7 +3036,6 @@ play,9,0,santb001,22,BCBCS,K
 play,9,1,jonea002,00,,NP
 sub,ellij001,"Jason Ellison",0,3,7
 play,9,1,jonea002,12,.BSFX,7/F
-com,"Debut game for Jason Ellison"
 play,9,1,fickr001,02,FSX,S7/L
 play,9,1,castv001,00,X,5/P
 play,9,1,blanh001,10,BX,5/L
@@ -3140,7 +3128,6 @@ play,5,0,aurir001,21,BFBX,7/F
 play,5,0,bondb001,00,X,9/F
 play,5,1,castv001,00,,NP
 sub,peren001,"Neifi Perez (Diaz)",0,1,4
-com,"Giants Ray Durham left the game due to an injured foot/ankle"
 play,5,1,castv001,02,.CFC,K
 play,5,1,lopej001,00,X,S8/L
 play,5,1,ramih002,01,CX,16(1)3/GDP
@@ -3249,7 +3236,6 @@ start,fickr001,"Robert Fick",1,6,3
 start,derom001,"Mark De Rosa",1,7,5
 start,lopej001,"Javy Lopez",1,8,2
 start,hampm001,"Mike Hampton",1,9,1
-com,"1:52 delay during game"
 play,1,0,ellij001,21,BFBX,13/G
 play,1,0,peren001,10,BX,D7/G+
 play,1,0,aurir001,12,CBFS,K23
@@ -3961,7 +3947,6 @@ play,10,0,keara001,10,BX,5/P
 play,10,0,cases001,20,BBX,8/L
 play,10,1,gilem001,00,,NP
 sub,sulls001,"Scott Sullivan",0,1,1
-com,"Reds Scott Williamson left the game due to an injured elbow"
 play,10,1,gilem001,21,..BFBX,8/F
 play,10,1,shefg001,32,BCBBFB,W
 play,10,1,jonec004,32,BBCFB>B,W.1-2
@@ -4061,7 +4046,6 @@ play,1,0,guilj001,00,1X,S8/L.1-2
 play,1,0,grifk002,30,BBBB,W.2-3;1-2
 play,1,0,keara001,30,BBBB,W.3-H;2-3;1-2
 play,1,0,boona001,00,X,6/P
-com,"Infield Fly rule"
 play,1,0,cases001,01,CX,6(1)3/GDP
 play,1,1,furcr001,12,BCCX,13/G
 play,1,1,gilem001,22,CBFBX,8/F
@@ -4107,7 +4091,6 @@ play,5,1,jonec004,12,BFFX,46(1)/FO/G
 play,5,1,jonea002,22,BCBF1>S,K
 play,6,0,cases001,00,,NP
 sub,derom001,"Mark De Rosa",1,2,4
-com,"Braves Marcus Giles left the game due to an injured elbow"
 play,6,0,cases001,22,.BCFBX,43/G
 play,6,0,stink001,00,X,63/G
 play,6,0,lopef001,20,BBX,53/G
@@ -4233,8 +4216,6 @@ play,1,0,keara001,11,BCX,53/G
 play,1,1,furcr001,12,FBCX,HR/9/F
 play,1,1,derom001,00,X,HR/8/F
 play,1,1,shefg001,21,BBFX,HR/7/F
-com,"$2nd time in history that first 3 batters for"
-com,"team homered to start the game (1987 Padres)"
 play,1,1,jonec004,22,BSSFBX,53/G
 play,1,1,jonea002,32,BBCBCX,7/F
 play,1,1,fickr001,31,BBBCB,W
@@ -4699,7 +4680,6 @@ play,2,0,sadld001,32,CTBBBB,W
 play,2,0,santv001,00,X,34/SH/BG.2-3;1-2
 play,2,0,younm003,00,,NP
 sub,hodgt001,"Trey Hodges",1,9,1
-com,"Braves Mike Hampton left the game due to an injured groin"
 play,2,0,younm003,32,..BBBSFB,W
 play,2,0,blalh001,10,BX,S9/L-.3-H(UR);2-H(UR);1-3
 play,2,0,rodra001,12,CCFBX,63/G
@@ -5381,7 +5361,6 @@ play,4,1,jonea002,32,CBFFFFBBB,W
 play,4,1,fickr001,20,BB>C,SB2
 play,4,1,fickr001,32,BB>C.CBB,W
 play,4,1,lopej001,01,CX,3/P
-com,"Infield Fly rule"
 play,4,1,castv001,31,BBBCX,5(2)/FO/G
 play,5,0,cruzd001,21,BFBX,8/F
 play,5,0,gil-g001,22,FBSBX,7!/F
@@ -6158,7 +6137,6 @@ play,8,1,fickr001,11,CBX,3/G
 play,9,0,chave002,00,,NP
 sub,bongj001,"Jung Bong",1,9,1
 play,9,0,chave002,01,.CX,2/BG/INT
-com,"ran into his own bunt"
 play,9,0,wilkb002,12,CSBS,K
 play,9,0,cabro001,01,FX,53/G
 play,9,1,lopej001,32,BCFBBB,W
@@ -6387,7 +6365,6 @@ start,fickr001,"Robert Fick",1,6,3
 start,castv001,"Vinny Castilla",1,7,5
 start,blanh001,"Henry Blanco",1,8,2
 start,maddg002,"Greg Maddux",1,9,1
-com,"1:07 delay during game"
 play,1,0,chave002,11,CBX,7/F
 play,1,0,vidrj001,00,X,S7/L
 play,1,0,guzme001,01,1CX,16(1)3/GDP
@@ -6532,7 +6509,6 @@ start,fickr001,"Robert Fick",1,6,3
 start,lopej001,"Javy Lopez",1,7,2
 start,derom001,"Mark De Rosa",1,8,5
 start,hampm001,"Mike Hampton",1,9,1
-com,"24 minute delay during game"
 play,1,0,mateh001,01,CX,S7/G
 play,1,0,carrj001,01,FX,54(1)3/GDP
 play,1,0,callr001,02,CSS,K
@@ -6554,8 +6530,6 @@ play,3,0,drewt001,22,SCBBX,8/L
 play,3,0,mateh001,31,BBCBX,S9/L-
 play,3,0,carrj001,11,1CB1N,BK.1-2
 play,3,0,carrj001,12,1CB1N.FX,S7/L.2-H
-com,"ej,cox-b103,M,cuzzp901,Balk call"
-com,"Braves Manager Bobby Cox ejected by HP umpire Phil Cuzzi"
 play,3,0,callr001,00,.1X,S8/L.1-2
 play,3,0,cabro001,00,X,8/F
 play,3,0,vitij001,02,CFFX,D9/G.2-H;1-H
@@ -6588,7 +6562,6 @@ play,5,1,lopej001,01,CX,S7/L.3-H;2-H;1-2
 play,5,1,derom001,00,,NP
 sub,hebsb001,"Bryan Hebson",0,9,1
 play,5,1,derom001,22,.CCBFFFBFX,64(1)/FO/G
-com,"Debut game for Bryan Hebson"
 play,6,0,wilkb002,12,FCBS,K
 play,6,0,macij001,11,FBX,S7/G
 play,6,0,barrm003,00,X,54(1)3/GDP
@@ -7184,7 +7157,6 @@ play,5,0,clart002,12,FBCX,S8/L
 play,5,0,mcewj001,32,BFBFBFB,W.1-2
 play,5,0,leita001,00,X,E1/TH/SH/BG.2-3;1-2
 play,5,0,reyej001,01,CX,3/P
-com,"Infield Fly rule"
 play,5,0,duncj001,12,SBCX,S7/L-.3-H;2-H;1-2
 play,5,0,ceder001,21,BCBX,9/F
 play,5,0,wiggt001,01,FX,S8/L.2-H(UR);1-3(E8)
@@ -7375,7 +7347,6 @@ play,4,1,gilem001,00,,NP
 sub,vered001,"Dave Veres",0,9,1
 play,4,1,gilem001,22,.CCFF*B*BS,K
 play,4,1,shefg001,00,X,6/P
-com,"Infield Fly rule"
 play,4,1,jonec004,22,SCBFBX,3/G
 play,5,0,aloum001,00,X,S8/L-
 play,5,0,choih001,22,1C1BBFFS,K
@@ -7523,7 +7494,6 @@ start,castv001,"Vinny Castilla",1,7,5
 start,blanh001,"Henry Blanco",1,8,2
 start,maddg002,"Greg Maddux",1,9,1
 play,1,0,goodt001,32,FBBFBX,43/G
-com,"Debut game for Sergio Mitre"
 play,1,0,grudm001,22,CCBBX,63/G
 play,1,0,sosas001,02,CFF,FLE3
 play,1,0,sosas001,02,CFFFX,9/F
@@ -7546,8 +7516,6 @@ play,3,0,mitrs001,00,X,S8/L
 play,3,0,goodt001,21,BBFX,D9/F.1-3
 play,3,0,grudm001,00,,NP
 sub,hubbt001,"Trenidad Hubbard",0,1,12
-com,"Cubs Tom Goodwin left the game due to an injured leg"
-com,"Hamstring strain as he neared second"
 play,3,0,grudm001,32,..BFBBCX,D4/P.3-H;2-3
 play,3,0,sosas001,22,FFBBFX,3/G.3-H;2-3
 play,3,0,aloum001,32,BFBF*BX,8/F
@@ -7911,7 +7879,6 @@ play,5,1,jonea002,00,>C,SB2
 play,5,1,jonea002,02,>C.SX,53/G
 play,6,0,encaj001,00,,NP
 sub,bragd001,"Darren Bragg",1,5,8
-com,"Braves Andruw Jones left the game due to an injured leg"
 play,6,0,encaj001,01,.FX,53/G
 play,6,0,lee-d002,32,CFBBBX,53/G
 play,6,0,cabrm001,20,BBX,HR/7/F
@@ -8037,7 +8004,6 @@ play,3,0,bagwj001,12,BCSX,9/F
 play,3,1,ortir001,10,BX,HR/7/F
 play,3,1,furcr001,00,,NP
 sub,munrp001,"Pete Munro",0,9,1
-com,"Astros Roy Oswalt left the game due to an injured groin"
 play,3,1,furcr001,11,.BFX,S9/L
 play,3,1,gilem001,00,X,S9/L.1-2
 play,3,1,shefg001,10,BX,64(1)3/GDP.2-3
@@ -8349,7 +8315,6 @@ play,1,1,shefg001,21,B*BCX,S8/L.2-H;1-2
 play,1,1,jonec004,31,F*BBBX,E7/F.2-3;1-2
 play,1,1,jonea002,00,X,S7/L.3-H;2-H;1-2
 play,1,1,fickr001,20,BBX,4/P
-com,"Infield Fly rule"
 play,1,1,lopej001,10,BX,HR/78/F.2-H(UR);1-H
 play,1,1,castv001,12,CBFX,S8/L
 play,1,1,reyns001,02,CLX,14/BG/SH.1-2
@@ -8508,7 +8473,6 @@ play,3,0,cabrj002,01,C11>P,CS2(26)
 play,3,0,cabrj002,32,C11>P.FBBS,K
 play,3,0,grees001,32,CBBBCB,W
 play,3,0,burnj001,32,1B1BCF1B>C,K
-com,"1:26 rain delay"
 play,3,1,furcr001,00,,NP
 sub,alvaw001,"Wilson Alvarez",0,9,1
 play,3,1,furcr001,00,.X,3/BG
@@ -8524,7 +8488,6 @@ play,4,1,castv001,02,CS+22,PO2(14)
 play,4,1,castv001,12,CS+22.BX,43/G
 play,5,0,iztuc001,00,,NP
 sub,bragd001,"Darren Bragg",1,5,8
-com,"Braves Andruw Jones left the game due to an injured chest"
 play,5,0,iztuc001,12,.CBCX,3/G
 play,5,0,alvaw001,22,CBFBFS,K
 play,5,0,robed001,01,CX,63/G
@@ -8539,8 +8502,6 @@ play,6,0,grees001,01,SX,3/G
 play,6,0,burnj001,31,BBBCB,W
 play,6,0,lodup001,10,BX,S8/F.1-3
 play,6,0,belta001,30,BBBB,W.1-2
-com,"ej,burnj001,P,kellj901,Balls and strikes (from bench)"
-com,"Dodgers Jeromy Burnitz ejected from bench by HP umpire Jeff Kellogg"
 play,6,0,coraa001,02,CSC,K
 play,6,1,gilem001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,2,4
@@ -8722,9 +8683,6 @@ play,7,1,lopej001,02,TSX,9/F
 play,7,1,castv001,10,BX,63/G
 play,8,0,grees001,02,CSX,E5/G.B-2
 play,8,0,lodup001,22,BBCSC,K
-com,"ej,lodup001,P,westj901,Called third strike"
-com,"ej,tracj101,M,westj901,Called third strike"
-com,"Dodgers Paul Lo Duca and Manager Jim Tracy ejected by HP umpire Joe West"
 play,8,0,ventr001,01,..CX,43/G.2-3
 play,8,0,cabrj002,01,CX,8/F
 play,8,1,bragd001,00,,NP
@@ -8745,8 +8703,6 @@ play,9,0,iztuc001,02,CFS,K
 play,9,0,shuep001,00,,NP
 sub,burnj001,"Jeromy Burnitz",0,9,11
 play,9,0,burnj001,12,.BSSC,K
-com,"ej,burnj001,P,westj901,Called third strike"
-com,"Dodgers Jeromy Burnitz ejected by HP umpire Joe West"
 data,er,ashba002,5
 data,er,alvav001,1
 data,er,shuep001,0
@@ -9030,7 +8986,6 @@ play,6,1,jonea002,32,.BBF*BFS,K
 play,6,1,fickr001,12,BFFX,31/G.3-H
 play,6,1,castv001,22,BCSBS,K
 play,7,0,burrs001,22,CBBFH,HP
-com,"Hit on ankle.  On crutches for a few days"
 play,7,0,benng001,01,C1X,46(1)3/GDP
 play,7,0,lines001,00,X,DGR/78/F
 play,7,0,vazqr001,00,,NP
@@ -10173,7 +10128,6 @@ start,fickr001,"Robert Fick",1,6,3
 start,castv001,"Vinny Castilla",1,7,5
 start,blanh001,"Henry Blanco",1,8,2
 start,maddg002,"Greg Maddux",1,9,1
-com,"51 minute delay during game"
 play,1,0,reyej001,11,CBX,S8/L
 play,1,0,scutm001,00,1>B,SB2
 play,1,0,scutm001,31,1>B.BFBX,53/G
@@ -10222,7 +10176,6 @@ play,5,0,mcewj001,10,BX,7/F
 play,5,1,fickr001,11,BSX,S8/L
 play,5,1,castv001,00,X,E5/G.1-2
 play,5,1,blanh001,11,CBX,6/P
-com,"Infield Fly rule"
 play,5,1,maddg002,00,X,1/BP
 play,5,1,furcr001,32,BBCBF>X,53/G
 play,6,0,duncj001,32,CBSBBFX,6/P
@@ -10630,9 +10583,6 @@ play,3,1,jonec004,31,BBBCB,W.1-2
 play,3,1,fickr001,12,CTBFX,S7/L.2-H;1-2
 play,3,1,estrj001,22,CBBFFFS,K
 play,4,0,hernj001,21,BFBX,63/G
-com,"ej,fickr001,P,welkb901,Fair/foul call"
-com,"Braves Robert Fick ejected by HP umpire Bill Welke for"
-com,"arguing that a ball hit by Abraham Nunez was fair not foul"
 play,4,0,nunea001,01,.F,NP
 sub,franm001,"Matt Franco",1,4,3
 play,4,0,nunea001,21,.F.BBX,7/F
@@ -11308,7 +11258,6 @@ play,7,0,utlec001,12,CBFH,HP
 play,7,0,peret003,00,,NP
 sub,chapt001,"Travis Chapman",0,8,11
 play,7,0,chapt001,01,.CX,9/F
-com,"Debut game for Travis Chapman"
 play,7,1,derom001,00,,NP
 sub,leder001,"Ricky Ledee",0,1,8
 play,7,1,derom001,00,,NP
@@ -11548,8 +11497,6 @@ play,1,0,utlec001,10,BX,4/P
 play,1,1,furcr001,10,BX,43/G
 play,1,1,gilem001,10,BX,D8/F
 play,1,1,shefg001,01,F>B,CS3(25)
-com,"ej,cox-b103,M,meric901,Call at 3B"
-com,"Braves Manager Bobby Cox ejected by 3B umpire Chuck Meriwether"
 play,1,1,shefg001,11,F>B..X,T8/F
 play,1,1,jonec004,11,SBX,13/G
 play,2,0,peret003,01,FX,23/BG
@@ -12223,7 +12170,6 @@ play,1,0,castl001,31,BBBCB,W
 play,1,0,pierj002,11,BCX,S1/BG.1-2
 play,1,0,rodri001,00,X,S1/BG.2-3;1-2
 play,1,0,lee-d002,11,FBX,S7/L.3-H;2-3;1-2
-com,"53 minute rain delay"
 play,1,0,cabrm001,20,BBX,S9/G.3-H;2-H;1-2
 play,1,0,encaj001,01,CX,4/P
 play,1,0,conij001,01,FX,8/F

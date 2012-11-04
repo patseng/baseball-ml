@@ -68,7 +68,6 @@ play,3,0,buckj001,22,FBBCC,K
 play,3,0,penat002,22,CBCBS,K
 play,3,0,dejed001,00,,NP
 sub,gathj001,"Joey Gathright",0,1,11
-com,"Royals center fielder David DeJesus left the game due to an injured foot/ankle"
 play,3,0,gathj001,01,.CX,63/G
 play,3,1,shefg001,00,,NP
 sub,gathj001,"Joey Gathright",0,1,8
@@ -134,7 +133,6 @@ sub,thomc002,"Clete Thomas",1,8,7
 play,9,0,buckj001,00,,NP
 sub,jonet003,"Todd Jones",1,0,1
 play,9,0,buckj001,22,..FBBFFFX,43/G
-com,"Debut game for Clete Thomas"
 play,9,0,penat002,22,FBFBFT,K
 play,9,0,gathj001,10,BX,7/F
 play,9,1,rente001,00,,NP
@@ -1173,7 +1171,6 @@ play,6,1,cabrm001,00,X,53/G
 play,7,0,lambm001,11,FBX,4/P
 play,7,0,tolbm001,00,,NP
 sub,lopea003,"Aquilino Lopez",1,0,1
-com,"Tigers pitcher Nate Robertson left the game due to an injured back"
 play,7,0,tolbm001,20,B.BX,9/F
 play,7,0,gomec002,12,CBFS,K
 play,7,1,guilc001,20,BBX,HR/9/F
@@ -1280,7 +1277,6 @@ play,2,0,younm003,00,X,8/F
 play,2,1,cabrm001,22,BCFBFX,43/G
 play,2,1,jonej003,32,BBBCSB,W
 play,2,1,rente001,12,1CCFFBX,DGR/3.1-3
-com,"fan interference"
 play,2,1,ingeb001,02,CSX,43/G.3-H;2-3
 play,2,1,santr002,11,BCX,D7/L.3-H
 play,2,1,thomc002,00,H,HP
@@ -1651,7 +1647,6 @@ play,5,0,cataf001,00,,NP
 sub,santr002,"Ramon Santiago",1,6,5
 play,5,0,cataf001,00,,NP
 sub,rabur001,"Ryan Raburn",1,9,7
-com,"Tigers left fielder Jacque Jones left the game due to an injured knee"
 play,5,0,cataf001,11,..BCH,HP
 play,5,0,younm003,10,BX,9/L
 play,5,0,hamij003,32,BBSBFFT,K
@@ -2103,7 +2098,6 @@ play,7,1,ordom001,00,,NP
 sub,figgc001,"Chone Figgins",0,1,4
 play,7,1,ordom001,00,,NP
 sub,quinr002,"Robb Quinlan",0,7,5
-com,"Angels third baseman Maicer Izturis left the game due to an injured back"
 play,7,1,ordom001,01,..CX,S8/G
 play,7,1,cabrm001,02,CFX,3/P3F
 play,7,1,guilc001,32,C*BCBFB>X,S9/G.1-3
@@ -2198,7 +2192,6 @@ play,2,0,varij001,00,X,9/F
 play,2,0,lugoj001,02,CCX,54(1)/FO/G
 play,2,1,shefg001,22,BCFFBX,7/F
 play,2,1,joycm001,31,BCBBB,W
-com,"Debut game for Matthew Joyce"
 play,2,1,rente001,12,CBFX,9/L
 play,2,1,rodri001,21,B*BSX,8/F
 play,3,0,ellsj001,20,BBX,31/G
@@ -2393,9 +2386,6 @@ play,7,0,ortid001,32,CBCFBFBX,HR/9/F
 play,7,0,ramim002,00,,NP
 sub,dolsf001,"Freddy Dolsi",1,0,1
 play,7,0,ramim002,00,.X,HR/8/F
-com,"Debut game for Freddy Dolsi"
-com,"$the 47th time that Ortiz and Ramirez have homered in the same game;"
-com,"Dolsi surrendered a homer on the first pitch he threw in the majors"
 play,7,0,lowem001,21,BCBX,9/L
 play,7,0,youkk001,31,BBBCB,W
 play,7,0,drewj001,12,CBCC,K
@@ -2493,7 +2483,6 @@ play,2,1,joycm001,12,B1SFC,K
 play,2,1,rente001,01,CX,13/G
 play,3,0,varij001,22,CBBSS,K
 play,3,0,lugoj001,22,CBFBX,DGR/7/INT
-com,"fan interference"
 play,3,0,ellsj001,02,FCC,K
 play,3,0,lowrj001,10,BX,7/F
 play,3,1,rodri001,00,X,S8/G
@@ -2986,7 +2975,6 @@ play,4,0,canor001,31,BBBCB,W
 play,4,0,betew001,22,C*BF1BX,D8/F.1-H
 play,4,0,moelc001,00,,NP
 sub,ensbm001,"Morgan Ensberg",0,8,12
-com,"Yankees third baseman Wilson Betemit left the game due to an injured leg"
 play,4,0,moelc001,00,.B,WP.2-3
 play,4,0,moelc001,30,.B.BBB,W
 play,4,0,damoj001,12,BCFFX,1/G
@@ -3630,8 +3618,6 @@ play,6,1,cabrm001,01,SX,D9/L.1-3
 play,6,1,guilc001,32,BSBBCX,13/G
 play,7,0,mauej001,00,,NP
 sub,willd003,"Dontrelle Willis",1,0,1
-com,"ej,leylj801,M,wendh902,Balls and strikes"
-com,"Tigers Manager Jim Leyland ejected by 3B umpire Hunter Wendelstedt"
 play,7,0,mauej001,30,..BBBB,W
 play,7,0,mornj001,22,CCBBX,7/F
 play,7,0,cuddm001,00,>N,BK.1-2
@@ -3760,7 +3746,6 @@ play,2,1,guilc001,00,X,9/F
 play,2,1,joycm001,00,X,8/F
 play,2,1,rodri001,01,CX,8/F
 play,3,0,macrm001,21,BFBX,S7/L-
-com,"Debut game for Matt Macri"
 play,3,0,harrb001,32,CCBBBS,K+SB2
 play,3,0,gomec002,22,SBCBS,K
 play,3,0,casia001,32,BFCFBBX,HR/7/L.2-H
@@ -4569,7 +4554,6 @@ sub,larij001,"Jeff Larish",1,5,3
 play,9,0,gutif001,00,,NP
 sub,rabur001,"Ryan Raburn",1,6,5
 play,9,0,gutif001,11,...BCX,7/F
-com,"Debut game for Mike Hollimon"
 play,9,0,franb001,10,BX,7/F
 play,9,0,martv001,12,BCFC,K
 play,9,1,granc001,00,,NP
@@ -5026,7 +5010,6 @@ start,thamm001,"Marcus Thames",1,7,7
 start,ingeb001,"Brandon Inge",1,8,2
 start,rabur001,"Ryan Raburn",1,9,4
 start,galaa002,"Armando Galarraga",1,0,1
-com,"$Start delayed by 1:05 for rain"
 play,1,0,pierj002,22,BBCCFFFFX,23/G
 play,1,0,yound004,01,CX,7!/F
 play,1,0,ethia001,31,BBCBX,3/G
@@ -5096,7 +5079,6 @@ play,8,0,pierj002,21,BFBX,4/L
 play,8,1,guilc001,00,,NP
 sub,wadec001,"Cory Wade",0,0,1
 play,8,1,guilc001,12,.TCBFFH,HP
-com,"$words exchanged, benches empty, no ejections"
 play,8,1,ordom001,20,*BBX,HR/7/F.1-H
 play,8,1,cabrm001,00,X,53/G
 play,8,1,larij001,32,BBSSBS,K
@@ -5156,7 +5138,6 @@ start,thamm001,"Marcus Thames",1,8,7
 start,rodri001,"Ivan Rodriguez",1,9,2
 start,bonie002,"Eddie Bonine",1,0,1
 play,1,0,pierj002,12,CFBS,K
-com,"Debut game for Eddie Bonine"
 play,1,0,dewib001,22,CBSBX,E3/G
 play,1,0,kentj001,11,BFX,14(1)3/GDP
 play,1,1,granc001,01,CX,43/G
@@ -5666,8 +5647,6 @@ play,3,1,guilc001,21,SBBX,S8/L
 play,3,1,ordom001,02,CFX,9/L
 play,3,1,cabrm001,00,X,D7/G.1-3
 play,3,1,thamm001,32,CFBBBC,K
-com,"ej,thamm001,P,bellw901,Called third strike"
-com,"Tigers Marcus Thames ejected by HP umpire Wally Bell"
 play,3,1,shefg001,22,.BCCBX,13/G
 play,4,0,moliy001,00,,NP
 sub,thomc002,"Clete Thomas",1,6,7
@@ -5856,8 +5835,6 @@ play,6,1,granc001,00,,NP
 sub,villr001,"Ron Villone",0,0,1
 play,6,1,granc001,21,.BFBX,S9/L
 play,6,1,polap001,22,CB1F1BC,K
-com,"ej,polap001,P,schrp901,Called third strike"
-com,"Tigers second baseman Placido Polanco ejected by HP umpire Paul Schrieber"
 play,6,1,guilc001,31,.11B1FBBB,W.1-2
 play,6,1,ordom001,02,CFFX,S8/F.2-3;1-2
 play,6,1,cabrm001,02,FFS,K
@@ -6134,8 +6111,6 @@ play,2,1,rente001,22,SBSBX,7/L
 play,3,0,tulot001,00,X,D9/L
 play,3,0,tavew001,00,,NP
 sub,rabur001,"Ryan Raburn",1,4,9
-com,"Tigers right fielder Magglio Ordonez left the game due to an injured right"
-com,"oblique muscle"
 play,3,0,tavew001,11,.BLX,S1/BG.2-3
 play,3,0,heltt001,22,B11CFF>FF>FFB>B,CS2(26)
 play,3,0,heltt001,32,B11CFF>FF>FFB>B.FFX,53/G
@@ -6644,7 +6619,6 @@ play,8,0,fasas001,00,,NP
 sub,polap001,"Placido Polanco",1,7,4
 play,8,0,fasas001,00,,NP
 sub,santr002,"Ramon Santiago",1,8,6
-com,"Tigers shortstop Edgar Renteria left the game due to an injured leg"
 play,8,0,fasas001,01,...FX,S7/G
 play,8,0,sizeg001,00,,NP
 sub,gutif001,"Franklin Gutierrez",0,9,12
@@ -7005,7 +6979,6 @@ sub,craij001,"Jesse Crain",0,0,1
 play,7,1,guilc001,12,.CC*BX,8!/F
 play,8,0,puntn001,32,SFFFBFBFBFX,13/G
 play,8,0,spand001,11,BCX,2/BG/INT
-com,"$Span called out for interfering with Rodriguez"
 play,8,0,gomec002,02,FFS,K
 play,8,1,cabrm001,00,,NP
 sub,guerm001,"Matt Guerrier",0,0,1
@@ -7871,7 +7844,6 @@ play,8,0,thomf001,00,,NP
 sub,rabur001,"Ryan Raburn",1,3,5
 play,8,0,thomf001,00,,NP
 sub,dolsf001,"Freddy Dolsi",1,0,1
-com,"Tigers third baseman Carlos Guillen left the game due to an injured back"
 play,8,0,thomf001,01,..CX,S8/G
 play,8,0,browe001,22,BFBFX,64(1)3/GDP
 play,8,0,gonzc001,00,X,S7/G
@@ -8179,10 +8151,6 @@ play,8,1,sardd001,32,.BBFBFFB,W
 play,8,1,granc001,02,CLC,K
 play,8,1,polap001,11,BCX,54(1)/FO/G
 play,8,1,rabur001,32,1BFCB1B>X,D7/L.1-H;B-H(E6/THH)(E1/TH3)(UR)
-com,"$the ball flew over left fielder Emil Brown's head and one-"
-com,"hopped the wall; Bobby Crosby's relay to the plate was wild"
-com,"but was backed up by pitcher Jerry Blevins, who threw wildly"
-com,"to third base, allowing Ryan Raburn to score"
 play,8,1,ordom001,32,BFBBFX,53/G
 play,9,0,browe001,00,,NP
 sub,joycm001,"Matthew Joyce",1,4,9
@@ -8465,7 +8433,6 @@ play,7,1,ordom001,12,BFFB,WP.1-2
 play,7,1,ordom001,32,BFFB.BX,7/L
 play,8,0,overl001,00,,NP
 sub,rabur001,"Ryan Raburn",1,3,5
-com,"Tigers third baseman Carlos Guillen left the game due to an injured back"
 play,8,0,overl001,12,.FFBFX,5/L
 play,8,0,mcdoj003,00,X,63/G
 play,8,0,inglj001,31,BBBCB,W
@@ -8609,8 +8576,6 @@ play,7,0,wellv001,02,CF>X,8/F
 play,7,1,shefg001,00,,NP
 sub,frasj002,"Jason Frasor",0,0,1
 play,7,1,shefg001,12,.BCCC,K
-com,"ej,shefg001,P,culbf901,Called third strike"
-com,"Tigers designated hitter Gary Sheffield ejected by HP umpire Fieldin Culbreth"
 play,7,1,rabur001,02,CFX,7/F
 play,7,1,rente001,11,BCX,53/G
 play,8,0,barar001,02,CFFFX,53/G
@@ -8631,7 +8596,6 @@ play,9,1,polap001,32,.CBBTBFB,W
 play,9,1,ordom001,00,X,S9/L.1-3
 play,9,1,cabrm001,00,,NP
 sub,leagb001,"Brandon League",0,0,1
-com,"Blue Jays pitcher Scott Downs left the game due to an injured foot/ankle"
 play,9,1,cabrm001,01,..FX,53/G.3-H;1-2
 play,9,1,shefg001,00,,NP
 sub,joycm001,"Matthew Joyce",1,5,11
@@ -8838,7 +8802,6 @@ play,2,0,scotl001,12,SCBX,D9/L
 play,2,0,montl001,32,BBFFBFS,K
 play,2,0,castj004,32,BFF*BBB,W
 play,2,0,robeb003,01,CX,S9/L.2-H;1-H(E9/THH)(UR)(NR);B-2
-com,"$the throw from Ordonez got away from catcher Inge"
 play,2,0,markn001,22,BBCSX,8/F
 play,2,1,cabrm001,22,SFFFBBX,53/G
 play,2,1,shefg001,01,CX,D7/L
@@ -8923,10 +8886,6 @@ play,9,0,montl001,00,X,E3/G.3-H;2-3;1-2
 play,9,0,castj004,01,FX,64(1)/FO/G.3-H(UR);2-H(E4/TH1)(UR)(NR)
 play,9,0,robeb003,00,,NP
 sub,santr002,"Ramon Santiago",1,2,4
-com,"ej,polap001,P,kulpr901,Arguing for interference on throw"
-com,"Tigers second baseman Placido Polanco ejected by 1B umpire Ron Kulpa;"
-com,"the relay throw by Polanco hit the hand of Lou Montanez and Polanco argued"
-com,"that Montanez intentionally blocked the throw"
 play,9,0,robeb003,30,..BBBB,W.1-2
 play,9,0,markn001,32,CBBBF>F>F>F>F*B,W.2-3;1-2
 play,9,0,moram002,21,BCBX,S8/L.3-H(UR);2-H(UR);1-2
@@ -9085,8 +9044,6 @@ play,8,1,joycm001,00,,NP
 sub,montl001,"Luis Montanez",0,7,8
 play,8,1,joycm001,00,,NP
 sub,walkj001,"Jamie Walker",0,0,1
-com,"ej,paytj001,P,causk901,Call at 1B"
-com,"Orioles center fielder Jay Payton ejected by 1B umpire Kevin Causey"
 play,8,1,joycm001,11,...BCX,5/P
 play,8,1,rente001,12,CFBS,K
 play,8,1,ingeb001,12,SFBX,53/G
@@ -9379,7 +9336,6 @@ play,4,1,guilc001,12,FFBX,9/F
 play,4,1,thamm001,22,FFBB1S,K
 play,5,0,sizeg001,00,,NP
 sub,rabur001,"Ryan Raburn",1,6,5
-com,"Tigers third baseman Carlos Guillen left the game due to an injured back"
 play,5,0,sizeg001,11,.FBX,43/G
 play,5,0,gutif001,32,CBBFFBFX,63/G
 play,5,0,franb001,01,CX,S8/L
@@ -9408,7 +9364,6 @@ play,7,1,rente001,10,.*BB,WP.1-2
 play,7,1,rente001,21,.*BB.FX,S4/L.2-3
 play,7,1,ingeb001,00,,NP
 sub,joycm001,"Matthew Joyce",1,7,12
-com,"Tigers left fielder Marcus Thames left the game due to an injured leg"
 play,7,1,ingeb001,10,B.X,S5/G.3-H;1-2
 play,7,1,granc001,00,,NP
 sub,perer002,"Rafael Perez",0,0,1
@@ -9508,7 +9463,6 @@ start,rabur001,"Ryan Raburn",1,8,5
 start,ingeb001,"Brandon Inge",1,9,2
 start,lambc001,"Chris Lambert",1,0,1
 play,1,0,sizeg001,12,CBSS,K
-com,"Debut game for Chris Lambert"
 play,1,0,gutif001,10,BX,7/F
 play,1,0,franb001,02,CFX,8/F
 play,1,1,granc001,11,FBX,6/P
@@ -9877,7 +9831,6 @@ play,6,0,butlb003,00,,NP
 sub,sardd001,"Dane Sardinha",1,7,2
 play,6,0,butlb003,00,,NP
 sub,ingeb001,"Brandon Inge",1,9,5
-com,"Tigers first baseman Miguel Cabrera left the game due to an injured chest"
 play,6,0,butlb003,22,....BCSBFX,8/F
 play,6,0,gloar001,12,SFBX,143/G
 play,6,0,buckj001,32,BBBCFX,8!/L
@@ -10196,7 +10149,6 @@ play,7,0,dejed001,32,BBFBCC,K
 play,7,0,avilm001,32,BBBCFX,2/G
 play,7,1,shefg001,00,,NP
 sub,penat002,"Tony Pena",0,2,6
-com,"Royals shortstop Mike Aviles left the game due to an injured hand/wrist"
 play,7,1,shefg001,32,.BBCBCX,7/F
 play,7,1,larij001,12,CCBX,9/F
 play,7,1,santr002,10,BX,8/F
@@ -10212,9 +10164,6 @@ sub,ingeb001,"Brandon Inge",1,9,11
 play,8,1,ingeb001,10,..BH,HP
 play,8,1,granc001,30,BBB1B,W.1-2
 play,8,1,polap001,11,MBX,26(2)/FO/BG.1-2
-com,"ej,leylj801,M,causk901,Call at 3B"
-com,"Tigers Manager Jim Leyland ejected by 3B umpire Kevin Causey; Leyland argued"
-com,"that shortstop Tony Pena never had control of the ball on the force at third"
 play,8,1,ordom001,31,.*BBBCB,W.2-3;1-2
 play,8,1,cabrm001,00,,NP
 sub,ramir003,"Ramon Ramirez",0,0,1
@@ -10382,7 +10331,6 @@ play,7,0,matsh001,12,SBFX,64(1)3/GDP
 play,7,1,granc001,00,,NP
 sub,cokep001,"Phil Coke",0,0,1
 play,7,1,granc001,22,.BCBSS,K
-com,"Debut game for Phil Coke"
 play,7,1,polap001,22,BCFBX,3/P3F
 play,7,1,ordom001,12,BFCX,S9/L
 play,7,1,cabrm001,00,B,WP.1-2
@@ -10515,7 +10463,6 @@ play,4,0,andeg001,22,BBF>F>F1>FS,K+SB2
 play,4,0,teixm001,22,BC*BFX,63/G
 play,4,1,rente001,11,BSX,S8/F
 play,4,1,ingeb001,01,CX,9/L.1X2(36)
-com,"$no DP, since intervening misplay, although no error"
 play,4,1,rabur001,22,SBCBX,9/F
 play,5,0,guerv001,00,,NP
 sub,glovg001,"Gary Glover",1,0,1
@@ -10685,8 +10632,6 @@ play,6,0,napom001,00,X,8/F
 play,6,0,woodb003,22,FFBBX,2/P2F
 play,6,1,shefg001,12,CFBFFX,6/P
 play,6,1,rente001,12,CBCS,K
-com,"ej,rente001,P,guccc901,Balls and strikes"
-com,"Tigers shortstop Edgar Renteria ejected by HP umpire Chris Guccione"
 play,6,1,hessm001,22,.FBBFS,K
 play,7,0,rodrs002,00,,NP
 sub,santr002,"Ramon Santiago",1,7,6
@@ -10814,10 +10759,6 @@ play,3,1,ingeb001,00,X,9/F
 play,3,1,granc001,12,CBFX,31/G
 play,4,0,mathj001,02,SFS,K
 play,4,0,rodrs002,32,BCFBFBS,K
-com,"$after four pitches to Sean Rodriguez, the count was 2-2; plate umpire Tim"
-com,"Welke reset the count on the scoreboard to 1-2 after talking with Rodriguez"
-com,"and catcher Brandon Inge; thus Rodriguez actually had taken four balls before"
-com,"he struck out"
 play,4,0,mattg002,01,CX,D8/L
 play,4,0,quinr002,11,BCX,S6/G.2-3
 play,4,0,teixm001,01,CX,8/F
@@ -10865,7 +10806,6 @@ play,8,1,cabrm001,12,F*BFFS,K
 play,9,0,mathj001,00,,NP
 sub,ryand001,"Dusty Ryan",1,9,2
 play,9,0,mathj001,00,.X,63/G
-com,"Debut game for Dusty Ryan"
 play,9,0,rodrs002,32,BCBSFBC,K
 play,9,0,mattg002,02,CCX,53/G
 play,9,1,joycm001,00,,NP
@@ -11033,7 +10973,6 @@ play,8,0,cunna001,00,.X,8/F
 play,8,1,rabur001,00,,NP
 sub,grayj002,"Jeff Gray",0,0,1
 play,8,1,rabur001,12,.BFSC,K
-com,"Debut game for Jeff Gray"
 play,8,1,rente001,00,X,4/L
 play,8,1,hessm001,11,FBX,HR/7/F
 play,8,1,ingeb001,32,BCBS*BB,W
@@ -11119,7 +11058,6 @@ play,2,1,ryand001,20,BBX,D8/L.1-3
 play,2,1,granc001,20,BBX,9/F
 play,3,0,cunna001,01,CX,3/G
 play,3,0,baisj001,12,BCFS,K
-com,"Debut game for Jeff Baisley"
 play,3,0,pennc001,10,BX,S9/L
 play,3,0,davir003,02,CFC,K
 play,3,1,polap001,01,CX,63/G
@@ -11437,7 +11375,6 @@ play,2,1,joycm001,00,X,7/F
 play,2,1,rente001,22,BCFBX,63/G
 play,3,0,dejed001,00,,NP
 sub,larij001,"Jeff Larish",1,4,3
-com,"Tigers first baseman Miguel Cabrera left the game due to an injured back"
 play,3,0,dejed001,31,.BBBCB,W
 play,3,0,avilm001,12,C1F*BX,14(1)3/GDP
 play,3,0,guilj001,32,CBBF*BB,W
@@ -11511,7 +11448,6 @@ sub,penat002,"Tony Pena",0,9,6
 play,8,1,ryand001,12,...BFSS,K
 play,8,1,granc001,12,SSBS,K
 play,8,1,polap001,21,CBBX,2/BG/INT
-com,"$Polanco called out for batter interference"
 play,9,0,guilj001,22,CFBBX,6/P
 play,9,0,shear001,32,BCS*B*BFT,K
 play,9,0,teahm001,12,SCBFX,D7/G
@@ -11721,7 +11657,6 @@ play,1,1,granc001,00,,NP
 sub,gathj001,"Joey Gathright",0,1,8
 play,1,1,granc001,00,,NP
 sub,maiem001,"Mitch Maier",0,9,9
-com,"Royals left fielder David DeJesus left the game due to an injured leg"
 play,1,1,granc001,22,..CBBFFFX,13/G
 play,1,1,polap001,22,CC*BBX,43/G
 play,1,1,ordom001,11,BCX,43/G
@@ -12039,7 +11974,6 @@ play,1,1,shefg001,21,BBCX,HR/9/L
 play,1,1,thamm001,12,SSBS,K
 play,2,0,floyc001,00,,NP
 sub,rabur001,"Ryan Raburn",1,2,4
-com,"Tigers second baseman Placido Polanco left the game due to an injured foot/ankle"
 play,2,0,floyc001,01,.CX,43/G
 play,2,0,navad001,10,BX,7/F
 play,2,0,grosg002,11,CBX,4/P
@@ -12393,7 +12327,6 @@ play,5,0,baldr001,00,,NP
 sub,rabur001,"Ryan Raburn",1,6,4
 play,5,0,baldr001,00,,NP
 sub,santr002,"Ramon Santiago",1,9,6
-com,"Tigers shortstop Edgar Renteria left the game due to an injured leg"
 play,5,0,baldr001,21,..BBFX,HR/8/F
 play,5,0,aybaw001,21,SBBX,D7/L
 play,5,0,zobrb001,22,CBFBFX,63/G

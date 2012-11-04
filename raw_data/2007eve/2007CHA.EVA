@@ -125,7 +125,6 @@ sub,mackr001,"Rob Mackowiak",1,1,7
 play,8,0,sizeg001,00,,NP
 sub,molig002,"Gustavo Molina",1,8,2
 play,8,0,sizeg001,21,..BCBX,S7/L
-com,"Debut game for Gustavo Molina"
 play,8,0,nixot001,31,CBBBB,W.1-2
 play,8,0,hafnt001,00,X,4/P/IF
 play,8,0,martv001,32,BCBBFB,W.2-3;1-2
@@ -411,7 +410,6 @@ play,2,0,blakc001,22,BFBSX,3/G
 play,2,0,garkr001,31,BBBCX,S1/G
 play,2,0,peraj001,00,,NP
 sub,massn001,"Nick Masset",1,0,1
-com,"White Sox pitcher Mark Buehrle left the game due to an injured arm"
 play,2,0,peraj001,12,.BFFH,HP.1-2
 play,2,0,barfj003,00,X,9/F
 play,2,0,marta004,00,X,13/G-
@@ -697,7 +695,6 @@ start,iguct001,"Tadahito Iguchi",1,8,4
 start,uribj002,"Juan Uribe",1,9,6
 start,dankj001,"John Danks",1,0,1
 play,1,0,castl001,31,BBCBX,7/F7LF
-com,"Debut game for John Danks"
 play,1,0,puntn001,32,BBCBCFFFX,3/P
 play,1,0,mauej001,21,CBBX,53/G
 play,1,1,ozunp001,12,CFFBS,K
@@ -1001,8 +998,6 @@ play,2,1,uribj002,10,1B>B,SB2.1-3(E2/TH)
 play,2,1,uribj002,30,1B>B.BB,W
 play,2,1,erstd001,02,CSX,8/F
 play,3,0,hairj002,01,CX,53/G
-com,"ej,hairj002,P,hoyej901,call at 1B"
-com,"Rangers left fielder Jerry Hairston ejected by 1B umpire James Hoye"
 play,3,0,cruzn002,21,.BBSX,7/F
 play,3,0,lairg001,32,BBBCCX,63/G
 play,3,1,iguct001,00,,NP
@@ -1309,7 +1304,6 @@ play,5,1,mackr001,10,.BX,D9/L
 play,5,1,ozunp001,00,,NP
 sub,gonza004,"Andy Gonzalez",1,6,12
 play,5,1,ozunp001,11,F.BX,13/G
-com,"Debut game for Andy Gonzalez"
 play,5,1,uribj002,10,BH,HP
 play,5,1,andeb003,22,BBFFS,K
 play,5,1,erstd001,02,CFFFX,8/L
@@ -1412,8 +1406,6 @@ play,1,1,erstd001,12,CFBFS,K
 play,1,1,iguct001,31,BSBBB,W
 play,1,1,thomj002,01,F,NP
 sub,cinta001,"Alex Cintron",1,3,11
-com,"$Thome aggravated side injured earlier in week, left after"
-com,"hitting foul ball"
 play,1,1,cinta001,32,F.B1SB+1BB,W.1-2
 play,1,1,konep001,12,BFCX,7/L
 play,1,1,dye-j001,22,FBBFX,7/F
@@ -1489,7 +1481,6 @@ play,8,1,credj001,00,,NP
 sub,willr004,"Reggie Willits",0,4,7
 play,8,1,credj001,00,,NP
 sub,carrh001,"Hector Carrasco",0,0,1
-com,"Angels center fielder Garret Anderson left the game due to an injured groin"
 play,8,1,credj001,32,..CBCBFBX,8/F
 play,8,1,mackr001,00,X,3/P
 play,8,1,uribj002,30,BBBB,W
@@ -1735,7 +1726,6 @@ play,5,0,guerv001,30,IIII,IW
 play,5,0,hills002,00,X,5/L
 play,5,1,cinta001,00,,NP
 sub,aybae001,"Erick Aybar",0,3,4
-com,"Angels shortstop Maicer Izturis left the game due to an injured leg"
 play,5,1,cinta001,12,.SFFBX,43/G+
 play,5,1,uribj002,22,SBBCX,5/P
 play,5,1,sweer001,22,BBCFX,43/G
@@ -1750,8 +1740,6 @@ play,7,0,mattg002,21,B.F11BX,S7/L.1-3;B-2(TH)
 play,7,0,cabro001,00,,NP
 sub,aardd001,"David Aardsma",1,0,1
 play,7,0,cabro001,01,.SX,7/FDP.3X3(75)
-com,"ej,sciom001,M,dowda901,Call at 3B"
-com,"Angels Manager Mike Scioscia ejected by HP umpire Adam Dowdy"
 play,7,0,aybae001,22,BBCFC,K
 play,7,1,piera001,02,SFX,S8/G
 play,7,1,dye-j001,11,CBX,54(1)3/GDP
@@ -2746,8 +2734,6 @@ play,5,1,erstd001,00,X,S3/G
 play,5,1,iguct001,00,11X,54(1)/FO/G
 play,5,1,thomj002,32,BBBFF>B,W.1-2
 play,5,1,dye-j001,12,BFCC,K
-com,"ej,dye-j001,P,guccc901,Called third strike"
-com,"White Sox right fielder Jermaine Dye ejected by HP umpire Chris Guccione"
 play,6,0,crosb002,00,,NP
 sub,terrl001,"Luis Terrero",1,4,9
 play,6,0,crosb002,22,..SCBBX,53/G
@@ -3299,7 +3285,6 @@ play,1,0,nortg001,12,B1S1S1X,43/G
 play,1,1,ozunp001,00,X,D8/F
 play,1,1,iguct001,00,,NP
 sub,mackr001,"Rob Mackowiak",1,1,12
-com,"White Sox third baseman Pablo Ozuna left the game due to an injured leg"
 play,1,1,iguct001,31,.CBBBB,W
 play,1,1,thomj002,22,BS2BCX,63/G.2-3;1-2
 play,1,1,dye-j001,00,X,FC5/G.3XH(52)
@@ -3756,7 +3741,6 @@ start,fielj001,"Josh Fields",1,8,5
 start,uribj002,"Juan Uribe",1,9,6
 start,vazqj001,"Javier Vazquez",1,0,1
 play,1,0,damoj001,01,CX,DGR/7/L
-com,"fan interference"
 play,1,0,jeted001,12,BFFS,K
 play,1,0,abreb001,22,BCBSS,K
 play,1,0,rodra001,22,BBSSS,K
@@ -3981,10 +3965,6 @@ play,8,1,konep001,12,CBCX,S6/G.3-H
 play,8,1,piera001,00,,NP
 sub,gonza004,"Andy Gonzalez",1,4,12
 play,8,1,piera001,02,.CFS,K
-com,"ej,piera001,P,davib902,Balls and strikes"
-com,"White Sox catcher A. J. Pierzynski ejected by HP umpire Bob Davidson"
-com,"for pounding his bat on the plate after striking out; he then flipped"
-com,"his helmet back towards the plate"
 play,9,0,cairm001,00,,NP
 sub,gonza004,"Andy Gonzalez",1,4,3
 play,9,0,cairm001,00,,NP
@@ -4008,7 +3988,6 @@ play,9,0,cairm001,10,BX,6/P
 play,9,1,fielj001,12,BSSS,K
 play,9,1,mackr001,00,X,53/G
 play,9,1,uribj002,11,CBX,31/G
-com,"$Joe Torre's 2000th win as manager"
 data,er,mussm001,1
 data,er,myerm001,0
 data,er,procs001,0
@@ -4092,10 +4071,6 @@ play,3,1,iguct001,21,BBCX,8/F
 play,3,1,thomj002,00,X,31/G
 play,3,1,konep001,11,FBX,8/L+
 play,4,0,berkl001,22,BFFBFC,K
-com,"ej,berkl001,P,holbs901,Called third strike"
-com,"ej,garnp001,M,holbs901,Called third strike on Berkman"
-com,"Astros first baseman Lance Berkman & Mgr Phil Garner ejected by HP"
-com,"umpire Sam Holbrook"
 play,4,0,lee-c001,10,..BX,D8/L
 play,4,0,lorem001,30,BBBB,W
 play,4,0,ensbm001,00,X,64(1)/FO/G.2-3
@@ -4123,7 +4098,6 @@ play,6,0,ensbm001,00,,NP
 sub,gonza004,"Andy Gonzalez",1,1,9
 play,6,0,ensbm001,00,,NP
 sub,terrl001,"Luis Terrero",1,8,8
-com,"White Sox left fielder Jerry Owens left the game due to an injured leg"
 play,6,0,ensbm001,10,..BX,E8/F.B-1
 play,6,0,burkc001,00,11X,S5/BG.1-2
 play,6,0,munse001,00,X,36(1)1/GDP.2-3
@@ -4151,7 +4125,6 @@ play,7,1,uribj002,00,,NP
 sub,lorem001,"Mark Loretta",0,5,4
 play,7,1,uribj002,00,,NP
 sub,burkc001,"Chris Burke",0,7,8
-com,"Astros center fielder Hunter Pence left the game due to an injured leg"
 play,7,1,uribj002,11,...CBX,53/G
 play,7,1,gonza004,11,CBX,13/G+
 play,7,1,iguct001,12,BFFX,S5/G
@@ -4569,7 +4542,6 @@ play,4,1,dye-j001,00,,NP
 sub,kim-b001,"Byung-Hyun Kim",0,0,1
 play,4,1,dye-j001,00,,NP
 sub,terrl001,"Luis Terrero",1,6,11
-com,"White Sox right fielder Jermaine Dye left the game due to an injured leg"
 play,4,1,terrl001,22,..BFFBX,43/G
 play,5,0,olivm001,00,,NP
 sub,owenj002,"Jerry Owens",1,1,7
@@ -4711,7 +4683,6 @@ play,2,0,carrb001,22,FFFBBS,K
 play,2,0,ameza001,22,MBCFFBS,K
 play,2,1,gonza004,00,,NP
 sub,oberw001,"Wes Obermueller",0,0,1
-com,"Marlins pitcher Dontrelle Willis left the game due to an injured arm"
 play,2,1,gonza004,22,.BCBFX,E5/TH/G.B-2
 play,2,1,iguct001,00,X,43/G.2-3
 play,2,1,konep001,10,*BX,9/SF/F.3-H(UR)
@@ -4917,7 +4888,6 @@ play,7,1,owenj002,32,.1.BBCBCB,W
 play,7,1,cinta001,00,1X,3/P3F
 play,8,0,boona001,00,X,S7/L
 play,8,0,carrb001,11,BLX,E6/FO/BG.1-3
-com,"Previous play is really 1E6"
 play,8,0,tream001,00,,NP
 sub,jenkb001,"Bobby Jenks",1,0,1
 play,8,0,tream001,00,,NP
@@ -5004,9 +4974,6 @@ start,uribj002,"Juan Uribe",1,9,6
 start,buehm001,"Mark Buehrle",1,0,1
 play,1,0,soria001,32,BFBFFBFX,HR/7/F
 play,1,0,fontm001,11,CBX,8/F
-com,"$Great diving catch by Erstad, but injured ankle and was"
-com,"batted for in bottom of first; this was his first game back"
-com,"from the DL after three weeks"
 play,1,0,lee-d002,22,BCBCC,K
 play,1,0,ramia001,21,BSBX,HR/9/F
 play,1,0,derom001,22,CFBBFX,63/G
@@ -5378,15 +5345,6 @@ sub,logab001,"Boone Logan",1,0,1
 play,8,0,pie-f001,32,...CBCBBFFB,W
 play,8,0,pagaa001,12,C1>L*B1X,S7/G.1-2
 play,8,0,derom001,10,BX,S9/L.2-3;1-2
-com,"ej,guilo001,M,westj901,Obstruction call on Uribe"
-com,"$Pie stopped at 3B, Pagan was caught between 2B and 3B as DeRosa"
-com,"headed to 2B; Uribe tagged out Pagan and then threw home where"
-com,"Pie was tagged out in a rundown; the umpires conferred and ruled"
-com,"that Uribe obstructed Pagan as he tried to go from 1B to 3B;"
-com,"the runners were put back on the bases and White Sox Mgr Ozzie"
-com,"Guillen calmly argued the play and told umpire crew chief Joe"
-com,"West: 'You are just going to have to run me.' Guillen was ejected"
-com,"by West"
 play,8,0,hillk002,00,.X,8/SF/F/DP.3-H;2X3(8354)
 play,8,0,iztuc001,20,BBX,64(1)/FO/G
 play,8,1,podss001,00,,NP
@@ -5746,7 +5704,6 @@ start,uribj002,"Juan Uribe",1,8,6
 start,hallt001,"Toby Hall",1,9,2
 start,contj002,"Jose Contreras",1,0,1
 play,1,0,robeb003,11,FBX,9/F
-com,"Debut game for Garrett Olson"
 play,1,0,gomec001,21,CBBX,7/F
 play,1,0,markn001,32,BCSBBX,7/F-
 play,1,1,gonza004,31,BBBCB,W
@@ -6278,10 +6235,6 @@ play,1,1,thomj002,22,SFBFFFF,NP
 sub,mauej001,"Joe Mauer",0,3,2
 play,1,1,thomj002,00,,NP
 sub,garzm001,"Matt Garza",0,8,1
-com,"$Twins catcher Mike Redmond left the game due to an injured head after"
-com,"being struck on the side of the head by Jim Thome's bat; Redmond"
-com,"received seven stitches at the ballpark; the bat also struck HP"
-com,"umpire Randy Marsh, who remained in the game"
 play,1,1,thomj002,22,.SFBFFFF..BS,K
 play,2,0,garzm001,02,CSS,K
 play,2,0,puntn001,32,CBFBBX,63/G
@@ -6353,7 +6306,6 @@ sub,puntn001,"Nick Punto",0,9,4
 play,7,1,dye-j001,00,,NP
 sub,terrl001,"Luis Terrero",1,6,11
 play,7,1,terrl001,22,.....CFBFBX,3/P3F
-com,"fan interference"
 play,7,1,mackr001,10,BX,63/G
 play,7,1,fielj001,12,BFCC,K
 play,8,0,cuddm001,00,,NP
@@ -6723,8 +6675,6 @@ play,4,0,hessm001,21,BBCX,S7/G+.1-2
 play,4,0,ingeb001,12,SF*BFX,S8/L-.2-3;1-2
 play,4,0,granc001,21,BFBX,DGR/78/F.3-H;2-H;1-3
 play,4,0,polap001,00,X,S6/G6D.3-H;2X2(64)
-com,"$Granderson was standing off the bag and failed to get back when"
-com,"Uribe stopped the ball in the hole"
 play,4,0,shefg001,00,X,7/F
 play,4,1,uribj002,10,BX,S9/L
 play,4,1,gonza004,10,BX,S7/L.1-2
@@ -7053,7 +7003,6 @@ play,6,0,shefg001,31,BSBBX,7/F
 play,6,0,ordom001,32,BFBBFFB,W
 play,6,0,guilc001,00,,NP
 sub,piera001,"A.J. Pierzynski",1,9,2
-com,"White Sox catcher Toby Hall left the game due to an injured head"
 play,6,0,guilc001,12,F.BSFX,S7/L.1-2
 play,6,0,cases001,32,BBBCF>F>X,2/P
 play,6,1,iguct001,12,CFBX,HR/9/F
@@ -7458,12 +7407,6 @@ play,1,0,riosa002,22,CFBBFFF1FX,9/L
 play,1,0,glaut001,10,BX,64(1)/FO/G
 play,1,1,owenj002,00,,NP
 sub,clayr001,"Royce Clayton",0,9,6
-com,"$McDonald and Clayton did not realize that McDonald was"
-com,"in the lineup as the starting shortstop. When Clayton"
-com,"took the field, he became an unannounced sub and McDonald"
-com,"was not available for the rest of the game. Toronto bench"
-com,"coach Ernie Whitt was demoted to first base coach over"
-com,"this incident."
 play,1,1,owenj002,22,CFBBX,31/G
 play,1,1,cinta001,02,CFFX,6/L
 play,1,1,thomj002,12,BCCC,K
@@ -7622,7 +7565,6 @@ play,2,1,dye-j001,21,BCBX,S8/F
 play,2,1,podss001,22,CBBFX,36(1)/FO/G
 play,2,1,uribj002,00,11X,E6/FO/G.1-2
 play,2,1,richd001,12,BCT2X,S6/G.2XH(65);1-2
-com,"Debut game for Danny Richar"
 play,3,0,mcdoj003,32,BBCCBX,13/G
 play,3,0,johnr008,11,CBX,S9/L
 play,3,0,riosa002,20,BBX,64(1)3/GDP
@@ -8011,7 +7953,6 @@ play,2,1,gonza004,02,CCC,K
 play,2,1,podss001,12,CCBX,53/G
 play,2,1,uribj002,20,BBX,9/F
 play,3,0,cabra002,21,BCBX,43/G
-com,"Debut game for Asdrubal Cabrera"
 play,3,0,sizeg001,10,BX,6/L+
 play,3,0,loftk001,02,CCX,31/G
 play,3,1,hallt001,01,CX,DGR/7
@@ -8042,7 +7983,6 @@ play,6,0,loftk001,00,X,S8/L.1-2
 play,6,0,martv001,00,X,8/F
 play,6,0,hafnt001,00,,NP
 sub,michj001,"Jason Michaels",0,4,11
-com,"Indians designated hitter Travis Hafner left the game due to an injured knee"
 play,6,0,michj001,22,.SBFFBX,S9/L.2-H;1-3
 play,6,0,peraj001,02,C11CX,S9/L.3-H;1-3
 play,6,0,blakc001,00,X,6/P
@@ -8769,8 +8709,6 @@ play,1,0,germe001,10,BX,7/F
 play,1,0,dejed001,11,CBX,S9/F-
 play,1,0,grudm001,01,CX,9/F
 play,1,0,butlb003,32,B1FBF1B>F1>X,53/G
-com,"umpchange,1,ump2b,dowda901"
-com,"umpchange,1,ump3b,cousd901"
 play,1,1,owenj002,12,BCFX,7/F
 play,1,1,fielj001,12,CSBX,7/F
 play,1,1,thomj002,12,FCBX,3/G
@@ -8802,10 +8740,6 @@ play,4,1,piera001,11,BCX,3/G
 play,5,0,gathj001,32,BBCFFBFX,63/G
 play,5,0,germe001,22,BCCFBFFC,K
 play,5,0,dejed001,32,CFBFBFBX,53/G
-com,"umpchange,5,ump3b,marqa901"
-com,"$Umpire Alfonso Marquez' flight from LA was very late, so"
-com,"Derryl Cousins, who had worked 1B in the afternoon Cubs game,"
-com,"filled in until Marquez arrived"
 play,5,1,dye-j001,31,BBBCX,D8/F
 play,5,1,podss001,31,BBBCX,HR/9/F.2-H
 play,5,1,uribj002,22,CBFBS,K
@@ -8980,7 +8914,6 @@ play,5,1,thomj002,32,BBCSBS,K
 play,5,1,konep001,32,BCBCBS,K
 play,6,0,butlb003,00,,NP
 sub,erstd001,"Darin Erstad",1,7,7
-com,"White Sox left fielder Scott Podsednik left the game due to an injured chest"
 play,6,0,butlb003,31,.CBBBB,W
 play,6,0,gloar001,00,X,S9/G.1-3
 play,6,0,browe001,22,CBS.BX,S7/G.3-H;1-2
@@ -9233,7 +9166,6 @@ start,uribj002,"Juan Uribe",1,7,6
 start,richd001,"Danny Richar",1,8,4
 start,gonza004,"Andy Gonzalez",1,9,7
 start,garlj001,"Jon Garland",1,0,1
-com,"$Debut for umpire Damien Beal"
 play,1,0,lugoj001,10,BX,S7/L
 play,1,0,crisc001,31,C11BBBX,6(1)3/GDP
 play,1,0,ortid001,10,BX,8/F
@@ -10085,7 +10017,6 @@ play,9,0,whitr001,01,FX,HR/78/F.2-H;1-H
 play,9,0,buscb001,00,,NP
 sub,broal001,"Lance Broadway",1,0,1
 play,9,0,buscb001,11,.CBX,13/G-
-com,"Debut game for Lance Broadway"
 play,9,0,heinc001,22,BCBFT,K
 play,9,1,richd001,00,,NP
 sub,depaj003,"Julio DePaula",0,0,1
@@ -10235,7 +10166,6 @@ play,1,1,richd001,11,BFX,31/G
 play,2,0,kubej002,00,X,8/F
 play,2,0,buscb001,11,CBX,HR/9/F
 play,2,0,moraj002,20,BBX,S7/G
-com,"Debut game for Jose Morales"
 play,2,0,puntn001,32,BFFBFFBX,S7/G.1-2
 play,2,0,tynej001,12,SBFS,K
 play,2,0,rodrl002,21,FBBX,S15/G.2-3;1-2
@@ -10274,7 +10204,6 @@ play,5,0,puntn001,31,FBBBX,4/L
 play,5,0,tynej001,00,X,S3/BG.3-H;1-2
 play,5,0,rodrl002,00,,NP
 sub,heinc001,"Chris Heintz",0,8,12
-com,"Twins catcher Jose Morales left the game due to an injured foot/ankle"
 play,5,0,rodrl002,20,.BBX,9/F
 play,5,1,uribj002,00,,NP
 sub,heinc001,"Chris Heintz",0,8,2
@@ -11402,9 +11331,6 @@ play,9,1,erstd001,00,,NP
 sub,mosed001,"Dustin Moseley",0,0,1
 play,9,1,erstd001,11,..CBX,S9/L
 play,9,1,thomj002,32,BBCBF11X,HR/8/F.1-H
-com,"$Thome's 500th career home run; the 23rd player to reach the"
-com,"milestone and the first time for a game-ending homer as #500."
-com,"This was his 2000th game"
 data,er,saunj001,1
 data,er,bootc001,4
 data,er,speij001,0
@@ -11948,7 +11874,6 @@ play,7,1,fielj001,22,.BBSSFX,9/F
 play,7,1,thomj002,01,FX,HR/7/L
 play,7,1,konep001,21,BCBX,3/G-
 play,7,1,dye-j001,01,CX,DGR/7
-com,"fan interference"
 play,7,1,erstd001,00,,NP
 sub,rapac001,"Clay Rapada",0,0,1
 play,7,1,erstd001,11,.BCX,7/F
@@ -12109,10 +12034,6 @@ play,9,0,rabur001,22,FB1F1FBS,K
 play,9,0,ingeb001,11,CB1X,54(1)/FO/G
 play,9,1,erstd001,32,CBBFBFB,W
 play,9,1,podss001,00,X,FC2/SH/BG/R6.1-2;B-1
-com,"ej,leylj801,M,eddid901,Call at 2B"
-com,"$2B umpire Doug Eddings ruled that SS Omar Infante's foot was"
-com,"off the bag when he caught catcher Ivan Rodriguez' high throw;"
-com,"Tigers Manager Jim Leyland ejected by 2B umpire Doug Eddings"
 play,9,1,uribj002,22,.BLLFBX,S9/G.2-H;1-2
 data,er,verlj001,2
 data,er,minez001,0

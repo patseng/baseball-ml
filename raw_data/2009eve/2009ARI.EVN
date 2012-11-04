@@ -85,7 +85,6 @@ play,4,0,ruscg001,02,CCC,K
 play,4,0,spilr001,31,BBBCX,53/G
 play,4,0,smits002,00,X,3/G
 play,4,1,lopef001,10,BX,HR/9/F
-com,"$Lopez homered from both sides of the plate"
 play,4,1,younc004,31,BCBBX,9/F
 play,4,1,drews001,12,CCBX,43/G
 play,4,1,tracc001,12,FBFX,43/G
@@ -102,10 +101,6 @@ play,5,0,tulot001,12,.1CCB.B,WP.2-3
 play,5,0,tulot001,32,.1CCB.B.FFBC,K
 play,5,1,byrne001,22,BFBFS,K
 play,5,1,clart002,11,BFX,HR/8/F
-com,"$Clark homered from both sides of the plate; Clark and Lopez become"
-com,"the second pair of teammates to each switch hit homers in one game;"
-com,"Bernie Williams and Jorge Posada performed the feat as Yankees on"
-com,"4/23/2000"
 play,5,1,jackc002,00,,NP
 sub,speir001,"Ryan Speier",0,6,1
 play,5,1,jackc002,00,,NP
@@ -840,15 +835,6 @@ play,2,0,blakc001,22,1B1SBSC,K
 play,2,0,pierj002,00,X,S9/L.1-3
 play,2,0,wolfr001,12,B1>FS1>B,SB2
 play,2,0,wolfr001,22,B1>FS1>B.X,1/LDP.3-H(RBI);2X2(14)
-com,"$pitcher Haren caught line drive and threw to 2B Lopez, who"
-com,"walked over and tagged runner Pierre; Ethier did not tag up"
-com,"on the play and crossed the plate before the third out was"
-com,"made at 2B; the DBacks left the field and the umpires ruled"
-com,"that Ethier crossed the plate before the third out, which is"
-com,"a timing play; the umpires further told the managers that, if"
-com,"the Dbacks had appealed at 3B before leaving the field, then"
-com,"Ethier would have been the '4th out' of the inning (rule 7.10 (d))"
-com,"and his out would have replaced Pierre's, thus negating the run"
 play,2,1,reynm001,31,BFBBB,W
 play,2,1,byrne001,00,X,7/F
 play,2,1,tracc001,01,C1>B,SB2
@@ -1164,7 +1150,6 @@ play,4,0,thurj001,11,*BTX,3/G.2-3
 play,4,0,carpc002,00,X,53/G
 play,4,1,clart002,00,,NP
 sub,mcclk001,"Kyle McClellan",0,9,1
-com,"Cardinals pitcher Chris Carpenter left the game due to an injured back"
 play,4,1,clart002,12,.SFBS,K
 play,4,1,younc004,10,BX,53/G
 play,4,1,montm001,22,BCSBC,K
@@ -1687,7 +1672,6 @@ play,3,0,stewi001,21,FBBX,S9/L.3-H(UR);1-3
 play,3,0,barmc001,00,X,7/F
 play,3,1,lopef001,00,,NP
 sub,ruscg001,"Glendon Rusch",0,9,1
-com,"Rockies pitcher Franklin Morales left the game due to an injured neck/shoulder"
 play,3,1,lopef001,01,.CX,S46/G
 play,3,1,ojeda001,00,X,D87/L.1-H(E8)(NR);B-3
 play,3,1,jackc002,21,C*BBX,S8/G.3-H
@@ -2026,9 +2010,6 @@ play,3,0,winnr001,31,BBCBX,7/F
 play,3,1,david002,02,CCC,K
 play,3,1,lopef001,11,CBX,13/L
 play,3,1,byrne001,21,BSBX,D7/F
-com,"$Byrne's fly hit the top of the LF wall and bounced back onto the field;"
-com,"DBacks manager Bob Melvin thought it hit the pole behind the wall for a home"
-com,"run; the umpires watched the replay and upheld the call as a ball in play"
 play,3,1,drews001,00,*B,OA.2X3(25)
 play,4,0,molib001,11,BSX,HR/7/F
 play,4,0,rowaa001,32,BBFFBX,8/F
@@ -2201,7 +2182,6 @@ play,5,0,molib001,12,.FFFBX,53/G
 play,5,1,clart002,22,BFBSFS,K
 play,5,1,byrne001,20,BBX,HR/7/F
 play,5,1,younc004,10,BX,S5/G
-com,"originally scored E5, changed next day to S5"
 play,5,1,uptoj001,32,1BBC1C1B>X,8/F
 play,5,1,snydc002,12,BC>F11>X,8/F
 play,6,0,millj002,00,,NP
@@ -2402,7 +2382,6 @@ play,8,1,jackc002,22,.CBBFC,K
 play,9,0,burre001,00,,NP
 sub,vasqe001,"Esmerling Vasquez",1,9,1
 play,9,0,burre001,00,.X,S7/L
-com,"Debut game for Esmerling Vasquez"
 play,9,0,uribj002,02,1CF1X,8/F
 play,9,0,winnr001,00,1,POCS2(136)
 play,9,0,winnr001,21,1.BBSX,D8/F
@@ -3212,9 +3191,6 @@ play,7,1,reynm001,30,*BBBB,W.2-3;1-2
 play,7,1,whitj002,00,,NP
 sub,villr001,"Ron Villone",0,9,1
 play,7,1,whitj002,12,.BFCFX,92(3)/FO.2-3;1-2
-com,"$Line drive caught on short hop. Runner tagged at 3rd in case"
-com,"it was caught. Kearns threw home and Flores stretched like a"
-com,"first baseman to complete the play as Lopez dove for the plate"
 play,7,1,byrne001,00,,NP
 sub,kensl001,"Logan Kensing",0,9,1
 play,7,1,byrne001,12,.CCBS,K
@@ -3821,12 +3797,10 @@ start,tracc001,"Chad Tracy",1,7,3
 start,ojeda001,"Augie Ojeda",1,8,5
 start,augeb001,"Bryan Augenstein",1,9,1
 play,1,0,tavew001,02,CCC,K
-com,"Debut game for Bryan Augenstein"
 play,1,0,hairj002,01,CX,63/G
 play,1,0,brucj001,22,SBBFFFC,K
 play,1,1,lopef001,11,BFX,43/G
 play,1,1,parrg001,11,CBX,HR/9/F
-com,"Debut game for Gerardo Parra"
 play,1,1,uptoj001,32,BSCBBB,W
 play,1,1,drews001,11,CB1X,8/F
 play,1,1,byrne001,01,FX,9/F
@@ -4040,11 +4014,6 @@ play,6,1,parrg001,00,,NP
 sub,thatj001,"Joe Thatcher",0,9,1
 play,6,1,parrg001,32,.FBB+3BFH,HP.3-H;2-3;1-2
 play,6,1,ojeda001,12,BFCX,323/G.3-H;2-3;1-2
-com,"ej,hundn001,P,coope901,Call at HP on force out"
-com,"ej,blacb001,M,coope901,Call at HP"
-com,"$HP umpire Eric Cooper ruled that Padres catcher Nick Hundley had taken his foot off"
-com,"the plate before catching the throw from Adrian Gonzalez; Hundley argued and was"
-com,"ejected by Cooper; Padres manager Bud Black was also ejected by Cooper for arguing"
 play,6,1,uptoj001,00,,NP
 sub,blanh001,"Henry Blanco",0,5,2
 play,6,1,uptoj001,30,...IIII,IW
@@ -4679,7 +4648,6 @@ play,5,1,reynm001,22,SB1F*BS,K
 play,6,0,mccab002,00,,NP
 sub,schld001,"Daniel Schlereth",1,9,1
 play,6,0,mccab002,31,.BBFBX,31/G
-com,"Debut game for Daniel Schlereth"
 play,6,0,andeg001,22,BCSBX,63/G
 play,6,0,kotcc001,02,CSFX,7/F
 play,6,1,younc004,00,,NP
@@ -4992,7 +4960,6 @@ play,4,0,diazm003,00,,NP
 sub,pradm001,"Martin Prado",0,6,12
 play,4,0,diazm003,00,,NP
 sub,vasqe001,"Esmerling Vasquez",1,9,1
-com,"Braves first baseman Casey Kotchman left the game due to an injured leg"
 play,4,0,diazm003,00,..B,PB.1-2
 play,4,0,diazm003,10,..B.X,S9/G.2-3
 play,4,0,schaj002,02,CSS,K
@@ -5315,7 +5282,6 @@ play,3,0,sandp001,32,FSFFFFBFBB*B,W
 play,3,0,uribj002,22,B*BC1FFFS,K
 play,3,0,frank001,12,BCFFX,S7/L.1-2
 play,3,0,torra001,10,BX,T8/F.2-H;1-H
-com,"originally scored as 3-base error, changed to triple next day"
 play,3,0,zitob001,32,FBBBCX,3/G
 play,3,1,rober002,12,CBFS,K
 play,3,1,uptoj001,31,BBBCB,W
@@ -5665,7 +5631,6 @@ play,6,1,lopef001,00,,NP
 sub,katam001,"Matt Kata",0,6,4
 play,6,1,lopef001,00,,NP
 sub,keppj001,"Jeff Keppinger",0,7,5
-com,"Astros third baseman Geoff Blum left the game due to an injured leg"
 play,6,1,lopef001,20,...BBX,S7/L
 play,6,1,parrg001,10,BX,S16/G.1-2
 play,6,1,uptoj001,32,BBBFFS,K
@@ -5771,7 +5736,6 @@ play,4,0,lee-c001,22,BBFCFFX,5/L-
 play,4,0,berkl001,02,CFX,43/G
 play,4,1,younc004,00,,NP
 sub,michj001,"Jason Michaels",0,4,7
-com,"Astros left fielder Carlos Lee left the game due to an injured leg"
 play,4,1,younc004,32,.BBCSBX,HR/7/F
 play,4,1,whitj002,22,CBBFX,43/G
 play,4,1,garlj001,02,CCFS,K
@@ -6343,7 +6307,6 @@ play,2,1,ojeda001,12,1C1F1BX,64(1)/FO/G
 play,2,1,garlj001,22,CSF*BFBC,K
 play,3,0,saltj001,00,,NP
 sub,rober002,"Ryan Roberts",1,7,7
-com,"Diamondbacks left fielder Eric Byrnes left the game due to an injured hand/wrist"
 play,3,0,saltj001,00,.X,S9/G
 play,3,0,davic003,11,CBX,S7/L.1-2
 play,3,0,felds001,00,X,14/SH/BG.2-3;1-2
@@ -7044,7 +7007,6 @@ play,3,0,kouzk001,12,FSBX,9/F
 play,3,1,garlj001,02,CFX,S8/G
 play,3,1,lopef001,31,BBBCX,S7/L.1-2
 play,3,1,drews001,01,CX,46(1)3/DP.2-3
-com,"$double play awarded on interference by runner at second"
 play,3,1,uptoj001,11,BCX,HR/8/F.3-H
 play,3,1,reynm001,00,X,3/P
 play,4,0,headc001,31,BBCBX,D8/F
@@ -7411,7 +7373,6 @@ play,8,1,lopef001,32,BBC11S1B>X,HR/89/F.3-H(UR);1-H(UR);B-H(UR)
 play,8,1,drews001,00,,NP
 sub,webbr001,"Ryan Webb",0,9,1
 play,8,1,drews001,01,.FX,S9/L
-com,"Debut game for Ryan Webb"
 play,8,1,uptoj001,32,BFFBB>X,8/F
 play,9,0,kouzk001,00,,NP
 sub,qualc001,"Chad Qualls",1,9,1
@@ -7527,7 +7488,6 @@ play,5,1,reynm001,12,C1BF>S,K+SB2
 play,5,1,parrg001,00,X,S12/L.2-3
 play,5,1,younc004,00,,NP
 sub,sancb001,"Brian Sanches",0,9,1
-com,"Marlins pitcher Burke Badenhop left the game due to an injured knee"
 play,5,1,younc004,01,.CX,31/G.3-H;1-2
 play,5,1,clart002,11,BCX,8/F
 play,6,0,uggld001,00,X,S7/L-
@@ -9081,7 +9041,6 @@ sub,tracc001,"Chad Tracy",1,9,3
 play,8,0,rollj001,11,...BCX,31/G
 play,8,0,victs001,00,,NP
 sub,brune001,"Eric Bruntlett",0,2,11
-com,"Phillies center fielder Shane Victorino left the game due to an injured knee"
 play,8,0,brune001,22,.BBCSFS,K
 play,8,0,utlec001,12,CBFX,S7/G
 play,8,0,howar001,12,BCTX,S8/G.1-3
@@ -9091,10 +9050,6 @@ sub,brune001,"Eric Bruntlett",0,2,8
 play,8,1,parrg001,00,,NP
 sub,walkt003,"Tyler Walker",0,9,1
 play,8,1,parrg001,01,..CX,D9/F
-com,"$the ball hit the top of the RF fence on the yellow padding and bounced up and"
-com,"back onto the field; the ball was ruled in play but Diamondbacks manager A.J."
-com,"Hinch asked about it; crew chief Derryl Cousins watched the replay and confirmed"
-com,"the call"
 play,8,1,uptoj001,32,BFBFBX,S8/L.2-H
 play,8,1,reynm001,32,.1B1BBFC>S,K+SB2
 play,8,1,younc004,12,CCBS,K
@@ -9237,7 +9192,6 @@ play,8,1,ojeda001,11,CBX,5/P5F
 play,8,1,raucj001,00,,NP
 sub,ryalr001,"Rusty Ryal",1,9,11
 play,8,1,ryalr001,11,.CBX,S8/L
-com,"Debut game for Rusty Ryal"
 play,8,1,drews001,22,BBCFFX,16(1)/FO/G.B-2(E6/TH1)
 play,8,1,oeltt001,11,BCX,7/F
 play,9,0,murpd006,00,,NP
@@ -9308,7 +9262,6 @@ play,1,0,murpd006,22,FFBBS,K
 play,1,1,drews001,20,BBX,DGR/78/F
 play,1,1,oeltt001,00,X,13/SH/BG.2-3
 play,1,1,parrg001,00,X,S6/G.3-H
-com,"$originally scored E6, changed to single next day"
 play,1,1,reynm001,00,1B,WP.1-2
 play,1,1,reynm001,21,1B.BCX,63/G
 play,1,1,montm001,32,BFSBBB,W
@@ -9554,11 +9507,6 @@ play,8,0,castl001,12,.CFBX,S8/G.2-H
 play,8,0,sullc001,01,C>B,SB2
 play,8,0,sullc001,22,C>B.FBX,T9/L.2-H
 play,8,0,coraa001,22,BFFBFX,7/F
-com,"ej,raucj001,P,everm901,Balls and strikes"
-com,"ej,hinca001,M,everm901,Balls and strikes (after Rauch ejection"
-com,"$Diamondbacks pitcher Jon Rauch talked to HP umpire Mike Everitt after the inning"
-com,"ended, arguing a call on a close pitch; Rauch was ejected by Everitt; DBacks"
-com,"manager A.J. Hinch was also ejected by Everitt"
 play,8,1,ojeda001,00,,NP
 sub,coraa001,"Alex Cora",0,2,6
 play,8,1,ojeda001,00,,NP
@@ -9837,11 +9785,6 @@ play,6,0,kuroh001,01,SX,53/G
 play,6,1,david002,00,,NP
 sub,ryalr001,"Rusty Ryal",1,9,11
 play,6,1,ryalr001,22,.CFFBBX,DGR/L1
-com,"$Rusty Ryals' line drive struck Dodgers pitcher Hiroki Kuroda on the side of the"
-com,"head, bounced on the warning track behind the Diamondbacks on deck circle and"
-com,"hopped into the stands; Kuroda fell to the ground holding his head; he was carried"
-com,"off the field with his neck immobilized and taken to the hospital with an"
-com,"apparent concussion but no more serious injuries"
 play,6,1,drews001,00,,NP
 sub,mcdoj004,"James McDonald",0,9,1
 play,6,1,drews001,31,.BFBBX,S8/L.2-3
@@ -10136,7 +10079,6 @@ play,3,1,parrg001,01,FX,D8/F.3-H;2-H
 play,3,1,alleb001,00,,NP
 sub,lopew001,"Wilton Lopez",0,9,1
 play,3,1,alleb001,10,.BX,S9/L.2-3
-com,"Debut game for Wilton Lopez"
 play,3,1,romea001,21,BC*BX,HR/89/F.3-H;1-H
 play,3,1,schem001,22,BSFFBFX,63/G
 play,3,1,drews001,00,X,13/G
@@ -10173,7 +10115,6 @@ play,6,1,romea001,12,CFFBFFS,K
 play,6,1,schem001,00,,NP
 sub,hestj001,"John Hester",1,9,11
 play,6,1,hestj001,22,.BFCF*BX,HR/8/F.1-H
-com,"Debut game for John Hester"
 play,6,1,drews001,22,BBCSX,7/F
 play,7,0,lopew001,00,,NP
 sub,oeltt001,"Trent Oeltjen",1,6,7
@@ -10519,8 +10460,6 @@ play,9,0,matsk001,32,BBBCCX,63/G
 play,9,0,blumg001,12,FBFFFH,HP
 play,9,0,costc001,32,FCBBBX,4/P
 play,9,0,michj001,21,SBBX,163/G
-com,"$Diamondbacks pitcher Chad Qualls twisted in an attempt to catch the comebacker; he fell to"
-com,"the ground with a dislocated left kneecap, which was popped back in by the trainer"
 data,er,rodrw002,4
 data,er,gervs001,0
 data,er,byrdt001,0
@@ -10596,10 +10535,6 @@ play,2,1,younc004,31,CB>B.BX,9/F
 play,3,0,kempm001,02,FFX,4/P3F
 play,3,0,ethia001,22,BSBCX,63/G
 play,3,0,ramim002,02,CCS,K
-com,"ej,ramim002,P,eddid901,Balls and strikes"
-com,"$Dodgers left fielder Manny Ramirez objected to the first called strike after swinging"
-com,"at strike three; he threw his bat toward the Dodgers dugout and then threw his helmet"
-com,"in the same direction; he was ejected by HP umpire Doug Eddings"
 play,3,1,parrg001,00,,NP
 sub,pierj002,"Juan Pierre",0,4,7
 play,3,1,parrg001,01,..CX,S8/L
@@ -12022,7 +11957,6 @@ play,1,1,uptoj001,20,BB1X,8/F
 play,1,1,reynm001,00,X,HR/7/F.1-H
 play,1,1,rober002,00,,NP
 sub,frank001,"Kevin Frandsen",0,2,4
-com,"Giants second baseman Freddy Sanchez left the game due to an injured knee"
 play,1,1,rober002,12,.CSBX,S9/G
 play,1,1,byrne001,12,1BCST,K
 play,2,0,ishit001,11,FBX,43/G
@@ -12225,11 +12159,6 @@ play,3,1,uptoj001,12,BSCFFX,DGR/78/F.1-3
 play,3,1,montm001,21,CBBX,S8/L.3-H;2-H
 play,3,1,reynm001,02,FFS,K
 play,3,1,parrg001,01,CX,D8/F89XDW.1-H
-com,"$the fly ball by Gerardo Parra struck the chain link portion of the fence in the"
-com,"deepest part of right center field; 1B umpire Marty Foster called the ball a"
-com,"home run but the umpires immediately gathered in the infield; acting crew chief"
-com,"Wally Bell watched the replay and overturned the call to a ball in play; he"
-com,"awarded Parra a double and allowed the runner from first, Miguel Montero, to score"
 play,3,1,ryalr001,00,,NP
 sub,joaqw001,"Waldis Joaquin",0,9,1
 play,3,1,ryalr001,32,.S*BSBFBFFB,W
@@ -12419,10 +12348,6 @@ play,6,0,ishit001,22,CBFBX,31/G
 play,6,1,montm001,10,BX,S9/G
 play,6,1,reynm001,02,CFFFS,K
 play,6,1,ryalr001,12,FSBX,T9/F.1-H
-com,"$the fly ball by Rusty Ryal struck the chain link portion of the fence in the"
-com,"deepest part of right center field - in the same spot as the previous night's"
-com,"hit by Gerardo Parra; the hit was called in play but the umpires huddled and"
-com,"then acting crew chief Wally Bell watched the replay and upheld the call"
 play,6,1,byrne001,00,,NP
 sub,howrb001,"Bob Howry",0,9,1
 play,6,1,byrne001,00,,NP
@@ -12772,7 +12697,6 @@ play,8,0,ecksd001,02,CC>B,CS2(24)
 play,8,1,parrg001,00,,NP
 sub,friee001,"Ernesto Frieri",0,9,1
 play,8,1,parrg001,22,.CBFBS,K
-com,"Debut game for Ernesto Frieri"
 play,8,1,younc004,11,CBX,5/L
 play,8,1,drews001,12,SCBC,K
 play,9,0,ecksd001,00,,NP
@@ -12882,10 +12806,6 @@ play,6,0,ecksd001,01,CX,53/BG
 play,6,0,gonza003,11,SBX,6/L
 play,6,1,parrg001,00,X,7/F
 play,6,1,tracc001,01,CX,HR/89/F
-com,"$Padres center fielder Tony Gwynn leaped for the ball but a fan touched it, preventing"
-com,"Gwynn from attempting the catch; since the fan did not lean out over the field, it was"
-com,"ruled a home run, even though Gwynn might have been able to catch the ball over the wall;"
-com,"crew chief Rick Reed watched the replay and upheld the call"
 play,6,1,ojeda001,00,X,S1/BG
 play,6,1,buckb002,00,,NP
 sub,russa001,"Adam Russell",0,9,1

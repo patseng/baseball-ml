@@ -530,7 +530,6 @@ play,3,1,smoaj001,32,BCBCFBS,K
 play,3,1,olivm001,01,CX,7/F
 play,4,0,encae001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,2,5
-com,"Mariners second baseman Chone Figgins left the game due to an injured hand"
 play,4,0,encae001,02,.CCX,S7/L
 play,4,0,nix-j001,10,BX,D7/L.1-3
 play,4,0,escoy001,11,BSB,WP.3-H;2-3
@@ -966,7 +965,6 @@ play,2,0,martv001,32,CB*BC*BFF1X,S9/L.1-3
 play,2,0,boesb001,12,SBFX,S8/G.3-H;1-2
 play,2,0,peraj001,00,,NP
 sub,wellc001,"Casper Wells",0,5,12
-com,"Tigers designated hitter Victor Martinez left the game due to an injured groin"
 play,2,0,peraj001,12,.CCFBFS,K
 play,2,0,avila001,12,CCBFFX,7/L
 play,2,0,ingeb001,31,CBBBX,7/F
@@ -1582,7 +1580,6 @@ play,2,1,wilsj002,01,SX,S67/G.2-H;1-2
 play,2,1,suzui001,20,*BBX,3/G
 play,3,0,crisc001,00,,NP
 sub,saunm001,"Michael Saunders",1,3,7
-com,"Mariners left fielder Milton Bradley left the game due to an injured back"
 play,3,0,crisc001,12,.LCFBX,43/G
 play,3,0,bartd001,12,CSBX,4/P
 play,3,0,dejed001,11,CBX,3/G
@@ -2082,7 +2079,6 @@ play,7,1,langr002,00,,NP
 sub,morem001,"Mitch Moreland",0,5,9
 play,7,1,langr002,00,,NP
 sub,strop001,"Pedro Strop",0,0,1
-com,"Rangers right fielder Nelson Cruz left the game due to an injured leg"
 play,7,1,langr002,12,..FBCX,S8/L
 play,7,1,ryanb002,21,BBLB,WP.1-2
 play,7,1,ryanb002,31,BBLB.X,FC2/SH/BG.2-3;B-1
@@ -2491,12 +2487,6 @@ sub,thorm001,"Matt Thornton",0,0,1
 play,8,1,suzui001,12,.BFCFX,7/F
 play,8,1,figgc001,00,X,D9/G
 play,8,1,bradm001,02,CCF>C,K+SB3
-com,"ej,bradm001,P,muchm901,Called third strike"
-com,"$Mariners left fielder Milton Bradley was called out on a pitch down and away;"
-com,"he was angry about the call and got in the face of HP umpire Mike Muchlinski"
-com,"while still holding his bat; they exchanged a few words and then Muchlinski"
-com,"ejected Bradley, who started gesturing with his bat; Mariners manager Eric"
-com,"Wedge held Bradley back and led him to the dugout"
 play,8,1,olivm001,32,.SBSBBFS,K
 play,9,0,quenc001,00,,NP
 sub,langr002,"Ryan Langerhans",1,3,7
@@ -2926,7 +2916,6 @@ play,8,1,olivm001,00,,NP
 sub,burna002,"Alex Burnett",0,0,1
 play,8,1,olivm001,00,,NP
 sub,ryanb002,"Brendan Ryan",1,3,12
-com,"Mariners first baseman Justin Smoak left the game due to an injured ankle"
 play,8,1,olivm001,22,..FBBFX,S8/G.1-3
 play,8,1,kenna001,00,X,7/SF/F.3-H
 play,8,1,peguc001,00,X,4(1)/FO/G
@@ -3074,8 +3063,6 @@ sub,cappm001,"Matt Capps",0,0,1
 play,9,1,smoaj001,02,.CCS,K
 play,9,1,olivm001,32,FBBCB*B,W
 play,9,1,custj001,00,X,54(1)/FO/G
-com,"ej,wedge001,M,mealj901,Call at 2B"
-com,"Mariners Manager Eric Wedge ejected by 2B umpire Jerry Meals for arguing the close play at 2B"
 play,9,1,wilsj002,00,,NP
 sub,kenna001,"Adam Kennedy",1,6,11
 play,9,1,kenna001,00,..X,43/G
@@ -4593,7 +4580,6 @@ play,4,0,brigr001,00,X,7/F
 play,4,0,damoj001,11,BCX,13/G
 play,4,1,smoaj001,00,,NP
 sub,rodrs002,"Sean Rodriguez",0,4,5
-com,"Rays third baseman Evan Longoria left the game due to an injured side"
 play,4,1,smoaj001,12,.BFSFX,D7/L
 play,4,1,custj001,02,FFX,8/F.2-3
 play,4,1,kenna001,10,BX,9/FDP.3XH(92)
@@ -5685,7 +5671,6 @@ start,carpm001,"Mike Carp",1,7,7
 start,gutif001,"Franklin Gutierrez",1,8,8
 start,figgc001,"Chone Figgins",1,9,5
 start,bedae001,"Erik Bedard",1,0,1
-com,"Debut for umpire Clint Fagan"
 play,1,0,heywj001,01,CX,43/G
 play,1,0,lugoj001,32,CBBFBX,7/F
 play,1,0,mccab002,11,BCX,HR/8/F
@@ -6000,8 +5985,6 @@ play,2,0,rossd001,12,BCSF1S,K23
 play,2,1,smoaj001,10,BX,43/G
 play,2,1,ackld001,32,CCBBBB,W
 play,2,1,custj001,32,C1B+1C1BB>C,K+SB2
-com,"ej,wedge001,M,emmep901,Balls and strikes"
-com,"Mariners Manager Eric Wedge ejected by HP umpire Paul Emmel for arguing balls and strikes"
 play,2,1,gutif001,02,.CFX,8/F
 play,3,0,mclon001,00,X,7!/F
 play,3,0,gonza002,02,CFS,K
@@ -6154,7 +6137,6 @@ play,2,0,maybc001,00,X,13/G
 play,2,0,hudso001,02,CFF,NP
 sub,gonza005,"Alberto Gonzalez",0,7,11
 play,2,0,gonza005,02,CFF.FS,K
-com,"$Gonzalez replaces Hudson with 0-2 count, strikeout charged to Hudson"
 play,2,1,peguc001,00,,NP
 sub,gonza005,"Alberto Gonzalez",0,7,4
 play,2,1,peguc001,11,.SBX,7/F
@@ -6303,7 +6285,6 @@ play,4,1,gutif001,32,BBCCBX,13/G
 play,4,1,smoaj001,22,FBBSX,7/F
 play,5,0,philk001,12,SFBC,K
 play,5,0,maybc001,22,CSFBFBB,W
-com,"$Cameron Maybin walked on three balls"
 play,5,0,rizza001,31,B11BBCX,53/G.1-2
 play,5,0,gonza005,22,CFB*BX,S67/G.2-H
 play,5,0,venaw001,00,X,43/G
@@ -7517,7 +7498,6 @@ play,3,1,olivm001,01,CX,S9/F-
 play,3,1,wellc001,22,S*B1>FB1>X,63/G.1-2
 play,3,1,figgc001,00,,NP
 sub,smoaj001,"Justin Smoak",1,8,11
-com,"Mariners third baseman Chone Figgins left the game due to an injured hip"
 play,3,1,smoaj001,30,.BBBB,W
 play,3,1,gutif001,12,CFBS,K
 play,3,1,suzui001,10,BX,43/G
@@ -7652,10 +7632,6 @@ play,1,0,matsh001,11,CBX,D8/F
 play,1,0,willj004,32,CBBF*BFC,K
 play,1,1,suzui001,21,BFBX,63/G
 play,1,1,ryanb002,12,CBSFX,S6/G6D.B-3
-com,"$Brendan Ryan beat out the infield hit and saw no one covering 2B, as SS Eric Sogard"
-com,"was near the 3B line after fielding the grounder and 2B Jemile Weeks was backing up at"
-com,"1B; when he ran to 2B and slid in, he saw no one covering 3B, since 3B Scott Sizemore had"
-com,"run towards 2B attempting to cover there; Ryan reached 3B without a play"
 play,1,1,ackld001,31,BBCBB,W
 play,1,1,carpm001,01,CX,D7/F.3-H;1-H
 play,1,1,kenna001,00,X,8/F.2-3
@@ -7673,8 +7649,6 @@ play,3,0,crisc001,12,CBSC,K
 play,3,1,suzui001,01,CX,8!/L-
 play,3,1,ryanb002,12,BCFS,K
 play,3,1,ackld001,32,BCCBBX,T3/G
-com,"$Dustin Ackley's hard grounder down the 1B line was touched by a fan reaching over the wall; Ackley"
-com,"was awarded 3B on the fan interference"
 play,3,1,carpm001,12,CCBS,K
 play,4,0,matsh001,12,BCCX,7/F
 play,4,0,willj004,32,FBBCBS,K
@@ -7826,10 +7800,6 @@ play,4,1,wilsj002,32,BBBCFS,K
 play,4,1,halmg001,12,FSBC,K
 play,5,0,willj004,32,BCFBFBFX,3/P
 play,5,0,jackc002,01,CX,D7/F
-com,"$Conor Jackson's fly hit off the top of the padded wall just behind the glove of LF"
-com,"Greg Halman, who seemed to have a chance to catch the ball; the ball caromed back onto"
-com,"the field and was ruled in play; crew chief Mike Winters watched the replay and upheld"
-com,"the call"
 play,5,0,sizes001,22,CBSBX,D7/L.2-H
 play,5,0,rosaa001,11,*BFX,8/FDP.2X3(85)
 play,5,1,suzui001,02,CCFX,S7/L
@@ -8134,14 +8104,6 @@ play,4,0,crawc002,00,1,PO1(E3).1-2
 play,4,0,crawc002,01,1.SX,S1/G.2-3
 play,4,0,gonza003,01,CX,31/G-.1-2
 play,4,0,pedrd001,22,CC*B*BX,9/FDP.3XH(92)
-com,"ej,frant001,M,rippm901,Reversal of call at home"
-com,"$Jacoby Ellsbury collided with catcher Josh Bard; HP umpire Mark Ripperger started to"
-com,"move his right arm as if to call out Ellbury but ruled safe when he did not see the ball"
-com,"in Bard's glove; however, Bard had the ball in his bare hand and never dropped it; Mariners"
-com,"manager Eric Wedge ran out to argue as did pitcher Felix Hernandez; the trainers worked on"
-com,"Bard, who was hit hard; the umpires huddled and reversed the call and Red Sox manager Terry"
-com,"Francona came out to argue; he was upset that Ripperger did not explain the situation;"
-com,"eventually Francona was ejected by Ripperger"
 play,4,1,wellc001,02,.CFC,K
 play,4,1,bardj001,21,BSBX,9/F
 play,4,1,rodrl002,10,BX,3/G
@@ -9698,7 +9660,6 @@ play,3,0,huntt001,01,SX,13/G-
 play,3,0,trumm001,01,FX,8/F
 play,3,1,ryanb002,00,,NP
 sub,romia001,"Andrew Romine",0,1,6
-com,"Angels shortstop Maicer Izturis left the game due to an injured leg"
 play,3,1,ryanb002,31,.BSBBB,W
 play,3,1,robit001,32,*BBBC>F1>B,W.1-2
 play,3,1,suzui001,02,CCX,D9/L.2-H;1-3
@@ -9981,8 +9942,6 @@ play,3,0,franj004,12,CFBX,13/G
 play,3,1,suzui001,11,CBX,HR/9/F
 play,3,1,ryanb002,21,BBCX,6/P
 play,3,1,ackld001,31,BCBBX,9!/F
-com,"$Royals RF Jeff Francoeur made a leaping catch over the fence, taking a home"
-com,"run away from Dustin Ackley"
 play,3,1,olivm001,12,BCCX,HR/7/F
 play,3,1,smoaj001,10,BX,S8/L
 play,3,1,penaw001,00,X,S8/G.1-2
@@ -10628,7 +10587,6 @@ play,9,1,rodrl002,00,,NP
 sub,rivem002,"Mariano Rivera",0,0,1
 play,9,1,rodrl002,00,,NP
 sub,penaw001,"Wily Mo Pena",1,9,11
-com,"$Mariano Rivera's 600th career save"
 play,9,1,penaw001,22,..CBTBT,K
 play,9,1,suzui001,11,BCX,S7/G
 play,9,1,seagk001,22,C1BBFS,K
@@ -10710,7 +10668,6 @@ play,3,1,robit001,32,BBBCFB,W
 play,3,1,suzui001,10,1B1X,64(1)3/GDP
 play,4,0,granc001,00,,NP
 sub,kenna001,"Adam Kennedy",1,5,3
-com,"Mariners first baseman Justin Smoak left the game due to an injured groin"
 play,4,0,granc001,02,.FCX,6/P
 play,4,0,teixm001,00,X,43/G-
 play,4,0,canor001,01,CX,43/G
@@ -11178,8 +11135,6 @@ play,2,1,robit001,32,BSCBBX,S7/G
 play,2,1,lidda001,02,CF1F1X,53/G
 play,3,0,cruzn002,12,CBFS,K
 play,3,0,chave002,32,BBSSBFFX,S1/G-
-com,"$Ian Kinsler hit the 1-2 pitch down the LF line; the ball was ruled fair and a homer by 3B umpire"
-com,"and crew chief Brian Gorman; Gorman watched the replay and overturned the call to a foul ball"
 play,3,0,kinsi001,22,1S1BF1FBX,4(1)3/GDP
 play,3,1,saunm001,12,BFCFFS,K
 play,3,1,suzui001,21,FBBX,43/G

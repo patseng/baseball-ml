@@ -1003,9 +1003,6 @@ sub,johnr007,"Rontrez Johnson",0,5,12
 play,8,0,maynb001,30,..B*BBB,W.2-3;1-2
 play,8,0,feblc001,22,BCC*BX,S9/L.3-H;2-H;1-3
 play,8,0,tuckm001,10,BH,HP.1-2
-com,"ej,sadlc001,P,crawj901,Intentional HBP"
-com,"ej,wedge001,M,crawj901,Protesting Sadler ejection"
-com,"Indians pitcher Carl Sadler and Manager Eric Wedge ejected by HP umpire Jerry Crawford"
 play,8,0,randj002,00,,NP
 sub,paroc001,"Chad Paronto",1,0,1
 play,8,0,randj002,11,...BSX,7/F
@@ -1131,8 +1128,6 @@ play,5,1,spens001,00,X,D7/L.2-H;1-3
 play,5,1,lawtm002,01,CH,HP
 play,5,1,bardj001,00,,NP
 sub,hentp001,"Pat Hentgen",0,0,1
-com,"ej,daalo001,P,onorb901,Intentional HBP"
-com,"Orioles Omar Daal ejected by HP umpire Brian O'Nora"
 play,5,1,bardj001,02,..FFB,WP.3-H(NR);2-3;1-2
 play,5,1,bardj001,22,..FFB.BC,K
 play,5,1,blakc001,02,CFC,K
@@ -1172,7 +1167,6 @@ play,9,0,gibbj002,00,,NP
 sub,garck002,"Karim Garcia",1,1,8
 play,9,0,gibbj002,00,,NP
 sub,baezd001,"Danys Baez",1,0,1
-com,"Indians Milton Bradley left the game due to an injured leg"
 play,9,0,gibbj002,10,...BX,S8/L
 play,9,0,batit001,02,CFC,K
 play,9,0,surhb001,32,CBSBBFX,8/F
@@ -1425,7 +1419,6 @@ play,7,0,batit001,11,CBX,S8/L
 play,7,0,cordm001,32,BCB+1BC>B,W.1-2
 play,7,0,cruzd001,12,FBSX,S8/L.2-3;1-2
 play,7,0,gil-g001,11,FBX,6/P
-com,"Infield fly rule"
 play,7,0,hairj002,10,BX,S8/L.3-H;2-H;1-3
 play,7,0,moram002,32,BBBCS>F>S,K
 play,7,1,blakc001,22,BBCFX,7/L
@@ -1470,7 +1463,6 @@ play,10,0,hairj002,11,...CBX,4/P
 play,10,0,moram002,02,CFS,K
 play,10,0,segud001,00,,NP
 sub,surhb001,"B.J. Surhoff",0,3,11
-com,"Orioles David Segui left the game due to an injured leg."
 play,10,0,surhb001,02,..CCX,S9/G
 play,10,0,conij001,00,X,7/F
 play,10,1,garck002,22,MBBSX,8/F
@@ -3829,7 +3821,6 @@ start,broub001,"Benjamin Broussard",1,7,3
 start,blakc001,"Casey Blake",1,8,5
 start,philb001,"Brandon Phillips",1,9,4
 start,sabac001,"C.C. Sabathia",1,0,1
-com,"30 minute delay during game"
 play,1,0,jimed001,22,BBCCX,S5/G
 play,1,0,lee-c001,11,FBX,5/P
 play,1,0,thomf001,21,BCBX,HR/7/F.1-H
@@ -3883,8 +3874,6 @@ play,5,1,vizqo001,31,.BCBBB,W
 play,5,1,burke001,32,BFBS1>FB+1>F>B,W.1-2
 play,5,1,bradm001,00,,NP
 sub,glovg001,"Gary Glover",0,0,1
-com,"ej,manuj101,M,wegnm901,Balls and strikes"
-com,"White Sox Manager Jerry Manuel ejected by HP umpire Mark Wegner"
 play,5,1,bradm001,10,..BX,D8/F.2-H;1-3
 play,5,1,geruj001,31,BBBFB,W
 play,5,1,bardj001,11,BCX,46(1)3/GDP.3-H;2-3
@@ -3898,8 +3887,6 @@ play,6,0,credj001,02,FFC,K
 play,6,0,borcj001,30,BBBB,W.1-2
 play,6,0,olivm001,32,BBCBSFB,W.2-3;1-2
 play,6,0,jimed001,02,CCX,8/F
-com,"ej,kimmb101,C,wegnm901,Balls and strikes"
-com,"White Sox Coach Bruce Kimm ejected by HP umpire Mark Wegner"
 play,6,1,philb001,21,.CBBX,7/F
 play,6,1,lawtm002,22,BCFBX,D7/G
 play,6,1,vizqo001,00,B,PB.2-3
@@ -4658,7 +4645,6 @@ play,7,1,lawtm002,22,BFSBX,7/F
 play,8,0,mendd001,00,,NP
 sub,peraj001,"Jhonny Peralta",1,6,5
 play,8,0,mendd001,22,.BFBCS,K
-com,"Debut game for Jhonny Peralta"
 play,8,0,mattg002,11,CBX,D7/F
 play,8,0,kotsm001,00,,NP
 sub,nadyx001,"Xavier Nady",0,2,11
@@ -4794,29 +4780,18 @@ play,6,0,coomr001,00,X,S7/L.1-2
 play,6,0,cabrj002,00,X,31/G
 play,6,1,peraj001,00,,NP
 sub,kinkm001,"Mike Kinkade",0,5,3
-com,"Dodgers Fred McGriff left the game due to an injured groin"
 play,6,1,peraj001,12,..BCSX,63/G
 play,6,1,crisc001,00,X,S8/G
 play,6,1,mcdoj003,10,B11X,S1/G.1-2
 play,6,1,bradm001,11,BCX,S8/G.2-H;1-2
 play,6,1,spens001,00,>C,SB3;SB2
-com,"$the Dodgers were unhappy with the call at 3B"
 play,6,1,spens001,11,>C.BX,S7/G.3-H;2XH(72);B-2(TH)
 play,6,1,geruj001,22,BFBCX,13/G
 play,7,0,belta001,00,,NP
 sub,boydj001,"Jason Boyd",1,0,1
-com,"ej,pereo001,P,rapue901,Call at 3B"
-com,"ej,colbj101,C,rapue901,Call at 3B"
-com,"Dodgers pitcher Odalis Perez yelled at 3B umpire Gerry Davis after"
-com,"making the play for the third out; manager Jim Tracy restrained"
-com,"Petez, who was ejected, along with Coach Jim Colborn, by 2B"
-com,"umpire Ed Rapuano"
 play,7,0,belta001,31,...BBBCX,D7/L
 play,7,0,coraa001,00,,NP
 sub,miced001,"Dan Miceli",1,0,1
-com,"Indians Jason Boyd left the game with stomach cramps; manager Eric Wedge called for"
-com,"Dan Miceli but Jake Westbrook came in; Wedge talked with the umpires, who allowed"
-com,"Micelli to pitch; Westbrook went back to the bullpen"
 play,7,0,coraa001,00,..X,7/F
 play,7,0,iztuc001,02,CFX,8/F
 play,7,0,lodup001,31,BBBCB,W
@@ -4845,7 +4820,6 @@ play,9,0,coraa001,00,,NP
 sub,peraj001,"Jhonny Peralta",1,9,6
 play,9,0,coraa001,00,,NP
 sub,baezd001,"Danys Baez",1,0,1
-com,"Indians John McDonald left the game due to an injured back"
 play,9,0,coraa001,31,.....CBBBX,D7/F
 play,9,0,iztuc001,21,BBLX,14/SH/BG.2-3
 play,9,0,lodup001,00,,NP
@@ -6012,7 +5986,6 @@ play,7,0,branr001,22,BSFFBS,K
 play,7,0,laruj001,12,BCSH,HP
 play,7,0,taylr001,00,,NP
 sub,stink001,"Kelly Stinnett",0,7,12
-com,"Reds Jason LaRue left the game due to an injured neck/shoulder"
 play,7,0,taylr001,12,..BSCS,K
 play,7,1,mcdoj003,00,,NP
 sub,stink001,"Kelly Stinnett",0,7,2
@@ -6094,7 +6067,6 @@ start,martv001,"Victor Martinez",1,7,2
 start,gutir001,"Ricky Gutierrez",1,8,6
 start,philb001,"Brandon Phillips",1,9,4
 start,trabb001,"Billy Traber",1,0,1
-com,"57 minute delay during game"
 play,1,0,wilse001,31,FBBBX,53/G
 play,1,0,zeilt001,21,CBBX,4/P
 play,1,0,giamj001,12,CCBFFS,K
@@ -6467,8 +6439,6 @@ play,10,0,wilse001,00,,NP
 sub,boydj001,"Jason Boyd",1,0,1
 play,10,0,wilse001,10,.BX,8/F
 play,10,0,soria001,22,CBCBS,K
-com,"ej,wedge001,M,dimum901,Balls and strikes"
-com,"Indians Manager Eric Wedge ejected by HP umpire Mike DiMuro"
 play,10,0,jeted001,31,BBFB.B,W
 play,10,0,giamj001,11,BCX,7/F
 play,10,1,crisc001,00,,NP
@@ -7073,7 +7043,6 @@ play,6,1,philb001,22,BFBFFS,K
 play,7,0,rowaa001,00,,NP
 sub,betar001,"Rafael Betancourt",1,0,1
 play,7,0,rowaa001,22,.FBFFBX,3!/P3F
-com,"Debut game for Rafael Betancourt"
 play,7,0,thomf001,12,CBFC,K
 play,7,0,ordom001,31,BFBBB,W
 play,7,0,lee-c001,10,BX,7/F
@@ -7704,7 +7673,6 @@ play,9,0,lecrm001,12,....BCSX,3/P3F
 play,9,0,jonej003,00,,NP
 sub,priea002,"Alex Prieto",0,6,11
 play,9,0,priea002,02,.CFFFS,K
-com,"Debut game for Alex Prieto"
 play,9,0,mohrd001,12,CSBX,8/F
 data,er,lohsk001,7
 data,er,maysj001,1
@@ -8522,7 +8490,6 @@ start,peraj001,"Jhonny Peralta",1,8,6
 start,mcdoj003,"John McDonald",1,9,4
 start,andeb002,"Brian Anderson",1,0,1
 play,1,0,ecksd001,02,FLC,K
-com,"Debut game for Kevin Gregg"
 play,1,0,owene001,00,X,S7/L-
 play,1,0,salmt001,22,1CBSBFFS,K+SB2
 play,1,0,andeg001,10,BX,6/P
@@ -8848,7 +8815,6 @@ start,sabac001,"C.C. Sabathia",1,0,1
 play,1,0,ecksd001,32,BBCBCB,W
 play,1,0,figgc001,31,BBCBB,W.1-2
 play,1,0,andeg001,01,SX,5/P
-com,"Infield Fly rule"
 play,1,0,spies001,22,CBFBC,K
 play,1,0,quinr002,02,SFS,K
 play,1,1,crisc001,00,X,43/G
@@ -9010,8 +8976,6 @@ play,4,1,escoa002,21,CBBX,9/F
 play,4,1,bardj001,12,CCBX,7/F7LF
 play,5,0,rolld001,11,CBX,6!3/G
 play,5,0,hallt001,32,FSFBBFFBB,W
-com,"Walk actually happened with 3 balls. 4th ball left"
-com,"in pitch string"
 play,5,0,sandj001,32,SBBFBS,K
 play,5,0,perea001,21,BBFX,6!4(1)/FO/G
 play,5,1,peraj001,00,X,9/F
@@ -9738,7 +9702,6 @@ play,9,0,rival001,32,FBSBFBX,9/F
 play,9,0,koskc001,12,CBFFX,S9/L
 play,9,0,lecrm001,00,,NP
 sub,hockd001,"Denny Hocking",0,3,12
-com,"Twins Corey Koskie left the game due to an injured leg"
 play,9,0,lecrm001,00,..X,8/F
 play,9,0,jonej003,00,,NP
 sub,ryanm001,"Mike Ryan",0,5,11
@@ -9854,14 +9817,6 @@ play,7,0,mohrd001,22,BLBLX,24/SH/BG.2-3;1-2
 play,7,0,guzmc001,12,CFBFX,4/SF/P.3-H;2-3
 play,7,0,stews002,00,,NP
 sub,bardj001,"Joshua Bard",1,7,2
-com,"ej,laket001,P,nelss901,Call at HP"
-com,"$Indians catcher Tim Laker blocked the plate and thought Torii Hunter"
-com,"missed the plate on his head first slide; Laker ran after Hunter and"
-com,"tagged him; when HP umpire Scott Nelson called Hunter safe, Laker"
-com,"exploded and was ejected by Nelson; Laker was led off the field but"
-com,"threw his mask, glove and the ball and then the bat boy's stool onto"
-com,"the field"
-com,"for arguing the call at HP"
 play,7,0,stews002,12,..SSBFFS,K23
 play,7,1,bardj001,12,FBSS,K
 play,7,1,peraj001,11,BSX,31/G
@@ -9981,16 +9936,6 @@ play,4,0,santr002,32,C*BBLFBX,S7/G.2-H;1-3
 play,4,0,sanca003,10,BX,FC1/G.3XH(1E2)(NR)(UR);1-2
 play,4,0,klasd001,00,X,S8/L.2-3;1-2
 play,4,0,higgb001,10,BX,54(1)/GDP.2X2(4)
-com,"Sanchez went back to 2nd just as ball arrived. He"
-com,"was tagged nearly simultaneously with the ball being"
-com,"caught by the 2nd baseman on the base.  The umpire"
-com,"pointed to Sanchez and called him safe, but he thought"
-com,"the umpire called him out and left the field.  Umpires"
-com,"conferred and ruled Sanchez out for leaving base.  The"
-com,"run from third (Santiago) was disallowed because he had"
-com,"slowed up and did not cross the plate before Sanchez"
-com,"vacated the base.  Originally called DP, not GDP, but"
-com,"GDP added later"
 play,4,1,lawtm002,32,BBFCBX,8/F
 play,4,1,ludwr001,32,CBFBBX,S7/G
 play,4,1,broub001,21,BBFX,D8/L.1-H
@@ -10120,7 +10065,6 @@ play,3,0,sanca003,22,LBBFX,43/G
 play,3,0,klasd001,22,FSBBX,63/G
 play,3,1,crisc001,00,,NP
 sub,ledew001,"Wil Ledezma",0,0,1
-com,"Shane Loux left the game due to an injured neck/shoulder"
 play,3,1,crisc001,11,..BLX,S7/L
 play,3,1,vizqo001,01,FX,D7/L.1-H
 play,3,1,geruj001,00,X,HR/9/F.2-H
@@ -11186,8 +11130,6 @@ play,7,0,mohrd001,22,FFBFBFFFX,53/G
 play,7,1,peraj001,00,,NP
 sub,rincj001,"Juan Rincon",0,0,1
 play,7,1,peraj001,01,.CX,98/F
-com,"98 is correct scoring.  Right fielder lost ball in"
-com,"sun, it bounced off his head to center fielder"
 play,7,1,philb001,00,,NP
 sub,mohrd001,"Dustan Mohr",0,7,9
 play,7,1,philb001,00,,NP
@@ -11327,9 +11269,6 @@ play,5,1,peraj001,22,CCBBS,K
 play,5,1,philb001,12,SFBX,9/F
 play,5,1,crisc001,01,CX,S8/L
 play,5,1,blakc001,22,CB1F1FBX,64(1)/FO/G
-com,"ej,bellb001,C,bellw901,Bench jockeying"
-com,"Indians bench coach Buddy Bell ejected by 2B umpire Wally"
-com,"Bell for bench jockeying"
 play,6,0,guzmc001,21,CBBX,43/G
 play,6,0,stews002,31,BSBBB,W
 play,6,0,rival001,01,F>X,S1/G.1-3(E1/TH);B-2

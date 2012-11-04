@@ -55,7 +55,6 @@ play,1,0,giamj002,22,FCFBBS,K
 play,1,0,nixot001,32,BBBCCX,53/G
 play,1,1,crawc002,01,CX,63/G
 play,1,1,baldr001,22,CBBFS,K
-com,"Debut game for Rocco Baldelli"
 play,1,1,huffa001,00,X,43/G
 play,2,0,varij001,00,X,D9/L
 play,2,0,damoj001,00,X,2/BP2F
@@ -108,7 +107,6 @@ play,7,1,ordor001,10,BX,46(1)3/GDP
 play,8,0,millk005,00,,NP
 sub,mccls002,"Seth McClung",1,0,1
 play,8,0,millk005,02,.CFS,K
-com,"Debut game for Seth McClung"
 play,8,0,hills002,00,X,9/F
 play,8,0,giamj002,32,BBBCFS,K
 play,8,1,crawc002,00,,NP
@@ -1360,7 +1358,6 @@ play,10,1,crawc002,22,BCBSFX,S6/G.2-2
 play,10,1,baldr001,00,X,14/SH/BG.2-3;1-2
 play,10,1,huffa001,30,IIII,IW
 play,10,1,andem003,00,X,FC4/G.3-H;2-3;1X2(4E6)
-com,"Cruz off bag to draw error"
 play,10,1,lee-t002,00,,NP
 sub,groob001,"Buddy Groom",0,0,1
 play,10,1,lee-t002,10,.*BX,S1/G.3-H;2-3;1-2
@@ -1424,8 +1421,6 @@ start,biern001,"Nick Bierbrodt",1,0,1
 play,1,0,hairj002,12,CBFX,D8/F
 play,1,0,moram002,00,X,23/SH/BG.2-3
 play,1,0,segud001,22,BCSBS,K
-com,"ej,segud001,P,westj901,Check swing"
-com,"David Segui ejected by 1B Umpire Joe West"
 play,1,0,conij001,21,.BBCX,63/G
 play,1,1,crawc002,00,X,43/G
 play,1,1,baldr001,12,BSSC,K
@@ -1916,14 +1911,12 @@ sub,seayb001,"Bobby Seay",1,0,1
 play,6,0,hinse001,22,.BCBFX,54(1)/FO/G
 play,6,0,myerg001,00,,NP
 sub,andem003,"Marlon Anderson",1,2,4
-com,"Rays Damion Easley left the game due to an injured knee"
 play,6,0,myerg001,30,.BBBB,W.1-2
 play,6,0,woodc001,00,,NP
 sub,harpt002,"Travis Harper",1,0,1
 play,6,0,woodc001,22,.CCBBFFX,53/G
 play,6,1,ordor001,00,,NP
 sub,wilst003,"Tom Wilson",0,4,3
-com,"Jays Carlos Delgado left the game due to an injured head"
 play,6,1,ordor001,12,.CBSX,D7/G
 play,6,1,crawc002,00,X,E2/BG
 play,6,1,shumt001,00,X,8/F
@@ -3233,8 +3226,6 @@ play,5,1,tynej001,01,L11X,13/SH/BG.1-2
 play,5,1,crawc002,00,X,9/F
 play,5,1,huffa001,22,BB2CFFFS,K
 play,6,0,higgb001,32,BBFCFBC,K
-com,"ej,higgb001,P,cuzzp901,Balls and strikes"
-com,"Tigers Bobby Higginson ejected by HP umpire Phil Cuzzi"
 play,6,0,yound001,22,.BFSBS,K
 play,6,0,penac001,32,FBBSBS,K
 play,6,1,lee-t002,00,,NP
@@ -3623,7 +3614,6 @@ play,1,1,huffa001,12,1CFBS,K
 play,1,1,sandj001,22,BCFB1C,K
 play,2,0,palmr001,00,,NP
 sub,tynej001,"Jason Tyner",1,3,9
-com,"Devil Rays Aubrey Huff left the game due to an injured knee"
 play,2,0,palmr001,31,..CBBBB,W
 play,2,0,gonzj002,10,BX,S7/F.1-2
 play,2,0,sierr001,10,BX,D7/L.2-H;1-3
@@ -3819,8 +3809,6 @@ play,6,0,andeg001,32,BCBBFS,K
 play,6,0,fullb001,32,BBCCBFB,W
 play,6,0,spies001,31,BFB1BB,W.1-2
 play,6,0,molib001,32,BBBCFFX,S8/G.2XH(82);1-2
-com,"ej,fullb001,P,relic901,Call at HP"
-com,"Angels Brad Fullmer ejected by HP umpire Charlie Reliford"
 play,6,0,kenna001,00,,NP
 sub,levia001,"Al Levine",1,0,1
 play,6,0,kenna001,12,..CBFX,4(1)/FO/G
@@ -4107,7 +4095,6 @@ play,1,1,huffa001,31,BBCBX,7/F
 play,1,1,baldr001,12,CSBC,K
 play,2,0,glaut001,00,,NP
 sub,biern001,"Nick Bierbrodt",1,0,1
-com,"Devil Rays Joe Kennedy left the game due to an injured neck/shoulder"
 play,2,0,glaut001,10,.BX,S7/G
 play,2,0,woots001,20,BB>C,SB2
 play,2,0,woots001,22,BB>C.FH,HP
@@ -4433,8 +4420,6 @@ play,4,1,lee-t002,22,CBBSX,D7/L
 play,4,1,liefj001,32,FBBBSFB,W
 play,4,1,lugoj001,10,BX,S7/G.2-3;1-2
 play,4,1,crawc002,22,FSBBFB,PO3(25)
-com,"ej,folet001,C,rapue901,Call at 3B"
-com,"Devil Rays Coach Tom Foley ejected by 1B umpire Ed Rapuano"
 play,4,1,crawc002,32,FSBBFB..FS,K
 play,5,0,laruj001,00,X,63/G
 play,5,0,olmer001,11,BFX,S4/G
@@ -4937,7 +4922,6 @@ play,8,1,grieb001,31,BBBCB,W.1-2
 play,8,1,baldr001,12,CFFFFBFFFS,K
 play,9,0,wilsj002,00,,NP
 sub,crawc002,"Carl Crawford",1,3,8
-com,"Devil Rays Rocco Baldelli left the game due to an injured knee"
 play,9,0,wilsj002,00,,NP
 sub,shumt001,"Terry Shumpert",1,8,5
 play,9,0,wilsj002,00,,NP
@@ -5038,15 +5022,6 @@ play,4,0,ramia001,12,CCBX,7/F
 play,4,1,lee-t002,10,BX,8/F
 play,4,1,grieb001,10,BX,43/G
 play,4,1,andem003,00,H,HP
-com,"ej,kendj001,P,wegnm901,Bench-clearing brawl"
-com,"ej,tavaj001,P,wegnm901,Bench-clearing brawl"
-com,"ej,andem003,P,wegnm901,Bench-clearing brawl"
-com,"ej,marta001,P,wegnm901,Bench-clearing brawl"
-com,"$Marlon Anderson and catcher Jason Kendall argued after"
-com,"Anderson was HBP; Anderson knocked off Kendall's mask with"
-com,"his forearm; both benches and bullpens emptied; Julian"
-com,"Tavarez punched Rob Bell; Anderson, Kendall, Tavarez and"
-com,"Al Martin ejected by HP umpire Mark Wegner"
 play,4,1,lugoj001,00,,NP
 sub,shumt001,"Terry Shumpert",1,6,12
 play,4,1,lugoj001,00,,NP
@@ -5265,7 +5240,6 @@ sub,younk001,"Kevin Young",0,5,12
 play,8,0,sandr002,00,.X,S1/BG.2-3;1-2
 play,8,0,hyzda001,21,BBCX,8/F
 play,8,0,reboj001,12,CCBX,3/P
-com,"Infield Fly rule"
 play,8,0,kendj001,22,BBCFX,S9/L.3-H(UR);2-H(UR);1-H(E9)(UR)(NR);B-3
 play,8,0,wilsj002,12,BCFX,D7/L.3-H(UR)
 play,8,0,gileb002,00,X,8/F
@@ -5359,7 +5333,6 @@ play,2,0,matsh001,22,BFBFC,K
 play,2,0,sierr001,10,BX,S6/G
 play,2,0,ventr001,00,,NP
 sub,rivej001,"Juan Rivera",0,6,12
-com,"Yankees Ruben Sierra left the game due to an injured leg"
 play,2,0,ventr001,21,.1BCB1X,46(1)3/GDP
 play,2,1,grieb001,00,,NP
 sub,rivej001,"Juan Rivera",0,6,7
@@ -5556,7 +5529,6 @@ play,7,0,soria001,02,CFX,43/G
 play,7,0,jeted001,00,X,S5/G
 play,7,0,giamj001,00,,NP
 sub,zeilt001,"Todd Zeile",0,3,11
-com,"Yankees Jason Giambi left the game due to an injured arm"
 play,7,0,zeilt001,00,..X,8/F
 play,7,1,huffa001,00,,NP
 sub,zeilt001,"Todd Zeile",0,3,3
@@ -6403,17 +6375,6 @@ play,1,1,grieb001,11,CBX,S9/G.3-H;1-2
 play,1,1,lee-t002,32,BCBBFFB,W.2-3;1-2
 play,1,1,rolld001,12,CBSFX,S8/L.3-H;2-H;1-2
 play,1,1,andem003,01,CX,86(1)/FO/G.2-3
-com,"$the Devil Rays protested the game after this play;"
-com,"Anderson's sinking liner was trapped by Damon but"
-com,"1B umpire Fichter ruled a catch; Damon threw the"
-com,"ball to 2B to complete an apparent double play and"
-com,"the Red Sox left the field; Mgr Piniella argued the"
-com,"call and umpire Brinkman overruled and said it was"
-com,"a hit and loaded the bases; Mgr Little then argued"
-com,"that Damon's throw to 2B produced a force out, which"
-com,"was agreed to by the umpires; Piniella then wanted"
-com,"the lead runner to be allowed to score on the play;"
-com,"the total delay was 12 minutes"
 play,1,1,hallt001,12,CBFF1X,43/G
 play,2,0,millk005,22,BCBCFX,13/G
 play,2,0,nixot001,12,CFBX,4/L
@@ -7432,7 +7393,6 @@ play,8,1,grieb001,32,BBSBFFFS,K
 play,9,0,sadld001,00,,NP
 sub,malam001,"Mark Malaska",1,0,1
 play,9,0,sadld001,30,.BBBB,W
-com,"Debut game for Mark Malaska"
 play,9,0,diaze002,31,BBBCB,W.1-2
 play,9,0,younm003,22,CBBFX,54(1)/FO/G.2-3
 play,9,0,gland001,21,BBCX,S7/G.3-H;1-2
@@ -7499,13 +7459,6 @@ start,andem003,"Marlon Anderson",1,7,10
 start,hallt001,"Toby Hall",1,8,2
 start,lugoj001,"Julio Lugo",1,9,6
 start,gonzj003,"Jeremi Gonzalez",1,0,1
-com,"19 minute delay at start of game as confusion arose"
-com,"as to Crawford's eligibility for this game.  In the"
-com,"afternoon, he dropped his appeal of a suspension, but"
-com,"did not tell manager Piniella. The umpires knew the"
-com,"situation and said he couldn't play.  GM LaMarr got"
-com,"involved and they called Sandy Alderson, who said he"
-com,"could play and start serving the suspension tomorrow"
 play,1,0,younm003,11,BCX,8/F
 play,1,0,blalh001,32,BBFFBX,31/G
 play,1,0,rodra001,20,BBX,63/G
@@ -7657,7 +7610,6 @@ play,2,0,gonzj002,32,BFBFBH,HP
 play,2,0,teixm001,01,FX,D7/L.1-3
 play,2,0,gland001,00,,NP
 sub,spens001,"Shane Spencer",0,5,12
-com,"Rangers Juan Gonzalez left the game due to an injured leg"
 play,2,0,gland001,11,.BFX,D7/L.3-H;2-H
 play,2,0,nix-l001,10,BX,9/F.2-3
 play,2,0,diaze002,01,CX,S7/L.3-H
@@ -7751,7 +7703,6 @@ play,9,1,valej004,02,CFFFX,46(1)3/GDP
 play,9,1,lugoj001,00,,NP
 sub,diazm003,"Matt Diaz",1,9,11
 play,9,1,diazm003,01,.CX,63/G
-com,"Debut game for Matt Diaz"
 data,er,benoj001,3
 data,er,mahar001,0
 data,er,fulta001,0
@@ -7993,7 +7944,6 @@ play,3,1,hallt001,01,CX,S7/G
 play,3,1,lugoj001,00,X,S1/BG.1-2
 play,3,1,andem003,00,,NP
 sub,spies001,"Scott Spiezio",0,5,5
-com,"Angels Troy Glaus left the game due to an injured arm"
 play,3,1,andem003,00,,NP
 sub,woots001,"Shawn Wooten",0,6,3
 play,3,1,andem003,00,...X,S8/F.2-3;1-2
@@ -8763,8 +8713,6 @@ play,5,1,sandj001,02,FFS,K
 play,5,1,lugoj001,00,X,S4/BG
 play,5,1,crawc002,12,CBFS,K
 play,5,1,perea001,32,CBBFB1>C,K
-com,"ej,perea001,P,barkl901,Called third strike"
-com,"Devil Rays Antonio Perez ejected by HP umpire Lance Barksdale"
 play,6,0,relad001,00,,NP
 sub,andem003,"Marlon Anderson",1,2,4
 play,6,0,relad001,00,..X,7/F
@@ -9013,7 +8961,6 @@ play,2,0,ibanr001,21,CBBX,S7/L
 play,2,0,randj002,32,BBCFB1>B,W.1-2
 play,2,0,harvk001,02,CS,NP
 sub,relad001,"Desi Relaford",0,7,11
-com,"Harvey leaves with injured chest"
 play,2,0,relad001,02,CS.S,K+WP.2-3;1-2
 play,2,0,maynb001,10,BB,WP.3-H;2-3
 play,2,0,maynb001,30,BB.BX,8/SF.3-H
@@ -9245,13 +9192,6 @@ play,9,0,guiea001,10,B,NP
 sub,cartl002,"Lance Carter",1,0,1
 play,9,0,guiea001,10,B,NP
 sub,randj002,"Joe Randa",0,1,11
-com,"ej,guiea001,P,fichm901,Fighting with Jesus Colome"
-com,"ej,coloj001,P,fichm901,Fight after throwing near Guiel"
-com,"$a pitch from Jesus Colome went behind batter Aaron Guiel;"
-com,"both teams were warned by HP umpire Mike Fichter;"
-com,"Guiel started walking towards the mound and both dugouts"
-com,"emptied; there was some pushing and shoving but no punches"
-com,"thrown; Colome and Guiel ejected by HP umpire Mike Fichter"
 play,9,0,randj002,31,.B...B.BCX,8/F
 play,9,0,berra001,21,CBBX,7/F
 play,9,0,ibanr001,12,CSBX,43/G
@@ -9678,13 +9618,6 @@ play,8,1,rolld001,00,1>C,SB2
 play,8,1,rolld001,02,1>C.SS,K
 play,9,0,robeb003,12,BCCX,S8/L
 play,9,0,matol001,12,BS+1FX,S7/F.1-3
-com,"ej,pinil001,M,laynj901,Call at 1B"
-com,"Luis Matos took a wide turn at 1B and had to hustle back"
-com,"to beat the throw behind him; when 2B umpire Jerry Layne"
-com,"called Matos safe, Devil Rays manager Lou Piniella ran"
-com,"out to argue; Piniella threw his hat and then kicked it;"
-com,"he told Layne that he was out of position and added a few"
-com,"profanities; Piniella ejected by Layne"
 play,9,0,surhb001,00,.X,46(1)3/GDP.3-H(NR)
 play,9,0,gibbj002,22,BBFFX,S8/L
 play,9,0,batit001,02,CSX,5/P
@@ -10227,7 +10160,6 @@ play,2,1,hallt001,21,BFBX,E5/TH/G
 play,2,1,andem003,00,X,46(1)/FO/G
 play,2,1,rolld001,21,CBBX,D9/L.1-H(UR)
 play,2,1,lafop001,01,CX,53/G
-com,"Debut game for Pete LaForest"
 play,2,1,crawc002,00,X,3E1/G.2-3
 play,2,1,lugoj001,12,BCCC,K
 play,3,0,sancr001,02,FFC,K
@@ -10239,11 +10171,6 @@ play,3,1,lee-t002,00,X,7/L
 play,3,1,hallt001,10,BX,7/F7LF
 play,4,0,marte001,11,CBX,8/F
 play,4,0,boonb002,32,BCBFBB,W
-com,"umpchange,4,umphome,welkb901"
-com,"umpchange,4,ump2b,(None)"
-com,"$HP umpire John Hirschbeck hit by Bret Boone's foul tip, left with bruised"
-com,"lower left rib cage; game delayed 12 minutes while Bill Welke changes into"
-com,"plate gear and returned; game finished with 3 umpires"
 play,4,0,guilc001,12,BS1FFC,K
 play,4,0,olerj001,10,BX,8/F
 play,4,1,andem003,02,CCX,43/G
@@ -10287,7 +10214,6 @@ sub,malam001,"Mark Malaska",1,0,1
 play,7,0,guilc001,00,,NP
 sub,stroj002,"Jamal Strong",0,3,12
 play,7,0,guilc001,11,..CBX,S9/L.3-H;2-H;1-3;B-2(E9/TH)
-com,"Debut game for Jamal Strong"
 play,7,0,olerj001,32,CFBFBF*BC,K
 play,7,1,baldr001,00,,NP
 sub,sorir001,"Rafael Soriano",0,0,1
@@ -10887,8 +10813,6 @@ sub,harvc001,"Chad Harville",0,0,1
 play,7,1,lugoj001,21,.1BBC1X,46(1)3/GDP
 play,8,0,hatts001,12,CBFS,K
 play,8,0,longt002,00,X,43/G
-com,"ej,frant001,C,wendh902,Balls and strikes"
-com,"Athletics Coach Terry Francona ejected by HP umpire Hunter Wendelstedt"
 play,8,0,melha001,12,C.FBFX,S4/G
 play,8,0,singc001,10,BX,7/F
 play,8,1,andem003,00,,NP
@@ -11752,7 +11676,6 @@ play,8,0,boona001,10,BX,S7/L.2-3;1-2
 play,8,0,garck002,00,,NP
 sub,sierr001,"Ruben Sierra",0,9,11
 play,8,0,sierr001,32,.BBCSBFX,3/P
-com,"Infield Fly rule"
 play,8,0,soria001,11,CBX,DGR/8/F.3-H;2-H;1-3
 play,8,0,johnn001,22,CFFBBFS,K
 play,8,1,baldr001,00,,NP
@@ -11766,8 +11689,6 @@ sub,lafop001,"Pete LaForest",1,5,11
 play,8,1,lafop001,00,.H,HP
 play,8,1,piata001,20,BBX,54(1)/FO/G
 play,9,0,jeted001,00,H,HP
-com,"ej,switj001,P,welkt901,Intentional HBP"
-com,"Devil Rays Jon Switzer ejected by HP umpire Tim Welke"
 play,9,0,giamj001,00,,NP
 sub,wilse001,"Enrique Wilson",0,3,12
 play,9,0,giamj001,00,,NP
@@ -11868,7 +11789,6 @@ play,4,0,matsh001,11,BCX,9/F
 play,4,0,boona001,01,CX,7/F7LF
 play,4,1,huffa001,01,CX,43/G
 play,4,1,marta001,10,BX,3/P
-com,"Infield Fly rule"
 play,4,1,lee-t002,22,BSFBX,S1/L
 play,4,1,andem003,11,BCX,53/G
 play,5,0,wilse001,11,BSX,S7/L
@@ -11907,7 +11827,6 @@ play,8,0,matsh001,00,,NP
 sub,malam001,"Mark Malaska",1,0,1
 play,8,0,matsh001,11,.BCX,7/F
 play,8,0,boona001,31,CBBBX,4/P
-com,"Infield Fly rule"
 play,8,0,wilse001,31,*BF*BBB,W
 play,8,0,garck002,32,BF*BBFX,3/G
 play,8,1,crawc002,00,,NP
@@ -12231,13 +12150,6 @@ play,9,0,browa001,00,,NP
 sub,cartl002,"Lance Carter",1,0,1
 play,9,0,browa001,22,.BCFBX,43/G
 play,9,0,mccad001,11,BFX,7/F
-com,"ej,mirad001,P,westj901,Arguing fan interference from bench"
-com,"$Devil Rays LF Carl Crawford stood under Dave McCarty's fly at the"
-com,"LF wall; a fan reached out with a glove and caught the ball and then"
-com,"threw it onto the field; 2B umpire Joe West ruled fan interference"
-com,"and called McCarty out; Red Sox manager Grady Little argued briefly;"
-com,"many Red Sox players yelled from the bench; Doug Mirabelli ejected"
-com,"by West"
 play,9,0,garcn001,00,.X,63/G
 data,er,suppj001,5
 data,er,saues001,0

@@ -311,7 +311,6 @@ play,8,0,heila001,00,,NP
 sub,ryalr001,"Rusty Ryal",0,9,11
 play,8,0,ryalr001,30,.BBBB,W.1-2
 play,8,0,jackc002,01,CX,46(1)3/G/DP/INT.2-3
-com,"$interference by runner for automatic DP"
 play,8,0,drews001,22,BSCBS,K
 play,8,1,furcr001,00,,NP
 sub,gutij002,"Juan Gutierrez",0,9,1
@@ -646,7 +645,6 @@ play,3,1,dewib001,22,CCBFBS,K
 play,3,1,martr004,21,BBCX,63/G
 play,4,0,rente001,00,,NP
 sub,johnr008,"Reed Johnson",1,4,7
-com,"Dodgers left fielder Manny Ramirez left the game due to a tight calf muscle"
 play,4,0,rente001,10,.BX,4/P
 play,4,0,sandp001,01,CX,13/G
 play,4,0,huffa001,01,CX,3/G
@@ -662,9 +660,6 @@ play,5,0,wellt002,00,,NP
 sub,schin001,"Nate Schierholtz",0,9,11
 play,5,0,schin001,32,.BBSFFFBFFB,W.1-2
 play,5,0,rowaa001,00,H,HP.2-3;1-2
-com,"$Giants center fielder Aaron Rowand was stuck on the ear flap of his helmet by an"
-com,"88 MPH fast ball; he suffered a couple of small fractures near his left cheek and"
-com,"a concussion"
 play,5,0,rente001,00,,NP
 sub,velee001,"Eugenio Velez",0,1,12
 play,5,0,rente001,10,.BX,4/LDP.1X1(43)
@@ -780,7 +775,6 @@ start,haegc001,"Charlie Haeger",1,9,1
 play,1,0,velee001,32,BCCBBB,W
 play,1,0,rente001,02,CFFX,S57/G.1-2
 play,1,0,sandp001,32,F*BBBS>B,W.2XH(21);1-3(THH)
-com,"$Ball 4 went past catcher, but runner from 2nd out trying to score"
 play,1,0,huffa001,20,BBX,9/F
 play,1,0,derom001,12,BCC>B,SB2
 play,1,0,derom001,32,BCC>B.FBX,8/L
@@ -819,7 +813,6 @@ play,4,0,derom001,00,,NP
 sub,monac001,"Carlos Monasterios",1,9,1
 play,4,0,derom001,00,,NP
 sub,torra001,"Andres Torres",0,5,11
-com,"Giants left fielder Mark DeRosa left the game due to an injured leg"
 play,4,0,torra001,00,..X,14/SH/BG.2-3;1-2
 play,4,0,molib001,11,CBX,S94/F-.3-H;2-3
 play,4,0,uribj002,01,FX,8/SF/F.3-H
@@ -2522,7 +2515,6 @@ play,5,1,kersc001,00,,NP
 sub,moram002,"Melvin Mora",0,4,4
 play,5,1,kersc001,00,,NP
 sub,barmc001,"Clint Barmes",0,8,6
-com,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg"
 play,5,1,kersc001,02,..FCC,K
 play,6,0,fowld001,00,X,4/P
 play,6,0,heltt001,22,SBSBS,K
@@ -3863,8 +3855,6 @@ play,7,0,ryalr001,02,C1F1S,K+PB.1-2;B-1
 play,7,0,jackc002,01,CB,OA.2X3(25)
 play,7,1,martr004,00,X,S8/L
 play,7,1,carrj001,10,BX,16(1)/FO/BG
-com,"$Martin slid hard into shortstop Drew who objected. Benches"
-com,"cleared and players milled around, but no fights or ejections"
 play,7,1,ely-j001,00,,NP
 sub,andeg001,"Garret Anderson",1,9,11
 play,7,1,andeg001,12,.B1CC1X,46(1)3/GDP
@@ -4216,8 +4206,6 @@ play,7,0,infao001,00,,NP
 sub,weavj002,"Jeff Weaver",1,9,1
 play,7,0,infao001,00,,NP
 sub,millj002,"Justin Miller",1,9,1
-com,"$Jeff Weaver hurt while warming up (blister) and did not throw"
-com,"any pitches in the game"
 play,7,0,infao001,32,..BSFFBBX,53/G
 play,7,0,heywj001,02,CFH,HP
 play,7,0,mccab002,31,B1BBCB,W.1-2
@@ -5724,7 +5712,6 @@ play,5,0,jeted001,32,CCBBBX,9/F
 play,5,0,granc001,02,CFFX,8/F
 play,5,1,carrj001,11,BCX,7/F
 play,5,1,padiv001,00,H,HP
-com,"$both teams were warned by HP umpire Phil Cuzzi"
 play,5,1,furcr001,10,1BX,16(1)3/GDP
 play,6,0,teixm001,11,BFX,6/P
 play,6,0,rodra001,00,X,HR/7/F
@@ -5765,11 +5752,6 @@ sub,rivem002,"Mariano Rivera",0,9,1
 play,9,1,ramim002,12,.CBFFS,K
 play,9,1,kempm001,12,CBSS,K
 play,9,1,lonej001,12,BCCC,K
-com,"ej,lonej001,P,cuzzp901,Called third strike; game was over"
-com,"$James Loney threw his bat towards the dugout after the third strike"
-com,"and then slammed his helmet down; HP umpire Phil Cuzzi talked to"
-com,"Loney as they both walked towards the 3B dugout; Loney said something"
-com,"to Cuzzi and then was ejected by Cuzzi even though the game was over"
 data,er,sabac001,1
 data,er,rivem002,0
 data,er,padiv001,2
@@ -6102,12 +6084,7 @@ play,9,0,cervf001,12,.TBSX,43/G
 play,9,1,ethia001,00,,NP
 sub,rivem002,"Mariano Rivera",0,2,1
 play,9,1,ethia001,02,.CFX,63/G
-com,"$Garret Anderson thought strike two was not a strike and"
-com,"started to 1B with what he thought was a walk"
 play,9,1,andeg001,32,BBBCCX,7/F
-com,"ej,andeg001,P,guccc901,Balls and strikes"
-com,"$as Garret Anderson ran across the infield to the dugout, he was"
-com,"talking to HP umpire Chris Guccione, who ejected Anderson"
 play,9,1,blakc001,02,.FFS,K
 play,10,0,teixm001,00,,NP
 sub,kempm001,"Matt Kemp",1,2,8
@@ -6124,9 +6101,6 @@ play,10,0,posaj001,00,X,23/G
 play,10,0,granc001,12,CCBFX,3/G
 play,10,1,lonej001,12,CFBX,S4/G
 play,10,1,martr004,32,BBBCFC,K
-com,"ej,martr004,P,guccc901,Called third strike; slammed bat down"
-com,"$Russell Martin thought he had walked and slammed his bat on the"
-com,"ground, shattering it; he was ejected by HP umpire Chris Guccione"
 play,10,1,johnr008,22,.FBSBFS,K
 play,10,1,carrj001,22,BFFBFX,64(1)/FO/G
 data,er,petta001,4
@@ -6673,7 +6647,6 @@ play,7,1,martr004,00,.X,S8/L
 play,7,1,dewib001,00,1X,8/L
 play,7,1,kersc001,10,*BX,14/SH/BG.1-2
 play,7,1,furcr001,00,X,HR/L9L.2-H
-com,"$a line drive just inside the pole"
 play,7,1,kempm001,10,BX,9/F
 play,8,0,casts001,31,BBCBX,53/G
 play,8,0,wellr001,00,,NP
@@ -6692,11 +6665,6 @@ sub,carrj001,"Jamey Carroll",1,8,4
 play,9,0,byrdm001,00,,NP
 sub,broxj001,"Jonathan Broxton",1,9,1
 play,9,0,byrdm001,02,...CCS,K
-com,"ej,byrdh902,P,wendh902,Balls and strikes"
-com,"$the third pitch was a check swing called by 1B umpire Hunter Wendelstedt;"
-com,"Marlon Byrd walked back towards the 1B dugout muttering and making hand"
-com,"gestures; Wendelstedt said something to Byrd who turned and took a step"
-com,"towards the umpire; he was ejected by Wendelstedt"
 play,9,0,lee-d002,12,.BCSFX,9/F
 play,9,0,ramia001,02,CSX,S7/G
 play,9,0,sotog001,00,,NP
@@ -6957,9 +6925,6 @@ play,5,0,ramia001,20,BBX,9/F
 play,5,0,byrdm001,22,BFFBX,63/G
 play,5,0,soria001,12,CSBX,53/G
 play,5,1,paulx001,32,LFBBBFX,S3/G
-com,"$Tom Gorzelanny took the throw from Derrek Lee and stepped on the bag"
-com,"before Xavier Paul but Paul was called safe by 1B umpire Jerry Layne;"
-com,"Cubs manager Lou Piniella went out and argued the call with Layne"
 play,5,1,schlt001,00,,NP
 sub,dewib001,"Blake DeWitt",1,9,11
 play,5,1,dewib001,12,.CC*BS,K
@@ -6974,9 +6939,6 @@ sub,bellr002,"Ronnie Belliard",1,6,5
 play,6,0,casts001,00,,NP
 sub,dewib001,"Blake DeWitt",1,9,4
 play,6,0,casts001,12,...CBFX,63/G
-com,"ej,pinil001,M,laynj901,Call at 1B"
-com,"$Cubs manager Lou Piniella went out between innings to further discuss"
-com,"the call on Paul; Piniella was ejected by 1B umpire Jerry Layne"
 play,6,0,sotog001,11,F.BX,S3/L-
 play,6,0,gorzt001,00,X,14/SH/BG.1-2
 play,6,0,therr001,00,B,WP.2-3
@@ -7107,11 +7069,6 @@ play,2,1,furcr001,32,CFBBBB,W.2-3;1-2
 play,2,1,kempm001,11,BCX,9/SF/F.3-H;2-3;1-2
 play,2,1,ethia001,30,IIII,IW
 play,2,1,lonej001,20,BBX,S3/G3L.3-H;2-3;1-2
-com,"ej,silvc001,P,rungb901,Call at 1B"
-com,"$on the grounder down the line, pitcher Carlos Silva was late getting to 1B,"
-com,"so Xavier Nady had to run to the bag; it appeared that he beat batter James"
-com,"Loney but Loney was called safe by 1B umpire Brian Runge; Silva threw up"
-com,"his hands and argued with Runge, who ejected Silva"
 play,2,1,blakc001,00,,NP
 sub,atkim001,"Mitch Atkins",0,9,1
 play,2,1,blakc001,02,..CCFFFS,K
@@ -7329,11 +7286,6 @@ play,8,1,blakc001,22,CBCBFX,43/G
 play,8,1,lonej001,32,CSBBBS,K
 play,8,1,kempm001,21,BBSX,S7/G
 play,8,1,bellr002,12,F*BCS,K
-com,"$Ron Belliard swung at a ball that bounced in the batter's box and then"
-com,"hit him on the lower leg; the ball caromed into the stands on the first"
-com,"base side and both runners advanced; however, the play was ruled strike"
-com,"three and a dead ball according to the rules and Matt Kemp was put back"
-com,"at first base"
 play,9,0,huffa001,22,BBFSFFC,K
 play,9,0,poseb001,12,FBCS,K
 play,9,0,sandp001,01,FX,7/F
@@ -7443,9 +7395,6 @@ play,5,0,rowaa001,02,FCS,K
 play,5,0,linct001,02,CSS,K
 play,5,1,lonej001,10,BX,8/F
 play,5,1,kempm001,20,BBH,HP
-com,"$the first pitch to Matt Kemp was up and in and Kemp hit the ground; HP"
-com,"umpire Adrian Johnson walked Matt Kemp part way down the line and then"
-com,"warned both teams"
 play,5,1,dewib001,10,1BX,S9/L.1X3(95)
 play,5,1,blakc001,00,,NP
 sub,bautd002,"Denny Bautista",0,9,1
@@ -7457,22 +7406,10 @@ play,6,0,burrp001,31,B*BFBX,E7/SF/F.3-H;1-3;B-2
 play,6,0,sandp001,12,*BFFX,D7/L.3-H(UR);2-H(UR)
 play,6,0,uribj002,01,FX,53/G
 play,6,0,rente001,32,BFBBSX,9/F
-com,"ej,schab801,C,johna901,Arguing interntional throwing at batter"
-com,"$the first pitch to Russell Martin was up and in; Dodgers Bench Coach Bob"
-com,"Schaefer yelled from the dugout at HP umpire Adrian Johnson that pitcher"
-com,"Denny Bautista should be ejected for throwing at Martin; Schaefer was ejected"
-com,"by Johnson and then Schaefer went out to argue; Dodgers manager Joe Torre"
-com,"also went on the field; 1B umpire and crew chief Tim McClelland ran in and"
-com,"told Schaeffer to leave the field and there were a few heated words in that"
-com,"discussion, too"
 play,6,1,martr004,31,B.CBBX,7/F
 play,6,1,kersc001,32,BBCFBS,K
 play,6,1,furcr001,32,BCBCBC,K
 play,7,0,rowaa001,00,H,HP
-com,"ej,torrj101,M,johna901,Intentional HBP"
-com,"ej,kersc001,P,johna901,Intentional HBP"
-com,"Dodgers pitcher Clayton Kershaw and manager Joe Torre ejected by HP umpire"
-com,"Adrian Johnson; automatic ejections due to earlier warnings"
 play,7,0,bautd002,00,,NP
 sub,kuo-h001,"Hong-Chih Kuo",1,9,1
 play,7,0,bautd002,00,,NP
@@ -7504,20 +7441,6 @@ play,9,0,rowaa001,00,X,14/SH/BG.2-3;1-2
 play,9,0,garcj002,00,,NP
 sub,huffa001,"Aubrey Huff",0,9,11
 play,9,0,huffa001,30,.IIII,IW
-com,"$Dodgers acting manager Don Mattingly went to the mound to discuss"
-com,"how to pitch and play Andres Torres; as Mattingly left the mound,"
-com,"first baseman James Loney asked a question so Mattingly turned to"
-com,"go back and give an answer; since Mattingly had left the dirt"
-com,"cirle, he was considered to have made a second trip to the mound;"
-com,"Giants manager Bruce Bochy talked to the umpires, who huddled and"
-com,"then removed pitcher Jonathan Broxton from the game (rule 8.06);"
-com,"crew chief Tim McClelland told Sherrill he could have all the warm"
-com,"up pitches he needed but HP umpire Adrian Johnson stopped him at 8"
-com,"the umpires applied an incorrect penalty in this case"
-com,"because the rule specifies that the manager is ejected and the pitcher"
-com,"must pitch to the current batter; the pitcher is then removed from"
-com,"the game; in this case, the pitcher was removed during the plate"
-com,"appearance and the manager remained in the game"
 play,9,0,torra001,00,,NP
 sub,sherg001,"George Sherrill",1,6,1
 play,9,0,torra001,01,.CX,D7/F.3-H;2-H;1-3
@@ -7864,8 +7787,6 @@ play,2,0,blanh001,01,CX,S6/G.1-2
 play,2,0,santj003,12,LBLX,15(2)/FO/BG.1-2
 play,2,0,reyej001,00,X,3/G.2-3;1-2
 play,2,0,castl001,12,FF*BX,63/G
-com,"ej,manuj101,M,eddid901,Call at 1B"
-com,"Mets Manager Jerry Manuel ejected by 1B umpire Doug Eddings"
 play,2,1,martr004,00,.X,4/P
 play,2,1,dewib001,22,BCBCFS,K
 play,2,1,carrj001,02,CCFX,7/F
@@ -8060,7 +7981,6 @@ sub,franj004,"Jeff Francoeur",0,9,11
 play,6,0,franj004,22,...FBFBFFFX,FC1/G.1-2
 play,6,0,reyej001,00,,NP
 sub,blanh001,"Henry Blanco",0,8,12
-com,"Mets catcher Rod Barajas left the game due to an injured side"
 play,6,0,reyej001,11,.FBX,S7/G.3-H;2-3;1-2
 play,6,0,castl001,00,,NP
 sub,schlt001,"Travis Schlichting",1,9,1
@@ -8076,7 +7996,6 @@ play,6,1,andeg001,32,CCB>B.BX,43/G
 play,7,0,pagaa001,00,,NP
 sub,jansk001,"Kenley Jansen",1,9,1
 play,7,0,pagaa001,02,.CSS,K
-com,"Debut game for Kenley Jansen"
 play,7,0,wrigd002,22,BSBSS,K
 play,7,0,beltc001,32,BBFFBX,63!/G
 play,7,1,ausmb001,12,.CBFS,K
@@ -8360,8 +8279,6 @@ play,1,1,furcr001,11,BFX,6/P
 play,1,1,kempm001,11,CBX,S8/L
 play,1,1,lonej001,10,B11X,S8/L.1-2
 play,1,1,blakc001,32,B*BBCF>X,S8/L.2-3;1X3(85)
-com,"$Kemp did not run hard from second and tag was made at third"
-com,"before he reached the plate"
 play,2,0,ludwr001,22,CBCBX,7/L
 play,2,0,headc001,01,CX,D4/G
 play,2,0,torry001,12,CFBX,63/G.2-3
@@ -8376,7 +8293,6 @@ play,3,0,richc002,11,CBX,S8/G
 play,3,0,hairj002,22,CBBCFFFX,46(1)3/GDP
 play,3,0,tejam001,01,CX,E5/TH1/G
 play,3,0,gonza003,32,FBBS+1B>X,53/G4M
-com,"$third baseman Blake on right side of second base"
 play,3,1,furcr001,12,CFBS,K
 play,3,1,kempm001,12,BCFX,D8/F
 play,3,1,lonej001,22,BCCBX,S6/G.2-2
@@ -9026,7 +8942,6 @@ play,9,0,maxwj002,22,CBBCS,K
 play,9,0,desmi001,22,CCBBX,S7/G
 play,9,0,zimmr001,00,>B,SB2
 play,9,0,zimmr001,32,>B.CFBBS,K.2-3
-com,"$Zimmermann tagged out at plate, no WP"
 play,9,0,dunna001,30,IIII,IW
 play,9,0,burns001,00,,NP
 sub,kenna001,"Adam Kennedy",0,5,11
@@ -9621,7 +9536,6 @@ play,7,1,gibbj002,00,,NP
 sub,spilr001,"Ryan Spilborghs",0,3,9
 play,7,1,gibbj002,00,,NP
 sub,belim001,"Matt Belisle",0,9,1
-com,"Rockies center fielder Carlos Gonzalez left the game due to an injured knee"
 play,7,1,gibbj002,01,..CX,S7/G
 play,7,1,carrj001,01,C1X,16(1)3/GDP
 play,7,1,ellia001,22,BCSBFC,K
@@ -9790,9 +9704,6 @@ play,7,1,lillt001,11,BLX,3/P3F
 play,7,1,podss001,11,CBX,4(1)3/GDP
 play,8,0,heltt001,32,SSBBFBB,W
 play,8,0,olivm001,02,CSC,K
-com,"ej,olivm001,P,diazl901,Called third strike"
-com,"$Rockies catcher Miguel Olivo slammed his bat to the ground and was"
-com,"ejected by HP umpire Laz Diaz"
 play,8,0,barmc001,01,.1CX,46(1)/FO/G
 play,8,0,delaj001,00,,NP
 sub,giamj001,"Jason Giambi",0,9,11
@@ -9806,7 +9717,6 @@ play,8,1,kempm001,22,CBBFX,E6/TH1/G
 play,8,1,lonej001,00,,NP
 sub,reynm002,"Matt Reynolds",0,9,1
 play,8,1,lonej001,20,.BBX,9/F
-com,"Debut game for Matt Reynolds"
 play,8,1,blakc001,02,CC1S,K
 play,9,0,youne003,31,BBCBB,W
 play,9,0,fowld001,00,X,46(1)3/GDP
@@ -11933,7 +11843,6 @@ play,3,0,staut001,01,LX,14/SH/BG.1-2
 play,3,0,cunna001,02,FCC,K
 play,3,0,ecksd001,00,X,S6/G.2-H(E6/TH1);B-2(E3/THH)
 play,3,0,tejam001,01,CX,HR/7/F.2-H
-com,"$Miguel Tejada's 300th career homer"
 play,3,0,gonza003,22,BBSFFFX,8/F
 play,3,1,furcr001,32,CBCBBFFFX,7/F
 play,3,1,carrj001,32,BBCCBX,63/G
@@ -12400,7 +12309,6 @@ play,5,0,montm001,10,BX,7/F
 play,5,0,alleb001,02,CCC,K
 play,5,1,billc001,32,FBFBBT,K
 play,5,1,therr001,00,X,2/BG/INT
-com,"$Ryan Theriot ran into his own bunt in fair territory and was called out"
 play,5,1,ethia001,00,X,S9/L
 play,5,1,kempm001,30,BBBX,HR/7/F.1-H
 play,5,1,lonej001,32,BCBBCX,63/G

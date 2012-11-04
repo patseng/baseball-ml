@@ -254,7 +254,6 @@ play,6,1,sotog001,00,X,54(1)/FO/G
 play,7,0,joneg002,00,X,HR/9/F
 play,7,0,ceder002,00,,NP
 sub,woodk002,"Kerry Wood",1,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured hand"
 play,7,0,ceder002,32,CBFB.FBFFB,W
 play,7,0,mahop002,11,.B>FX,26(1)/FO/BG
 play,7,0,tabaj002,12,SCBS,K
@@ -1675,7 +1674,6 @@ play,4,1,casts001,22,FBCBX,S7/L.3-H
 play,4,1,barnd001,10,1B1,SB2
 play,4,1,barnd001,21,1B1.>BFX,S9/L.2-H
 play,4,1,byrdm001,01,F11,PO1(E3).1-2
-com,"$Dodgers first baseman James Loney called for obstruction"
 play,4,1,byrdm001,01,F11.X,63/G
 play,5,0,milea001,00,X,S7/L
 play,5,0,blakc001,11,BCX,HR/7/F.1-H
@@ -2703,8 +2701,6 @@ start,penac001,"Carlos Pena",1,6,3
 start,casts001,"Starlin Castro",1,7,6
 start,sotog001,"Geovany Soto",1,8,2
 start,zambc001,"Carlos Zambrano",1,9,1
-com,"$Cardinals manager Tony LaRussa was not with the team; he was in Arizona because"
-com,"of a persistent case of shingles"
 play,1,0,therr001,22,BCBCFFFFX,63/G
 play,1,0,rasmc001,01,FX,D7/L
 play,1,0,pujoa001,21,BBCX,S15/G.2-3
@@ -2720,7 +2716,6 @@ play,1,1,penac001,22,CF1B*BFX,S7/L.1-3
 play,1,1,casts001,30,*BBBB,W.1-2
 play,1,1,sotog001,00,,NP
 sub,hillk002,"Koyie Hill",1,8,11
-com,"Cubs catcher Geovany Soto left the game due to an injured groin"
 play,1,1,hillk002,00,.X,5/P-
 play,2,0,puntn001,00,,NP
 sub,hillk002,"Koyie Hill",1,8,2
@@ -2868,8 +2863,6 @@ start,casts001,"Starlin Castro",1,6,6
 start,soria001,"Alfonso Soriano",1,7,7
 start,hillk002,"Koyie Hill",1,8,2
 start,garzm001,"Matt Garza",1,9,1
-com,"$Cardinals manager Tony LaRussa was not with the team; he was in Arizona because"
-com,"of a persistent case of shingles"
 play,1,0,therr001,22,CFBBC,K
 play,1,0,rasmc001,11,BFX,6/P
 play,1,0,pujoa001,30,BBBX,8/L
@@ -3042,7 +3035,6 @@ start,penac001,"Carlos Pena",1,6,3
 start,soria001,"Alfonso Soriano",1,7,7
 start,castw002,"Welington Castillo",1,8,2
 start,colec001,"Casey Coleman",1,9,1
-com,"$Cardinals manager Tony LaRussa was not with the team because of a persistent case of shingles"
 play,1,0,jay-j001,01,CX,43/G
 play,1,0,craia001,10,BX,S7/G
 play,1,0,pujoa001,32,BCBB1C>X,4/LDP.1X1(43)
@@ -3430,7 +3422,6 @@ play,6,1,soria001,02,CFS,K
 play,6,1,dewib001,22,CCFBBX,S9/G
 play,6,1,hillk002,11,SBX,53/G
 play,7,0,rowaa001,20,BB,NP
-com,"$Game called for rain after delay of 40 minutes"
 data,er,voger001,0
 data,er,david002,1
 data,er,samaj001,0
@@ -3544,7 +3535,6 @@ play,7,0,pridj001,11,CBX,8/F
 play,7,0,reyej001,00,X,7/F
 play,7,1,casts001,00,,NP
 sub,martf002,"Fernando Martinez",0,4,7
-com,"Mets left fielder Jason Bay left the game due to an injured leg"
 play,7,1,casts001,32,.BCBFBX,53/G
 play,7,1,ramia001,12,CFBH,HP
 play,7,1,penac001,00,,NP
@@ -3707,8 +3697,6 @@ play,7,0,pridj001,02,FFC,K
 play,7,0,tejar001,22,BBCSS,K
 play,7,0,gee-d001,30,BBBB,W
 play,7,0,reyej001,21,BBCX,S7/G.1-2
-com,"Game called for rain; when crew chief Dale Scott pulled the teams off the field,"
-com,"Cubs manager Mike Quade went onto the field and argued with Scott for a few minutes"
 data,er,gee-d001,4
 data,er,colec001,6
 data,er,bergj002,0
@@ -3775,8 +3763,6 @@ play,2,1,dewib001,12,CFBX,43/G
 play,2,1,soria001,02,CFX,53/G
 play,3,0,dickr001,11,BCX,43/G
 play,3,0,reyej001,10,BX,D9/L.B-H(UR)(E9/TH2)(E4/TH3)
-com,"$RF Kosuke Fukudome's throw was not handled by 2B Darwin Barney so Jose Reyes"
-com,"advanced to 3B; Barney's throw to 3B bounced past 3B Blake DeWitt"
 play,3,0,tholj001,32,BFFFFBBT,K
 play,3,0,beltc001,10,BX,6/P
 play,3,1,campt001,01,CX,S6/G
@@ -3786,7 +3772,6 @@ play,3,1,zambc001,20,BBX,S9/G
 play,3,1,fukuk001,20,BBX,S4/G.1-2
 play,3,1,barnd001,00,,NP
 sub,beatp001,"Pedro Beato",0,9,1
-com,"Mets pitcher R. A. Dickey left the game due to an injured ankle"
 play,3,1,barnd001,22,..BC*BFX,5(2)/FO/G.1-2
 play,4,0,bay-j001,10,BX,S5/G
 play,4,0,murpd006,11,C*BX,9/F
@@ -3834,7 +3819,6 @@ play,6,1,penac001,12,..CBFFS,K
 play,7,0,tejar001,00,,NP
 sub,marss002,"Sean Marshall",1,9,1
 play,7,0,tejar001,22,.BCFFBX,153/G
-com,"$the ball deflected off pitcher Sean Marshall's glove"
 play,7,0,hairs001,10,BX,D7/G
 play,7,0,reyej001,31,FBBBX,63/G
 play,7,0,tholj001,00,,NP
@@ -4128,7 +4112,6 @@ play,4,0,mahop002,22,BFCBS,K
 play,4,0,tabaj002,32,FFBBBS,K
 play,4,1,campt001,00,,NP
 sub,woodb003,"Brandon Wood",0,6,5
-com,"Pirates first baseman Steve Pearce left the game due to an injured leg"
 play,4,1,campt001,02,.CCX,13/BG
 play,4,1,barnd001,11,BCX,9/F
 play,4,1,casts001,10,BX,63/G
@@ -4248,11 +4231,9 @@ play,2,1,ramia001,00,X,HR/7/L
 play,2,1,penac001,20,BBX,S9/L
 play,2,1,soria001,31,BFBB1X,9/F
 play,2,1,campt001,21,FBB>X,S6/G.1-3(E3)
-com,"originally E6 and changed to E3 on 5-31"
 play,2,1,hillk002,21,BS1B1X,9/SF/F.3-H(UR)
 play,2,1,dempr002,00,,NP
 sub,snydc002,"Chris Snyder",0,6,2
-com,"Pirates catcher Ryan Doumit left the game due to an injured ankle"
 play,2,1,dempr002,00,.B,PB.1-2
 play,2,1,dempr002,12,.B.SSC,K
 play,3,0,tabaj002,22,BBCCX,43/G
@@ -4396,7 +4377,6 @@ play,1,1,penac001,00,X,HR/9/L.3-H
 play,1,1,soria001,22,BBFSX,53/G
 play,2,0,johnc003,00,,NP
 sub,dewib001,"Blake DeWitt",1,6,7
-com,"Cubs left fielder Alfonso Soriano left the game due to an injured leg"
 play,2,0,johnc003,12,.CSBFX,6/L-
 play,2,0,towlj001,02,LFC,K
 play,2,0,rodra002,01,CX,63/G
@@ -4770,9 +4750,6 @@ play,6,1,ramia001,12,BSCFX,9/F
 play,7,0,keppj001,22,BCBCX,S7/L
 play,7,0,michj001,00,X,3/P
 play,7,0,johnc003,32,B*BCF1B>X,S56/G+.1-2
-com,"$Chris Johnson's hard grounder bounced and struck Cubs 3B Aramis Ramirez on the face"
-com,"as he dove towards the line; he suffered a laceration on the inside of his upper lip"
-com,"and was taken to the hospital to get stitiches"
 play,7,0,towlj001,00,,NP
 sub,woodk002,"Kerry Wood",1,5,1
 play,7,0,towlj001,00,,NP
@@ -4888,10 +4865,6 @@ play,1,1,ramia001,32,CBSBBX,13/G-
 play,2,0,hartc001,22,BFSBX,E6/TH1/G
 play,2,0,betay001,01,1FX,9/F
 play,2,0,nievw001,11,BC1X,54(1)3/GDP
-com,"umpchange,2,ump3b,hicke901"
-com,"umpchange,2,ump2b,(None)"
-com,"$3B umpire and crew chief Ed Rapuano left the game because of what was described as a"
-com,"non-emergency medical reason"
 play,2,1,sotog001,10,BX,53/G
 play,2,1,montl001,12,CCBFX,63/G
 play,2,1,lemad001,12,CBSS,K
@@ -5108,9 +5081,6 @@ sub,marmc001,"Carlos Marmol",1,5,1
 play,9,0,fielp001,00,,NP
 sub,montl001,"Luis Montanez",1,8,7
 play,9,0,fielp001,32,..BCBCFFB.FX,8/F
-com,"ej,quadm801,M,marqa901,Balls and strikes"
-com,"Cubs Manager Mike Quade ejected by HP umpire Alfonso Marquez for yelling from the"
-com,"dugout after Marquez called the seventh pitch to Prince Fielder a ball"
 play,9,0,mcgec001,22,BSBCX,S8/G
 play,9,0,hartc001,00,,NP
 sub,gomec002,"Carlos Gomez",0,5,12
@@ -5208,7 +5178,6 @@ play,2,0,lucrj001,21,BCBX,3/P3F
 play,2,1,montl001,32,BBCBFX,8/L
 play,2,1,dewib001,02,CFX,S46/G
 play,2,1,lemad001,01,CX,S7/G.1-2
-com,"originally scored as E5, changed next day to single"
 play,2,1,zambc001,12,SBSS,K
 play,2,1,casts001,21,*BBFX,6/L
 play,3,0,narvc001,12,CSBS,K
@@ -6614,7 +6583,6 @@ play,2,0,crawb001,00,X,S31/BG.1-3(E1/TH);B-2
 play,2,0,tejam001,20,BBX,S4/P.3-H(UR);2-3
 play,2,0,white004,00,,NP
 sub,matem001,"Marcos Mateo",1,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured back"
 play,2,0,white004,32,B.BSBF>S,K+CS2(263)/DP
 play,2,0,cainm001,00,X,6/P-
 play,2,1,penac001,32,.BBFTBFX,7/F
@@ -6858,7 +6826,6 @@ play,6,0,quenc001,00,X,64(1)3/GDP
 play,6,0,konep001,00,X,53/G+
 play,6,1,casts001,21,FBBX,9/F
 play,6,1,ramia001,12,FSBX,HR/7/F
-com,"$300th career homer for Aramis Ramirez"
 play,6,1,penac001,31,BBBSX,8!/F
 play,6,1,soria001,02,CFS,K
 play,7,0,piera001,10,BX,S8/G
@@ -6975,11 +6942,6 @@ play,2,0,riosa002,02,CSX,5/P5F
 play,2,1,penac001,00,X,S5/BG
 play,2,1,byrdm001,30,BBBB,W.1-2
 play,2,1,soria001,00,X,54(1)3/GDP.2-3
-com,"ej,quadm801,M,emmep901,Call at 2B"
-com,"$on the double play, White Sox 2B Gordon Beckham seemed to be off the bag when he caught the throw;"
-com,"2B umpire Paul Emmel ruled Marlon Byrd out; Cubs manager Mike Quade argued the play and was ejected"
-com,"by Emmel; as Quade left the field, he also yelled at HP umpire and crew chief Gary Darling from a"
-com,"distance"
 play,2,1,sotog001,30,.BIII,IW
 play,2,1,garzm001,22,BCSFBX,63/G
 play,3,0,beckg001,10,BX,9/F
@@ -7914,7 +7876,6 @@ play,5,0,hallr001,02,TSS,K
 play,5,1,casts001,22,BFBFX,S8/L
 play,5,1,ramia001,00,,NP
 sub,carpa001,"Drew Carpenter",0,9,1
-com,"Phillies pitcher Roy Halladay left because of the heat"
 play,5,1,ramia001,11,F1B.1X,8/F
 play,5,1,penac001,01,C>B,SB2
 play,5,1,penac001,32,C>B.SBBB,W
@@ -8360,7 +8321,6 @@ play,5,0,lee-c001,32,CCBBFBFFX,8/F
 play,5,0,wallb001,22,FBBSC,K
 play,5,1,soria001,10,BX,HR/7/F
 play,5,1,barnd001,00,X,E4/P
-com,"originally scored as single, changed 6 days later"
 play,5,1,zambc001,00,X,S4/BG.1-2
 play,5,1,fukuk001,31,BLBBX,6/P/IF
 play,5,1,casts001,00,>C,SB3
@@ -8568,8 +8528,6 @@ play,8,1,bakej001,00,,NP
 sub,penac001,"Carlos Pena",1,4,11
 play,8,1,penac001,32,.BBBCC*B,W.2-3;1-2
 play,8,1,sotog001,22,CCB*BX,S5/G5L.3-H;2-H(UR)(NR)(E5/TH1);1-3
-com,"$Chris Johnson made a diving stop on the 3B line but could not get the ball out of his glove"
-com,"the first time he tried; he then threw the ball away to 1B, allowing the second run to score"
 play,8,1,byrdm001,00,,NP
 sub,delre001,"Enerio Del Rosario",0,9,1
 play,8,1,byrdm001,12,.BCFT,K
@@ -9011,7 +8969,6 @@ play,3,0,cairm001,00,X,S9/L.2-H;1-3
 play,3,0,alony001,32,FFBFBB>F>X,S7/L.3-H;1-2
 play,3,0,hernr002,01,FX,8/L
 play,3,1,zambc001,11,CBX,HR/89/F
-com,"$23rd career homer for pitcher Carlos Zambrano"
 play,3,1,casts001,31,BBBCX,9/F
 play,3,1,barnd001,22,CBBFX,53/G
 play,3,1,ramia001,11,BCX,S6/G+
@@ -9021,8 +8978,6 @@ play,4,0,cuetj001,02,CFX,9/L
 play,4,0,stubd001,10,BX,63/G
 play,4,0,rente001,02,CFFC,K
 play,4,1,johnr008,21,BSBX,D49/P
-com,"$2B Brandon Phillips caught the ball then collided with CF Drew Stubbs; Phillips dropped the ball in the"
-com,"collision and sprained his right ankle; he stayed in the game"
 play,4,1,soria001,11,BFX,D7/F.2-H
 play,4,1,sotog001,00,X,S7/G+.2-3
 play,4,1,zambc001,12,BFSS,K
@@ -9037,7 +8992,6 @@ play,4,1,byrdm001,22,.CBBST,K
 play,5,0,vottj001,32,FCBBBFS,K
 play,5,0,philb001,00,,NP
 sub,frazt001,"Todd Frazier",0,4,11
-com,"Brandon Phillips left the game with a sprained right ankle"
 play,5,0,frazt001,32,.BCBBFX,63/G
 play,5,0,brucj001,00,X,4/L
 play,5,1,johnr008,00,,NP
@@ -9251,11 +9205,6 @@ play,8,0,janip001,32,.PBFBCB,W.1-2
 play,8,0,massn001,00,,NP
 sub,alony001,"Yonder Alonso",0,9,11
 play,8,0,alony001,00,.X,52(3)3/GDP
-com,"umpchange,8,umphome,eddid901"
-com,"umpchange,8,ump1b,demud901"
-com,"umpchange,8,ump2b,(None)"
-com,"$HP umpire Paul Nauert left the game due to heat-related issues; he had been using wet towels between"
-com,"innings to cool off and drinking water and Gatorade"
 play,8,1,colvt001,00,,NP
 sub,chapa001,"Aroldis Chapman",0,9,1
 play,8,1,colvt001,00,,NP
@@ -10272,7 +10221,6 @@ play,6,0,gonza002,30,BBBB,W
 play,6,0,consj001,22,BFC*BX,S3/G-.1-2
 play,6,0,jurrj001,00,,NP
 sub,heywj001,"Jason Heyward",0,8,12
-com,"Braves center fielder Jose Constanza left the game due to an injured ankle"
 play,6,0,jurrj001,12,.BCSX,13/G-
 play,6,1,colvt001,00,,NP
 sub,heywj001,"Jason Heyward",0,8,9
@@ -12306,14 +12254,6 @@ sub,ramia001,"Aramis Ramirez",1,2,11
 play,8,1,ramia001,32,.FBBBFF>X,9/SF/F.3-H(UR)
 play,8,1,lahab001,22,CBCFBFS,K
 play,8,1,penac001,12,CBFFFX,D7/F.1-3
-com,"ej,quadm801,M,fostm901,Replay and runner placement"
-com,"$Carlos Pena's fly to LF hit the yellow stripe on the front edge of the basket that hangs on the wall;"
-com,"there was an umbrella in the basket that moved as the ball hit, making it appear that the ball struck"
-com,"the umbrella and caromed back onto the field; the play was ruled a homer by 3B umpire Marty Foster but"
-com,"when Astros manager Brad Mills asked about the call, acting chief Jeff Nelson watched the replay and"
-com,"overturned the call to a ball in play; the runners were placed at 2B and 3B, which was the correct ruling"
-com,"based on the position of Starlin Castro as the ball was thrown into the infield; Cubs manager Mike"
-com,"Quade argued the ruling and was ejected by Foster"
 play,8,1,byrdm001,00,,NP
 sub,melam001,"Mark Melancon",0,5,1
 play,8,1,byrdm001,00,,NP
@@ -12602,7 +12542,6 @@ play,6,1,ramia001,00,X,63/G+
 play,6,1,penac001,00,X,7/F
 play,7,0,morgn001,00,,NP
 sub,dewib001,"Blake DeWitt",1,3,5
-com,"Cubs third baseman Aramis Ramirez left the game due to an injured leg"
 play,7,0,morgn001,11,.CBX,8/F
 play,7,0,braur002,12,FBFX,8/F
 play,7,0,fielp001,32,BBCCBB,W

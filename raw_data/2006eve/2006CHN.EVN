@@ -528,7 +528,6 @@ play,3,1,ruscg001,11,CBX,D9/L
 play,3,1,pierj002,32,BBCFBX,43/G
 play,4,0,aurir001,22,BBCCC,K
 play,4,0,dunna001,22,BCSBX,HR/78/F
-com,"Rusch surrendered homers in four consecutive innings"
 play,4,0,encae001,21,CBBX,S7/L
 play,4,0,keara001,32,BCCBBX,13/G-.1-2
 play,4,0,rossd001,22,CBFBS,K
@@ -558,7 +557,6 @@ play,6,0,rossd001,00,,NP
 sub,wuerm001,"Michael Wuertz",1,9,1
 play,6,0,rossd001,00,,NP
 sub,pagaa001,"Angel Pagan",1,6,9
-com,"Cubs right fielder Jacque Jones left the game due to an injured leg"
 play,6,0,rossd001,12,..SSBX,53/G
 play,6,0,arrob001,22,BSBCS,K
 play,6,0,freer001,32,BSCFFFBFBB,W
@@ -693,7 +691,6 @@ play,4,0,encae001,11,BFX,D8/F.1-H;B-3(TH)
 play,4,0,hatts001,10,BX,43/G
 play,4,1,murtm001,00,,NP
 sub,freer001,"Ryan Freel",0,3,8
-com,"Reds center fielder Ken Griffey left the game due to an injured knee"
 play,4,1,murtm001,21,.BBCX,S4/G
 play,4,1,peren001,12,F1B1SX,7/F
 play,4,1,ceder002,01,FS,WP.1-2
@@ -2172,7 +2169,6 @@ play,2,0,willw001,32,CFFBFBFFBB,W
 play,2,0,robed001,00,X,DGR7/L.1-3
 play,2,0,camem001,00,,NP
 sub,hensc002,"Clay Hensley",0,9,12
-com,"Padres pitcher Woody Williams left the game due to an injured leg"
 play,2,0,camem001,02,.CCC,K
 play,2,1,mabrj001,00,,NP
 sub,sweeb001,"Brian Sweeney",0,9,1
@@ -2784,14 +2780,12 @@ play,3,1,ceder002,21,BBCX,54(1)3/GDP.2-3
 play,3,1,marss002,21,BSBX,13/G
 play,4,0,soria001,00,,NP
 sub,peren001,"Neifi Perez",1,5,5
-com,"Cubs third baseman Aramis Ramirez left the game due to an injured back"
 play,4,0,soria001,12,.BSFFX,8!/L
 play,4,0,byrdm001,31,BCBBB,W
 play,4,0,vidrj001,10,BX,46(1)/FO/G.B-1
 play,4,0,johnn001,02,CSX,31/G
 play,4,1,pierj002,00,,NP
 sub,andem003,"Marlon Anderson",0,5,9
-com,"Nationals right fielder Jose Guillen left the game due to an injured leg"
 play,4,1,pierj002,11,.BLX,S6/G
 play,4,1,murtm001,02,F11FT,K
 play,4,1,walkt002,10,1B>B,CS2(26)
@@ -2807,8 +2801,6 @@ play,5,0,day-z001,00,,NP
 sub,fickr001,"Robert Fick",0,9,11
 play,5,0,fickr001,02,.CFB,WP.2-3;1-2
 play,5,0,fickr001,12,.CFB.C,K
-com,"ej,fickr001,P,hudsm901,Balls and strikes"
-com,"Nationals Robert Fick ejected by HP umpire Marvin Hudson"
 play,5,1,jonej003,00,,NP
 sub,raucj001,"Jon Rauch",0,9,1
 play,5,1,jonej003,12,.CCBX,43/G
@@ -3647,7 +3639,6 @@ play,5,0,lopef001,22,BCBCX,43/G
 play,5,0,dunna001,11,CBX,3/G-
 play,5,1,barrm003,00,,NP
 sub,freer001,"Ryan Freel",0,7,4
-com,"Reds second baseman Brandon Phillips left the game due to an injured leg"
 play,5,1,barrm003,01,.CX,7/F
 play,5,1,walkt002,01,CX,S7/L+
 play,5,1,ramia001,00,X,5/P
@@ -5076,7 +5067,6 @@ play,9,1,lee-d002,12,CBFFX,S9/F-
 play,9,1,ramia001,12,CS*BFX,S3/G.1-2
 play,9,1,nevip001,00,,NP
 sub,turnd001,"Derrick Turnbow",0,9,1
-com,"Brewers pitcher Chris Capuano left the game due to an injured arm"
 play,9,1,nevip001,00,.X,5(2)/FO/G.1-3(E5/TH);B-2
 play,9,1,ceder002,22,BFBFS,K
 play,9,1,jonej003,32,FBCBBS,K
@@ -5610,7 +5600,6 @@ play,1,0,iguct001,02,CSC,K
 play,1,0,konep001,00,X,S9/F-.1-3
 play,1,0,dye-j001,00,,NP
 sub,podss001,"Scott Podsednik",0,1,12
-com,"White Sox third baseman Pablo Ozuna left the game due to an injured leg"
 play,1,0,dye-j001,11,.CBX,S6/G.3-H;1-2
 play,1,0,piera001,31,BBBCX,S9/G.2-3;1-2
 play,1,0,credj001,10,BX,3/P3F
@@ -6136,13 +6125,11 @@ play,6,0,floyc001,00,X,8/L+
 play,6,0,nadyx001,11,CBX,63/G
 play,6,1,walkt002,00,,NP
 sub,chave002,"Endy Chavez",0,3,8
-com,"Mets center fielder Carlos Beltran left the game due to an injured leg"
 play,6,1,walkt002,11,.CBX,43/G
 play,6,1,lee-d002,32,BBFSBFFB,W
 play,6,1,ramia001,10,*BX,8/F
 play,6,1,jonej003,10,BX,8/F
 play,7,0,woodc001,01,.FX,T7/F
-com,"Woodward's ball cleared the basket for a homer but was ruled in play"
 play,7,0,tracs001,00,,NP
 sub,marre001,"Eli Marrero",0,9,11
 play,7,0,marre001,32,.BCCBBX,8/SF.3-H
@@ -7295,10 +7282,6 @@ play,8,0,rodrj002,20,BBX,8/F
 play,8,1,pagaa001,00,,NP
 sub,moliy001,"Yadier Molina",0,8,2
 play,8,1,pagaa001,00,.X,S2/BG
-com,"ej,baked002,M,monte901,Arguing whether HBP or swing on Ronny Cedeno"
-com,"Cubs Manager Dusty Baker ejected by HP umpire Ed Montague"
-com,"with 0-2 count on Cedeno after Montague ruled that Cedeno"
-com,"swung at a pitch that hit him"
 play,8,1,ceder002,02,LL.X,54/SH/BG.1-2
 play,8,1,nevip001,01,CX,FC6/G.2-3;B-1
 play,8,1,pierj002,31,BFBBB,W.1-2
@@ -7391,7 +7374,6 @@ play,2,1,pierj002,01,CX,S9/L.2XH(92)
 play,3,0,ecksd001,01,FX,63/G
 play,3,0,tagus001,00,X,S6/G
 play,3,0,pujoa001,01,C>X,9/FDP.1X2(14)
-com,"$Appeal play"
 play,3,1,peren001,12,FBLX,53/G
 play,3,1,barrm003,10,BX,63/G
 play,3,1,ramia001,30,BBBB,W
@@ -7569,7 +7551,6 @@ play,6,0,moliy001,22,BFFBFX,9/SF.3-H
 play,6,0,milea001,00,1X,S6/G.1-2
 play,6,0,kinnj001,00,,NP
 sub,reyea002,"Anthony Reyes",0,6,12
-com,"Cardinals RF John Rodriguez left the game due to an injured foot/ankle"
 play,6,0,kinnj001,00,,NP
 sub,encaj001,"Juan Encarnacion",0,9,11
 play,6,0,encaj001,00,..X,64(1)3/GDP
@@ -7734,7 +7715,6 @@ play,4,0,gonzl001,10,BX,8/F
 play,4,0,jackc002,32,CBBBC>C,K
 play,4,1,pagaa001,00,,NP
 sub,snydc002,"Chris Snyder",0,5,2
-com,"Diamondbacks catcher Johnny Estrada left the game due to an injured chest"
 play,4,1,pagaa001,01,.FX,4/L
 play,4,1,ceder002,21,CBBX,53/G-
 play,4,1,priom001,22,CBBCC,K
@@ -8722,7 +8702,6 @@ play,9,0,martd004,00,,NP
 sub,burnj001,"Jeromy Burnitz",0,1,11
 play,9,0,burnj001,12,.S*BSS,K
 play,9,0,wilsj002,11,BCX,2/G/INT
-com,"batter interference"
 data,er,sneli001,5
 data,er,grabj002,0
 data,er,martd004,1
@@ -8801,7 +8780,6 @@ play,3,0,wilsp002,01,CX,6/L
 play,3,0,bellr002,21,FBBX,7/F
 play,3,1,ceder002,00,,NP
 sub,milea001,"Aaron Miles",0,1,6
-com,"Cardinals shortstop David Eckstein left the game due to an injured chest"
 play,3,1,ceder002,12,.BSFFS,K
 play,3,1,marmc001,02,CFFX,6!3/G
 play,3,1,pierj002,11,BFX,7!/L
@@ -9290,7 +9268,6 @@ play,4,0,burrp001,00,,NP
 sub,therr001,"Ryan Theriot",1,2,4
 play,4,0,burrp001,00,,NP
 sub,ceder002,"Ronny Cedeno",1,8,6
-com,"Cubs shortstop Cesar Izturis left the game due to an injured leg"
 play,4,0,burrp001,32,..CBBBFFB,W
 play,4,0,rowaa001,22,CBBFX,D7/L.1-3
 play,4,0,costc001,11,BFX,9/F
@@ -9352,10 +9329,6 @@ sub,robec001,"Chris Roberson",0,5,7
 play,8,1,mabrj001,00,,NP
 sub,gearg001,"Geoff Geary",0,9,1
 play,8,1,mabrj001,01,..FX,T9/F8S
-com,"$Short fly that Utley caught just as Rowand crashed"
-com,"into him. Glove and ball went flying, Rowand was"
-com,"flipped and landed on head. Rowand leaves with badly"
-com,"sprained ankle"
 play,8,1,blanh001,00,,NP
 sub,victs001,"Shane Victorino",0,2,8
 play,8,1,blanh001,00,,NP
@@ -9478,7 +9451,6 @@ play,5,0,victs001,02,CFFX,6/L+
 play,5,0,sandd003,02,FCX,63/G-
 play,5,0,rollj001,00,,NP
 sub,ruscg001,"Glendon Rusch",1,9,1
-com,"Cubs pitcher Ryan O'Malley left the game due to an injured elbow"
 play,5,0,rollj001,31,B.CBBX,63/G
 play,5,1,murtm001,10,BX,5!3/G
 play,5,1,blanh001,21,BBCX,S7/G+
@@ -9748,8 +9720,6 @@ start,barrm003,"Michael Barrett",1,6,2
 start,pagaa001,"Angel Pagan",1,7,9
 start,ceder002,"Ronny Cedeno",1,8,6
 start,zambc001,"Carlos Zambrano",1,9,1
-com,"Umpire Paul Emmel was taken to the hospital before"
-com,"the game after feeling dizzy and nauseous"
 play,1,0,rollj001,11,BCX,3/P-
 play,1,0,victs001,32,BBCSBB,W
 play,1,0,utlec001,11,BFX,54(1)/FO/G
@@ -10249,7 +10219,6 @@ play,5,0,schmj001,11,BLX,54/SH/BG.1-2
 play,5,0,finls001,30,BBBB,W
 play,5,0,vizqo001,00,,NP
 sub,wuerm001,"Michael Wuertz",1,9,1
-com,"Cubs pitcher Angel Guzman left the game due to an injured arm"
 play,5,0,vizqo001,32,B.BCBF>F>F>X,T9/F.2-H;1-H
 play,5,0,hills002,02,CSX,HR/7/F.3-H
 play,5,0,bondb001,00,,NP
@@ -10398,7 +10367,6 @@ play,2,0,randj002,01,CX,34/SH/BG.2-3;1-2
 play,2,0,sancf001,11,BSX,FC6/G.3-H(E6/TH)(NR)(UR);2-3;B-1
 play,2,0,bay-j001,00,,NP
 sub,novor002,"Roberto Novoa",1,9,1
-com,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"
 play,2,0,bay-j001,10,.BX,54(1)3/GDP
 play,2,1,murtm001,22,CCBBX,3/G
 play,2,1,pagaa001,31,BBCBB,W
@@ -10599,8 +10567,6 @@ sub,mclem002,"Marty McLeary",0,9,1
 play,4,1,therr001,10,.BX,9/F.2-3
 play,4,1,ramia001,21,BBS>B,SB2
 play,4,1,ramia001,32,BBS>B.SX,53/G
-com,"ej,ramia001,P,hallt901,Call at 1B"
-com,"Cubs third baseman Aramis Ramirez ejected by 1B umpire Tom Hallion"
 play,5,0,bautj002,00,,NP
 sub,marmc001,"Carlos Marmol",1,3,1
 play,5,0,bautj002,00,,NP
@@ -10827,7 +10793,6 @@ play,8,1,therr001,01,.CX,S1/BG.2-3;1-2
 play,8,1,ramia001,00,X,6/L
 play,8,1,lee-d002,00,X,HR/78/L.3-H;2-H;1-H
 play,8,1,murtm001,10,BX,E6/G
-com,"originally scored S6, changed on 9-08 to E6"
 play,8,1,jonej003,10,B>C,SB2
 play,8,1,jonej003,31,B>C.III,IW
 play,8,1,blanh001,01,SX,S7/G.2-H(UR);1-2
@@ -11634,7 +11599,6 @@ play,3,0,arrob001,12,BLCL,K/BF
 play,3,0,freer001,00,1X,8/F+
 play,3,1,matej002,00,,NP
 sub,coatb001,"Buck Coats",1,9,11
-com,"Cubs pitcher Juan Mateo left the game due to an injured back"
 play,3,1,coatb001,12,.BCFFFS,K
 play,3,1,pierj002,12,LSFBX,S8/G
 play,3,1,ceder002,11,CB11X,46(1)3/GDP
@@ -12153,8 +12117,6 @@ play,8,0,menck001,00,,NP
 sub,dempr002,"Ryan Dempster",1,9,1
 play,8,0,menck001,12,.CFBS,K
 play,8,0,belld002,32,CCBBBC,K
-com,"ej,belld002,P,tscht901,Called third strike"
-com,"Brewers third baseman David Bell ejected by HP umpire Tim Tschida"
 play,8,0,rivem003,32,.BCBBFFFX,43/G
 play,8,1,jonej003,00,,NP
 sub,rottv001,"Vinny Rottino",0,7,5

@@ -81,8 +81,6 @@ play,4,0,swisn001,00,X,S9/L.1-2
 play,4,0,ellim001,31,BBBCX,63/G
 play,4,1,matol001,00,,NP
 sub,scutm001,"Marco Scutaro",0,7,6
-com,"Athletics shortstop Bobby Crosby left game due to broken"
-com,"ribs. Would be on DL for 2 months"
 play,4,1,matol001,21,.CBBX,8/F
 play,4,1,bigbl001,21,BCBX,S9/L
 play,4,1,robeb003,01,1C>X,63/G.1-2
@@ -107,7 +105,6 @@ play,7,0,kotsm001,00,,NP
 sub,klins002,"Steve Kline",1,0,1
 play,7,0,kotsm001,00,,NP
 sub,gil-g001,"Geronimo Gil",1,6,2
-com,"Orioles catcher Javy Lopez left the game due to an injured back"
 play,7,0,kotsm001,11,..CBX,S8/G+
 play,7,0,kendj001,01,CX,16(1)/FO/G
 play,7,0,chave001,32,BBCBCX,8/F
@@ -269,7 +266,6 @@ play,8,0,hatts001,11,CBX,43/G
 play,8,1,matol001,00,,NP
 sub,streh001,"Huston Street",0,0,1
 play,8,1,matol001,22,.BFBSFX,1/P3F
-com,"Debut game for Huston Street"
 play,8,1,robeb003,31,BFBBB,W
 play,8,1,moram002,32,BBBCFX,5/L
 play,8,1,tejam001,02,CSX,S9/G.1-2
@@ -1832,7 +1828,6 @@ play,2,0,hallt001,32,>C.FBFBBB,W
 play,2,0,gonza001,12,BFCX,9/F
 play,2,1,lopej001,00,,NP
 sub,phelj001,"Josh Phelps",0,6,3
-com,"Devil Rays first baseman Travis Lee left the game due to an injured groin"
 play,2,1,lopej001,12,.BCFFS,K
 play,2,1,gibbj002,01,CX,T7/F
 play,2,1,bigbl001,22,BFSFBS,K
@@ -2722,7 +2717,6 @@ play,3,0,buckj001,32,BB1B.CFS,K
 play,3,0,dejed001,21,BCBX,7/F7LF
 play,3,1,robeb003,00,,NP
 sub,woodm002,"Mike Wood",0,0,1
-com,"Royals pitcher Brian Anderson left the game due to an injured elbow"
 play,3,1,robeb003,32,.BFBBCS,K
 play,3,1,matol001,11,BSX,53/G
 play,3,1,moram002,31,BCBBX,53/G+
@@ -3090,8 +3084,6 @@ play,9,0,huntt001,00,,NP
 sub,gil-g001,"Geronimo Gil",1,8,2
 play,9,0,huntt001,00,,NP
 sub,willt001,"Todd Williams",1,0,1
-com,"Orioles center fielder Luis Matos left the game"
-com,"due to an injured hand/wrist"
 play,9,0,huntt001,11,...CBX,53/G
 play,9,0,lecrm001,32,CBBBCX,53/G
 play,9,0,fordl001,21,FBBX,S7/G
@@ -3263,7 +3255,6 @@ sub,reedk001,"Keith Reed",1,8,9
 play,9,0,mornj001,00,,NP
 sub,ryanb001,"B.J. Ryan",1,0,1
 play,9,0,mornj001,10,....BX,D9/L
-com,"Debut game for Keith Reed"
 play,9,0,huntt001,12,BSSX,6/P
 play,9,0,jonej003,31,BFBBB,W
 play,9,0,fordl001,12,FFBS,K
@@ -3784,7 +3775,6 @@ play,3,0,sexsr001,10,B11,SB2
 play,3,0,sexsr001,11,B11.CX,S9/L-.2-H
 play,3,0,boonb002,22,BFBFF,NP
 sub,gil-g001,"Geronimo Gil",1,7,2
-com,"$Foul ball broke Javy Lopez's right hand, onto DL"
 play,3,0,boonb002,22,BFBFF.X,8/F
 play,3,1,moram002,12,CFBFFC,K
 play,3,1,tejam001,32,BBFFBX,53/G
@@ -3825,7 +3815,6 @@ play,7,1,robeb003,11,BCH,HP
 play,7,1,fiorj001,12,BFF1X,E5/TH/FO/BG.1-2;B-1
 play,7,1,moram002,00,,NP
 sub,gomec001,"Chris Gomez",1,1,12
-com,"Roberts hit in knee, aggravated injury sliding into 2nd"
 play,7,1,moram002,00,,NP
 sub,nelsj001,"Jeff Nelson",0,0,1
 play,7,1,moram002,01,..CX,S2/BG.2-3;1-2
@@ -4298,7 +4287,6 @@ start,fasas001,"Sal Fasano",1,8,2
 start,newhd001,"David Newhan",1,9,8
 start,pennh001,"Hayden Penn",1,0,1
 play,1,0,ingeb001,12,CCBX,7/F
-com,"Debut game for Hayden Penn"
 play,1,0,guilc001,32,BBBCSS,K
 play,1,0,yound001,31,CBBBX,S7/L
 play,1,0,whitr001,02,CFX,63/G
@@ -4523,7 +4511,6 @@ sub,calzn001,"Napoleon Calzado",1,9,11
 play,8,1,calzn001,00,,NP
 sub,walkj001,"Jamie Walker",0,0,1
 play,8,1,calzn001,11,..BFX,S7/F-
-com,"Debut game for Napoleon Calzado"
 play,8,1,robeb003,22,11BFBFX,46(1)/FO/G
 play,8,1,surhb001,12,CB1FX,46(1)/FO/G
 play,8,1,moram002,00,,NP
@@ -4846,7 +4833,6 @@ sub,ray-c001,"Chris Ray",1,0,1
 play,9,0,brune001,00,,NP
 sub,palmo001,"Orlando Palmeiro",0,9,11
 play,9,0,palmo001,00,..X,8/F
-com,"Debut game for Chris Ray"
 play,9,0,tavew001,12,SBCX,8/F
 play,9,0,burkc001,00,,NP
 sub,vizcj001,"Jose Vizcaino",0,2,11
@@ -5380,9 +5366,6 @@ play,6,0,wilsp002,32,CFFBBBX,63!/G
 play,6,0,hawpb001,02,FFX,13/G
 play,6,1,marre001,31,CBBBX,S5/G
 play,6,1,palmr001,11,BFX,HR/9/F.1-H
-com,"ej,mazzl001,M,relic901,Fair/foul call"
-com,"Orioles Mgr Lee Mazzilli ejected by 1B umpire Charlie Reliford"
-com,"arguing that the foul by Gomez was a homer; replay showed foul"
 play,6,1,gomec001,12,BFC.FX,53/G
 play,6,1,gibbj002,22,BBFFS,K
 play,6,1,gil-g001,01,CX,53/G-
@@ -5557,9 +5540,6 @@ play,7,1,matol001,12,BFFS,K
 play,7,1,tejam001,10,BX,6/L-
 play,8,0,posaj001,10,BX,S8/G
 play,8,0,giamj001,30,*BBBN,BK.1-2
-com,"ej,klins002,P,fostm901,Balk call"
-com,"$balk called by 2B umpire, Steve Kline into rage, ejected by HP umpire"
-com,"Marty Foster, restrained by other umpires, manager Mazzilli, coach Dempsey"
 play,8,0,giamj001,30,*BBBN,NP
 sub,julij001,"Jorge Julio",1,0,1
 play,8,0,giamj001,30,*BBBN...I,IW
@@ -6101,7 +6081,6 @@ play,2,0,crisc001,12,BCFFX,8/F
 play,2,0,geruj001,01,CX,13/G-
 play,2,1,marre001,00,,NP
 sub,boona001,"Aaron Boone",0,2,5
-com,"Casey Blake left with a stiff neck"
 play,2,1,marre001,32,.CSBBBX,9/F
 play,2,1,gibbj002,12,BSSX,5/P
 play,2,1,gomec001,00,X,63/G
@@ -6380,7 +6359,6 @@ play,2,0,olerj001,20,BBB,PB.1-2
 play,2,0,olerj001,30,BBB.B,W
 play,2,0,mirad001,22,CSBBFC,K
 play,2,0,stera001,11,BCX,4(1)/FO/G
-com,"Debut game for Adam Stern"
 play,2,1,sosas001,00,X,9/F9LF
 play,2,1,gibbj002,12,BCFFC,K
 play,2,1,matol001,01,CX,9/F
@@ -6427,7 +6405,6 @@ play,6,1,palmr001,10,BX,7/F
 play,6,1,sosas001,12,FC*BX,S8/G.2-H
 play,6,1,gibbj002,01,CX,6/P
 data,er,welld001,3
-com,"$Called for rain after one hour delay"
 data,er,cabrd001,1
 data,er,byrdt001,0
 id,BAL200507080
@@ -7098,10 +7075,6 @@ play,4,1,lopej001,11,BFX,S7/L
 play,4,1,surhb001,10,B1X,9/L
 play,4,1,marre001,00,,NP
 sub,bigbl001,"Larry Bigbie",1,8,11
-com,"$Orioles left fielder Eli Marrero left the game due to an injured head,"
-com,"heat exhaustion after failed IPHR try in 2nd;"
-com,"story changed on following day to sprained thumb on collision in 2nd,"
-com,"onto 15-day DL"
 play,4,1,bigbl001,12,.CS*BS,K
 play,5,0,menck001,00,,NP
 sub,surhb001,"B.J. Surhoff",1,7,9
@@ -7440,7 +7413,6 @@ play,3,0,hidar001,00,X,4/P
 play,3,0,aloms001,02,CCX,S6/G+
 play,3,0,delld001,00,,NP
 sub,byrdt001,"Tim Byrdak",1,0,1
-com,"Ponson hit on right thumb by Alomar's line drive"
 play,3,0,delld001,32,..CCF*BBB1X,6/P
 play,3,0,younm003,01,FB,WP.1-2
 play,3,0,younm003,11,FB.X,S3/G.2-3
@@ -7574,8 +7546,6 @@ play,1,0,podss001,32,BCCBBB,W
 play,1,0,iguct001,10,B1B,PB.1-2
 play,1,0,iguct001,22,B1B.FSS,K
 play,1,0,everc001,10,B>B,SB3
-com,"ej,mazzl001,M,dimum901,Call at 3B"
-com,"Orioles Manager Lee Mazzilli ejected by 3B umpire Mike DiMuro"
 play,1,0,everc001,22,B>B..FCFX,8/SF.3-H(UR)
 play,1,0,konep001,32,FBBFBB,W
 play,1,0,rowaa001,11,BFX,9/L
@@ -7741,8 +7711,6 @@ play,2,0,rowaa001,22,BF1FBS,K
 play,2,0,credj001,01,CX,S1/L.1-2
 play,2,0,uribj002,00,,NP
 sub,grimj001,"Jason Grimsley",1,0,1
-com,"$Cabrera hit on back of pitching hand by Crede's line"
-com,"drive. X-rays negative."
 play,2,0,uribj002,00,.X,63/G
 play,2,1,tejam001,10,BX,6!3/G
 play,2,1,palmr001,31,BBFBX,8/F
@@ -7812,7 +7780,6 @@ play,8,0,piera001,00,,NP
 sub,gloar001,"Ross Gload",0,4,12
 play,8,0,piera001,01,.CX,HR/9/F+.3-H;1-H
 play,8,0,dye-j001,12,CCBFX,HR/78/L+
-com,"Into visiting bullpen, at least 420 feet"
 play,8,0,rowaa001,02,SSC,K
 play,8,0,credj001,22,BFCBX,3/P
 play,8,1,moram002,00,,NP
@@ -7932,7 +7899,6 @@ play,3,0,peret004,32,BBCBFX,64(1)3/GDP
 play,3,0,iguct001,01,FH,HP
 play,3,0,everc001,00,,NP
 sub,ozunp001,"Pablo Ozuna",0,2,12
-com,"White Sox 2B Tadahito Iguchi left the game due to an injured leg"
 play,3,0,everc001,10,.BX,43/G
 play,3,1,robeb003,00,,NP
 sub,ozunp001,"Pablo Ozuna",0,2,4
@@ -8108,8 +8074,6 @@ play,6,1,tejam001,11,CBX,43/G
 play,6,1,lopej001,00,X,63/G
 play,6,1,sosas001,01,CX,S9/L
 play,6,1,surhb001,00,H,HP.1-2
-com,"ej,buehm001,P,gormb901,Intentional HBP"
-com,"White Sox pitcher Mark Buehrle ejected by HP umpire Brian Gorman"
 play,6,1,gomec001,00,,NP
 sub,vizcl001,"Luis Vizcaino",0,0,1
 play,6,1,gomec001,12,..CFFFBS,K
@@ -8156,8 +8120,6 @@ sub,ryanb001,"B.J. Ryan",1,0,1
 play,9,0,konep001,22,.BBSFS,K
 play,9,0,piera001,02,SSS,K
 play,9,0,dye-j001,22,TBCBX,D94/P9LS
-com,"Surhoff lost pop in sun, it bounced off his chest and"
-com,"Roberts retrieved it."
 play,9,0,rowaa001,12,BFFFFS,K
 play,9,1,byrne001,00,,NP
 sub,hermd001,"Dustin Hermanson",0,0,1
@@ -8239,7 +8201,6 @@ play,2,0,green001,22,FBCBX,54(1)/FO/G.2-3
 play,2,0,lugoj001,01,FX,3/P3F
 play,2,1,sosas001,02,FFS,K
 play,2,1,freia001,00,X,8/F
-com,"Debut game for Alejandro Freire"
 play,2,1,matol001,31,BBCBB,W
 play,2,1,gomec001,32,1BB+1BCC>B,W.1-2
 play,2,1,robeb003,12,BST>C,K23
@@ -8258,8 +8219,6 @@ play,4,0,hallt001,00,1X,7/L
 play,4,1,freia001,12,BSSX,4/L
 play,4,1,matol001,01,SX,4/P
 play,4,1,gomec001,12,CBFC,K
-com,"ej,crowt101,C,hohnb901,Called third strike"
-com,"Orioles Batting Coach Terry Crowley ejected by HP umpire Bill Hohn"
 play,5,0,green001,10,.BX,D7/L
 play,5,0,lugoj001,02,CFX,4/P
 play,5,0,crawc002,01,SX,7/L
@@ -8307,8 +8266,6 @@ play,8,1,byrne001,00,X,8/F
 play,9,0,peree001,00,,NP
 sub,ryanb001,"B.J. Ryan",1,0,1
 play,9,0,peree001,32,.CBBFFBC,K
-com,"ej,peree001,P,hohnb901,Called third strike"
-com,"Devil Rays first baseman Eduardo Perez ejected by HP umpire Bill Hohn"
 play,9,0,holld002,22,.CBBFS,K
 play,9,0,hallt001,10,BX,S8/L-
 play,9,0,green001,22,CFBBC,K
@@ -8520,7 +8477,6 @@ play,2,1,gibbj002,32,BBFBF>B,W.1-2
 play,2,1,freia001,32,BBS*BFX,4/P/IF
 play,2,1,newhd001,12,CSFBFX,S9/L-.2-H;1-2
 play,2,1,matol001,12,FFBX,9/IF/P
-com,"$infield fly caught by an outfielder"
 play,2,1,robeb003,10,BX,8/L+
 play,3,0,gomej001,00,X,7/F
 play,3,0,hallt001,02,CFFFC,K
@@ -10416,7 +10372,6 @@ play,7,1,lopej001,20,.BBX,S9/F.2-H;1-3
 play,7,1,freia001,00,,NP
 sub,younw001,"Walter Young",1,6,11
 play,7,1,younw001,32,.BFC*BB>B,W.1-2
-com,"Debut game for Walter Young"
 play,7,1,byrne001,00,,NP
 sub,gomec001,"Chris Gomez",1,6,12
 play,7,1,byrne001,22,.BSSBFX,8/F
@@ -10433,7 +10388,6 @@ play,8,0,cataf001,01,CX,46(1)/FO/G
 play,8,1,matol001,00,,NP
 sub,marcs001,"Shaun Marcum",0,0,1
 play,8,1,matol001,02,.CFX,9/F
-com,"Debut game for Shaun Marcum"
 play,8,1,gil-g001,00,X,9/F
 play,8,1,robeb003,20,BBX,D9/L
 play,8,1,moram002,31,BBCBB,W
@@ -10443,7 +10397,6 @@ sub,rakea001,"Aaron Rakers",1,0,1
 play,9,0,zaung001,00,,NP
 sub,grifj002,"John-Ford Griffin",0,3,11
 play,9,0,grifj002,10,..BX,D8/L
-com,"Debut game for John-Ford Griffin"
 play,9,0,koskc001,22,BCSBX,8/L
 play,9,0,hills002,00,,NP
 sub,hilla001,"Aaron Hill",0,5,11
@@ -11626,7 +11579,6 @@ start,byrne001,"Eric Byrnes",1,7,7
 start,freia001,"Alejandro Freire",1,8,3
 start,newhd001,"David Newhan",1,9,9
 start,loper001,"Rodrigo Lopez",1,0,1
-com,"two rain delays totaling 1:51 at start of game"
 play,1,0,jeted001,10,BX,S8/G
 play,1,0,rodra001,31,SBBB1B,W.1-2
 play,1,0,giamj001,31,BBFBX,8/F.2-3
@@ -11641,9 +11593,6 @@ play,2,0,flahj001,02,CSX,9!/F
 play,2,0,crosb001,11,FBX,46(1)/FO/G
 play,2,1,tejam001,10,BX,9/F
 play,2,1,lopej001,22,CBBCFX,D7/L
-com,"$on the second pitch to Lopez, Johnson slipped off mound and threw"
-com,"the ball; it landed in foul territory on the 3B side and was called"
-com,"ball 1"
 play,2,1,matol001,02,MFX,8/F
 play,2,1,byrne001,32,CBFBFBX,8/F
 play,3,0,jeted001,11,BFX,43/G

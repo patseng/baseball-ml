@@ -262,7 +262,6 @@ sub,robik002,"Kerry Robinson",1,3,8
 play,6,0,ruscg001,00,,NP
 sub,cruze001,"Enrique Cruz",0,9,11
 play,6,0,cruze001,20,..BBX,63/G
-com,"Debut game for Enrique Cruz"
 play,6,0,sanca003,01,CX,43/G
 play,6,0,youne001,00,X,T9/L
 play,6,0,sexsr001,00,X,53/G
@@ -287,7 +286,6 @@ play,7,1,mathm001,22,BCCFFBFX,31/G
 play,8,0,clayr001,00,,NP
 sub,calek001,"Kiko Calero",1,9,1
 play,8,0,clayr001,11,.CBX,8/F
-com,"Debut game for Kiko Calero"
 play,8,0,fostj001,00,,NP
 sub,contj001,"Jason Conti",0,9,11
 play,8,0,contj001,22,.BBCSFS,K
@@ -302,7 +300,6 @@ sub,fordm001,"Matt Ford",0,9,1
 play,8,1,fassj001,00,,NP
 sub,delgw001,"Wilson Delgado",1,9,11
 play,8,1,delgw001,22,..CBSBFFFX,7/F
-com,"Debut game for Matt Ford"
 play,8,1,vinaf001,32,BCBCBX,5/P
 play,8,1,rente001,32,FBBCFFFBFFB,W
 play,8,1,robik002,02,FFFFX,8/F
@@ -881,7 +878,6 @@ play,2,1,mathm001,20,BBX,D8/L.2-H
 play,2,1,willw001,12,CCF*BFFX,S7/L.2-3
 play,2,1,vinaf001,00,X,S7/L.3-H;1-2
 play,2,1,palmo001,12,BFFX,4/P
-com,"Infield fly rule"
 play,2,1,roles001,00,X,9/F
 play,3,0,finls001,01,CX,3/G
 play,3,0,moelc001,00,X,53/G
@@ -937,7 +933,6 @@ play,7,1,marre001,31,BBCBX,S7/L
 play,7,1,mathm001,00,,NP
 sub,gooda001,"Andrew Good",0,9,1
 play,7,1,mathm001,22,.CBBS1FX,4/P
-com,"Debut game for Andrew Good"
 play,8,0,moelc001,00,,NP
 sub,fassj001,"Jeff Fassero",1,9,1
 play,8,0,moelc001,01,.FX,63/G
@@ -1225,13 +1220,7 @@ play,5,0,gracm001,00,X,13/G
 play,5,0,spivj001,31,BBBCB,W
 play,5,0,womat001,22,BBCFX,7/F
 play,5,1,martt002,10,BH,HP
-com,"$Tino Martinez hit on the shoulder blade"
 play,5,1,drewj001,22,BFSBFX,46(1)/FO/G
-com,"ej,batim001,P,gormb901,Fight after HBP"
-com,"ej,martt002,P,gormb901,Fight after HBP"
-com,"$Miguel Batista and Tino Martinez fight after force out; Batista"
-com,"threw the ball at Martinez during fight but missed; both players"
-com,"were ejected by HP umpire Brian Gorman"
 play,5,1,mathm001,00,,NP
 sub,villo001,"Oscar Villarreal",0,9,1
 play,5,1,mathm001,10,...1B1,PO1(E1).1-2
@@ -1289,9 +1278,6 @@ play,9,0,willm003,02,CFX,43/G
 play,9,0,gonzl001,10,BH,HP
 play,9,0,delld001,00,,NP
 sub,eldrc001,"Cal Eldred",1,2,1
-com,"ej,fassj001,P,gormb901,Intentional HBP"
-com,"ej,larut101,M,gormb901,Intentional HBP"
-com,"Cardinals Jeff Fassero and Manager Tony Larussa ejected by HP umpire Brian Gorman"
 play,9,0,delld001,32,...CBB1FB>F>X,S9/L.1-3
 play,9,0,overl001,12,FBFS,K
 play,9,1,rente001,21,CBBX,D9/F
@@ -1352,7 +1338,6 @@ start,rente001,"Edgar Renteria",1,6,6
 start,marre001,"Eli Marrero",1,7,7
 start,mathm001,"Mike Matheny",1,8,2
 start,morrm001,"Matt Morris",1,9,1
-com,"25 minute delay during game"
 play,1,0,alomr001,32,FBFFFBBFX,7/F
 play,1,0,peret004,01,CX,S4/G
 play,1,0,floyc001,31,BFBBB,W.1-2
@@ -1760,7 +1745,6 @@ sub,bellj001,"Jay Bell",0,9,5
 play,6,1,rente001,01,..FX,S5/BG.2-2
 play,6,1,marre001,10,BX,7/F
 play,6,1,mathm001,10,BX,5/P5
-com,"Infield fly rule"
 play,6,1,tomkb001,22,BCSBS,K
 play,7,0,sancr001,00,X,D7/L
 play,7,0,mcewj001,22,LFBFBX,3/G.2-3
@@ -2321,9 +2305,7 @@ play,2,0,guilj001,01,CX,8/F
 play,2,0,cases001,32,B*BBCCFFX,S9/G.1-3
 play,2,0,keara001,00,,NP
 sub,lopef001,"Felipe Lopez",0,1,12
-com,"Reds Barry Larkin left the game due to an injured leg"
 play,2,0,keara001,01,..CX,4/P
-com,"Infield Fly rule"
 play,2,0,boona001,01,SX,D7/G.3-H;1-H
 play,2,0,dunna001,00,,NP
 sub,calek001,"Kiko Calero",1,9,1
@@ -2935,8 +2917,6 @@ play,7,0,oleat001,31,BBBCB,W
 play,7,0,aloum001,20,BBX,DGR/9/F.3-H;1-3
 play,7,0,karre001,10,BX,63/G
 play,7,1,martt002,12,BCFC,K
-com,"ej,larut101,M,hollm901,Balls and strikes"
-com,"Cardinals Manager Tony Larussa ejected by HP umpire Matt Hollowell"
 play,7,1,widgc001,22,BSC.BFFX,7/L
 play,7,1,tomkb001,00,,NP
 sub,palmo001,"Orlando Palmeiro",1,9,11
@@ -3058,8 +3038,6 @@ play,3,1,roles001,32,BBCFFBFX,9/F
 play,3,1,peree001,12,BCSX,D7/G
 play,3,1,rente001,32,FBBFFBX,53/G
 play,3,1,mathm001,10,BX,3/L
-com,"ej,rothl101,C,wegnm901,Balls and strikes"
-com,"Cubs Coach Larry Rothschild ejected by HP umpire Mark Wegner"
 play,4,0,pattc001,02,.CFS,K
 play,4,0,aloum001,20,BBX,63/G
 play,4,0,oleat001,20,BBX,31/G
@@ -3655,7 +3633,6 @@ play,2,0,vizcj001,12,BCFX,S7/G
 play,2,0,ausmb001,11,FBX,8/L
 play,2,1,edmoj001,00,,NP
 sub,palmo001,"Orlando Palmeiro",1,4,11
-com,"Cardinals Jim Edmonds left the game due to an injured chest"
 play,2,1,palmo001,01,F..X,63/G
 play,2,1,roles001,12,CFBX,63/G
 play,2,1,rente001,32,CBFBBB,W
@@ -4751,15 +4728,6 @@ play,2,0,hudso001,22,BCCBX,43/G-
 play,2,1,peree001,32,BBCCBB,W
 play,2,1,martt002,22,CCBBX,S7/L.1-2
 play,2,1,mathm001,11,LBX,S7/L.2-3;1-2
-com,"ej,toscc801,C,danlk901,Catch/no catch call"
-com,"$3B Umpire Kerwin Danley ruled that Catalanotto caught"
-com,"Matheny's sinking liner; Perez was doubled off 2B and"
-com,"Martinez was tagged on the base line between 1B & 2B"
-com,"for an apparent triple play; La Russa argued the catch"
-com,"and the fact that Perez waited to run until after the"
-com,"catch; the call was reversed and all runners returned"
-com,"to the bases Blue Jays Manager Carlos Tosca ejected"
-com,"by 1B umpire Rob Drake"
 play,2,1,willw001,01,.SX,53/G.3-H;2-3;1-2
 play,2,1,cairm001,01,SX,8/SF.3-H
 play,2,1,edmoj001,02,SSS,K
@@ -4965,7 +4933,6 @@ play,5,0,matol001,00,X,S7/G.2-H
 play,5,0,moram002,22,BCB>SX,2/INT/G.1-1
 play,5,0,conij001,00,,NP
 sub,mathm001,"Mike Matheny",1,8,2
-com,"Cardinals Chris Widger left the game due to an injured arm"
 play,5,0,conij001,11,..CBX,43/G
 play,5,1,rente001,00,,NP
 sub,bauer001,"Rick Bauer",0,9,1
@@ -5146,8 +5113,6 @@ play,6,0,cruzd001,12,.CS1FB>S,K
 play,6,1,drewj001,12,CFBX,63/G
 play,6,1,pujoa001,22,CSBFBS,K
 play,6,1,edmoj001,22,SFBBC,K
-com,"ej,edmoj001,P,froeb901,Called third strike"
-com,"Cardinals Jim Edmonds ejected by HP umpire Bruce Froemming"
 play,7,0,fordb001,00,,NP
 sub,robik002,"Kerry Robinson",1,4,8
 play,7,0,fordb001,00,..X,7/F
@@ -5266,9 +5231,6 @@ play,3,1,rente001,02,C1FX,9/F
 play,3,1,martt002,31,BBB1CX,S7/L.1X3(75)
 play,3,1,mathm001,11,BMX,43/G
 play,4,0,moram002,12,CBCX,43/G
-com,"ej,surhb001,P,eddid901,Bench jockeying on balls and strikes"
-com,"Orioles B. J. Surhoff ejected by HP umpire Doug Eddings"
-com,"for bench jockeying"
 play,4,0,conij001,12,BS.CS,K
 play,4,0,gibbj002,12,SBCX,D9/L
 play,4,0,batit001,02,CSX,DGR/7/F.2-H
@@ -5616,8 +5578,6 @@ play,4,1,hartb001,00,X,8/F
 play,5,0,tuckm001,22,SCBBC,K
 play,5,0,berra001,22,BBFSFC,K
 play,5,0,maynb001,21,CBBX,8/F
-com,"ej,penat001,M,fostm901,Balls and strikes"
-com,"Royals Manager Tony Pena ejected by HP umpire Marty Foster"
 play,5,1,edmoj001,22,.SFBFFBS,K
 play,5,1,pujoa001,30,BBBX,2/P2F
 play,5,1,rente001,00,X,S7/L+
@@ -6225,8 +6185,6 @@ sub,isrij001,"Jason Isringhausen",1,9,1
 play,9,0,olmer001,00,,NP
 sub,guilj001,"Jose Guillen",0,8,11
 play,9,0,guilj001,12,..BSSC,K
-com,"ej,guilj001,P,hollm901,Called third strike"
-com,"Reds Jose Guillen ejected by HP umpire Matt Hollowell"
 play,9,0,dempr002,00,,NP
 sub,branr001,"Russell Branyan",0,9,11
 play,9,0,branr001,22,..SBBSFC,K
@@ -6462,7 +6420,6 @@ start,mathm001,"Mike Matheny",1,7,2
 start,delgw001,"Wilson Delgado",1,8,6
 start,hared001,"Danny Haren",1,9,1
 play,1,0,durhr001,32,CBFBFBX,8/F
-com,"Debut game for Danny Haren"
 play,1,0,peren001,00,X,D9/L
 play,1,0,grism001,12,CBFX,D9/L.2-H
 play,1,0,bondb001,00,X,8/F.2-3
@@ -7653,8 +7610,6 @@ play,11,1,drewj001,00,,NP
 sub,buchb002,"Brian Buchanan",0,8,9
 play,11,1,drewj001,22,..SCFBBX,S3/G
 play,11,1,pujoa001,10,BX,HR/7/F.1-H
-com,"$Albert Pujols stood at the plate a long time watching his"
-com,"home run and the Padres were not happy"
 data,er,pereo002,5
 data,er,hackl001,1
 data,er,mattm001,0
@@ -7724,17 +7679,6 @@ play,1,1,martt002,00,,NP
 sub,hackl001,"Luther Hackman",0,9,1
 play,1,1,martt002,00,,NP
 sub,palmo001,"Orlando Palmeiro",1,3,12
-com,"ej,eatoa001,P,carlm901,Intentional HBP"
-com,"ej,bochb002,M,carlm901,Protesting Eaton ejection"
-com,"ej,benng001,P,carlm901,Fighting with Albert Pujols"
-com,"ej,pujoa001,P,carlm901,Fighting with Gary Bennett"
-com,"$the Padres thought Albert Pujols stood at HP too long admiring"
-com,"his game-ending homer the previous night; when Adam Eaton hit"
-com,"Pujols with his first pitch, Eaton was ejected by HP umpire Mark"
-com,"Carlson; Pujols punch catcher Gary Bennett in the face; Pujols,"
-com,"Bennett and Padres Manager Bruce Bochy were ejected by Carlson;"
-com,"Eaton said he threw a slow curve ball to hit Pujols and did not"
-com,"understand why he was ejected"
 play,1,1,martt002,01,C1B,PB.1-2
 play,1,1,martt002,11,C1B.X,2/P2F
 play,2,0,burrs001,00,,NP
@@ -8057,7 +8001,6 @@ play,1,0,nunea001,01,CX,T9/F
 play,1,0,gileb002,20,BBX,S8/G.3-H
 play,1,0,staim001,31,BBCBB,W.1-2
 play,1,0,wilsc003,01,CX,3/P
-com,"Infield Fly rule"
 play,1,0,simor001,20,BBX,13/G
 play,1,1,hartb001,22,CBCBX,S5/G.B-2(E5/TH)
 play,1,1,drewj001,21,BBSX,31/G.2-3
@@ -8281,7 +8224,6 @@ play,7,0,nunea001,21,.SB*BX,13/SH/BG.3-H;2-3
 play,7,0,torrs001,02,CSFX,S3/G.3-H
 play,7,0,kendj001,00,,NP
 sub,simoj001,"Jason Simontacchi",1,2,1
-com,"Cardinals Lance Painter left the game due to an injured groin"
 play,7,0,kendj001,00,,NP
 sub,robik002,"Kerry Robinson",1,7,8
 play,7,0,kendj001,00,,NP
@@ -9235,7 +9177,6 @@ play,5,0,jonea002,22,CBCBS,K
 play,5,1,mathm001,00,X,S8/L
 play,5,1,palmo001,01,L1X,FC1/SH/BG.1-2
 play,5,1,willw001,11,LB+2>X,6/LTP.2X2(6);1X1(6)
-com,"$12th unassisted TP in ML history"
 play,6,0,fickr001,01,CX,4/P
 play,6,0,lopej001,10,BX,63/G
 play,6,0,castv001,12,FFBX,43/G
@@ -10215,7 +10156,6 @@ play,6,0,polap001,12,BCFFFX,S7/G
 play,6,0,abreb001,21,BCBX,8/F
 play,6,0,thomj002,32,BBBCS>B,W.1-2
 play,6,0,liebm001,32,CFB*BBX,4/P
-com,"Infield Fly rule"
 play,6,0,burrp001,32,BBBFF>B,W.2-3;1-2
 play,6,0,utlec001,12,FFBFX,5!4(1)/FO/G
 play,6,1,roles001,12,CFBX,D7/G
@@ -11006,7 +10946,6 @@ play,5,0,branr001,32,BBSSBB,W
 play,5,0,laruj001,00,,NP
 sub,sardd001,"Dane Sardinha",0,6,11
 play,5,0,sardd001,02,.SFC,K
-com,"Debut game for Dane Sardinha"
 play,5,1,willw001,00,,NP
 sub,sardd001,"Dane Sardinha",0,6,2
 play,5,1,willw001,22,.CBBFX,D9/L
@@ -11170,7 +11109,6 @@ play,6,0,valee002,22,FBCFBX,9/F
 play,6,1,drewj001,00,,NP
 sub,belim001,"Matt Belisle",0,9,1
 play,6,1,drewj001,32,.BBCBCFFFB,W
-com,"Debut game for Matt Belisle"
 play,6,1,pujoa001,00,,NP
 sub,tagus001,"So Taguchi",1,2,12
 play,6,1,pujoa001,11,*BCX,4/L
@@ -11842,7 +11780,6 @@ sub,cruze001,"Enrique Cruz",0,2,5
 play,6,1,roles001,00,,NP
 sub,weekr001,"Rickie Weeks",0,6,4
 play,6,1,roles001,02,..FFFX,2/P2F
-com,"Debut game for Rickie Weeks"
 play,6,1,martt002,01,CX,63/G
 play,6,1,rente001,10,BX,D7/L
 play,6,1,widgc001,22,CFBBFX,S5/G.2-H(E5/TH)(UR)(NR)
@@ -12118,7 +12055,6 @@ play,2,1,rente001,31,1CBBBX,D7/L.1-3
 play,2,1,widgc001,12,CBCS,K
 play,3,0,sheeb001,12,CBCS,K
 play,3,0,podss001,12,CBCX,S3/G
-com,"originally scored E3, changed next day"
 play,3,0,contj001,02,CC1X,3/P3F
 play,3,0,gintk001,00,>B,SB2
 play,3,0,gintk001,30,>B.BBB,W

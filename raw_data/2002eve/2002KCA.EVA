@@ -108,7 +108,6 @@ play,7,0,buchb002,02,FFX,S7
 play,7,0,piera001,01,CX,43/G.1-2
 play,7,0,rival001,00,X,S.2-3
 play,7,0,jonej003,00,X,HR/89.3-H;1-H
-com,"$multi-homer Opening Day for Jones"
 play,7,0,guzmc001,00,X,43/G
 play,7,0,miend001,10,BX,S/89
 play,7,0,ortid001,21,BCBX,D9.1-3
@@ -542,7 +541,6 @@ play,5,1,knobc001,10,BX,63/G
 play,6,0,loftk001,00,,NP
 sub,affej001,"Jeremy Affeldt",1,0,1
 play,6,0,loftk001,12,CCBS,K
-com,"Debut game for Jeremy Affeldt"
 play,6,0,durhr001,10,BX,9/F9
 play,6,0,thomf001,11,CBX,S/89S
 play,6,0,ordom001,00,X,8/F8
@@ -565,7 +563,6 @@ play,7,1,hinca001,32,CBSBBFC,K/C
 play,8,0,loftk001,00,,NP
 sub,asenm001,"Miguel Asencio",1,0,1
 play,8,0,loftk001,30,BBBB,W
-com,"Debut game for Miguel Asencio"
 play,8,0,durhr001,30,BBBB,W.1-2
 play,8,0,thomf001,20,BBB,WP.2-3;1-2
 play,8,0,thomf001,30,BBBB,W
@@ -668,7 +665,6 @@ start,suppj001,"Jeff Suppan",1,0,1
 play,1,0,loftk001,22,CBCFBFX,3/G#
 play,1,0,durhr001,12,CCBFS,K
 play,1,0,thomf001,11,FBX,HR/7
-com,"Broke bat in half on homer"
 play,1,0,ordom001,22,BSFBX,S
 play,1,0,konep001,00,X,64(1)/FO
 play,1,1,knobc001,32,BBCBCFX,63/G
@@ -936,7 +932,6 @@ start,peren001,"Neifi Perez",1,7,6
 start,maynb001,"Brent Mayne",1,8,2
 start,feblc001,"Carlos Febles",1,9,4
 start,reicd001,"Dan Reichert",1,0,1
-com,"Debut for umpire Darren Spagnardi"
 play,1,0,damoj001,21,BBCX,63/G
 play,1,0,offej001,22,FBBFX,7/L7
 play,1,0,garcn001,10,BX,8/F8
@@ -1300,7 +1295,6 @@ play,7,1,tuckm001,00,,NP
 sub,santj001,"Julio Santana",0,0,1
 play,7,1,tuckm001,01,CH,HP
 play,7,1,beltc001,20,BBX,26(1)/FO.BX2(36)
-com,"looks like overthrow, so no DP"
 play,7,1,sweem002,22,CFFBBX,S
 play,7,1,randj002,10,BX,4/P4
 play,8,0,rivem003,12,CBSS,K
@@ -1669,7 +1663,6 @@ play,4,1,knobc001,12,CFBX,54(1)/FO
 play,4,1,tuckm001,00,,NP
 sub,drist001,"Travis Driskill",0,0,1
 play,4,1,tuckm001,12,CSBX,S8.1-H(E8);B-2
-com,"Debut game for Travis Driskill"
 play,4,1,beltc001,11,CBX,D7.2-H
 play,4,1,sweem002,31,BBFBX,D8/8D.2-H
 play,4,1,ibanr001,00,X,2/FL
@@ -2110,8 +2103,6 @@ play,1,0,thomj002,12,CFBFFX,43/G.2-3;1-2
 play,1,0,burke001,21,BBSX,D9.3-H;2-H
 play,1,0,frymt001,31,SBBBB,W
 play,1,0,branr001,22,SSBBC,K/C
-com,"ej,branr001,P,guccc901,Called third strike"
-com,"Russell Branyan ejected by HP umpire Chris Guccione"
 play,1,1,knobc001,00,,NP
 sub,andeb001,"Brady Anderson",0,7,7
 play,1,1,knobc001,11,BCX,8/F8
@@ -2834,7 +2825,6 @@ start,bergb001,"Brandon Berger",1,7,9
 start,hinca001,"A.J. Hinch",1,8,2
 start,feblc001,"Carlos Febles",1,9,4
 start,steib002,"Blake Stein",1,0,1
-com,"$Tony Pena new KC manager"
 play,1,0,jonej003,10,BX,HR/8
 play,1,0,guzmc001,00,X,S
 play,1,0,huntt001,01,CX,54(1)/FO
@@ -3367,7 +3357,6 @@ play,8,0,younm003,00,,NP
 sub,kaplg001,"Gabe Kapler",0,1,12
 play,8,0,younm003,00,X,13/SH.1-2#
 play,8,0,rodra001,01,CX,S8/78.2-H;B-H(E8/THH)(E2)(UR)
-com,"apparently Brito made error after overthrow"
 play,8,0,palmr001,02,FCS,K
 play,8,0,gonzj002,22,CBFBC,K/C
 play,8,1,sweem002,00,,NP
@@ -3935,7 +3924,6 @@ play,1,0,vinaf001,22,BBCFX,8/F8
 play,1,0,polap001,32,BBBCCFC,K/C
 play,1,0,drewj001,21,BCBX,E3/G
 play,1,0,pujoa001,10,BX,D9/F89S.1-H(UR);BX2(86)
-com,"$Quinn hurt diving for ball, left game"
 play,1,1,peren001,11,BFX,S8
 play,1,1,alicl001,32,BBFFBX,43/G.1-2
 play,1,1,beltc001,32,BBBCCX,3/G.2-3#
@@ -4151,8 +4139,6 @@ play,4,0,martt002,22,BCFBS,K
 play,4,0,rente001,31,SBBBB,W
 play,4,0,cairm001,00,C,SB2.1-3(WP)
 play,4,0,cairm001,32,CBFBBS,K
-com,"ej,johnl101,C,cousd901,Unknown reason"
-com,"Royals coach Lamar Johnson ejected by HP umpire Derryl Cousins in 4th"
 play,4,1,bergb001,30,BBBX,53/G
 play,4,1,alicl001,21,BCBX,53/G
 play,4,1,maynb001,00,X,8/F8
@@ -4715,7 +4701,6 @@ play,5,1,ibanr001,00,,NP
 sub,tuckm001,"Michael Tucker",1,4,12
 play,5,1,ibanr001,02,CCX,7/F7
 play,5,1,bergb001,00,X,3/FL
-com,"game called for rain after 1:10 delay"
 data,er,tejem001,4
 data,er,olsek001,2
 data,er,may-d002,0
@@ -6063,7 +6048,6 @@ sub,bukvr001,"Ryan Bukvich",1,0,1
 play,7,0,nievj002,00,,NP
 sub,fabrj001,"Jorge Fabregas",0,8,11
 play,7,0,fabrj001,22,BBFSX,64(1)3/GDP
-com,"Debut game for Ryan Bukvich"
 play,7,1,ibanr001,00,,NP
 sub,fabrj001,"Jorge Fabregas",0,8,2
 play,7,1,ibanr001,00,,NP
@@ -6184,8 +6168,6 @@ play,4,1,tuckm001,12,BCCX,4/P4
 play,4,1,peren001,10,BX,8/F8S
 play,4,1,maynb001,31,BBSBX,S8
 play,4,1,guiea001,12,CBCX,3/G#
-com,"ej,penat001,M,ripps901,Call at 1B"
-com,"Royals Manager Tony Pena ejected by 1B umpire Steve Rippley"
 play,5,0,fabrj001,10,BX,63/G
 play,5,0,kenna001,11,BSX,S9
 play,5,0,ecksd001,22,BCSFFBH,HP.1-2
@@ -6589,7 +6571,6 @@ start,hinca001,"A.J. Hinch",1,8,2
 start,carum001,"Mike Caruso",1,9,4
 start,hernr003,"Runelvys Hernandez",1,0,1
 play,1,0,cataf001,22,CBSBS,K
-com,"Debut game for Runelvys Hernandez"
 play,1,0,younm003,32,FSBBBFX,53/G
 play,1,0,rodra001,31,BCBBX,S9
 play,1,0,palmr001,01,CX,D/78D.1-H
@@ -8645,7 +8626,6 @@ play,2,1,guiea001,12,BFSC,K/C
 play,3,0,sandj001,32,BSBSBFFX,HR/78
 play,3,0,cox-s001,12,FBFX,3/G#
 play,3,0,hallt001,01,CX,S6.B-2(E6/TH1)
-com,"originally scored E6 all the way"
 play,3,0,contj001,02,FCFX,63/G.2-3
 play,3,0,grieb001,31,BBFBB,W
 play,3,0,sheea001,11,SBX,HR/8.3-H;1-H
@@ -9090,13 +9070,11 @@ play,1,1,peren001,01,CX,7/F7
 play,1,1,beltc001,02,CFS,K
 play,1,1,sweem002,31,BFBBX,53/G
 play,2,0,ventr001,31,BBCBX,D9
-com,"originally scored as E9"
 play,2,0,posaj001,22,FBBFC,K/C
 play,2,0,mondr002,20,BBX,53/G
 play,2,0,whitr001,02,FFFC,K/C
 play,2,1,randj002,10,BX,S9
 play,2,1,pellk001,11,BSX,7/F7
-com,"Debut game for Kit Pellow"
 play,2,1,guiea001,12,BCCFS,K
 play,2,1,maynb001,11,FBX,9/F9
 play,3,0,spens001,22,BCBFFFFX,13/G
@@ -9356,7 +9334,6 @@ play,7,0,mondr002,11,BFX,S7/7S.1-2
 play,7,0,vandj001,00,,NP
 sub,coomr001,"Ron Coomer",0,7,11
 play,7,0,coomr001,01,CX,685(2)/FO.1-2
-com,"#pop fly juggled by Perez, played by Beltran for force"
 play,7,0,spens001,01,SX,64(1)/FO
 play,7,1,guiea001,00,,NP
 sub,coomr001,"Ron Coomer",0,7,3
@@ -10148,7 +10125,6 @@ play,9,0,justd001,02,CFX,S9.1-2
 play,9,0,dye-j001,00,,NP
 sub,byrne001,"Eric Byrnes",0,4,12
 play,9,0,dye-j001,32,CFBBBX,D7.2-H;1XH(762)
-com,"$vicious elbow by Byrnes to head of Mayne, who held ball"
 play,9,0,chave001,30,IIII,IW
 play,9,0,velar001,00,,NP
 sub,mabrj001,"John Mabry",0,7,11
@@ -10774,7 +10750,6 @@ play,7,0,camem001,30,BBBB,W.2-3;1-2
 play,7,0,davib003,00,,NP
 sub,hillj001,"Jeremy Hill",1,0,1
 play,7,0,davib003,12,FBFX,S7.3-H;2-H;1-2
-com,"Debut game for Jeremy Hill"
 play,7,0,cirij001,31,BFBBB,W.2-3;1-2
 play,7,0,suzui001,02,CFS,K
 play,7,1,maynb001,00,,NP
@@ -11029,8 +11004,6 @@ play,11,0,camem001,00,,NP
 sub,alicl001,"Luis Alicea",1,1,9
 play,11,0,camem001,00,,NP
 sub,tuckm001,"Michael Tucker",1,6,7
-com,"Tucker and Alicea did the L-R switch, don't know when."
-com,"making guesses here on R vs L of batters"
 play,11,0,camem001,22,FCBBC,K/C
 play,11,0,relad001,00,X,S8
 play,11,0,marte001,31,BFBBB,W.1-2
@@ -11725,7 +11698,6 @@ start,browd002,"Dee Brown",1,8,7
 start,peren001,"Neifi Perez",1,9,4
 start,oberw001,"Wes Obermueller",1,0,1
 play,1,0,bradm001,11,BFX,S
-com,"Debut game for Wes Obermueller"
 play,1,0,vizqo001,11,CBX,5/FL
 play,1,0,burke001,00,X,HR/78.1-H
 play,1,0,thomj002,10,BX,HR/78
@@ -12218,7 +12190,6 @@ play,2,0,lombg001,02,CCS,K
 play,2,1,randj002,31,BFBBX,13/G
 play,2,1,tuckm001,21,BBCX,E2/TH1/BG2.B-2
 play,2,1,berra001,21,BBFB,WP.2-H(E5)(UR)
-com,"$to 3B on WP, then Halter missed throw"
 play,2,1,berra001,32,BBFBCX,8/F8
 play,2,1,maynb001,32,CBBFBX,7/F7D
 play,3,0,torra001,30,BBBB,W
@@ -12302,7 +12273,6 @@ sub,tuckm001,"Michael Tucker",1,6,4
 play,8,0,rivem003,00,,NP
 sub,bukvr001,"Ryan Bukvich",1,1,1
 play,8,0,rivem003,31,BBCBX,3/G#
-com,"Debut game for Dusty Wathan"
 play,8,0,munse001,12,CFBFX,8/F8
 play,8,0,halts001,11,BCX,8/F8
 play,8,1,ordal001,00,,NP
@@ -12386,7 +12356,6 @@ start,byrdp001,"Paul Byrd",1,0,1
 play,1,0,torra001,12,CSFBX,63/G
 play,1,0,infao001,12,CBSS,K
 play,1,0,fickr001,00,H,HP
-com,"$Fick hit in leg"
 play,1,0,penac001,01,CX,D7.1-3
 play,1,0,simor001,11,BFX,S8.3-H;2-H
 play,1,0,halts001,11,CBX,HR/7.1-H
@@ -12407,7 +12376,6 @@ play,2,0,torra001,00,X,43/BG.1-2
 play,2,0,infao001,12,BCSS,K
 play,2,1,beltc001,00,,NP
 sub,bocah001,"Hiram Bocachica",0,3,9
-com,"$Fick left with stiffness in right hamstring"
 play,2,1,beltc001,12,SBFS,K
 play,2,1,sweem002,00,X,3/P3
 play,2,1,ibanr001,10,BX,63/G
@@ -12457,8 +12425,6 @@ play,7,1,ibanr001,00,,NP
 sub,walkj001,"Jamie Walker",0,0,1
 play,7,1,ibanr001,32,SBBFBFX,6/P6
 play,7,1,randj002,01,FX,S9/P9S.1XH(9462)
-com,"$Sweeney to 3B; Randa tried for 2B but was caught in rundown;"
-com,"Sweeney tried for home"
 play,8,0,lombg001,22,BBSCS,K
 play,8,0,easld001,00,,NP
 sub,grimj001,"Jason Grimsley",1,0,1

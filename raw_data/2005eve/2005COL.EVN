@@ -56,7 +56,6 @@ play,1,1,wilsp002,00,X,HR/8/F.2-H;1-H
 play,1,1,hollm001,12,CFBX,S9/L
 play,1,1,mohrd001,22,BBF1F1>X,463/G.1-2
 play,1,1,bakej001,22,BFBSX,43/G.2-3
-com,"Debut game for Jeff Baker"
 play,1,1,closj001,22,CBBCX,2/P
 play,2,0,nadyx001,31,BBBCB,W
 play,2,0,burrs001,31,BBCBX,6/P
@@ -163,8 +162,6 @@ sub,speir001,"Ryan Speier",1,5,1
 play,9,0,hyzda001,00,,NP
 sub,sullc001,"Cory Sullivan",1,9,7
 play,9,0,hyzda001,22,..CCBBX,4/P/IF
-com,"Debut game for Ryan Speier"
-com,"Debut game for Cory Sullivan"
 play,9,0,greek002,31,BBCBB,W.2-3;1-2
 play,9,0,lorem001,20,BBX,64(1)/FO/G
 play,9,1,mohrd001,00,,NP
@@ -334,7 +331,6 @@ play,7,1,hollm001,22,CBSBFFFT,K
 play,8,0,nadyx001,00,,NP
 sub,carvm001,"Marcos Carvajal",1,9,1
 play,8,0,nadyx001,12,.CBSX,9/F
-com,"Debut game for Marcos Carvajal"
 play,8,0,greek002,20,BBX,4/P
 play,8,0,youne001,01,FX,7/F
 play,8,1,greet003,00,,NP
@@ -455,9 +451,6 @@ play,3,1,barmc001,12,CBCX,S7/F
 play,3,1,heltt001,20,*BBX,7/F
 play,4,0,tuckm001,11,BFX,6/P
 play,4,0,grism001,11,BCX,DGR/7/F
-com,"$Originally ruled homer by one umpire, so Grissom slowed"
-com,"down; throw came to 3B and he was tagged out; after long"
-com,"conference, it was ruled fan interference"
 play,4,0,mathm001,32,BFFFBBX,D7/F.2-H
 play,4,0,lowrn001,11,FBX,S4/G.2-3
 play,4,0,durhr001,11,BFX,8/SF.3-H
@@ -537,8 +530,6 @@ play,8,1,relad001,10,.BX,64(1)/FO/G
 play,8,1,barmc001,02,CCFS,K
 play,8,1,heltt001,21,BBFX,S8/L.1-2
 play,8,1,wilsp002,32,FBBSF*B>C,K
-com,"ej,wilsp002,P,onorb901,Called third strike"
-com,"Rockies center fielder Preston Wilson ejected by HP umpire Brian O'Nora"
 play,9,0,mathm001,00,,NP
 sub,relad001,"Desi Relaford",1,1,8
 play,9,0,mathm001,00,,NP
@@ -1049,9 +1040,6 @@ sub,wilsp002,"Preston Wilson",1,6,8
 play,9,0,gonzl001,00,,NP
 sub,carvm001,"Marcos Carvajal",1,9,1
 play,9,0,gonzl001,02,...CFFC,K
-com,"ej,gonzl001,P,guccc901,Called third strike"
-com,"Diamondbacks left fielder Luis Gonzalez ejected by HP"
-com,"umpire Chris Guccione"
 play,9,0,glaut001,31,.BCBBB,W
 play,9,0,grees001,00,X,8/F
 play,9,0,tracc001,32,CFBBF*B>F>X,43/G
@@ -1671,8 +1659,6 @@ sub,carrg001,"Giovanni Carrara",0,9,1
 play,7,1,milea001,22,.BBCFFX,5/L
 play,7,1,barmc001,01,CX,63/G
 play,7,1,heltt001,22,CBCBX,53/G
-com,"ej,wallt001,C,cuzzp901,Balls and strikes"
-com,"Dodgers Batting Coach Tim Wallach ejected by HP umpire Phil Cuzzi"
 play,8,0,drewj001,02,.SFH,HP
 play,8,0,kentj001,00,,NP
 sub,kim-b001,"Byung-Hyun Kim",1,9,1
@@ -3123,9 +3109,6 @@ play,6,0,hergm001,00,,NP
 sub,tuckm001,"Michael Tucker",0,9,11
 play,6,0,tuckm001,32,..BBCBFB,W
 play,6,0,durhr001,10,BX,S/BR/G.1X2(3)
-com,"ej,pujol001,C,diazl901,Protecting Michael Tucker"
-com,"$Michael Tucker got in 1B umpire Laz Diaz' face; 1B Coach Luis Pujols protected him and"
-com,"was ejected by Diaz"
 play,6,0,vizqo001,02,LFX,S9/L.1-3
 play,6,0,felip001,02,CFX,6/P
 play,6,0,aloum001,01,CX,43/G
@@ -3331,8 +3314,6 @@ sub,cruzd001,"Deivi Cruz",0,6,11
 play,9,0,cruzd001,01,.1L1X,T4/L.1-H
 play,9,0,ellij001,12,BSCFX,4/G
 play,9,0,mathm001,02,FCX,8/LDP.3XH(82)
-com,"ej,cruzd001,P,diazl901,Call at HP"
-com,"Giants shortstop Deivi Cruz ejected by HP umpire Laz Diaz"
 play,9,1,barmc001,00,,NP
 sub,walkt003,"Tyler Walker",0,6,1
 play,9,1,barmc001,02,..CFX,9/F
@@ -3397,7 +3378,6 @@ play,1,0,felip001,01,CX,8/F
 play,1,1,relad001,11,CBX,S7/G
 play,1,1,sullc001,10,B1X,S7/L.1-2
 play,1,1,heltt001,32,CBBSBX,4/P/IF.2-3;1-2
-com,"$Infield fly that Durham dropped"
 play,1,1,mohrd001,12,BFSS,K
 play,1,1,hawpb001,31,FBBBB,W
 play,1,1,atkig001,10,BX,63/G
@@ -3460,8 +3440,6 @@ play,7,1,acevj002,00,,NP
 sub,hollm001,"Matt Holliday",1,9,11
 play,7,1,hollm001,22,..BCBFFX,43/G
 play,7,1,relad001,22,CBLBX,S4/G
-com,"originally score S4, changed to E4 after game,"
-com,"changed back to S4 the next day"
 play,7,1,sullc001,01,FX,S7/G.1-2
 play,7,1,heltt001,00,,NP
 sub,eyres001,"Scott Eyre",0,9,1
@@ -3595,8 +3573,6 @@ play,6,1,hollm001,11,FBX,6(1)/FO/G.2-3
 play,6,1,relad001,32,CBBS1F*B>B,W.1-2
 play,6,1,closj001,00,B,WP.3-H(NR);2-3;1-2
 play,6,1,closj001,32,B.FFFBBB,W
-com,"ej,duncd101,C,marqa901,Balls and strikes"
-com,"Cardinals Pitching Coach Dave Duncan ejected by HP umpire Alfonso Marquez"
 play,6,1,wrigj001,00,,NP
 sub,sullc001,"Cory Sullivan",1,9,11
 play,6,1,sullc001,22,..SBFFBFX,S6/G.3-H;2-3;1-2
@@ -4304,7 +4280,6 @@ play,7,1,hollm001,12,FBSFX,S8/F
 play,7,1,wilsp002,20,BBX,HR/7/F.1-H
 play,7,1,mohrd001,00,X,8/L
 play,7,1,atkig001,12,CCBX,S3/L
-com,"originally scored E3, changed on 0606 to S3"
 play,7,1,relad001,00,X,9/F
 play,8,0,randj002,02,CCX,S8/G
 play,8,0,aurir001,11,CBB,WP.1-2
@@ -5026,7 +5001,6 @@ play,3,1,garae001,02,CFX,S5/G
 play,3,1,ardod001,12,11CFBS,K
 play,4,0,dye-j001,00,,NP
 sub,mohrd001,"Dustan Mohr",1,4,7
-com,"Rockies LF Matt Holliday left the game due to an injured hand/wrist"
 play,4,0,dye-j001,11,.BCX,S6/G
 play,4,0,widgc001,02,CF1X,5/P
 play,4,0,uribj002,32,BSBFFBF1X,7/F
@@ -5063,7 +5037,6 @@ play,7,1,sullc001,21,BCBX,34/SH/BG.1-2
 play,7,1,relad001,11,BSX,5/P5F
 play,7,1,heltt001,00,,NP
 sub,polic001,"Cliff Politte",0,9,1
-com,"White Sox pitcher Damaso Marte left the game due to an injured arm"
 play,7,1,heltt001,32,*B.CBSBB,W
 play,7,1,mohrd001,12,BFTC,K
 play,8,0,konep001,00,,NP
@@ -5214,7 +5187,6 @@ play,6,0,yound001,02,SFX,4(1)3/GDP
 play,6,1,heltt001,11,FBX,43/G
 play,6,1,wilsp002,32,BBFCBB,W
 play,6,1,mohrd001,00,1,POCS2(134)
-com,"changed from PO to POCS on 6-18"
 play,6,1,mohrd001,01,1.FX,S7/L
 play,6,1,atkig001,10,BX,HR/9/F.1-H
 play,6,1,relad001,11,BCX,4/P
@@ -5376,8 +5348,6 @@ play,7,0,rodri001,32,BSBFFBB,W
 play,7,0,monrc001,01,C>X,63/G
 play,7,1,sullc001,00,,NP
 sub,walkj001,"Jamie Walker",0,9,1
-com,"ej,nealb001,P,kulpr901,Balls and strikes"
-com,"Rockies pitcher Blaine Neal ejected by HP umpire Ron Kulpa"
 play,7,1,sullc001,31,.BBCBX,9/F
 play,7,1,relad001,32,BCCFBBFX,13/G
 play,7,1,heltt001,01,CX,7/F
@@ -6817,7 +6787,6 @@ play,6,1,mohrd001,00,,NP
 sub,desse001,"Elmer Dessens",0,3,1
 play,6,1,mohrd001,00,,NP
 sub,perea001,"Antonio Perez",0,9,4
-com,"Dodgers second baseman Jeff Kent left the game due to an injured leg"
 play,6,1,mohrd001,22,..FBBCX,S9/L-
 play,6,1,hawpb001,22,SCBB1S,K
 play,6,1,closj001,00,>B,SB2
@@ -7137,8 +7106,6 @@ play,7,1,heltt001,00,,NP
 sub,wunsk001,"Kelly Wunsch",0,9,1
 play,7,1,heltt001,00,,NP
 sub,osorf001,"Franquelis Osoria",0,9,1
-com,"Wunsch turned his ankle on final warmup pitch."
-com,"May go on DL"
 play,7,1,heltt001,01,..CX,HR/9/F.2-H;1-H
 play,7,1,atkig001,31,BBBCX,9/F
 play,7,1,hawpb001,01,FX,43/G
@@ -7426,7 +7393,6 @@ play,5,1,mohrd001,12,FB1FX,8/F
 play,5,1,closj001,10,B>X,6(1)3/GDP
 play,6,0,youne001,00,,NP
 sub,piedj001,"Jorge Piedra",1,6,9
-com,"Rockies left fielder Brad Hawpe left the game due to an injured leg"
 play,6,0,youne001,00,.X,63/G
 play,6,0,gileb002,31,BBBCB,W
 play,6,0,klesr001,22,SFB1FBFX,S7/L.1-2
@@ -7772,7 +7738,6 @@ play,7,1,heltt001,11,CBX,S8/L
 play,7,1,hollm001,32,BFBBF>F>F>X,D7/G.1-3
 play,7,1,byrne001,00,,NP
 sub,relad001,"Desi Relaford",1,3,12
-com,"Rockies first baseman Todd Helton left the game due to an injured leg"
 play,7,1,byrne001,00,..X,7/L
 play,8,0,cairm001,00,,NP
 sub,gonzl004,"Luis Gonzalez",1,1,3
@@ -8042,8 +8007,6 @@ sub,carvm001,"Marcos Carvajal",1,9,1
 play,5,0,andem003,02,.CCC,K
 play,5,0,castr002,01,CX,D7/G.3-H;2-H
 play,5,0,miend001,32,*BC*BBCC,K
-com,"ej,miend001,P,herna901,Called third strike"
-com,"Mets first baseman Doug Mientkiewicz ejected by HP umpire Angel Hernandez"
 play,5,0,zambv001,22,BFCBS,K
 play,5,1,ardod001,00,,NP
 sub,andem003,"Marlon Anderson",0,6,3
@@ -8352,7 +8315,6 @@ play,2,0,loftk001,11,BFX,S9/G.3-H;1-2
 play,2,0,utlec001,30,BBBX,3/G
 play,2,1,byrne001,00,,NP
 sub,chave002,"Endy Chavez",0,2,8
-com,"Phillies CF Kenny Lofton left the game due to an injured knee"
 play,2,1,byrne001,01,.CX,63/G
 play,2,1,shear001,22,CFBBX,D9/F
 play,2,1,milea001,01,CX,3/G.2-3
@@ -8657,7 +8619,6 @@ play,1,0,abreb001,12,BCCS,K
 play,1,0,burrp001,21,BSBX,53/G
 play,1,1,sullc001,12,CFBFFX,43/G
 play,1,1,quino001,11,BFX,6/L-
-com,"Debut game for Omar Quintanilla"
 play,1,1,hollm001,12,CCBC,K
 play,2,0,utlec001,22,BCSBC,K
 play,2,0,belld002,02,SSS,K
@@ -8931,7 +8892,6 @@ sub,delov001,"Valerio De Los Santos",0,8,1
 play,11,1,hollm001,00,,NP
 sub,jorgr001,"Ryan Jorgensen",0,9,2
 play,11,1,hollm001,22,..CFBBT,K
-com,"Debut game for Ryan Jorgensen"
 play,11,1,atkig001,11,FBX,53/G
 play,11,1,mohrd001,02,CSX,HR/8/F
 data,er,beckj002,2
@@ -9151,7 +9111,6 @@ play,3,0,mackr001,12,BFFFX,S7/L
 play,3,0,geruj001,10,BX,9/F
 play,3,0,bay-j001,00,,NP
 sub,sancf001,"Freddy Sanchez",0,2,12
-com,"Pirates left fielder Rob Mackowiak left the game due to an injured knee"
 play,3,0,bay-j001,00,.X,HR/7/F.1-H
 play,3,0,eldrb001,02,FFS,K
 play,3,0,castj005,01,FX,DGR/89/F
@@ -10269,8 +10228,6 @@ play,5,1,bigbl001,10,BX,36(1)/FO/G
 play,5,1,milea001,21,BFBX,6/P
 play,6,0,lee-c001,01,CX,9/F
 play,6,0,jenkg001,11,SBH,HP
-com,"ej,yoste001,M,millb901,Check swing"
-com,"Brewers Manager Ned Yost ejected by HP umpire Bill Miller"
 play,6,0,hallb001,22,S.BCBX,S8/L.1-2
 play,6,0,helmw001,00,,NP
 sub,kim-s001,"Sun-Woo Kim",1,9,1
@@ -10717,8 +10674,6 @@ play,3,1,mohrd001,00,X,S7/F.2-H;1-2
 play,3,1,greet003,01,CX,36(1)1/GDP
 play,4,0,burnj001,00,,NP
 sub,sullc001,"Cory Sullivan",1,8,8
-com,"Rockies left fielder Larry Bigbie left the game"
-com,"due to an injured foot/ankle"
 play,4,0,burnj001,32,.CBBBFX,S8/G
 play,4,0,barrm003,00,X,S7/L.1-2
 play,4,0,peren001,10,BX,64(1)3/GDP.2-3
@@ -11088,7 +11043,6 @@ play,7,1,acevj002,32,BBCCB>B,W.1-2
 play,7,1,barmc001,00,,NP
 sub,kuo-h001,"Hong-Chih Kuo",0,9,1
 play,7,1,barmc001,10,.BX,6/L-
-com,"Debut game for Hong-Chih Kuo"
 play,8,0,edwam001,00,X,9/L
 play,8,0,navad001,22,CSFFFFBBFFX,7/F
 play,8,0,cruzj004,22,CBSFBFX,4/P
@@ -11624,11 +11578,6 @@ sub,milea001,"Aaron Miles",1,9,11
 play,9,1,milea001,11,...CBX,3/G
 play,9,1,barmc001,01,CX,8/F
 play,9,1,gonzl004,01,CH,HP
-com,"ej,melvb001,M,cuzzp901,Intentional HBP"
-com,"ej,bellj001,C,cuzzp901,Intentional HBP"
-com,"ej,meddb001,P,cuzzp901,Intentional HBP"
-com,"Brandon Medders, Mgr Bob Melvin & Coach Jay Bell ejected by HP"
-com,"umpire Phil Cuzzi"
 play,9,1,heltt001,00,,NP
 sub,bulgj001,"Jason Bulger",0,6,1
 play,9,1,heltt001,11,....FB>B,DI.1-2
@@ -12367,7 +12316,6 @@ start,mohrd001,"Dustan Mohr",1,7,9
 start,ardod001,"Danny Ardoin",1,8,2
 start,espom001,"Mike Esposito",1,9,1
 play,1,0,robed001,01,CX,S9/G
-com,"Debut game for Mike Esposito"
 play,1,0,lorem001,11,BCX,53/G.1-2
 play,1,0,hernr002,22,BCC*BS,K
 play,1,0,gileb002,10,BX,S9/L-.2-H

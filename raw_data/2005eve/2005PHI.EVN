@@ -136,7 +136,6 @@ play,8,0,schnb001,12,.BFFX,S9/L
 play,8,0,osuna002,00,,NP
 sub,blant001,"Tony Blanco",0,9,11
 play,8,0,blant001,32,.BBSFBS,K
-com,"Debut game for Tony Blanco"
 play,8,0,wilkb002,12,F*BCS,K
 play,8,0,guzmc001,00,X,3/G
 play,8,1,abreb001,00,,NP
@@ -1042,7 +1041,6 @@ play,6,1,polap001,11,CBX,53/G
 play,6,1,abreb001,30,BBBB,W
 play,6,1,burrp001,00,,NP
 sub,mattm001,"Mike Matthews",0,9,1
-com,"Mets pitcher Felix Heredia left the game due to an injured hand/wrist"
 play,6,1,burrp001,01,.CX,9/F
 play,7,0,beltc001,02,CFS,K
 play,7,0,piazm001,02,CFX,S8/G
@@ -1644,9 +1642,6 @@ play,4,1,utlec001,32,C1BFBBFX,46(1)3/GDP
 play,5,0,easld001,12,BCCC,K
 play,5,0,delgc001,22,CBSBX,8/F
 play,5,0,cabrm001,22,BCBFFX,D8/F-
-com,"Lofton not graceful as he approached ball, slid at"
-com,"last moment, deflecting ball to Burrell. Lofton lay"
-com,"still for some time, left next inning."
 play,5,0,encaj001,32,BBCBFS,K
 play,5,1,belld002,02,FFS,K
 play,5,1,liebm001,01,FX,D8/F+
@@ -1805,7 +1800,6 @@ play,4,1,liebm001,12,BCFX,54(1)/FO/G.3-H(UR)
 play,4,1,belld002,02,F1SFS,K
 play,5,0,willd003,00,,NP
 sub,peret003,"Tomas Perez",1,5,3
-com,"Phillies first baseman Jim Thome left the game due to an injured back"
 play,5,0,willd003,12,.CBFX,43/G
 play,5,0,pierj002,01,FX,3/G
 play,5,0,easld001,22,BCBFX,13/G-
@@ -1818,7 +1812,6 @@ sub,madsr001,"Ryan Madson",1,9,1
 play,6,0,delgc001,12,.SBFS,K
 play,6,0,cabrm001,32,CBBFBS,K
 play,6,0,encaj001,22,FBCBS,K
-com,"$Game called for rain"
 data,er,willd003,0
 data,er,padiv001,2
 data,er,madsr001,0
@@ -2895,8 +2888,6 @@ play,8,1,burrp001,00,,NP
 sub,tavaj001,"Julian Tavarez",0,9,1
 play,8,1,burrp001,00,.X,64(1)3/GDP.3-H(NR)
 play,8,1,utlec001,00,X,DGR/78/F
-com,"Originally ruled home run, then umpires decided fan"
-com,"had reached over fence to touch ball in play."
 play,8,1,belld002,21,BBFX,2/P2F
 play,9,0,moliy001,21,BFBX,8/F
 play,9,0,tavaj001,00,,NP
@@ -3296,8 +3287,6 @@ play,3,1,polap001,12,CB1FX,46(1)/FO/G
 play,3,1,abreb001,32,CBB11CBX,7/F
 play,3,1,burrp001,30,B1BBX,S7/L.1-2
 play,3,1,thomj002,22,*BBCSC,K
-com,"ej,thomj002,P,schrp901,Called third strike"
-com,"Phillies first baseman Jim Thome ejected by HP umpire Paul Schrieber"
 play,4,0,felip001,00,,NP
 sub,peret003,"Tomas Perez",1,5,3
 play,4,0,felip001,00,..X,43/G
@@ -3356,12 +3345,6 @@ play,7,1,chave002,00,,NP
 sub,eyres001,"Scott Eyre",0,9,1
 play,7,1,chave002,11,..BLX,54/SH/BG.2-3;1-2
 play,7,1,rollj001,00,X,S7/F78S.3-H;2-2
-com,"ej,alouf101,M,reilm901,Catch/no catch"
-com,"$LF Pedro Feliz made a sliding attempt a Jimmy Rollins' bloop;"
-com,"2B umpire Andy Fletcher ruled that the ball hit the ground;"
-com,"the umpires huddled but let the call stand; replays showed that"
-com,"Feliz caught the ball; Giants Manager Felipe Alou ejected by"
-com,"1B umpire and crew chief Mike Reilly"
 play,7,1,polap001,10,.BX,9/F
 play,7,1,abreb001,21,BBCX,63/G
 play,8,0,alfoe001,00,,NP
@@ -3921,11 +3904,6 @@ play,2,1,belld002,01,CX,S7/F-
 play,2,1,utlec001,00,X,S9/L.1-3
 play,2,1,michj001,11,B1C11X,D7/L.3-H;1-3
 play,2,1,liebm001,12,FBSX,HR/7/L.3-H;2-H
-com,"ej,melvb001,M,iassd901,Home run call"
-com,"$Originally ruled double off wall, Phillies appealed,"
-com,"umpires conferred, changed call to homer; Arizona"
-com,"manager Melvin argued and was ejected by 2B umpire"
-com,"Dan Iassogna; Replay shows ball clearly NOT a homer"
 play,2,1,wolfr001,31,BBBCX,13/G
 play,2,1,rollj001,12,BSFX,53/G
 play,2,1,polap001,00,X,7/F
@@ -4326,7 +4304,6 @@ sub,wagnb001,"Billy Wagner",1,9,1
 play,9,0,nix-l001,00,,NP
 sub,mcdom001,"Marshall McDougall",0,6,11
 play,9,0,mcdom001,12,..SCBX,9/L
-com,"Debut game for Marshall McDougall"
 play,9,0,barar001,01,CX,8/F
 play,9,0,derom001,32,BBSSBFB,W
 play,9,0,tejem001,00,,NP
@@ -5662,7 +5639,6 @@ play,8,1,chave002,32,.BBBCCFB,W
 play,8,1,rollj001,02,CFX,31/G.2-3;1-2
 play,8,1,michj001,31,BBBCB,W
 play,8,1,abreb001,22,BBCFS,K/FO.3XH(2);2-3;1-2;B-1
-com,"Strike 3 in dirt, Mirabelli stepped on plate"
 play,9,0,waket001,00,,NP
 sub,fulta001,"Aaron Fultz",1,9,1
 play,9,0,waket001,00,,NP
@@ -5926,8 +5902,6 @@ play,5,0,varij001,10,.BX,D7/G+
 play,5,0,muelb001,00,X,3/G.2-3
 play,5,0,vazqr001,31,BBBCB,W
 play,5,0,welld001,32,BFBFB>X,63/G.3-H;1-2
-com,"ej,manuc101,M,darlg901,Balls and strikes"
-com,"Phillies Manager Charlie Manuel ejected by HP umpire Gary Darling"
 play,5,0,damoj001,12,.CBCFX,S6/G-.2-3
 play,5,0,bellm002,11,BSX,3/G
 play,5,1,liebm001,01,CX,S8/G+
@@ -5961,7 +5935,6 @@ sub,embra001,"Alan Embree",0,9,1
 play,7,1,rollj001,21,.BBCX,D8/L
 play,7,1,michj001,31,BC*BBB,W
 play,7,1,abreb001,12,CCBFFX,S6/G+.2-H;1-2
-com,"originally scored as E6, no RBI, changed next day"
 play,7,1,burrp001,00,,NP
 sub,timlm001,"Mike Timlin",0,9,1
 play,7,1,burrp001,31,.FBBBX,S7/L.2-H;1-3
@@ -6087,10 +6060,6 @@ play,4,0,mccab002,32,BBCBFFX,9/F
 play,4,0,smolj001,11,BFX,13/G
 play,4,0,furcr001,32,BBCFFFBX,S8/G
 play,4,0,orr-p001,11,B1F1X,S5/G.1-2
-com,"Bell had play at second, but Utley was late covering,"
-com,"so Bell had to go to first, but was twisted so that he"
-com,"had nothing on the throw and Orr beat the play. Originally"
-com,"ruled FC, changed to hit on 7-05"
 play,4,0,johnk003,00,X,HR/9/F.2-H;1-H
 play,4,0,jonea002,20,BBX,D7/L
 play,4,0,laroa001,02,CCFC,K
@@ -6151,8 +6120,6 @@ play,9,0,langr002,00,X,3/G
 play,9,1,utlec001,00,,NP
 sub,reitc001,"Chris Reitsma",0,9,1
 play,9,1,utlec001,32,.CBSBBS,K+WP.B-1
-com,"pitch in the dirt, ball bounces a short distance in"
-com,"front of the plate. No one covered first, so Utley safe"
 play,9,1,belld002,11,CBX,46(1)3/GDP
 play,9,1,peret003,02,CFX,6/P
 data,er,smolj001,1
@@ -6534,8 +6501,6 @@ play,3,0,wilkb002,12,CFBX,S9/F
 play,3,0,carrj001,00,X,13/SH/BG.1-2
 play,3,0,vidrj001,10,BH,HP
 play,3,0,guilj001,22,BBFFX,FC4/G/INT.2-2;1X2(4);B-1
-com,"As Utley came in to field slow roller, Vidro collided"
-com,"with him, ruled out for interference"
 play,3,0,baerc001,01,SH,HP.2-3;1-2
 play,3,0,castv001,31,BBBCB,W.3-H;2-3;1-2
 play,3,0,cepim001,10,BX,S8/L.3-H;2-H;1-3
@@ -6557,8 +6522,6 @@ play,4,1,belld002,22,BCCFBX,9/F
 play,4,1,pratt001,32,CBFBBFS,K
 play,4,1,gearg001,22,BSBSF,NP
 sub,liebj001,"Jon Lieber",1,9,11
-com,"$foul ball off plate hit Geary in face, he was removed for a left-handed"
-com,"who completed the strikeout hitting right-handed"
 badj,liebj001,R
 play,4,1,liebj001,22,BSBSF.C,K
 play,5,0,cepim001,00,,NP
@@ -6568,8 +6531,6 @@ play,5,0,schnb001,22,BBSCX,31/G
 play,5,0,dresr001,12,SSBS,K
 play,5,1,rollj001,21,BBCX,S8/G
 play,5,1,loftk001,02,>LF1,PO1(E1).1-2
-com,"Rollins and Baerga got tangled up after throw went past"
-com,"first, and Rollins was awarded second"
 play,5,1,loftk001,02,>LF1.X,8/F.2-3
 play,5,1,abreb001,12,CFFBX,8/SF.3-H
 play,5,1,burrp001,22,BCBCX,S8/G
@@ -6874,7 +6835,6 @@ play,6,0,castv001,01,FH,HP
 play,6,0,cepim001,00,X,S9/G.1-3
 play,6,0,schnb001,00,,NP
 sub,benng001,"Gary Bennett",0,8,11
-com,"Nationals catcher Brian Schneider left the game due to dizziness"
 play,6,0,benng001,11,.CBX,4/P
 play,6,1,howar001,00,,NP
 sub,benng001,"Gary Bennett",0,8,2
@@ -7113,7 +7073,6 @@ play,7,0,encaj001,22,BCBCX,53/G
 play,7,1,burrp001,00,,NP
 sub,vargj001,"Jason Vargas",0,9,1
 play,7,1,burrp001,32,.BSBFBB,W
-com,"Debut game for Jason Vargas"
 play,7,1,howar001,00,X,36(1)/FO/G
 play,7,1,peret003,01,CX,S3/L.1-2
 play,7,1,liebm001,32,BCBBSFFS,K
@@ -7626,7 +7585,6 @@ sub,resoc001,"Chris Resop",0,9,1
 play,8,1,rollj001,00,,NP
 sub,sandd003,"Danny Sandoval",1,1,11
 play,8,1,sandd003,00,..X,31/G
-com,"Debut game for Danny Sandoval"
 play,8,1,peret003,00,X,9/F
 play,8,1,abreb001,32,CCBFBBX,43/G
 play,9,0,delgc001,00,,NP
@@ -8081,8 +8039,6 @@ play,6,1,liebj001,00,>B,SB2
 play,6,1,liebj001,21,>B.BLX,54/SH/BG.2-3
 play,6,1,rollj001,00,X,6/P
 play,6,1,michj001,02,CFC,K
-com,"ej,michj001,P,drakr901,Called third strike"
-com,"Phillies right fielder Jason Michaels ejected by HP umpire Rob Drake"
 play,7,0,edwam001,00,,NP
 sub,loftk001,"Kenny Lofton",1,2,8
 play,7,0,edwam001,00,,NP
@@ -8430,7 +8386,6 @@ sub,bresc001,"Craig Breslow",0,9,1
 play,7,1,madsr001,00,,NP
 sub,michj001,"Jason Michaels",1,9,11
 play,7,1,michj001,22,..CFBFBT,K
-com,"Debut game for Craig Breslow"
 play,7,1,rollj001,22,BBCFS,K
 play,7,1,loftk001,21,CBBX,63/G
 play,8,0,lorem001,00,,NP
@@ -9550,7 +9505,6 @@ play,3,0,vidrj001,12,CFFFFBFX,53/G
 play,3,0,johnn001,12,BCFX,63/G
 play,3,0,guilj001,32,CBFBBB,W
 play,3,0,wilsp002,22,F1FFBFBX,HR/89/F.1-H
-com,"disputed home run as the Phillies claimed fan interference"
 play,3,0,schnb001,01,FX,7/F
 play,3,1,loftk001,01,CX,13/G
 play,3,1,utlec001,21,CBBX,5/P5F
@@ -9720,7 +9674,6 @@ play,7,0,wilsp002,00,,NP
 sub,madsr001,"Ryan Madson",1,9,1
 play,7,0,wilsp002,00,.X,S9/L
 play,7,0,schnb001,01,CX,DGR/9/L.1-3
-com,"fan interference"
 play,7,0,castv001,01,CX,9/SF.3-H;2-3
 play,7,0,guzmc001,00,,NP
 sub,baerc001,"Carlos Baerga",0,8,11
@@ -10308,7 +10261,6 @@ play,4,0,castj005,00,X,9/SF.3-H
 play,4,0,cotah001,22,SSBFBX,53/G
 play,4,1,abreb001,00,,NP
 sub,redmt001,"Tike Redman",0,3,7
-com,"Pirates left fielder Jason Bay left the game due to an injured chest"
 play,4,1,abreb001,32,.BCCBBFB,W
 play,4,1,burrp001,32,11C1FB1BFBF1B,W.1-2
 play,4,1,utlec001,12,CBSX,T8/L.2-H;1-H
@@ -10341,7 +10293,6 @@ play,7,1,michj001,11,BFB,WP.1-2
 play,7,1,michj001,32,BFB.LBX,S8/G.2-H
 play,7,1,abreb001,11,BCX,43/G.1-2
 play,7,1,burrp001,01,C*B,OA/INT.2-3(E2)
-com,"$Error on Cota for retrieving ball with mask"
 play,7,1,burrp001,32,C*B.BSBX,23/G
 play,7,1,utlec001,30,IIII,IW
 play,7,1,belld002,12,CFPFFX,7/L
@@ -10414,7 +10365,6 @@ start,martr003,"Ramon Martinez",1,7,3
 start,pratt001,"Todd Pratt",1,8,2
 start,brite001,"Eude Brito",1,9,1
 play,1,0,sancf001,21,BBCX,7/F
-com,"Debut game for Eude Brito"
 play,1,0,duffc001,12,CSBX,13/G
 play,1,0,bay-j001,12,CBFX,53/G
 play,1,1,rollj001,01,CX,63/G
@@ -10610,7 +10560,6 @@ play,5,0,berkl001,12,BCFS,K
 play,5,0,lanej001,00,X,3/P3F
 play,5,1,belld002,00,,NP
 sub,brune001,"Eric Bruntlett",0,3,5
-com,"Astros Morgan Ensberg left the game due to an injured hand/wrist"
 play,5,1,belld002,01,.FX,3/G
 play,5,1,liebm001,21,BCBX,7/F
 play,5,1,peret003,21,BCBX,3/G-
@@ -10795,8 +10744,6 @@ play,8,0,oswar001,12,.BCFX,43/G
 play,8,0,tavew001,11,CBX,8/L
 play,8,0,biggc001,22,BCSFBS,K
 play,8,1,rollj001,22,CSBBFX,S9/L
-com,"Ball hit down line into corner, possible triple, but"
-com,"Rollins stumbled, missed first base, had to go back"
 play,8,1,loftk001,00,X,53/SH/BG.1-2
 play,8,1,utlec001,22,FBBFFC,K
 play,8,1,abreb001,30,IIII,IW
@@ -11279,7 +11226,6 @@ play,3,0,pierj002,22,BCBFS,K
 play,3,1,utlec001,00,,NP
 sub,johnj009,"Josh Johnson",0,9,1
 play,3,1,utlec001,11,.BFX,2/P2F
-com,"Debut game for Josh Johnson"
 play,3,1,belld002,22,CBSBX,63/G+
 play,3,1,howar001,31,BBFBX,S9/L
 play,3,1,liebm001,22,BBCFS,K23
@@ -11665,7 +11611,6 @@ play,7,1,loftk001,00,,NP
 sub,betew001,"Wilson Betemit",0,3,5
 play,7,1,loftk001,00,,NP
 sub,mcbrm001,"Macay McBride",0,9,1
-com,"Braves third baseman Chipper Jones left the game due to an injured leg"
 play,7,1,loftk001,12,..FFFBX,43/G
 play,7,1,utlec001,30,BBBB,W
 play,7,1,abreb001,12,CS1BS,K
@@ -12507,7 +12452,6 @@ play,6,1,belld002,00,,NP
 sub,castr002,"Ramon Castro",0,6,2
 play,6,1,belld002,00,,NP
 sub,padij001,"Juan Padilla",0,9,1
-com,"Mets catcher Mike Piazza left the game due to an injured hand/wrist"
 play,6,1,belld002,11,..BFX,4/P
 play,6,1,pratt001,12,FSBX,8/F
 play,6,1,liebj001,11,BCX,3/G

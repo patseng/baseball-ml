@@ -49,7 +49,6 @@ play,1,0,berkl001,22,BBCSS,K
 play,1,0,lee-c001,01,FX,43/G-
 play,1,1,morgn001,32,BCBBCX,7/F
 play,1,1,sancf001,20,BBX,DGR/9/F/INT
-com,"fan interference"
 play,1,1,mclon001,01,CX,8/F.2-3
 play,1,1,doumr001,21,C*BBX,S9/G.3-H
 play,1,1,laroa001,31,BBFBB,W.1-2
@@ -359,7 +358,6 @@ play,2,0,keppj001,32,*BBBC1C>B,W.1-2
 play,2,0,ortir001,12,CCB+2X,9/F
 play,2,1,laroa002,32,SCBFBBS,K
 play,2,1,jaraj001,31,BBCBX,43/G
-com,"Debut game for Jason Jaramillo"
 play,2,1,karsj001,32,CBCBBB,W
 play,2,1,morgn001,01,CX,T9/F.1-H
 play,2,1,wilsj002,20,*BBX,3/P3F
@@ -823,7 +821,6 @@ play,4,0,pradm001,21,BCBX,HR/7/F.3-H;2-H
 play,4,0,jonec004,00,X,8/F
 play,4,1,doumr001,00,,NP
 sub,diazm003,"Matt Diaz",0,4,7
-com,"Braves left fielder Garret Anderson left the game due to an injured leg"
 play,4,1,doumr001,21,.CBBX,43/G
 play,4,1,laroa001,22,CCBBFS,K
 play,4,1,mossb001,12,CCFFFBS,K
@@ -1848,7 +1845,6 @@ play,2,0,mcgec001,01,CX,53/G
 play,2,0,kendj001,01,CX,13/G
 play,2,1,laroa001,00,,NP
 sub,duffc001,"Chris Duffy",0,6,7
-com,"Brewers third baseman Bill Hall left the game due to an injured leg"
 play,2,1,laroa001,31,.CBBBB,W
 play,2,1,mossb001,20,BBX,T7/F.1-H
 play,2,1,laroa002,20,B*BX,53/G
@@ -2180,7 +2176,6 @@ play,2,1,sancf001,00,,NP
 sub,rasmc001,"Colby Rasmus",0,4,8
 play,2,1,sancf001,00,,NP
 sub,robis001,"Shane Robinson",0,9,9
-com,"Cardinals right fielder Ryan Ludwick left the game due to an injured leg"
 play,2,1,sancf001,30,..BBBB,W
 play,2,1,mclon001,21,BCBX,S9/G.3-H;1-2
 play,2,1,laroa001,22,BBFCFS,K
@@ -2317,11 +2312,6 @@ play,1,1,morgn001,32,BCBBCX,43/G
 play,1,1,sancf001,00,X,D7/G
 play,1,1,mclon001,32,BBFBFFX,3/G.2-3
 play,1,1,laroa001,01,SX,D9/F.3-H
-com,"$Adam LaRoche hit a ball to right that hit either a railing or a screen above the 21-foot wall;"
-com,"both objects are in play but first base umpire Lance Barksdale ruled it a home run; LaRoche had"
-com,"stopped at second but continued on to score; after crew chief Randy Marsh and two other members"
-com,"of the crew watched the replay, Marsh reversed the call from homer to in play and awarded"
-com,"LaRoche a double; this was the first homer that was reviewed and reversed"
 play,1,1,diazr001,22,BFBFX,FC5/G.2X3(5)
 play,2,0,duncc002,12,BCSS,K
 play,2,0,moliy001,12,FFBX,63/G
@@ -3586,7 +3576,6 @@ play,7,0,murpd006,11,CBX,53/G
 play,7,0,shefg001,00,,NP
 sub,jacks001,"Steven Jackson",1,9,1
 play,7,0,shefg001,20,.BBX,43/G
-com,"Debut game for Steven Jackson"
 play,7,1,morgn001,00,,NP
 sub,felip002,"Pedro Feliciano",0,9,1
 play,7,1,morgn001,22,.LFBBS,K
@@ -3719,8 +3708,6 @@ play,5,1,jaraj001,21,CBBX,HR/7/F
 play,5,1,wilsj002,02,SCX,S7/L-
 play,5,1,dukez001,00,X,E1/SH/BG.1-2
 play,5,1,morgn001,12,SBCX,16(1)3/GDP
-com,"ej,morgn001,P,mcclt901,Call at 1B"
-com,"Pirates LF Nyjer Morgan ejected by 1B umpire Tim McClelland"
 play,6,0,wrigd002,00,,NP
 sub,monrc001,"Craig Monroe",1,1,7
 play,6,0,wrigd002,11,..BFX,6/L
@@ -3822,7 +3809,6 @@ play,1,0,castl001,01,CX,63/G
 play,1,0,beltc001,10,BX,D8/F
 play,1,0,shefg001,12,BCSC,K
 play,1,1,mccua001,12,CCBX,S8/G
-com,"Debut game for Andrew McCutchen"
 play,1,1,morgn001,11,B1CX,S9/G.1-3
 play,1,1,sancf001,12,BF11FX,3/G.1-2
 play,1,1,laroa001,31,BBSBI,IW
@@ -3896,7 +3882,6 @@ play,7,0,shefg001,00,,NP
 sub,jacks001,"Steven Jackson",1,5,1
 play,7,0,shefg001,00,,NP
 sub,hinse001,"Eric Hinske",1,9,5
-com,"Pirates third baseman Andy LaRoche left the game due to an injured knee"
 play,7,0,shefg001,32,..CBBFBX,63/G
 play,7,0,wrigd002,22,SBBFX,63/G
 play,7,0,murpd006,30,BBBB,W
@@ -4829,10 +4814,6 @@ play,6,0,franb001,30,BBBB,W
 play,6,0,valbl001,10,11B>B,SB2
 play,6,0,valbl001,21,11B>B.CX,13/G
 play,6,1,mccua001,11,BCX,D7/G+
-com,"ej,russj002,M,laynj901,Arguing foul ball was HBP"
-com,"Pirates Manager John Russell ejected by HP umpire Jerry Layne when he argued"
-com,"that the second pitch to Nyjer Morgan hit Morgan's finger and not the bat;"
-com,"Layne called it a foul ball"
 play,6,1,morgn001,02,LF.FX,3/G.2-3
 play,6,1,sancf001,11,BCX,8/SF/L.3-H
 play,6,1,laroa001,02,FFS,K
@@ -4888,8 +4869,6 @@ play,9,1,cappm001,00,,NP
 sub,hinse001,"Eric Hinske",1,9,11
 play,9,1,hinse001,02,.CSX,S7/L.1-2
 play,9,1,mccua001,01,L>B,SB3
-com,"$Andrew McCutchen showed bunt and the Indians' infield put on the 'wheel play'"
-com,"to cover; Jack Wilson stole third when no one covered the bag"
 play,9,1,mccua001,12,L>B.TX,S7/L.3-H;1-2
 data,er,lee-c003,2
 data,er,smitj002,0
@@ -4977,8 +4956,6 @@ play,4,1,laroa002,00,X,3/P3F
 play,4,1,jaraj001,32,BSCBBFX,HR/9/F
 play,4,1,wilsj002,00,X,8/F
 play,4,1,vasqv001,02,CFS,K23
-com,"umpchange,5,ump3b,estam901"
-com,"$3B umpire Jerry Crawford left after becoming ill"
 play,5,0,penat002,12,FFBFX,13/G-
 play,5,0,mechg001,11,CBX,4/L
 play,5,0,dejed001,22,CBFFFBX,63/G
@@ -5125,9 +5102,6 @@ play,4,1,laroa002,00,X,8/F
 play,4,1,diazr001,12,CBFX,63/G
 play,5,0,hernl004,10,BX,63/G
 play,5,0,chenb001,22,CCBBX,S7/G
-com,"$Chen's liner bounced into a nook in LF where a fan touched it; he was originally"
-com,"credited with a double on the interference but, after the umpires huddled, Chen"
-com,"was sent to first for a single"
 play,5,0,dejed001,02,CFX,46(1)3/GDP
 play,5,1,wilsj002,01,CX,3/P
 play,5,1,mahop002,12,CFBFC,K
@@ -5174,9 +5148,6 @@ sub,karsj001,"Jeff Karstens",1,9,1
 play,9,0,butlb003,01,.CX,9/L
 play,9,0,guilj001,11,CBX,S7/G+
 play,9,0,olivm001,02,CCS,K
-com,"ej,olivm001,P,cuzzp901,Balls and strikes"
-com,"Royals catcher Miguel Olivo ejected by HP umpire Phil Cuzzi for making a comment"
-com,"as he left the plate after being called out on a check swing"
 play,9,0,calla001,21,.BBCX,43/G
 data,er,chenb001,4
 data,er,color001,0
@@ -5896,8 +5867,6 @@ play,7,0,coraa001,01,CX,13/G-
 play,7,1,yound004,00,,NP
 sub,felip002,"Pedro Feliciano",0,9,1
 play,7,1,yound004,32,.BCBFBFC,K
-com,"ej,yound004,P,fairc901,Called third strike"
-com,"Pirates right fielder Delwyn Young ejected by HP umpire Chad Fairchild"
 play,7,1,laroa001,11,.CBX,63/G
 play,7,1,joneg002,32,BFFFBFBX,HR/89/F
 play,7,1,laroa002,00,,NP
@@ -6575,12 +6544,6 @@ play,8,0,camem001,12,CBSFX,9/F
 play,8,0,hartc001,32,SSFBBB>B,W.1-2
 play,8,0,hardj003,00,X,54(1)/FO/G
 play,8,1,karsj001,00,H,HP
-com,"$Jeff Karstens had hit Ryan Braun with a pitch on April 27 and this appeared"
-com,"to be payback; both teams came on the field; Karstens glared at Chris Smith"
-com,"and catcher Jason Kendall restrained Karstens; those two talked to each other"
-com,"and Pirates pitching coach Joe Kerrigan started yelling at Kendall; when"
-com,"Kendall got agitated, teammate Prince Fielder restrained Kendall; no one"
-com,"Was ejected"
 play,8,1,mccua001,12,CCBX,S8/G.1-2
 play,8,1,sancf001,11,FBX,FC5.1X2(5E4);2-H(NR);B-1
 play,8,1,joneg002,12,CFBFX,8/F.2-3
@@ -6721,7 +6684,6 @@ play,8,1,mccua001,00,,NP
 sub,counc001,"Craig Counsell",0,2,4
 play,8,1,mccua001,00,,NP
 sub,difem002,"Mark DiFelice",0,9,1
-com,"Brewers second baseman Felipe Lopez left the game due to an injured leg"
 play,8,1,mccua001,12,...SBFF.X,3/P3F
 play,8,1,sancf001,01,CX,4/P
 play,8,1,joneg002,00,,NP
@@ -6815,8 +6777,6 @@ play,3,1,mccua001,10,BX,HR/7/F
 play,3,1,sancf001,11,BCX,8/F
 play,3,1,joneg002,10,BX,HR/89/F
 play,3,1,doumr001,20,BBX,HR/9/F
-com,"$Ryan Doumit's fly ball to right was touched by a fan and was ruled in play;"
-com,"acting crew chief Wally Bell watched the replay and reversed the call to a home run"
 play,3,1,yound004,02,FFX,S7/L
 play,3,1,mossb001,21,B1BFX,8/F
 play,3,1,laroa002,00,1X,53/G
@@ -7313,7 +7273,6 @@ play,7,0,willj004,11,CBX,HR/7/F.1-H
 play,7,0,dukee001,10,BX,9/F
 play,7,0,bellr002,32,BBCBFFX,DGR/78/L
 play,7,0,gonza005,22,BBFSX,DGR/7/L.2-H
-com,"fan interference"
 play,7,0,nievw001,00,,NP
 sub,chavj001,"Jesse Chavez",1,9,1
 play,7,0,nievw001,00,.X,43/G.2-3
@@ -7902,7 +7861,6 @@ play,1,1,yound004,11,BCX,S7/L.3-H;1-3;BX2(74)
 play,2,0,montm001,01,CX,8/F
 play,2,0,tracc001,32,BBBCFX,7/F
 play,2,0,oeltt001,11,BSX,S1/G
-com,"Debut game for Trent Oeltjen"
 play,2,0,ojeda001,01,1C1>B,SB2
 play,2,0,ojeda001,22,1C1>B.SFBX,9/F
 play,2,1,mossb001,00,X,3/G
@@ -8473,8 +8431,6 @@ play,8,0,lugoj001,00,,NP
 sub,schus001,"Skip Schumaker",0,2,11
 play,8,0,schus001,01,..1FX,HR/89/F.1-H
 play,8,0,pujoa001,01,CH,HP
-com,"ej,cappm001,P,estam901,Intentional HBP"
-com,"Pirates pitcher Matt Capps ejected by HP umpire Mike Estabrook"
 play,8,0,hollm001,00,,NP
 sub,chavj001,"Jesse Chavez",1,9,1
 play,8,0,hollm001,02,..FF1X,S5/G-.1-2
@@ -9301,7 +9257,6 @@ play,3,0,vottj001,31,BTBBX,7/F
 play,3,0,philb001,10,*BX,53/G
 play,3,1,joneg002,00,,NP
 sub,stubd001,"Drew Stubbs",0,1,8
-com,"Reds left fielder Chris Dickerson left the game due to an injured foot/ankle"
 play,3,1,joneg002,12,.BFTFX,13/G
 play,3,1,milll002,10,BX,63/G
 play,3,1,doumr001,10,BX,31/G
@@ -11616,7 +11571,6 @@ sub,hacke001,"Eric Hacker",1,9,1
 play,8,0,janip001,00,,NP
 sub,bixlb001,"Brian Bixler",1,2,4
 play,8,0,janip001,32,..BFBFBFX,7/F
-com,"Debut game for Eric Hacker"
 play,8,0,vottj001,21,BCBX,D8/F
 play,8,0,philb001,12,CBSX,13/G.2-3
 play,8,0,roles001,32,CBBFBX,D9/L.3-H
@@ -11805,7 +11759,6 @@ sub,suttd002,"Drew Sutton",0,4,12
 play,9,0,rosaa001,01,.CX,S8/F.1-3
 play,9,0,brucj001,11,FBX,6/P
 play,9,0,nix-l001,12,BFFX,E6/FO/G.3-H;1-3
-com,"DWS: This was 3E6 at 2nd with runner continuing to 3rd"
 play,9,0,millc001,12,CFBX,S8/L.3-H(UR);1-2
 play,9,0,violp001,00,,NP
 sub,franj005,"Juan Francisco",0,9,11

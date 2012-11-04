@@ -1010,10 +1010,6 @@ play,9,0,kenna001,22,CSBFBFX,S14/G.2-3
 play,9,0,figgc001,22,F*BCBFX,S8/L.3-H;1-2
 play,9,0,cabro001,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
-com,"ej,silvc001,P,mealj901,Balls and strikes after removal"
-com,"ej,gardr001,M,mealj901,Balls and strikes"
-com,"$Silva barked at HP umpire Jerry Meals as he exited;"
-com,"Twins pitcher Carlos Silva and Manager Ron Gardenhire ejected by HP umpire Jerry Meals"
 play,9,0,cabro001,10,.BX,S8/G.2-H;1-3
 play,9,0,guerv001,12,FBSX,23/G
 play,9,1,whitr001,01,CX,43/G
@@ -1495,10 +1491,6 @@ play,8,0,suzui001,12,CBFFS,K
 play,8,0,lopej003,11,BCX,13/G
 play,8,1,stews002,00,X,53/G
 play,8,1,castl001,21,CBBX,3/G
-com,"ej,gardr001,M,davig901,Kicking hat as he left the field"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Gerry Davis for"
-com,"arguing that Castillo's grounder was foul; Gardenhire dropped-kicked"
-com,"his hat"
 play,8,1,mauej001,00,.X,7/F
 play,9,0,ibanr001,01,FX,31/G
 play,9,0,sexsr001,00,,NP
@@ -1855,7 +1847,6 @@ play,3,0,sandr002,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,2,4
 play,3,0,sandr002,00,,NP
 sub,teahm001,"Mark Teahen",0,3,11
-com,"Twins second baseman Luis Castillo left the game due to an injured leg"
 play,3,0,teahm001,12,..CCBC,K
 play,3,1,castj004,00,,NP
 sub,teahm001,"Mark Teahen",0,3,5
@@ -2620,13 +2611,7 @@ play,5,1,castl001,11,*BLX,S1/G-.1-2
 play,5,1,mauej001,10,BX,S9/L.2-H;1-2
 play,5,1,huntt001,12,CS*B>X,S9/F.2-H;1-3
 play,5,1,cuddm001,22,CBF1F*B>H,HP.1-2
-com,"ej,guilo001,M,scotd901,Arguing that batter swung at pitch that hit him"
-com,"White Sox Manager Ozzie Guillen ejected by 1B umpire Dale Scott for arguing"
-com,"that Cuddyer swung at the pitch that hit him"
 play,5,1,mornj001,11,.SBX,S8/G.3-H;2-H;1-3
-com,"ej,coopd001,C,kulpr901,Arguing that batter swung at pitch that hit him"
-com,"White Sox Pitching Coach Don Cooper ejected by HP umpire Ron Kulpa for arguing"
-com,"that Cuddyer swung at the pitch that hit him"
 play,5,1,whitr001,10,.BX,3/G
 play,6,0,credj001,11,CBX,8/F
 play,6,0,mackr001,32,BBCBFFFX,3/G-
@@ -2781,7 +2766,6 @@ play,4,1,huntt001,11,FBX,63/G.2-3;1-2
 play,4,1,cuddm001,32,BBCBCS,K
 play,5,0,piera001,00,,NP
 sub,puntn001,"Nick Punto",1,9,6
-com,"Twins shortstop Juan Castro left the game due to an injured hand/wrist"
 play,5,0,piera001,10,.BX,43/G
 play,5,0,credj001,02,FFFS,K
 play,5,0,uribj002,00,X,S8/G
@@ -2833,8 +2817,6 @@ play,9,0,piera001,00,.X,8/F
 play,9,1,redmm001,00,,NP
 sub,gloar001,"Ross Gload",0,4,3
 play,9,1,redmm001,02,.CFS,K
-com,"ej,gardr001,M,scotd901,Called third strike"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Dale Scott"
 play,9,1,huntt001,31,.CBBBB,W
 play,9,1,cuddm001,12,BFFB,WP.1-2
 play,9,1,cuddm001,22,BFFB.>C,K+SB3
@@ -3241,10 +3223,6 @@ play,4,1,cuddm001,12,FF*BS,K
 play,5,0,sizeg001,22,CFBBX,S9/G
 play,5,0,michj001,00,X,7/F
 play,5,0,peraj001,00,>S,SB2/INT.1-3(E4)
-com,"ej,gardr001,M,herna901,Obstruction call at 2B"
-com,"Twins Manager Ron Gardenhire ejected by 2B umpire Angel Hernandez"
-com,"for arguing the obstruction called by Hernandez on Punto when he"
-com,"and Sizemore got tangled at the bag as the ball rolled away"
 play,5,0,peraj001,12,>S.BSS,K
 play,5,0,hafnt001,02,CFS,K
 play,5,1,mornj001,00,.X,8/F
@@ -3835,7 +3813,6 @@ play,7,1,castj004,00,,NP
 sub,matol001,"Luis Matos",0,2,7
 play,7,1,castj004,00,,NP
 sub,faheb001,"Brandon Fahey",0,8,5
-com,"Orioles third baseman Melvin Mora left the game due to an injured neck/shoulder"
 play,7,1,castj004,01,..FX,41/G
 play,7,1,castl001,12,CCFBX,43/G
 play,7,1,fordl001,22,CBFBX,53/G
@@ -4153,9 +4130,6 @@ play,4,0,hernr002,11,BTX,7/F
 play,4,1,fordl001,32,CBFBFFBX,5/P
 play,4,1,mauej001,22,CBSBX,S8/L
 play,4,1,cuddm001,12,BCF1T,K
-com,"ej,gardr001,M,rapue901,Foul tip call"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Ed Rapuano; he"
-com,"argued that there was no foul tip and Cuddyer checked his swing"
 play,4,1,mornj001,00,.X,HR/89/F.1-H
 play,4,1,huntt001,12,SC*BX,S9/L-
 play,4,1,whitr001,30,BB1BB,W.1-2
@@ -4583,9 +4557,7 @@ play,1,0,ortid001,22,CC*BBFX,9/F
 play,1,0,ramim002,00,1>X,63/G
 badj,castl001,R
 play,1,1,castl001,32,CBBBCB,W
-com,puntn001,R
 play,1,1,puntn001,10,B11B,PB.1-2
-com,puntn001,R
 play,1,1,puntn001,32,B11B.CBCX,7/F
 play,1,1,mauej001,02,CSB,WP.2-3
 play,1,1,mauej001,12,CSB.X,63/G.3-H(UR)
@@ -4605,9 +4577,7 @@ play,3,0,ortid001,12,FBCX,6(1)/FO/G
 play,3,1,bartj001,31,BFBBX,D9/L
 badj,castl001,R
 play,3,1,castl001,00,X,S8/G.2-H
-com,puntn001,R
 play,3,1,puntn001,00,>P,CS2(24)
-com,puntn001,R
 play,3,1,puntn001,21,>P.CBX,8/F
 play,3,1,mauej001,22,BFSFBX,S7/L-
 play,3,1,cuddm001,12,BFFB,PB.1-2
@@ -4626,7 +4596,6 @@ play,5,1,whitr001,01,FX,8/F
 play,5,1,bartj001,32,BCFFBFBF*B,W
 badj,castl001,R
 play,5,1,castl001,21,B*BC>X,S7/G.1-3
-com,puntn001,R
 play,5,1,puntn001,00,X,8/SF.3-H
 play,5,1,mauej001,00,X,S8/G.1-3
 play,5,1,cuddm001,22,FBS*BC,K
@@ -4642,7 +4611,6 @@ play,7,0,nixot001,31,BBBCX,S8/L
 play,7,0,lowem001,10,BX,S6/L-.1-2
 play,7,0,crisc001,00,,NP
 sub,rincj001,"Juan Rincon",1,0,1
-com,"Twins pitcher Carlos Silva left the game due to an injured leg"
 play,7,0,crisc001,00,.X,6/P/IF
 play,7,0,mirad001,12,CFBFX,4/P/IF
 play,7,0,gonza002,00,,NP
@@ -4891,7 +4859,6 @@ play,3,0,blanh001,22,CBLBFX,64(1)3/GDP.2-3
 play,3,0,pierj002,01,FX,43/G
 play,3,1,kubej002,00,,NP
 sub,peren001,"Neifi Perez",0,8,4
-com,"Cubs second baseman Tony Womack left the game due to an injured back"
 play,3,1,kubej002,21,.BBCX,7!/F7LF
 play,3,1,tifft001,11,CBX,53/G
 play,3,1,bartj001,22,CCBBC,K
@@ -5616,8 +5583,6 @@ play,5,1,castl001,21,CBBX,T8/L
 play,5,1,puntn001,20,BBX,D9/G.3-H
 play,5,1,mauej001,30,IIII,IW
 play,5,1,cuddm001,10,*BX,54(1)/FO/G.2-H
-com,"ej,yoste001,M,onorb901,Call at 1B"
-com,"Brewers Manager Ned Yost ejected by 1B umpire Brian O'Nora"
 play,5,1,mornj001,22,.1CF1FBBX,7/F
 play,6,0,weekr001,01,FX,S6/G
 play,6,0,barnc001,22,CBFB>B,SB2
@@ -6057,7 +6022,6 @@ play,6,0,blakc001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,8,5
 play,6,0,blakc001,00,,NP
 sub,lohsk001,"Kyle Lohse",1,0,1
-com,"Twins center fielder Lew Ford left the game due to an injured chest"
 play,6,0,blakc001,02,...FFS,K
 play,6,0,peraj001,00,X,53/G
 play,6,0,boona001,12,BFSFX,8/F
@@ -6220,9 +6184,6 @@ play,7,1,castl001,12,BCCC,K
 play,7,1,puntn001,20,BBX,D9/L
 play,7,1,mauej001,30,IIII,IW
 play,7,1,cuddm001,02,FS>B,CS3(25)
-com,"ej,puntn001,P,timmt901,Caught stealing call"
-com,"ej,gardr001,M,timmt901,Caught stealing call"
-com,"Twins Nick Punto & Mgr Ron Gardenhire ejected by 3B umpire Tim Timmons"
 play,8,0,hollt001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,2,5
 play,8,0,hollt001,00,,NP
@@ -6342,7 +6303,6 @@ play,3,0,boona001,00,,NP
 sub,puntn001,"Nick Punto",1,2,8
 play,3,0,boona001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,6,5
-com,"Twins center fielder Torii Hunter left the game due to an injured foot/ankle"
 play,3,0,boona001,02,..FFX,7/F
 play,3,0,vazqr001,00,X,7/F
 play,3,0,sizeg001,11,BFX,31/G
@@ -6394,7 +6354,6 @@ play,8,1,mornj001,00,X,HR/9/F
 play,8,1,rodrl002,00,X,S8/G
 play,8,1,stews002,00,,NP
 sub,kubej002,"Jason Kubel",1,7,11
-com,"Twins designated hitter Shannon Stewart left the game due to an injured foot/ankle"
 play,8,1,kubej002,02,.CSX,36(1)3/GDP
 play,8,1,tynej001,11,BCX,S8/L
 play,8,1,bartj001,10,BX,S8/G.1-2
@@ -6627,7 +6586,6 @@ play,5,1,bartj001,10,BX,T7/F
 play,5,1,castl001,31,*BFBBX,3/G
 play,5,1,puntn001,00,,NP
 sub,rodrl002,"Luis Rodriguez",1,2,11
-com,"Twins second baseman Nick Punto left the game due to an injured knee"
 play,5,1,rodrl002,10,.BX,7/F
 play,5,1,mauej001,30,IIII,IW
 play,5,1,cuddm001,00,X,9/F
@@ -6660,7 +6618,6 @@ play,8,1,rodrl002,21,BBCX,63/G
 play,8,1,mauej001,32,CCBBBX,S6/G-
 play,8,1,cuddm001,21,C*BBX,S7/G+.1-2
 play,8,1,mornj001,00,X,2/P2F
-com,"fan interference"
 play,8,1,kubej002,10,BX,S4/G.2-3;1-2
 play,8,1,whitr001,00,,NP
 sub,meadb001,"Brian Meadows",0,0,1
@@ -7484,7 +7441,6 @@ play,2,1,mornj001,22,CBFBS,K
 play,2,1,whitr001,00,X,5!3/G
 play,3,0,clevb001,00,,NP
 sub,rabej001,"Josh Rabe",1,6,7
-com,"Twins Rondell White left the game due to an injured leg"
 play,3,0,clevb001,10,.BX,D7/G
 play,3,0,polap001,21,BCBX,S8/L.2-H
 play,3,0,thamm001,22,CBSFBX,54(1)/FO/G
@@ -7555,9 +7511,6 @@ play,8,1,redmm001,00,X,D7/G.1-H(UR)
 play,8,1,tynej001,01,FX,S9/G.2-3
 play,8,1,bartj001,01,CX,S5/G.3-3;1-2
 play,8,1,castl001,02,CCB,BK.3-H;2-3;1-2
-com,"Bonderman took his pitching hand out of his glove while"
-com,"on the pitching plate and signaled for a fresh set of"
-com,"signs from the catcher. Balk"
 play,8,1,castl001,22,CCB.FBFX,63/G.3-H
 play,8,1,puntn001,10,BX,7/F
 play,8,1,mauej001,30,IIII,IW
@@ -7628,8 +7581,6 @@ start,rabej001,"Josh Rabe",1,7,10
 start,tynej001,"Jason Tyner",1,8,7
 start,bartj001,"Jason Bartlett",1,9,6
 start,silvc001,"Carlos Silva",1,0,1
-com,"Twins Mgr Ron Gardenhire missed the game due to the flu;"
-com,"3B coach Scott Ullger managed the team"
 play,1,0,mattg002,22,BFBFS,K
 play,1,0,younm003,22,CFFBFBX,9/F
 play,1,0,lee-c001,32,BFFBBX,3/P
@@ -7778,8 +7729,6 @@ start,kubej002,"Jason Kubel",1,7,10
 start,tynej001,"Jason Tyner",1,8,7
 start,bartj001,"Jason Bartlett",1,9,6
 start,bakes002,"Scott Baker",1,0,1
-com,"Coach Scott Ullger managed in place of Ron Gardenhire"
-com,"who missed the game with flu-like symptoms"
 play,1,0,mattg002,31,BCBBB,W
 play,1,0,younm003,10,BX,54(1)/FO/G
 play,1,0,lee-c001,02,CFX,54(1)/FO/G
@@ -7934,8 +7883,6 @@ start,redmm001,"Mike Redmond",1,7,2
 start,rodrl002,"Luis Rodriguez",1,8,4
 start,bartj001,"Jason Bartlett",1,9,6
 start,bonsb001,"Boof Bonser",1,0,1
-com,"Coach Scott Ullger managed in place of Ron Gardenhire"
-com,"who missed the game with flu-like symptoms"
 play,1,0,mattg002,22,BCFBX,53/G
 play,1,0,younm003,32,BFSBFBFS,K
 play,1,0,lee-c001,21,CBBX,7/F
@@ -9668,7 +9615,6 @@ play,6,0,shear001,00,,NP
 sub,puntn001,"Nick Punto",1,2,4
 play,6,0,shear001,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
-com,"Twins second baseman Luis Castillo left the game due to an injured foot/ankle"
 play,6,0,shear001,00,...X,S7/G.3-H;1-2
 play,6,0,bakop001,02,FCX,46(1)3/GDP
 play,6,1,mauej001,32,BCBBFX,3/G
@@ -10833,7 +10779,6 @@ play,2,1,rabej001,01,SX,53/G
 play,3,0,swisn001,22,FBSBX,S8/F
 play,3,0,kielb001,10,*B,NP
 sub,garzm001,"Matt Garza",1,0,1
-com,"$Liriano felt 'pop' in elbow on pitch in dirt, out for year"
 play,3,0,kielb001,12,*B.CFS,K
 play,3,0,scutm001,31,SBBBX,9/F
 play,3,0,kendj001,11,BCX,S9/G.1-3
@@ -10954,8 +10899,6 @@ start,nevip001,"Phil Nevin",1,7,10
 start,tynej001,"Jason Tyner",1,8,7
 start,bartj001,"Jason Bartlett",1,9,6
 start,bonsb001,"Boof Bonser",1,0,1
-com,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils;"
-com,"bench coach Billy Doran running the team"
 play,1,0,gathj001,21,CBBX,63/G
 play,1,0,germe001,10,BX,13/G
 play,1,0,dejed001,32,BCFBFBFX,53/G-
@@ -11568,7 +11511,6 @@ play,4,0,konep001,12,BCFC,K
 play,4,0,piera001,00,X,8!/F
 play,4,1,rodrl002,00,,NP
 sub,sweer001,"Ryan Sweeney",0,2,8
-com,"White Sox left fielder Jerry Owens left the game due to an injured foot/ankle"
 play,4,1,rodrl002,02,.CSX,S8/L
 play,4,1,mauej001,22,BFC*BX,56(1)3/GDP
 play,4,1,cuddm001,10,BX,7/L
@@ -11702,9 +11644,6 @@ play,1,0,mackr001,32,BBCFBS,K
 play,1,1,puntn001,00,X,7/F
 play,1,1,rodrl002,31,BBBCX,9/F
 play,1,1,redmm001,10,BX,9/F9LF
-com,"umpchange,2,ump1b,cuzzp901"
-com,"umpchange,2,ump2b,(None)"
-com,"$1B umpire Brian O'Nora left to change into his plate gear"
 play,2,0,iguct001,10,BX,9/F9LF
 play,2,0,cinta001,20,BBX,3/G
 play,2,0,sweer001,10,BX,S7/L
@@ -11716,8 +11655,6 @@ play,2,1,huntt001,12,CCBFFX,13/G-
 play,3,0,andeb003,02,LFS,K
 play,3,0,gloar001,22,BFSFBFX,D8/L
 play,3,0,fielj001,32,BBBCCB,W
-com,"umpchange,3,umphome,onorb901"
-com,"$HP umpire Jerry Crawford left due to back problems"
 play,3,0,mackr001,10,BX,D9/L.2-H;1-3
 play,3,0,iguct001,21,BBCX,S8/G.3-H;2-H
 play,3,0,cinta001,01,S>B,SB2
@@ -11727,10 +11664,6 @@ play,3,0,aloms001,30,BBBB,W
 play,3,0,podss001,00,,NP
 sub,guerm001,"Matt Guerrier",1,0,1
 play,3,0,podss001,21,.BBFX,8/F
-com,"umpchange,3,ump2b,meric901"
-com,"umpchange,3,ump3b,crawj901"
-com,"$umpire Jerry Crawford returns to the field at 3B and 3B umpire Chuck"
-com,"Meriwether moves to 2B"
 play,3,1,kubej002,22,SFBBX,4/L
 play,3,1,tynej001,11,CBX,53/G
 play,3,1,bartj001,22,CFBBS,K

@@ -905,7 +905,6 @@ play,6,1,walkt002,32,CBBBSX,13/G
 play,7,0,rodra001,22,SBFFBX,D8/L
 play,7,0,giamj001,00,,NP
 sub,kennj001,"Joe Kennedy",1,0,1
-com,"Athletics pitcher Rich Harden left the game due to an injured neck/shoulder"
 play,7,0,giamj001,00,.X,S9/L+.2-3
 play,7,0,posaj001,22,BCBSFFFFX,D7/F.3-H;1-3
 play,7,0,canor001,11,CBX,8/SF/F.3-H;2-3
@@ -2957,7 +2956,6 @@ play,6,0,browe001,11,BFX,T7/F.2-H
 play,6,0,shear001,00,,NP
 sub,robec002,"Connor Robertson",1,0,1
 play,6,0,shear001,22,.CBCBS,K
-com,"Debut game for Connor Robertson"
 play,6,0,philp001,11,F*BX,D4/P.3-H
 play,6,0,berra001,01,FX,53/G
 play,6,1,swisn001,20,BBX,3/P3F
@@ -3135,7 +3133,6 @@ play,7,0,ortmd001,00,,NP
 sub,swisn001,"Nick Swisher",1,2,9
 play,7,0,ortmd001,00,,NP
 sub,buckt001,"Travis Buck",1,8,7
-com,"Athletics left fielder Shannon Stewart left the game due to an injured hand/wrist"
 play,7,0,ortmd001,10,....BX,S8/G.B-2(E8)
 play,7,0,winnr001,12,BFCX,D7/F.2-H
 play,7,0,frank001,02,CFX,53/G
@@ -3163,10 +3160,6 @@ play,8,1,crosb002,30,B*BBB,W
 play,8,1,ellim001,22,S*BFBX,HR/7/F.3-H;2-H;1-H
 play,8,1,buckt001,00,,NP
 sub,tascj001,"Jack Taschner",0,0,1
-com,"ej,klins002,P,millb901,Balls and strikes"
-com,"ej,bochb002,M,millb901,Balls and strikes"
-com,"Giants pitcher Steve Kline & Mgr Bruce Bochy ejected by HP umpire Bill Miller"
-com,"for arguing balls and strikes"
 play,8,1,buckt001,21,...BBCX,D8/L
 play,8,1,kendj001,00,X,43/G
 play,8,1,bocah001,31,C*BBBB,W
@@ -3946,7 +3939,6 @@ start,scutm001,"Marco Scutaro",1,8,4
 start,kendj001,"Jason Kendall",1,9,2
 start,kennj001,"Joe Kennedy",1,0,1
 play,1,0,castl001,21,BCBX,63/G
-com,"Debut game for Kevin Slowey"
 play,1,0,cirij001,32,BFSBFBB,W
 play,1,0,cuddm001,11,C*BX,54(1)3/GDP
 play,1,1,buckt001,02,CFC,K
@@ -4117,7 +4109,6 @@ play,1,1,swisn001,31,BCBBB,W
 play,1,1,bradm001,32,FBBBF>S,K+CS2(26)/DP
 play,2,0,huntt001,00,,NP
 sub,stews002,"Shannon Stewart",1,1,7
-com,"Athletics left fielder Travis Buck left the game due to an injured chest"
 play,2,0,huntt001,32,.CBFBFFBX,53/G
 play,2,0,redmm001,01,CX,3/G
 play,2,0,kubej002,10,BX,43/G
@@ -4140,7 +4131,6 @@ play,4,1,bradm001,32,FBSFBFFBX,8/F
 play,4,1,johnd004,12,SCBX,3/G
 play,5,0,redmm001,00,,NP
 sub,custj001,"Jack Cust",1,3,9
-com,"Athletics right fielder Milton Bradley left the game due to an injured leg"
 play,5,0,redmm001,01,.CX,3/G
 play,5,0,kubej002,11,CBX,7/F
 play,5,0,puntn001,22,FBCBX,53/G
@@ -4240,7 +4230,6 @@ play,2,0,kubej002,21,CBBX,S7/L-
 play,2,0,bartj001,12,BCSX,8/F
 play,2,1,custj001,12,CCBC,K
 play,2,1,kotsm001,11,BFX,13/G
-com,"Kotsay called out for interference"
 play,2,1,kendj001,00,X,8/F
 play,3,0,tynej001,01,CX,DGR/8/F
 play,3,0,castl001,11,BFX,43/G.2-3
@@ -4766,8 +4755,6 @@ play,7,1,chave001,01,.CX,2/P2F
 play,8,0,lugoj001,00,,NP
 sub,lewic001,"Colby Lewis",1,0,1
 play,8,0,lugoj001,12,.CBCX,9/F
-com,"ej,frant001,M,iassd901,Balls and strikes"
-com,"Red Sox Manager Terry Francona ejected by HP umpire Dan Iassogna"
 play,8,0,pedrd001,12,BC.FX,43/G
 play,8,0,ortid001,00,,NP
 sub,marsj001,"Jay Marshall",1,0,1
@@ -4911,7 +4898,6 @@ play,9,0,varij001,22,CBFBX,43/G
 play,9,1,kotsm001,12,CFBX,63/G
 play,9,1,kendj001,11,BCX,63/G
 play,9,1,stews002,00,X,S9/L
-com,"$first hit of game for Oakland with two out in ninth"
 play,9,1,ellim001,10,BX,4/P3F
 data,er,schic002,0
 data,er,blanj001,1
@@ -5012,7 +4998,6 @@ play,5,1,chave001,11,BCX,HR/8/F
 play,5,1,crosb002,11,CBX,53/G
 play,5,1,johnd004,00,,NP
 sub,cavaa001,"Andy Cavazos",0,0,1
-com,"Cardinals pitcher Braden Looper left the game due to an injured neck/shoulder"
 play,5,1,johnd004,01,.CX,8/F
 play,5,1,ellim001,12,BFCFX,7/F
 play,6,0,roles001,01,CX,S9/L
@@ -6194,7 +6179,6 @@ play,3,0,zaung001,11,BSX,43/G
 play,3,0,thigc001,21,BFBX,9/F
 play,3,1,kendj001,00,,NP
 sub,clarh001,"Howie Clark",0,3,5
-com,"Blue Jays third baseman Troy Glaus left the game due to an injured foot/ankle"
 play,3,1,kendj001,12,.BCCX,8/F
 play,3,1,stews002,22,CBFFBFFX,S56/G
 play,3,1,kotsm001,20,BBX,S9/G.1-2
@@ -6251,7 +6235,6 @@ sub,dejoj001,"Jordan De Jong",0,0,1
 play,8,1,stews002,00,,NP
 sub,linda001,"Adam Lind",0,6,7
 play,8,1,stews002,10,..BX,S5/G
-com,"orginally scored E5/TH, changed next day to single"
 play,8,1,browd002,32,BBFFBX,8/F
 play,8,1,swisn001,32,FSBBBX,D9/L.1-3
 play,8,1,custj001,11,BSX,D9/F.3-H;2-H
@@ -6789,18 +6772,6 @@ play,7,0,ellij001,01,CX,S56/G
 play,7,0,suzui001,02,CFX,S9/L-.1-2
 play,7,0,lopej003,12,LLBFX,S8/L.2-3;1-2
 play,7,0,ibanr001,10,BX,D8/F.3-H;2-H;1-H;B-3(E6/THH)
-com,"ej,blanj001,P,reint901,Pushing Ichiro Suzuki"
-com,"ej,batim001,P,reint901,Reacting to Blanton's pushing Ichiro"
-com,"$the ball got away from catcher Jason Kendall and pitcher"
-com,"Joe Blanton went to retrieve it; the ball was at the feet"
-com,"of Ichiro Suzuki, who had just scored so Blanton shoved"
-com,"Suzuki out of the way; both benches cleared as Jason Ellison,"
-com,"who also scored on the play, went after Blanton; Blanton"
-com,"and Mariners pitcher Miguel Batista, who was not in the game,"
-com,"were both ejected by plate umpire Travis Reininger; the umpires"
-com,"saw a Mariner jump the fence near the dugout; Mgr John"
-com,"McLaren told them it was Bastita since they would have thrown"
-com,"Ichiro out of the game if he did not give them a name"
 play,7,0,guilj001,00,,NP
 sub,garcj002,"Santiago Casilla",1,0,1
 play,7,0,guilj001,00,...X,S7/L.3-H(UR)
@@ -7110,7 +7081,6 @@ play,7,0,vazqr001,00,,NP
 sub,kennj001,"Joe Kennedy",1,0,1
 play,7,0,vazqr001,11,.CBX,FC1/SH/BG.2-H(NR)(E1/TH);1-H(NR);B-2
 play,7,0,hairj002,00,X,13/SH/BG.2-3
-com,"originally not SH, changed next day to add SH"
 play,7,0,loftk001,21,BBFX,3/G
 play,7,0,younm003,10,*BX,S8/L-.3-H
 play,7,0,teixm001,32,CFBBB>B,W.1-2
@@ -7406,7 +7376,6 @@ play,7,1,johnd004,32,CBBFBX,4/L
 play,7,1,scutm001,12,CFBS,K
 play,8,0,gibbj002,00,,NP
 sub,buckt001,"Travis Buck",1,3,8
-com,"Athletics Nick Swisher left the game due to an injured neck/shoulder"
 play,8,0,gibbj002,32,.BBBCFX,9!/L
 play,8,0,hernr002,12,.CFBFFC,K
 play,8,0,hernl004,00,X,43/G
@@ -7997,7 +7966,6 @@ play,8,1,stews002,00,,NP
 sub,infao001,"Omar Infante",0,5,6
 play,8,1,stews002,00,,NP
 sub,byrdt001,"Tim Byrdak",0,0,1
-com,"Tigers shortstop Carlos Guillen left the game due to an injured knee"
 play,8,1,stews002,31,..BFBBB,W
 play,8,1,piazm001,32,BSFBFB>S,K+SB2
 play,8,1,ellim001,32,BCB.CFBFX,6!/P
@@ -8563,9 +8531,6 @@ play,6,1,murpd004,32,BBSFFBB,W
 play,6,1,bower002,00,X,13/SH/BG.1-2
 play,6,1,stews002,31,*BBBCB,W
 play,6,1,swisn001,01,CX,36(1)/FO/G.2-H(E1)(NR)(UR);B-2
-com,"Previous play was batter safe at first on dropped catch"
-com,"6E1, then batter continued to second and runner from"
-com,"second scored"
 play,6,1,custj001,31,BBBCB,W
 play,6,1,piazm001,01,CX,13/G
 play,7,0,iztum001,22,CFFBFBX,3!/G+
@@ -9318,7 +9283,6 @@ play,6,0,buckj001,02,CFX,14(1)3/GDP
 play,6,1,buckt001,21,CBBX,D7/F
 play,6,1,stews002,00,,NP
 sub,davaj001,"Jeff DaVanon",1,1,12
-com,"Athletics Travis Buck left the game due to an injured leg"
 play,6,1,stews002,10,.BX,63/G.2-3
 play,6,1,swisn001,21,BBCX,3!1/G.3-H
 play,6,1,custj001,02,FFFS,K
@@ -9432,7 +9396,6 @@ play,2,1,davaj001,32,FBBCBX,S8/L-
 play,2,1,murpd004,21,BFBX,64(1)3/GDP
 play,3,0,dejed001,00,X,S9/G
 play,3,0,gathj001,00,X,13/BG/INT.1-1
-com,"$Gathright called for batter interference"
 play,3,0,teahm001,12,BFFS,K
 play,3,0,butlb003,10,BX,4/L-
 play,3,1,hannj001,22,BFCFFBS,K23
@@ -9453,14 +9416,6 @@ play,5,0,penat002,10,BX,8/F
 play,5,0,dejed001,10,BX,63/G
 play,5,0,gathj001,12,SBCH,HP
 play,5,0,teahm001,12,CF*B.X,S4/G4S.1-2
-com,"ej,gereb001,M,muchm901,Obstruction call on Mark Ellis"
-com,"$Mark Ellis and Joey Gathright made contact when Ellis tried"
-com,"to field the ground ball; Ellis wanted interference but was"
-com,"called for obstructing Gathright; Oakland Manager Bob Geren"
-com,"ejected by 2B umpire Mike Muchlinski, who had made the call;"
-com,"rule 10.12(c) requires an error be charged on the play but"
-com,"that ruling was changed later in the game to a single,"
-com,"probably due to Ellis' 81-game errorless streak"
 play,5,0,butlb003,32,BCBFFFB>S,K
 play,5,1,suzuk001,00,X,7/F
 play,5,1,stews002,22,CFBBX,4/P
@@ -11143,7 +11098,6 @@ sub,wilkb002,"Brad Wilkerson",0,9,3
 play,8,1,suzuk001,00,,NP
 sub,galaa002,"Armando Galarraga",0,0,1
 play,8,1,suzuk001,31,...FBBBB,W
-com,"Debut game for Armando Galarraga"
 play,8,1,stews002,11,BCX,8/F
 play,8,1,bartd001,00,X,6/P
 play,8,1,swisn001,02,CCX,7/F
@@ -11214,13 +11168,6 @@ play,1,0,younm003,32,BFBBCFB,W
 play,1,0,sosas001,12,CFBX,54(1)/FO/G
 play,1,1,bartd001,12,CSBX,S7/F
 play,1,1,swisn001,32,BCBCBH,HP.1-2
-com,"ej,swisn001,P,meric901,Brawl after intentional HBP"
-com,"ej,padiv001,P,meric901,Brawl after intentional HBP"
-com,"$Nick Swisher, who had hit three homers in the past three games and"
-com,"had been hit in the previous game, charged the mound and tackled"
-com,"Vicente Padilla; both benches cleared; during the melee, 2B umpire Tim"
-com,"Timmons was knocked to the ground; both Swisher and Padilla were"
-com,"ejected by HP umpire Chuck Meriwether"
 play,1,1,custj001,00,,NP
 sub,wrigj001,"Jamey Wright",0,0,1
 play,1,1,custj001,00,,NP
@@ -11337,7 +11284,6 @@ sub,blevj001,"Jerry Blevins",1,0,1
 play,9,0,murpd005,00,,NP
 sub,browd002,"Dee Brown",1,2,7
 play,9,0,murpd005,22,..CCBBS,K
-com,"Debut game for Jerry Blevins"
 play,9,0,cruzn002,31,FBBBX,7/F
 play,9,0,quirg001,00,X,4/P
 play,9,1,scutm001,32,BBBCCX,D9/L

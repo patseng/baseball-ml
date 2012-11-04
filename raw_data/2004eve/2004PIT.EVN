@@ -205,7 +205,6 @@ play,3,0,burrp001,00,X,S8/L.3-H;2-3
 play,3,0,abreb001,11,FBX,7/F
 play,3,0,liebm001,32,S1FBBB>S,K+CSH(242)/DP
 play,3,1,castj005,11,CBX,S8/L
-com,"Debut game for Jose Castillo"
 play,3,1,bensk001,00,X,14/SH/BG.1-2
 play,3,1,redmt001,00,X,FC6/G.2X3(64)
 play,3,1,kendj001,22,C11CB1B>FX,D7/L.1-H(TH)(NR)
@@ -247,7 +246,6 @@ play,6,1,castj005,01,FX,6/LDP.2X2(64)
 play,7,0,polap001,00,,NP
 sub,johnm005,"Mike Johnston",1,9,1
 play,7,0,polap001,32,.BBCFFBB,W
-com,"Debut game for Mike Johnston"
 play,7,0,thomj002,00,X,8/F
 play,7,0,burrp001,22,SBS1FBFFS,K
 play,7,0,abreb001,02,CFC,K
@@ -1016,7 +1014,6 @@ play,2,0,dunna001,00,,NP
 sub,wilsc003,"Craig A. Wilson",1,6,3
 play,2,0,dunna001,00,,NP
 sub,davij004,"J.J. Davis",1,7,9
-com,"$Simon left with injured leg"
 play,2,0,dunna001,01,...FH,HP
 play,2,0,keara001,22,BFC*BC,K
 play,2,0,laruj001,20,1BBX,S8/L.1-2
@@ -1323,7 +1320,6 @@ play,2,0,jimed001,01,1FX,S8/G.1-2
 play,2,0,larkb001,21,BFBX,64(1)3/GDP
 play,2,1,mondr002,00,,NP
 sub,freer001,"Ryan Freel",0,6,9
-com,"$Kearns left with injured arm"
 play,2,1,mondr002,12,.CFBX,S7/L
 play,2,1,mackr001,12,SBFFC,K
 play,2,1,wilsc003,22,FCBBS,K
@@ -2134,8 +2130,6 @@ play,10,0,belta001,32,PSF.BFBX,S5/G-
 play,10,0,encaj001,01,FX,64(1)/FO/G
 play,10,1,mackr001,32,SBBCB*B,W
 play,10,1,stync001,11,BC1X,24/SH/BG.1-2
-com,"ej,mccll001,M,younl901,Check swing"
-com,"Pirates Manager Lloyd McClendon ejected by HP umpire Larry Young"
 play,10,1,hillb001,22,S.FBBX,43/G.2-3
 play,10,1,redmt001,30,IIII,IW
 play,10,1,mesaj001,00,,NP
@@ -2419,8 +2413,6 @@ play,1,0,paytj001,31,CBBBX,E9/SF/F.3-H(UR);2-3;1-2
 play,1,0,buchb002,31,BBFBB,W.3-H(UR);2-3;1-2
 play,1,0,cirij001,32,BBBCCFB,W.3-H(UR);2-3;1-2
 play,1,0,ojedm001,01,CX,7/SF.3-H(UR)
-com,"ej,wills801,C,vanol901,Balls and strikes"
-com,"Pirates pitching coach Spin Williams ejected by HP umpire Larry Vanover"
 play,1,0,peavj001,02,.FSS,K
 play,1,1,wilsj002,12,CBFX,D7/L
 play,1,1,hillb001,32,BBSFBS,K
@@ -2489,8 +2481,6 @@ play,8,0,nevip001,22,.BCCBX,43/G
 play,8,0,paytj001,00,X,63/G
 play,8,0,robik002,21,CBBX,63/G
 play,8,1,hillb001,32,BFFBBC,K
-com,"ej,hillb001,P,vanol901,Balls and strikes"
-com,"Bobby Hill ejected by HP umpire Larry Vanover"
 play,8,1,wardd002,02,.FFX,HR/9/L
 play,8,1,wilsc003,30,BBBB,W
 play,8,1,mackr001,00,,NP
@@ -2924,7 +2914,6 @@ play,6,1,wardd002,21,C*BBX,46(1)/FO/G.2-3
 play,6,1,stync001,20,1BBX,5/P5F
 play,7,0,moelc001,00,,NP
 sub,redmt001,"Tike Redman",1,5,8
-com,"$Mateo left game with injured hand"
 play,7,0,moelc001,11,.BFX,63/G
 play,7,0,david002,00,,NP
 sub,grieb001,"Ben Grieve",0,9,11
@@ -3550,7 +3539,6 @@ start,simor001,"Randall Simon",1,7,3
 start,castj005,"Jose Castillo",1,8,4
 start,burns001,"Sean Burnett",1,9,1
 play,1,0,macij001,32,BBCBCX,43/G
-com,"Debut game for Sean Burnett"
 play,1,0,walkt002,22,BCSVX,7/F
 play,1,0,aloum001,00,X,S5/G
 play,1,0,ramia001,20,BBX,64(1)/FO/G
@@ -3667,10 +3655,6 @@ play,9,0,macij001,00,X,D7/L.1-3
 play,9,0,walkt002,10,BH,HP
 play,9,0,aloum001,00,,NP
 sub,meadb001,"Brian Meadows",1,7,1
-com,"ej,johnm005,P,samuj901,Intentional HBP"
-com,"ej,mccll001,M,samuj901,Intentional HBP"
-com,"Mike Johnston and Pirates Manager Lloyd McClendon ejected by HP umpire Jack Samuels;"
-com,"Coach Mackanin manages the rest of the game"
 play,9,0,aloum001,01,..FX,S7/G.3-H(UR);2-H(UR);1-2
 play,9,0,ramia001,01,CX,D7/G.2-H(UR);1-3
 play,9,0,lee-d002,10,BX,T9/F.3-H(TUR);2-H(TUR)
@@ -3898,7 +3882,6 @@ play,1,0,womat001,12,BCFFS,K
 play,1,0,lankr001,32,BFSBBFFB,W
 play,1,0,pujoa001,12,BCFX,S8/G.1-3
 play,1,0,roles001,10,BH,HP.1-2
-com,"$Rolen hit on forehead, suffered concussion"
 play,1,0,edmoj001,10,BX,S8/L-.3-H;2-H;1-3
 play,1,0,rente001,01,CX,43/G-.3-H;1-2
 play,1,0,mabrj001,12,TBFS,K
@@ -4093,7 +4076,6 @@ play,4,0,rente001,02,SLX,46(1)/FO/G.2-3
 play,4,0,mabrj001,21,CB*BX,E7/SF/F.3-H;1-3;B-2
 play,4,0,mathm001,00,,NP
 sub,mckac001,"Cody McKay",0,8,11
-com,"$Matheny left game with injured chest"
 play,4,0,mckac001,10,..BX,FC1/G.3XH(12);2-3
 play,4,0,carpc002,32,FBBBF>X,43/G
 play,4,1,wilsc003,00,,NP
@@ -4114,7 +4096,6 @@ play,5,1,wilsj002,10,BX,43/G
 play,5,1,wardd002,22,BCSBS,K
 play,6,0,rente001,00,,NP
 sub,johnm005,"Mike Johnston",1,9,1
-com,"$Wells left game with injured hand"
 play,6,0,rente001,00,.X,S9/G
 play,6,0,mabrj001,32,1BCFBFBX,D8/F.1-H
 play,6,0,mckac001,02,LLC,K
@@ -4231,7 +4212,6 @@ play,2,0,roles001,22,BFBCX,D9/F
 play,2,0,sandr002,32,SSBBFFFBFS,K
 play,2,0,lunah001,00,X,8/F.2-3
 play,2,0,moliy001,11,BCX,4/P-
-com,"Debut game for Yadier Molina"
 play,2,1,mackr001,22,FFBFBS,K
 play,2,1,hillb001,22,CF*BBX,43/G
 play,2,1,nunea001,00,X,S9/G
@@ -4321,20 +4301,6 @@ sub,gonzm001,"Mike Gonzalez",1,9,1
 play,9,0,tagus001,01,.CX,3/G
 play,9,0,edmoj001,31,CBBBX,6/P
 play,9,0,womat001,31,BFVBB,W
-com,"ej,mccll001,M,gormb901,Arguing with LaRussa"
-com,"ej,larut101,M,gormb901,Arguing with McClendon"
-com,"$a Mike Gonzalez high, inside pitch caused"
-com,"Tony Womack to hirt the dirt; Cardinal Manager Tony LaRussa"
-com,"yelled at Gonzalez from the dugout; Pirates manager"
-com,"Lloyd McClendon ran out of his dugout"
-com,"towards the St Louis dugout; two umpires"
-com,"tried to restrain him; LaRussa came out"
-com,"and the two managers yelled at each other"
-com,"with umpires between them; both benches"
-com,"and bullpens emptied; Scott Rolen had suffered"
-com,"a concussion two days earlier after being"
-com,"hit on the head; both managers were"
-com,"ejected by HP umpire Brian Gorman"
 play,9,0,rente001,00,,NP
 sub,torrs001,"Salomon Torres",1,9,1
 play,9,0,rente001,10,.1BX,43/G
@@ -4591,7 +4557,6 @@ play,6,0,guilj001,12,FBSX,53/G
 play,6,0,erstd001,22,BBCFX,13/G
 play,6,1,mackr001,02,CSX,S7/L
 play,6,1,simor001,00,X,8/F/DP.1X1(13)
-com,"$Appeal Play"
 play,6,1,hillb001,10,BX,8/F
 play,7,0,paulj001,00,,NP
 sub,wardd002,"Daryle Ward",1,3,3
@@ -5038,7 +5003,6 @@ play,6,0,cabrj002,20,11PBX,7/F
 play,6,0,suzui001,21,1C*B1BX,S8/L.1-3
 play,6,0,spies001,00,,NP
 sub,meadb001,"Brian Meadows",1,9,1
-com,"$Burnett left game with injured arm"
 play,6,0,spies001,12,.BFC>FC,K
 play,6,0,olerj001,11,BC1>B,SB2
 play,6,0,olerj001,31,BC1>B.BI,IW
@@ -7427,7 +7391,6 @@ play,1,1,wilsc003,00,,NP
 sub,freer001,"Ryan Freel",0,1,8
 play,1,1,wilsc003,00,,NP
 sub,hummt001,"Tim Hummel",0,8,5
-com,"$Romano left game with injured leg"
 play,1,1,wilsc003,02,..CFX,E6/G.2-3
 play,1,1,alvat002,10,BX,S7/G.3-H(UR);1-2
 play,1,1,redmt001,00,X,5/P5F
@@ -8302,7 +8265,6 @@ play,9,1,hillb001,32,..BFBCBX,7/F
 play,9,1,kendj001,20,BBX,9/F
 play,9,1,wilsj002,02,CCX,S6/L
 play,9,1,mackr001,10,BX,S9/F.1-H
-com,"originally scored as double, changed next day"
 data,er,tomkb001,4
 data,er,browj003,0
 data,er,chrij002,1
@@ -9038,11 +9000,6 @@ play,4,1,wilsj002,00,,NP
 sub,cotah001,"Humberto Cota",1,1,12
 play,4,1,wilsj002,00,,NP
 sub,harit001,"Tim Harikkala",0,9,1
-com,"ej,kennj001,P,nauep901,Fighting with Jason Kendall"
-com,"ej,kendj001,P,nauep901,Fighting with Joe Kennedy"
-com,"$Jason Kendall took a few steps towards 1B and then"
-com,"charged the mound when Joe Kennedy yelled something;"
-com,"a brawl ensued and both players ejected by HP umpire Paul Nauert"
 play,4,1,wilsj002,10,....*BX,4/L
 play,5,0,piedj001,00,,NP
 sub,cotah001,"Humberto Cota",1,1,2
@@ -9673,7 +9630,6 @@ play,8,1,redmt001,00,X,3/BG
 play,9,0,womat001,00,,NP
 sub,broof001,"Frank Brooks",1,9,1
 play,9,0,womat001,01,.CX,3/G
-com,"Debut game for Frank Brooks"
 play,9,0,walkl001,22,CFBBFFFC,K
 play,9,0,pujoa001,32,BBCFBX,6/P
 play,9,1,hillb001,00,,NP
@@ -10529,7 +10485,6 @@ sub,qualc001,"Chad Qualls",0,7,1
 play,6,1,bay-j001,00,,NP
 sub,alfaj001,"Jason Alfaro",0,9,6
 play,6,1,bay-j001,22,...FFBBS,K
-com,"Debut game for Jason Alfaro"
 play,6,1,wilsc003,22,BFBCX,4/P
 play,7,0,ausmb001,12,BCFFX,9/F
 play,7,0,alfaj001,00,X,S9/L
@@ -11147,7 +11102,6 @@ play,4,0,piazm001,21,BBFX,53/G
 play,4,0,wrigd002,20,BBX,8/F
 play,4,1,wilsc003,00,,NP
 sub,valee002,"Eric Valent",0,3,7
-com,"$Floyd left game with injured back"
 play,4,1,wilsc003,10,.BX,63/G
 play,4,1,nunea001,31,BBBCX,9/F
 play,4,1,wiggt001,31,BBBCB,W

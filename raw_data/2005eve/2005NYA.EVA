@@ -361,8 +361,6 @@ start,martt002,"Tino Martinez",1,7,3
 start,willb002,"Bernie Williams",1,8,8
 start,womat001,"Tony Womack",1,9,4
 start,mussm001,"Mike Mussina",1,0,1
-com,"Boston manager Terry Francona hospitalized with chest"
-com,"pains before game; team managed by bench coach Brad Mills"
 play,1,0,damoj001,01,FX,8/F
 play,1,0,nixot001,10,BX,43/G
 play,1,0,ramim002,11,FBX,43/G
@@ -407,7 +405,6 @@ play,6,0,ortid001,11,BCX,7/F
 play,6,0,millk005,22,FBFBX,S8/L-
 play,6,0,rente001,00,,NP
 sub,mccad001,"David McCarty",0,5,12
-com,"$Kevin Millar left the game due to an injured leg"
 play,6,0,rente001,12,.FSBFX,S7/L.1-2
 play,6,0,mirad001,21,BFBX,7/F
 play,6,0,muelb001,00,X,43/G
@@ -530,7 +527,6 @@ play,1,1,jeted001,20,BBX,S8/G
 play,1,1,rodra001,12,CBST,K
 play,1,1,shefg001,01,FB,WP.1-2
 play,1,1,shefg001,11,FB.X,S6/G.2-3
-com,"originally scored as E6, changed next day"
 play,1,1,matsh001,11,BFX,9/SF.3-H
 play,1,1,giamj001,10,BB,PB.1-2
 play,1,1,giamj001,30,BB.BB,W
@@ -892,7 +888,6 @@ play,3,0,moram002,11,1PCF,FLE3
 play,3,0,moram002,12,1PCF1X,S3/L.1-3
 play,3,0,tejam001,00,,NP
 sub,sturt001,"Tanyon Sturtze",1,0,1
-com,"$Pavano was hit on the head by a line drive and forced to leave"
 play,3,0,tejam001,10,..1BX,S9/L-.3-H(UR);1-2
 play,3,0,sosas001,11,BSX,7/F
 play,3,0,palmr001,00,X,43/G-.2-3;1-2
@@ -1530,7 +1525,6 @@ play,6,0,nix-l001,32,CFBBFBX,S7/L
 play,6,0,soria001,10,BX,S7/L.1-3;B-2(TH)
 play,6,0,blalh001,00,,NP
 sub,groob001,"Buddy Groom",1,0,1
-com,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder"
 play,6,0,blalh001,21,S.BBX,43/G
 play,6,0,younm003,00,,NP
 sub,karss001,"Steve Karsay",1,0,1
@@ -1887,7 +1881,6 @@ sub,crosb001,"Bubba Crosby",1,2,8
 play,8,0,rivej001,00,,NP
 sub,beanc001,"Colter Bean",1,0,1
 play,8,0,rivej001,20,..BBX,53/G
-com,"Debut game for Colter Bean"
 play,8,0,quinr002,22,CCBBX,6/L
 play,8,0,cabro001,12,CBFX,6/P5F
 play,8,1,rodra001,00,,NP
@@ -2370,7 +2363,6 @@ start,flahj001,"John Flaherty",1,8,2
 start,womat001,"Tony Womack",1,9,4
 start,wangc001,"Chien-Ming Wang",1,0,1
 play,1,0,cataf001,01,CX,63/G
-com,"Debut game for Chien-Ming Wang"
 play,1,0,hudso001,10,BX,7/F
 play,1,0,wellv001,01,CX,8/F
 play,1,1,jeted001,02,CCX,S8/G
@@ -2421,7 +2413,6 @@ play,6,1,matsh001,12,BFCX,31/G
 play,6,1,rodra001,02,CSX,63/G
 play,6,1,giamj001,00,,NP
 sub,phila001,"Andy Phillips",1,6,11
-com,"Yankees designated hitter Jason Giambi left the game due to an injured arm"
 play,6,1,phila001,32,.BBFFFFBFFFX,D9/L
 play,6,1,martt002,10,.BX,7/F
 play,7,0,zaung001,21,.BBCX,43/G
@@ -2547,7 +2538,6 @@ play,4,0,zaung001,02,CFX,9/F.2-3
 play,4,0,riosa002,32,BBFFBC,K
 play,4,1,shefg001,00,,NP
 sub,menef001,"Frank Menechino",0,2,4
-com,"Blue Jays second baseman Orlando Hudson left the game due to an injured head"
 play,4,1,shefg001,02,.CFX,HR/7/F
 play,4,1,rodra001,32,BSFBFBB,W
 play,4,1,posaj001,32,1B1FBF*B>F>X,543/G.1-2
@@ -3656,9 +3646,6 @@ play,8,0,wilsv001,12,CFBX,64(1)3/GDP.2-3
 play,8,0,smitj001,10,BH,HP
 play,8,0,thamm001,00,,NP
 sub,groob001,"Buddy Groom",1,0,1
-com,"ej,quanp001,P,fairc901,Intentional HBP"
-com,"ej,torrj101,M,fairc901,Intentional HBP"
-com,"Paul Quantrill & Mgr Joe Torre ejected by HP umpire Chad Fairchild"
 play,8,0,thamm001,00,...>B,DI.1-2
 play,8,0,thamm001,32,...>B.BCFF*BX,HR/8/F.3-H;2-H
 play,8,0,yound001,21,SBBX,D8/F
@@ -4286,7 +4273,6 @@ sub,shopk001,"Kelly Shoppach",0,6,2
 play,7,1,womat001,00,,NP
 sub,timlm001,"Mike Timlin",0,0,1
 play,7,1,womat001,11,..BCX,S9/G
-com,"Debut game for Kelly Shoppach"
 play,7,1,sierr001,32,BBSCBFX,3/G.1-2
 play,7,1,willb002,31,BFBBX,S8/L.2-H
 play,7,1,johnr006,00,>C,DI.1-2
@@ -4693,7 +4679,6 @@ play,5,0,sancf001,10,11B>X,S8/G.1-3
 play,5,0,bay-j001,00,X,S7/L.3-H;1-2
 play,5,0,mackr001,00,,NP
 sub,groob001,"Buddy Groom",1,0,1
-com,"Yankees pitcher Kevin Brown left the game due to an injured back"
 play,5,0,mackr001,11,B.FX,46(1)3/GDP
 play,5,1,giamj001,12,CCBFS,K
 play,5,1,canor001,32,FBBBFB,W
@@ -5425,7 +5410,6 @@ play,2,0,peree001,32,BBFTBX,13/G
 play,2,0,gomej001,30,BBBB,W
 play,2,0,holld002,31,1CBBBB,W.1-2
 play,2,0,hallt001,11,CBX,6/P
-com,"infield fly"
 play,2,0,gonza001,30,*BBBB,W.2-3;1-2
 play,2,0,crawc002,31,*BCBBB,W.3-H;2-3;1-2
 play,2,0,lugoj001,12,CBSX,S6/G.3-H;2-H(NR)(UR)(E6/TH);1-3;B-2
@@ -5500,7 +5484,6 @@ play,8,1,jeted001,32,.BFBFFB+1X,S7/G.1-2
 play,8,1,womat001,11,FBX,6/P5F
 play,8,1,shefg001,22,*BFBSX,S7/G.2-H;1-2
 play,8,1,rodra001,01,SX,4/P
-com,"infield fly"
 play,8,1,matsh001,12,BFSFX,HR/9/F.2-H;1-H
 play,8,1,posaj001,00,,NP
 sub,baezd001,"Danys Baez",0,0,1
@@ -5808,7 +5791,6 @@ play,5,1,sierr001,00,,NP
 sub,taylr001,"Reggie Taylor",0,6,8
 play,5,1,sierr001,00,,NP
 sub,holld002,"Damon Hollins",0,7,9
-com,"Devil Rays right fielder Aubrey Huff left the game due to an injured knee"
 play,5,1,sierr001,20,..BBX,D8/F
 play,5,1,johnr006,00,H,HP
 play,5,1,flahj001,10,BX,54/SH/BG.2-3;1-2
@@ -6249,7 +6231,6 @@ play,5,0,piazm001,10,.BX,4/P
 play,5,0,wrigd002,02,CFS,K
 play,5,1,shefg001,00,,NP
 sub,daubb001,"Brian Daubach",0,8,3
-com,"Mets 1B Doug Mientkiewicz left the game due to an injured leg"
 play,5,1,shefg001,22,.BCBFFX,8/F
 play,5,1,rodra001,22,CBBFX,63/G
 play,5,1,matsh001,21,BBFX,S7/L
@@ -6258,7 +6239,6 @@ play,6,0,woodc001,20,BBX,D6/P
 play,6,0,daubb001,01,.CX,13/G
 play,6,0,castr002,32,FBBBFB,W+PB.2-3
 play,6,0,reyej001,00,X,S8/F.3-H;1-2
-com,"originally ruled UD, changed on 6-27"
 play,6,0,camem001,32,BTBBFFS,K
 play,6,0,beltc001,21,BCBX,9/L
 play,6,1,giamj001,12,CSBS,K
@@ -6286,7 +6266,6 @@ play,8,0,floyc001,32,BBTFBFB,W.1-2
 play,8,0,piazm001,00,,NP
 sub,willg001,"Gerald Williams",0,4,12
 play,8,0,piazm001,12,.FFFBX,5/P
-com,"infield fly"
 play,8,0,wrigd002,00,X,9/F
 play,8,1,rodra001,00,,NP
 sub,willg001,"Gerald Williams",0,4,7
@@ -6387,7 +6366,6 @@ play,3,0,camem001,22,CCFB.FFFFBS,K
 play,3,0,beltc001,31,BFBBX,63/G
 play,3,1,flahj001,21,BFBX,4/P
 play,3,1,reesk001,31,BSBBB,W
-com,"Debut game for Kevin Reese"
 play,3,1,jeted001,01,CX,64(1)/FO/G
 play,3,1,womat001,00,1X,8/F
 play,4,0,piazm001,12,SBSX,53/G
@@ -6440,9 +6418,6 @@ play,7,1,womat001,00,,NP
 sub,sierr001,"Ruben Sierra",1,2,11
 play,7,1,sierr001,12,.BCSS,K
 play,7,1,shefg001,22,BCBSFFFX,143/G.2-3
-com,"ej,shefg001,P,buckc901,Call at 1B (Slammed helmet)"
-com,"Yankees right fielder Gary Sheffield ejected by 1B umpire CB Bucknor"
-com,"for slamming helmet to the ground"
 play,7,1,rodra001,11,.BCX,S7/F.3-H
 play,7,1,matsh001,00,,NP
 sub,ringr001,"Royce Ring",0,0,1
@@ -6776,7 +6751,6 @@ sub,white004,"Eli Whiteside",0,9,2
 play,6,1,shefg001,00,,NP
 sub,baldj002,"James Baldwin",0,0,1
 play,6,1,shefg001,22,..BBCSX,S8/L
-com,"Debut game for Eli Whiteside"
 play,6,1,rodra001,01,CX,9/F
 play,6,1,matsh001,10,BX,HR/9/F.1-H
 play,6,1,giamj001,22,CBBFX,D9/L
@@ -6888,7 +6862,6 @@ play,2,1,giamj001,01,CX,HR/9/L
 play,2,1,posaj001,32,CBFBBC,K
 play,2,1,willb002,22,BBCFX,13/G
 play,2,1,cabrm002,22,BBCFS,K
-com,"Debut game for Melky Cabrera"
 play,3,0,sizeg001,00,X,S9/G
 play,3,0,crisc001,10,BX,13/SH/BG.1-2
 play,3,0,hafnt001,00,X,7/F.2-3
@@ -7223,7 +7196,6 @@ sub,howrb001,"Bob Howry",0,0,1
 play,8,1,canor001,20,.BBX,S7/F
 play,8,1,shefg001,32,BCSFBBB,W.1-2
 play,8,1,rodra001,32,BBCBCX,3/P
-com,"infield fly"
 play,8,1,matsh001,00,,NP
 sub,rhoda001,"Arthur Rhodes",0,0,1
 play,8,1,matsh001,10,.BX,HR/9/F.2-H;1-H
@@ -7748,7 +7720,6 @@ play,1,1,jeted001,11,CBX,S8/L
 play,1,1,canor001,01,FX,S8/L.1-2
 play,1,1,shefg001,12,CBFX,HR/7/L.2-H;1-H
 play,1,1,rodra001,12,CBFX,S1/G.B-2(E1/TH)
-com,"originally E1 all the way, changed after game"
 play,1,1,matsh001,10,BX,13/G
 play,1,1,giamj001,11,CBX,3/P3F
 play,1,1,posaj001,20,BBX,9!/L
@@ -9528,8 +9499,6 @@ play,7,1,willb002,32,F1PSB>B.*B,W
 play,7,1,shefg001,10,BH,HP.2-3;1-2
 play,7,1,rodra001,02,CFS,K
 play,7,1,matsh001,20,BBX,S9/G.3-H;2-H;1-3(THH)
-com,"ej,gibbj001,M,hudsm901,Call at HP"
-com,"Blue Jays Manager John Gibbons ejected by HP umpire Marvin Hudson"
 play,7,1,posaj001,00,.X,4/P
 play,7,1,giamj001,00,,NP
 sub,schos001,"Scott Schoeneweis",0,0,1
@@ -10229,7 +10198,6 @@ play,5,0,teahm001,22,BFFBX,9/F
 play,5,0,philp001,01,F>X,S4/G.1-2
 play,5,0,dejed001,32,BFBFFB*B,W.2-3;1-2
 play,5,0,hockd001,00,X,4/P
-com,"infield fly"
 play,5,0,sweem002,01,FX,D7/G.3-H;2-H;1-3
 play,5,0,longt002,12,CBFX,S9/L.3-H;2-H
 play,5,0,browe001,10,BX,S8/G.1-3
@@ -10533,7 +10501,6 @@ play,3,0,hallt001,01,CX,6/P5F
 play,3,0,green001,02,CFFH,HP
 play,3,0,lugoj001,32,BCB1BF>B,W.1-2
 play,3,0,crawc002,02,CFX,5/P5F
-com,"infield fly"
 play,3,0,cantj001,01,CX,4/P
 play,3,1,giamj001,12,CCBX,8/F
 play,3,1,sierr001,20,BBX,6!3/G
@@ -10679,7 +10646,6 @@ play,1,0,lee-t002,00,,NP
 sub,matsh001,"Hideki Matsui",1,2,7
 play,1,0,lee-t002,00,,NP
 sub,lawtm002,"Matt Lawton",1,7,9
-com,"Yankees right fielder Gary Sheffield left the game due to an injured leg"
 play,1,0,lee-t002,00,...X,7/SF.3-H
 play,1,0,holld002,32,BSFFBBX,D9/F
 play,1,0,hallt001,22,BFBFX,43/G
@@ -11571,12 +11537,9 @@ play,2,1,crosb001,20,BB11N,BK.1-2
 play,2,1,crosb001,21,BB11N.CX,S3/BG.2-H(NR)
 play,2,1,jeted001,00,,NP
 sub,gomec001,"Chris Gomez",0,1,4
-com,"Orioles second baseman Brian Roberts left the game due to an injured elbow"
 play,2,1,jeted001,12,.C11P11CX,E1/FO/G.1-2
 play,2,1,rodra001,00,,NP
 sub,baldj002,"James Baldwin",0,0,1
-com,"ej,perls101,M,holbs901,Arguing for runner interference"
-com,"Orioles Manager Sam Perlozzo ejected by HP umpire Sam Holbrook"
 play,2,1,rodra001,32,..CBFBB>F>X,9/F
 play,2,1,giamj001,32,FFBFFBFBFFFX,S6/P.2-3;1-2
 play,2,1,shefg001,12,CBCX,HR/7/F.3-H;2-H(UR);1-H
@@ -11759,7 +11722,6 @@ play,5,1,jeted001,11,CP>B,SB2
 play,5,1,jeted001,22,CP>B.CX,163/G
 play,6,0,newhd001,00,,NP
 sub,martt002,"Tino Martinez",1,3,3
-com,"Yankees first baseman Jason Giambi left the game due to an injured back"
 play,6,0,newhd001,22,.SBSBFX,43/G-
 play,6,0,castb002,10,BX,S5/G+
 play,6,0,moram002,10,B1X,D8/L.1-H
@@ -12070,8 +12032,6 @@ play,6,0,hills002,10,BX,8/F
 play,6,1,martt002,00,,NP
 sub,leagb001,"Brandon League",0,0,1
 play,6,1,martt002,11,.FBX,43/G
-com,"ej,gibbj001,M,fostm901,Check swing"
-com,"Blue Jays Manager John Gibbons ejected by HP umpire Marty Foster"
 play,6,1,crosb001,20,.BBX,31/G
 play,6,1,jeted001,31,BBCBB,W
 play,6,1,canor001,02,FFC,K

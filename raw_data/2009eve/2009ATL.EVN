@@ -247,7 +247,6 @@ start,kotcc001,"Casey Kotchman",1,7,3
 start,schaj002,"Jordan Schafer",1,8,8
 start,kawak001,"Kenshin Kawakami",1,9,1
 play,1,0,milll002,22,BCFBX,8/F
-com,"Debut game for Kenshin Kawakami"
 play,1,0,guzmc001,01,CX,7/F
 play,1,0,zimmr001,30,BBBB,W
 play,1,0,dunna001,32,BBC1FB>B,W.1-2
@@ -411,7 +410,6 @@ play,3,0,bardj001,32,FFBFBBB,W
 play,3,0,harrw001,02,CFX,S8/L.1-2
 play,3,0,olses001,00,,NP
 sub,gonza005,"Alberto Gonzalez",0,8,12
-com,"Nationals left fielder Willie Harris left the game due to an injured chest"
 play,3,0,olses001,00,.X,14/SH/BG.2-3;1-2
 play,3,0,guzmc001,10,BX,8/F
 play,3,0,dukee001,22,F*BC*BX,43/G
@@ -936,7 +934,6 @@ play,6,0,uggld001,00,,NP
 sub,infao001,"Omar Infante",1,2,6
 play,6,0,uggld001,00,,NP
 sub,pradm001,"Martin Prado",1,3,5
-com,"Braves shortstop Yunel Escobar left the game due to an injured chest"
 play,6,0,uggld001,32,..SBSBBB,W
 play,6,0,hermj001,12,1CC*BX,T8/F.1-H
 play,6,0,rossc001,11,F*BX,8/SF/F.3-H
@@ -1373,7 +1370,6 @@ play,4,1,escoy001,21,BCBX,9/F
 play,5,0,thurj001,10,BX,S8/L
 play,5,0,ryanb002,00,,NP
 sub,bardb001,"Brian Barden",0,8,11
-com,"Cardinals shortstop Brendan Ryan left the game due to an injured leg"
 play,5,0,bardb001,22,BBFF.X,S8/F.1-3
 play,5,0,waina001,01,FX,S8/L-.3-H;1-2
 play,5,0,schus001,02,CFS,K
@@ -1709,7 +1705,6 @@ play,7,0,keppj001,22,BCFBX,8/F
 play,7,0,matsk001,10,BX,S9/L
 play,7,0,bourm001,02,1FCX,46(1)/FO/G
 play,7,0,berkl001,10,BX,S5/G.1-2
-com,"originally E5, changed next day to S5"
 play,7,0,lee-c001,31,BFBBX,5/P5F
 play,7,1,pradm001,21,BCBX,53/G
 play,7,1,schaj002,31,FBBBX,D9/F
@@ -1904,7 +1899,6 @@ sub,johnk003,"Kelly Johnson",1,9,11
 play,8,1,johnk003,22,..BTFBX,3!1/G
 play,8,1,infao001,00,,NP
 sub,ortir001,"Russ Ortiz",0,8,1
-com,"Astros pitcher Doug Brocail left the game due to an injured leg"
 play,8,1,infao001,31,.CBBBB,W
 play,8,1,escoy001,01,FX,8/F
 play,8,1,jonec004,31,BCBBB,W.1-2
@@ -2966,7 +2960,6 @@ sub,corpm001,"Manuel Corpas",0,9,1
 play,6,1,infao001,10,.BH,HP.1-2
 play,6,1,escoy001,00,,NP
 sub,kotcc001,"Casey Kotchman",1,1,12
-com,"Braves third baseman Omar Infante left the game due to an injured hand/wrist"
 play,6,1,escoy001,01,.SX,53/G
 play,7,0,smits002,00,,NP
 sub,kotcc001,"Casey Kotchman",1,1,3
@@ -3062,7 +3055,6 @@ start,franj004,"Jeff Francoeur",1,7,9
 start,schaj002,"Jordan Schafer",1,8,8
 start,medlk001,"Kris Medlen",1,9,1
 play,1,0,fowld001,10,BX,8/F
-com,"Debut game for Kris Medlen"
 play,1,0,tulot001,12,BCFS,K
 play,1,0,heltt001,22,CBCFBFFFFX,S8/F-
 play,1,0,hawpb001,00,N,BK.1-2
@@ -3124,7 +3116,6 @@ play,6,1,andeg001,11,BCX,43/G
 play,7,0,spilr001,00,,NP
 sub,hernd001,"Diory Hernandez",1,1,6
 play,7,0,spilr001,02,.CCS,K
-com,"Debut game for Diory Hernandez"
 play,7,0,atkig001,32,CBBFFBB,W
 play,7,0,barmc001,12,CSBFX,T9/F.1-H
 play,7,0,cooka002,02,CSFFX,8/SF/F.3-H
@@ -4214,8 +4205,6 @@ play,9,0,fielp001,00,,NP
 sub,sorir001,"Rafael Soriano",1,9,1
 play,9,0,fielp001,31,.BBCBB,W
 play,9,0,camem001,22,BCC*BC,K
-com,"ej,camem001,P,hudsm901,Called third strike"
-com,"Brewers center fielder Mike Cameron ejected by HP umpire Marvin Hudson"
 play,9,0,hallb001,11,.CBX,9/F
 play,9,0,hartc001,22,CSBBX,S8/L.1-2
 play,9,0,kendj001,00,X,2/P2F
@@ -4287,7 +4276,6 @@ start,johnk003,"Kelly Johnson",1,7,4
 start,rossd001,"David Ross",1,8,2
 start,hanst001,"Tommy Hanson",1,9,1
 play,1,0,counc001,11,BCX,9/F
-com,"Debut game for Tommy Hanson"
 play,1,0,hardj003,21,BCBX,3/P3F
 play,1,0,braur002,01,CX,53/G
 play,1,1,mclon001,10,BX,9/F
@@ -4758,8 +4746,6 @@ play,8,0,morgn001,00,,NP
 sub,gonzm001,"Mike Gonzalez",1,9,1
 play,8,0,morgn001,12,.LSFBX,53/G
 play,8,0,yound004,11,BCX,563/G
-com,"ej,hillp801,C,eddid901,Call at 1B"
-com,"Pirates First Base Coach Perry Hill ejected by 1B umpire Doug Eddings"
 play,8,0,laroa001,12,.CFFBS,K
 play,8,1,mccab002,00,,NP
 sub,gorzt001,"Tom Gorzelanny",0,9,1
@@ -4845,7 +4831,6 @@ play,2,0,jaraj001,32,BCFBBB,W
 play,2,0,wilsj002,32,FBFFFBB>F>X,8/F
 play,2,0,mortc002,00,,NP
 sub,dukez001,"Zach Duke",0,9,11
-com,"Pirates pitcher Charlie Morton left the game due to a tight left hamstring"
 play,2,0,dukez001,00,.X,14/SH/BG.1-2
 play,2,0,mccua001,12,CBSS,K
 play,2,1,andeg001,00,,NP
@@ -4884,9 +4869,6 @@ play,6,1,mclon001,12,CCBFFX,8/F
 play,6,1,escoy001,21,BBCX,D7/L
 play,6,1,jonec004,11,CBX,7/F
 play,6,1,mccab002,10,BX,D8/F.2-H
-com,"$Brian McCann's fly to CF hit the top of the yellow line on the wall and bounced back"
-com,"onto the field; crew chief Dana DeMuth watched the replay and upheld the call on the"
-com,"field that the ball was in play"
 play,6,1,andeg001,00,,NP
 sub,burns001,"Sean Burnett",0,9,1
 play,6,1,andeg001,21,.CBBX,6/P
@@ -4999,7 +4981,6 @@ play,2,0,laroa002,11,BCX,S9/F
 play,2,0,yound004,22,FSBFBT,K
 play,2,0,diazr001,22,1CBFFB>S,K
 play,2,1,canib001,22,BBFCC,K
-com,"Debut game for Barbaro Canizares"
 play,2,1,diazm003,22,SSBBS,K
 play,2,1,franj004,10,BX,S56/G+
 play,2,1,rossd001,12,BCCFFS,K
@@ -5072,8 +5053,6 @@ play,9,1,rossd001,00,,NP
 sub,blang001,"Gregor Blanco",1,7,11
 play,9,1,blang001,11,..CBX,63/G
 play,9,1,johnk003,12,TFBFFFX,31/G
-com,"ej,cox-b103,M,knigb901,Call at 1B on Kelly Johnson"
-com,"Braves Manager Bobby Cox ejected by 1B umpire Brian Knight"
 play,9,1,sorir001,00,,NP
 sub,mccab002,"Brian McCann",1,9,11
 play,9,1,mccab002,32,..BFFFBBFFS,K
@@ -5127,7 +5106,6 @@ start,kotcc001,"Casey Kotchman",1,6,3
 start,franj004,"Jeff Francoeur",1,7,9
 start,hernd001,"Diory Hernandez",1,8,6
 start,vazqj001,"Javier Vazquez",1,9,1
-com,"$makeup of June 4 rainout"
 play,1,0,therr001,21,BBCX,S8/G
 play,1,0,fukuk001,00,X,46(1)3/GDP
 play,1,0,fox-j001,10,BX,S7/G
@@ -5173,7 +5151,6 @@ play,5,1,jonec004,00,X,D8/L.1-3
 play,5,1,mccab002,32,BSBS*BX,3/L+
 play,6,0,fox-j001,00,,NP
 sub,pradm001,"Martin Prado",1,2,4
-com,"Braves second baseman Kelly Johnson left the game due to an injured leg"
 play,6,0,fox-j001,22,.CBBSFX,7/F
 play,6,0,lee-d002,32,SFBBBFFFX,63/G
 play,6,0,hoffm001,00,X,S8/G
@@ -5439,7 +5416,6 @@ play,3,0,chamj002,12,BFCFX,163/L+
 play,3,1,johnk003,22,CBBFX,13/G
 play,3,1,kawak001,00,,NP
 sub,hernd001,"Diory Hernandez",1,9,11
-com,"Braves pitcher Kenshin Kawakami left the game due to an injured neck/shoulder"
 play,3,1,hernd001,22,.BBFSX,43/G
 play,3,1,mclon001,01,FX,D8/F
 play,3,1,escoy001,02,CSX,9/F
@@ -5461,8 +5437,6 @@ play,5,1,medlk001,22,.BCSBS,K
 play,5,1,mclon001,32,CFBBBS,K
 play,6,0,gardb001,31,BBBCB,W
 play,6,0,cervf001,00,11,PO1(13)
-com,"ej,giraj001,M,welkb901,Call at 1B"
-com,"Yankees Manager Joe Girardi ejected by 1B umpire Bill Welke for arguing the call at 1B"
 play,6,0,cervf001,22,11..BFBSX,HR/78/F
 play,6,0,chamj002,01,CX,4/L-
 play,6,0,jeted001,01,CX,S7/G
@@ -5845,7 +5819,6 @@ sub,okajh001,"Hideki Okajima",0,9,1
 play,8,1,mclon001,10,.BX,E1/BG
 play,8,1,pradm001,00,,NP
 sub,blang001,"Gregor Blanco",1,1,12
-com,"Braves center fielder Nate McLouth left the game due to an injured leg"
 play,8,1,pradm001,32,.B*B1CSBF*B,W.1-2
 play,8,1,jonec004,02,FSS,K
 play,8,1,andeg001,32,FBBBFC,K
@@ -6146,7 +6119,6 @@ sub,gonzm001,"Mike Gonzalez",1,9,1
 play,9,0,youkk001,12,.BCFX,S7/F
 play,9,0,bay-j001,32,CBBF*BC,K
 play,9,0,ortid001,01,FX,43/G.1-1
-com,"$Kevin Youkilis got in a run-down and dove back to 1B ahead of the throw"
 play,9,0,varij001,00,>C,DI.1-2
 play,9,0,varij001,02,>C.SFX,S8/F-.2-H
 play,9,0,ellsj001,00,,NP
@@ -6902,7 +6874,6 @@ play,5,1,escoy001,00,,NP
 sub,reddt001,"Tim Redding",0,7,1
 play,5,1,escoy001,00,,NP
 sub,berra001,"Angel Berroa",0,9,6
-com,"Mets left fielder Gary Sheffield left the game due to an injured leg"
 play,5,1,escoy001,00,..X,D7/F.3-H;2-H
 play,5,1,churr001,00,,NP
 sub,reedj004,"Jeremy Reed",0,4,7
@@ -7203,7 +7174,6 @@ play,2,0,schnb001,12,C1C*BFX,S7/L-.1-2
 play,2,0,nievf001,10,*BX,13/G
 play,2,1,andeg001,00,,NP
 sub,reddt001,"Tim Redding",0,9,1
-com,"Mets pitcher Fernando Nieve left the game due to an injured leg"
 play,2,1,andeg001,02,.CFX,8/F
 play,2,1,escoy001,20,BBX,HR/7/L
 play,2,1,kotcc001,22,CFBBX,13/G
@@ -7572,7 +7542,6 @@ play,7,0,white004,00,,NP
 sub,churr001,"Ryan Church",1,8,8
 play,7,0,white004,00,,NP
 sub,diazm003,"Matt Diaz",1,9,9
-com,"Braves center fielder Nate McLouth left the game due to an injured back"
 play,7,0,white004,22,...BCBSC,K
 play,7,0,uribj002,31,BBCBX,8/F
 play,7,0,winnr001,32,BFFBBFX,8/F
@@ -7848,9 +7817,6 @@ play,6,0,zitob001,02,FS+2S,K
 play,6,1,pradm001,30,BBBB,W
 play,6,1,jonec004,00,X,9/F
 play,6,1,escoy001,32,BFBF>FB1>C,K+CS2(24)/DP
-com,"ej,cox-b103,M,kellj901,Called third strike on Escobar"
-com,"Braves Manager Bobby Cox ejected by HP umpire Jeff Kellogg for arguing"
-com,"the called third strike to Escobar, which Cox thought was high"
 play,7,0,winnr001,00,X,D7/F
 play,7,0,lewif001,21,BFB2X,8/F
 play,7,0,sandp001,00,X,7/F
@@ -7864,8 +7830,6 @@ sub,gonzm001,"Mike Gonzalez",1,9,1
 play,8,0,schin001,02,.CCFX,S13/L+
 play,8,0,ishit001,00,,NP
 sub,logab001,"Boone Logan",1,9,1
-com,"Braves pitcher Mike Gonzalez left the game due to a bruised left forearm after"
-com,"being struck by a line drive"
 play,8,0,ishit001,01,.LX,S3/BG.1-2
 play,8,0,uribj002,00,,NP
 sub,pradm001,"Martin Prado",1,2,3
@@ -8305,7 +8269,6 @@ play,6,0,billc001,00,,NP
 sub,medlk001,"Kris Medlen",1,9,1
 play,6,0,billc001,00,,NP
 sub,schmj001,"Jason Schmidt",0,9,11
-com,"Dodgers pitcher Chad Billingsley left the game due to an injured leg"
 play,6,0,schmj001,11,..CBX,S8/G
 play,6,0,furcr001,10,BX,8/F
 play,6,0,ethia001,12,CBFX,S7/L.1-2
@@ -8446,9 +8409,6 @@ play,3,0,lannj001,12,CSBX,31/G
 play,3,0,morgn001,01,LX,S8/F-
 play,3,0,guzmc001,10,B11>C,SB2
 play,3,0,guzmc001,11,B11>C.>C,CS3(25)
-com,"ej,ecksr801,C,vanol901,Call at 3B (Morgan)"
-com,"Nationals Batting Coach Rick Eckstein ejected by 3B umpire Larry Vanover"
-com,"for yelling from the dguout after the caught stealing"
 play,3,0,guzmc001,22,B11>C.>C.BX,S7/L
 play,3,0,zimmr001,22,.1B1CBC1B,PB.1-2
 play,3,0,zimmr001,32,.1B1CBC1B.>X,8/F
@@ -8501,7 +8461,6 @@ play,7,1,jonec004,20,.BBX,HR/9/F+
 play,7,1,mccab002,32,CFBBFFFBS,K
 play,7,1,escoy001,02,SFS,K
 play,7,1,andeg001,11,BSX,2/P2F/INT
-com,"fan interference"
 play,8,0,morgn001,12,BCFC,K
 play,8,0,guzmc001,10,BX,63/G
 play,8,0,zimmr001,12,BCCFFS,K
@@ -8910,7 +8869,6 @@ play,5,1,mclon001,32,BCBSBFB,W
 play,5,1,pradm001,22,BCBFX,8/F
 play,5,1,jonec004,00,,NP
 sub,churr001,"Ryan Church",1,1,12
-com,"Braves center fielder Nate McLouth left the game due to an injured leg"
 play,5,1,jonec004,11,.FBX,8/F
 play,5,1,mccab002,32,BBBCC>F>F>F>F>C,K
 play,6,0,victs001,00,,NP
@@ -9251,7 +9209,6 @@ sub,infao001,"Omar Infante",1,9,5
 play,8,0,tracc001,00,,NP
 sub,ryalr001,"Rusty Ryal",0,6,11
 play,8,0,ryalr001,22,....BCFFBX,8/F
-com,"Debut game for Reid Gorecki"
 play,8,0,romea001,31,BBBCB,W
 play,8,0,ojeda001,22,CB1FFBX,54(1)/FO/G
 play,8,0,boyeb001,00,,NP
@@ -10334,12 +10291,6 @@ play,4,0,gomej001,00,2X,53/G
 play,4,1,mccab002,01,CX,9/F
 play,4,1,laroa001,12,BFCX,E3/G+
 play,4,1,escoy001,22,BCBFX,13/G/INT.1-1
-com,"ej,cox-b103,M,gormb901,Batter interference call on throw to 1B"
-com,"$Yunel Escobar hit a liner off Bronson Arroyo's back; Arroyo picked up the"
-com,"ball near the 1B line and threw to first; the throw hit Escobar on the shoulder"
-com,"as he reached the bag and he was called out for interfering with the play;"
-com,"Escobar turned his ankle when he stepped on the bag; Braves manager Bobby"
-com,"was ejected by HP umpire Brian Gorman for arguing the call"
 play,4,1,churr001,01,.FX,S7/L.1-2
 play,4,1,infao001,00,X,6(1)/FO/G
 play,5,0,balew001,00,,NP
@@ -10350,7 +10301,6 @@ play,5,0,balew001,00,,NP
 sub,churr001,"Ryan Church",1,7,9
 play,5,0,balew001,00,,NP
 sub,infao001,"Omar Infante",1,8,6
-com,"Braves shortstop Yunel Escobar left the game due to an injured ankle"
 play,5,0,balew001,21,....CBBX,D7/L
 play,5,0,millc001,00,X,13/SH/BG.2-3
 play,5,0,arrob001,00,X,4/P
@@ -10726,9 +10676,6 @@ play,12,0,philb001,22,CFB*B+11X,8/F
 play,12,0,roles001,00,X,S7/L.1-3
 play,12,0,balew001,32,BS*BSB>F>F>B,W.1-2
 play,12,0,owinm001,01,SH,HP.3-H;2-3;1-2
-com,"$Owings was hit on the side of the helmet; a cut was closed with four stitches"
-com,"and even though there were no indications of concussion, he was not allowed to"
-com,"fly and stayed with family in the Atlanta area"
 play,12,0,millc001,00,,NP
 sub,arrob001,"Bronson Arroyo",0,7,12
 play,12,0,millc001,00,.X,8/SF/F.3-H;2-3
@@ -10964,7 +10911,6 @@ play,2,1,infao001,21,CBBX,D7/L
 play,2,1,churr001,10,BX,S8/G.2-H
 play,2,1,lowed001,00,,NP
 sub,nortg001,"Greg Norton",1,9,11
-com,"Braves pitcher Derek Lowe left the game due to an injured hand/wrist"
 play,2,1,nortg001,02,.CSFFX,8/F
 play,2,1,mclon001,32,BBFCFB>F>T,K
 play,3,0,franj004,00,,NP
@@ -11051,7 +10997,6 @@ sub,santo001,"Omir Santos",0,2,11
 play,8,0,santo001,21,.BCBX,HR/7/F
 play,8,0,wrigd002,00,,NP
 sub,acosm001,"Manny Acosta",1,9,1
-com,"Braves pitcher Mike Gonzalez left the game due to an injured back"
 play,8,0,wrigd002,20,.BBX,S8/L
 play,8,0,beltc001,00,1X,D9/F.1-3
 play,8,0,murpd006,30,IIII,IW
@@ -11300,10 +11245,8 @@ play,2,1,andeg001,12,BCCX,63/G
 play,2,1,diazm003,11,CBX,D8/F
 play,2,1,laroa001,10,BX,5/P5F
 play,2,1,hudst001,00,X,S7/L.2XH(72)
-com,"$Phillies catcher Carlos Ruiz strained his left wrist making the tag and left in 6th"
 play,3,0,felip001,00,,NP
 sub,infao001,"Omar Infante",1,5,6
-com,"$Yunel Escobar removed for not hustling on groundout in first"
 play,3,0,felip001,01,.CX,53/G
 play,3,0,ruizc001,10,BX,63/G
 play,3,0,happj001,12,CBFX,4!/L
@@ -11319,8 +11262,6 @@ play,4,0,wertj001,11,FBX,S7/L
 play,4,0,ibanr001,00,1X,43/G
 play,4,1,infao001,00,,NP
 sub,kendk001,"Kyle Kendrick",0,9,1
-com,"$Happ left as precaution after grimacing while covering first"
-com,"on grounder by McLouth in 3rd"
 play,4,1,infao001,00,.X,53/G
 play,4,1,andeg001,01,CX,43/G
 play,4,1,diazm003,11,BCX,S7/L
@@ -11467,8 +11408,6 @@ play,2,0,ibanr001,32,BSBCFFBFS,K
 play,2,0,felip001,01,CX,S9/G
 play,2,0,bakop001,32,*BS*BBF>B,W.1-2
 play,2,0,martp001,02,CFS,K
-com,"$Martinez injured neck swinging at curve ball for strike 3. Left"
-com,"game after 3rd inning"
 play,2,1,andeg001,02,CCX,D7/G
 play,2,1,escoy001,12,TLBX,S9/L-.2-3
 play,2,1,laroa001,02,SCX,S9/L.3-H;1-2
@@ -11617,11 +11556,6 @@ start,hanst001,"Tommy Hanson",1,9,1
 play,1,0,rollj001,02,CSS,K
 play,1,0,victs001,00,X,S9/L
 play,1,0,utlec001,32,C1B*BB>F>F>S,K+CS2(26)/DP
-com,"ej,victs001,P,fairc901,Call at 2B on steal attempt"
-com,"Phillies center fielder Shane Victorino ejected by 2B umpire Chad Fairchild"
-com,"for arguing the caught stealing to end the first inning; he was shocked at the"
-com,"call and threw his helmet down; then after Fairchild started walking out to"
-com,"the outfield grass, Victorino made more comments to get tossed"
 play,1,1,mclon001,00,,NP
 sub,franb001,"Ben Francisco",0,2,8
 play,1,1,mclon001,00,..X,43/G
@@ -12594,7 +12528,6 @@ play,5,0,zimmr001,02,CCX,S9/G
 play,5,0,dunna001,00,X,43/G
 play,5,1,andeg001,00,,NP
 sub,maxwj002,"Justin Maxwell",0,1,8
-com,"Nationals center fielder Willie Harris left the game due to an injured chest"
 play,5,1,andeg001,00,.X,6!/L-
 play,5,1,infao001,10,BX,43/G
 play,5,1,laroa001,22,BBSFX,9/F

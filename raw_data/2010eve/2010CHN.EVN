@@ -92,7 +92,6 @@ play,5,0,escoa003,00,,NP
 sub,colvt001,"Tyler Colvin",1,3,9
 play,5,0,escoa003,00,,NP
 sub,nadyx001,"Xavier Nady",1,5,3
-com,"Cubs first baseman Derrek Lee left the game due to an injured hand"
 play,5,0,escoa003,22,..CCFBFBX,S9/L-
 play,5,0,vargc001,00,,NP
 sub,geruj001,"Jody Gerut",0,9,11
@@ -379,7 +378,6 @@ play,1,0,geruj001,01,FX,7/F
 play,1,1,therr001,31,CBBBX,7/F
 play,1,1,fukuk001,12,SBCS,K
 play,1,1,lee-d002,32,BCFBBX,HR/8/F
-com,"$Derrek Lee's 100th homer at Wrigley Field"
 play,1,1,ramia001,32,CBBFBS,K
 play,2,0,zaung001,21,BCBX,S8/L
 play,2,0,escoa003,02,CCX,43/G.1-2
@@ -463,8 +461,6 @@ play,7,1,fukuk001,00,,NP
 sub,villc001,"Carlos Villanueva",0,9,1
 play,7,1,fukuk001,22,.BFBFS,K
 play,7,1,lee-d002,12,BSCC,K
-com,"ej,lee-d002,P,campa902,Called third strike"
-com,"Cubs first baseman Derrek Lee ejected by HP umpire Angel Campos"
 play,7,1,ramia001,32,.BSBBCB,W
 play,7,1,colvt001,12,CS*BS,K
 play,8,0,braur002,00,,NP
@@ -715,7 +711,6 @@ play,3,0,felip001,00,X,13/G+
 play,3,0,lee-c001,22,BBCCX,7/F
 play,3,1,gorzt001,00,,NP
 sub,tracc001,"Chad Tracy",1,9,11
-com,"Cubs pitcher Tom Gorzelanny left the game due to an injured arm"
 play,3,1,tracc001,02,.CFX,8/F
 play,3,1,therr001,12,BFCX,S9/G
 play,3,1,fukuk001,00,X,5/P
@@ -1569,7 +1564,6 @@ play,9,0,abret001,12,.CCBS,K
 play,9,1,soria001,00,,NP
 sub,stand001,"Daniel Stange",0,9,1
 play,9,1,soria001,11,.BCX,9/F
-com,"Debut game for Daniel Stange"
 play,9,1,fontm001,10,BX,43/G
 play,9,1,sotog001,12,CBSX,63/G
 data,er,kenni001,4
@@ -2589,7 +2583,6 @@ play,5,0,burrb001,00,,NP
 sub,clemj001,"Jeff Clement",0,9,11
 play,5,0,clemj001,00,,NP
 sub,dukez001,"Zach Duke",0,7,12
-com,"Pirates first baseman Steve Pearce left the game due to an injured knee"
 play,5,0,clemj001,10,..BX,S9/L.2-H;1-3
 play,5,0,iwama001,00,X,3/G
 play,5,1,soria001,00,,NP
@@ -3507,8 +3500,6 @@ play,3,1,casts001,02,CSFFX,52(3)/FO/G.2-3;1-2
 play,3,1,hillk002,12,BCSFS,K
 play,3,1,gorzt001,00,X,43/G
 play,4,0,dewib001,31,BSBBB,W
-com,"$as ball 4 was delivered, lights went out as electic company"
-com,"did emergency power shutdown due to a fire; 18 minute delay"
 play,4,0,billc001,22,BCBCL,K/BF
 play,4,0,furcr001,32,CB1FBFFFB1C,K
 play,4,0,martr004,32,BCCBB>C,K
@@ -3525,7 +3516,6 @@ play,5,1,casts001,00,X,63/G
 play,6,0,lonej001,32,CSBFBBFX,T9/L
 play,6,0,johnr008,02,SSFX,D7/L.3-H
 play,6,0,dewib001,02,CCX,S7/L.2-2
-com,"$low liner that Soriano nearly caught, Johnson had to hold"
 play,6,0,billc001,00,,NP
 sub,howrb001,"Bob Howry",1,9,1
 play,6,0,billc001,21,.BC2BX,34/SH/BG.2-3;1-2
@@ -3556,7 +3546,6 @@ play,7,1,byrdm001,12,..FBFFS,K
 play,7,1,fontm001,00,,NP
 sub,bakej001,"Jeff Baker",1,6,11
 play,7,1,bakej001,22,.FCBBX,T8/F.3-H;2-H
-com,"$triple was catchable, but Ramirez quit running"
 play,7,1,casts001,12,FCFFBS,K
 play,7,1,hillk002,02,FFS,K
 play,8,0,dewib001,00,,NP
@@ -3681,11 +3670,6 @@ play,5,1,bakej001,32,SBBBSX,7/F
 play,5,1,sotog001,01,CX,3/G
 play,6,0,kempm001,32,CBSBFBFX,9/F
 play,6,0,blakc001,01,CX,S7/L
-com,"$Dodgers Casey Blake argued with 1B umpire John Hirschbeck about Cubs pitcher"
-com,"Ted Lilly's position on the mound; Blake claimed that Lilly was standing with"
-com,"his foot a few inches in front of the pitching rubber instead of being against"
-com,"it as the rules require; Dodgers 1B coach Mariano Rivera and manager Joe Torre"
-com,"got involved in the argument"
 play,6,0,lonej001,11,B1F1X,7/F
 play,6,0,johnr008,02,FFX,4!/P3F
 play,6,1,lillt001,12,CCBS,K
@@ -3880,7 +3864,6 @@ play,9,0,hollm001,11,BSX,63/G
 play,9,1,sotog001,00,,NP
 sub,salaf001,"Fernando Salas",0,9,1
 play,9,1,sotog001,01,.CX,53/G
-com,"Debut game for Fernando Salas"
 play,9,1,casts001,22,CBBTFX,E5/TH1/G
 play,9,1,nadyx001,21,CBBX,6/L
 play,9,1,fukuk001,00,*B,DI.1-2
@@ -3942,7 +3925,6 @@ start,casts001,"Starlin Castro",1,7,6
 start,hillk002,"Koyie Hill",1,8,2
 start,silvc001,"Carlos Silva",1,9,1
 play,1,0,lopef001,12,BCFX,3/G
-com,"Debut game for Adam Ottavino"
 play,1,0,ludwr001,32,CBFBBS,K
 play,1,0,pujoa001,22,BBCFFFS,K
 play,1,1,fukuk001,12,CBCT,K
@@ -4604,7 +4586,6 @@ play,7,1,byrdm001,01,CX,53/G
 play,7,1,lee-d002,32,BSBCFBB,W
 play,7,1,soria001,21,1BBS*B,OA.1X2(24)
 play,7,1,soria001,32,1BBS*B.FX,D7/L
-com,"$the first hit of the game for either team"
 play,7,1,tracc001,00,X,S8/G.2-H
 play,7,1,hillk002,32,BBTBF>S,K
 play,8,0,piera001,01,FX,43/G
@@ -5641,7 +5622,6 @@ play,3,0,mccua001,22,BCCBX,T9/F.3-H
 play,3,0,joneg002,32,CBB*BFFFX,8/L
 play,3,1,colvt001,00,,NP
 sub,yound004,"Delwyn Young",0,2,4
-com,"Pirates shortstop Bobby Crosby left the game due to an injured head"
 play,3,1,colvt001,02,.CSX,63/G
 play,3,1,byrdm001,10,BX,3/P
 play,3,1,lee-d002,32,SBCBBFX,S7/G
@@ -5674,9 +5654,7 @@ play,7,0,doumr001,21,.BBCX,53/G
 play,7,0,ceder002,00,X,S3/BG
 play,7,0,mahop002,21,LBB,NP
 sub,schlb001,"Brian Schlitter",1,9,1
-com,"Cubs pitcher John Grabow left the game due to an injured knee"
 play,7,0,mahop002,21,LBB.1>S,SB2
-com,"Debut game for Brian Schlitter"
 play,7,0,mahop002,32,LBB.1>S.*BS,K
 play,7,0,tabaj002,22,BFFBS,K
 play,7,1,sotog001,32,CBBSBX,63/G
@@ -6051,7 +6029,6 @@ start,sotog001,"Geovany Soto",1,7,2
 start,casts001,"Starlin Castro",1,8,6
 start,silvc001,"Carlos Silva",1,9,1
 play,1,0,philb001,01,CX,53/G
-com,"Debut game for Travis Wood"
 play,1,0,cabro001,00,X,63/G
 play,1,0,vottj001,21,SBBX,S8/L
 play,1,0,roles001,01,FX,T8/F.1-H
@@ -6546,10 +6523,6 @@ start,lillt001,"Ted Lilly",1,9,1
 play,1,0,philb001,12,BFFX,9/L
 play,1,0,cabro001,01,LX,7/F
 play,1,0,vottj001,32,BSBBFC,K
-com,"ej,vottj001,P,campa902,Called third strike; slammed helmet"
-com,"$Reds first baseman Joey Votto started to go to 1B on what he thought"
-com,"Was a walk and turned to HP umpire Angel Campos and said a few things;"
-com,"as he turned away he slammed his helmet down and was ejected by Campos"
 play,1,1,therr001,00,,NP
 sub,cairm001,"Miguel Cairo",0,7,3
 play,1,1,therr001,00,,NP
@@ -6606,11 +6579,6 @@ play,6,1,colvt001,10,.BX,HR/8/F
 play,6,1,soria001,22,BBCFX,3/G
 play,6,1,fontm001,11,BSX,S8/L
 play,6,1,sotog001,32,BBSBC>S,K/DP/INT.1X1(2)
-com,"Geovany Soto's swing on strike three carried him onto the plate;"
-com,"catcher Corky Miller hit Soto on the head with his hand as Miller"
-com,"tried to throw out Mike Fontenot at 2B on a steal attempt; no one"
-com,"covered the bag and the throw went into center but Soto was called"
-com,"for interfering with Miller's throw and Fontenot was called out"
 play,7,0,stubd001,02,SFX,9/F
 play,7,0,leakm001,22,BCBFFX,9/F
 play,7,0,philb001,10,BX,HR/7/F
@@ -6743,7 +6711,6 @@ play,3,1,lee-d002,00,X,HR/7/F.1-H
 play,3,1,byrdm001,21,BCBX,6!3/G+
 play,3,1,ramia001,32,BBBFCFFX,3/P
 play,3,1,soria001,22,CBCBX,HR/7/F
-com,"$the 511th home run surrendered by Jamie Moyer"
 play,3,1,sotog001,20,BBX,7/F
 play,4,0,howar001,12,CCBS,K
 play,4,0,wertj001,12,CSFBC,K
@@ -7109,7 +7076,6 @@ sub,gloar001,"Ross Gload",0,9,11
 play,9,0,gloar001,32,.BBBCFB,W.1-2
 play,9,0,victs001,02,CFFS,K
 play,9,0,polap001,10,BX,S7/L.2-H;1-3;B-2(TH)
-com,"Schneider would have been out by 20 feet, but Soto dropped ball"
 play,9,0,rollj001,30,BBBB,W+WP.3-H(NR);2-3
 play,9,0,howar001,01,C>B,SB2
 play,9,0,howar001,31,C>B.*BII,IW
@@ -8407,7 +8373,6 @@ play,5,1,dewib001,12,CSBS,K
 play,6,0,mcgec001,00,,NP
 sub,colec001,"Casey Coleman",1,9,1
 play,6,0,mcgec001,30,.BBBB,W
-com,"Debut game for Casey Coleman"
 play,6,0,edmoj001,22,*BFCBFX,S8/G.1-2
 play,6,0,escoa003,00,,NP
 sub,gomec002,"Carlos Gomez",0,6,12
@@ -8541,7 +8506,6 @@ start,sotog001,"Geovany Soto",1,7,2
 start,dewib001,"Blake DeWitt",1,8,4
 start,diamt001,"Thomas Diamond",1,9,1
 play,1,0,weekr001,02,CCS,K
-com,"Debut game for Thomas Diamond"
 play,1,0,hartc001,32,BSSBFBS,K
 play,1,0,braur002,30,BBBB,W
 play,1,0,fielp001,32,BBBCF>X,S7/F-.1-3
@@ -8774,14 +8738,6 @@ play,7,1,sotog001,31,*BBBCX,HR/78/F.2-H;1-H
 play,7,1,soria001,10,BH,HP
 play,7,1,dewib001,00,,NP
 sub,riskd001,"David Riske",0,9,1
-com,"ej,hawkl001,P,hallt901,Intentional HBP"
-com,"ej,machk101,M,hallt901,Intentional HBP by LaTroy Hawkins"
-com,"$Brewers pitcher LaTroy Hawkins ejected by HP umpire Tom Hallion for throwing"
-com,"at Alfonso Soriano; there had been numerous hit batters earlier in the series;"
-com,"Hawkins argued with Hallion while Hallion kept waving Hawkins off the field;"
-com,"Brewers manager Ken Macha came out and wanted to know why there was an ejection"
-com,"now and not when all his hitters were being hit in previous games; Macha"
-com,"got angry and eventually was ejected by Hallion"
 play,7,1,dewib001,12,...C*BFC,K
 play,7,1,bakej001,31,BBBCB,W.1-2
 play,7,1,zambc001,02,CFX,43/G
@@ -9253,7 +9209,6 @@ play,9,0,janip001,12,BSCFX,7/F
 play,9,0,stubd001,12,BCCX,43/G
 play,9,0,heisc001,32,BSCBFBFH,HP
 play,9,0,cairm001,01,FX,E9/F.1-H(UR);B-3
-com,"originally scored a triple, changed to error on 8-18"
 play,9,0,vottj001,12,SFBFS,K
 play,9,1,ramia001,12,CSBT,K
 play,9,1,byrdm001,11,SBX,8/F
@@ -9680,9 +9635,6 @@ sub,diamt001,"Thomas Diamond",1,9,1
 play,6,0,hundn001,11,.CBX,8/F
 play,6,0,gwynt002,02,CCFF,NP
 sub,hairs001,"Scott Hairston",0,7,11
-com,"Padres center fielder Tony Gwynn left the game due to a sprained right wrist,"
-com,"which he hurt fouling off the fourth pitch. Later diagnosed as broken"
-com,"hamate bone and he was placed on DL"
 play,6,0,hairs001,12,CCFF.FBX,7/F
 play,6,0,cabre001,21,BBFX,S7/G.BX2(74)
 play,6,1,nadyx001,00,,NP
@@ -9856,11 +9808,6 @@ play,7,0,venaw001,02,SFX,S8/L.3-H;2-H;1-3;B-2(THH)
 play,7,0,denoc001,00,,NP
 sub,bergj002,"Justin Berg",1,9,1
 play,7,0,denoc001,01,.CX,FC5/G.3XH(52);2-H(NR)
-com,"$Cubs catcher Koyie Hill ran Chase Headley back towards third and tagged him"
-com,"in front of the bag; then Hill turned toward the infield; Will Venable, who had"
-com,"advanced to third during the rundown, ran for the palte since there was no one"
-com,"covering home; Hill threw the ball to first baseman Xavier Nady, who arrived at"
-com,"the plate too late to tag Venable"
 play,7,0,latom001,11,CBX,13/G
 play,7,1,soria001,11,CBX,8/F
 play,7,1,dewib001,12,CCBX,S7/F
@@ -10254,12 +10201,6 @@ start,bakej001,"Jeff Baker",1,6,9
 start,nadyx001,"Xavier Nady",1,7,3
 start,hillk002,"Koyie Hill",1,8,2
 start,wellr001,"Randy Wells",1,9,1
-com,"$Lou Piniella's last game as manager of the Cubs; he had announced his decision"
-com,"to leave the post at the end of the season but family matters required him to"
-com,"leave early; this was also Bobby Cox's last game at Wrigley Field as he had"
-com,"announced before the season that 2010 would be his last season as a manager."
-com,"Both managers presented their lineup cards at the pre-game meeting, which is"
-com,"now quite uncommon"
 play,1,0,infao001,11,FBX,HR/8/F
 play,1,0,heywj001,31,BBCBB,W
 play,1,0,pradm001,11,BFX,S7/G.1-2
@@ -10783,7 +10724,6 @@ play,3,0,mccua001,21,BBFX,63/G
 play,3,0,tabaj002,10,BX,143/L+
 play,3,0,walkn001,00,,NP
 sub,diamt001,"Thomas Diamond",1,9,1
-com,"Cubs pitcher Tom Gorzelanny was struck on the pitching hand by a line drive"
 play,3,0,walkn001,32,.BCBBCX,HR/78/F
 play,3,0,joneg002,00,X,4/L
 play,3,1,dewib001,10,BX,6/P
@@ -11100,7 +11040,6 @@ play,1,1,byrdm001,02,CSS,K
 play,2,0,dudal001,32,CBCBBFB,W
 play,2,0,davii001,01,CX,4/L+
 play,2,0,nickm001,00,X,64(1)3/GDP
-com,"Debut game for Mike Nickeas"
 play,2,1,ramia001,02,CFX,63/G
 play,2,1,nadyx001,20,BBX,S8/G+
 play,2,1,colvt001,10,BX,43/G.1-2
@@ -11469,7 +11408,6 @@ play,3,1,colec001,22,BLLBM,K
 play,3,1,bakej001,10,B1X,7/F
 play,3,1,dewib001,00,B,WP.1-2
 play,3,1,dewib001,11,B.CX,E3/TH/G.2-H(UR)
-com,"originally a single, changed to E3 on 9-15 - makes 3 runs unearned"
 play,3,1,byrdm001,01,CX,HR/7/F.1-H(UR);B-H(UR)
 play,3,1,sotog001,32,FFBBFFBB,W
 play,3,1,nadyx001,21,BCB>C,CS2(24)
@@ -11637,8 +11575,6 @@ play,6,0,manzt001,00,,NP
 sub,mains001,"Scott Maine",1,9,1
 play,6,0,manzt001,12,.FSBFFFX,9/F
 play,6,0,castj006,12,CBFX,E5/G+
-com,"originally scored as single, changed to error next day, makes"
-com,"run unearned"
 play,6,0,figun001,00,,NP
 sub,downm001,"Matt Downs",0,9,11
 play,6,0,downm001,31,.SBBBX,S8/L.1-3
@@ -11652,7 +11588,6 @@ sub,snydb002,"Brad Snyder",1,9,11
 play,6,1,snydb002,00,,NP
 sub,byrdt001,"Tim Byrdak",0,9,1
 play,6,1,snydb002,02,..SFS,K
-com,"Debut game for Brad Snyder"
 play,6,1,fukuk001,11,1BCX,4/P
 play,6,1,dewib001,12,CBSC,K
 play,7,0,pench001,00,,NP
@@ -12191,7 +12126,6 @@ play,2,0,guilj001,00,H,HP.2-3;1-2
 play,2,0,uribj002,00,,NP
 sub,diamt001,"Thomas Diamond",1,9,1
 play,2,0,uribj002,21,.BBCX,HR/7/F.3-H;2-H;1-H
-com,"$second homer of inning for Juan Uribe"
 play,2,0,rossc001,12,BCSX,S7/L
 play,2,0,bumgm001,02,CFX,S9/G.1-2
 play,2,0,fontm001,22,BBSCFX,8/F
@@ -12390,7 +12324,6 @@ play,4,0,waina001,00,,NP
 sub,fukuk001,"Kosuke Fukudome",1,3,9
 play,4,0,waina001,00,,NP
 sub,snydb002,"Brad Snyder",1,7,7
-com,"Cubs center fielder Marlon Byrd left the game due to an injured head"
 play,4,0,waina001,12,...SBSS,K
 play,4,0,milea001,02,CFX,S8/L-
 play,4,0,rasmc001,30,BBBB,W.1-2
@@ -12551,10 +12484,6 @@ play,3,1,casts001,10,B.X,53/G
 play,3,1,fukuk001,32,BSBFBB,W
 play,3,1,ramia001,12,CFFFBFX,S7/L.3-H;1-2
 play,3,1,hoffm001,32,CSBB*B>F>X,S3/G.2XH(3E2)(UR)(NR);1-3;B-2
-com,"$when Albert Pujols realized he was not going to get Micah Hoffpauir"
-com,"at first, Pujols threw home, trapping Blake DeWeitt in a rundown;"
-com,"catcher Bryan Anderson ran after DeWitt but threw the ball over"
-com,"Daniel Descalso's head"
 play,3,1,soria001,30,IIII,IW
 play,3,1,fulds001,21,BBCX,S8/G.3-H(UR);2-H(UR);1-3
 play,3,1,hillk002,11,BCX,6/L
@@ -12567,8 +12496,6 @@ play,4,1,casts001,22,BBCFX,D8/F
 play,4,1,fukuk001,32,CSBFBBB,W
 play,4,1,ramia001,22,BSBCX,S7/L.2-H;1-3
 play,4,1,hoffm001,11,*BCX,7/F
-com,"ej,larut101,M,westj901,Balls and strikes"
-com,"Cardinals Manager Tony La Russa ejected by HP umpire Joe West"
 play,5,0,schus001,32,BBBCCFB,W
 play,5,0,jay-j001,00,X,7/F
 play,5,0,pujoa001,12,CBT1C,K
@@ -12579,8 +12506,6 @@ play,5,1,soria001,12,.CBFFS,K
 play,5,1,fulds001,00,X,S15/L+
 play,5,1,hillk002,00,,NP
 sub,salaf001,"Fernando Salas",0,9,1
-com,"Cardinals pitcher Blake Hawksworth left the game after being hit on the face"
-com,"by the ball"
 play,5,1,hillk002,02,.F1FFS,K
 play,5,1,colec001,31,CBBBB,W.1-2
 play,5,1,dewib001,12,CCFFBX,T9/L.2-H;1-H

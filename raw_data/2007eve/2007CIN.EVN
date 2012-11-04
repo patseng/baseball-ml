@@ -126,7 +126,6 @@ sub,hamij003,"Josh Hamilton",1,9,11
 play,8,1,hamij003,00,,NP
 sub,ohmaw001,"Will Ohman",0,7,1
 play,8,1,hamij003,10,..BX,7!/L-
-com,"Debut game for Josh Hamilton"
 play,8,1,freer001,02,CFFS,K23
 play,8,1,dunna001,12,FSBS,K
 play,9,0,barrm003,00,,NP
@@ -273,7 +272,6 @@ sub,burtj001,"Jared Burton",1,9,1
 play,9,0,howrb001,00,,NP
 sub,wardd002,"Daryle Ward",0,9,11
 play,9,0,wardd002,32,..BBSBFB,W
-com,"Debut game for Jared Burton"
 play,9,0,soria001,00,,NP
 sub,ceder002,"Ronny Cedeno",0,9,12
 play,9,0,soria001,20,.BB>S,CS2(24)
@@ -661,8 +659,6 @@ play,1,0,nadyx001,00,X,D7/G.2-H
 play,1,0,bautj002,01,CX,8/F
 play,1,1,freer001,02,SCX,S9/L
 play,1,1,dunna001,00,X,HR/89/F.1-H
-com,"the ball was carried by the wind near the fence; it hit in Xavier"
-com,"Nady's glove and caromed over the fence into the first row"
 play,1,1,philb001,32,BBCFBX,63/G
 play,1,1,grifk002,21,BBCX,5/P
 play,1,1,encae001,01,FX,S9/L
@@ -719,7 +715,6 @@ play,6,0,cotah001,20,BBX,S7/L-
 play,6,0,mclon001,00,,NP
 sub,coutj001,"Jon Coutlangus",1,9,1
 play,6,0,mclon001,22,.BBCFS,K
-com,"Debut game for Jon Coutlangus"
 play,6,1,dunna001,30,BBBB,W
 play,6,1,philb001,00,>S,SB2
 play,6,1,philb001,02,>S.LS,K
@@ -1038,9 +1033,6 @@ play,6,1,freer001,10,BX,E6/G
 play,6,1,philb001,00,1X,S7/L+.1-2
 play,6,1,dunna001,22,2CBCFF2BFX,S4/G.2-3;1-2
 play,6,1,conij001,22,CSBFBX,4/P/IF.3-H(RBI)(UR);2-3;1-2
-com,"$infield fly on tough play; Weeks leaped but did not"
-com,"catch the ball; Conine thought he had a hit; originally"
-com,"no RBI, changed next day to RBI, but no SF"
 play,6,1,grifk002,10,BX,13/G
 play,6,1,encae001,00,,NP
 sub,aquig001,"Greg Aquino",0,9,1
@@ -1169,7 +1161,6 @@ play,1,1,freer001,22,FBLBX,S9/L-
 play,1,1,hamij003,02,CSX,S7/L-.1-2
 play,1,1,dunna001,32,BSBFFBT,K
 play,1,1,grifk002,10,BX,DGR/7/F.2-H;1-3
-com,"fan interference"
 play,1,1,philb001,21,BBCX,E6/G.3-H
 play,1,1,hatts001,00,X,S9/G.2-3;1X3(9363)
 play,1,1,gonza002,32,B*BFCB>X,2/P2F
@@ -2499,7 +2490,6 @@ play,5,0,iannc001,32,CBBBSS,K
 play,5,0,carrj001,02,FFC,K
 play,5,1,dunna001,00,,NP
 sub,finls001,"Steve Finley",0,1,8
-com,"Rockies center fielder Willy Taveras left the game due to an injured groin"
 play,5,1,dunna001,02,.FSX,3/G
 play,5,1,gonza002,12,CBFH,HP
 play,5,1,hamij003,21,BSBX,HR/7/F.1-H
@@ -2803,7 +2793,6 @@ play,3,1,conij001,01,CX,9/F
 play,4,0,evera001,01,TX,7/L-
 play,4,0,ausmb001,02,CFC,K
 play,4,0,rodrw002,21,BFBX,DGR/9/L
-com,"fan interference"
 play,4,0,biggc001,32,CFFBBBFX,43/G
 play,4,1,gonza002,12,CBSC,K
 play,4,1,dunna001,12,CFBX,D9/G
@@ -3607,7 +3596,6 @@ play,2,1,dunna001,32,CBSBBS,K
 play,2,1,encae001,12,CBFX,6/P
 play,2,1,gonza002,01,CX,D7/L
 play,2,1,rossd001,10,II,PB.2-3
-com,"$Passed ball during intentional walk!"
 play,2,1,rossd001,30,II.II,IW
 play,2,1,lohsk001,22,BBCFS,K
 play,3,0,guzmc001,22,BFCBS,K
@@ -3674,8 +3662,6 @@ play,7,1,philb001,31,BBCBB,W.3-H;2-3;1-2
 play,7,1,dunna001,00,,NP
 sub,kingr001,"Ray King",0,9,1
 play,7,1,dunna001,32,.BBCBC>B,W.3-H;2-3;1-2
-com,"ej,kingr001,P,barkl901,Balls and strikes"
-com,"Nationals pitcher Ray King ejected by HP umpire Lance Barksdale"
 play,7,1,encae001,00,,NP
 sub,abrew001,"Winston Abreu",0,9,1
 play,7,1,encae001,10,..BX,S8/L.3-H;2-H;1-3
@@ -3844,10 +3830,6 @@ play,8,1,salmb001,00,,NP
 sub,hoppn001,"Norris Hopper",1,9,11
 play,8,1,hoppn001,00,.X,S3/BG.1-2
 play,8,1,freer001,11,FBX,4(B)/L.2X3(51)
-com,"$Lopez threw wildly past second trying for DP. Zimmerman"
-com,"retrieved ball and threw to Bacsik covering third for"
-com,"second out. This is not DP, due to intervening misplay"
-com," (bad throw by Lopez)"
 play,8,1,gonza002,10,BX,HR/78/F.1-H
 play,8,1,grifk002,00,,NP
 sub,trabb001,"Billy Traber",0,9,1
@@ -3951,7 +3933,6 @@ play,4,0,bay-j001,11,BCX,S7/L
 play,4,0,doumr001,10,BX,36(1)3/GDP
 play,4,1,grifk002,00,,NP
 sub,paulr001,"Ronny Paulino",0,6,2
-com,"Pirates shortstop Ryan Doumit left the game due to an injured head"
 play,4,1,grifk002,01,.CX,S8/L
 play,4,1,philb001,01,FX,5!3/G.1-2
 play,4,1,conij001,32,CBBSBX,63/G
@@ -4459,9 +4440,6 @@ play,2,1,encae001,01,CX,43/G+
 play,2,1,gonza002,11,BCX,S5/G
 play,2,1,hoppn001,11,BC1>B,CS2(24)
 play,3,0,cotah001,00,X,8!/F89XD
-com,"$Reds center fielder Ryan Freel's head collided with right fielder"
-com,"Norris Hopper's right elbow; he suffered contusions to his head"
-com,"and neck and left the game"
 play,3,0,sneli001,00,,NP
 sub,grifk002,"Ken Griffey",1,1,9
 play,3,0,sneli001,00,,NP
@@ -4575,7 +4553,6 @@ start,gonza002,"Alex Gonzalez",1,7,6
 start,rossd001,"David Ross",1,8,2
 start,bailh001,"Homer Bailey",1,9,1
 play,1,0,sizeg001,22,BCBCFFS,K
-com,"Debut game for Homer Bailey"
 play,1,0,blakc001,12,BCTX,53/G
 play,1,0,hafnt001,12,CBCFX,S8/L+
 play,1,0,martv001,32,BBFBS>F>X,D8/L.1-H
@@ -4605,7 +4582,6 @@ play,4,0,rousm001,00,N,BK.1-2
 play,4,0,rousm001,30,N.IIII,IW
 play,4,0,lee-c003,11,SBX,31/G
 play,4,1,philb001,21,CBBX,E5/G.B-2
-com,"$originally scored as D7, changed to E5 on 6-15"
 play,4,1,grifk002,12,CSBFX,3/G.2-3
 play,4,1,conij001,11,FBX,HR/7/F.3-H(UR)
 play,4,1,encae001,32,CSFBFBBFB,W
@@ -5962,7 +5938,6 @@ play,4,0,metct001,00,,NP
 sub,gonza002,"Alex Gonzalez",1,2,6
 play,4,0,metct001,00,,NP
 sub,castj004,"Juan Castro",1,8,4
-com,"Reds second baseman Brandon Phillips left the game due to an injured hand/wrist"
 play,4,0,metct001,12,..CBFX,9/F
 play,4,0,millk004,12,CBCC,K
 play,4,0,loftk001,00,X,D9/F
@@ -6408,13 +6383,9 @@ start,encae001,"Edwin Encarnacion",1,6,5
 start,gonza002,"Alex Gonzalez",1,7,6
 start,rossd001,"David Ross",1,8,2
 start,bailh001,"Homer Bailey",1,9,1
-com,"Cincinnati Mgr Jerry Narron fired after the game"
 play,1,0,tagus001,21,BFBX,S8/G+
 play,1,0,milea001,02,FCX,4E1.1-3
 play,1,0,pujoa001,00,,OA.1X2(26)
-com,"This is really one play, but we need them separate now"
-com,"originally scored 4E1, changed after game to E4"
-com,"changed back to 4E1 next day"
 play,1,0,pujoa001,11,CBX,9/SF/F.3-H
 play,1,0,duncc002,21,BFBX,S9/L-
 play,1,0,roles001,32,CB1BCB>X,S9/F-.1-3
@@ -6588,12 +6559,10 @@ start,encae001,"Edwin Encarnacion",1,6,5
 start,gonza002,"Alex Gonzalez",1,7,6
 start,rossd001,"David Ross",1,8,2
 start,haraa001,"Aaron Harang",1,9,1
-com,"$Pete Mackanin's first game as Reds manager"
 play,1,0,robed001,22,BBCFFFFS,K
 play,1,0,winnr001,32,BBCFFBS,K
 play,1,0,durhr001,32,FBFBFFBFB,W
 play,1,0,bondb001,02,FSX,HR/89/F.1-H
-com,"$career homer #751 for Bonds"
 play,1,0,klesr001,32,CBSBBB,W
 play,1,0,molib001,02,CFX,64(1)/FO/G
 play,1,1,freer001,01,CX,7/F-
@@ -7095,7 +7064,6 @@ play,5,1,lohsk001,01,M1X,24/SH/BG.1-2
 play,5,1,hamij003,10,BX,D8/F.2-H
 play,5,1,philb001,00,X,7/F.2-3
 play,5,1,grifk002,01,CX,HR/89/F.3-H
-com,"career homer #586 to tie Frank Robinson for sixth all-time"
 play,5,1,dunna001,00,H,HP
 play,5,1,hatts001,00,X,S9/G.1-3
 play,5,1,encae001,30,B*BBB,W.1-2
@@ -7221,7 +7189,6 @@ play,3,1,gonza002,02,CFS,K
 play,3,1,bailh001,12,CBSC,K
 play,3,1,hamij003,00,,NP
 sub,encae001,"Edwin Encarnacion",1,1,11
-com,"Reds Josh Hamilton left the game due to an injured hand/wrist"
 play,3,1,encae001,02,.FFS,K
 play,4,0,reynm001,00,,NP
 sub,encae001,"Edwin Encarnacion",1,1,5
@@ -7268,8 +7235,6 @@ sub,rossd001,"David Ross",1,9,11
 play,7,1,rossd001,32,.BBCFBX,53/G
 play,7,1,encae001,22,CFBBX,63/G
 play,7,1,freer001,01,FX,13/BG
-com,"ej,freer001,P,fairc901,Call at 1B"
-com,"Reds center fielder Ryan Freel ejected by 1B umpire Chad Fairchild"
 play,8,0,snydc002,00,,NP
 sub,cofft001,"Todd Coffey",1,2,1
 play,8,0,snydc002,00,,NP
@@ -7921,7 +7886,6 @@ play,4,0,hallb001,12,BCFX,9/F
 play,4,1,rossd001,11,BSX,D7/L+
 play,4,1,lohsk001,00,,NP
 sub,valej004,"Javier Valentin",1,8,12
-com,"Reds catcher David Ross left the game due to an injured hand/wrist"
 play,4,1,lohsk001,01,.CX,14/SH/BG.2-3
 play,4,1,hatts001,01,SX,8/L-
 play,4,1,freer001,21,BFBX,S8/G.3-H
@@ -7986,7 +7950,6 @@ sub,wisem001,"Matt Wise",0,5,1
 play,8,1,lopep001,00,.H,HP
 play,8,1,valej004,00,,NP
 sub,conij001,"Jeff Conine",1,7,12
-com,"Reds second baseman Pedro Lopez left the game due to an injured head"
 play,8,1,valej004,32,..BBBCS>S,K+SB2
 play,8,1,hoppn001,00,X,D7/F.2-H
 play,8,1,hatts001,11,BCX,D9/L.2-H
@@ -8394,7 +8357,6 @@ play,1,1,hoppn001,22,BBCLFX,9/L
 play,1,1,conij001,32,CBBFBX,8/F
 play,2,0,fontm001,00,,NP
 sub,goslm001,"Mike Gosling",1,9,1
-com,"Reds pitcher Aaron Harang left the game due to an injured back"
 play,2,0,fontm001,22,..BCFFBC,K
 play,2,0,jonej003,32,BFBBFB,W
 play,2,0,kendj001,21,BBCX,S7/L.1-2
@@ -8561,7 +8523,6 @@ play,2,0,pagaa001,12,FCBX,43/G
 play,2,0,hillk002,12,SSBS,K
 play,2,0,zambc001,00,X,S7/G
 play,2,0,soria001,00,X,DGR/7/F.1-3
-com,"fan interference"
 play,2,0,therr001,00,X,4/P
 play,2,1,keppj001,10,BX,3/G
 play,2,1,valej004,00,X,8/L
@@ -9053,8 +9014,6 @@ play,9,1,gonza002,12,.BCFX,63/G
 play,9,1,stanm003,00,,NP
 sub,dunna001,"Adam Dunn",1,9,11
 play,9,1,dunna001,22,.CBCBC,K
-com,"ej,dunna001,P,emmep901,Called third strike"
-com,"Reds Adam Dunn ejected by HP umpire Paul Emmel"
 play,9,1,hoppn001,10,.BX,S9/L
 play,9,1,keppj001,00,1>B,SB2
 play,9,1,keppj001,11,1>B.FX,9/F
@@ -9170,7 +9129,6 @@ play,3,1,encae001,31,*B1BSBB,W.1-2
 play,3,1,gonza002,00,,NP
 sub,cassj001,"Jack Cassel",0,9,1
 play,3,1,gonza002,12,.CSBC,K
-com,"Debut game for Jack Cassel"
 play,3,1,rossd001,21,BBCX,7/F
 play,4,0,mackr001,22,BCCBFS,K
 play,4,0,greek002,02,SFC,K
@@ -9525,7 +9483,6 @@ play,3,0,mackr001,32,FFBBBS,K
 play,3,1,rossd001,22,BCCBX,S3/P
 play,3,1,arrob001,00,,NP
 sub,valej004,"Javier Valentin",1,8,12
-com,"Reds catcher David Ross left the game due to an injured head"
 play,3,1,arrob001,02,.LLX,7/F
 play,3,1,hatts001,22,BCCBX,5/LDP.1X1(53)
 play,4,0,ensbm001,00,,NP
@@ -10016,7 +9973,6 @@ start,arrob001,"Bronson Arroyo",1,9,1
 play,1,0,harrw001,32,CBBBFX,53/G
 play,1,0,rente001,00,,NP
 sub,escoy001,"Yunel Escobar",0,2,11
-com,"Braves shortstop Edgar Renteria left the game due to an injured foot/ankle"
 play,1,0,escoy001,22,B.LBCFFX,63/G
 play,1,0,jonec004,22,FSBBX,S8/G
 play,1,0,teixm001,32,CBBCB>F>F>B,W.1-2
@@ -10184,9 +10140,6 @@ play,2,1,ramie002,02,FCX,FC5!/G.3XH(52);2-3
 play,2,1,hamij003,22,*BFFB*B,SB2
 play,2,1,hamij003,32,*BFFB*B.>X,HR/78/F.3-H;2-H
 play,2,1,keppj001,00,X,9/F
-com,"ej,cox-b103,M,laynj901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Jerry Layne for"
-com,"arguing the 1-2 pitch to Hamilton in the previous inning"
 play,3,0,harrw001,21,.BBCX,9/F
 play,3,0,johnk003,10,BX,8/F
 play,3,0,jonec004,00,X,7/F
@@ -10221,9 +10174,6 @@ play,6,0,carlb001,00,,NP
 sub,thors001,"Scott Thorman",0,9,11
 play,6,0,thors001,00,,NP
 sub,stanm003,"Mike Stanton",1,9,1
-com,"ej,pendt001,C,laynj901,Balls and strikes"
-com,"Braves Batting Coach Terry Pendleton ejected by HP umpire Jerry Layne"
-com,"for arguing a called strike to Thorman"
 play,6,0,thors001,01,..S.X,16(1)3/GDP
 play,6,1,dunna001,00,,NP
 sub,mahar001,"Ron Mahay",0,9,1
@@ -10667,7 +10617,6 @@ start,encae001,"Edwin Encarnacion",1,7,5
 start,jorgr001,"Ryan Jorgensen",1,8,2
 start,sheat001,"Tom Shearn",1,9,1
 play,1,0,ramih003,22,CBSBX,8/F
-com,"Debut game for Tom Shearn"
 play,1,0,uggld001,22,CBFBX,6/P
 play,1,0,hermj001,12,BFFC,K
 play,1,1,hamij003,01,CX,43/G
@@ -10824,7 +10773,6 @@ play,2,0,martp001,02,CSC,K
 play,2,1,hatts001,22,CBTFBFFT,K
 play,2,1,encae001,00,X,7/F
 play,2,1,haraa001,12,SBSS,K
-com,"$Career strikeout 3000 for Pedro Martinez"
 play,3,0,reyej001,12,CBFX,5/P5F
 play,3,0,castl001,32,BBCFBB,W
 play,3,0,wrigd002,00,X,HR/9/F.1-H
@@ -11053,7 +11001,6 @@ play,6,1,rossd001,01,.CX,53/G
 play,6,1,majeg001,00,,NP
 sub,vottj001,"Joey Votto",1,9,11
 play,6,1,vottj001,12,.BSCS,K
-com,"Debut game for Joey Votto"
 play,6,1,hoppn001,22,CBBFX,S7/G
 play,6,1,keppj001,10,B>B,SB2
 play,6,1,keppj001,20,B>B.X,8/F
@@ -11222,7 +11169,6 @@ play,5,1,encae001,32,CBBFBX,S7/G.3-H;1-2
 play,5,1,vottj001,00,,NP
 sub,collw001,"Willie Collazo",0,9,1
 play,5,1,vottj001,12,.CCBX,S7/L.2-3;1-2
-com,"Debut game for Willie Collazo"
 play,5,1,sheat001,00,X,46(1)3/GDP
 play,6,0,castl001,12,CFBS,K
 play,6,0,wrigd002,31,BBBCX,8/F
@@ -11325,8 +11271,6 @@ start,arrob001,"Bronson Arroyo",1,9,1
 play,1,0,weekr001,22,CTBBC,K
 play,1,0,grosg002,20,BBX,D7/L
 play,1,0,braur002,02,FSF>S,K+CS3(25)/DP
-com,"$Brewers manager Ned Yost scratched an itch and 3B coach Nick Leyva"
-com,"thought it was a steal sign"
 play,1,1,hamij003,00,X,D7/F
 play,1,1,gonza002,31,BBFBX,S6/G+.2-3
 play,1,1,grifk002,10,BX,S9/G.3-H;1-2
@@ -11356,8 +11300,6 @@ play,3,1,encae001,00,,NP
 sub,capuc001,"Chris Capuano",0,9,1
 play,3,1,encae001,22,.CSBBC,K
 play,3,1,vottj001,32,BCBFFBB,W
-com,"ej,yoste001,M,wintm901,Balls and strikes"
-com,"Brewers Manager Ned Yost ejected by HP umpire Mike Winters"
 play,3,1,arrob001,00,.X,24/SH/BG.1-2
 play,3,1,hamij003,32,BCBCBFX,S8/L.2-H;B-2(E8/TH)
 play,3,1,gonza002,11,BCX,D7/L-.2-H(UR)
@@ -11541,7 +11483,6 @@ play,6,1,grifk002,32,*BFB>S.BFT,K
 play,6,1,philb001,11,C*BX,7/L
 play,7,0,counc001,00,,NP
 sub,keppj001,"Jeff Keppinger",1,2,6
-com,"Reds shortstop Alex Gonzalez left the game due to an injured leg"
 play,7,0,counc001,11,.CBX,S3/BG
 play,7,0,suppj001,00,,NP
 sub,hartc001,"Corey Hart",0,9,11
@@ -11700,7 +11641,6 @@ play,5,1,encae001,01,FX,7/F
 play,5,1,saark001,00,,NP
 sub,hanir001,"Ryan Hanigan",1,9,11
 play,5,1,hanir001,00,.X,D7/G
-com,"Debut game for Ryan Hanigan"
 play,5,1,hoppn001,10,BX,S9/L.2-3
 play,5,1,keppj001,01,CX,6/P
 play,5,1,grifk002,01,CS,WP.3-H;1-2
@@ -11843,8 +11783,6 @@ play,2,1,belim001,02,CCS,K
 play,3,0,ryanb002,32,BCBCBFX,5/L+
 play,3,0,ecksd001,11,CBX,S9/F
 play,3,0,ankir001,00,X,46(1)/FO/G.BX2(36)
-com,"$not a DP as ball got past first baseman and batter"
-com,"then tried to continue to second"
 play,3,1,keppj001,01,FX,7/F
 play,3,1,cantj001,31,CBBBB,W
 play,3,1,grifk002,10,BX,D9/F.1-3
@@ -11994,7 +11932,6 @@ play,3,1,hamij003,00,X,36(1)/FO/G.2-3
 play,3,1,gonza002,12,C*BCX,54(1)3/GDP
 play,4,0,ludwr001,00,,NP
 sub,keppj001,"Jeff Keppinger",1,2,6
-com,"Reds shortstop Alex Gonzalez left the game due to an injured knee"
 play,4,0,ludwr001,21,.FBBX,3/P3F
 play,4,0,moliy001,22,CFBBX,63/G
 play,4,0,branr001,32,CBSBBS,K
@@ -12021,7 +11958,6 @@ play,5,1,keppj001,01,CX,63/G
 play,5,1,grifk002,00,X,7/F
 play,6,0,ankir001,00,,NP
 sub,hoppn001,"Norris Hopper",1,1,8
-com,"Reds center fielder Josh Hamilton left the game due to an injured leg"
 play,6,0,ankir001,01,.SX,S7/L-
 play,6,0,pujoa001,12,CBFX,8/F
 play,6,0,edmoj001,02,CFX,S8/L.1-2
@@ -12931,7 +12867,6 @@ play,1,0,sotog001,00,X,DGR/89/F
 play,1,0,pie-f001,22,CBFFBS,K
 play,1,1,hoppn001,00,,NP
 sub,coatb001,"Buck Coats",1,1,11
-com,"Reds center fielder Norris Hopper left the game due to an injured groin"
 play,1,1,coatb001,32,.BCCBBS,K
 play,1,1,keppj001,00,X,5/L-
 play,1,1,vottj001,00,X,8/F
@@ -13077,7 +13012,6 @@ play,2,1,encae001,01,FX,8/F
 play,2,1,cantj001,10,BX,3/P3F
 play,2,1,coatb001,22,BLCFBFS,K
 play,3,0,lee-d002,22,BBCCX,DGR/F7
-com,"fan interference"
 play,3,0,floyc001,20,BBX,3/G.2-3
 play,3,0,ramia001,01,FX,53/G
 play,3,0,jonej003,02,SSX,D9/G.3-H

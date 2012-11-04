@@ -1410,9 +1410,6 @@ play,9,0,joneg002,11,TB>S,SB2
 play,9,0,joneg002,12,TB>S.S,K
 play,9,1,gomej001,00,X,53/G
 play,9,1,brucj001,21,BBTX,S2/G.BX2(43)
-com,"$catcher Chris Snyder overthrew 1B and the ball went down the line to the tarp; 2B Neil Walker"
-com,"backed up the play and threw the ball to 1B Lyle Overbay, who tagged out Jay Bruce: Bruce"
-com,"had turned toward 2B before walking back to 1B"
 play,9,1,cordf002,00,,NP
 sub,rente001,"Edgar Renteria",1,7,11
 play,9,1,rente001,00,.X,S4/G
@@ -1675,9 +1672,6 @@ play,5,0,galaa002,11,LBX,FC1/BG.2X3(15)
 play,5,0,johnk003,21,CBBX,S9/F.1X3(96);B-2(TH3)
 play,5,0,rober002,00,X,HR/7/F.2-H
 play,5,0,uptoj001,21,FBBX,T9/F
-com,"$Justin Upton's fly ball hit the top of the padding on the RF wall behind Jay Bruce's glove; the ball"
-com,"was ruled in play; the umpires huddled and then crew chief Gary Cederstrom watched the replay and"
-com,"upheld the call"
 play,5,0,drews001,10,BX,31/G
 play,5,1,stubd001,32,CBFBBB,W
 play,5,1,philb001,00,X,54(1)3/GDP
@@ -2267,7 +2261,6 @@ play,5,1,stubd001,00,,NP
 sub,couss001,"Scott Cousins",0,2,7
 play,5,1,stubd001,00,,NP
 sub,bonie001,"Emilio Bonifacio",0,8,4
-com,"Marlins third baseman Omar Infante left the game due to an injured leg"
 play,5,1,stubd001,32,..CCFBBFBFS,K
 play,5,1,brucj001,00,X,3/G
 play,5,1,vottj001,22,FBCFFFBFX,8/F
@@ -2923,8 +2916,6 @@ play,6,1,heisc001,11,..BCX,53/G
 play,7,0,hallb001,00,,NP
 sub,ondrl001,"Logan Ondrusek",1,9,1
 play,7,0,hallb001,12,.CCBFS,K
-com,"ej,hallb001,P,hallt901,Balls and strikes"
-com,"Houston Astros second baseman Bill Hall ejected by HP umpire Tom Hallion"
 play,7,0,barmc001,01,.CX,S8/G
 play,7,0,quinh001,11,CBX,6/P
 play,7,0,downm001,20,BBX,S7/G.1-2
@@ -3027,7 +3018,6 @@ start,roles001,"Scott Rolen",1,6,5
 start,lewif001,"Fred Lewis",1,7,7
 start,hanir001,"Ryan Hanigan",1,8,2
 start,arrob001,"Bronson Arroyo",1,9,1
-com,"$Cardinals manager Tony LaRussa was not with the team because of a persistent case of shingles"
 play,1,0,puntn001,22,CBFBX,5/P5F
 play,1,0,rasmc001,30,BBBB,W
 play,1,0,pujoa001,12,CB1FC,K
@@ -3719,10 +3709,6 @@ play,6,1,hernr002,32,B>S.FBBX,S9/F
 play,6,1,volqe001,00,,NP
 sub,cairm001,"Miguel Cairo",1,9,11
 play,6,1,cairm001,02,.CSS,K.1-2;B-1(E2)
-com,"$the Cubs thought they had a strikeout on a check swing but the ball hit the ground"
-com,"before being caught by Welington Castillo; the Cubs walked off the field until they"
-com,"realized that something was wrong; both runners advanced a base and the inning"
-com,"continued"
 play,6,1,stubd001,00,,NP
 sub,woodt004,"Travis Wood",1,8,12
 play,6,1,stubd001,12,.FBSS,K
@@ -4178,8 +4164,6 @@ play,6,1,janip001,02,CFX,S7/L.1-2
 play,6,1,woodt004,00,,NP
 sub,lewif001,"Fred Lewis",1,9,11
 play,6,1,lewif001,21,.*BBFX,S8/G.2-H;1-H(UR)(NR)(E2/TH1)
-com,"$the second run scored when catcher Jonathan Lucroy threw to 1B trying to catch batter"
-com,"Fred Lewis, who had taken a wide turn"
 play,6,1,heisc001,00,1H,HP.1-2
 play,6,1,philb001,10,BX,43/G
 play,7,0,gomec002,00,,NP
@@ -4507,7 +4491,6 @@ sub,cordf002,"Francisco Cordero",1,7,1
 play,9,0,lucrj001,12,.BCSFFS,K
 play,9,0,betay001,22,CBBSX,13/G
 play,9,0,counc001,22,BCBCC,K
-com,"$Francisco Cordero's 300th career save"
 data,er,marcs001,2
 data,er,loe-k001,2
 data,er,leakm001,3
@@ -4581,7 +4564,6 @@ play,2,1,arrob001,22,BCLBX,64(1)/FO/G
 play,3,0,kuroh001,11,BCX,53/G
 play,3,0,furcr001,00,,NP
 sub,carrj001,"Jamey Carroll",0,1,11
-com,"Dodgers shortstop Rafael Furcal left the game due to an injured side"
 play,3,0,carrj001,32,.CBFFBBX,63/G
 play,3,0,blakc001,32,BCCBFFFFBS,K
 play,3,1,stubd001,00,,NP
@@ -5429,7 +5411,6 @@ play,6,1,vottj001,32,BFBSBS,K
 play,6,1,brucj001,32,FSFBBFBS,K
 play,6,1,cairm001,22,CBFBS,K
 play,7,0,fukuk001,12,BCCX,DGR/7/L
-com,"fan interference"
 play,7,0,barnd001,21,CBBX,13/SH/BG.2-3
 play,7,0,dewib001,00,,NP
 sub,brayb001,"Bill Bray",1,9,1
@@ -5567,8 +5548,6 @@ play,6,0,reyej003,22,FBCBX,S8/G
 play,6,0,escoy001,21,BF*BX,54(1)/FO/G
 play,6,1,leakm001,10,BX,8/F
 play,6,1,stubd001,00,X,HR9/F/IPHR
-com,"$CF Corey Patterson was ready to catch the fly ball but backed off at the last second when RF"
-com,"Jose Bautista ran towards him"
 play,6,1,philb001,22,BFBSFFX,9/F
 play,6,1,vottj001,10,BX,43/G
 play,7,0,pattc001,00,H,HP
@@ -6447,7 +6426,6 @@ play,5,0,chisl001,12,.FBCFFX,S7/L-.1-2
 play,5,0,marsl001,32,CCBBB>S,K
 play,5,1,stubd001,00,,NP
 sub,keara001,"Austin Kearns",0,6,9
-com,"Indians right fielder Travis Buck left the game due to an injured leg"
 play,5,1,stubd001,11,.BCX,53/G
 play,5,1,rente001,00,X,63/G
 play,5,1,hanir001,02,CCT,K
@@ -6548,10 +6526,6 @@ play,1,0,branm003,02,CFX,63/G
 play,1,0,cabro001,02,SFX,S7/G
 play,1,0,cabra002,22,BFSBFS,K
 play,1,0,santc002,02,C1SS,K
-com,"umpchange,1,ump2b,tumpj901"
-com,"umpchange,1,ump3b,cousd901"
-com,"$crew chief Derryl Cousins did not start the game because of illness"
-com,"and entered the game here"
 play,1,1,stubd001,00,X,S7/L
 play,1,1,philb001,11,F1B>X,63/G.1-2
 play,1,1,vottj001,31,BFBBX,43/G.2-3
@@ -6566,11 +6540,8 @@ play,2,1,janip001,20,BBX,64(1)/FO/G.2-3
 play,2,1,bailh001,01,FX,13/G
 play,3,0,marsl001,00,X,S8/L
 play,3,0,carmf001,00,X,FC5/BG.1X2(5E6);B-1
-com,"$2B umpire John Tumpane ruled that SS Paul Janish missed tagging the base as he caught the ball"
 play,3,0,branm003,00,,NP
 sub,tomlj001,"Josh Tomlin",0,9,12
-com,"$Indians pitcher Fausto Carmona stumbled and fell as he neared 1B; he strained his right quadriceps"
-com,"and had to leave the game"
 play,3,0,branm003,20,.B*BX,HR/9/F.2-H(UR);1-H
 play,3,0,cabro001,22,FBBFX,9/F
 play,3,0,cabra002,00,X,S7/F
@@ -7232,12 +7203,6 @@ play,6,0,rasmc001,00,X,43/G
 play,6,1,stubd001,10,BX,63/G+
 play,6,1,cozaz001,11,FBX,S7/L
 play,6,1,vottj001,01,CX,E4/TH2/FO/G.1-2
-com,"ej,therr001,P,muchm901,Call at 2B"
-com,"$the throw from Cardinals 2B Skip Schumaker was high and to the RF side of the bag; SS"
-com,"Ryan Theriot tried to drag his foot across the bag as he caught the ball but was ruled"
-com,"off the bag by 2B umpire Mike Muchlinski; Theriot stormed over to Muchlinski to argue;"
-com,"as he yelled, his cap bumped Muchlinski's head, so he was ejected by Muchlinski; Theriot"
-com,"had to be restrained, first by 1B umpire Chris Guccione and then by Albert Pujols"
 play,6,1,philb001,00,,NP
 sub,descd001,"Daniel Descalso",0,1,6
 play,6,1,philb001,12,..*BFFFS,K+WP.2-3;1-2
@@ -7519,8 +7484,6 @@ play,3,1,bailh001,00,X,26(1)4/BGDP
 play,3,1,stubd001,00,X,63/G
 play,4,0,mclon001,31,CBBBB,W
 play,4,0,lowed001,00,X,FC3/SH/BG.1-2
-com,"$Reds shortstop Zack Cozart hot his arm and glove hand caught in Nate McLouth's body"
-com,"as the latter slid into 2B; Cozart left the game due to a hyperextended left elbow"
 play,4,0,pradm001,00,,NP
 sub,rente001,"Edgar Renteria",1,2,6
 play,4,0,pradm001,22,.SBFBX,7/F
@@ -7701,7 +7664,6 @@ play,5,1,philb001,11,SB1.X,8/F
 play,6,0,heywj001,21,BCBX,43/G
 play,6,0,mccab002,02,CFX,8/F
 play,6,0,uggld001,21,FBBX,S57
-com,"originally ruled E5, changed to single the next day"
 play,6,0,freef001,31,BTBBB,W.1-2
 play,6,0,gonza002,01,CX,23/G
 play,6,1,brucj001,21,BCBX,8/F
@@ -8558,7 +8520,6 @@ play,9,1,alony001,22,..BSFBX,S9/L
 play,9,1,hanir001,00,,NP
 sub,rente001,"Edgar Renteria",1,8,12
 play,9,1,hanir001,00,.X,2/BG.1-1
-com,"$Ryan Hanigan called out for interfering with catcher Eli Whiteside"
 play,9,1,stubd001,12,C11CBB,WP.1-2
 play,9,1,stubd001,22,C11CBB.S,K
 play,9,1,heisc001,11,BSX,9/F
@@ -9883,7 +9844,6 @@ play,3,0,forsl001,02,C1FX,S7/L.3-H;1-2
 play,3,0,darnj001,10,BX,S7/G.2-H;1-3(THH)
 play,3,0,johnr009,00,,NP
 sub,lecus001,"Sam LeCure",1,9,1
-com,"Reds pitcher Dontrelle Willis left the game due to an injured arm"
 play,3,0,johnr009,01,.CX,9/F
 play,3,1,lecus001,22,CBSBX,8/F
 play,3,1,sappd001,00,X,63/G
@@ -10399,11 +10359,6 @@ play,6,1,hanir001,32,BCBBCFB,W
 play,6,1,janip001,22,CBBCX,46(1)/FO/G
 play,7,0,wertj001,11,BCX,13/G-
 play,7,0,ankir001,12,FFBX,43/G
-com,"ej,johnd105,M,westj901,No hit by pitch on Michael Morse"
-com,"$the Nationals thought the third pitch to Michael Morse hit him; manager Davey Johnson"
-com,"talked with HP umpire Sam Holbrook, who huddled with the other umpires; when they said"
-com,"the pitch did not hit Morse, Johnson argued the decision and was ejected by 3B umpire"
-com,"and crew chief Joe West"
 play,7,0,morsm001,32,BBB.SFC,K
 play,7,1,cuetj001,00,,NP
 sub,burns001,"Sean Burnett",0,9,1
@@ -10440,7 +10395,6 @@ play,8,1,frazt001,00,,NP
 sub,bixlb001,"Brian Bixler",0,9,5
 play,8,1,frazt001,21,...CBBX,8/F
 play,8,1,stubd001,12,CFBX,D7/F-
-com,"orginally scored as single and E7, changed next day"
 play,8,1,hanir001,22,B>FBCFS,K
 play,8,1,janip001,00,,NP
 sub,rente001,"Edgar Renteria",1,8,11
@@ -10452,9 +10406,6 @@ sub,massn001,"Nick Masset",1,9,1
 play,9,0,desmi001,21,..BBCX,S9/G
 play,9,0,wertj001,01,C>B,SB2
 play,9,0,wertj001,32,C>B.SF*BF*BFFX,S8/G.2-H
-com,"ej,corrp102,C,holbs901,Balls and strikes"
-com,"$Nationals Bench Coach (and acting manager) Pat Corrales yelled that the first pitch"
-com,"to Rick Ankiel was high; Corrales was ejected by HP umpire Sam Holbrook"
 play,9,0,ankir001,01,1C.1N,BK.1-2
 play,9,0,ankir001,12,1C.1N.FBC,K
 play,9,0,morsm001,00,X,FC6/G.2X3(65)
@@ -10466,8 +10417,6 @@ sub,alony001,"Yonder Alonso",1,9,11
 play,9,1,alony001,01,..FX,HR/89/F
 play,9,1,philb001,32,BSBBFC,K
 play,9,1,sappd001,00,X,D98/F.BX3(85)
-com,"$Nationals CF Rick Ankiel made a one-hop throw from deep right center, a few feet in"
-com,"front of the warning track; it took one hop to 3B Brian Bixler"
 play,9,1,vottj001,32,BBBCCC,K
 play,10,0,marrc001,00,,NP
 sub,ondrl001,"Logan Ondrusek",1,9,1
@@ -10508,8 +10457,6 @@ sub,balec001,"Collin Balester",0,8,1
 play,12,1,frazt001,21,.BBFX,7/F-
 play,12,1,stubd001,32,CBCBBFX,E5/G
 play,12,1,hanir001,00,1>B,CS2(26)
-com,"ej,baked002,M,fairc901,Call at 2B"
-com,"Reds Manager Dusty Baker ejected by 2B umpire Chad Fairchild for arguing the caught stealing"
 play,12,1,hanir001,21,1>B..BCX,S8/L
 play,12,1,rente001,10,*BX,46(1)/FO/G
 play,13,0,wertj001,01,CX,7/F
@@ -10909,9 +10856,6 @@ play,5,0,utlec001,32,BCSBFBC,K
 play,5,0,howar001,12,FBSS,K
 play,5,1,stubd001,00,X,S6/G
 play,5,1,hernr002,12,1FBFX,64(1)/FO/G.BX2(24)
-com,"$Chase Utley's relay throw to 1B was high and sailed to the dugout fence; catcher"
-com,"Carlos Ruiz backed up the play and threw out Ramon Hernandez; it is not a DP since"
-com,"there was a misplay in the middle (Utley's throw)"
 play,5,1,janip001,32,FFBBBX,7/F
 play,6,0,pench001,21,BFBX,HR/8/F
 play,6,0,maybj001,12,CSBS,K
@@ -11490,7 +11434,6 @@ play,4,0,penac001,10,BX,4/L
 play,4,0,soria001,12,CBSX,4/P
 play,4,0,byrdm001,00,,NP
 sub,lecus001,"Sam LeCure",1,9,1
-com,"Reds pitcher Johnny Cueto left the game due to an injured back"
 play,4,0,byrdm001,21,.BCBX,8/F
 play,4,1,hernr002,20,BBX,D8/L
 play,4,1,lecus001,32,MMBBBT,K
@@ -12516,7 +12459,6 @@ play,3,1,stubd001,32,1S*BCBBB,W.1-2
 play,3,1,mesod001,22,CB+1FFBS,K
 play,3,1,janip001,00,,NP
 sub,harrl002,"Lucas Harrell",0,9,1
-com,"Astros pitcher Bud Norris left the game due to an injured shoulder"
 play,3,1,janip001,22,CF.B*BX,43/G
 play,4,0,altuj001,01,FX,63/G
 play,4,0,quinh001,20,BBX,9/F

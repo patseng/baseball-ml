@@ -44,7 +44,6 @@ start,estrj001,"Johnny Estrada",1,7,2
 start,derom001,"Mark DeRosa",1,8,5
 start,ortir001,"Russ Ortiz",1,9,1
 play,1,0,matsk001,00,X,HR/8/F
-com,"Debut game for Kazuo Matsui"
 play,1,0,gutir001,01,CX,S8/G
 play,1,0,floyc001,10,BX,9/F
 play,1,0,piazm001,21,B1BCX,7/F
@@ -215,7 +214,6 @@ play,2,0,piazm001,11,FBX,S8/L.2-H;1-3
 play,2,0,camem001,00,X,8/F
 play,2,1,jonea002,21,SBBX,3/P
 play,2,1,laroa001,11,CBX,43/G
-com,"Debut game for Adam LaRoche"
 play,2,1,estrj001,01,CX,43/G
 play,3,0,philj003,22,FBBFFS,K
 play,3,0,spens001,11,CBX,S9/F
@@ -1007,7 +1005,6 @@ play,6,0,hollt001,00,1X,43/G
 play,6,1,jonec004,10,BX,63/G
 play,6,1,drewj001,01,LX,S9/G
 play,6,1,jonea002,10,B1X,64(1)3/GDP
-com,"$C.Jones left due to injury"
 play,7,0,barrm003,00,,NP
 sub,hessm001,"Mike Hessman",1,3,7
 play,7,0,barrm003,22,.BBCFFX,S7/L
@@ -1440,9 +1437,6 @@ play,5,1,garcj001,01,CX,53/G
 play,5,1,hampm001,10,BX,D7/L
 play,5,1,derom001,22,CFB*BS,K
 play,5,1,gilem001,02,FFC,K
-com,"ej,gilem001,P,guccc901,Called third strike"
-com,"ej,cox-b103,M,guccc901,Called third strike"
-com,"Marcus Giles and Manager Bobby Cox ejected by HP umpire Chris Guccione"
 play,6,0,castl001,00,,NP
 sub,furcr001,"Rafael Furcal",1,2,6
 play,6,0,castl001,00,,NP
@@ -1450,7 +1444,6 @@ sub,garcj001,"Jesse Garcia",1,8,4
 play,6,0,castl001,22,....CBCFBX,T8/F
 play,6,0,pierj002,00,,NP
 sub,wised001,"Dewayne Wise",1,3,7
-com,"$C.Jones left with an injured leg"
 play,6,0,pierj002,11,.C*BX,13/G
 play,6,0,cabrm001,31,CBBBB,W
 play,6,0,lowem001,02,FFFX,64(1)3/GDP
@@ -2211,33 +2204,16 @@ play,8,0,hidar001,00,X,9/F
 play,8,0,lanej001,12,CFFBX,63/G
 play,8,1,derom001,11,BCX,S8/L
 play,8,1,garcj001,02,CFH,HP.1-2
-com,"ej,willj107,M,drakr901,Overruled possible HBP"
-com,"$Jesse Garcia claimed he was hit on the helmet"
-com,"by a pitch but HP umpire Gary Darling said"
-com,"no; 2B umpire Rob Drake overruled Darling"
-com,"saying he heard the ball hit the helmet;"
-com,"Houston Mgr Jimy Williams went after Drake and was"
-com,"ejected by Drake"
 play,8,1,reitc001,00,,NP
 sub,furcr001,"Rafael Furcal",1,9,11
 play,8,1,furcr001,22,..FBCBX,53/G.2-3;1-2
 play,8,1,betew001,30,BBBB,W
 play,8,1,laroa001,32,BFFFBBX,S9/L.3-H;2-3;1-2
-com,"$Roy Oswalt threw up his hands after one pitch to Chipper Jones"
-com,"was called a ball by HP umpire Gary Darling; Darling came out in"
-com,"front of the plate and yelled at Oswalt"
 play,8,1,jonec004,31,BBBFB,W.3-H;2-3;1-2
 play,8,1,drewj001,00,,NP
 sub,gilem001,"Marcus Giles",1,2,12
 play,8,1,drewj001,00,,NP
 sub,gallm002,"Mike Gallo",0,9,1
-com,"ej,tamaj101,C,darlg901,Balls and strikes"
-com,"ej,oswar001,P,carlm901,Throwing equipment onto the field"
-com,"Astros coach (and acting manager) John Tamargo argued with HP Umpire Gary"
-com,"Darling after making the pitching change; Tamargo was ejected by Darling;"
-com,"after returning to the dugout, Roy Oswalt threw a blue case full of bubble"
-com,"gum onto the field, spreading the contents along the 3B line;"
-com,"oswalt was ejected by 3B umpire Mark Carlson"
 play,8,1,drewj001,22,...FBSBX,32(3)/FO/G.2-3;1-2
 play,8,1,jonea002,00,,NP
 sub,backb001,"Brandon Backe",0,6,1
@@ -2478,7 +2454,6 @@ start,drewj001,"J.D. Drew",1,6,9
 start,derom001,"Mark DeRosa",1,7,5
 start,green001,"Nick Green",1,8,4
 start,hampm001,"Mike Hampton",1,9,1
-com,"$Johnson threw the 17th perfect game in history"
 play,1,0,tracc001,01,CX,13/G+
 play,1,0,katam001,11,BCX,E5/G
 play,1,0,gonzl001,10,B1X,16(1)3/GDP
@@ -2546,7 +2521,6 @@ play,9,1,green001,12,CSBFC,K
 play,9,1,hampm001,00,,NP
 sub,peree002,"Eddie Perez",1,9,11
 play,9,1,peree002,22,.SBFBS,K
-com,"$the last pitch was a 98-MPH fastball"
 data,er,johnr005,0
 data,er,hampm001,2
 id,ATL200405190
@@ -3526,7 +3500,6 @@ play,4,1,drewj001,10,BX,31/G
 play,4,1,jonec004,20,BBX,43/G
 play,5,0,vidrj001,00,,NP
 sub,wised001,"Dewayne Wise",1,4,7
-com,"$C.Jones left game with injured right hamstring"
 play,5,0,vidrj001,20,.BBX,9/F
 play,5,0,batit001,00,X,8/F
 play,5,0,cabro001,01,CX,9/L
@@ -5088,7 +5061,6 @@ play,3,0,westj001,02,CCFC,K
 play,3,0,lawtm002,02,CFX,S8/L
 play,3,0,vizqo001,00,,NP
 sub,mcdoj003,"John McDonald",0,2,11
-com,"Vizquel left game with injured hand"
 play,3,0,mcdoj003,12,.F1BS11X,4/P
 play,3,1,drewj001,00,,NP
 sub,mcdoj003,"John McDonald",0,2,6
@@ -5107,8 +5079,6 @@ play,4,1,green001,10,*BX,53/G
 play,5,0,bellr002,22,FBBFX,53/G
 play,5,0,crisc001,32,BCBBCX,S7/G+
 play,5,0,laket001,00,>B,CS2(24)
-com,"ej,wedge001,M,guccc901,Call at 2B"
-com,"Manager Eric Wedge ejected by 2B umpire Chris Guccione"
 play,5,0,laket001,22,>B..CBFX,7/F
 play,5,1,drewj001,01,TX,43/G
 play,5,1,jonec004,22,SSFBBC,K
@@ -5428,7 +5398,6 @@ play,8,0,gonza002,00,.X,8/F
 play,8,0,olivd001,00,,NP
 sub,aguic001,"Chris Aguila",0,9,11
 play,8,0,aguic001,12,.CBFS,K
-com,"Debut game for Chris Aguila"
 play,8,0,pierj002,21,BCBX,3!/G
 play,8,1,reitc001,00,,NP
 sub,kochb001,"Billy Koch",0,9,1
@@ -8766,7 +8735,6 @@ play,2,0,moliy001,32,CBBBFB,W
 play,2,0,marqj001,10,*BX,2/P2F
 play,2,0,womat001,02,FCS,K
 play,2,1,jonec004,21,CBBX,HR/8/F
-com,"$est. 450' - 6th longest at Turner Field"
 play,2,1,laroa001,01,CX,2/P2F
 play,2,1,jonea002,32,CBBBFX,HR/89/F
 play,2,1,thomc001,22,CBBCC,K
@@ -8803,8 +8771,6 @@ play,5,0,sandr002,00,X,3/P3F
 play,5,1,jonec004,12,BCCX,63/G
 play,5,1,laroa001,32,FBBBFS,K
 play,5,1,jonea002,12,CFBS,K
-com,"$C.Jones argued with umpire Bucknor from his position"
-com,"at 3B during 6th inning about call in 5th"
 play,6,0,moliy001,11,FBX,S8/G
 play,6,0,marqj001,10,B1X,S8/L-.1-2
 play,6,0,womat001,00,,NP
@@ -9280,7 +9246,6 @@ start,jonea002,"Andruw Jones",1,7,8
 start,marre001,"Eli Marrero",1,8,7
 start,thomj005,"John Thomson",1,9,1
 play,1,0,milea001,12,CFFFFBX,43/G
-com,"Debut game for Jeff Francis"
 play,1,0,clayr001,11,CBX,63/G
 play,1,0,heltt001,22,BBCFS,K
 play,1,1,furcr001,22,BFFBFS,K
@@ -9900,9 +9865,7 @@ play,1,0,felip001,01,CX,64(1)3/GDP
 play,1,1,furcr001,22,BBCCFX,63/G+
 play,1,1,gilem001,12,BSFS,K
 play,1,1,drewj001,22,BCBFX,7/F
-com,"$infield shift on for Bonds"
 play,2,0,bondb001,22,BBCFX,S7/G5-
-com,"$weak grounder through vacated 3B spot"
 play,2,0,piera001,12,BSFF1FX,9/F
 play,2,0,cruzd001,20,BB>X,7/F
 play,2,0,grism001,21,B1BF1X,S8/G+.1-2
@@ -10415,7 +10378,6 @@ play,1,1,drewj001,20,BBX,8/F
 play,1,1,jonec004,22,FFBBX,6/P-
 play,2,0,belld002,00,,NP
 sub,green001,"Nick Green",1,2,4
-com,"$Giles left game with injured elbow"
 play,2,0,belld002,11,.FBX,43/G-
 play,2,0,utlec001,32,CBBFBX,S8/L
 play,2,0,liebm001,32,FFBB*B>X,S8/L-.1-3
@@ -10448,8 +10410,6 @@ play,5,0,padiv001,32,BB.BSCX,S7/L.3-H
 play,5,0,rollj001,10,BX,S9/G+.1-2
 play,5,0,michj001,32,BSSB*BFB,W.2-3;1-2
 play,5,0,abreb001,32,BBCCBC,K
-com,"ej,abreb001,P,vanol901,Balls and strikes"
-com,"Bobby Abreu ejected by HP umpire Larry Vanover"
 play,5,0,thomj002,22,.FBFBS,K
 play,5,1,jonea002,00,,NP
 sub,michj001,"Jason Michaels",0,2,9
@@ -10623,8 +10583,6 @@ play,6,0,polap001,32,BBCBCFT,K
 play,6,0,abreb001,02,FFFX,S8/L
 play,6,0,howar001,00,11X,S5/P.1-2
 play,6,0,burrp001,12,SCB>S,K+SB3
-com,"ej,bowal001,M,barkl901,Check swing"
-com,"$Philadelphia Manager Larry Bowa ejected by 1B umpire Lance Barksdale"
 play,6,0,utlec001,01,CX,S5/BG.3-H;1-2
 play,6,0,byrdm001,22,FBFBS,K
 play,6,1,drewj001,00,,NP
@@ -10632,7 +10590,6 @@ sub,jonet003,"Todd Jones",0,9,1
 play,6,1,drewj001,00,.H,HP
 play,6,1,franj002,00,,NP
 sub,wised001,"Dewayne Wise",1,3,12
-com,"$J.D. Drew left game with injured elbow"
 play,6,1,franj002,12,.BFF1FS,K
 play,6,1,jonea002,02,1CSS,K
 play,6,1,marre001,00,>C,SB2
@@ -10787,7 +10744,6 @@ play,4,0,lidlc001,12,BCML,K/BF
 play,4,0,rollj001,11,CBX,36(1)/FO/G
 play,4,0,polap001,21,1BBFX,9/L
 play,4,1,thomc001,01,CX,HR/8/F
-com,"$ball bounced off Michaels' glove twice and over fence"
 play,4,1,cruzj005,00,,NP
 sub,wised001,"Dewayne Wise",1,9,11
 play,4,1,wised001,02,.CFS,K
@@ -10820,8 +10776,6 @@ play,6,1,green001,32,.11B.FFFB*B.S,K
 play,6,1,furcr001,31,BBBCB,W
 play,6,1,gilem001,00,1>B,SB2
 play,6,1,gilem001,22,1>B.BFFC,K
-com,"ej,cox-b103,M,barkl901,Balls and strikes"
-com,"Atlanta Manager Bobby Cox ejected by HP umpire Lance Barksdale"
 play,7,0,madsr001,00,,NP
 sub,gland001,"Doug Glanville",0,9,11
 play,7,0,gland001,00,,NP
@@ -10977,7 +10931,6 @@ play,5,0,rivej001,00,X,S6/G.3-H
 play,5,0,churr001,11,1CB1,POCS2(1)
 play,5,1,gilem001,00,,NP
 sub,diaze002,"Einar Diaz",0,6,2
-com,"$Schneider left game with injured elbow"
 play,5,1,gilem001,00,.X,HR/78/F+
 play,5,1,drewj001,32,BFBFB.X,S9/L
 play,5,1,jonec004,02,SFX,7/F
@@ -11124,7 +11077,6 @@ play,4,1,furcr001,21,B*BCX,9/F
 play,5,0,carrj001,22,CFBBX,6/L-
 play,5,0,hernl003,00,,NP
 sub,cruzj005,"Juan Cruz",1,9,1
-com,"$Hampton left game with injured knee"
 play,5,0,hernl003,10,.BX,43/G
 play,5,0,wilkb002,21,BSBX,HR/7/F
 play,5,0,gonza001,00,X,6/L
@@ -11241,7 +11193,6 @@ start,jonea002,"Andruw Jones",1,7,8
 start,peree002,"Eddie Perez",1,8,2
 start,capej001,"Jose Capellan",1,9,1
 play,1,0,wilkb002,22,CBCBFS,K
-com,"Debut game for Jose Capellan"
 play,1,0,chave002,30,BBBB,W
 play,1,0,batit001,10,1B>B,SB2
 play,1,0,batit001,21,1B>B.FX,S7/G+.2-H
@@ -11521,7 +11472,6 @@ play,6,1,drewj001,02,FTC,K
 play,6,1,jonec004,11,BFX,D9/F
 play,6,1,franj002,22,FFBBX,8/F
 play,7,0,penaw001,12,BCSFX,63/G
-com,"$Pena strained his right hamstring running out the grounder"
 play,7,0,laruj001,00,X,S8/G
 play,7,0,macha001,22,FSBBS,K
 play,7,0,acevj002,00,,NP
@@ -11533,7 +11483,6 @@ play,7,1,jonea002,00,,NP
 sub,padij001,"Juan Padilla",0,6,1
 play,7,1,jonea002,00,,NP
 sub,cruzj003,"Jacob Cruz",0,9,9
-com,"$Pena left game with injured leg"
 play,7,1,jonea002,11,...BCX,S7/L
 play,7,1,marre001,12,BFFX,D8/F.1-H
 play,7,1,peree002,01,FX,S8/G.2-3
@@ -11656,9 +11605,6 @@ play,3,1,jonec004,12,CBCX,53/G-
 play,4,0,keara001,02,SSS,K
 play,4,0,valej004,11,FBX,S7/G
 play,4,0,macha001,00,X,E1/TH1/BG.1-H(NR)(UR);B-H(E3/THH)(NR)(UR)
-com,"pitcher missed catching bunt, threw ball down the line."
-com,"first baseman threw past the plate trying for runner, no"
-com,"one covered home and batter scored"
 play,4,0,hancj001,02,CSS,K
 play,4,0,freer001,00,X,S9/G
 play,4,0,lopef001,12,1CCP1X,S8/L-.1-3
@@ -12210,7 +12156,6 @@ play,6,0,aguic001,10,BX,13/G
 play,6,0,pavac001,00,X,S6/G
 play,6,0,pierj002,00,,NP
 sub,betew001,"Wilson Betemit",1,7,6
-com,"$DeRosa left game with injured knee"
 play,6,0,pierj002,01,..CX,16(1)/FO/BG
 play,6,0,easld001,00,1X,8/F
 play,6,1,peree002,12,CFBS,K
@@ -12605,7 +12550,6 @@ play,3,0,philj003,12,CSBFS,K
 play,3,0,delgw001,20,BBX,S1/L+
 play,3,0,glavt001,00,,NP
 sub,smitt001,"Travis Smith",1,9,1
-com,"$Wright left game with injured leg"
 play,3,0,glavt001,00,..X,54/SH/BG.1-2
 play,3,0,willg001,21,B*BFX,7/F
 play,3,1,smitt001,00,X,53/G-

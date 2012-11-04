@@ -1116,7 +1116,6 @@ play,7,0,bellc001,00,,NP
 sub,sojol001,"Luis Sojo",0,9,11
 play,7,0,sojol001,22,BSCFBFFB,SB3
 play,7,0,sojol001,32,BSCFBFFBB,W.3-H(WP)
-com,"Possible that SB3, WP and W all occurred together"
 play,7,0,knobc001,31,FBBBX,9/F9
 play,7,1,nixot001,00,,NP
 sub,bross001,"Scott Brosius",0,8,8
@@ -1884,8 +1883,6 @@ play,6,1,hills002,20,BBX,6/P6
 play,6,1,lansm001,00,X,53/G
 play,6,1,lewid001,01,CX,53/G
 play,7,0,huntt001,00,X,S9/L9S
-com,"$first hit for the Twins; controversy about call by rookie official"
-com,"scorer but it was the correct call"
 play,7,0,jonej003,00,,NP
 sub,buchb002,"Brian Buchanan",0,7,11
 play,7,0,buchb002,12,BFCS,K
@@ -2807,7 +2804,6 @@ play,3,0,suzui001,00,X,46(1)/FO
 play,3,0,javis001,21,BCBX,63/G
 play,3,1,valej002,00,X,D7/7D
 play,3,1,hills002,12,BFCX,S6.2-2
-com,"originally scored E6"
 play,3,1,lansm001,00,X,14/SH.2-3;1-2
 play,3,1,lewid001,22,BCCBX,6/P6
 play,3,1,offej001,12,BCCX,63/G
@@ -2821,9 +2817,6 @@ play,5,0,marta001,12,SFBFFX,S9
 play,5,0,belld002,12,FFBC,K/C
 play,5,0,wilsd001,11,BFX,9/F9
 play,5,0,guilc001,12,FBFX,S/89.1-H;B-2(THH)
-com,"ej,varij001,P,wegnm901,Call at HP (bumped umpire)"
-com,"ej,willj107,M,wegnm901,Call at HP"
-com,"Jason Varitek and Red Sox Manager Jimy Williams ejected by HP umpire Mark Wegner"
 play,5,0,suzui001,00,,NP
 sub,hatts001,"Scott Hatteberg",1,6,2
 play,5,0,suzui001,02,CFFX,S/78.2-H
@@ -3368,7 +3361,6 @@ play,10,1,valej002,00,,NP
 sub,tam-j001,"Jeff Tam",0,0,1
 play,10,1,valej002,12,CCFBX,6/L6
 play,10,1,ramim002,30,IIII,IW
-com,"$bases empty IW!"
 play,10,1,bichd001,02,CCC,K/C
 play,10,1,hills002,32,BCBCFBFX,5/P5
 play,11,0,menef001,01,CX,D7/7D
@@ -3473,8 +3465,6 @@ play,5,1,everc001,12,CFBS,K
 play,6,0,fletd001,21,BBFX,53/G
 play,6,0,bushh001,02,CCS,K23
 play,6,0,stews002,22,FBSBC,K/C
-com,"ej,stews002,P,timmt901,Balls and strikes"
-com,"Shannon Stewart ejected by HP umpire Tim Timmons"
 play,6,1,ramim002,00,,NP
 sub,simmb001,"Brian Simmons",0,1,7
 play,6,1,ramim002,02,CFFX,63/G
@@ -3853,7 +3843,6 @@ play,2,1,lewid001,22,BCBCS,K
 play,2,1,offej001,22,BBFFFFFFS,K
 play,3,0,martt002,01,CX,63/G
 play,3,0,oneip001,11,FBX,HR/89
-com,"the Yankees' out-homer the Red Sox 19-0 at Fenway since 2000 (12 games)"
 play,3,0,posaj001,22,FBFBS,K
 play,3,0,bross001,00,X,S7
 play,3,0,soria001,00,,NP
@@ -4679,7 +4668,6 @@ play,1,1,stync001,11,CBX,64(1)3/GDP
 play,1,1,everc001,32,CFBBBX,31/G
 play,2,0,burrp001,00,X,HR/7
 play,2,0,valee002,12,CFBS,K
-com,"Debut game for Eric Valent"
 play,2,0,benng001,22,CCBBS,K
 play,2,0,andem003,00,X,8/F8D
 play,2,1,ramim002,12,FCBFX,53/G
@@ -4702,7 +4690,6 @@ play,4,0,valee002,22,FBBSX,43/G.2-3
 play,4,0,benng001,32,CFBBBS,K
 play,4,1,everc001,12,FSBS,K
 play,4,1,ramim002,32,CBFBBFX,HR/7
-com,"461 feet"
 play,4,1,bichd001,00,X,S7
 play,4,1,hills002,00,X,64(1)3/GDP
 play,5,0,andem003,12,CLBX,S9
@@ -4948,7 +4935,6 @@ start,hills002,"Shea Hillenbrand",1,7,5
 start,hatts001,"Scott Hatteberg",1,8,2
 start,lansm001,"Mike Lansing",1,9,6
 start,nomoh001,"Hideo Nomo",1,0,1
-com,"$Ramirez out with a viral infection; first game missed of year"
 play,1,0,gland001,01,CX,9/F9
 play,1,0,rollj001,01,CX,HR/9
 play,1,0,abreb001,22,BCSBS,K
@@ -5031,7 +5017,6 @@ play,8,0,estrj001,12,BCFC,K/C
 play,8,1,oleat001,22,CCBFBFX,8/F8
 play,8,1,daubb001,10,B,NP
 sub,orope001,"Eddie Oropesa",0,0,1
-com,"$Santiago pulled groin"
 play,8,1,daubb001,32,BCFBBFB,W
 play,8,1,hills002,32,BBBCFB,W.1-2
 play,8,1,hatts001,11,BCX,3/G.2-3;1-2
@@ -5686,7 +5671,6 @@ play,2,0,fullb001,11,BFX,D7.2-H;1-3
 play,2,0,fletd001,21,BSBX,S8.3-H;2-H
 play,2,0,fryej001,00,X,13/SH.1-2
 play,2,0,iztuc001,11,CBX,S7.2-3
-com,"Debut game for Cesar Izturis"
 play,2,0,stews002,00,H,HP.1-2
 play,2,0,bushh001,22,CBCBX,S9.3-H;2-H;1-2
 play,2,0,mondr002,00,,NP
@@ -5909,8 +5893,6 @@ play,8,0,fernt001,22,FCBBFX,D/89.1-H
 play,8,0,stews002,00,,NP
 sub,beckr001,"Rod Beck",1,0,1
 play,8,0,stews002,32,CFFFBFFBFFBS,K
-com,"ej,stews002,P,guccc901,Checked swing"
-com,"Shannon Stewart ejected by 1B umpire Chris Guccione"
 play,8,0,bushh001,32,BBBCCX,S7/7D.2-H
 play,8,0,mondr002,01,CB,SB2
 play,8,0,mondr002,11,CBX,7/L7
@@ -6003,7 +5985,6 @@ play,1,1,hatts001,10,BX,3/G
 play,1,1,nixot001,01,CX,8/F8
 play,2,0,difem001,30,BBBB,W
 play,2,0,aberb001,31,BBCBB,W.1-2
-com,"Debut game for Brent Abernathy"
 play,2,0,sheea001,10,BX,24/SH.2-3;1-2
 play,2,0,winnr001,00,X,9/SF.3-H;2-3
 play,2,0,cox-s001,11,CBX,S8.3-H
@@ -6473,7 +6454,6 @@ play,2,0,difem001,12,BCSX,8/F8
 play,2,0,aberb001,32,BFBCBB,W
 play,2,0,sheea001,00,,NP
 sub,florb001,"Bryce Florie",1,0,1
-com,"$Castillo left with strained muscle on right side"
 play,2,0,sheea001,12,CBFX,64(1)/FO
 play,2,1,bichd001,00,X,D7
 play,2,1,hills002,31,BBSBX,FC1.2X3(165);B-1
@@ -6712,7 +6692,6 @@ play,9,0,furcr001,32,LBCBBB,W
 play,9,0,surhb001,10,BC,SB2
 play,9,0,surhb001,00,,NP
 sub,lockk001,"Keith Lockhart",0,1,12
-com,"$Furcal dislocated shoulder, maybe out for season"
 play,9,0,surhb001,11,BCX,S9/9S.2-H
 play,9,0,jonea002,01,CB,WP.1-2
 play,9,0,jonea002,32,CBSBBB,W
@@ -6720,7 +6699,6 @@ play,9,0,jonec004,00,,NP
 sub,kim-s001,"Sun-Woo Kim",1,0,1
 play,9,0,jonec004,11,BSX,43/G.2-3;1-2
 play,9,0,jordb001,32,SFBBBX,2E3/G.3-H(NR)(UR);2-3;B-2
-com,"$ball went through first baseman's glove, breaking it"
 play,9,0,derom001,30,BBII,IW
 play,9,0,lopej001,02,CSFFS,K
 play,9,0,brogr001,22,CBFBS,K
@@ -6843,7 +6821,6 @@ play,5,0,derom001,02,CFX,8/F8
 play,5,1,daubb001,32,BCBBCB,W
 play,5,1,stync001,01,FX,D8/8D.1-3
 play,5,1,oleat001,01,FX,S3/G.3-H;2-3
-com,"changed from E3 to S3 the next day"
 play,5,1,lansm001,22,FBBSX,S7.3-H;1-2
 play,5,1,offej001,22,BSFFBC,K/C
 play,5,1,hatts001,31,BBBCX,S9/9S.2-H;1-2
@@ -7615,7 +7592,6 @@ play,6,0,lee-c001,11,BFX,4/P4
 play,6,1,lansm001,00,,NP
 sub,wrigd001,"Daniel Wright",0,0,1
 play,6,1,lansm001,10,BX,HR/7
-com,"Debut game for Daniel Wright"
 play,6,1,offej001,21,BBCX,43/G
 play,6,1,hatts001,10,BX,53/G
 play,6,1,nixot001,02,CCX,8/F8
@@ -7784,7 +7760,6 @@ play,8,1,everc001,22,SFBBS,K
 play,9,0,rowaa001,00,,NP
 sub,fossc001,"Casey Fossum",1,0,1
 play,9,0,rowaa001,00,X,63/G
-com,"Debut game for Casey Fossum"
 play,9,0,lee-c001,21,BBFX,S9.BX2(96)
 play,9,0,ordom001,22,BCCBX,43/G
 play,9,1,lansm001,00,,NP
@@ -8794,8 +8769,6 @@ play,7,0,velar001,22,CBSFBFFS,K
 play,7,1,garcn001,11,FBX,8/F8D
 play,7,1,ramim002,32,CBBBFC,K/C
 play,7,1,everc001,12,FBCC,K/C
-com,"ej,everc001,P,welkb901,Called third strike (threw bat)"
-com,"Carl Everett threw bat at feet of HP umpire Bill Welke and was ejected"
 play,8,0,rodra001,00,,NP
 sub,lewid001,"Darren Lewis",1,5,8
 play,8,0,rodra001,00,,NP
@@ -9360,7 +9333,6 @@ start,offej001,"Jose Offerman",1,7,3
 start,lansm001,"Mike Lansing",1,8,4
 start,mirad001,"Doug Mirabelli",1,9,2
 start,coned001,"David Cone",1,0,1
-com,"$Jimy Williams fired as Boston manager; Joe Kerrigan new manager"
 play,1,0,suzui001,12,FCBFX,S8
 play,1,0,mclem001,21,BBCB,CS2(26)
 play,1,0,mclem001,31,BBCBB,W
@@ -9415,8 +9387,6 @@ play,6,0,lampt001,10,BX,46(1)/FO
 play,6,1,bichd001,02,CSS,K
 play,6,1,hills002,22,CSBFBX,5/L5
 play,6,1,offej001,32,BCBBCFFFS,K
-com,"ej,offej001,P,bellw901,Balls and strikes"
-com,"Jose Offerman ejected by HP umpire Wally Bell"
 play,7,0,suzui001,00,,NP
 sub,hills002,"Shea Hillenbrand",1,6,3
 play,7,0,suzui001,00,,NP
@@ -9556,7 +9526,6 @@ play,5,1,ramim002,12,FFBX,8/F8
 play,5,1,bichd001,10,BB,SB3.2-H(E2/TH3)
 play,5,1,bichd001,20,BBX,9/F9
 play,5,1,hills002,31,BBBCX,6/P6
-com,"1:48 rain delay in the 6th"
 play,6,0,fordb001,00,,NP
 sub,nixot001,"Trot Nixon",1,1,8
 play,6,0,fordb001,00,,NP
@@ -9857,8 +9826,6 @@ play,4,1,garcn001,22,FBFBX,2/FL
 play,4,1,nixot001,32,CBBSBX,S9/9S
 play,4,1,ramim002,02,CFS,K
 play,4,1,bichd001,02,FFFX,54(1)/FO
-com,"ej,murre001,C,rapue901,Catch/trap call"
-com,"Oriole coach Eddie Murray ejected by 2B umpire Ed Rapuano in 5th"
 play,5,0,robeb003,02,CCX,3/G
 play,5,0,segud001,11,BFX,S/89
 play,5,0,conij001,00,X,S9.1-3
@@ -10061,7 +10028,6 @@ play,8,0,johnn001,01,CX,4/P4
 play,8,0,soria001,02,CFX,S8/8S
 play,8,0,wilse001,12,BCFFX,S8.1-2
 play,8,0,jeted001,22,SBBSFX,S7/DP.2XH(72);BX2(243)
-com,"$after out at plate, Jeter caught in rundown"
 play,8,1,everc001,00,,NP
 sub,willg001,"Gerald Williams",0,5,7
 play,8,1,everc001,00,,NP
@@ -10346,7 +10312,6 @@ sub,bellc001,"Clay Bellinger",0,5,12
 play,9,0,wilse001,10,BX,D9/G3L.3-H(UR);1-3
 play,9,0,soria001,00,,NP
 sub,lowed001,"Derek Lowe",1,0,1
-com,"$3 Boston infielders to left of 2B"
 play,9,0,soria001,12,CBFFS,K
 play,9,0,knobc001,11,FBX,53/G
 play,9,1,hills002,00,,NP
@@ -10358,7 +10323,6 @@ play,9,1,merll001,12,CBFS,K
 play,9,1,olivj001,00,,NP
 sub,everc001,"Carl Everett",1,9,11
 play,9,1,everc001,12,FSBX,S7/78
-com,"$Mussina had a perfect game with 2 outs in the ninth (26 straight)"
 play,9,1,nixot001,00,,NP
 sub,lewid001,"Darren Lewis",1,9,12
 play,9,1,nixot001,32,BBFSFBFX,43/G
@@ -11134,7 +11098,6 @@ play,7,1,hatts001,10,BX,4(B)3(1)/LDP
 play,7,1,merll001,00,,NP
 sub,loftj001,"James Lofton",1,9,11
 play,7,1,loftj001,31,BBCBX,31/G
-com,"Debut game for James Lofton"
 play,8,0,hallt001,00,,NP
 sub,loftj001,"James Lofton",1,9,6
 play,8,0,hallt001,10,BX,S7

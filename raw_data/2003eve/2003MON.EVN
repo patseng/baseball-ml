@@ -43,7 +43,6 @@ start,cabro001,"Orlando Cabrera",1,6,6
 start,macij001,"Jose Macias",1,7,5
 start,schnb001,"Brian Schneider",1,8,2
 start,ohkat001,"Tomo Ohka",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,ceder001,01,SX,13/G
 play,1,0,alomr001,00,X,3/G
 play,1,0,floyc001,22,BFBFS,K
@@ -185,7 +184,6 @@ start,wilkb002,"Brad Wilkerson",1,6,7
 start,barrm003,"Michael Barrett",1,7,2
 start,carrj001,"Jamey Carroll",1,8,6
 start,hernl003,"Livan Hernandez",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,peret004,22,BCBFX,S7/L
 play,1,0,alomr001,10,1B1X,3/SH/BG.1-2
 play,1,0,floyc001,11,BCX,8/F
@@ -212,7 +210,6 @@ play,3,0,floyc001,11,BCX,S9/L.1-3
 play,3,0,piazm001,01,FX,3/P
 play,3,1,vidrj001,00,,NP
 sub,mcewj001,"Joe McEwing",0,8,6
-com,"Rey Sanchez left the game due to an injured chest"
 play,3,1,vidrj001,22,.FBFFBX,3/G
 play,3,1,guerv001,12,FBCX,S9/F
 play,3,1,liefj001,11,F1BX,3/G.1-2
@@ -258,7 +255,6 @@ play,7,0,piazm001,00,,NP
 sub,shint001,"Tsuyoshi Shinjo",0,3,12
 play,7,0,piazm001,00,,NP
 sub,ayall001,"Luis Ayala",1,9,1
-com,"Cliff Floyd left the game due to an injured foot/ankle"
 play,7,0,piazm001,02,...FSS,K
 play,7,0,vaugm001,32,CBFBBFB,W.1-2
 play,7,0,wiggt001,31,CBBBX,E3/G.3-H(NR)(UR);2-H(NR)(UR);1-2
@@ -361,7 +357,6 @@ start,wilkb002,"Brad Wilkerson",1,6,7
 start,tatif001,"Fernando Tatis",1,7,5
 start,barrm003,"Michael Barrett",1,8,2
 start,day-z001,"Zach Day",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,ceder001,11,CBX,63/G
 play,1,0,peret004,10,BX,D9/L
 play,1,0,alomr001,02,CFB,WP.2-3
@@ -386,7 +381,6 @@ play,3,0,alomr001,31,11BBBCB,W.1-2
 play,3,0,piazm001,02,SFFS,K
 play,3,1,day-z001,00,,NP
 sub,clart002,"Tony Clark",0,5,3
-com,"Mets Mo Vaughn left the game due to an injured knee"
 play,3,1,day-z001,12,.CBFX,43/G
 play,3,1,chave002,11,CBX,7/F
 play,3,1,vidrj001,21,CBBX,E5/TH/G.B-2
@@ -530,7 +524,6 @@ start,wilkb002,"Brad Wilkerson",1,6,7
 start,tatif001,"Fernando Tatis",1,7,5
 start,barrm003,"Michael Barrett",1,8,2
 start,vazqj001,"Javier Vazquez",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,peret004,12,CSBS,K
 play,1,0,sancr001,22,CBSBS,K
 play,1,0,alomr001,22,CFBBFS,K
@@ -683,7 +676,6 @@ start,cabro001,"Orlando Cabrera",1,6,6
 start,tatif001,"Fernando Tatis",1,7,5
 start,schnb001,"Brian Schneider",1,8,2
 start,armat002,"Tony Armas",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,furcr001,32,CBBBCX,7/F
 play,1,0,franm001,32,BCCBBB,W
 play,1,0,shefg001,22,BFBC1X,54(1)/FO/G
@@ -852,7 +844,6 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,callr001,"Ron Calloway",1,7,7
 start,barrm003,"Michael Barrett",1,8,2
 start,ohkat001,"Tomo Ohka",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,furcr001,22,CBSFBX,43/G
 play,1,0,derom001,02,CFX,S7/L
 play,1,0,shefg001,11,BC1X,S9/L.1-2
@@ -861,7 +852,6 @@ play,1,0,franj002,12,FBCX,S7/G.2XH(72);1-2
 play,1,1,macij001,11,CBX,S8/G
 play,1,1,vidrj001,12,BF1FX,S9/L.1-2
 play,1,1,guerv001,01,CX,6/P
-com,"Infield fly rule"
 play,1,1,cordw001,20,BBX,64(1)3/GDP
 play,2,0,lopej001,11,CBX,53/G
 play,2,0,castv001,22,BFCBX,9/F
@@ -991,8 +981,6 @@ start,cordw001,"Wil Cordero",1,6,3
 start,tatif001,"Fernando Tatis",1,7,5
 start,schnb001,"Brian Schneider",1,8,2
 start,hernl003,"Livan Hernandez",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
-com,"54 minute delay sometime in game"
 play,1,0,furcr001,02,CFX,HR/9/F
 play,1,0,gilem001,11,CBX,6/L
 play,1,0,shefg001,00,H,HP
@@ -1184,7 +1172,6 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,liefj001,"Jeff Liefer",1,7,3
 start,schnb001,"Brian Schneider",1,8,2
 start,day-z001,"Zach Day",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,boona001,10,BX,63/G
 play,1,0,lopef001,12,CSBFX,31/G
 play,1,0,cases001,31,BBFBX,43/G
@@ -1355,7 +1342,6 @@ start,wilkb002,"Brad Wilkerson",1,6,8
 start,liefj001,"Jeff Liefer",1,7,3
 start,barrm003,"Michael Barrett",1,8,2
 start,vazqj001,"Javier Vazquez",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
 play,1,0,boona001,22,FBSBS,K
 play,1,0,lopef001,21,BCBX,7/F
 play,1,0,cases001,12,BCSFX,8/L
@@ -1506,8 +1492,6 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,liefj001,"Jeff Liefer",1,7,3
 start,schnb001,"Brian Schneider",1,8,2
 start,armat002,"Tony Armas",1,9,1
-com,"$Game played at Estadio Hiram Bithorn, San Juan"
-com,"1:22 delay during game"
 play,1,0,lopef001,32,CFBBBC,K
 play,1,0,guilj001,10,BX,3/G
 play,1,0,cases001,21,BBCX,63/G
@@ -1746,7 +1730,6 @@ play,8,0,womat001,21,CBBX,43/G
 play,8,1,wilkb002,00,,NP
 sub,webbb001,"Brandon Webb",0,9,1
 play,8,1,wilkb002,12,.CBTS,K
-com,"Debut game for Brandon Webb"
 play,8,1,tatif001,32,BBCSBFFFB,W
 play,8,1,cordw001,00,X,13/G-.1-2
 play,8,1,barrm003,01,CX,43/G
@@ -2102,7 +2085,6 @@ play,1,1,tatif001,00,X,S8/L.2-H
 play,1,1,cordw001,02,CSX,S7/G.1-2
 play,1,1,wilkb002,22,*BBFCFS,K
 play,1,1,barrm003,20,BBX,3/P
-com,"Infield fly rule"
 play,1,1,day-z001,02,CFC,K
 play,2,0,hidar001,10,BX,8/F
 play,2,0,zaung001,10,BX,S8/L
@@ -2253,10 +2235,8 @@ start,macij001,"Jose Macias",1,7,7
 start,schnb001,"Brian Schneider",1,8,2
 start,vargc001,"Claudio Vargas",1,9,1
 play,1,0,biggc001,32,CBBFBB,W
-com,"Debut game for Claudio Vargas"
 play,1,0,blumg001,31,B1BBCB,W.1-2
 play,1,0,bagwj001,10,BX,4/P
-com,"Infield fly rule"
 play,1,0,berkl001,20,BBX,46(1)/FO/G.2-3
 play,1,0,kentj001,01,CX,8/L
 play,1,1,chave002,12,CCBX,8/L
@@ -3112,8 +3092,6 @@ play,4,1,cordw001,00,X,8/F
 play,4,1,tatif001,01,FH,HP
 play,4,1,schnb001,11,FBX,S9/G.1-3
 play,4,1,vargc001,22,CBBFC,K
-com,"ej,robif103,M,wegnm901,Balls and strikes"
-com,"Expos Manager Frank Robinson ejected by HP umpire Mark Wegner"
 play,5,0,grees001,02,F.CS,K
 play,5,0,mcgrf001,22,BFCBFX,43/G
 play,5,0,kinkm001,22,CSBBX,53/G
@@ -3575,7 +3553,6 @@ play,3,0,castl001,32,CBCB*BX,43/G.2-3
 play,3,0,encaj001,22,BFBCX,9/F
 play,3,1,vidrj001,00,,NP
 sub,allec001,"Chad Allen",0,5,7
-com,"Marlins Todd Hollandsworth left the game due to an injured leg"
 play,3,1,vidrj001,32,..BFBFBFX,7/L
 play,3,1,guerv001,31,BCBBX,D7/G
 play,3,1,cordw001,21,BBFX,D7/G.2-H
@@ -4404,7 +4381,6 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,liefj001,"Jeff Liefer",1,7,3
 start,schnb001,"Brian Schneider",1,8,2
 start,ohkat001,"Tomo Ohka",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,ecksd001,01,CX,S7/L
 play,1,0,davaj001,01,FX,HR/7/F.1-H
 play,1,0,salmt001,10,BX,HR/89/F
@@ -4586,7 +4562,6 @@ start,tatif001,"Fernando Tatis",1,6,5
 start,barrm003,"Michael Barrett",1,7,2
 start,macij001,"Jose Macias",1,8,7
 start,kim-s001,"Sun-Woo Kim",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,ecksd001,22,BBCCX,63/G
 play,1,0,davaj001,32,BBCFFBX,4/L
 play,1,0,salmt001,11,CBX,S9/L.BX2(93)
@@ -4613,7 +4588,6 @@ play,3,0,glaut001,20,BBX,53/G
 play,3,1,kim-s001,01,CX,E5/G
 play,3,1,cabro001,10,BX,S7/G.1-2
 play,3,1,vidrj001,32,SBSBFFBFFX,6/P
-com,"Infield Fly rule"
 play,3,1,guerv001,01,FX,54(1)/FO/G.2-3
 play,3,1,cordw001,01,CX,53/G-
 play,4,0,fullb001,01,CX,63/G
@@ -4767,7 +4741,6 @@ start,callr001,"Ron Calloway",1,6,9
 start,macij001,"Jose Macias",1,7,5
 start,barrm003,"Michael Barrett",1,8,2
 start,vazqj001,"Javier Vazquez",1,9,1
-com,"game played in San Juan, Puerto Rico"
 play,1,0,ecksd001,32,CBBFBS,K
 play,1,0,davaj001,11,CBX,3/G
 play,1,0,salmt001,22,CBSBFX,8/F
@@ -4882,7 +4855,6 @@ play,9,1,cabro001,01,CX,8/F
 play,10,0,andeg001,00,,NP
 sub,manoj001,"Julio Manon",1,9,1
 play,10,0,andeg001,20,.BBX,9/L
-com,"Debut game for Julio Manon"
 play,10,0,glaut001,02,CSS,K
 play,10,0,fullb001,21,CBBX,7/F
 play,10,1,vidrj001,30,BBBB,W
@@ -4999,7 +4971,6 @@ start,callr001,"Ron Calloway",1,6,9
 start,tatif001,"Fernando Tatis",1,7,5
 start,schnb001,"Brian Schneider",1,8,2
 start,hernl003,"Livan Hernandez",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,younm003,01,CX,9/F
 play,1,0,blalh001,10,BX,S8/L
 play,1,0,rodra001,12,C11BCX,S9/L.1-2
@@ -5166,7 +5137,6 @@ start,callr001,"Ron Calloway",1,6,9
 start,tatif001,"Fernando Tatis",1,7,5
 start,schnb001,"Brian Schneider",1,8,2
 start,vargc001,"Claudio Vargas",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,gland001,22,CSBFBX,8/F
 play,1,0,younm003,12,BSFFX,S4/G
 play,1,0,blalh001,11,C1B1X,5/P5F
@@ -5237,7 +5207,6 @@ play,5,1,tatif001,00,X,13/G
 play,6,0,younm003,00,,NP
 sub,ferra001,"Anthony Ferrari",1,9,1
 play,6,0,younm003,32,.BBCFBX,S9/L
-com,"Debut game for Anthony Ferrari"
 play,6,0,blalh001,00,X,6(1)3/GDP
 play,6,0,gonzj002,10,BX,8/F
 play,6,1,schnb001,31,BFBBX,13/G
@@ -5337,7 +5306,6 @@ start,barrm003,"Michael Barrett",1,6,2
 start,guzme001,"Edwards Guzman",1,7,3
 start,carrj001,"Jamey Carroll",1,8,5
 start,ohkat001,"Tomo Ohka",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,gland001,22,CFBFBX,S9/L
 play,1,0,younm003,12,B1CCX,8/F
 play,1,0,everc001,00,X,8/F
@@ -5498,7 +5466,6 @@ play,3,0,lidlc001,10,BX,S8/G
 play,3,0,johnr008,11,BFX,54(1)/FO/G
 play,3,0,cataf001,00,X,S9/F.1-2
 play,3,0,wellv001,00,X,6/P
-com,"Infield Fly rule"
 play,3,0,delgc001,32,BBSSBF>S,K
 play,3,1,schnb001,10,BX,43/G
 play,3,1,vazqj001,12,CC*BX,53/G
@@ -6137,7 +6104,6 @@ play,7,1,cordw001,22,CBSBC,K
 play,8,0,kendj001,10,BX,D7/L
 play,8,0,gileb002,32,CBSBFBB,W
 play,8,0,ramia001,00,X,3/P
-com,"Infield Fly rule"
 play,8,0,staim001,00,,NP
 sub,guzme001,"Edwards Guzman",1,2,3
 play,8,0,staim001,00,,NP
@@ -6221,7 +6187,6 @@ start,vitij001,"Joe Vitiello",1,6,3
 start,callr001,"Ron Calloway",1,7,9
 start,schnb001,"Brian Schneider",1,8,2
 start,vazqj001,"Javier Vazquez",1,9,1
-com,"42 minute delay during game"
 play,1,0,kendj001,00,X,S7/G
 play,1,0,reboj001,11,CB1>S,CS2(26)
 play,1,0,reboj001,22,CB1>S.BS,K
@@ -6428,9 +6393,6 @@ play,4,1,schnb001,21,FBBX,D8/F-.3-H;2-H;1-3
 play,4,1,hernl003,10,BH,HP
 play,4,1,macij001,00,,NP
 sub,merch002,"Hector Mercado",0,9,1
-com,"ej,bowal001,M,welkb901,Arguing batter swung at HBP"
-com,"Phillies Manager Larry Bowa ejected by HP umpire Bill Welke"
-com,"for arguing that Livan Hernandez swung at the pitch that hit him"
 play,4,1,macij001,22,..CFBBFX,5(2)/FO/G.3-H;1-2
 play,4,1,guzme001,11,FBX,43/G-.2-3;1-2
 play,4,1,cabro001,22,CFBBX,4/P
@@ -6723,7 +6685,6 @@ play,2,1,vidrj001,12,CBFX,S5/G-
 play,2,1,wilkb002,11,L1BX,8/F
 play,2,1,cordw001,32,1PSCB*B>F>B,W.1-2
 play,2,1,callr001,32,CBBBFF>X,4/P
-com,"Infield Fly rule"
 play,2,1,barrm003,30,BBBB,W.2-3;1-2
 play,2,1,ohkat001,00,X,3/G
 play,3,0,peret003,12,BCLFFS,K
@@ -7121,7 +7082,6 @@ start,vitij001,"Joe Vitiello",1,6,7
 start,wilkb002,"Brad Wilkerson",1,7,8
 start,barrm003,"Michael Barrett",1,8,2
 start,vargc001,"Claudio Vargas",1,9,1
-com,"9 minute delay during game"
 play,1,0,pierj002,00,X,DGR/78/F
 play,1,0,castl001,00,X,53/SH/BG.2-3
 play,1,0,rodri001,11,SBX,D8/L.3-H
@@ -7868,7 +7828,6 @@ play,6,0,gilem001,00,X,34/SH/BG.2-3
 play,6,0,shefg001,21,BBFX,FC6/G.3-H;B-2(E6/TH)
 play,6,0,jonec004,00,,NP
 sub,manoj001,"Julio Manon",1,9,1
-com,"Expos Eric Knott left with injured arm"
 play,6,0,jonec004,11,..BF2,PO2(E1).2-3
 play,6,0,jonec004,31,..BF2.III,IW
 play,6,0,jonea002,12,CBFX,S7/F.3-H;1-3
@@ -8228,11 +8187,6 @@ play,7,0,bragd001,00,,NP
 sub,eiscj001,"Joey Eischen",1,9,1
 play,7,0,bragd001,31,.BBCBB,W
 play,7,0,hampm001,11,M1BX,13/BG/INT.1-1
-com,"ej,hampm001,P,randt901,Batter interference"
-com,"$Braves Mike Hampton ejected by HP umpire Tony Randazzo;"
-com,"Hampton called out for running inside base line and argued"
-com,"the call; manager Bobby Cox argued very heatedly (Randazzo"
-com,"too) but stayed in game"
 play,7,0,furcr001,22,.1BBFCX,64(1)3/GDP
 play,7,1,carrj001,00,,NP
 sub,holmd001,"Darren Holmes",0,9,1
@@ -8453,7 +8407,6 @@ play,1,0,mathm001,10,BX,D8/L.3-H;2-H;1-H
 play,1,0,hared001,00,,NP
 sub,corcr001,"Roy Corcoran",1,9,1
 play,1,0,hared001,20,.BBX,D7/F.2-H
-com,"Debut game for Roy Corcoran"
 play,1,0,hartb001,32,BBCBSX,8/F
 play,1,0,drewj001,32,BBBCCX,8/F
 play,1,1,chave002,32,BBCBCX,7/L
@@ -8523,7 +8476,6 @@ play,8,1,chave002,11,BCB,WP.2-3
 play,8,1,chave002,21,BCB.X,S7/L.3-H;1-2
 play,8,1,wilkb002,22,BCBSFX,6/L-
 play,8,1,cabro001,21,BSBX,5/P
-com,"Infield Fly rule"
 play,8,1,guerv001,12,CSBX,3/P
 play,9,0,simoj001,00,,NP
 sub,cairm001,"Miguel Cairo",0,9,11
@@ -8887,7 +8839,6 @@ start,schnb001,"Brian Schneider",1,7,2
 start,mateh001,"Henry Mateo",1,8,4
 start,vazqj001,"Javier Vazquez",1,9,1
 play,1,0,youne001,31,BBCBX,6/P
-com,"Debut game for David Manning"
 play,1,0,podss001,11,CBX,7/F
 play,1,0,jenkg001,22,BBSSFC,K
 play,1,1,chave002,32,CBSFFBBX,53/G
@@ -9376,7 +9327,6 @@ play,8,1,guerv001,30,IIII,IW
 play,8,1,cabro001,00,,NP
 sub,speij001,"Justin Speier",0,9,1
 play,8,1,cabro001,00,.X,6/P
-com,"Infield Fly rule"
 play,8,1,wilkb002,11,BCX,8/F
 play,9,0,paytj001,00,,NP
 sub,almoh001,"Hector Almonte",1,9,1
@@ -9492,10 +9442,6 @@ play,1,1,guerv001,22,CFBFBX,9/F
 play,1,1,cabro001,22,BCFBX,8/F
 play,2,0,wilsp002,00,X,HR/8/L
 play,2,0,walkl001,00,X,D8/L
-com,"1:16 delay after the lights went out while Vasquez"
-com,"was preparing to deliver a 3-2 pitch to Payton;"
-com,"according to B.Schneider: 'Both Kulpa and I bolted."
-com,"My initial reaction was - get out of my way.'"
 play,2,0,paytj001,32,BBSSFBX,S7/G.2-3
 play,2,0,atkig001,10,BX,3/P3F
 play,2,0,johnc002,30,BBBB,W.1-2
@@ -9676,7 +9622,6 @@ play,4,0,felip001,12,CCBC,K
 play,4,1,vidrj001,31,BCBBB,W
 play,4,1,guerv001,01,FH,HP.1-2
 play,4,1,cabro001,21,BBCX,3/P
-com,"Infield Fly rule"
 play,4,1,callr001,21,CBBX,S8/G.2-3;1-2
 play,4,1,cordw001,11,CBX,7/SF.3-H
 play,4,1,macij001,00,X,13/G
@@ -9794,7 +9739,6 @@ play,3,1,guerv001,01,FX,53/G
 play,3,1,cabro001,22,CBCFBS,K
 play,3,1,callr001,01,CX,9/F
 play,4,0,grism001,11,FBH,HP
-com,"hit on wrist, left next inning"
 play,4,0,snowj001,20,B*BX,36(1)3/GDP
 play,4,0,santb001,02,FFS,K
 play,4,1,cordw001,00,,NP
@@ -10046,7 +9990,6 @@ start,carrj001,"Jamey Carroll",1,8,5
 start,vazqj001,"Javier Vazquez",1,9,1
 play,1,0,cruzj004,32,FBBBSFFFX,5/P5F
 play,1,0,lindt001,02,FSFX,5/P5F
-com,"Debut game for Todd Linden"
 play,1,0,felip001,12,CFBFS,K
 play,1,1,chave002,32,BBBCFX,53/G
 play,1,1,vidrj001,11,CBX,7/F
@@ -10241,7 +10184,6 @@ sub,mateh001,"Henry Mateo",1,3,12
 play,6,1,guerv001,10,.BX,S8/G.1-2
 play,6,1,cordw001,32,BBF*BFFFS,K
 play,6,1,zeilt001,22,BCFBX,T7.2-H;1-H
-com,"originally scored E5/G.2-H(UR);1-H(UR);B-3 changed next day"
 play,6,1,macij001,22,BBCSX,8/F
 play,7,0,utlec001,00,,NP
 sub,wilkb002,"Brad Wilkerson",1,1,9
@@ -10513,9 +10455,6 @@ start,ohkat001,"Tomo Ohka",1,9,1
 play,1,0,byrdm001,00,X,9/F
 play,1,0,polap001,02,CFX,HR/7/F
 play,1,0,abreb001,22,BCBCS,K
-com,"ej,pratt001,P,crawj901,Bench jockeying"
-com,"Phillies Todd Pratt ejected by 3B umpire Jerry Crawford"
-com,"from bench; argued check swing strike call"
 play,1,0,thomj002,22,BSSBX,53/G
 play,1,1,wilkb002,00,X,43/G
 play,1,1,cabro001,12,CCFBX,8/F
@@ -10564,7 +10503,6 @@ play,6,0,abreb001,21,BCBX,7/F
 play,6,1,wilkb002,00,,NP
 sub,gearg001,"Geoff Geary",0,9,1
 play,6,1,wilkb002,32,.BCCBBFB,W
-com,"Debut game for Geoff Geary"
 play,6,1,cabro001,22,>F1BCB>B,CS2(24)
 play,6,1,cabro001,32,>F1BCB>B.B,W
 play,6,1,vidrj001,22,BFB1S1S,K
@@ -10607,8 +10545,6 @@ sub,biddr001,"Rocky Biddle",1,9,1
 play,8,0,liebm001,01,.CX,8/F
 play,8,1,vidrj001,01,CH,HP
 play,8,1,guerv001,00,H,HP.1-2
-com,"ej,wendt001,P,onorb901,Intentional HBP"
-com,"Phillies Turk Wendell ejected by HP umpire Brian O'Nora"
 play,8,1,cordw001,00,,NP
 sub,silvc001,"Carlos Silva",0,9,1
 play,8,1,cordw001,02,..FSB,WP.2-3;1-2
@@ -10799,7 +10735,6 @@ start,zeilt001,"Todd Zeile",1,6,5
 start,vitij001,"Joe Vitiello",1,7,7
 start,schnb001,"Brian Schneider",1,8,2
 start,hernl003,"Livan Hernandez",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,pierj002,02,CCX,63/G
 play,1,0,castl001,22,CBBCFFX,S7/L
 play,1,0,rodri001,01,C1X,9/F
@@ -10833,9 +10768,6 @@ play,4,0,gonza002,22,SC*BBS,K
 play,4,0,redmm002,02,CSS,K
 play,4,1,guerv001,00,X,S8/L
 play,4,1,cordw001,12,CB1FX,9/F
-com,"$power outage from 8:23 to 9:37 (1:14 delay); most"
-com,"power in the main grandstand was out, including the"
-com,"field lights; the outfield lights remained on"
 play,4,1,zeilt001,01,>FX,3/P
 play,4,1,vitij001,22,FT1BBC,K
 play,5,0,pierj002,10,BX,S8/G
@@ -10854,7 +10786,6 @@ play,6,1,vidrj001,10,BX,8/F
 play,6,1,guerv001,30,BBBB,W
 play,6,1,cordw001,12,FBF1X,S8/F.1-3
 play,6,1,zeilt001,11,BCX,HR/7/L.3-H;1-H
-com,"$Zeile becomes first man to homer for 11 different teams"
 play,6,1,vitij001,10,BX,HR/7/F
 play,6,1,schnb001,12,CBFFS,K
 play,7,0,gonza002,00,,NP
@@ -10882,8 +10813,6 @@ play,8,1,cordw001,00,,NP
 sub,hellr001,"Rick Helling",0,9,1
 play,8,1,cordw001,01,.SX,43/G
 play,8,1,zeilt001,00,X,HR/9/F
-com,"$neither of Zeile's homers would have been out"
-com,"in any other NL ballpark"
 play,8,1,chave002,31,BBFBB,W
 play,8,1,schnb001,01,FX,7/F
 play,8,1,hernl003,00,,NP
@@ -10952,15 +10881,12 @@ start,zeilt001,"Todd Zeile",1,6,5
 start,guzme001,"Edwards Guzman",1,7,2
 start,chave002,"Endy Chavez",1,8,8
 start,ohkat001,"Tomo Ohka",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,pierj002,10,BX,S8/L
 play,1,0,castl001,00,1>X,E1/SH/BG.1-2
 play,1,0,rodri001,02,CFFX,S9/L.2-3;1-2
 play,1,0,conij001,21,BBSX,E6/TH/FO/G.3-H(UR)(NR);2-H(UR)(NR);1-3;B-2
 play,1,0,encaj001,01,CX,53/G
 play,1,0,lee-d002,10,BX,HR/9/F.3-H(UR);2-H(UR);B-H(UR)
-com,"$Derrek Lee hit his 28th homer of the year on his 28th"
-com,"birthday"
 play,1,0,cabrm001,22,CBSBH,HP
 play,1,0,gonza002,11,BSX,E5/G.1-2
 play,1,0,pennb002,00,X,2/BP
@@ -11039,13 +10965,8 @@ play,6,1,callr001,00,X,S7/L.3-H;1-2
 play,6,1,almoh001,00,,NP
 sub,macij001,"Jose Macias",1,5,11
 play,6,1,macij001,32,.CFBBFFBFX,S8/G.2-H;1-2
-com,"$Brad Penny appealed Jose Macias missed 3B and was vocal"
-com,"about the denial of that appeal"
 play,6,1,zeilt001,11,CBX,9/F
 play,6,1,guzme001,02,CFFS,K
-com,"ej,pennb002,P,drakr901,Arguing runner missed bag"
-com,"$Brad Penny ejected by 3B umpire Rob Drake for continuing to argue"
-com,"appeal play after the inning was over"
 play,7,0,pennb002,00,,NP
 sub,castr002,"Ramon Castro",0,9,11
 play,7,0,castr002,00,,NP
@@ -11053,7 +10974,6 @@ sub,stews003,"Scott Stewart",1,1,1
 play,7,0,castr002,00,,NP
 sub,macij001,"Jose Macias",1,5,7
 play,7,0,castr002,10,...BX,HR/7/F
-com,"$2nd consecutive PH HR for Castro"
 play,7,0,pierj002,00,X,S7/L
 play,7,0,mordm001,10,BX,5/P5F
 play,7,0,rodri001,00,,NP
@@ -11107,7 +11027,6 @@ play,9,1,chave002,12,...CCBX,2/P2F
 play,9,1,vitij001,31,SBBBX,63/G
 play,9,1,cordc001,00,,NP
 sub,schnb001,"Brian Schneider",1,1,11
-com,"$all non-pitchers for Expos now in the game"
 play,9,1,schnb001,12,.BCFC,K
 data,er,pennb002,2
 data,er,fox-c001,2
@@ -11164,7 +11083,6 @@ start,zeilt001,"Todd Zeile",1,6,5
 start,vitij001,"Joe Vitiello",1,7,7
 start,schnb001,"Brian Schneider",1,8,2
 start,vazqj001,"Javier Vazquez",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,pierj002,01,CX,43/G
 play,1,0,castl001,00,X,43/G-
 play,1,0,rodri001,22,SBFBS,K
@@ -11301,7 +11219,6 @@ start,zeilt001,"Todd Zeile",1,6,5
 start,schnb001,"Brian Schneider",1,7,2
 start,mateh001,"Henry Mateo",1,8,4
 start,day-z001,"Zach Day",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,loftk001,22,CCBBX,7/F
 play,1,0,grudm001,00,X,4/P
 play,1,0,sosas001,31,BSBBX,3/G
@@ -11452,7 +11369,6 @@ start,zeilt001,"Todd Zeile",1,6,5
 start,schnb001,"Brian Schneider",1,7,2
 start,mateh001,"Henry Mateo",1,8,4
 start,hernl003,"Livan Hernandez",1,9,1
-com,"Game played in San Juan, Puerto Rico"
 play,1,0,loftk001,11,BCX,6/P
 play,1,0,grudm001,01,CX,43/G
 play,1,0,sosas001,12,BCFX,63/G
@@ -11507,7 +11423,6 @@ play,6,1,cabro001,00,,NP
 sub,vered001,"Dave Veres",0,9,1
 play,6,1,cabro001,00,.X,S8/L.3-H;2-3;1-2
 play,6,1,guerv001,32,FBFBBFX,6/P
-com,"Infield Fly rule"
 play,6,1,callr001,32,*BSBF*BS,K
 play,6,1,zeilt001,22,CB*BSS,K
 play,7,0,gonza001,00,,NP
@@ -11614,8 +11529,6 @@ start,zeilt001,"Todd Zeile",1,6,5
 start,schnb001,"Brian Schneider",1,7,2
 start,mateh001,"Henry Mateo",1,8,4
 start,ohkat001,"Tomo Ohka",1,9,1
-com,"Game played in San Juan, Puerto Rico"
-com,"50 minute delay during game"
 play,1,0,goodt001,00,X,S9/L
 play,1,0,womat001,12,C1B1F1S,K
 play,1,0,sosas001,22,CBBC1>B,CS2(24)
@@ -11868,7 +11781,6 @@ play,8,0,wiggt001,10,BX,53/G
 play,8,0,cerdj001,00,,NP
 sub,watsm002,"Matt Watson",0,6,11
 play,8,0,watsm002,01,.FX,43/G
-com,"Debut game for Matt Watson"
 play,8,1,mateh001,00,,NP
 sub,wheed001,"Dan Wheeler",0,6,1
 play,8,1,mateh001,22,.BSBCFS,K
@@ -12140,7 +12052,6 @@ play,6,0,duncj001,01,CX,63/G
 play,6,0,glavt001,00,,NP
 sub,glavm001,"Mike Glavine",0,9,11
 play,6,0,glavm001,00,.X,43/G
-com,"Debut game for Mike Glavine"
 play,6,1,vitij001,00,,NP
 sub,wheed001,"Dan Wheeler",0,9,1
 play,6,1,vitij001,10,.BX,S7/G
@@ -12276,7 +12187,6 @@ play,4,0,fickr001,22,SBSBH,HP
 play,4,0,castv001,31,1BBBCX,S9/L.1-2
 play,4,0,ramih002,02,LFX,FC1/SH/BG.2-3;1-2
 play,4,0,furcr001,22,FCBFBFX,4/P.3-H(NR);2-3;1-2
-com,"Infield Fly rule"
 play,4,0,derom001,12,BSFB,WP.3-H;2-3
 play,4,0,derom001,22,BSFB.X,S7/G.3-H
 play,4,0,shefg001,00,,NP

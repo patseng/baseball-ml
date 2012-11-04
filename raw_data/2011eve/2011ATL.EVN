@@ -1652,11 +1652,6 @@ play,9,1,freef001,00,,NP
 sub,therr001,"Ryan Theriot",0,8,6
 play,9,1,freef001,12,..CBFC,K
 play,9,1,gonza002,32,BBBCCC,K
-com,"ej,gonzf801,M,hudsm901,Balls and strikes"
-com,"ej,gonza002,P,hudsm901,Balls and strikes"
-com,"Braves shortstop Alex Gonzalez ejected by HP umpire Marvin Hudson for arguing the"
-com,"called third strike; Braves Manager Fredi Gonzalez ejected by Hudson for arguing"
-com,"after the first ejection"
 play,9,1,mclon001,32,..BCSBBB,W
 play,9,1,sherg001,00,,NP
 sub,hinse001,"Eric Hinske",1,9,11
@@ -1736,7 +1731,6 @@ play,3,0,hollm001,32,CF*BBBB,W
 play,3,0,berkl001,12,1CS1BX,63/G
 play,3,1,mathj002,00,,NP
 sub,descd001,"Daniel Descalso",0,1,4
-com,"Cardinals second baseman Nick Punto left the game due to an injured leg"
 play,3,1,mathj002,12,.BFSX,3/P
 play,3,1,mclon001,20,BBX,43/G
 play,3,1,lowed001,32,SBFBFBC,K
@@ -1782,9 +1776,6 @@ play,7,0,descd001,11,.FBX,63/G
 play,7,0,rasmc001,12,CSFFBS,K
 play,7,0,pujoa001,32,BCBBSS,K
 play,7,1,uggld001,22,SFBFBX,D8/L
-com,"$Dan Uggla's fly to center hit the top of the padding on the wall and bounced back onto the"
-com,"field; the ball was ruled in play but Braves manager Fredi Gonzalez asked about the call, so"
-com,"crew chief Tim McClelland watched the replay and upheld the call"
 play,7,1,gonza002,00,,NP
 sub,mottj001,"Jason Motte",0,9,1
 play,7,1,gonza002,22,.BLBLX,E3/G.2-H(UR)(NR)
@@ -2526,7 +2517,6 @@ play,7,1,mclon001,31,BFBBX,43/G
 play,7,1,hernd001,01,CX,63/G
 play,8,0,wertj001,00,,NP
 sub,hinse001,"Eric Hinske",1,2,9
-com,"Braves RF Jayson Heyward left the game with numbness in his right hand"
 play,8,0,wertj001,21,.CBBX,9/F
 play,8,0,laroa001,31,BBBCB,W
 play,8,0,ramow001,10,BX,13/G-.1-2
@@ -2998,7 +2988,6 @@ play,2,1,mathj002,22,BBCCX,53/G
 play,2,1,beacb001,22,BSSBS,K
 play,3,0,franb001,00,,NP
 sub,martc005,"Cristhian Martinez",1,9,1
-com,"Braves pitcher Brandon Beachy left the game due to an injured side"
 play,3,0,franb001,22,.FBBSS,K
 play,3,0,ibanr001,32,BBBCSS,K
 play,3,0,orr-p001,22,FBBCS,K
@@ -3230,7 +3219,6 @@ play,8,1,ventj001,00,,NP
 sub,maybj001,"John Mayberry",0,9,8
 play,8,1,ventj001,00,,NP
 sub,mathj002,"Joe Mather",1,9,11
-com,"Phillies center fielder Shane Victorino left the game due to an injured leg"
 play,8,1,mathj002,02,....CSS,K
 play,8,1,pradm001,30,BBBB,W
 play,8,1,mclon001,11,1BC1X,8/F
@@ -6083,15 +6071,7 @@ play,7,1,lugoj001,12,..CBSX,43/G-
 play,7,1,lines001,00,,NP
 sub,conrb001,"Brooks Conrad",1,9,11
 play,7,1,conrb001,32,.BFCBBFFFX,HR/9/F
-com,"$Brooks Conrad's fly to RF hit the top of the padding (on top of the yellow stripe),"
-com,"bounced off the back wall and caromed back onto the field; it was ruled in play; Conrad"
-com,"thought he had a home run and slowed down then ran harder to 3B, where he was tagged out;"
-com,"before Braves manager Fredi Gonzalez could get onto the field, crew chief Joe West"
-com,"called the umpires together briefly and then left to watch the replay; he overturned"
-com,"his own call to a home run, which was Conrad's third PH homer of the season"
 play,7,1,schaj002,22,FBBFX,9!/F
-com,"$Blue Jays RF Jose Bautista made a leaping catch at the wall, taking a"
-com,"home run away from Jordan Schafer"
 play,7,1,heywj001,12,CBCS,K
 play,8,0,escoy001,00,,NP
 sub,ventj001,"Jonny Venters",1,9,1
@@ -6638,7 +6618,6 @@ play,4,0,heltt001,32,CBBB>T.X,S8/L.2-H
 play,4,0,tulot001,12,CCBX,6(1)3/GDP
 play,4,1,mccab002,00,,NP
 sub,herrj002,"Jonathan Herrera",0,4,6
-com,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg"
 play,4,1,mccab002,32,.BFCBBX,13/G
 play,4,1,freef001,32,BFCFBBFFB,W
 play,4,1,heywj001,32,1BCFBB>F1>X,13/G.1-2
@@ -7077,7 +7056,6 @@ play,3,0,blacc001,12,CFBX,S7/F-
 play,3,0,herrj002,10,B1>X,S7/G.1-3
 play,3,0,giamj001,00,,NP
 sub,wiggt001,"Ty Wigginton",0,1,12
-com,"Rockies center fielder Charlie Blackmon left the game due to an injured foot"
 play,3,0,giamj001,10,1.BX,FC1/G.3-H;1-2
 play,3,0,smits002,11,BSH,HP.2-3;1-2
 play,3,0,ellim001,01,CX,5(2)3/GDP
@@ -7546,7 +7524,6 @@ play,3,0,morsm001,22,CBBFS,K
 play,3,0,wertj001,02,CCS,K
 play,3,1,pradm001,00,,NP
 sub,rodrh002,"Henry Rodriguez",0,9,1
-com,"Nationals pitcher Tom Gorzelanny left the game due to an injured ankle"
 play,3,1,pradm001,11,.CBX,43/G-
 play,3,1,mccab002,32,FBSFBBFS,K
 play,3,1,freef001,21,SBBX,43/G
@@ -7693,7 +7670,6 @@ start,rossd001,"David Ross",1,6,2
 start,mclon001,"Nate McLouth",1,7,8
 start,gonza002,"Alex Gonzalez",1,8,6
 start,hudst001,"Tim Hudson",1,9,1
-com,"2:02 rain delay before start of game"
 play,1,0,paulx001,12,FFBC,K
 play,1,0,joneg002,32,BBCSBS,K
 play,1,0,walkn001,22,SBBFC,K
@@ -7736,7 +7712,6 @@ play,5,1,heywj001,22,SBCBT,K
 play,6,0,paulx001,22,FBBSC,K
 play,6,0,joneg002,32,FFFBBBB,W
 play,6,0,walkn001,11,1F1B>X,53/G-.1-2
-com,"$Neil Walker hit a pitch-out to protect the runner"
 play,6,0,mccua001,00,X,S8/G+.2-H;B-2(E8)
 play,6,0,alvap001,02,SS>B,SB3
 play,6,0,alvap001,22,SS>B.BS,K23
@@ -7954,10 +7929,6 @@ play,9,0,paulx001,22,C1>P.SFBS,K
 play,9,1,mclon001,00,,NP
 sub,veraj001,"Jose Veras",0,9,1
 play,9,1,mclon001,12,.BCCS,K
-com,"ej,mclon001,P,mealj901,Balls and strikes"
-com,"ej,gonzf801,M,mealj901,Balls and strikes"
-com,"Braves center fielder Nate McLouth and manager Fredi Gonzalez ejected by HP umpire Jerry Meals"
-com,"for arguing about the second strike of the at bat after the strikeout"
 play,9,1,pradm001,21,..CBBX,63/G
 play,9,1,mccab002,20,BBX,5/P5F
 play,10,0,pears001,00,,NP
@@ -7976,7 +7947,6 @@ play,10,0,alvap001,00,,NP
 sub,rossd001,"David Ross",1,3,2
 play,10,0,alvap001,00,,NP
 sub,sherg001,"George Sherrill",1,1,1
-com,"Braves catcher Brian McCann left the game due to a left oblique strain which he injured on the stolen base"
 play,10,0,alvap001,12,..BCCFC,K
 play,10,0,overl001,01,SX,43/G
 play,10,1,freef001,00,,NP
@@ -8072,10 +8042,6 @@ play,19,1,lugoj001,32,CBCFFBBB,W
 play,19,1,schaj002,12,FFBX,S8/L.1-3
 play,19,1,procs001,01,>F>S,DI.1-2
 play,19,1,procs001,02,>F>S.X,FC5/G.3-H;2-3
-com,"$the throw beat Julio Lugo and catcher Michael McHenry swept a tag across the runner"
-com,"but HP umpire Jerry Meals ruled that McHenry missed the tag; McHenry talked to Meals"
-com,"and Pirates manager Clint Hurdle ran out to yell at Meals; Hurdle walked bacwards to"
-com,"the dugout, continuing to yell at Meals and the other umpires"
 data,er,karsj001,3
 data,er,watst001,0
 data,er,beimj001,0
@@ -8856,7 +8822,6 @@ play,2,0,byrdm001,12,CFBX,D7/F
 play,2,0,penac001,00,X,63/G.2-3
 play,2,0,soria001,22,CSBBFS,K
 play,2,1,uggld001,01,CX,HR/8/F
-com,"$32-game hit streak for Dan Uggla, a new Braves record"
 play,2,1,jonec004,00,X,S7/L
 play,2,1,gonza002,22,BFBCFC,K
 play,2,1,rossd001,00,X,S8/L.1-3
@@ -8872,7 +8837,6 @@ play,3,1,pradm001,22,BBSCFFX,63/G
 play,3,1,freef001,02,SCX,S9/G+
 play,3,1,uggld001,22,BCC*BFH,HP.1-2
 play,3,1,jonec004,21,BBCX,HR/8/F.2-H;1-H
-com,"$1000th extra-base hit for Chipper Jones"
 play,3,1,gonza002,10,BX,8/F
 play,4,0,sotog001,11,CBX,3/P3F
 play,4,0,byrdm001,22,CBFFBX,S8/G+
@@ -8889,13 +8853,6 @@ play,5,0,johnr008,02,CFX,53/G
 play,5,1,pradm001,20,BBX,7/F
 play,5,1,freef001,00,X,HR/8/F
 play,5,1,uggld001,01,CX,HR/8/F
-com,"ej,zambc001,P,timmt901,Throwing at Chipper Jones"
-com,"$Cubs pitcher Carlos Zambrano threw consecutive pitches to Chipper Jones inside;"
-com,"Zambrano's last pitch was a fast ball at Jones'thighs, which hit the backstop;"
-com,"HP umpire Tim Timmons immediately came out of his crouch and ejected Zambrano;"
-com,"Braves players came out of the dugout but Timmons yelled for them to go back;"
-com,"Zambrano had surrendered five homers in the game; when the game was over, he had"
-com,"cleaned out his locker and left, saying he was retiring"
 play,5,1,jonec004,00,,NP
 sub,ortir002,"Ramon Ortiz",0,9,1
 play,5,1,jonec004,22,CBB..FS,K
@@ -9012,7 +8969,6 @@ play,1,1,bourm001,01,CX,43/G
 play,1,1,pradm001,22,BCBFX,9/F
 play,1,1,freef001,20,BBX,S8/L
 play,1,1,uggld001,32,CB*BFB>X,S8/L.1-3
-com,"33-game hit streak for Dan Uggla"
 play,1,1,jonec004,00,X,8/F
 play,2,0,soria001,21,BFBX,63/G
 play,2,0,colvt001,20,BBX,D9/G
@@ -9355,7 +9311,6 @@ play,1,0,schin001,01,CH,HP.2-3;1-2
 play,1,0,beltb001,10,BX,8/F
 play,1,1,bourm001,00,,NP
 sub,fontm001,"Mike Fontenot",0,3,5
-com,"Giants third baseman Pablo Sandoval left the game due to an injured foot"
 play,1,1,bourm001,10,.BX,7/F
 play,1,1,pradm001,12,CBFS,K
 play,1,1,mccab002,01,CX,HR/9/F+
@@ -9512,7 +9467,6 @@ play,3,1,consj001,00,X,S1/BG
 play,3,1,delgr001,10,1BX,14/SH/BG.1-2
 play,3,1,bourm001,00,,NP
 sub,motag001,"Guillermo Mota",0,9,1
-com,"Giants pitcher Jonathan Sanchez left the game due to an injured ankle"
 play,3,1,bourm001,22,B.SCBX,S8/G.2-H;BX2(8346246)
 play,4,0,rossc001,02,CSX,8/F
 play,4,0,fontm001,32,SBTBBB,W
@@ -9696,8 +9650,6 @@ play,4,0,white004,32,S*BSBBFX,S7/G.3-H;2-3;1-2
 play,4,0,cainm001,20,B*BX,8/SF/F.3-H;2-3
 play,4,0,rossc001,00,X,7/SF/F.3-H
 play,4,0,fontm001,01,C>B,CS2(26)
-com,"$Giants catcher Eli Whiteside slide head-first into 2B and his face hit the ground;"
-com,"he was a little dazed but remained in the game"
 play,4,1,lugoj001,01,CX,8/F
 play,4,1,jurrj001,32,BBCBCC,K
 play,4,1,bourm001,32,BCCBFFBFX,7/F
@@ -9724,8 +9676,6 @@ play,7,0,fontm001,10,BX,7/F
 play,7,0,sandp001,22,BSBFX,7/F
 play,7,1,lugoj001,00,,NP
 sub,stewc001,"Chris Stewart",0,8,2
-com,"Giants catcher Eli Whiteside left the game due to dizziness, the result of a hard slide into 2B"
-com,"in the fourth inning; he had a little blurry vision"
 play,7,1,lugoj001,00,.X,43/G
 play,7,1,heywj001,01,CX,3/P
 play,7,1,bourm001,22,BBCSX,43/G
@@ -9832,9 +9782,6 @@ play,3,0,rossc001,11,CBX,S7/F
 play,3,0,cabro001,21,BBCX,7/F
 play,3,0,sandp001,02,1F1F>F*B,OA.1X2(234)
 play,3,0,sandp001,12,1F1F>F*B.X,3!/P3F
-com,"$Braves 1B Freddie Freeman dove over the tarp and reached into the seats to catch"
-com,"Pablo Sandoval's popup; Freeman had to reach in among the fans who were trying to"
-com,"catch the ball"
 play,3,1,heywj001,00,X,9/F
 play,3,1,gonza002,11,BCX,8/F
 play,3,1,minom001,01,CX,9/F
@@ -10405,7 +10352,6 @@ play,3,1,pradm001,21,BBCX,43/G
 play,3,1,mccab002,32,BFBBFX,7/F
 play,4,0,espid001,31,BCBBB,W
 play,4,0,marrc001,12,CB1FX,8/FDP.1X1(846)
-com,"$Danny Espinosa was called out on appeal"
 play,4,0,florj002,12,SCBS,K
 play,4,1,uggld001,22,BBFSX,S7/L
 play,4,1,jonec004,32,FBBSB1X,363/G.1-2
@@ -10528,7 +10474,6 @@ play,2,0,espid001,32,CFFBBBS,K
 play,2,0,marrc001,11,CBX,63/G
 play,2,1,uggld001,10,BX,63/G
 play,2,1,jonec004,10,BX,HR/8/F
-com,"$Chipper Jones' 450th home run"
 play,2,1,diazm003,11,BFX,S9/F-
 play,2,1,freef001,22,BFBFX,S/BR/G.1X2(3)
 play,2,1,gonza002,01,FX,4(1)/FO/G
@@ -10664,7 +10609,6 @@ play,1,1,uggld001,01,CX,8/F
 play,2,0,nix-l001,31,FBBBB,W
 play,2,0,espid001,10,BX,6/L+
 play,2,0,marrc001,22,FB1BCFFX,S7/G.1-3
-com,"$Nationals right fielder Laynce Nix strained his groin rounding 2B"
 play,2,0,ramow001,21,BBSX,54(1)3/GDP
 play,2,1,jonec004,10,BX,HR/78/F
 play,2,1,hinse001,11,BCX,31/G
@@ -10677,7 +10621,6 @@ play,3,0,wertj001,31,CBB.BB,W
 play,3,0,zimmr001,00,X,54(1)3/GDP
 play,3,1,hudst001,00,,NP
 sub,ankir001,"Rick Ankiel",0,5,9
-com,"Nationals right fielder Laynce Nix left the game due to an injured groin"
 play,3,1,hudst001,01,.FX,53/G-
 play,3,1,bourm001,21,BBCX,7/F
 play,3,1,consj001,22,CBBFX,6/L
@@ -11902,8 +11845,6 @@ play,4,0,tejar001,22,CBBFT,K
 play,4,1,diazm003,11,CBX,63/G
 play,4,1,pradm001,32,BBCBCX,8/F
 play,4,1,gonza002,11,CBX,7!/F
-com,"$Mets LF Jason Bay caught the ball over the top of the wall, taking a home run"
-com,"away from Alex Gonzalez"
 play,5,0,capuc001,02,FSFC,K
 play,5,0,reyej001,11,BFX,3/G
 play,5,0,pagaa001,31,BBBCX,S9/L
@@ -12511,7 +12452,6 @@ play,2,1,freef001,11,BCX,53/G
 play,2,1,mccab002,32,FFBBBX,S7/F-
 play,2,1,gonza002,00,,NP
 sub,wilsj002,"Jack Wilson",1,7,11
-com,"Braves shortstop Alex Gonzalez left the game due to an injured leg"
 play,2,1,wilsj002,22,.FBTF*BFX,3/P3F-
 play,2,1,heywj001,22,FBBFC,K
 play,3,0,ruizc001,00,,NP

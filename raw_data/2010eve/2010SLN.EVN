@@ -403,7 +403,6 @@ play,9,1,lopef001,12,.BFCS,K
 play,9,1,moliy001,00,,NP
 sub,andeb005,"Bryan Anderson",1,7,11
 play,9,1,andeb005,00,.X,9/L-
-com,"Debut game for Bryan Anderson"
 play,9,1,freed001,32,BFSBBX,S9/F-
 play,9,1,mottj001,00,,NP
 sub,stavn001,"Nick Stavinoha",1,9,11
@@ -617,9 +616,6 @@ start,freed001,"David Freese",1,6,5
 start,lopef001,"Felipe Lopez",1,7,6
 start,rasmc001,"Colby Rasmus",1,8,8
 start,garcj004,"Jaime Garcia",1,9,1
-com,"$two different position players pitch in the game for the Cardinals: Felipe"
-com,"Lopez and Joe Mather, who is the first St. Louis position player to register"
-com,"a pitching decision since Jose Oquendo in 1988"
 play,1,0,reyej001,22,BFFBX,13/G
 play,1,0,castl001,11,BCX,63/G
 play,1,0,wrigd002,31,BBFBB,W
@@ -819,7 +815,6 @@ play,18,0,blanh001,00,,NP
 sub,lopef001,"Felipe Lopez",1,7,1
 play,18,0,blanh001,00,,NP
 sub,mathj002,"Joe Mather",1,8,5
-com,"$Cardinals pitcher Kyle Lohse put in LF; infielder Felipe Lopez pitching"
 play,18,0,blanh001,31,.....BBBCX,6!/P
 play,18,0,valdr002,12,CFFFFFFBFX,S6/G.BX2(35)
 play,18,0,pagaa001,30,BBBB,W
@@ -831,7 +826,6 @@ play,19,0,reyej001,00,,NP
 sub,lopef001,"Felipe Lopez",1,7,5
 play,19,0,reyej001,00,,NP
 sub,mathj002,"Joe Mather",1,8,1
-com,"$Cardinals outfielder Joe Mather pitching"
 play,19,0,reyej001,31,..BBBCB,W
 play,19,0,castl001,10,BX,53/SH/BG.1-2
 play,19,0,wrigd002,30,IIII,IW
@@ -1115,7 +1109,6 @@ play,6,0,mclon001,00,X,8/F
 play,6,1,lohsk001,00,,NP
 sub,jay-j001,"Jon Jay",1,9,11
 play,6,1,jay-j001,02,.SCS,K
-com,"Debut game for Jon Jay"
 play,6,1,schus001,30,BBBB,W
 play,6,1,ludwr001,32,BCF*BB>X,S8/L.1-3
 play,6,1,pujoa001,22,FBSBX,63/G.3-H;1-2
@@ -1536,7 +1529,6 @@ play,2,0,hinse001,00,X,9/F
 play,2,0,infao001,10,BX,43/G
 play,2,1,mathj002,00,,NP
 sub,medlk001,"Kris Medlen",0,9,1
-com,"Braves pitcher Jair Jurrjens left the game due to an injured leg"
 play,2,1,mathj002,01,..LX,63/G
 play,2,1,waina001,12,CCBX,63/G
 play,2,1,greet004,22,BFCBX,43/G
@@ -1604,7 +1596,6 @@ play,7,1,mathj002,12,CFBX,63/G-.3-H;2-3;1-2
 play,7,1,hawkb001,12,BFCC,K
 play,8,0,escoy001,00,,NP
 sub,glaut001,"Troy Glaus",0,2,11
-com,"Braves shortstop Yunel Escobar left the game due to an injured side"
 play,8,0,glaut001,21,.BFBX,43/G
 play,8,0,pradm001,21,BFBX,3/L
 play,8,0,mccab002,11,BSX,S8/G+
@@ -2637,8 +2628,6 @@ play,5,0,kenna001,22,BCBFX,S8/L
 play,5,0,desmi001,21,BBCX,S8/G+.1-2
 play,5,0,bernr001,01,CX,S4/G-.2-H(E4/TH);1-3;B-2
 play,5,0,stamc001,32,CBBBCC,K
-com,"ej,ecksr801,C,davig901,Called third strike on Stammen"
-com,"Nationals Batting Coach Rick Eckstein ejected by HP umpire Gerry Davis"
 play,5,0,harrw001,22,SCBBFX,43/G.3-H(UR);2-3
 play,5,0,guzmc001,12,CBFX,43/G
 play,5,1,lopef001,22,SFBBFX,63/G
@@ -2675,7 +2664,6 @@ play,7,1,mottj001,02,M11MM,K
 play,7,1,lopef001,00,,NP
 sub,stord001,"Drew Storen",0,1,1
 play,7,1,lopef001,10,.BX,7/F7LF
-com,"Debut game for Drew Storen"
 play,7,1,ludwr001,11,CBH,HP.1-2
 play,7,1,hollm001,32,CBBCF*B>F>S,K
 play,8,0,guzmc001,00,,NP
@@ -3220,15 +3208,10 @@ play,3,1,moliy001,11,CBX,D7/G+.1-3
 play,3,1,schus001,30,IIII,IW
 play,3,1,pennb002,00,X,HR/7/F.3-H;2-H;1-H
 play,3,1,lopef001,10,BX,HR/9/F
-com,"Ball hit by Lopez barely cleared the wall, hit the back wall and came back"
-com,"on the field; the Angels asked about the ruling of a homer; crew chief"
-com,"Gary Darling briefly watched the replay and upheld the call"
 play,3,1,ludwr001,32,BBBCCFB,W
 play,3,1,hollm001,00,X,64(1)/FO/G
 play,4,0,napom001,00,,NP
 sub,boggm001,"Mitchell Boggs",1,9,1
-com,"$Cardinals pitcher Brad Penny left the game due to a torn lat muscle"
-com,"which he hurt when he hit the grand slam in the previous inning"
 play,4,0,napom001,11,.BCX,D9/L
 play,4,0,woodb003,00,X,43/G.2-3
 play,4,0,pinej001,00,,NP
@@ -3913,7 +3896,6 @@ play,5,0,stubd001,21,BCBX,E6/G+.2-3;1-2
 play,5,0,hernr002,12,CF*BFX,13/G-
 play,5,1,lopef001,00,,NP
 sub,ryanb002,"Brendan Ryan",1,1,11
-com,"Cardinals second baseman Felipe Lopez left the game due to an injured hand"
 play,5,1,ryanb002,01,.CX,63/G
 play,5,1,schus001,11,BCX,63/G
 play,5,1,pujoa001,21,BBFX,7/F
@@ -4376,7 +4358,6 @@ play,7,0,counc001,00,,NP
 sub,milea001,"Aaron Miles",1,5,5
 play,7,0,counc001,00,,NP
 sub,millt002,"Trever Miller",1,9,1
-com,"Cardinals third baseman David Freese left the game due to an injured ankle"
 play,7,0,counc001,22,..FBBSX,6/P
 play,7,0,braur002,32,CBBBFB,W
 play,7,0,fielp001,22,1BS111CBS,K
@@ -4558,7 +4539,6 @@ play,7,0,weekr001,00,,NP
 sub,mcclk001,"Kyle McClellan",1,9,1
 play,7,0,weekr001,00,,NP
 sub,winnr001,"Randy Winn",1,7,8
-com,"Cardinals center fielder Colby Rasmus left the game due to an injured leg"
 play,7,0,weekr001,11,...CBX,43/G
 play,7,0,gomec002,10,BX,8/F
 play,7,0,fielp001,10,BX,7/F
@@ -4733,7 +4713,6 @@ play,8,0,cordc001,00,,NP
 sub,saunm001,"Michael Saunders",0,9,11
 play,8,0,saunm001,12,.CCFBX,S9/L
 play,8,0,suzui001,01,FX,DGR7/L-.1-3
-com,"fan interference"
 play,8,0,figgc001,00,,NP
 sub,mottj001,"Jason Motte",1,8,1
 play,8,0,figgc001,12,.FFBX,63/G-.3-H;2-3
@@ -4995,10 +4974,6 @@ play,4,0,langr002,01,SX,46(1)/FO/G.3-H;2-3
 play,4,0,alfoe002,22,BSSFB>S,K
 play,4,1,hollm001,10,BX,8/F
 play,4,1,pujoa001,12,CBFFX,D7/F
-com,"$Mariners LF Milton Bradley leaped at the wall in front of the bullpen gate and"
-com,"briefly had the ball in his glove, preventing a possible homer; the ball bounced"
-com,"back onto the field and was ruled in play; crew chief Gary Cederstrom watched the"
-com,"replay and upheld the call"
 play,4,1,ludwr001,01,CB,WP.2-3
 play,4,1,ludwr001,22,CB.BSX,7/SF/F.3-H
 play,4,1,freed001,21,CBBX,S7/G
@@ -5017,7 +4992,6 @@ play,6,0,wilsj003,12,CFBFS,K
 play,6,0,langr002,22,FBBFFC,K
 play,6,1,lopef001,00,,NP
 sub,tuiam001,"Matt Tuiasosopo",0,4,5
-com,"Mariners third baseman Jose Lopez left the game due to an injured knee"
 play,6,1,lopef001,12,.BCFS,K
 play,6,1,hollm001,10,BX,53/G-
 play,6,1,pujoa001,11,BFX,31/G
@@ -5178,7 +5152,6 @@ play,7,0,jackc002,00,X,S7/L
 play,7,0,suzuk001,00,X,7/F
 play,7,1,ryanb002,01,CX,D7/F
 play,7,1,schus001,12,LMBFX,DGR/9/L.2-H
-com,"fan interference"
 play,7,1,hollm001,00,X,3/G.2-3
 play,7,1,pujoa001,30,IIII,IW
 play,7,1,ludwr001,00,X,S9/G+.3-H;1-2
@@ -5618,7 +5591,6 @@ play,8,0,laroa001,31,BFBBB,W
 play,8,0,reynm001,00,,NP
 sub,mottj001,"Jason Motte",1,8,1
 play,8,0,reynm001,01,.CX,HR/9/F.1-H
-com,"$the ball bounced out of RF Randy Winn's glove over the fence"
 play,8,0,parrg001,01,SX,D7/F
 play,8,0,hared001,02,CSB,WP.2-3
 play,8,0,hared001,12,CSB.X,43/G
@@ -5633,14 +5605,6 @@ play,9,0,abret001,02,FFS,K
 play,9,0,uptoj001,32,FBCBBFX,S5/G-
 play,9,0,montm001,32,1BB1SBF>B,W.1-2
 play,9,0,younc004,22,BFBCFX,6/P
-com,"ej,larut101,M,carlm901,Balls and strikes"
-com,"$after the first pitch to Yadier Molina was called a strike, Cardinals"
-com,"Manager Tony La Russa yelled at HP umpire Mark Carlson from the"
-com,"dugout; Carlson told La Russa to knock it off and when the manager"
-com,"continued, Carlson ejected La Russa; La Russa came out and argued"
-com,"for a while with Carlson and crew chief Jeff Kellogg; after the game,"
-com,"DBacks pitcher Dan Haren accused La Russa of doing nothing more than"
-com,"trying to delay the game and put Haren off his rhythm"
 play,9,1,moliy001,01,C.X,S7/L
 play,9,1,ryanb002,12,SBFX,S9/L-.1-2
 play,9,1,mottj001,00,,NP
@@ -5871,7 +5835,6 @@ start,laruj001,"Jason LaRue",1,7,2
 start,suppj001,"Jeff Suppan",1,8,1
 start,ryanb002,"Brendan Ryan",1,9,6
 play,1,0,drews001,22,CSBBX,S8/G
-com,"Debut game for Barry Enright"
 play,1,0,ryalr001,31,1BBF1BX,9/F
 play,1,0,uptoj001,31,CBBB>B,W.1-2
 play,1,0,laroa001,22,BFBFX,8/F
@@ -6508,8 +6471,6 @@ play,3,0,lucrj001,20,BBX,43/G
 play,3,0,escoa003,12,CCBFX,9/F
 play,3,0,gally001,00,X,S8/L-
 play,3,0,weekr001,32,FSBBB>C,K
-com,"ej,weekr001,P,hirsj901,Called third strike"
-com,"Brewers second baseman Rickie Weeks ejected by HP umpire John Hirschbeck"
 play,3,1,lopef001,00,,NP
 sub,inglj001,"Joe Inglett",0,1,4
 play,3,1,lopef001,21,..BFBX,43/G
@@ -6522,7 +6483,6 @@ play,3,1,moliy001,31,F*BBBB,W.3-H(UR);2-3;1-2
 play,3,1,waina001,00,X,D8/L.3-H(UR);2-H(UR);1-H(UR)
 play,3,1,greet004,00,,NP
 sub,villc001,"Carlos Villanueva",0,9,1
-com,"Brewers pitcher Yovani Gallardo left the game due to an injured side"
 play,3,1,greet004,32,SFB.BBX,63/G
 play,4,0,hartc001,22,CSBBFX,HR/9/F
 play,4,0,fielp001,10,BX,43/G
@@ -6769,7 +6729,6 @@ play,1,0,blakc001,21,BBC>B,SB3
 play,1,0,blakc001,32,BBC>B.C>X,4/P
 play,1,1,lopef001,00,,NP
 sub,paulx001,"Xavier Paul",0,4,7
-com,"Dodgers left fielder Manny Ramirez left the game due to an injured leg"
 play,1,1,lopef001,02,.CFX,8/F
 play,1,1,rasmc001,00,X,S9/L
 play,1,1,pujoa001,11,CBX,53/G-.1-2
@@ -7408,7 +7367,6 @@ play,2,0,wertj001,12,CBFX,S4/G+
 play,2,0,victs001,01,CX,36(1)3/GDP
 play,2,1,moliy001,00,,NP
 sub,carpa001,"Drew Carpenter",0,9,1
-com,"Phillies pitcher Jamie Moyer left the game due to an injured elbow"
 play,2,1,moliy001,01,.FX,4/L-
 play,2,1,milea001,22,BFCBFX,S8/G+
 play,2,1,carpc002,00,X,14/SH/BG.1-2
@@ -7918,9 +7876,6 @@ play,6,1,pujoa001,01,CX,S6/G.1-2
 play,6,1,hollm001,00,X,6/P
 play,7,0,milll002,00,X,S7/G+
 play,7,0,ceder002,10,B1X,2/BG/INT.1-1
-com,"$Ronny Cedeno's bunt bounced down the first base line; he tried to jump"
-com,"over the ball but it hit the back of his left leg; he was called out for"
-com,"being touched by his own batted ball outside the batter's box"
 play,7,0,krate001,30,B1BBB,W.1-2
 play,7,0,karsj001,00,,NP
 sub,yound004,"Delwyn Young",0,9,11
@@ -8193,7 +8148,6 @@ start,milea001,"Aaron Miles",1,9,4
 play,1,0,mccua001,12,CSBX,S8/L-
 play,1,0,tabaj002,12,BS1FX,S7/G+.1-2
 play,1,0,walkn001,10,BX,2/BG/INT.2-2;1-1
-com,"$Neil Walker ran into his own bunt and was called out"
 play,1,0,joneg002,22,CBSBS,K
 play,1,0,alvap001,32,BCS*BB>S,K
 play,1,1,lopef001,12,CBFX,7/F
@@ -9190,7 +9144,6 @@ play,5,1,rasmc001,00,,NP
 sub,colvt001,"Tyler Colvin",0,3,7
 play,5,1,rasmc001,00,,NP
 sub,nadyx001,"Xavier Nady",0,6,3
-com,"Cubs first baseman Derrek Lee left the game due to an injured back"
 play,5,1,rasmc001,32,..BFBSBB,W
 play,5,1,macdm001,00,,NP
 sub,milea001,"Aaron Miles",1,8,11
@@ -9209,7 +9162,6 @@ sub,hawkb001,"Blake Hawksworth",1,7,1
 play,6,0,fukuk001,00,,NP
 sub,milea001,"Aaron Miles",1,8,4
 play,6,0,fukuk001,11,.....BCX,43/G
-com,"Debut game for Steven Hill"
 play,6,0,casts001,12,SCBX,9/F
 play,6,0,colvt001,00,X,43/G
 play,6,1,pujoa001,30,BBBB,W
@@ -10525,7 +10477,6 @@ play,4,0,barnd001,01,CX,63/G
 play,4,0,byrdm001,10,BX,7/F
 play,4,1,moliy001,00,,NP
 sub,fukuk001,"Kosuke Fukudome",0,8,9
-com,"Cubs left fielder Tyler Colvin left the game due to an injured elbow"
 play,4,1,moliy001,02,.CFX,S7/L-
 play,4,1,felip001,01,CX,64(1)3/GDP
 play,4,1,garcj004,00,X,63/G
@@ -10851,7 +10802,6 @@ sub,hoffm001,"Micah Hoffpauir",0,9,11
 play,7,0,hoffm001,01,.FX,D9/L.2-H
 play,7,0,dewib001,00,,NP
 sub,mottj001,"Jason Motte",1,9,1
-com,"Cardinals pitcher Chris Carpenter left the game due to an injured leg"
 play,7,0,dewib001,01,.CB,PB.2-3
 play,7,0,dewib001,22,.CB.SFBFS,K
 play,7,0,barnd001,12,BCFS,K
@@ -11366,7 +11316,6 @@ sub,thatj001,"Joe Thatcher",0,9,1
 play,6,1,descd001,00,,NP
 sub,stavn001,"Nick Stavinoha",1,8,11
 play,6,1,stavn001,01,...CX,53/G
-com,"Debut game for Daniel Descalso"
 play,6,1,ryanb002,21,CBBX,43/G
 play,6,1,schus001,10,BX,8/F
 play,7,0,cunna001,00,,NP
@@ -12257,8 +12206,6 @@ play,1,1,greet004,32,CCBBBB,W
 play,1,1,mathj002,02,CSX,S5/G-.1-2
 play,1,1,pujoa001,00,B,WP.2-3;1-2
 play,1,1,pujoa001,11,B.FX,6/P
-com,"$Catcher Olivo hit on head and neck by follow through of Pujols,"
-com,"left on cart for hospital, diagnosed as mild concussion."
 play,1,1,hollm001,00,,NP
 sub,iannc001,"Chris Iannetta",0,8,2
 play,1,1,hollm001,30,.IIII,IW
@@ -12590,8 +12537,6 @@ play,3,1,schus001,00,X,S7/G+
 play,3,1,winnr001,32,BCBBFN,BK.1-2
 play,3,1,winnr001,32,BCBBFN.B,W
 play,3,1,pujoa001,10,BX,E6/G/R4.2-H(E4/TH1)(UR)(NR);1-H(UR)(NR);B-2
-com,"$after SS Clint Barmes bobbled the grounder, he threw late to 2B; Chris Nelson"
-com,"then overthrew 1B to allow two runners to score"
 play,3,1,hollm001,00,X,4/P
 play,4,0,fowld001,32,CBBFBB,W
 play,4,0,barmc001,00,1X,S56/G.1-3

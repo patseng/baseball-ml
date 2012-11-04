@@ -292,9 +292,6 @@ play,7,1,wellv001,10,BX,D7/L
 play,7,1,overl001,20,BBX,5/P
 play,7,1,buckj001,32,BFC*BBFS,K
 play,8,0,piera001,00,H,HP
-com,"$A.J. Pierzynski hopped around after the pitch in the dirt as if it hit his"
-com,"foot and then went to 1B; it was clear that he was not hit but HP umpire Tim"
-com,"McClelland allowed Pierzynski to take 1B"
 play,8,0,riosa002,21,CBBX,HR/7/F.1-H
 play,8,0,ramia003,01,CX,31/G
 play,8,0,teahm001,00,,NP
@@ -1921,7 +1918,6 @@ sub,buckj001,"John Buck",1,9,2
 play,9,0,drewj001,00,,NP
 sub,lewir002,"Rommie Lewis",1,0,1
 play,9,0,drewj001,32,.....BCBFBX,43/G
-com,"Debut game for Rommie Lewis"
 play,9,0,varij001,12,BCFX,1/G-
 play,9,0,belta001,11,BCX,S8/L
 play,9,0,hermj001,00,,NP
@@ -2027,7 +2023,6 @@ play,4,1,gonza002,01,CX,4/P
 play,4,1,bautj002,32,SBSFBBFFX,S8/L.1-2
 play,4,1,buckj001,00,,NP
 sub,blevj001,"Jerry Blevins",0,0,1
-com,"Athletics pitcher Justin Duchscherer left the game due to an injured hip"
 play,4,1,buckj001,10,.BX,HR/7/F.2-H;1-H
 play,4,1,snidt001,01,FX,D8/L
 play,4,1,lewif001,12,FBFX,43/G.2-3
@@ -2228,7 +2223,6 @@ play,8,0,rosaa001,22,BFBFX,64(1)/FO/G
 play,8,0,powel001,00,,NP
 sub,donaj001,"Josh Donaldson",0,7,11
 play,8,0,donaj001,22,.BCBSS,K
-com,"Debut game for Josh Donaldson"
 play,8,1,bautj002,00,,NP
 sub,fox-j001,"Jake Fox",0,4,5
 play,8,1,bautj002,00,,NP
@@ -2930,9 +2924,6 @@ play,4,1,overl001,11,F>B.H,HP
 play,4,1,gonza002,21,BC*BX,S7/L.2-H;1-2
 play,4,1,bautj002,32,BBC*BC>B,W.2-3;1-2
 play,4,1,buckj001,32,BSCBB>X,D8/F.3-H;2-H;1-H
-com,"$John Buck's fly hit the top of the wall in CF; the Blue Jays thought"
-com,"it hit over the fence and came back onto the field; acting crew chief"
-com,"Mike Winters watched the replay and upheld the call"
 play,4,1,mccom001,01,CX,53/G
 play,5,0,blana001,22,CBBFS,K+WP.B-1
 play,5,0,borbj001,00,X,S7/G.1-2
@@ -3086,14 +3077,12 @@ play,4,0,puntn001,01,CX,43/G
 play,4,0,spand001,10,BX,D9/G+
 play,4,0,hudso001,10,BX,S8/L.2-H
 play,4,0,mauej001,11,CB1X,S46/G.1-3
-com,"$off Aaron Hill's glove into short CF"
 play,4,0,mornj001,11,BCX,S9/G+.3-H;1-3
 play,4,0,cuddm001,12,BSFX,5E3/G6.3-H(UR)(NR);1-H(E3/TH3)(UR)(NR);B-2
 play,4,0,kubej002,20,BBB,WP.2-3
 play,4,0,kubej002,30,BBB.B,W
 play,4,0,yound003,00,X,64(1)/FO/G
 play,4,1,bautj002,31,BBBCX,13/G/INT
-com,"$Bautista was hit by the throw and was called out for running in fair territory"
 play,4,1,buckj001,12,SCVFFFFX,9/F
 play,4,1,ruizr001,01,SX,43/G
 play,5,0,harrb001,30,BBBB,W
@@ -3943,7 +3932,6 @@ play,6,1,bautj002,00,,NP
 sub,zobrb001,"Ben Zobrist",0,6,9
 play,6,1,bautj002,00,,NP
 sub,niemj001,"Jeff Niemann",0,7,1
-com,"$the Rays lose the use of a DH"
 play,6,1,bautj002,12,...CBFS,K
 play,6,1,gonza002,02,FFFX,S8/G
 play,6,1,overl001,10,BX,D8/F.1-3
@@ -3990,14 +3978,6 @@ play,9,0,longe001,00,>B,SB2
 play,9,0,longe001,21,>B.CB2,PO2(E1).2-3
 play,9,0,longe001,32,>B.CB2.BCB,W
 play,9,0,penac001,22,BCCBC,K
-com,"ej,maddj801,M,herna901,Not allowing Carlos Pena time out"
-com,"$Carlos Pena asked HP umpire Angel Hernandez for time as Blue Jays"
-com,"pitcher Kevin Gregg started his motion; Hernandez did not grant"
-com,"time and then called Gregg's pitch strike three; Pena objected"
-com,"and started arguing with Hernandez; Rays manager Joe Maddon came"
-com,"out to get between the two and was ejected by Hernandez; Maddon"
-com,"continued to yell, then went to 3B to yell at crew chief Joe"
-com,"West, then returned to Hernandez before leaving the field"
 play,9,0,balfg001,00,,NP
 sub,jasoj001,"John Jaso",0,5,11
 play,9,0,jasoj001,32,..CBBBC>F>B,W.1-2
@@ -4007,12 +3987,6 @@ play,9,0,navad001,10,BB,WP.2-3
 play,9,0,navad001,30,BB.BB,W
 play,9,0,brigr001,00,,NP
 sub,lewir002,"Rommie Lewis",1,0,1
-com,"ej,gregk001,P,herna901,Balls and strikes"
-com,"$as Blue Jays pitcher Kevin Gregg left the field after being"
-com,"replaced, he said something to HP umpire Angel Hernandez, who"
-com,"told Gregg to leave; Gregg made some motions as he continued"
-com,"to argue about the strike zone and was ejected by Hernandez;"
-com,"Gregg had to be restrained by coach Nick Leyva"
 play,9,0,brigr001,22,..SFBFBF>B,DI.1-2
 play,9,0,brigr001,32,..SFBFBF>B.>S,K
 play,9,1,lewif001,00,,NP
@@ -4134,9 +4108,6 @@ play,6,0,aybaw001,22,CFBBC,K
 play,6,0,rodrs002,12,CBSFX,D9/F
 badj,zobrb001,R
 play,6,0,zobrb001,01,CX,S8/G.2X3(15)
-com,"$Sean Rodriguez scored from second on Ben Zobrist's single"
-com,"but the Blue Jays appealed and Rodriguez was called out for"
-com,"missing the bag at third"
 play,6,0,kaplg001,32,CBB1*B>F>X,9/F
 play,6,1,hilla001,10,BX,S5/G
 play,6,1,linda001,10,BH,HP.1-2
@@ -4565,16 +4536,8 @@ play,1,1,linda001,30,BBBB,W
 play,1,1,wellv001,00,X,54(1)/FO/G
 play,2,0,rodra001,20,BBX,S5/G.BX2(54)
 play,2,0,canor001,22,CBBFX,DGR/7+
-com,"$Robinson Cano's grounder was just inside the 3B bag and curved into"
-com,"foul territory where it was cleanly fielded by the ball boy; 3B umpire"
-com,"Gary Darling signalled fan interference and awarded Cano second"
 play,2,0,posaj001,22,SBBCS,K
 play,2,0,granc001,12,CBCFS,K23
-com,"$3B umpire Gary Darling walked down to the ball boy and said something"
-com,"to him and took his glove away from him; Darling gave it to one of the"
-com,"police officers standing on the field during the break, who eventually"
-com,"returned it to the owner; later (also between innings), the Blue Jays"
-com,"mascot put caution tape around the ball boy"
 play,2,1,bautj002,32,BCFFBBB,W
 play,2,1,gonza002,10,BX,7/F
 play,2,1,overl001,10,1BB,WP.1-2
@@ -4584,16 +4547,12 @@ play,3,0,cervf001,00,X,9/F
 play,3,0,gardb001,32,BCBFBFFX,T8/L
 play,3,0,jeted001,22,B+3CFBS,K
 play,3,0,swisn001,12,CCBFC,K
-com,"$Yankees Nick swisher argued the called third strike with HP umpire"
-com,"Bruce Dreckman"
 play,3,1,molij001,31,BBSBB,W
 play,3,1,lewif001,22,BFFFBS,K
 play,3,1,hilla001,02,SFX,64(1)/FO/G
 play,3,1,linda001,02,FSS,K
 play,4,0,teixm001,32,FBBBFX,31/G
 play,4,0,rodra001,32,BBBCSFC,K
-com,"$Yankees Alex Rodriguez argued the called third strike with HP"
-com,"umpire Bruce Dreckman"
 play,4,0,canor001,00,X,7/F
 play,4,1,wellv001,21,BBSX,2/P2F
 play,4,1,bautj002,22,CBFFBS,K
@@ -4629,12 +4588,6 @@ play,8,0,jeted001,12,CBCX,D9/G.2-H;1-3
 play,8,0,swisn001,00,,NP
 sub,frasj002,"Jason Frasor",1,0,1
 play,8,0,swisn001,12,.BCCS,K
-com,"ej,giraj001,M,drecb901,Balls and strikes"
-com,"$HP umpire Bruce Dreckman called the check swing for strike three on"
-com,"Nick Swisher, who argued with Dreckman; Yankees manager Joe Girardi"
-com,"ran out without his hat, pushed Swisher away and was quickly ejected"
-com,"by Dreckman; Girardi then tried to wipe out the chalk line on the"
-com,"batter's box and said a few more things to Dreckman before leaving"
 play,8,0,teixm001,30,.IIII,IW
 play,8,0,rodra001,02,FSB,WP.3-H;2-3;1-2
 play,8,0,rodra001,12,FSB.C,K
@@ -4651,9 +4604,6 @@ play,8,1,lewif001,10,BX,S8/G.2-H
 play,8,1,hilla001,01,L1X,46(1)3/GDP
 play,8,1,linda001,00,,NP
 sub,martd004,"Damaso Marte",0,0,1
-com,"$Yankees acting manager Tony Pena called for a left-hander out of the bullpen"
-com,"but Mariano Rivera came into the mound; Pena and the umpires talked and Rivera"
-com,"was sent back to the bullpen and Marte came into the game"
 play,8,1,linda001,12,.CBSS,K
 play,9,0,gardb001,31,CBBBB,W
 play,9,0,jeted001,11,1CBX,43/G.1-2
@@ -5567,10 +5517,6 @@ start,overl001,"Lyle Overbay",1,7,3
 start,buckj001,"John Buck",1,8,2
 start,hoffj002,"Jarrett Hoffpauir",1,9,5
 start,litsj001,"Jesse Litsch",1,0,1
-com,"$this game was scheduled to be played in Toronto; due to an"
-com,"economic summit meeting of world leaders held in that city,"
-com,"the series was moved to Philadelphia; the Blue Jays batted"
-com,"last and wore their home uniforms"
 play,1,0,rollj001,32,BFBCBB,W
 play,1,0,polap001,01,1CX,64(1)3/GDP
 play,1,0,utlec001,21,BCBX,6/P
@@ -5727,10 +5673,6 @@ start,overl001,"Lyle Overbay",1,7,3
 start,buckj001,"John Buck",1,8,2
 start,hoffj002,"Jarrett Hoffpauir",1,9,5
 start,marcs001,"Shaun Marcum",1,0,1
-com,"$this game was scheduled to be played in Toronto; due to an"
-com,"economic summit meeting of world leaders held in that city,"
-com,"the series was moved to Philadelphia; the Blue Jays batted"
-com,"last and wore their home uniforms"
 play,1,0,rollj001,22,CBBOFX,43/G
 play,1,0,victs001,22,BBFFS,K
 play,1,0,utlec001,11,CBX,S9/L+
@@ -5870,10 +5812,6 @@ start,overl001,"Lyle Overbay",1,7,3
 start,molij001,"Jose Molina",1,8,2
 start,hoffj002,"Jarrett Hoffpauir",1,9,5
 start,cecib001,"Brett Cecil",1,0,1
-com,"$this game was scheduled to be played in Toronto; due to an"
-com,"economic summit meeting of world leaders held in that city,"
-com,"the series was moved to Philadelphia; the Blue Jays batted"
-com,"last and wore their home uniforms"
 play,1,0,rollj001,01,CX,S7/G
 play,1,0,utlec001,22,BSSF*BS,K
 play,1,0,wertj001,12,CBCX,64(1)3/GDP
@@ -5901,8 +5839,6 @@ play,3,1,mcdoj003,22,FBBFX,8/F
 play,3,1,gonza002,12,CBSFX,D57/L
 play,3,1,bautj002,00,X,63/G
 play,3,1,wellv001,00,X,HR/7/F.2-H
-com,"$the 506th homer surrendered by Jamie Moyer to pass Robin Roberts and set"
-com,"a new record"
 play,3,1,linda001,02,CSS,K
 play,4,0,franb001,12,FSBFFX,53/G
 play,4,0,ibanr001,01,SX,S8/L
@@ -6211,7 +6147,6 @@ play,2,0,kubej002,22,CBCBFC,K
 play,2,1,linda001,02,CCX,S7/L
 play,2,1,buckj001,00,X,9/F
 play,2,1,overl001,32,CFBBBFX,D7/F.1-3
-com,"originally scored E7, changed to double on 7-10"
 play,2,1,encae001,22,BCBSS,K
 play,2,1,mcdoj003,12,CCFBX,5/P5F
 play,3,0,yound003,32,BBFFBFX,63/G
@@ -6537,11 +6472,6 @@ play,6,0,belta001,22,BCFBFX,9/F
 play,6,0,navad002,32,BBCSBFB,W
 play,6,0,camem001,32,FBS*BB>X,S9/L.1-3
 play,6,0,hallb001,21,CBBX,DGR/9/L.3-H;1-3
-com,"ej,jansc001,P,carlm901,Runner placement on fan interference"
-com,"$Bill Hall's hit down the RF line was touched by a fan and ruled interference;"
-com,"Mike Cameron had stopped at 3B but was sent home by 3B umpire Mark Carlson;"
-com,"pitcher Casey Janssen argued about the call and was ejected by Carlson;"
-com,"the umpires then huddled and put Cameron back on 3B"
 play,6,0,cashk001,00,,NP
 sub,purcd001,"David Purcey",1,0,1
 play,6,0,cashk001,10,..BX,7/L
@@ -6720,13 +6650,6 @@ play,6,1,linda001,22,.SBFFFBX,HR/7/F
 play,6,1,hilla001,20,BBX,9/F
 play,7,0,drewj001,12,CBFC,K
 play,7,0,camem001,12,CBSC,K
-com,"ej,camem001,P,kellj901,Called third strike"
-com,"ej,frant001,M,kellj901,Mike Cameron ejection; 'ejected' umpire"
-com,"$Mike Cameron was not happy with the called third strike; after he got"
-com,"back into the dugout, he was ejected by HP umpire Jeff Kellogg; Cameron"
-com,"started out of the dugout but was stopped by manager Terry Francona, who"
-com,"went to the plate to argue with Kellogg; he was quickly ejected by Kellogg"
-com,"and then Francona made similar motion as if to eject Kellogg"
 play,7,0,hallb001,12,..SSBFH,HP
 play,7,0,molig002,00,,NP
 sub,patte001,"Eric Patterson",0,9,11
@@ -6812,10 +6735,6 @@ start,overl001,"Lyle Overbay",1,7,3
 start,buckj001,"John Buck",1,8,2
 start,encae001,"Edwin Encarnacion",1,9,5
 start,litsj001,"Jesse Litsch",1,0,1
-com,"$there were problems with the retractable roof; one panel remained in place,"
-com,"leaving shadows over the infield; both home plate and the mound were in the"
-com,"shade for the first three innings; the mound was in the sun by the fourth,"
-com,"creating a very difficult contrast for hitters"
 play,1,0,scutm001,32,CBBCBS,K
 play,1,0,mcdod002,21,BFBX,13/G
 play,1,0,ortid001,22,CBCBX,7/F
@@ -6860,7 +6779,6 @@ play,6,1,lewif001,00,,NP
 sub,patte001,"Eric Patterson",0,5,4
 play,6,1,lewif001,00,,NP
 sub,hallb001,"Bill Hall",0,7,5
-com,"Red Sox third baseman Adrian Beltre left the game due to an injured leg"
 play,6,1,lewif001,22,..BFFBX,7/F
 play,6,1,gonza002,12,BFFX,S8/L
 play,6,1,bautj002,11,BCX,9/F
@@ -6978,7 +6896,6 @@ play,3,1,escoy001,11,CBX,9/F
 play,4,0,markn001,31,BCBBB,W
 play,4,0,scotl001,01,CX,5/P
 play,4,0,jonea003,21,*BBFX,DGR/7/L.1-3
-com,"fan interference"
 play,4,0,pie-f001,32,BFBBFS,K
 play,4,0,wietm001,30,BBBB,W
 play,4,0,fox-j001,22,S*BSBS,K
@@ -7664,7 +7581,6 @@ play,1,0,choos001,20,BBX,3/G
 play,1,0,santc002,32,CBBFBX,8/F
 play,1,0,lapom001,10,BX,D8/F+
 play,1,0,browj006,10,BX,53/G
-com,"Debut game for Jordan Brown"
 play,1,1,wised001,12,CBCFS,K
 play,1,1,escoy001,00,X,3/P
 play,1,1,bautj002,30,BBBB,W
@@ -7957,7 +7873,6 @@ play,2,0,zobrb001,32,BCBF1BX,6(1)3/GDP
 play,2,0,jasoj001,22,BBCCX,31/G
 play,2,1,encae001,20,BBX,DGR/89/F
 play,2,1,arenj001,00,X,HR/7/F.2-H
-com,"Debut game for J.P. Arencibia"
 play,2,1,snidt001,30,BBBB,W
 play,2,1,escoy001,00,X,5!/L+
 play,2,1,bautj002,01,C1X,E6/FO/G.1-2
@@ -8165,7 +8080,6 @@ play,6,1,wellv001,00,,NP
 sub,snidt001,"Travis Snider",1,4,11
 play,6,1,snidt001,00,,NP
 sub,choar001,"Randy Choate",0,0,1
-com,"Blue Jays center fielder Vernon Wells left the game due to an injured foot"
 play,6,1,snidt001,02,..CSS,K
 play,6,1,linda001,02,CS>C,K
 play,7,0,crawc002,00,,NP
@@ -8754,12 +8668,6 @@ play,5,0,gardb001,01,CX,4/BP
 play,5,1,molij001,01,FX,8/F
 play,5,1,lewif001,11,CBX,8/F
 play,5,1,escoy001,02,CCX,7/F
-com,"ej,escoy001,P,mealj901,Balls and strikes"
-com,"ej,gastc101,M,mealj901,Ejection of Escobar"
-com,"$as Blue Jays shortstop Yunel Escobar walked to his position, he exchanged"
-com,"words with HP umpire Jerry Meals and was ejected by Meals; Blue Jays Manager"
-com,"Cito Gaston ran onto the field too late to save Escobar and then argued with"
-com,"Meals for a while before begin ejected as well"
 play,6,0,swisn001,00,,NP
 sub,mcdoj003,"John McDonald",1,2,6
 play,6,0,swisn001,12,...BFFC,K
@@ -8768,11 +8676,6 @@ play,6,0,canor001,32,FSBFBFFBB,W
 play,6,0,posaj001,10,BX,D9/L.1-H
 play,6,0,granc001,11,CBB,WP.2-3
 play,6,0,granc001,22,CBB.FC,K
-com,"$the second pitch to Jose Bautista was up and went to the backstop;"
-com,"Bautista yelled at Yankees pitcher Ivan Nova, who yelled back; HP"
-com,"umpire Jerry Meals warned both teams; as the two players kept talking,"
-com,"Yankees catcher Francisco Cervelli and manager Joe Girardi held Bautista"
-com,"back; both benches cleared but players just stood around"
 play,6,1,bautj002,11,FBX,8/F
 play,6,1,wellv001,22,BBCFX,S5/G-
 play,6,1,linda001,00,,NP
@@ -8943,7 +8846,6 @@ play,7,1,encae001,00,,NP
 sub,gaudc001,"Chad Gaudin",0,0,1
 play,7,1,encae001,00,...X,3/P3F
 play,7,1,snidt001,01,CX,3E1/G-
-com,"originally scored as S3 - makes 3 runs unearned"
 play,7,1,escoy001,00,B,PB.1-2
 play,7,1,escoy001,10,B.X,3/L-
 play,7,1,bautj002,31,BBSBB,W
@@ -9350,7 +9252,6 @@ play,6,0,cabrm001,00,,NP
 sub,bautj002,"Jose Bautista",1,3,3
 play,6,0,cabrm001,00,,NP
 sub,lewif001,"Fred Lewis",1,7,7
-com,"Blue Jays first baseman Lyle Overbay left the game due to an injured chest"
 play,6,0,cabrm001,22,...CFBBX,HR/7/F
 play,6,0,boesb001,01,FX,63/G
 play,6,0,peraj001,01,CX,S8/L
@@ -9955,10 +9856,6 @@ play,2,0,morem001,12,CBCX,8/F
 play,2,1,hilla001,12,SFFBS,K
 play,2,1,linda001,00,X,7/F
 play,2,1,buckj001,00,X,HR/9/F
-com,"$John Buck's fly hit on a railing behind the right field fence in the"
-com,"visitor's bullpen; the ball caromed back onto the field and was ruled"
-com,"in play; the Blue Jays asked about the call so crew chief Tom Hallion"
-com,"Watched the replay and overturned the call to a home run"
 play,2,1,snidt001,12,CBFS,K
 play,3,0,tream001,00,X,S9/L-
 play,3,0,blana001,12,>FBSFT,K
@@ -11216,8 +11113,6 @@ play,1,0,lopej003,31,BBFBX,53/G
 play,1,1,snidt001,11,CBX,5!/P5F
 play,1,1,escoy001,00,X,63/G
 play,1,1,bautj002,21,BBFX,HR/7/F
-com,"$50th home run of season for Jose Bautista; first Blue Jay to reach that"
-com,"milestone and the first major league player since 2007"
 play,1,1,wellv001,32,CSBBBB,W
 play,1,1,overl001,31,BBBFB,W.1-2
 play,1,1,hilla001,21,BCBX,64(1)/FO/G
@@ -11225,12 +11120,10 @@ play,2,0,smoaj001,32,BCBSFBC,K
 play,2,0,saunm001,22,CCBBS,K
 play,2,0,moora001,00,X,S6/G
 play,2,0,mangm001,22,BCFBS,K
-com,"Debut game for Matt Mangini"
 play,2,1,linda001,12,CBSS,K
 play,2,1,encae001,12,CCBS,K
 play,2,1,arenj001,10,BX,53/G
 play,3,0,halmg001,12,SBFC,K
-com,"Debut game for Greg Halman"
 play,3,0,wilsj003,10,BX,7/F
 play,3,0,suzui001,11,BFX,D7/L
 play,3,0,figgc001,02,FFFX,S1/L.2-3
@@ -11713,7 +11606,6 @@ play,3,0,markn001,10,BX,7/F
 play,3,0,wiggt001,22,CBSBFX,54(1)/FO/G
 play,3,1,hilla001,32,CBFBBFS,K
 play,3,1,bautj002,01,SH,HP
-com,"$both teams were warned by HP umpire Bill Welke"
 play,3,1,wellv001,20,B11BX,7/F
 play,3,1,overl001,10,1BX,D8/F.1-H
 play,3,1,buckj001,00,X,8/F
@@ -11733,14 +11625,8 @@ play,5,1,hilla001,00,,NP
 sub,simoa001,"Alfredo Simon",0,0,1
 play,5,1,hilla001,11,.SBX,3/P3F
 play,5,1,bautj002,20,BBH,HP
-com,"$the ball struck Jose Bautista on the left forearm and then hit HP"
-com,"umpire Bill Welke on the left thigh"
 play,5,1,wellv001,00,,NP
 sub,albem001,"Matt Albers",0,0,1
-com,"ej,simoa001,P,welkb901,Intentional HBP"
-com,"ej,showb801,M,welkb901,Intentional HBP"
-com,"$Orioles pitcher Alfredo Simon and manager Buck Showalter were"
-com,"ejected by HP umpire Bill Welke"
 play,5,1,wellv001,12,..1C1SFF*B1X,64(1)3/GDP
 play,6,0,wiggt001,10,BX,53/G
 play,6,0,scotl001,31,CBBBB,W
@@ -12032,11 +11918,6 @@ play,6,0,teixm001,22,BSFBFC,K
 play,6,0,rodra001,01,CX,S7/L
 play,6,0,canor001,20,BBX,36(1)3/GDP
 play,6,1,arenj001,10,BX,13/G13/INT
-com,"ej,gastc101,M,carlm901,Runner interference call on 1B line"
-com,"$J.P. Arencibia's roller down the 1B line was fielded by C.C. Sabathia,"
-com,"who tossed the ball towards 1B; the throw hit Arencibia on the back and"
-com,"he was called out for running in fair territory by HP umpire Mark Carlson;"
-com,"Blue Jays manager Cito Gaston argued the call and was ejected by Carlson"
 play,6,1,snidt001,32,.BSSBBFFS,K
 play,6,1,escoy001,22,BCBFFX,53/G
 play,7,0,posaj001,00,,NP

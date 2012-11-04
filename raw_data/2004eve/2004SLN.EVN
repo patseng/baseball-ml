@@ -273,7 +273,6 @@ play,7,1,lankr001,32,.BBCSBB,W.1-2
 play,7,1,womat001,00,,NP
 sub,bennj002,"Jeff Bennett",0,9,1
 play,7,1,womat001,11,.CBX,7/F7LF
-com,"Debut game for Jeff Bennett"
 play,7,1,ceder001,22,BBCSX,7/F
 play,8,0,overl001,00,,NP
 sub,klins002,"Steve Kline",1,2,1
@@ -543,7 +542,6 @@ play,3,0,gintk001,32,CSBBFBX,S7/G
 play,3,0,clarb003,10,B1X,HR/7/F.1-H
 play,3,0,moelc001,00,X,8/F
 play,3,1,lunah001,10,BX,HR/7/F
-com,"Debut game for Hector Luna"
 play,3,1,mathm001,20,BBX,S9/L
 play,3,1,suppj001,12,B1CLL,K/BF
 play,3,1,tagus001,00,B,WP.1-2
@@ -696,7 +694,6 @@ play,2,0,duckb001,02,CCX,13/G
 play,2,0,biggc001,01,CX,3/P
 play,2,1,womat001,11,BCX,5/P
 play,2,1,lankr001,31,BBBCX,S4/G
-com,"$Lankford left with injured leg"
 play,2,1,pujoa001,00,,NP
 sub,andem003,"Marlon Anderson",1,2,12
 play,2,1,pujoa001,22,..CFB1BX,S9/L.1-2
@@ -1179,7 +1176,6 @@ play,2,0,burnj001,22,CBSBX,31/G
 play,2,0,johnc002,11,BSX,D7/L
 play,2,0,sweem001,11,BFX,8/F
 play,2,0,hollm001,31,CBBBB,W
-com,"Debut game for Matt Holliday"
 play,2,0,stard001,02,CC>B,SB3
 play,2,0,stard001,12,CC>B.S,K
 play,2,1,morrm001,11,BCX,S9/L-
@@ -1188,7 +1184,6 @@ play,2,1,sandr002,12,FBSS,K
 play,2,1,pujoa001,32,BCBCBX,E1/TH/G.B-1
 play,2,1,edmoj001,11,BCX,8/SF.3-H(UR);2-3;1-2
 play,2,1,roles001,11,F*BX,T7/F.3-H(UR);2-H(UR)
-com,"originally scored as E7"
 play,2,1,rente001,01,FX,63/G
 play,3,0,gonzl004,01,CX,5/L
 play,3,0,clayr001,10,BX,63/G
@@ -1896,7 +1891,6 @@ play,8,1,edmoj001,32,SBBBFFX,6/L
 play,8,1,roles001,00,X,53/G
 play,8,1,rente001,10,BX,63/G
 play,9,0,belld002,00,X,DGR/7/L
-com,"$Bell's hit was ruled fan interference"
 play,9,0,rollj001,00,X,13/SH/BG.2-3
 play,9,0,madsr001,00,,NP
 sub,leder001,"Ricky Ledee",0,9,11
@@ -2471,7 +2465,6 @@ play,1,1,womat001,01,CX,8/F
 play,1,1,lankr001,12,CBFFS,K
 play,1,1,pujoa001,32,BFBBFB,W
 play,1,1,edmoj001,11,BCF,POCS2(13E6).1-2
-com,"originally scored PO1, changed to CS2 next day"
 play,1,1,edmoj001,12,BCF.S,K
 play,2,0,aloum001,32,CBSBFBX,53/G
 play,2,0,ramia001,11,CBX,3/P3F
@@ -2560,10 +2553,6 @@ play,10,1,tagus001,00,X,3/SH/BG.1-2
 play,10,1,pujoa001,32,BBBFCB,W
 play,10,1,edmoj001,00,,NP
 sub,mckac001,"Cody McKay",1,3,12
-com,"ej,pujoa001,P,herna901,Balls and strikes"
-com,"$Albert Pujols ejected by HP umpire Angel Hernandez;"
-com,"he complained about the 3-1 called strike, then"
-com,"said some more as he went to first after the walk"
 play,10,1,edmoj001,32,..BCBFBB,W.2-3;1-2
 play,10,1,roles001,20,BBX,S7/L.3-H;2-3;1-2
 data,er,zambc001,0
@@ -3144,7 +3133,6 @@ play,8,0,garcj001,00,,NP
 sub,lunah001,"Hector Luna",1,6,6
 play,8,0,garcj001,00,,NP
 sub,tavaj001,"Julian Tavarez",1,9,1
-com,"$Renteria left game with injured back"
 play,8,0,garcj001,01,..CX,4/P
 play,8,0,grybk001,00,,NP
 sub,laroa001,"Adam LaRoche",0,9,11
@@ -3236,7 +3224,6 @@ play,1,1,lankr001,00,X,HR/9/F
 play,1,1,pujoa001,01,FX,9/F
 play,1,1,roles001,31,BCBBX,53/G
 play,2,0,cabrm001,02,CCX,DGR/7/L
-com,"fan interference"
 play,2,0,choih001,32,BCBFBFB,W
 play,2,0,conij001,22,BFFBFX,8/F.2-3
 play,2,0,redmm001,21,BBFX,43(B)6(1)/GDP.3-H(NR)
@@ -3304,8 +3291,6 @@ play,8,0,lowem001,00,,NP
 sub,isrij001,"Jason Isringhausen",1,2,1
 play,8,0,lowem001,00,,NP
 sub,portc002,"Colin Porter",1,9,7
-com,"ej,kingr001,P,crawj901,Check swing (after being removed)"
-com,"Ray King ejected by 1B umpire Jerry Crawford"
 play,8,0,lowem001,32,..FBBBC>X,4/P
 play,8,1,roles001,00,,NP
 sub,borlt001,"Toby Borland",0,2,1
@@ -3788,8 +3773,6 @@ sub,klins002,"Steve Kline",1,9,1
 play,9,0,kendj001,22,.BCCBFFX,S8/L
 play,9,0,wilsj002,12,BFFFFX,46(1)/FO/G
 play,9,0,wardd002,02,FFX,S9/G.1-3
-com,"$Ward hits for the cycle; first father son combo"
-com,"to hit for the cycle (Gary 9/18/1980)"
 play,9,0,redmt001,00,X,FC1/G.3XH(12);1-2
 play,9,0,mackr001,11,SBX,8/F
 play,9,1,mabrj001,00,,NP
@@ -4380,7 +4363,6 @@ play,6,1,roles001,00,1X,4/P3F
 play,6,1,edmoj001,00,X,S9/L.1-2
 play,6,1,rente001,00,,NP
 sub,ceder001,"Roger Cedeno",1,3,12
-com,"$Pujols left game with injured leg"
 play,6,1,rente001,11,..BCX,64(1)/FO/G
 play,7,0,biggc001,00,,NP
 sub,ceder001,"Roger Cedeno",1,3,9
@@ -4721,8 +4703,6 @@ play,8,1,rente001,30,BBII,IW
 play,8,1,sandr002,32,BFBFFB>X,HR/78/F.2-H;1-H
 play,8,1,moliy001,00,,NP
 sub,rincr001,"Ricardo Rincon",0,9,1
-com,"ej,rhoda001,P,drecb901,Balls and strikes"
-com,"Arthur Rhodes ejected by HP umpire Bruce Dreckman"
 play,8,1,moliy001,22,..BSBFX,S7/G
 play,8,1,andem003,12,CBFX,2/P5F
 play,9,0,hatts001,11,CBX,S8/L
@@ -5303,8 +5283,6 @@ play,5,1,mathm001,12,CCBS,K
 play,5,1,morrm001,21,BBFX,43/G
 play,5,1,womat001,22,CBBFC,K
 play,6,0,grifk002,22,CBBFX,HR/9/F
-com,"$Griffey's 500th career home run; the"
-com,"20th player to reach that milestone"
 play,6,0,dunna001,12,FCBS,K
 play,6,0,laruj001,00,X,1/G
 play,6,0,penaw001,32,CBFBBFC,K
@@ -5872,7 +5850,6 @@ play,3,0,wilsd001,22,CBBFX,43/G
 play,3,0,moyej001,00,,NP
 sub,leonj003,"Justin Leone",0,9,11
 play,3,0,leonj003,32,.CFBBBX,53/G
-com,"Debut game for Justin Leone"
 play,3,0,suzui001,00,X,43/G
 play,3,1,tagus001,00,,NP
 sub,thorm001,"Matt Thornton",0,9,1
@@ -6646,7 +6623,6 @@ play,6,0,sancj001,12,BCSC,K
 play,6,1,mathm001,12,BFFX,9/F
 play,6,1,tagus001,00,,NP
 sub,penaw001,"Wily Mo Pena",0,1,9
-com,"$Freel left with injured knee"
 play,6,1,tagus001,02,.FF.X,S3/G
 play,6,1,willw001,00,>B,SB2
 play,6,1,willw001,10,>B.X,8/F
@@ -6768,8 +6744,6 @@ play,3,1,marqj001,00,X,43/G
 play,3,1,womat001,22,CCBBX,S8/L-
 play,3,1,rente001,11,1CB>X,S9/L-.1-3
 play,3,1,pujoa001,00,1X,8/SF.3-H
-com,"ej,larut101,M,cousd901,Balls and strikes"
-com,"Manager Tony LaRussa ejected by HP umpire Derryl Cousins"
 play,3,1,roles001,21,.PBF>C,SB2
 play,3,1,roles001,22,.PBF>C.FS,K
 play,4,0,pattc001,11,BSX,7/F
@@ -8669,7 +8643,6 @@ play,7,1,edmoj001,00,,NP
 sub,reyej001,"Jose Reyes",0,1,6
 play,7,1,edmoj001,00,,NP
 sub,mcewj001,"Joe McEwing",0,3,4
-com,"$Matsui left game with injured leg"
 play,7,1,edmoj001,00,..X,3/G
 play,7,1,mabrj001,02,SSH,HP
 play,7,1,sandr002,11,BFX,S7/L.1-2
@@ -8775,16 +8748,8 @@ play,1,0,camem001,22,FSFBBX,7/F
 play,1,1,womat001,32,BCBBCX,S7/L
 play,1,1,rente001,32,B11LB1FB1>X,D8/F.1-H
 play,1,1,pujoa001,21,BBF>X,8/FDP.2X2(15)
-com,"$Renteria ran on the pitch and had rounded 3B when the"
-com,"ball was caught; he did not retouch on the way back to"
-com,"2B; the Mets appealed at 3B and Renteria was called out;"
-com,"however, plate umpire Drake had called time after the"
-com,"catch because catcher Wilson had been hit on the head"
-com,"by the swing; after he had been treated and removed"
-com,"from the game the Mets appealed for a second time"
 play,1,1,roles001,00,,NP
 sub,philj003,"Jason Phillips",0,8,2
-com,"$Wilson left game with injured head"
 play,1,1,roles001,01,..FX,D7/L
 play,1,1,walkl001,22,BFSBS,K
 play,2,0,hidar001,02,SCS,K
@@ -8821,7 +8786,6 @@ play,4,1,roles001,32,B1B>C.BCFX,S8/L.2-H
 play,4,1,walkl001,00,X,D7/F.1-H
 play,4,1,sandr002,00,,NP
 sub,ceder001,"Roger Cedeno",1,6,11
-com,"$Sanders left game with injured elbow"
 play,4,1,ceder001,00,.X,63/G
 play,5,0,reyej001,00,,NP
 sub,ceder001,"Roger Cedeno",1,6,7
@@ -8834,7 +8798,6 @@ play,5,1,tagus001,00,,NP
 sub,reyej001,"Jose Reyes",0,1,6
 play,5,1,tagus001,00,,NP
 sub,mcewj001,"Joe McEwing",0,3,4
-com,"$Matsui left game with injured leg"
 play,5,1,tagus001,12,...BSFX,S7/L
 play,5,1,moliy001,00,X,13/SH/BG.1-2
 play,5,1,marqj001,00,X,63/G
@@ -9630,15 +9593,7 @@ sub,tavaj001,"Julian Tavarez",1,9,1
 play,7,0,kendj001,22,.BFSBX,8/F
 play,7,1,pujoa001,00,,NP
 sub,sneli001,"Ian Snell",0,9,1
-com,"ej,tavaj001,P,westj901,Pine tar on cap; threw a fit"
-com,"$Pirates Manager Lloyd McClendon asked umpires to inspect Julian Tavarez'"
-com,"dirty, smudged cap; umpire Joe West decided there was"
-com,"pine tar on the cap and ejected Tavarez, who asked"
-com,"HP umpire Ron Kulpa to go have a beer with him then"
-com,"tossed his cap into the stands; Tavarez took a few"
-com,"of his clean caps and put them on McClendon's desk"
 play,7,1,pujoa001,31,.BFBBB,W
-com,"Debut game for Ian Snell"
 play,7,1,roles001,32,BSBBF1F>X,3/P3F
 play,7,1,edmoj001,01,FX,8/F.1-2
 play,7,1,rente001,32,BBSBFB,W
@@ -10366,8 +10321,6 @@ play,3,1,walkl001,22,FCB*BX,S8/G
 play,3,1,pujoa001,20,B*BX,8/F
 play,3,1,roles001,10,BX,54(1)3/GDP
 play,4,0,nevip001,02,CCC,K
-com,"ej,nevip001,P,gormb901,Called third strike"
-com,"Phil Nevin ejected by HP umpire Brian Gorman"
 play,4,0,klesr001,10,BX,53/G
 play,4,0,burrs001,02,CFFX,23/G-
 play,4,1,edmoj001,00,,NP
@@ -10514,7 +10467,6 @@ play,2,1,moliy001,02,SSX,54(1)3/GDP
 play,2,1,suppj001,22,CFBBX,3/G
 play,3,0,vazqr001,00,,NP
 sub,mckac001,"Cody McKay",1,8,2
-com,"$Molina left game with injured knee"
 play,3,0,vazqr001,11,.BCX,S9/L
 play,3,0,lorem001,01,C1X,S9/F.1-3
 play,3,0,gileb002,22,BCBFFX,8/SF.3-H
@@ -10936,7 +10888,6 @@ play,4,0,ventr001,21,BFBX,S9/L
 play,4,0,coraa001,02,CFS,K
 play,4,1,lunah001,00,,NP
 sub,hernj001,"Jose Hernandez",0,1,6
-com,"$Izturis left game with stomach irritation"
 play,4,1,lunah001,00,.X,7/F
 play,4,1,mathm001,32,BCBCBFB,W
 play,4,1,willw001,00,1>X,7/F
@@ -10944,8 +10895,6 @@ play,4,1,womat001,01,CX,3/G
 play,5,0,rossd001,01,CH,HP
 play,5,0,weavj002,10,B1X,34/SH/BG.1-2
 play,5,0,hernj001,32,BC*BBFX,S9/G.2-H
-com,"$Walker slipped fielding the ball and left game;"
-com,"MRI showed a small bone bruise"
 play,5,0,finls001,00,,NP
 sub,andem003,"Marlon Anderson",1,2,9
 play,5,0,finls001,00,,NP
@@ -11120,7 +11069,6 @@ play,3,1,edmoj001,22,SBBSS,K
 play,4,0,vizcj001,00,X,63/G
 play,4,0,ausmb001,00,X,S9/L
 play,4,0,clemr001,01,MX,2/BG.1-1
-com,"$Clemens called out for batter interference"
 play,4,0,biggc001,32,BBC*BF>B,W.1-2
 play,4,0,beltc001,11,SBX,E3/G.2-3;1-2
 play,4,0,bagwj001,32,CBF*BBB,W.3-H(UR);2-3;1-2
@@ -11595,9 +11543,6 @@ play,3,1,mathm001,01,FX,HR/7/F
 play,3,1,willw001,00,H,HP
 play,3,1,womat001,00,,NP
 sub,corml001,"Lance Cormier",0,9,1
-com,"ej,webbb001,P,laynj901,Intentional HBP"
-com,"ej,pedra001,M,laynj901,Intentional HBP"
-com,"Brandon Webb and D-Backs Manager Al Pedrique ejected by HP umpire Jerry Layne"
 play,3,1,womat001,11,...BCX,13/G.1-2
 play,3,1,walkl001,00,X,E4/TH/G.2XH(32)
 play,3,1,pujoa001,30,B1BBB,W.1-2
@@ -11784,7 +11729,6 @@ play,4,0,bautd001,01,CX,13/G
 play,4,0,hills002,02,CSX,S8/G
 play,4,0,tracc001,00,,NP
 sub,hared001,"Dan Haren",1,9,1
-com,"$Carpenter left game due to injured arm"
 play,4,0,tracc001,12,.CBCX,46(1)/FO/G
 play,4,0,kroej001,12,CSBS,K
 play,4,1,mabrj001,02,SFS,K
@@ -12485,7 +12429,6 @@ play,9,1,simoj001,00,,NP
 sub,andem003,"Marlon Anderson",1,7,11
 play,9,1,andem003,22,.CF*BFBX,S8/L-
 play,9,1,moliy001,12,CFFB>S,K/INT/DP.1X1(2)
-com,"$batter interference"
 data,er,sheeb001,0
 data,er,marqj001,3
 data,er,calic001,0

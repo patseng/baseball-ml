@@ -1033,7 +1033,6 @@ play,6,1,santr002,00,,NP
 sub,cuddm001,"Michael Cuddyer",0,5,3
 play,6,1,santr002,00,,NP
 sub,kubej002,"Jason Kubel",0,6,9
-com,"Twins first baseman Justin Morneau left the game due to an injured back"
 play,6,1,santr002,00,....X,13/BG
 play,6,1,jacka001,01,FX,43/G
 play,6,1,damoj001,22,CCBBX,D9/F
@@ -1050,12 +1049,6 @@ play,7,1,ingeb001,22,CBBSFFFS,K
 play,7,1,rabur001,12,CSBX,8/L
 play,8,0,harrb001,12,CBFC,K
 play,8,0,spand001,12,CBCC,K
-com,"ej,spand001,P,emmep901,Called third strike; threw bat"
-com,"$Twins Denard Span objected to the called third strike; he yelled at HP"
-com,"umpire Paul Emmel and waved his hand as he walked away; Emmel ejected"
-com,"Span, who then threw his bat towards the backstop; Orlando Hudson, who"
-com,"was walking towards the plate to bat, made Span pick up his bat; Span"
-com,"apologized to the umpires after the game"
 play,8,0,hudso001,01,.FX,8/F
 play,8,1,lairg001,00,,NP
 sub,casia001,"Alexi Casilla",0,1,5
@@ -1145,14 +1138,12 @@ play,2,0,kubej002,11,CBX,S9/G
 play,2,0,yound003,22,BTFFBX,54(1)/FO/G
 play,2,0,hardj003,10,1B>X,13/G.1-2
 play,2,0,hughl001,21,BFBB,CS3(25)
-com,"Debut game for Luke Hughes"
 play,2,1,ingeb001,12,BSSS,K
 play,2,1,rabur001,32,BCCBFBT,K
 play,2,1,avila001,31,BFBBB,W
 play,2,1,santr002,01,CX,S7/L.1-2
 play,2,1,jacka001,21,BBFX,64(1)/FO/G
 play,3,0,hughl001,22,BBFFX,HR/9/F
-com,"$Homer for Luke Hughes on first ML at bat"
 play,3,0,spand001,01,FX,63/G
 play,3,0,hudso001,22,BBCFFX,8!/L
 play,3,0,mauej001,22,CFFBFFBFFFFX,S8/L
@@ -1199,13 +1190,6 @@ play,6,1,jacka001,22,CCBBX,S6/G
 play,6,1,damoj001,00,,NP
 sub,mahar001,"Ron Mahay",0,0,1
 play,6,1,damoj001,22,.CFBF1BF>X,E8/F78XD.1-3;B-2
-com,"ej,gardr001,M,darlg901,Non-catch call in outfield"
-com,"$CF Denard Span ran from right center into left center and appeared to"
-com,"make a great catch; as he slowed and started to reach into the glove, the"
-com,"ball popped out and fell to the ground; the play was ruled no catch by 3B"
-com,"umpire Paul Emmel; Twins manager Ron Gardenhire ran out and argued about"
-com,"the call; the umpires huddled and left the ruling as is; Gardenhire yelled"
-com,"at HP umpire and crew chief Gary Darling, who ejected Gardenhire"
 play,6,1,ordom001,00,,NP
 sub,neshp001,"Pat Neshek",0,0,1
 play,6,1,ordom001,30,..BBBB,W
@@ -2376,7 +2360,6 @@ sub,thamm001,"Marcus Thames",0,9,7
 play,7,1,evera001,00,,NP
 sub,novai001,"Ivan Nova",0,0,1
 play,7,1,evera001,22,...BBFCC,K
-com,"Debut game for Ivan Nova"
 play,7,1,jacka001,21,BCBX,9/F
 play,7,1,damoj001,11,CBX,S8/G
 play,7,1,ordom001,32,BFBFB>X,S8/G.1-3
@@ -2452,9 +2435,6 @@ play,1,0,martv001,12,CBFX,63/G
 play,1,0,youkk001,32,CCBBBB,W
 play,1,0,drewj001,32,CBBFB>X,S7/G.1-3
 play,1,0,ortid001,31,B1BBFX,HR/89/F.3-H;1-H
-com,"$the second homer to reach the concourse in right center since the park"
-com,"opened in 2000; estimated at 450 feet, it flew over a video board and"
-com,"the Tigers Hall of Fame display"
 play,1,0,belta001,32,CBBTFBFX,3/P
 play,1,0,hermj001,10,BX,31/G
 play,1,1,jacka001,31,BCBBB,W
@@ -2522,9 +2502,6 @@ play,8,1,boesb001,00,X,E1/TH/G.2-3
 play,8,1,ingeb001,32,CBBCBX,8/F/SF.3-H(UR)
 play,8,1,sizes001,32,CBBBS>B,W.1-2
 play,8,1,lairg001,01,CS,OA.2X3(25)
-com,"$on what would have been Daniel Bard's second wild pitch of the inning, Brennan"
-com,"Boesch failed to run to 3B while Scott Sizemore ran to 2B; when Sizemore got to"
-com,"2B, Boesch ran towards 3B and was easily put out"
 play,9,0,belta001,00,,NP
 sub,ni--f001,"Fu-Te Ni",1,0,1
 play,9,0,belta001,00,.X,53/G
@@ -2601,7 +2578,6 @@ play,1,0,youkk001,31,CBBBB,W.1-2
 play,1,0,ortid001,32,CBBCB>S,K
 play,1,1,jacka001,12,CFBX,53/G
 play,1,1,wellc001,10,BX,63/G
-com,"Debut game for Casper Wells"
 play,1,1,ordom001,12,BSFS,K
 play,2,0,belta001,12,CBCX,S8/L
 play,2,0,drewj001,30,BBBB,W.1-2
@@ -2819,7 +2795,6 @@ play,2,1,ingeb001,32,BFB1BS>F11>X,4/P
 play,2,1,kelld001,00,X,S7/L.1-2
 play,2,1,avila001,32,CBCBF>FB>F>F>F>F>B,W.2-3;1-2
 play,2,1,wortd001,01,CX,S3/G.3-H;2-3;1-2
-com,"Debut game for Danny Worth"
 play,2,1,damoj001,32,BCCFBB>B,W.3-H;2-3;1-2
 play,2,1,santr002,00,X,7/F
 play,3,0,vanej001,21,BBCX,D7/L
@@ -3007,10 +2982,6 @@ play,6,0,quenc001,00,X,8/F
 play,6,0,teahm001,11,BCX,43/G
 play,6,0,ramia003,00,X,63/G
 play,6,1,boesb001,01,CX,5/P
-com,"$Brandon Inge hit the 1-2 pitch down the LF line past the pole;"
-com,"3B umpire Dan Iassogna called it a home run but the"
-com,"White Sox said it was a foul ball; crew chief Dale Scott"
-com,"watched the replay and overturned the call to a foul ball"
 play,6,1,ingeb001,22,CFBFBX,3/P3F
 play,6,1,santr002,22,CBBFX,3/G
 play,7,0,pierj002,11,BCX,43/G
@@ -3283,7 +3254,6 @@ start,evera001,"Adam Everett",1,9,6
 start,porcr001,"Rick Porcello",1,0,1
 play,1,0,davir003,21,BBCX,8/F
 play,1,0,bartd001,32,CSBBBX,DGR9/G
-com,"fan interference"
 play,1,0,sweer001,32,BCFBF*BB,W
 play,1,0,suzuk001,22,BCCBX,7/F
 play,1,0,custj001,11,BSB,WP.2-3;1-2
@@ -3918,17 +3888,8 @@ play,8,1,cabrm001,22,SSBBFFS,K
 play,9,0,grudm001,00,,NP
 sub,kelld001,"Don Kelly",1,2,7
 play,9,0,grudm001,00,.X,8!/F78
-com,"$Tigers center fielder Austin Jackson made a spectacular catch at the"
-com,"edge of the warning track to preserve the perfect game"
 play,9,0,redmm001,12,CBFX,63/G
 play,9,0,donaj002,11,CBX,S3/G34/R1
-com,"$Tigers first baseman Miguel Cabrera fielded the ball to his right"
-com,"and made a careful toss to pitcher Armando Galarraga covering first;"
-com,"his foot hit the bag just before runner Jason Donald's foot, but"
-com,"Donald was called safe by 1B umpire Jim Joyce; replays showed that"
-com,"Donald was out to complete a perfect game but Galarraga ends with"
-com,"a one-hitter; after the game Joyce went to see Galarraga, hugged"
-com,"him and apologized for getting the call wrong"
 play,9,0,crowt001,00,>C,DI.1-2
 play,9,0,crowt001,11,>C.BC,DI.2-3
 play,9,0,crowt001,22,>C.BC.>BX,53/G
@@ -4317,7 +4278,6 @@ play,3,1,boesb001,00,X,7/F
 play,3,1,guilc001,10,BX,6/L
 play,4,0,joneg002,12,BCSFX,HR/89/F
 play,4,0,doumr001,00,X,DGR/89/F
-com,"fan interference"
 play,4,0,churr001,12,FFBS,K
 play,4,0,laroa002,00,X,53/G
 play,4,0,ceder002,12,BSSS,K
@@ -4452,7 +4412,6 @@ play,1,0,walkn001,12,CCFBX,7!/L
 play,1,0,mccua001,11,BSX,53/G
 play,1,1,jacka001,00,,NP
 sub,rabur001,"Ryan Raburn",1,1,11
-com,"Tigers center fielder Austin Jackson left the game due to an injured back"
 play,1,1,rabur001,22,.CBFBX,63/G
 play,1,1,santr002,01,CX,53/G
 play,1,1,damoj001,12,CBSFFFX,S7/L
@@ -5771,18 +5730,8 @@ play,5,0,figgc001,32,CCBBFBFX,S8/G
 play,5,0,branr001,00,X,S8/L.1-3
 play,5,0,lopej003,11,*BCX,7/F
 play,5,0,gutif001,22,BBFFX,S7/L.3-H;1-2
-com,"$on the first pitch to Casey Kotchman (called a ball), pitcher"
-com,"Jeremy Bonderman came off the mound and raised his hands talking"
-com,"to plate umpire CB Bucknor"
 play,5,0,kotcc001,10,BX,HR/9/L.2-H;1-H
 play,5,0,wilsj003,02,CFX,53/G
-com,"ej,lairg001,P,buckc901,Balls and strikes; from bench"
-com,"ej,bondj001,P,buckc901,Balls and strikes; from bench"
-com,"$as Jeremy Bonderman left the field, he walked towards HP umpire"
-com,"CB Bucknor complaining about the strike zone; catcher Gerald Laird"
-com,"moved Bonderman towards the dugout but Bonderman kept yelling from"
-com,"the bench and both Bonderman and Laird were ejected between innings"
-com,"by Bucknor"
 play,5,1,wortd001,00,..X,9/F
 play,5,1,jacka001,02,CFC,K
 play,5,1,damoj001,12,FBCX,43/G
@@ -6336,7 +6285,6 @@ play,7,1,wortd001,01,TX,54(1)/FO/G
 play,8,0,tejam001,00,,NP
 sub,weinr001,"Robbie Weinhardt",1,0,1
 play,8,0,tejam001,11,.BFH,HP
-com,"Debut game for Robbie Weinhardt"
 play,8,0,markn001,12,BCFX,36(1)1/GDP
 play,8,0,wiggt001,01,CX,5/L
 play,8,1,jacka001,22,CBBCX,3/L
@@ -6882,8 +6830,6 @@ play,3,1,cabrm001,32,CBBFFBX,HR/7/F
 play,3,1,boesb001,22,FBCBFFX,E4/G
 play,3,1,guilc001,20,BBX,S9/L.1-3
 play,3,1,ingeb001,11,CBH,HP.1-2
-com,"$Brandon Inge was hit on the left hand, causing a non-displaced fracture of"
-com,"the fifth metacarpal bone"
 play,3,1,avila001,11,FBX,31/G
 play,4,0,borbj001,01,CX,9/F
 play,4,0,andre001,22,CBCBX,53/G
@@ -6897,13 +6843,6 @@ play,5,0,kinsi001,01,..CX,8/F
 play,5,0,guerv001,02,FCX,63/G
 play,5,0,hamij003,00,X,S7/F
 play,5,0,cruzn002,00,X,54(1)/FO/G
-com,"ej,washr001,M,hirsj901,Balls and strikes"
-com,"$after the second pitch to Magglio Ordonez was called a ball and no swing ruled"
-com,"on the pitch, Rangers manager Ron Washington started yelling at HP umpire John"
-com,"Hirschbeck from the dugout; Hirschbeck yelled back and when Washington started"
-com,"up the stairs to the field, he was told by Hirschbeck not to come on the field;"
-com,"Washington stopped then stepped onto the field; he was ejected by Hirschbeck"
-com,"immediately after taking his first step on the warning track"
 play,5,1,ordom001,31,BB.CBX,HR/9/F
 play,5,1,cabrm001,11,SBX,HR/7/F
 play,5,1,boesb001,00,X,7/F
@@ -6921,9 +6860,6 @@ play,6,1,santr002,00,,NP
 sub,nippd001,"Dustin Nippert",0,0,1
 play,6,1,santr002,32,.CLFBBBC,K
 play,6,1,jacka001,32,BFBFFBX,D15/L
-com,"$the line drive by Austin Jackson hit pitcher Dustin Nippert on the right"
-com,"side of his head and caromed over third baseman Michael Young's head into"
-com,"short left field; Nippert was taken to the hospital where the scan was negative"
 play,6,1,damoj001,00,,NP
 sub,odayd001,"Darren O'Day",0,0,1
 play,6,1,damoj001,21,.BBCX,3/L
@@ -7519,7 +7455,6 @@ play,3,1,jacka001,11,CBX,S8/L-
 play,3,1,rabur001,12,1L1FFBS,K
 play,3,1,ordom001,32,FP1FBB>B,W.1-2
 play,3,1,cabrm001,12,CBFX,D8/L.2-H;1XH(842)
-com,"Magglio Ordonez fractured his right ankle sliding across the plate"
 play,4,0,overl001,00,X,7/F
 play,4,0,buckj001,22,SBBSX,7/F
 play,4,0,encae001,22,CBCFFFBFX,2/P2F
@@ -7542,7 +7477,6 @@ sub,santr002,"Ramon Santiago",1,3,11
 play,5,1,santr002,20,.BB1>C,CS2(26)
 play,6,0,overl001,00,,NP
 sub,sizes001,"Scott Sizemore",1,6,4
-com,"Tigers second baseman Carlos Guillen left the game due to an injured leg"
 play,6,0,overl001,12,...FSBX,8/L
 play,6,0,buckj001,22,CSBBX,63/G
 play,6,0,encae001,32,FBBFBFFX,8/F
@@ -7728,7 +7662,6 @@ sub,gregk001,"Kevin Gregg",0,0,1
 play,9,1,lairg001,00,,NP
 sub,rhymw001,"Will Rhymes",1,8,11
 play,9,1,rhymw001,32,..BBCBFS,K
-com,"Debut game for Will Rhymes"
 play,9,1,wortd001,00,,NP
 sub,damoj001,"Johnny Damon",1,9,11
 play,9,1,damoj001,02,.CSX,43/G
@@ -8621,14 +8554,6 @@ sub,perrr001,"Ryan Perry",1,0,1
 play,8,0,aybae001,02,.CFFX,6/P
 play,8,0,calla001,21,BCBX,S7/F
 play,8,0,huntt001,02,CCC,K
-com,"ej,huntt001,P,kulpr901,Called third strike"
-com,"ej,sciom001,M,kuplr901,Balls and strikes after Hunter ejection"
-com,"$Angels center fielder Torii Hunter objected to the called third strike"
-com,"and was quickly ejected by HP umpire Ron Kulpa; Hunter then exploded"
-com,"as Angels manager Mike Scioscia arrived on the scene; Hunter was taken"
-com,"back to the dugout by the Angels base coaches; Hunter threw the ball"
-com,"bag onto the field from the dugout; Scioscia and Kulpa had a heated"
-com,"discussion and Scioscia was ejected by Kulpa"
 play,8,0,matsh001,32,..BBSBF>C,K
 play,8,1,jacka001,00,,NP
 sub,willr004,"Reggie Willits",0,4,9
@@ -9754,8 +9679,6 @@ play,2,0,nix-j001,32,BFBBFX,3/G
 play,2,0,marta004,01,CX,7/F
 play,2,0,duncs001,11,CBX,8/F
 play,2,1,jacka001,01,CX,E5/G
-com,"originally scored as a single, changed on 9-02 to E5, makes"
-com,"two runs unearned"
 play,2,1,rhymw001,12,M>FB>X,D9/L.1-3
 play,2,1,damoj001,22,CCBFBT,K
 play,2,1,cabrm001,30,IIII,IW
@@ -10083,7 +10006,6 @@ play,4,0,kendj001,01,CX,53/G
 play,4,0,kaaik001,20,BBX,9/F
 play,4,1,ingeb001,32,FCBBBFX,S7/L
 play,4,1,boesb001,00,>X,DGR/9.1-H
-com,"fan interference"
 play,4,1,avila001,10,BX,D9/G.2-H
 play,4,1,jacka001,12,L*BLT,K
 play,4,1,rhymw001,00,X,3/L
@@ -10475,11 +10397,6 @@ play,8,1,kelld001,00,,NP
 sub,rabur001,"Ryan Raburn",1,5,11
 play,8,1,rabur001,00,..X,7/F
 play,8,1,ingeb001,32,CBCBB>F>FC,K
-com,"$Brandon Inge's fly down the LF line on a 3-2 pitch was originally ruled"
-com,"a two-run homer but the umpires huddled briefly before crew chief Brian"
-com,"Gorman watched the replay and overturned the call to a foul ball; it was"
-com,"the second time in 2010 that Inge had a ball called a homer and then"
-com,"changed to a foul ball against the White Sox"
 play,9,0,pierj002,00,,NP
 sub,rabur001,"Ryan Raburn",1,5,7
 play,9,0,pierj002,21,.BBCX,53/BG
@@ -10593,7 +10510,6 @@ play,3,0,riosa002,22,1BCF1B.S,K
 play,3,0,ramim002,22,CSBBS,K
 play,3,1,jacka001,00,,NP
 sub,harrl002,"Lucas Harrell",0,0,1
-com,"White Sox pitcher Freddy Garcia left the game due to an injured back"
 play,3,1,jacka001,11,..CBX,E3/G
 play,3,1,rhymw001,00,1X,53/SH/BG.1-2
 play,3,1,damoj001,22,BBFFS,K
@@ -10632,7 +10548,6 @@ play,7,0,quenc001,00,,NP
 sub,rabur001,"Ryan Raburn",1,4,7
 play,7,0,quenc001,00,,NP
 sub,kelld001,"Don Kelly",1,5,3
-com,"Tigers first baseman Miguel Cabrera left the game due to an injured shoulder"
 play,7,0,quenc001,12,..BFST,K
 play,7,0,piera001,00,X,D8/F
 play,7,0,kotsm001,01,SX,7/F
@@ -10663,14 +10578,12 @@ sub,infag001,"Gregory Infante",0,0,1
 play,8,1,jacka001,00,,NP
 sub,flowt001,"Tyler Flowers",0,7,2
 play,8,1,jacka001,32,..BCBBFB,W
-com,"Debut game for Gregory Infante"
 play,8,1,rhymw001,21,CBBX,8/F
 play,8,1,damoj001,10,*BX,S8/G.1-2
 play,8,1,rabur001,22,BFBFS,K
 play,9,0,quenc001,00,,NP
 sub,moreb001,"Brent Morel",0,6,11
 play,9,0,moreb001,22,.CSBBFFFS,K
-com,"Debut game for Brent Morel"
 play,9,0,flowt001,32,BFBBFC,K
 play,9,0,kotsm001,00,,NP
 sub,vicid001,"Dayan Viciedo",0,8,11
@@ -11090,7 +11003,6 @@ sub,snydb003,"Brandon Snyder",0,8,3
 play,9,1,jacka001,00,,NP
 sub,uehak001,"Koji Uehara",0,0,1
 play,9,1,jacka001,12,..CBFX,9/F
-com,"Debut game for Brandon Snyder"
 play,9,1,rhymw001,12,BCFS,K
 play,9,1,damoj001,01,CX,8/F
 data,er,millk004,2
@@ -11494,12 +11406,6 @@ play,6,1,avila001,20,BBX,S9/L
 play,6,1,ingeb001,02,TFS,K
 play,6,1,santr002,32,1BB>FFB>X,9/F
 play,6,1,rhymw001,01,CX,HR/9/F.1-H
-com,"$the fly by Will Rhymes hit on the top of the wall and caromed off the metal"
-com,"fence back onto the field; it was ruled in play and he reached third; the"
-com,"Tigers asked about the call, so crew chief Dale Scott watched the replay and"
-com,"overturned the call to a home run; it was Rhymes' first career homer; when he"
-com,"returned to the dugout after running from third to home, his teammates gave him"
-com,"the silent treatment"
 play,6,1,damoj001,32,BSBCBX,43/G
 play,7,0,butlb003,00,,NP
 sub,wellc001,"Casper Wells",1,5,9
@@ -11936,17 +11842,8 @@ play,6,1,rabur001,00,X,S8/G
 play,6,1,cabrm001,12,BF1F1X,S7/L.1-2
 play,6,1,peraj001,22,CSFBBX,S8/L.2-H;1-3
 play,6,1,wellc001,01,SX,T7/G.3-H;1-H
-com,"$Casper Wells' grounder down the line was touched by a fan; the"
-com,"umpires allowed Jhonny Peralta to score from first and awarded"
-com,"Wells three bases on the play; Twins Manager Ron Gardenhire argued"
-com,"with HP umpire Tim Timmons about the placement of the runners on"
-com,"the fan interference before changing his pitcher"
 play,6,1,boesb001,00,,NP
 sub,mijaj001,"Jose Mijares",0,0,1
-com,"ej,gardr001,M,timmt901,Fan interference and runner placement"
-com,"Twins Manager Ron Gardenhire ejected by HP umpire Tim Timmons for"
-com,"continuing to argue the fan interference call after returning to"
-com,"the dugout"
 play,6,1,boesb001,12,..SFBFX,9/SF/F.3-H
 play,6,1,ingeb001,12,CFBS,K
 play,6,1,lairg001,21,FBBX,9/F
@@ -12099,7 +11996,6 @@ play,5,0,hardj003,11,.CBX,4/P
 play,5,0,repkj001,02,CFH,HP
 play,5,0,buted001,00,X,S5/G.1-2
 play,5,0,spand001,10,BX,DGR/7.2-H;1-3
-com,"fan interference"
 play,5,0,hudso001,10,BX,53/G
 play,5,0,yound003,00,X,S5/G.3-H;2-H(E5/TH)(NR)(UR)
 play,5,0,cuddm001,12,*BCCX,63/G
@@ -12107,7 +12003,6 @@ play,5,1,ingeb001,00,,NP
 sub,reveb001,"Ben Revere",0,8,9
 play,5,1,ingeb001,00,,NP
 sub,perkg001,"Glen Perkins",0,0,1
-com,"Twins left fielder Jason Repko left the game due to an injured hand"
 play,5,1,ingeb001,00,..H,HP
 play,5,1,avila001,10,BX,S7/G.1-2
 play,5,1,santr002,01,CX,S8/L.2-3;1-2

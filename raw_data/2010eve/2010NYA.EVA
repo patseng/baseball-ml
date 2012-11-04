@@ -435,7 +435,6 @@ play,8,0,kendh001,02,.SCX,16(1)3/GDP
 play,8,1,jeted001,00,,NP
 sub,rodrf005,"Francisco Rodriguez",0,0,1
 play,8,1,jeted001,01,.CX,53/G
-com,"Debut game for Francisco Rodriguez"
 play,8,1,swisn001,32,BFCBBX,8/F
 play,8,1,teixm001,32,BFBCBFS,K
 play,9,0,napom001,32,BBBCCB,W
@@ -557,7 +556,6 @@ play,6,1,cervf001,10,P>P,SB2
 play,6,1,cervf001,32,P>P.S*BCX,S6/G.2-3
 play,6,1,jeted001,10,*BX,S16/G-.3-H;1-2
 play,6,1,johnn001,21,BCBX,7/F
-com,"$game called for rain after a 1:05 delay"
 data,er,wilsc004,3
 data,er,sabac001,1
 id,NYA201004170
@@ -1071,8 +1069,6 @@ play,2,0,vizqo001,22,BBCFX,8/SF/F/DP.3-H;2X3(83)
 play,2,1,canor001,20,BBX,5/P
 play,2,1,posaj001,31,BBBCX,63/G
 play,2,1,thamm001,32,CBFBBB,W
-com,"$Yankees pitcher Javier Vazquez was told that his two-toned glove was"
-com,"not legal and that he had to use a different glove"
 play,2,1,granc001,32,BCBSB>X,8/F
 play,3,0,beckg001,22,BBFFFS,K
 play,3,0,jonea002,32,SFBBBX,HR/78/F+
@@ -1120,7 +1116,6 @@ play,6,1,granc001,20,BBX,S9/L.1-3
 play,6,1,gardb001,32,BBC*B1F>FX,S8/L.3-H;1-3
 play,6,1,jeted001,00,,NP
 sub,winnr001,"Randy Winn",1,8,12
-com,"Yankees center fielder Curtis Granderson left the game due to an injured groin"
 play,6,1,jeted001,11,.C1B1>B,SB2
 play,6,1,jeted001,32,.C1B1>B.FFBFFX,53/G.3-H
 play,6,1,swisn001,10,BX,HR/89/F.2-H
@@ -1297,12 +1292,6 @@ play,7,0,piera001,01,CX,9/F
 play,7,1,posaj001,32,FFBBFBFFX,D8/L
 play,7,1,thamm001,00,X,63/G
 play,7,1,gardb001,31,CBB.BB,W
-com,"ej,guilo001,M,iassd901,Arguing about actions of A.J. Pierzynski"
-com,"$after the third pitch to Brett Gardner was called a ball, White Sox catcher"
-com,"A.J. Pierzynski hesitated before standing to throw the ball back to the mound;"
-com,"he talked to HP umpire Dan Iassogna and as he stood up, Pierzynski turned to"
-com,"the umpire; they started talking and White Sox manager Ozzie Guillen came out"
-com,"to talk with Iassogna; after a few moments and words, Iassogna ejected Guillen"
 play,7,1,penar002,00,X,FC4.1X2(4E6);2-3;B-1
 play,7,1,jeted001,32,BBBCFB,W.3-H;2-3;1-2
 play,7,1,johnn001,00,,NP
@@ -1436,7 +1425,6 @@ play,5,1,rodra001,20,BBX,53/G
 play,5,1,canor001,11,CBX,6/P
 play,6,0,wiggt001,00,,NP
 sub,cervf001,"Francisco Cervelli",1,6,2
-com,"Yankees catcher Jorge Posada left the game due to an injured leg"
 play,6,0,wiggt001,10,.BX,43/G
 play,6,0,tejam001,11,BCX,S8/G
 play,6,0,wietm001,31,BBFBX,64(1)3/GDP
@@ -1675,10 +1663,6 @@ play,2,0,wietm001,22,BCC*BX,S8/G.1-2
 play,2,0,reimn001,20,BBX,64(1)3/GDP
 play,2,1,canor001,31,BBBCX,8/F
 play,2,1,swisn001,31,BBCBX,HR/9/F
-com,"ej,kranr801,C,emmep901,Balls and strikes"
-com,"$after the first pitch to Brett Gardner, Orioles Pitching Coach Rick Kranitz"
-com,"objected to the call and was told by HP umpire Paul Emmel to stop complaining;"
-com,"Kranitz said one more thing to Emmel and was ejected"
 play,2,1,gardb001,22,B.BCCX,S34/G
 play,2,1,cervf001,20,1P1B>C,SB2
 play,2,1,cervf001,32,1P1B>C.FBS,K
@@ -1849,7 +1833,6 @@ play,3,1,cervf001,12,CCBFC,K
 play,3,1,jeted001,10,BX,13/G
 play,4,0,kubej002,00,,NP
 sub,winnr001,"Randy Winn",1,6,9
-com,"Yankees right fielder Nick Swisher left the game due to an injured arm"
 play,4,0,kubej002,10,.BX,S9/G
 play,4,0,yound003,22,CF*BBFFS,K
 play,4,0,casia001,00,X,8/F
@@ -2514,13 +2497,6 @@ play,5,1,rodra001,11,BCX,7/L
 play,5,1,canor001,32,BBSBF>X,D8/L.2-H;1-H
 play,5,1,cervf001,00,,NP
 sub,delcm001,"Manny Delcarmen",0,0,1
-com,"$Red Sox pitching coach John Farrell went to the mound, and after a"
-com,"brief discussion, signalled to the bullpen; manager Terry Francona"
-com,"and a trainer went to the mound; Josh Beckett left with back tightness"
-com,"and Manny Delcarmen was given all the time he needed to get ready;"
-com,"the Yankees claimed that there was no indication of any injury to"
-com,"Beckett and protested the game; and the protest was denied the day"
-com,"after that"
 play,5,1,cervf001,10,.BX,7/L
 play,6,0,drewj001,00,X,8/F
 play,6,0,youkk001,11,CBX,HR/7/F
@@ -2549,14 +2525,11 @@ play,8,0,drewj001,31,BBFBX,D7/L.2-H(UR);1-3
 play,8,0,youkk001,10,*BX,S9/F-.3-H;2-H
 play,8,0,martv001,30,*BBBX,43/G.1-2
 play,8,0,ortid001,32,B*BC*BFX,S8/F89XDW.2-H;BX2(86)
-com,"$David Ortiz stopped to admire his hit, which he thought was going over"
-com,"the fence and was thrown out at 2B because of it"
 play,8,0,belta001,11,CBX,63/G
 play,8,1,miraj001,00,,NP
 sub,hermj001,"Jeremy Hermida",0,3,9
 play,8,1,miraj001,00,,NP
 sub,okajh001,"Hideki Okajima",0,0,1
-com,"Red Sox RF J.D. Drew left with a sore left calf and tight right hamstring"
 play,8,1,miraj001,12,..CBFT,K
 play,8,1,winnr001,32,BSBBCS,K
 play,8,1,jeted001,22,CBBFX,S8/L
@@ -2711,7 +2684,6 @@ play,6,1,miraj001,00,,NP
 sub,corml001,"Lance Cormier",0,0,1
 play,6,1,miraj001,00,,NP
 sub,penar002,"Ramiro Pena",1,7,12
-com,"Yankees left fielder Marcus Thames left the game due to an injured ankle"
 play,6,1,miraj001,32,..BBBCC>F>B,W.1-2
 play,6,1,winnr001,21,FBBX,E4/TH1/G.2-3;1-2
 play,6,1,jeted001,31,BBBCX,63/G
@@ -3134,10 +3106,6 @@ play,3,1,jeted001,12,CFBFS,K
 play,3,1,swisn001,30,BBBX,D9/F
 play,3,1,teixm001,31,CBB*BB,W
 play,3,1,rodra001,00,X,D19/L.2-H;1-3
-com,"$the line drive hit Indians pitcher David Huff on the left side of the head"
-com,"just above the left ear; he was taken to the hospital and the CT scan was"
-com,"negative; Huff was back at the ballpark before the end of the game with a"
-com,"golf ball-sized knot on his head and no concussive symptoms"
 play,3,1,canor001,00,,NP
 sub,laffa001,"Aaron Laffey",0,0,1
 play,3,1,canor001,21,.BFBX,8/SF/F.3-H
@@ -3193,7 +3161,6 @@ play,7,0,keara001,10,B>1C,SB2
 play,7,0,keara001,11,B1>C.X,S8/L.2-H
 play,7,0,peraj001,00,,NP
 sub,mitrs001,"Sergio Mitre",1,0,1
-com,"Yankees pitcher David Robertson left the game due to an injured back"
 play,7,0,peraj001,30,B.BBB,W.1-2
 play,7,0,duncs001,00,,NP
 sub,branr001,"Russell Branyan",0,5,11
@@ -3494,7 +3461,6 @@ play,7,1,granc001,00,,NP
 sub,penar002,"Ramiro Pena",1,1,12
 play,7,1,granc001,00,,NP
 sub,perer002,"Rafael Perez",0,0,1
-com,"Yankees shortstop Derek Jeter left the game due to an injured leg"
 play,7,1,granc001,22,..FBS*BX,S9/L-.1-2
 play,7,1,teixm001,20,BBB,WP.2-3;1-2
 play,7,1,teixm001,30,BBB.I,IW
@@ -3608,9 +3574,7 @@ play,3,0,lugoj001,21,C*BB+1>X,6(1)3/GDP
 play,3,0,iztuc001,11,CBX,6/L
 play,3,1,russk001,11,CBX,9/F
 play,3,1,jeted001,01,FX,DGR/7/L
-com,"fan interference"
 play,3,1,swisn001,32,CF*BFBBX,7/F-
-com,"$Mark Teixeira hurt foot on foul ball, left at end of inning"
 play,3,1,teixm001,12,CBFX,13/G-
 play,4,0,pattc001,00,,NP
 sub,miraj001,"Juan Miranda",1,3,3
@@ -4179,7 +4143,6 @@ play,4,1,jeted001,10,BX,63/G
 play,4,1,swisn001,20,BBX,5/P5F
 play,5,0,quinh001,00,,NP
 sub,gardb001,"Brett Gardner",1,6,7
-com,"Yankees left fielder Marcus Thames left the game due to an injured leg"
 play,5,0,quinh001,22,.BFBFS,K
 play,5,0,manzt001,10,BX,63/G
 play,5,0,bourm001,31,BBBCX,7/F
@@ -4303,7 +4266,6 @@ play,3,0,bourm001,00,X,5!/L
 play,3,0,keppj001,22,CSBFBX,164(1)/FO/G
 play,3,0,pench001,22,BF*BFX,53/G
 play,3,1,huffc001,32,CFBBBX,S6/G-
-com,"Debut game for Chad Huffman"
 play,3,1,penar002,22,BC1LBFX,8/F
 play,3,1,jeted001,31,BBCB>X,63/G.1-2
 play,3,1,granc001,10,BX,3/G
@@ -4333,9 +4295,6 @@ play,5,1,swisn001,30,BBBB,W.2-3;1-2
 play,5,1,posaj001,00,,NP
 sub,daigc001,"Casey Daigle",0,0,1
 play,5,1,posaj001,20,.*BBX,HR/9/F.3-H;2-H;1-H
-com,"$Jorge Posada hit a grand slam in consecutive games, becoming only the"
-com,"second player to hit one right-handed and one left-handed in two games;"
-com,"the first was Carlos Beltran in 2006"
 play,5,1,gardb001,22,BCCBX,S7/L
 play,5,1,huffc001,02,CC>B,SB2
 play,5,1,huffc001,12,CC>B.S,K+WP.B-1;2-3
@@ -5434,7 +5393,6 @@ play,2,0,bradm001,02,CFX,HR/8/F
 play,2,0,lopej003,22,BFFBX,7/F
 play,2,0,gutif001,00,,NP
 sub,langr002,"Ryan Langerhans",0,6,11
-com,"Mariners CF Franklin Gutierrez left with the flu"
 play,2,0,langr002,00,.X,S8/L
 play,2,0,wilsj002,22,CB1F1F*BFFS,K
 play,2,0,johnr009,02,CFS,K
@@ -5470,9 +5428,7 @@ play,5,0,lopej003,32,BBCBF>F>B,W.2-3;1-2
 play,5,0,langr002,12,SBCS,K
 play,5,1,granc001,12,CBSS,K
 play,5,1,curtc002,00,X,D3/P
-com,"$2B Chone Figgins lost the ball in the sky and it fell in"
 play,5,1,cervf001,11,BFX,9/F
-com,"$Figgins ran out into short RF but could not find this popup either"
 play,5,1,jeted001,00,X,1!3/G+
 play,6,0,wilsj002,01,LX,2/P2F
 play,6,0,johnr009,22,BSCBS,K
@@ -5788,9 +5744,6 @@ sub,rivem002,"Mariano Rivera",1,0,1
 play,9,0,buckj001,12,.FBFX,53/G
 play,9,0,hoffj002,32,BCSFBFBX,S8/L
 play,9,0,lewif001,31,1BBCBX,64(1)/FO/G
-com,"$the Blue Jays thought Alex Gonzalez was hit by a pitch on the arm"
-com,"but HP umpire Mark Wegner ruled that the ball hit the bat; the"
-com,"umpires conferred but did not change the ruling"
 play,9,0,gonza002,12,1BFF>S,K
 play,9,1,granc001,12,BFFX,53/G-
 play,9,1,cervf001,21,BBCX,53/G
@@ -5817,12 +5770,6 @@ sub,parkc002,"Chan Ho Park",1,0,1
 play,11,0,bautj002,00,,NP
 sub,green001,"Nick Green",0,8,12
 play,11,0,bautj002,32,..CBCFBBC,K
-com,"ej,gastc101,M,wegnm901,Balls and strikes"
-com,"$Jose Bautista thought strike three was low and said a few things"
-com,"to HP umpire Mark Wegner as he went back to the bench; Blue Jays"
-com,"manager Cito Gaston yelled a few things from the dugout and was"
-com,"ejected by Wegner; Gaston then came out to say a few more things"
-com,"to Wegner"
 play,11,0,wellv001,32,.FBBBC>F>B,W.3-H;2-3;1-2
 play,11,0,wised001,21,SBBX,T8/F.3-H;2-H;1-H
 play,11,0,hilla001,10,*BH,HP
@@ -6081,12 +6028,6 @@ play,4,0,encae001,22,FBBFFS,K
 play,4,1,posaj001,31,BBBCB,W
 play,4,1,granc001,22,BCFBX,46(1)/FO/G
 play,4,1,gardb001,12,1CBFFS,K+WP.1-2
-com,"$Brett Gardner took a half swing at a pitch that hit him on the back"
-com,"lower leg; HP umpire Dale Scott ruled a swing for strike three; the"
-com,"ball caromed off Gardner's shin guard towards the third base dugout"
-com,"and catcher Jose Molina did not see the ball; pitcher Brandon Morrow"
-com,"chased the ball while Gardner argued with Scott; Curtis Granderson"
-com,"ran to 2B on the play"
 play,4,1,penar002,20,BBX,S68/G.2-H
 play,4,1,jeted001,01,1C>B,SB2
 play,4,1,jeted001,32,1C>B.BFBFS,K
@@ -6115,8 +6056,6 @@ sub,martd004,"Damaso Marte",1,0,1
 play,7,0,mcdoj003,21,.BFBX,8/L
 play,7,0,lewif001,01,F,NP
 sub,cervf001,"Francisco Cervelli",1,6,2
-com,"$Yankees catcher Jorge Posada took a foul ball by Fred Lewis off the left"
-com,"hand and left with a sprained ring finger"
 play,7,0,lewif001,22,F.SBBFFS,K
 play,7,0,wised001,02,SCS,K
 play,7,1,jeted001,00,,NP
@@ -6409,7 +6348,6 @@ play,3,0,penac001,11,B1FB,WP.1-2
 play,3,0,penac001,31,B1FB.BX,S8/L+.2-H
 play,3,0,joycm001,00,,NP
 sub,mosed001,"Dustin Moseley",1,0,1
-com,"Yankees pitcher A. J. Burnett left the game due to an injured hand"
 play,3,0,joycm001,21,.BBFX,S9/L.1-2
 play,3,0,jasoj001,31,CBBBX,46(1)3/GDP.2-3
 play,3,0,uptob001,30,BBBB,W
@@ -6568,7 +6506,6 @@ play,3,0,bartj001,31,CBBBX,S7/G
 play,3,0,kaplg001,02,1CCF1FFX,S7/L.1-2
 play,3,0,shopk001,31,CBBB,NP
 sub,robed002,"David Robertson",1,0,1
-com,"Yankees pitcher Andy Pettitte left the game due to an injured groin"
 play,3,0,shopk001,32,CBBB.CB,W.2-3;1-2
 play,3,0,rodrs002,20,BBX,6/P/IF
 play,3,0,uptob001,12,CS*BX,9/F
@@ -6764,12 +6701,6 @@ play,6,0,mathj001,00,X,6/L
 play,6,0,aybae001,11,F*BX,13/G+
 play,6,1,swisn001,22,BCCBX,43/G
 play,6,1,teixm001,22,BBCCX,153/G
-com,"ej,giraj001,M,emmep901,Call at 1B"
-com,"$the ball caromed off pitcher Sean O'Sullivan and Maicer Izturis' throw"
-com,"just beat Mark Teixeira to 1B; Yankees manager Joe Girardi argue the call"
-com,"with 1B umpire Paul Emmel, who ejected Girardi; HP umpire Bruce Dreckman"
-com,"came out to 1B during the argument and Girardi yelled at Dreckman before"
-com,"leaving the field, apparently telling Dreckman to get back behind the plate"
 play,6,1,rodra001,01,.FX,9/F
 play,7,0,kendh001,32,BCCBBFFX,63/G
 play,7,0,abreb001,22,BFBSX,S9/L
@@ -6785,10 +6716,6 @@ play,7,1,canor001,12,.BSSFS,K
 play,7,1,posaj001,32,CCFBBBB,W
 play,7,1,granc001,22,BC*BFS,K
 play,7,1,miraj001,12,CBCFB,OA.1-2(E2)
-com,"$Angels catcher Jeff Mathis used his mask to scoop the ball into his glove"
-com,"after it rolled away a few feet; he was called for being in violation of rule"
-com,"7.05(j), which prohibits using equipment to touch the ball; runner Jorge"
-com,"Posada was awarded a base"
 play,7,1,miraj001,22,CBCFB.X,S9/L.2-3
 play,7,1,gardb001,12,CSFBX,3/G
 play,8,0,rivej001,01,SX,8/F
@@ -6964,14 +6891,9 @@ play,7,1,canor001,02,.CFS,K
 play,7,1,miraj001,21,BSBX,HR/89/F
 play,7,1,granc001,12,CCBX,S7/L
 play,7,1,cervf001,10,1B>X,S4/L.1-3
-com,"ej,gardb001,P,emmep901,Balls and strikes"
-com,"Yankees left fielder Brett Gardner ejected by HP umpire Paul Emmel for arguing"
-com,"about the called strike on the second pitch"
 play,7,1,gardb001,02,FC,NP
 sub,curtc002,"Colin Curtis",1,9,11
 play,7,1,curtc002,32,FC..BBB>X,HR/9/L.3-H;1-H
-com,"$Colin Curtis pinch hit for the ejected Brett Gardner and hit his first big"
-com,"league home run"
 play,7,1,jeted001,22,BFBFFX,43/G
 play,7,1,swisn001,01,SX,3/G
 play,8,0,wilsb002,00,,NP
@@ -7080,8 +7002,6 @@ play,3,0,betew001,12,SBCS,K
 play,3,1,jeted001,00,X,HR89/F/IPHR
 play,3,1,swisn001,00,,NP
 sub,ankir001,"Rick Ankiel",0,3,8
-com,"$Royals right fielder David DeJesus left the game due to a sprained right thumb"
-com,"suffered when he ran into the fence attempting to catch Derek Jeter's fly ball"
 play,3,1,swisn001,01,.CX,53/G
 play,3,1,teixm001,32,BFFBBFX,S7/L.B-2(E7)
 play,3,1,rodra001,00,X,63/G
@@ -7987,8 +7907,6 @@ play,1,1,jeted001,12,CF*BX,S7/G
 play,1,1,swisn001,22,B1BSSC,K
 play,1,1,teixm001,01,C1X,5/P
 play,1,1,rodra001,20,BBX,HR/8/F.1-H
-com,"$the 600th career homer by Alex Rodriguez, exactly three years to the day"
-com,"after he hit #500"
 play,1,1,canor001,10,BX,53/G-
 play,2,0,wellv001,22,BBCFS,K
 play,2,0,linda001,22,SBFBT,K
@@ -8748,7 +8666,6 @@ play,5,0,cabrm001,00,,NP
 sub,penar002,"Ramiro Pena",1,4,5
 play,5,0,cabrm001,00,,NP
 sub,mitrs001,"Sergio Mitre",1,0,1
-com,"Yankees third baseman Alex Rodriguez left the game due to an injured leg"
 play,5,0,cabrm001,12,..FFBFX,E6/TH1/G
 play,5,0,guilc001,00,X,7/F
 play,5,0,rabur001,02,FSC,K
@@ -8767,7 +8684,6 @@ play,6,1,gardb001,12,.CCFFBX,8/F
 play,6,1,jeted001,32,CBFBBX,S8/L
 play,6,1,swisn001,00,,NP
 sub,keara001,"Austin Kearns",1,2,11
-com,"Yankees right fielder Nick Swisher left the game due to an injured arm"
 play,6,1,keara001,11,.CBX,13/G-.1-2
 play,6,1,teixm001,12,BCCS,K
 play,7,0,cabrm001,00,,NP
@@ -8820,10 +8736,6 @@ play,9,1,granc001,01,CX,S9/L.1-2
 play,9,1,cervf001,31,BBBCB,W.2-3;1-2
 play,9,1,gardb001,31,BBBCB,W.3-H;2-3;1-2
 play,9,1,jeted001,32,BBCFFBX,64(1)3/GDP
-com,"$Brett Gardner's take out slide hurt Carlos Guillen; Guillen was placed on"
-com,"the DL because of the injury; two days later, Jeremy Bonderman hit Gardner"
-com,"with his first pitch of the game; apparently, the Tigers thought it was"
-com,"not a clean play by Gardner"
 data,er,schem001,0
 data,er,cokep001,0
 data,er,perrr001,0
@@ -9035,9 +8947,6 @@ play,1,0,santr002,10,1B1>S,CS2(24)
 play,1,0,santr002,11,1B1>S.X,S9/G
 play,1,0,rabur001,11,BSX,64(1)3/GDP
 play,1,1,gardb001,00,H,HP
-com,"$after Brett Gardner was hit on the lower right leg, both teams were warned"
-com,"by HP umpire Eric Cooper; both managers talked to Cooper; this was apparent"
-com,"payback for Gardner's take out slide that hurt Carlos Guillen two days ago"
 play,1,1,jeted001,12,BC1CS,K
 play,1,1,teixm001,11,CB1>X,HR/9/F.1-H
 play,1,1,canor001,01,CX,HR/9/F
@@ -9114,9 +9023,6 @@ play,7,1,penar002,11,C*BX,5/P5F
 play,8,0,cabrm001,00,,NP
 sub,gaudc001,"Chad Gaudin",1,0,1
 play,8,0,cabrm001,11,.BFH,HP
-com,"$Tigers manager Jim Leyland argued about this pitch and wanted to know"
-com,"why Yankees pitcher Chad Gaudin and manager Joe Girardi were not ejected"
-com,"since warnings had been issued earlier in the game"
 play,8,0,damoj001,20,BBX,S9/L.1-2
 play,8,0,peraj001,32,BFC*BBB,W.2-3;1-2
 play,8,0,ingeb001,00,,NP
@@ -9124,12 +9030,8 @@ sub,robed002,"David Robertson",1,0,1
 play,8,0,ingeb001,32,.BCCBFBX,7/SF/F.3-H
 play,8,0,avila001,22,CBC*BX,5(2)/FO/G-.1-2
 play,8,0,kelld001,22,BBCSFX,13/G-
-com,"ej,leylj801,M,coope901,Arguing about non-ejection on HBP"
-com,"$between innings, Tigers Manager Jim Leyland ejected by HP umpire Eric Cooper"
-com,"for continuing to argue about the non-ejections of Gaudin and Girardi"
 play,8,1,gardb001,12,.BCCC,K
 play,8,1,jeted001,31,BBCBB,W
-com,"$the first pitch to Derek Jeter was behind him; no ejections"
 play,8,1,teixm001,32,BFFBB>B,W.1-2
 play,8,1,canor001,31,BBBCB,W.2-3;1-2
 play,8,1,swisn001,00,X,3(B)2(2)/GDP
@@ -9262,7 +9164,6 @@ sub,nunee002,"Eduardo Nunez",1,2,6
 play,7,0,damoj001,00,,NP
 sub,mitrs001,"Sergio Mitre",1,0,1
 play,7,0,damoj001,32,..BBFFBFS,K
-com,"Debut game for Eduardo Nunez"
 play,7,0,peraj001,11,FBX,HR/8/F
 play,7,0,ingeb001,00,X,S7/L
 play,7,0,avila001,32,BCBF*BX,DGR/8/F.1-3
@@ -9975,7 +9876,6 @@ play,1,1,thamm001,12,CSFBS,K
 play,2,0,custj001,32,CBBBFB,W
 play,2,0,kouzk001,10,BX,9/F
 play,2,0,ellim001,31,BBFBX,2/G/INT.1-1
-com,"$Mark Ellis ran into his own batted ball just in front of the plate"
 play,2,0,larij001,31,BBSBX,3/G+
 play,2,1,granc001,22,BBCCC,K
 play,2,1,penar002,12,FBCX,13/G-
@@ -10207,10 +10107,6 @@ sub,posaj001,"Jorge Posada",1,9,11
 play,8,1,posaj001,00,,NP
 sub,penar002,"Ramiro Pena",1,8,12
 play,8,1,posaj001,22,..SBBFC,K
-com,"ej,posaj001,P,demud901,Called third strike"
-com,"$Yankees pinch hitter Jorge Posada was not happy with the called third strike"
-com,"on a pitch on the outside corner; he pointed at the other side of the plate"
-com,"and yelled at HP umpire Dana DeMuth, who ejected Posada"
 play,8,1,jeted001,00,.X,63/G
 play,9,0,pennc001,00,,NP
 sub,penar002,"Ramiro Pena",1,8,5
@@ -10292,7 +10188,6 @@ play,2,0,ellim001,00,,NP
 sub,keara001,"Austin Kearns",1,7,9
 play,2,0,ellim001,00,,NP
 sub,gardb001,"Brett Gardner",1,9,7
-com,"Yankees right fielder Nick Swisher left the game due to an injured knee"
 play,2,0,ellim001,10,...BX,S9/G
 play,2,0,carsm001,32,BSFBBX,64(1)/FO/G
 play,2,0,larij001,21,BCBX,54(1)/FO/G
@@ -10362,7 +10257,6 @@ sub,tolls001,"Steven Tolleson",0,9,6
 play,8,1,canor001,00,,NP
 sub,jamej001,"Justin James",0,0,1
 play,8,1,canor001,02,..FFS,K
-com,"Debut game for Justin James"
 play,8,1,berkl001,22,BCBSX,S7/L
 play,8,1,posaj001,31,BBBCX,S9/G.1-2
 play,8,1,keara001,12,BCCX,S7/L.2-H;1-2
@@ -10653,8 +10547,6 @@ play,7,0,hilla001,00,,NP
 sub,chamj002,"Joba Chamberlain",1,0,1
 play,7,0,hilla001,11,.1BF11H,HP.1-2
 play,7,0,bautj002,32,BCBCBC,K
-com,"ej,bautj002,P,hicke901,Called third strike"
-com,"Blue Jays right fielder Jose Bautista ejected by HP umpire Ed Hickox"
 play,7,0,wellv001,10,.BX,4(1)3/GDP
 play,7,1,jeted001,00,,NP
 sub,mccom001,"Mike McCoy",0,3,6
@@ -11124,17 +11016,11 @@ play,7,0,jonea003,32,BBCBS>T,K
 play,7,1,berkl001,11,BFX,D8/L
 play,7,1,posaj001,32,BBFC*BB,W
 play,7,1,granc001,10,BX,84(1)/FO/P.2-3
-com,"$popup in short center that center fielder could have caught. It"
-com,"hit off shortstop's glove and center fielder retrieved in tine to"
-com,"get force"
 play,7,1,penar002,00,,NP
 sub,rodra001,"Alex Rodriguez",1,9,11
 play,7,1,rodra001,00,,NP
 sub,albem001,"Matt Albers",0,0,1
 play,7,1,rodra001,20,..BBX,564(1)/FO/L+
-com,"$Very hard line drive that third baseman could not hold, but it"
-com,"deflected directly to shortstop who got force at second. Runner"
-com,"on third held"
 play,7,1,gardb001,22,B*BCCX,43/G-
 play,8,0,reimn001,00,,NP
 sub,nunee002,"Eduardo Nunez",1,9,5
@@ -11693,7 +11579,6 @@ play,3,0,longe001,12,1C1F*B>B,SB2
 play,3,0,longe001,32,1C1F*B>B.BFFX,13/G
 play,3,1,berkl001,10,BX,4/P
 play,3,1,granc001,31,CBBBB,W
-com,"2:11 rain delay"
 play,3,1,cervf001,00,,NP
 sub,hellj001,"Jeremy Hellickson",0,0,1
 play,3,1,cervf001,12,CB.CS,K
@@ -12048,7 +11933,6 @@ play,4,0,lowem001,00,X,S7/G+.1-2
 play,4,0,lowrj001,12,BCCX,S9/F-.2-3;1-2
 play,4,0,hallb001,11,*BFX,4!/P9LF
 play,4,0,mcdod002,32,*BSBFBFX,DGR/7.3-H;2-H;1-3
-com,"fan interference"
 play,4,0,scutm001,32,BCBBCX,S8/L.3-H;2-H
 play,4,0,drewj001,00,X,S9/L.1-2
 play,4,0,martv001,00,,NP
@@ -12066,8 +11950,6 @@ play,5,0,mcdod002,11,BCX,13/G-
 play,5,1,berkl001,10,BX,9/L
 play,5,1,posaj001,00,X,3/G
 play,5,1,granc001,22,CCBBX,S3/G+
-com,"$Curtis Granderson's grounder took an unusual hop and hit Mike Lowell"
-com,"on the right temple"
 play,5,1,gardb001,02,CFX,S7/L.1-2
 play,5,1,jeted001,21,BBCX,53/G
 play,6,0,scutm001,00,,NP
@@ -12081,7 +11963,6 @@ sub,andel002,"Lars Anderson",0,6,3
 play,6,1,swisn001,31,.BCBBX,3!1/G
 play,6,1,teixm001,00,X,HR/9/F
 play,6,1,rodra001,31,BCBBX,HR/7/F
-com,"$the 609th career homer for Alex Rodriguez to tie Sammy Sosa in sixth place"
 play,6,1,canor001,32,CBFBBB,W
 play,6,1,berkl001,00,X,8/F
 play,6,1,posaj001,01,C1X,13/G
@@ -12097,7 +11978,6 @@ play,7,1,teixm001,00,,NP
 sub,atchs001,"Scott Atchison",0,0,1
 play,7,1,teixm001,32,.CBCBBFFB,W
 play,7,1,rodra001,10,BX,HR/78/L.1-H
-com,"$the 610th homer for Alex Rodriguez to pass Sammy Sosa"
 play,7,1,canor001,02,CSX,43/G
 play,8,0,mcdod002,00,,NP
 sub,woodk002,"Kerry Wood",1,0,1

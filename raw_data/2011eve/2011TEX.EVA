@@ -60,7 +60,6 @@ play,2,0,saltj001,12,BCSS,K
 play,2,1,younm003,22,BBCSX,53/G
 play,2,1,cruzn002,32,SBBFBX,HR/7/F
 play,2,1,napom001,02,CFFX,13/G
-com,"$batter's interference"
 play,2,1,torry001,21,BCBX,53/G-
 play,3,0,scutm001,12,CCBX,31/G-
 play,3,0,ellsj001,12,BCSFX,D9/L
@@ -213,8 +212,6 @@ play,1,0,ellsj001,32,CBBFBB,W
 play,1,0,pedrd001,21,B11BCX,46(1)3/GDP
 play,1,0,crawc002,22,CCBFFBX,43/G
 play,1,1,kinsi001,31,BCBBX,HR/78/F
-com,"$Ian Kinsler becomes the first player in history to lead off the first"
-com,"two games of the season with home runs"
 play,1,1,andre001,21,CBBX,9/F
 play,1,1,hamij003,00,X,S7/L
 play,1,1,belta001,22,BBC1FFX,9/F
@@ -550,7 +547,6 @@ play,5,1,belta001,20,BBX,8/F
 play,6,0,smoaj001,32,BBBCST,K
 play,6,0,olivm001,22,BSBSFFX,S8/L
 play,6,0,langr002,01,CX,54(1)/FO/G.BX2(34)
-com,"$no DP"
 play,6,1,younm003,00,,NP
 sub,pauld001,"David Pauley",0,0,1
 play,6,1,younm003,11,.CBX,D8/L
@@ -1104,7 +1100,6 @@ play,6,0,trumm001,12,FCB1X,D8/F.1-H
 play,6,0,congh001,31,BFBBB,W
 play,6,0,bourp001,00,,NP
 sub,kirkm001,"Michael Kirkman",1,0,1
-com,"Rangers pitcher Mason Tobin left the game due to an injured elbow"
 play,6,0,bourp001,32,.BCBFB>X,S7/L.2-H(RBI);1-H(NR)(E7)(UR);B-H(NR)(UR)
 play,6,0,iztum001,32,BBFFBFB,W
 play,6,0,kendh001,21,*BCBX,64(1)3/GDP
@@ -1367,8 +1362,6 @@ play,3,0,penab002,32,CBCFBBB,W
 play,3,0,escoa003,11,BSX,13/SH/BG.1-2
 play,3,0,getzc001,20,BBX,S7/F-.2-3
 play,3,0,cabrm002,00,X,46(1)3/G/DP
-com,"$runner Chris Getz slid into SS Elvis Andrus well off the bag; the throw by Andrus to"
-com,"first was very wide; Getz was called for interfering with Andrus; a run would have scored"
 play,3,1,kinsi001,01,CX,D7/F
 play,3,1,andre001,00,X,53/SH/BG.2-3
 play,3,1,younm003,22,BFF*BX,T8/F.3-H
@@ -1714,8 +1707,6 @@ sub,tomkb001,"Brett Tomko",1,0,1
 play,8,0,gorda001,12,.CBSX,S9/F
 play,8,0,butlb003,32,BCBFBFFFFX,64(1)3/GDP
 play,8,0,franj004,22,BBCFC,K
-com,"ej,franj004,P,knigb901,Called third strike"
-com,"Royals right fielder Jeff Francoeur ejected by HP umpire Brian Knight"
 play,8,1,blana001,00,,NP
 sub,maiem001,"Mitch Maier",0,5,9
 play,8,1,blana001,02,..CFX,8/F
@@ -2341,13 +2332,6 @@ play,9,0,pattc001,00,X,S1/BG.3-H;1-2
 play,9,0,bautj002,31,BFBBB,W.2-3;1-2
 play,9,0,linda001,02,SSS,K
 play,9,0,rivej001,00,X,E5/G.3-H(UR)(NR);2-H(E1/TH2)(UR);1-2
-com,"$after Adrian Beltre fumbled the grounder and all runners advanced one base,"
-com,"he threw the ball back to pitcher Darren Oliver, who was standing on the 3B"
-com,"side of the mound; as Oliver turned towards the mound, Jose Bautista ran"
-com,"towards third since there was no Ranger covering the bag; however, he failed"
-com,"to notice his teammate, Corey Patterson, standing at third; Bautista stopped"
-com,"halfway to third and tried to return to second; Oliver ran towards Bautista"
-com,"and then threw wildly to second, allowing Patterson to score"
 play,9,0,encae001,32,BBCFB>X,8/F
 play,9,1,napom001,00,,NP
 sub,escoy001,"Yunel Escobar",0,1,6
@@ -2780,9 +2764,6 @@ play,7,1,murpd005,12,BCCFC,K
 play,8,0,swisn001,00,,NP
 sub,epplc001,"Cody Eppley",1,0,1
 play,8,0,swisn001,00,.X,S3/G
-com,"$Nick Swisher was called safe because 1B umpire Andy Fletcher ruled that Rangers 1B"
-com,"Mike Napoli missed the bag in his race to beat Swisher; replays showed that Swisher"
-com,"also missed the bag; the Rangers argued the call to no avail"
 play,8,0,posaj001,20,BBX,S9/G.1-2
 play,8,0,gardb001,00,X,S8/L.2-3;1-2
 play,8,0,cervf001,32,BCBCFFBX,HR/8/F.3-H;2-H;1-H
@@ -2797,9 +2778,6 @@ play,8,0,swisn001,12,BFCX,5/P!5F
 play,8,1,torry001,00,,NP
 sub,sorir001,"Rafael Soriano",0,0,1
 play,8,1,torry001,22,.BCCFBX,7/F
-com,"ej,torry001,P,fleta901,Call at 1B in previous inning"
-com,"$Rangers catcher Yorvit Torrealba said something to 1B umpire Andy Fletcher as he ran by"
-com,"and was immediately ejected by Fletcher"
 play,8,1,gentc001,02,.CFX,S9/F
 play,8,1,borbj001,11,BCX,46(1)3/GDP
 play,9,0,posaj001,00,,NP
@@ -2812,7 +2790,6 @@ play,9,0,posaj001,00,,NP
 sub,morem001,"Mitch Moreland",1,9,9
 play,9,0,posaj001,00,,NP
 sub,nunee002,"Eduardo Nunez",0,7,11
-com,"Rangers center fielder Julio Borbon left the game due to an injured leg"
 play,9,0,nunee002,01,.....CX,9/F
 play,9,0,gardb001,12,BCCX,S2/G
 play,9,0,cervf001,00,X,53/G.1-2
@@ -3223,7 +3200,6 @@ play,7,0,trumm001,00,,NP
 sub,gentc001,"Craig Gentry",1,1,8
 play,7,0,trumm001,00,,NP
 sub,epplc001,"Cody Eppley",1,0,1
-com,"Rangers center fielder Julio Borbon left the game due to an injured leg"
 play,7,0,trumm001,21,..BBCX,43/G.2-3
 play,7,0,bourp001,11,SBX,4/P
 play,7,1,torry001,00,,NP
@@ -3381,7 +3357,6 @@ play,8,1,kinsi001,31,BCBBX,D7/G
 play,8,1,younm003,00,,NP
 sub,rodnf001,"Fernando Rodney",0,0,1
 play,8,1,younm003,20,.BBX,E6/G.2-H(NR)(UR)
-com,"originally scored as single, changed to error and no RBI on 5-27"
 play,8,1,morem001,00,,NP
 sub,downs001,"Scott Downs",0,0,1
 play,8,1,morem001,22,.CFBBX,4!6(1)/FO/G
@@ -4448,11 +4423,6 @@ play,5,1,napom001,12,BCFX,HR/8/F
 play,5,1,torry001,22,FBSFFBS,K
 play,5,1,gentc001,22,CFBBFX,7/F
 play,5,1,kinsi001,02,CCS,K
-com,"kinsi001,P,estam901,Balls and strikes (slammed bat down)"
-com,"$HP umpire Mike Estabrook called the check swing on Ian Kinsler for strike three; Kinsler"
-com,"said something as he walked across the plate; a couple of steps later, he slammed his bat"
-com,"down and was ejected by Estabrook; Kinsler did not know he was ejected and started to walk"
-com,"out to the infield"
 play,6,0,butlb003,00,,NP
 sub,andre001,"Elvis Andrus",1,1,6
 play,6,0,butlb003,00,,NP
@@ -4920,7 +4890,6 @@ play,3,1,torry001,10,BX,S7/L
 play,3,1,davic003,02,CSX,S9/L.1-2
 play,3,1,andre001,20,B*BX,S7/G.2-3;1-2
 play,3,1,gentc001,22,CBSBX,E5/THH/FO/G.3-H(NR)(UR);2-H(NR);1-3;B-2(THH)
-com,"$Don Kelly's throw home sailed over the head of catcher Victor Martinez"
 play,3,1,hamij003,11,BSX,D9/L.3-H;2-H
 play,3,1,younm003,02,FCX,8/F
 play,3,1,belta001,31,BTBBB,W
@@ -5542,7 +5511,6 @@ play,4,1,hamij003,11,S11B>S,SB2
 play,4,1,hamij003,32,S11B>S.BBFX,7/F
 play,5,0,paulr001,00,,NP
 sub,blana001,"Andres Blanco",1,2,6
-com,"Rangers shortstop Elvis Andrus left the game due to an injured wrist"
 play,5,0,paulr001,32,.FBBBFX,D8/F
 play,5,0,pagaa001,22,F*BF*BX,9/F-
 play,5,0,murpd006,22,CFF*BBFX,S3/G.2-3
@@ -5666,7 +5634,6 @@ play,2,0,tejar001,02,CSX,4/P
 play,2,0,reyej001,21,CBBX,8/F
 play,2,1,younm003,11,CBX,S9/G
 play,2,1,cruzn002,32,SBC*BBBFS,K
-com,"$Cruz drew ball 4 but did not take his base, then struck out"
 play,2,1,torry001,22,BSCBX,53/G-.1-2
 play,2,1,murpd005,22,CFBFF*BT,K
 play,3,0,harrw001,32,BBCSBX,E5/G.B-1
@@ -5853,12 +5820,6 @@ play,5,1,morem001,10,BX,36(1)/FO/G.2-3
 play,5,1,murpd005,20,BBX,8/F
 play,6,0,paulr001,21,CBBX,D8/L
 play,6,0,murpd006,32,CBBSBX,D7/F.2-H
-com,"ej,andre001,P,fleta901,Balls and strikes (Not in the game)"
-com,"ej,washr001,M,fleta901,Balls and strikes"
-com,"Rangers shortstop Elvis Andrus ejected from the bench by HP umpire Andy Fletcher;"
-com,"Andrus was not in the game due to a sprained left wrist; the Rangers were yelling"
-com,"at Fletcher while pitching coach Mike Maddux was making a mound visit; Rangers"
-com,"manager Ron Washington ran onto the field and was immediately ejected by Fletcher"
 play,6,0,pagaa001,11,..BCX,8/F
 play,6,0,tejar001,11,CBX,S9/L.2-H
 play,6,0,reyej001,21,BCBX,53/G.1-2
@@ -6357,11 +6318,6 @@ play,7,1,morem001,00,,NP
 sub,dunnm002,"Michael Dunn",0,0,1
 play,7,1,morem001,00,.X,8/F
 play,7,1,torry001,00,1,CS2(136)
-com,"ej,pettg001,C,herna901,Arguing for balk call"
-com,"ej,washr001,M,herna901,Arguing for balk call"
-com,"$1B coach Gary Pettis argued with 1B umpire Angel Hernandez that pitcher Michael Dunn"
-com,"balked when throwing to 1B on the pickoff; Pettis was ejected by Hernandez; Rangers"
-com,"manager Ron Washington came out, continued the argument and was ejected by Hernandez"
 play,7,1,torry001,22,1...CBBFFC,K
 play,8,0,peteb001,12,CFBX,D8/F
 play,8,0,bonie001,00,X,53/SH/BG.2-3
@@ -6370,7 +6326,6 @@ sub,lowem002,"Mark Lowe",1,0,1
 play,8,0,infao001,21,.BCBX,53/G
 play,8,0,sancg001,31,BBBCB,W
 play,8,0,ramih003,01,1CX,S6/G.3-H;1-2
-com,"originally scored as E6, changed to hit 4 days later"
 play,8,0,morrl001,00,,NP
 sub,olivd001,"Darren Oliver",1,0,1
 play,8,0,morrl001,21,.CBBX,D9/L.2-H;1-H
@@ -7219,7 +7174,6 @@ play,2,0,willj004,11,SBX,63/G
 play,2,1,younm003,12,BCTS,K
 play,2,1,cruzn002,11,SBX,8/F
 play,2,1,morem001,01,CX,E4/G+
-com,"originally scored as single, changed 10 days later"
 play,2,1,torry001,10,BX,D8/F.1-H(UR)
 play,2,1,chave002,12,BCSX,13/G-
 play,3,0,sizes001,12,CBCS,K
@@ -7823,7 +7777,6 @@ play,6,0,linda001,01,FX,8/F.2-3
 play,6,0,encae001,12,CFBX,D8/F.3-H
 play,6,0,snidt001,00,X,D9/G.2-H
 play,6,0,hilla001,11,BCX,31/G
-com,"$Blue Jays 3B Jose Bautista played in short RF while Mitch Moreland batted"
 play,6,1,morem001,31,BBSBX,5/L9S
 play,6,1,kinsi001,00,X,7/F
 play,6,1,andre001,30,BBBB,W
@@ -8618,7 +8571,6 @@ play,5,1,younm003,21,CBBX,53/G
 play,5,1,cruzn002,12,BFFS,K
 play,6,0,duncs001,00,,NP
 sub,tatey001,"Yoshinori Tateyama",1,0,1
-com,"Rangers pitcher Scott Feldman left the game due to an injured hand"
 play,6,0,duncs001,02,.CFX,S7/L
 play,6,0,keara001,00,X,5/L+
 play,6,0,donaj002,11,CB>S,CS2(24)
@@ -8955,7 +8907,6 @@ play,7,0,duncs001,00,X,53/G
 play,7,1,andre001,31,CBBBX,63/G
 play,7,1,hamij003,20,BBX,7/F
 play,7,1,younm003,02,FFFX,S5/G
-com,"$Michael Young's 2000th hit"
 play,7,1,cruzn002,01,FX,53/G
 play,8,0,carre001,10,BX,43/G
 play,8,0,branm003,22,CSFFBBX,HR/9/F
@@ -9714,9 +9665,6 @@ play,8,0,ellsj001,00,X,34/G
 play,8,0,scutm001,00,,NP
 sub,lowem002,"Mark Lowe",1,0,1
 play,8,0,scutm001,12,.CCBFFFX,D7/F.3-H;2-H
-com,"$Marco Scutaro's fly ball hit the top of the padded LF wall and caromed back onto the"
-com,"field; Boston manager Terry Francona asked 3B umpire Paul Nauert about the call so"
-com,"crew chief Dana DeMuth watched the replay and upheld the call"
 play,8,0,gonza003,30,IIII,IW
 play,8,0,pedrd001,32,BBCFB>X,D7/F.2-H;1-H
 play,8,0,reddj001,11,FBX,3/G
@@ -10449,7 +10397,6 @@ play,6,0,aybae001,12,CFFFBX,63/G
 play,6,1,cruzn002,12,BCSX,D9/F
 play,6,1,napom001,00,,NP
 sub,gentc001,"Craig Gentry",1,5,12
-com,"Rangers right fielder Nelson Cruz left the game due to an injured leg"
 play,6,1,napom001,31,.BBCBB,W
 play,6,1,morem001,32,FBFBBS,K
 play,6,1,torry001,10,BX,6(1)3/GDP
@@ -11001,7 +10948,6 @@ play,1,0,alleb001,02,CFS,K
 play,1,1,kinsi001,31,BBCBB,W
 play,1,1,andre001,00,X,53/G.1-2
 play,1,1,younm003,02,FFFX,S1/G.2-3
-com,"originally scored E1, changed to single on 9-13, changes ER"
 play,1,1,belta001,11,BCX,D7/L.3-H;1-3
 play,1,1,murpd005,22,CBFFBFFX,8/SF/L.3-H
 play,1,1,napom001,12,CBCS,K
@@ -11807,7 +11753,6 @@ play,2,0,chisl001,32,BCBBST,K
 play,2,0,marsl001,32,CCBBB>S,K
 play,2,1,younm003,00,,NP
 sub,carre001,"Ezequiel Carrera",0,3,9
-com,"Indians right fielder Shin-Soo Choo left the game due to an injured side"
 play,2,1,younm003,32,.BFBBFB,W
 play,2,1,belta001,31,BBCBB,W.1-2
 play,2,1,murpd005,12,BCFX,43/G.2-3;1-2
@@ -12127,7 +12072,6 @@ play,4,1,murpd005,01,SX,S8/G.3-H;2-H;1-2
 play,4,1,younm003,00,X,S15/L.2-3;1-2
 play,4,1,morem001,00,,NP
 sub,grayj002,"Jeff Gray",0,0,1
-com,"Mariners pitcher Felix Hernandez left the game due to an injured arm"
 play,4,1,morem001,10,.BX,E1/TH2/FO/G.3-H(UR)(NR);2-H(UR);1-3
 play,4,1,tream001,12,FFFBT,K
 play,4,1,martl004,21,BFBX,13/G

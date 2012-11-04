@@ -400,7 +400,6 @@ play,6,1,ramia003,12,FB.FS,K
 play,7,0,marsl001,00,,NP
 sub,sants001,"Sergio Santos",1,0,1
 play,7,0,marsl001,12,.SBSX,9/L
-com,"Debut game for Sergio Santos"
 play,7,0,branm003,22,BCBFT,K
 play,7,0,cabra002,12,CBSX,43/G
 play,7,1,pierj002,30,BBBB,W
@@ -539,7 +538,6 @@ play,2,1,riosa002,22,BSBSX,3/P3F
 play,2,1,vizqo001,12,1CB11>FX,54(1)/FO/G
 play,2,1,ramia003,11,SB1,POCS2(134)
 play,3,0,buted001,22,CBBFC,K
-com,"Debut game for Drew Butera"
 play,3,0,spand001,01,CX,63/G
 play,3,0,hudso001,12,CBFS,K
 play,3,1,ramia003,12,SBSFX,S12/G-
@@ -1474,7 +1472,6 @@ play,4,0,byrne001,11,BFX,D7/G
 play,4,0,moora001,11,BCX,43/G.2-3
 play,4,0,wilsj002,00,,NP
 sub,tuiam001,"Matt Tuiasosopo",0,9,11
-com,"Mariners shortstop Jack Wilson left the game due to an injured hand"
 play,4,0,tuiam001,12,.BSCS,K
 play,4,0,suzui001,11,CBX,7/F
 play,4,1,quenc001,00,,NP
@@ -1667,11 +1664,6 @@ play,9,0,grifk002,32,BB1S1>C.BFB,W
 play,9,0,kotcc001,00,,NP
 sub,wilsj002,"Jack Wilson",0,5,12
 play,9,0,kotcc001,00,.X,DGR9.2-H;1-H
-com,"ej,guilo001,M,culbf901,Runner advance on fan interference"
-com,"$the ball rolled down the RF line in foul territory and was picked up by"
-com,"a fan; 3B umpire Fieldin Culbreth ruled that Jack Wilson would have scored"
-com,"from 1B without the fan interference; White Sox Manager Ozzie Guillen"
-com,"objected to the ruling and was ejected by Culbreth"
 play,9,0,byrne001,01,.FX,63/G
 play,9,1,jonea002,00,,NP
 sub,aardd001,"David Aardsma",0,0,1
@@ -4170,7 +4162,6 @@ play,6,1,ramia003,30,BBBB,W
 play,6,1,beckg001,00,,NP
 sub,herrf001,"Frank Herrmann",0,0,1
 play,6,1,beckg001,00,.X,7/F
-com,"Debut game for Frank Herrmann"
 play,7,0,keara001,10,BX,S8/L
 play,7,0,branr001,32,BBS>FB>B,W.1-2
 play,7,0,peraj001,22,BFBFFB,WP.2-3;1-2
@@ -4484,7 +4475,6 @@ play,6,1,piera001,00,,NP
 sub,donaj002,"Jason Donald",0,6,6
 play,6,1,piera001,00,,NP
 sub,valbl001,"Luis Valbuena",0,7,4
-com,"Indians first baseman Mark Grudzielanek left the game due to an injured leg"
 play,6,1,piera001,32,...BBBCCX,5/P5F
 play,6,1,ramia003,12,BCLX,S9/L-
 play,6,1,beckg001,00,1>S,CS2(24)
@@ -5043,9 +5033,6 @@ play,4,0,infao001,12,BFFFS,K
 play,4,1,pierj002,22,BCFBX,9/F
 play,4,1,vizqo001,21,BBCX,7/L
 play,4,1,riosa002,22,CCBBX,S5/G
-com,"$the hard grounder bounced up into 3B Brooks Conrad's chest and went"
-com,"inside his shirt where it remained; Conrad felt it hit his chest and"
-com,"then could not find the baseball"
 play,4,1,konep001,22,1B1BC1S>F>X,S8/F.1-2
 play,4,1,quenc001,00,X,HR/7/F.2-H;1-H
 play,4,1,kotsm001,00,X,D9/L
@@ -5226,8 +5213,6 @@ sub,saitt001,"Takashi Saito",0,0,1
 play,8,1,pierj002,12,.BCCFFX,63/G
 play,8,1,vizqo001,32,CFBBBFB,W
 play,8,1,riosa002,12,1BCTC,K
-com,"ej,riosa002,P,fleta901,Called third strike"
-com,"White Sox center fielder Alex Rios ejected by HP umpire Andy Fletcher"
 play,8,1,konep001,22,.1BCBFS,K
 play,9,0,cabrm002,00,,NP
 sub,jonea002,"Andruw Jones",1,3,8
@@ -5423,14 +5408,6 @@ play,1,1,konep001,00,2X,S7/G.2-3
 play,1,1,quenc001,02,CFX,HR/7/L.3-H;1-H
 play,1,1,kotsm001,32,FBBBCC,K
 play,1,1,piera001,01,CX,31/G
-com,"$between innings, Carlos Zambrano tossed a Gatorade cooler and got"
-com,"in the face of 1B Derrek Lee; apparently, Zambrano was upset that"
-com,"Lee did not field the ball hit by Juan Pierre to start the inning;"
-com,"Cubs manager Lou Piniella had to separate the two players; he told"
-com,"Zambrano to go home; the Cubs suspended Zambrano after the game,"
-com,"with GM Jim Hendry saying: 'we'll play with 24 before we tolerate"
-com,"that kind of behavior'; Lee was playing in with Pierre at bat in"
-com,"case Pierre bunted the ball"
 play,2,0,lee-d002,22,BCCFBS,K
 play,2,0,ramia001,02,FSFS,K
 play,2,0,soria001,22,CFBBC,K
@@ -5703,12 +5680,6 @@ play,2,0,ramia001,10,BX,9/F
 play,2,0,soria001,00,X,9/F
 play,2,1,ramia003,22,BBFSX,S5/G
 play,2,1,beckg001,02,L1F>S,K/DP/INT.1X1(2)
-com,"$Gordon Beckham moved into the plate area on his follow through"
-com,"and catcher Geovany Soto collided with him trying to throw out"
-com,"Alexei Ramirez at 2B; Beckham was called for interference and"
-com,"Ramirez was out; Ramirez did not believe he was out since he"
-com,"stole 2B successfully and it took a little coaxing from 2B"
-com,"umpire Paul Emmel to get Ramirez to leave the field"
 play,2,1,pierj002,32,CFFBFBB*B,W
 play,2,1,vizqo001,12,1CFB>P,SB2
 play,2,1,vizqo001,22,1CFB>P.FX,63/G
@@ -6006,7 +5977,6 @@ play,2,0,matsh001,31,11BB1SB1X,9/F
 play,2,0,napom001,01,1F1S,CS2(14)
 play,2,0,napom001,32,1F1S.>BBFB,NP
 sub,penat003,"Tony Pena",1,0,1
-com,"White Sox pitcher Jake Peavy left the game due to an injured back"
 play,2,0,napom001,32,1F1S.>BBFB.B,W
 play,2,0,rivej001,12,SBC1>X,S5/G-.1-2
 play,2,0,frank001,01,FX,8/F
@@ -6215,9 +6185,6 @@ play,8,0,kendh001,20,BB>B,SB2
 play,8,0,kendh001,32,BB>B.CSFH,HP
 play,8,0,abreb001,02,CFC,K
 play,8,0,huntt001,12,CTF*BFX,E5/L.2-H(E6/TH2)(UR);1-2
-com,"$the liner hit Omar Vizquel's glove and caromed towards SS Alexei"
-com,"Ramirez, who threw a bouncer to 2B; when 2B Gordon Beckham was not"
-com,"able to field the throw, Erick Aybar scored from 3B"
 play,8,0,matsh001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
 play,8,0,matsh001,22,.BFFBX,8/F
@@ -6485,7 +6452,6 @@ play,8,1,jonea002,11,.CBX,7/F
 play,9,0,bloow001,00,,NP
 sub,marqj002,"Jeffrey Marquez",1,0,1
 play,9,0,bloow001,22,..CFFBBX,63/G
-com,"Debut game for Jeffrey Marquez"
 play,9,0,maiem001,22,BFFBX,S9/L
 play,9,0,betay001,01,CX,HR/7/F.1-H
 play,9,0,podss001,00,X,13/G
@@ -6594,7 +6560,6 @@ play,6,0,dejed001,00,X,5/P5F
 play,6,1,jonea002,11,BFX,5/L+
 play,6,1,ramia003,12,FBFX,63/G
 play,6,1,beckg001,32,CBFFBFBBFFX,7/F
-com,"$Batter received 4 balls but stayed at plate for 3 more pitches"
 play,7,0,butlb003,32,SFBBBX,53/G
 play,7,0,guilj001,00,,NP
 sub,betew001,"Wilson Betemit",0,5,11
@@ -6872,7 +6837,6 @@ play,3,0,suzui001,20,1BBX,4/P
 play,3,0,figgc001,00,X,2/BP2F
 play,3,1,piera001,11,BCX,4/P
 play,3,1,ramia003,00,X,E5/G+
-com,"originally scored as S5, changed on 8-09, makes two runs UR"
 play,3,1,beckg001,11,11BF1>X,8/F
 play,3,1,pierj002,11,B1F>B,SB2
 play,3,1,pierj002,21,B1F>B.X,S8/G+.2-H(UR);B-2(THH)
@@ -7011,7 +6975,6 @@ play,2,1,beckg001,00,,NP
 sub,wilsj002,"Jack Wilson",0,4,6
 play,2,1,beckg001,00,,NP
 sub,wilsj003,"Josh Wilson",0,7,5
-com,"Mariners third baseman Jose Lopez left the game due to an injured leg"
 play,2,1,beckg001,11,..BFX,D8/F
 play,2,1,pierj002,10,BX,53/SH/BG.2-3
 play,2,1,ramia003,10,BX,HR/8/F.3-H
@@ -7142,8 +7105,6 @@ play,1,0,wilsj003,12,BFFC,K
 play,1,1,pierj002,31,BBBCB,W
 play,1,1,ramia003,22,BBCC>X,63/G.1-2
 play,1,1,riosa002,02,2CCX,S8/L.2-H
-com,"$a foul ball by Paul Konerko struck HP umpire Brian Runge on his mask;"
-com,"although he was a little wobbly, Runge stayed in the game another inning"
 play,1,1,konep001,32,BBCFF1FB>X,8/F
 play,1,1,quenc001,12,1CTBFS,K
 play,2,0,saunm001,22,FCBBFFT,K
@@ -7158,11 +7119,6 @@ play,2,1,beckg001,11,FBX,HR/9/F.2-H
 play,2,1,pierj002,10,BX,S6/G
 play,2,1,ramia003,02,CCX,S7/G.1-2
 play,2,1,riosa002,32,BCBSB>X,3/P
-com,"umpchange,3,umphome,wendh902"
-com,"umpchange,3,ump2b,(None)"
-com,"$HP umpire Brian Runge left the game and was taken to the hospital"
-com,"for evaluation due to the foul ball off his mask in the first inning"
-com,"there was a ten-minute delay while Wendelstedt changed into his plate gear"
 play,3,0,branr001,22,BSBSS,K
 play,3,0,smoaj001,00,X,6!3/G
 play,3,0,bardj001,10,BX,S8/F
@@ -7438,7 +7394,6 @@ start,jonea002,"Andruw Jones",1,8,9
 start,beckg001,"Gordon Beckham",1,9,4
 start,harrl002,"Lucas Harrell",1,0,1
 play,1,0,crisc001,22,BCBFX,S5/G
-com,"Debut game for Lucas Harrell"
 play,1,0,bartd001,22,1C1BFB1X,3(B)6(1)/GDP
 play,1,0,suzuk001,31,BFBBX,S8/G+
 play,1,0,custj001,32,CBB*BF>B,W.1-2
@@ -8223,7 +8178,6 @@ play,9,0,spand001,31,CBBBX,S8/G+
 play,9,0,hudso001,30,BB*BB,W.1-2
 play,9,0,mauej001,00,,NP
 sub,lines001,"Scott Linebrink",1,0,1
-com,"White Sox pitcher Bobby Jenks left the game due to an injured back"
 play,9,0,mauej001,31,.BCBBX,3/G+.2-3;1-2
 play,9,0,kubej002,01,F.X,8/F
 play,9,1,pierj002,00,,NP
@@ -8581,12 +8535,6 @@ play,1,1,pierj002,01,CX,31/G
 play,1,1,ramia003,12,CBSS,K
 play,1,1,konep001,12,BFFX,S7/L
 play,1,1,quenc001,20,BBX,5/P5F
-com,"$Tigers pitcher Armando Galarraga ran into the dugout and confronted catcher"
-com,"Alex Avila; Galarraga pointed and yelled at Avila, who then yelled back;"
-com,"Gerald Laird got in between them and started verbally defending his fellow"
-com,"catcher; he and Galarraga had words; coach Lloyd McClendon held back"
-com,"Galarraga as the latter threw a punch at Laird; other players, including"
-com,"Johnny Damon, separated the two"
 play,2,0,peraj001,12,SCBX,43/G
 play,2,0,rabur001,22,CSBFBC,K
 play,2,0,avila001,02,CSFS,K
@@ -8597,7 +8545,6 @@ play,2,1,jonea002,20,BBX,9/F
 play,3,0,santr002,32,BCCBBFX,63/G
 play,3,0,jacka001,01,CX,S9/G
 play,3,0,damoj001,21,1PB1F1X,DGR/9/L.1-3
-com,"fan interference"
 play,3,0,boesb001,00,X,6/P
 play,3,0,cabrm001,30,IIII,IW
 play,3,0,guilc001,32,BFBBC>X,S4/G.3-H;2-H;1-3
@@ -8645,9 +8592,6 @@ play,6,1,pierj002,12,CBFFX,43/G
 play,6,1,ramia003,02,CFX,S9/L.3-H
 play,6,1,konep001,00,1>X,HR/78/F.1-H
 play,6,1,quenc001,12,BSFS,K
-com,"ej,coopd001,C,nelsj901,Balls and strikes"
-com,"White Sox Pitching Coach Don Cooper ejected by HP umpire Jeff Nelson"
-com,"for yelling about balls and strikes from the dugout"
 play,7,0,damoj001,22,CB.FBFS,K
 play,7,0,boesb001,00,,NP
 sub,frazj001,"Jeff Frazier",0,3,11
@@ -8800,7 +8744,6 @@ play,4,1,riosa002,00,,NP
 sub,pattc001,"Corey Patterson",0,5,7
 play,4,1,riosa002,00,,NP
 sub,pie-f001,"Felix Pie",0,6,8
-com,"Orioles center fielder Adam Jones left the game due to an injured shoulder"
 play,4,1,riosa002,11,..CBX,S8/G
 play,4,1,konep001,20,BBX,S7/G.1-3
 play,4,1,quenc001,10,BX,64(1)3/GDP.3-H(NR)
@@ -8865,7 +8808,6 @@ play,9,0,wiggt001,00,,NP
 sub,putzj001,"J.J. Putz",1,0,1
 play,9,0,wiggt001,30,*B*BB,NP
 sub,jenkb001,"Bobby Jenks",1,0,1
-com,"$Putz hurt knee and left after throwing 3 pitches to Wigginton"
 play,9,0,wiggt001,32,.*B*BB.FFFX,14(1)3/GDP.3-H(NR)
 play,9,0,scotl001,22,BSFFFBX,8/F
 data,er,guthj001,6
@@ -9114,7 +9056,6 @@ play,6,1,konep001,12,CBCX,S7/L.1-2
 play,6,1,quenc001,22,BBFSFX,54(1)3/GDP
 play,7,0,wiggt001,00,,NP
 sub,lillb001,"Brent Lillibridge",1,2,5
-com,"White Sox third baseman Omar Vizquel left the game due to an injured chest"
 play,7,0,wiggt001,12,.BFFX,53/G
 play,7,0,pie-f001,20,BBX,S8/G+
 play,7,0,wietm001,00,1X,7/F
@@ -9196,7 +9137,6 @@ play,1,0,jeted001,02,SFX,63/G.3-H(UR)
 play,1,0,teixm001,31,CBBBX,5/P-
 play,1,0,canor001,20,BBX,43/G-
 play,1,1,pierj002,11,CBX,DGR/9
-com,"fan interference"
 play,1,1,vizqo001,31,BBBCX,S9/G.2-H
 play,1,1,riosa002,12,BCF>B,SB2
 play,1,1,riosa002,22,BCF>B.C,K
@@ -9353,7 +9293,6 @@ play,2,1,beckg001,02,CFX,3/G
 play,3,0,swisn001,21,BCBX,63/G
 play,3,0,teixm001,00,,NP
 sub,granc001,"Curtis Granderson",0,3,11
-com,"Yankees first baseman Mark Teixeira left the game due to an injured hand"
 play,3,0,granc001,12,.CBTS,K
 play,3,0,canor001,00,X,S8/G
 play,3,0,thamm001,02,SSX,HR/7/F.1-H
@@ -9605,9 +9544,6 @@ sub,kotsm001,"Mark Kotsay",1,4,3
 play,9,0,nunee002,11,.CBX,43/G
 play,9,0,cervf001,11,BCX,S7/G
 play,9,0,gardb001,22,CFBF1BFX,46(1)/FO/G
-com,"ej,guilo001,M,davib902,Call at 1B"
-com,"$Brett Gardner beat the relay throw on a close call at first; White Sox Manager"
-com,"Ozzie Guillen argued the call and was ejected by 1B umpire Bob Davidson"
 play,9,0,jeted001,11,.C11P1>B,SB2
 play,9,0,jeted001,21,.C11P1>B.X,3!1/G
 play,9,1,teahm001,00,,NP
@@ -9686,7 +9622,6 @@ play,1,1,riosa002,10,BX,13/G
 play,2,0,betew001,12,CBCS,K
 play,2,0,penab002,01,CX,S8/G
 play,2,0,millj004,20,BBX,S6/L.1-2
-com,"originally scored E6 changed to single next day"
 play,2,0,bloow001,01,CX,3/P3F
 play,2,0,betay001,32,C*BFB*B>B,W.2-3;1-2
 play,2,0,blang001,22,BBFFX,43/G
@@ -9713,10 +9648,6 @@ play,4,1,ramim002,20,BBX,53/G
 play,4,1,piera001,22,BTBSX,8/F
 play,5,0,blang001,32,CBBFBB,W
 play,5,0,avilm001,01,C+11N,BK.1-2
-com,"ej,guilo001,M,herna001,Balk call"
-com,"$HP umpire Angel Hernandez called the balk on White Sox pitcher Mark Buehrle"
-com,"which prompted White Sox manager Ozzie Guillen to storm out of the dugout;"
-com,"Guillen threw a temper tamtrum on the field and was ejected by Hernandez"
 play,5,0,avilm001,02,C+11N..LFX,3/P3F
 play,5,0,butlb003,22,FFBBFFX,63/G
 play,5,0,fielj001,10,BX,63/G
@@ -10037,7 +9968,6 @@ play,5,0,getzc001,32,C1B1>P.CBX,S8/L
 play,5,0,betay001,01,1T>B,SB2
 play,5,0,betay001,00,,NP
 sub,avilm001,"Mike Aviles",0,8,12
-com,"Royals second baseman Chris Getz left the game due to an injured head"
 play,5,0,betay001,11,1T>B..B,WP.2-3
 play,5,0,betay001,31,1T>B..B.*B*B,W
 play,5,0,blang001,00,,NP
@@ -10390,7 +10320,6 @@ play,5,0,mauej001,10,BX,HR/9/F.3-H;1-H
 play,5,0,kubej002,02,FFFS,K
 play,5,1,beckg001,00,,NP
 sub,repkj001,"Jason Repko",0,4,9
-com,"Twins Jason Kubel left the game due to an injured wrist"
 play,5,1,beckg001,10,.BX,9/F
 play,5,1,pierj002,02,CCX,D7/G
 play,5,1,ramia003,00,X,13/G-
@@ -11273,7 +11202,6 @@ play,8,1,pierj002,01,.CX,23/G
 play,8,1,vizqo001,12,CSBFFC,K
 play,8,1,riosa002,11,BF,NP
 sub,deaza001,"Alejandro De Aza",1,3,11
-com,"$Alex Rios fouled the ball off his left knee"
 play,8,1,deaza001,11,BF.X,3/G
 play,9,0,mcdod002,00,,NP
 sub,deaza001,"Alejandro De Aza",1,3,8
@@ -11554,7 +11482,6 @@ play,5,0,lowem001,00,,NP
 sub,lillb001,"Brent Lillibridge",1,3,8
 play,5,0,lowem001,00,,NP
 sub,deaza001,"Alejandro De Aza",1,9,9
-com,"White Sox right fielder Carlos Quentin left the game due to an injured ankle"
 play,5,0,lowem001,22,..BBFFFX,9/F
 play,5,0,lowrj001,20,BBX,7/F
 play,5,0,kalir001,10,BX,63/G
@@ -11735,9 +11662,6 @@ play,6,1,konep001,00,,NP
 sub,coelr001,"Robert Coello",0,0,1
 play,6,1,konep001,22,....CBFFBX,8/F
 play,6,1,jonea002,30,BBBB,W
-com,"$before the 3-2 pitch to Ramon Castro, the lights went out at the stadium; the"
-com,"outfield lights, the scoreboard and the councourse lights came back on immediately,"
-com,"but the rest of the lights were out for 21 minutes"
 play,6,1,castr002,32,BBCBFX,7/F
 play,6,1,vicid001,12,SBSS,K
 play,7,0,andel002,00,,NP
@@ -12031,7 +11955,6 @@ play,6,1,teahm001,02,CSFFT,K
 play,6,1,flowt001,12,BCSS,K
 play,6,1,moreb001,12,SSBX,D9/G
 play,6,1,deaza001,12,BFSFFFT,K
-com,"Game called for rain"
 data,er,carrc003,5
 data,er,buehm001,2
 id,CHA201010030

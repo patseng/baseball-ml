@@ -373,9 +373,6 @@ play,3,1,pedrd001,31,BBFBX,S8/G
 play,3,1,gonza003,10,BX,S9/L.1-3
 play,3,1,youkk001,31,BBBCB,W.1-2
 play,3,1,ortid001,00,X,46(1)3/GDP.3-3;2-2
-com,"$Kevin Youkilis ruled out for his slide into second because he was not near the bag but went at SS Derek Jeter;"
-com,"this completed a double play; the ball was dead so the other two runners were returned to 2B and 3B, thus taking"
-com,"a run off the board"
 play,3,1,camem001,11,BFX,S5/G-.3-H;2-3
 play,3,1,drewj001,22,FB1BCS,K
 play,4,0,jeted001,02,CTS,K
@@ -534,7 +531,6 @@ play,4,1,ellsj001,20,BBX,8/L
 play,4,1,scutm001,21,CBBX,43/G+
 play,5,0,zobrb001,02,CCX,43/G
 play,5,0,uptob001,32,CBBFBX,E6/G
-com,"originally scored as S6, changed to E6 two days later"
 play,5,0,lopef001,12,1F>FFP1X,9/F
 play,5,0,jasoj001,21,BB1C>X,D7/F.1-H(UR)
 play,5,0,brigr001,11,SBX,3/L+
@@ -813,11 +809,6 @@ start,buchc001,"Clay Buchholz",1,0,1
 play,1,0,escoy001,30,BBBB,W
 play,1,0,pattc001,32,CB1B1F1BX,8/F+
 play,1,0,bautj002,31,1BBB1CB,W.1-2
-com,"$Adam Lind hit the third pitch down the RF line; the ball hit the top of the fence just to the"
-com,"right of the pole and bounced into the seats to the right of the pole among the fans; one fan"
-com,"made an attempt at catching the ball; the play was ruled fair and a home run but Red Sox RF"
-com,"J.D. Drew immediately signaled that it was not; manager Terry Francona came out to ask about"
-com,"the call; crew chief Dana DeMuth watched the replay and overturned the call to a foul ball"
 play,1,0,linda001,12,*BCFX,43/G.2-3;1-2
 play,1,0,hilla001,22,CBFF*BS,K
 play,1,1,crawc002,01,CX,41/G
@@ -1463,7 +1454,6 @@ play,4,1,pedrd001,22,CBSFBX,6(2)3/GDP
 play,5,0,suzui001,31,BBBCX,S8/G
 play,5,0,figgc001,00,,NP
 sub,albem001,"Matt Albers",1,0,1
-com,"Red Sox pitcher Daisuke Matsuzaka left the game due to tightness in his pitching elbow"
 play,5,0,figgc001,10,.B1X,S7/L.1-2
 play,5,0,bradm001,00,X,36(1)/FO/G.2-H(E1)(UR);B-2
 play,5,0,olivm001,22,CB2S*BX,9/F
@@ -1594,12 +1584,6 @@ play,3,0,suzui001,32,BCCBFBF*B,W
 play,3,0,figgc001,22,B1BCCX,S9/L-.1-3
 play,3,0,bradm001,12,F1CBX,D7/L.3-H;1-3
 play,3,0,olivm001,10,BX,53/G
-com,"ej,bradm001,P,davig901,Call at 1B"
-com,"$Red Sox third baseman Kevin Youkilis fielded the ball, looked at runner Chone Figgins"
-com,"at 3B twice before throwing to 1B; Miguel Olivo was called out on a close play; Mariners"
-com,"manager Eric Wedge came out briefly to argue the call; as Wedge returned to the dugout,"
-com,"Mariners Milton Bradley, who was standing on 2B, started yelling at 1B umpire Todd"
-com,"Tichenor; he was ejected by 2B umpire and crew chief Gerry Davis"
 play,3,0,smoaj001,00,,NP
 sub,langr002,"Ryan Langerhans",0,3,12
 play,3,0,smoaj001,32,..SBFBBX,31/G
@@ -2084,9 +2068,6 @@ play,8,1,ortid001,10,.BX,HR/9/F
 play,8,1,lowrj001,00,X,S9!/L
 play,8,1,drewj001,22,BCBCC,K
 play,8,1,scutm001,20,BBX,HR/78/F.1-H
-com,"$Marco Scutaro's fly to the top of the wall in left-center field was caught by a fan who leaned"
-com,"forward to catch the ball; it was ruled a home run; when the Angels asked about the call, crew"
-com,"chief John Hirschbeck watched the replay and upheld the call"
 play,8,1,crawc002,31,BBBCB,W
 play,8,1,saltj001,02,CSX,16(1)3/GDP
 play,9,0,huntt001,00,,NP
@@ -2539,16 +2520,6 @@ badj,casia001,R
 play,2,0,casia001,12,BCSFS,K
 play,2,0,spand001,12,CBCX,S9/G.3-H;2-H;1-3
 play,2,0,plout001,01,1C1N,BK.3-H;1-2
-com,"ej,frant001,M,herna901,Balk call"
-com,"$Tim Wakefield faked a throw to third and then threw to first, picking off"
-com,"Denard Span and ending the inning; however HP umpire Angel Hernandez called a"
-com,"balk because Wakefield stepped more towards the plate when he faked to third;"
-com,"Red Sox Manager Terry Francona came out to argue and Hernandez told him not to"
-com,"come on the field; Francona said one thing and was ejected by Hernandez;"
-com,"Francona continued arguing, trying to find out the reason for the balk; 3B"
-com,"umpire Joe West tried to intervene by getting between Francona and Hernandez;"
-com,"when West put his hands on Francona, the latter got angry and tried to get by"
-com,"West; eventually, Francona went back to the dugout"
 play,2,0,plout001,01,1C1N..X,S7/L.2-3;B-2(THH)
 play,2,0,mornj001,12,SFF*BX,4/P
 play,2,1,ortid001,00,X,8/F
@@ -2855,9 +2826,6 @@ play,3,1,drewj001,11,SB+2,PO2(E2/TH).2-3
 play,3,1,drewj001,11,SB+2.X,S7/L.3-H;1-2
 play,3,1,lowrj001,22,BCCFFBFX,8/F
 play,4,0,valed001,01,CX,HR/7/F
-com,"$the fly ball by Danny Valencia hit the LF pole and was ruled a homer; Boston manager"
-com,"Terry Francona asked about the ruling, so crew chief Joe West watched the replay and"
-com,"upheld the call"
 play,4,0,reveb001,02,FSX,7/F
 play,4,0,buted001,00,X,7/F
 play,4,0,casia001,22,BFBFS,K23
@@ -3048,12 +3016,6 @@ play,8,0,mornj001,22,.1F>C.FBBS,K
 play,8,1,youkk001,12,.CBFS,K
 play,8,1,ortid001,00,X,13/G
 play,8,1,drewj001,22,CBFFBS,K
-com,"ej,gardr001,M,westj901,Foul tiip call on Valencia"
-com,"$HP umpire Joe West ruled the third pitch to Danny Valencia was a foul tip; Valencia"
-com,"checked his swing on the pitch and backed out of the batter's box; he argued that his"
-com,"bat did not touch the ball; Twins manager Ron Gardenhire came onto the field and was"
-com,"told by West to stay away from the batter's box; when Gardenhire stepped onto the dirt"
-com,"circle, he was ejected by West"
 play,9,0,valed001,22,BFT.BX,3/P
 play,9,0,cuddm001,01,SX,9/F
 play,9,0,reveb001,22,BFFBX,5/L
@@ -3187,7 +3149,6 @@ play,3,0,reynm001,01,CX,9/F
 play,3,0,hardj003,00,X,6/P
 play,3,1,pedrd001,00,,NP
 sub,fox-j001,"Jake Fox",0,3,3
-com,"Orioles first baseman Derrek Lee left the game due to an injured side"
 play,3,1,pedrd001,10,.BX,9/F
 play,3,1,gonza003,12,CFBFX,7/F
 play,3,1,youkk001,10,BX,8/F
@@ -3511,7 +3472,6 @@ play,6,1,gonza003,01,FX,8/F
 play,6,1,youkk001,00,X,9/F
 play,7,0,avila001,00,,NP
 sub,albem001,"Matt Albers",1,0,1
-com,"Red Sox pitcher Josh Beckett left the game due to neck stiffness"
 play,7,0,avila001,02,.CCS,K
 play,7,0,ingeb001,11,CBX,S9/F
 play,7,0,jacka001,32,BB1BCS>X,8/F
@@ -3779,8 +3739,6 @@ play,1,1,youkk001,30,B>B.BB,W
 play,1,1,ortid001,21,BCBX,7/F
 play,2,0,penac001,31,BBBCX,3/G
 play,2,0,byrdm001,12,BCFH,HP
-com,"$Cubs Marlon Byrd was hit on the left side of the face under his eye; he was taken to the"
-com,"hospital for the night; he suffered multiple broken facial bones"
 play,2,0,soria001,00,,NP
 sub,johnr008,"Reed Johnson",0,6,12
 play,2,0,soria001,12,.BCCF1FX,8/F
@@ -3862,10 +3820,6 @@ play,8,0,bakej001,00,..X,D8/F.2-H;1-3
 play,8,0,hillk002,02,CTS,K
 play,8,0,fukuk001,32,CBB*BSB,W
 play,8,0,barnd001,01,CX,9/F.3XH(92E5)(UR);2-H(E7/THH)(UR);1-3
-com,"$the Red Sox had two Cubs runners trapped near 3B; catcher Jason Varitek's high throw was"
-com,"not caught by 3B Kevin Youkilis, scoring Alfonso Soriano; LF Carl Crawford's wild throw"
-com,"allowed Jeff Baker, who was running back to 2B, to score; Kosuke Fukudome ran to 3B"
-com,"when Crawford's throw went to the backstop"
 play,8,0,casts001,02,FFX,D8/F.3-H(UR)
 play,8,0,ramia001,00,X,3/P
 play,8,1,varij001,00,,NP
@@ -3999,7 +3953,6 @@ play,7,0,soria001,00,,NP
 sub,bardd001,"Daniel Bard",1,0,1
 play,7,0,soria001,00,,NP
 sub,campt001,"Tony Campana",0,6,12
-com,"Cubs second baseman Jeff Baker left the game due to an injured groin"
 play,7,0,soria001,22,..BSBFFS,K
 play,7,1,saltj001,00,,NP
 sub,campt001,"Tony Campana",0,6,7
@@ -4813,23 +4766,11 @@ play,9,0,bartd001,32,SFB*BBFFB,W.1-2
 play,9,0,powel001,32,CSB*BBFS,K
 play,9,0,crisc001,00,X,E4/G.2-H(NR);1-3
 play,9,0,pennc001,12,FCFBX,D7/L.3-H;1-3
-com,"ej,varij001,P,randt901,Balls and strikes"
-com,"$as Daric Barton crossed the plate, Red Sox catcher Jason Varitek turned and said something to HP"
-com,"umpire Tony Randazzo, who had been hearing a lot of complaints through the game about the strike zone;"
-com,"Varitek was ejected by Randazzo; pitcher Jonathan Papelbon came in to move Varitek away and Red Sox"
-com,"manager Terry Francona came out to talk with Randazzo"
 play,9,0,laroa002,00,,NP
 sub,saltj001,"Jarrod Saltalamacchia",1,9,2
 play,9,0,laroa002,00,,NP
 sub,jackc002,"Conor Jackson",0,1,11
 play,9,0,jackc002,00,...X,S57/G.3-H(UR);2-H
-com,"ej,papej001,P,randt901,Balls and strikes"
-com,"$after the first pitch to Ryan Sweeney, which seemed to be high and outside, Red Sox pitcher Jonathan Papelbon"
-com,"took the return throw from new catcher Jarrod Saltalamacchia looked at HP umpire Tony Randazzo and, as he turned"
-com,"to walk up the mound, he flipped his hands up; Randazzo came out from behind the plate and removed his mask;"
-com,"catcher Jarrod Saltalamacchia motioned to Randazzo and walked out towards Papelbon; Randazzo said something to"
-com,"Papelbon and the latter got angry; Papelbon ran around Saltalamacchia to Randazzo while gesturing; Red Sox manager"
-com,"Terry Francona pushed Papelbon away from Randazzo, who ejected Papelbon"
 play,9,0,sweer001,00,,NP
 sub,jenkb001,"Bobby Jenks",1,0,1
 play,9,0,sweer001,01,C..1X,S7/F.1-3
@@ -5133,7 +5074,6 @@ play,1,1,ortid001,32,BBC*BS>F>F>F>X,D9/L.1-H
 play,1,1,crawc002,12,BCFX,S5/G.2-3
 play,1,1,scutm001,00,,NP
 sub,mcdod002,"Darnell McDonald",1,6,12
-com,"Red Sox left fielder Carl Crawford left the game due to a left hamstring strain"
 play,1,1,scutm001,02,.FFB,WP.1-2
 play,1,1,scutm001,32,.FFB.*BBB,W
 play,1,1,drewj001,32,FBSFBB>X,43/G
@@ -5144,7 +5084,6 @@ play,2,0,lucrj001,02,CCS,K
 play,2,0,counc001,21,CBBX,63/G
 play,2,1,varij001,00,,NP
 sub,estrm001,"Marco Estrada",0,0,1
-com,"Brewers pitcher Shaun Marcum left the game due to a left hip flexor strain"
 play,2,1,varij001,12,.SSBX,43/G
 play,2,1,ellsj001,10,BX,7/L
 play,2,1,pedrd001,32,CBFBBFB,W
@@ -5168,7 +5107,6 @@ play,4,1,ellsj001,12,CBCX,9/F
 play,4,1,pedrd001,10,BX,6/P
 play,5,0,weekr001,00,,NP
 sub,suttd002,"Drew Sutton",1,4,5
-com,"Red Sox third baseman Kevin Youkilis left the game due to a stomach ailment"
 play,5,0,weekr001,12,.BFSC,K
 play,5,0,morgn001,02,CFX,53/G
 play,5,0,braur002,22,CBBFX,53/G
@@ -5460,7 +5398,6 @@ play,4,0,fielp001,01,CX,63/G
 play,4,0,mcgec001,00,X,53/G
 play,4,1,pedrd001,31,BBCBX,HR/8/F
 play,4,1,gonza003,11,BCX,T8/L
-com,"$the 1000th career hit for Adrian Gonzalez"
 play,4,1,youkk001,00,,NP
 sub,mitrs001,"Sergio Mitre",0,0,1
 play,4,1,youkk001,32,.BBFFBB,W
@@ -6008,7 +5945,6 @@ play,8,1,ortid001,00,,NP
 sub,denoc001,"Chris Denorfia",0,4,7
 play,8,1,ortid001,00,,NP
 sub,adamm001,"Mike Adams",0,0,1
-com,"$Game called for rain"
 data,er,richc002,1
 data,er,friee001,0
 data,er,lackj001,5
@@ -6241,7 +6177,6 @@ play,2,1,ortid001,12,BFCX,D9/L
 play,2,1,mcdod002,00,X,43/G-.2-3
 play,2,1,varij001,00,X,D7/F.3-H
 play,2,1,drewj001,12,CBFFX,E4/G+.2-H(NR)(UR)
-com,"originally scored as single, changed to error on July 21"
 play,2,1,navay001,00,X,6/P
 play,2,1,ellsj001,01,CX,5/P5F
 play,3,0,arenj001,32,BBSFFBB,W
@@ -6260,7 +6195,6 @@ play,4,1,varij001,02,CSFC,K
 play,4,1,drewj001,22,BSCBFX,43/G-
 play,5,0,encae001,00,,NP
 sub,albem001,"Matt Albers",1,0,1
-com,"Red Sox pitcher Jon Lester left the game due to an strained left latissimus muscle"
 play,5,0,encae001,12,.FCBS,K
 play,5,0,snidt001,12,FCBC,K
 play,5,0,arenj001,31,BFBBB,W
@@ -6317,8 +6251,6 @@ play,9,0,encae001,01,CX,S9/L
 play,9,0,snidt001,00,X,7/F
 play,9,0,arenj001,32,BBFBC1>B,W.1-2
 play,9,0,mcdoj003,02,CSX,S7/L-.2XH(72);1-2
-com,"$the Blue Jays thought they had tied the game, but HP umpire Brian Knight called out"
-com,"Edwin Encarnacion to end the game"
 data,er,cecib001,2
 data,er,lestj001,0
 data,er,albem001,0
@@ -6736,7 +6668,6 @@ play,4,1,youkk001,12,BSCFX,3/P3F
 play,4,1,ortid001,10,BX,S1/L+.1-2
 play,4,1,varij001,00,,NP
 sub,jakuc001,"Chris Jakubauskas",0,0,1
-com,"Orioles pitcher Brad Bergesen left the game due to an injured arm"
 play,4,1,varij001,11,.CBX,36(1)/FO/G
 play,5,0,lee-d002,01,CX,HR/7/F
 play,5,0,reynm001,02,FCT,K
@@ -6752,7 +6683,6 @@ play,5,1,navay001,32,BCBFBFB,W
 play,5,1,ellsj001,01,FX,7/F
 play,6,0,wietm001,00,,NP
 sub,albem001,"Matt Albers",1,0,1
-com,"Boston Red Sox pitcher Josh Beckett left the game due to a hyper-extended left knee"
 play,6,0,wietm001,22,.BBTSFX,4/P
 play,6,0,lee-d002,12,BCCT,K
 play,6,0,reynm001,22,BCFBS,K
@@ -6789,25 +6719,7 @@ play,8,1,gonza003,00,,NP
 sub,suttd002,"Drew Sutton",1,3,11
 play,8,1,suttd002,12,.FBCS,K
 play,8,1,reddj001,21,BCBX,T8/F.1-H
-com,"$the first three pitches to David Ortiz were inside; after the third one, Ortiz walked"
-com,"towards the mound talking to pitcher Kevin Gregg; HP umpire Mike Estabrook and catcher"
-com,"Matt Wieters got between the two; both teams came on the field; the umpires huddled and"
-com,"both teams were warned about throwing at batters"
 play,8,1,ortid001,30,BBBX,8/FDP.3XH(82)
-com,"ej,gregk001,P,estam901,Arguing with David Ortiz"
-com,"ej,johnj010,P,estam901,Aggressive behavior during brawl"
-com,"ej,ortid001,P,estam901,Charging the mound"
-com,"ej,saltj001,P,estam901,Actions during a brawl"
-com,"$Ortiz did not run hard out of the batter's box when he hit the lazy fly to right-center;"
-com,"pitcher Kevin Gregg yelled at Ortiz and was immediately ejected by HP umpire Mike"
-com,"Estabrook; Ortiz charged the pitcher; Estabrook tried to get in between but was unable to"
-com,"keep Ortiz and Gregg apart; both benches and bullpens emptied; Red Sox Josh Reddick was"
-com,"on 3B; he turned to tag up on the fly but then ran to the middle of the infield with everyone"
-com,"else; after the situation cleared, the umpires huddled and called Reddick out for leaving"
-com,"the baseline, thus ending the inning; Ortiz was ejected by Estabrook; Orioles pitcher"
-com,"Jim Johnson was ejected by Estabrook for aggressive behavior; Red Sox catcher Jarrod"
-com,"Saltalamacchia was ejected by Estabrook; after the game, Salty said he did not know why"
-com,"he was tossed"
 play,9,0,wietm001,00,,NP
 sub,suttd002,"Drew Sutton",1,3,3
 play,9,0,wietm001,00,,NP
@@ -6931,9 +6843,6 @@ play,6,1,ellsj001,22,BCCBX,3/G
 play,7,0,guerv001,12,BFSX,9!/L
 play,7,0,wietm001,00,X,7/F
 play,7,0,lee-d002,01,CH,HP
-com,"$both teams were warned by HP umpire Jeff Nelson after John Lackey hit Derrek Lee"
-com,"with a fast ball on the left hip; the umpires were being cautious after the bench-clearing"
-com,"incident yesterday"
 play,7,0,reynm001,22,SF*BBS,K+WP.1-2;B-1
 play,7,0,reimn001,00,,NP
 sub,bardd001,"Daniel Bard",1,0,1
@@ -7048,7 +6957,6 @@ play,3,1,reddj001,00,,NP
 sub,davib005,"Blake Davis",0,7,4
 play,3,1,reddj001,00,,NP
 sub,andir001,"Robert Andino",0,9,5
-com,"Orioles third baseman Mark Reynolds left the game after being hit on the hand"
 play,3,1,reddj001,32,..BCFBBS,K
 play,3,1,varij001,00,X,DGR/8/F
 play,3,1,drewj001,22,CS*BBX,8/F
@@ -7061,17 +6969,11 @@ play,4,1,ellsj001,22,.CFBBX,13/G
 play,4,1,pedrd001,32,BBCBCFFX,D7/L
 play,4,1,gonza003,20,BBX,S7/L.2-3
 play,4,1,youkk001,00,H,HP.1-2
-com,"$both teams were warned about throwing at batters by HP umpire Marty Foster"
 play,4,1,ortid001,32,BSBFFFBB,W.3-H;2-3;1-2
 play,4,1,reddj001,00,X,7/F
 play,4,1,varij001,22,SBSBS,K
 play,5,0,jonea003,21,BBSX,T8/F
 play,5,0,guerv001,11,FBH,HP
-com,"ej,weilk001,P,fostm901,Intentional HBP"
-com,"ej,frant001,M,fostm901,Intentional HBP"
-com,"$Vlad Guerrero was hit on the hand; Red Sox pitcher Kyle Weiland, in his first big league game,"
-com,"was ejected by HP umpire Marty Foster; because the teams had been warned, Red Sox Manager Terry"
-com,"Francona was ejected by HP umpire Marty Foster"
 play,5,0,wietm001,00,,NP
 sub,aceva001,"Alfredo Aceves",1,0,1
 play,5,0,wietm001,22,...BCBFS,K
@@ -7088,11 +6990,6 @@ play,6,1,gonza003,00,,NP
 sub,gonzm001,"Mike Gonzalez",0,0,1
 play,6,1,gonza003,22,.BBCFFS,K
 play,6,1,youkk001,22,CBSBS,K
-com,"ej,gonzm001,P,fostm901,Intentional HBP"
-com,"ej,showb801,M,fostm901,Intentional HBP"
-com,"$the second pitch to David Ortiz was a fast ball behind him; Orioles pitcher Michael Gonzalez"
-com,"was ejected by HP umpire Marty Foster; because both teams had been warned, Orioles Manager Buck"
-com,"Showalter was ejected by HP umpire Marty Foster"
 play,6,1,ortid001,11,FB,NP
 sub,berkj001,"Jason Berken",0,0,1
 play,6,1,ortid001,12,FB...CS,K
@@ -7100,7 +6997,6 @@ play,7,0,markn001,12,BCFX,43/G
 play,7,0,jonea003,22,BFFBFX,63/G
 play,7,0,guerv001,00,,NP
 sub,pie-f001,"Felix Pie",0,4,11
-com,"Orioles designated hitter Vladimir Guerrero left the game due to an injured hand"
 play,7,0,pie-f001,22,.CBFF.BC,K
 play,7,1,reddj001,00,,NP
 sub,johnj010,"Jim Johnson",0,0,1
@@ -7632,7 +7528,6 @@ start,reddj001,"Josh Reddick",1,7,9
 start,saltj001,"Jarrod Saltalamacchia",1,8,2
 start,scutm001,"Marco Scutaro",1,9,6
 start,lestj001,"Jon Lester",1,0,1
-com,"2:21 rain delay before start of game"
 play,1,0,gorda001,22,FBBFS,K
 play,1,0,cabrm002,00,X,S9/F
 play,1,0,butlb003,02,CFC,K
@@ -7698,7 +7593,6 @@ play,8,0,gorda001,00,,NP
 sub,navay001,"Yamaico Navarro",1,4,5
 play,8,0,gorda001,00,,NP
 sub,bardd001,"Daniel Bard",1,0,1
-com,"Boston Red Sox third baseman Kevin Youkilis left the game due to a tight right hamstring"
 play,8,0,gorda001,10,..BX,43/G
 play,8,0,cabrm002,11,FBX,S8/L
 play,8,0,butlb003,12,BC>FS,K
@@ -7751,7 +7645,6 @@ play,12,1,reddj001,22,.BCBFX,S8/G
 play,12,1,saltj001,11,1BFX,7/F
 play,12,1,scutm001,00,1,PO1(E1).1-3
 play,12,1,scutm001,00,1.>B,CSH(25)
-com,"$Marco Scutaro missed the sign for the squeeze play"
 play,12,1,scutm001,21,1.>B.CBX,S7/L.BX2(74)
 play,13,0,getzc001,00,,NP
 sub,willr003,"Randy Williams",1,0,1
@@ -7767,8 +7660,6 @@ play,13,1,ortid001,00,X,43/G
 play,14,0,hosme001,01,SX,D7/L
 play,14,0,franj004,00,X,S8/G.2-3
 play,14,0,avilm001,01,F>X,4/SH/BG.3-H;1-2
-com,"$Jeff Francoeur ran towards 2B on the play, which had been signalled as a safety squeeze;"
-com,"Adrian Gonzalez came off the 1B bag and the bunt by Mike Aviles popped over Gonzalez' head"
 play,14,0,penab002,10,BX,S7/L.2-3
 play,14,0,escoa003,10,1PX,8/SF/F.3-H
 play,14,0,getzc001,00,X,36(1)/FO/G
@@ -7865,7 +7756,6 @@ play,2,1,navay001,32,BBBCFFB,W
 play,2,1,mcdod002,10,BX,54(1)/FO/G
 play,3,0,franj004,32,BSBBCB,W
 play,3,0,mousm001,00,1X,6/L.1X2(34)
-com,"not a double play"
 play,3,0,avilm001,20,BBX,D9/F
 play,3,0,tream001,32,FC*BBBX,8/F
 play,3,1,scutm001,01,CX,D7/L
@@ -7904,8 +7794,6 @@ play,5,1,ellsj001,11,.BFX,S7/L.1-2
 play,5,1,mcdod002,00,,NP
 sub,suttd002,"Drew Sutton",1,1,11
 play,5,1,suttd002,00,.X,1E4/SH/BG.2-H(NR);1-H(NR);B-3(THH)
-com,"$the throw by pitcher Nathan Adcock was wide at 1B; the ball rolled into short RF, where"
-com,"it was recovered by Mike Aviles, who threw over the head of catcher Matt Treanor"
 play,5,1,scutm001,32,*BCCBBB,W
 play,5,1,gonza003,00,,NP
 sub,woodb004,"Blake Wood",0,0,1
@@ -7928,7 +7816,6 @@ play,6,0,franj004,00,X,8/F
 play,6,1,suttd002,12,CFBS,K
 play,6,1,scutm001,32,BCCBBB,W
 play,6,1,gonza003,00,H,HP.1-2
-com,"$both teams were warned by HP umpire Chris Conroy"
 play,6,1,pedrd001,31,BCBBB,W.2-3;1-2
 play,6,1,ortid001,22,CFBBFFS,K
 play,6,1,crawc002,00,X,5/P5F
@@ -7941,7 +7828,6 @@ sub,collt001,"Tim Collins",0,0,1
 play,7,1,varij001,00,.X,HR/7/F
 play,7,1,reddj001,22,BCFFBFS,K
 play,7,1,ellsj001,12,CBSX,D8/L.B-3(E8/TH)
-com,"error was originally charge to shortstop, changed next day"
 play,7,1,suttd002,32,*BSFFBBFB,W
 play,7,1,scutm001,20,B*BX,FC5/G.3XH(526);1-3(TH3)
 play,7,1,gonza003,02,CCX,6(1)/FO/G
@@ -8389,11 +8275,6 @@ play,8,0,kipnj001,00,,NP
 sub,bardd001,"Daniel Bard",1,0,1
 play,8,0,kipnj001,10,.BX,S8/L
 play,8,0,cabra002,12,B1CFFX,HR/F9L.1-H
-com,"$Asdrubal Cabrera’s fly ball just inside the RF pole hit what appeared to be the top of the wall and"
-com,"caromed onto the field; it was ruled in play but the umpires got together; crew chief Gerry Davis"
-com,"watched the replay and overturned the call to a home run; the ball struck a fan in the front row"
-com,"and Davis changed the call when he saw the woman react to being hit; she had a large mark on her"
-com,"thigh later; the stitches of the ball were clearly visible in the bruise"
 play,8,0,hafnt001,01,CX,43/G
 play,8,0,santc002,32,CFBFFBFFFBB,W
 play,8,0,fukuk001,00,,NP
@@ -8479,7 +8360,6 @@ start,avilm001,"Mike Aviles",1,7,6
 start,varij001,"Jason Varitek",1,8,2
 start,mcdod002,"Darnell McDonald",1,9,9
 start,beckj002,"Josh Beckett",1,0,1
-com,"95-minute rain delay before start of game"
 play,1,0,branm003,12,CCBC,K
 play,1,0,kipnj001,00,X,HR/89/F
 play,1,0,cabra002,12,CFBS,K
@@ -8556,9 +8436,6 @@ sub,sippt001,"Tony Sipp",0,0,1
 play,8,1,gonza003,21,.B1BF>X,9/F
 play,8,1,youkk001,11,BC1>S,SB2
 play,8,1,youkk001,32,BC1>S.B*BS,K
-com,"ej,youkk001,P,davig901,Checked swing for strike three"
-com,"Red Sox third baseman Kevin Youkilis ejected by 1B umpire Gerry Davis for arguing the check swing"
-com,"call for strike three"
 play,8,1,ortid001,30,.IIII,IW
 play,8,1,crawc002,11,SBX,4/P
 play,9,0,santc002,00,,NP
@@ -8641,7 +8518,6 @@ play,1,1,pedrd001,12,BCSFX,9/F
 play,1,1,gonza003,12,BFFX,S8/L
 play,1,1,youkk001,21,BCBX,D49/P.1-3
 play,1,1,ortid001,11,BSX,S7/L.3-H;2-H
-com,"originally E7 to allow second run (UR) - removed on 8-09"
 play,1,1,crawc002,12,CFBX,7/F
 play,2,0,hafnt001,12,CCBX,53/G
 badj,santc002,R
@@ -9979,7 +9855,6 @@ start,reddj001,"Josh Reddick",1,7,9
 start,varij001,"Jason Varitek",1,8,2
 start,avilm001,"Mike Aviles",1,9,5
 start,lestj001,"Jon Lester",1,0,1
-com,"$played in the rain from the leading edge of Hurricane Irene"
 play,1,0,weekj001,12,CBFS,K
 play,1,0,pennc001,12,CBSFX,4/P
 play,1,0,crisc001,00,X,S7/G+
@@ -10044,7 +9919,6 @@ sub,blevj001,"Jerry Blevins",0,0,1
 play,6,1,gonza003,21,.BFBX,S8/L
 play,6,1,pedrd001,32,BBBCFX,6/P
 play,6,1,ortid001,21,BCBX,46(1)3/GDP
-com,"45 minute rain delay"
 play,7,0,suzuk001,00,,NP
 sub,wheed001,"Dan Wheeler",1,0,1
 play,7,0,suzuk001,10,.BX,7/F
@@ -10054,7 +9928,6 @@ play,7,0,weekj001,01,CX,43/G
 play,7,1,crawc002,02,CCFFFT,K
 play,7,1,reddj001,00,X,13/G
 play,7,1,varij001,22,BBFFX,13/G
-com,"2:15 rain delay"
 play,8,0,pennc001,00,,NP
 sub,bowdm001,"Michael Bowden",1,0,1
 play,8,0,pennc001,01,.FX,S8/G
@@ -10127,9 +10000,6 @@ start,crawc002,"Carl Crawford",1,7,7
 start,saltj001,"Jarrod Saltalamacchia",1,8,2
 start,reddj001,"Josh Reddick",1,9,9
 start,bedae001,"Erik Bedard",1,0,1
-com,"$played in the rain from the leading edge of Hurricane Irene; this game was scheduled for the next"
-com,"day but was moved ahead one day because of the hurricane; it started 1:52 late due to the length of"
-com,"the first game, including rain delays"
 play,1,0,weekj001,32,BBBCCB,W
 play,1,0,crisc001,01,CX,8/F
 play,1,0,matsh001,22,BFFBS,K
@@ -10166,7 +10036,6 @@ play,4,1,crawc002,12,BFSX,4/P/IF
 play,4,1,saltj001,12,FFFBFX,3!1/G.3-H;2-3;1-2
 play,4,1,reddj001,01,FX,8/F
 play,5,0,recka001,12,CFBFFX,S7/L
-com,"1 hour rain delay"
 play,5,0,weekj001,00,,NP
 sub,aceva001,"Alfredo Aceves",1,0,1
 play,5,0,weekj001,22,BCCBFFFF.1FFX,6/P
@@ -10268,9 +10137,7 @@ start,lackj001,"John Lackey",1,0,1
 play,1,0,gardb001,01,CX,6/P
 play,1,0,jeted001,10,BX,63/G
 play,1,0,granc001,02,CCFS,K
-com,"$Curtis Granderson said he was hit by the third pitch, which was ruled a foul ball"
 play,1,1,ellsj001,12,CBFH,HP
-com,"$Jacoby Ellsbury was hit on the right elbow"
 play,1,1,scutm001,11,1CBX,36(1)/FO/G
 play,1,1,gonza003,12,CCBS,K
 play,1,1,pedrd001,22,CCF*BBS,K
@@ -10307,9 +10174,6 @@ play,4,1,ellsj001,22,CBFBC,K
 play,4,1,scutm001,21,CBBX,D7/L.2-H;1-3
 play,4,1,gonza003,22,FBS*BS,K
 play,5,0,cervf001,31,BSBBX,HR/7/F
-com,"$when Francisco Cervelli reached the plate after his run around the cases, he stomped"
-com,"on the plate and slapped his hands together; pitcher John Lackey and catcher Jarrod"
-com,"Saltalamacchia watched"
 play,5,0,gardb001,02,CCX,43/G
 play,5,0,jeted001,00,X,53/G
 play,5,0,granc001,32,BFFBFB*B,W
@@ -10328,14 +10192,6 @@ play,6,1,ellsj001,01,SX,S8/F
 play,6,1,scutm001,21,BC1BX,8/F
 play,6,1,gonza003,32,SB*BBC>X,63/G
 play,7,0,cervf001,00,H,HP
-com,"ej,rothl101,C,wegnm901,Arguing about HBP"
-com,"$the first pitch hit Francisco Cervelli on the back; he took a step toward the mound"
-com,"and yelled at pitcher John Lackey; HP umpire Ed Rapuano and catcher Jarrod Saltalamacchia"
-com,"both got in front of Cervelli; Salty talked with Cervelli while Rapuano told the Yankees"
-com,"to stay in their dugout; Yankees manager Joe Girardi ran out to escort Cervelli down the"
-com,"1B line; the Yankees were upset about Lackey hitting Cervelli; Yankees Pitching Coach"
-com,"Larry Rothschild argued with 3B umpire Mark Wegner, who ejected Rothschild; both teams"
-com,"were issued a warning by HP umpire Ed Rapuano"
 play,7,0,gardb001,00,.B,PB.1-2
 play,7,0,gardb001,30,.B.BBX,S5/BG.2-3
 play,7,0,jeted001,12,1B1>FC>FFX,6(1)3/GDP.3-H(NR)(UR)
@@ -10381,9 +10237,6 @@ play,9,1,ortid001,11,.CBX,D9/G
 play,9,1,lowrj001,12,CBCC,K
 play,9,1,crawc002,22,CBCBFX,6/P
 play,9,1,saltj001,01,CH,HP
-com,"ej,giraj001,M,wegnm901,No swing call on HBP"
-com,"$Yankees Manager Joe Girardi argued that Jarrod Saltalamacchia swung at the"
-com,"pitch that hit him; Girardi was ejected by 3B umpire Mark Wegner"
 play,9,1,mcdod002,00,,NP
 sub,reddj001,"Josh Reddick",1,9,11
 play,9,1,reddj001,11,..BCX,7/L
@@ -10634,7 +10487,6 @@ play,6,0,nunee002,10,BX,6(1)3/GDP
 play,6,0,jeted001,22,BCBFX,S7/L
 play,6,0,granc001,30,BBBB,W.1-2
 play,6,0,teixm001,00,H,HP.2-3;1-2
-com,"$Mark Teixeira was hit on the knee"
 play,6,0,canor001,01,CX,53/G+
 play,6,1,gonza003,12,BSCS,K
 play,6,1,pedrd001,11,BFX,S9/L
@@ -10646,7 +10498,6 @@ play,6,1,crawc002,02,.CFFS,K
 play,6,1,lowrj001,00,,NP
 sub,wadec001,"Cory Wade",0,0,1
 play,6,1,lowrj001,21,.BFBX,8!/F
-com,"$Curtis Granderson made a diving catch of the sinking liner; he hurt his right wrist"
 play,7,0,swisn001,32,CBBFBC,K
 play,7,0,jonea002,32,BFTBFFFBFFFFFB,W
 play,7,0,montj003,00,,NP
@@ -10670,7 +10521,6 @@ play,7,1,reddj001,00,,NP
 sub,chave001,"Eric Chavez",0,9,5
 play,7,1,reddj001,00,,NP
 sub,sorir001,"Rafael Soriano",0,0,1
-com,"Yankees first baseman Mark Teixeira left the game due to an injured knee"
 play,7,1,reddj001,22,.....CCFFBBFFX,7/F
 play,7,1,saltj001,02,CSS,K23
 play,7,1,ellsj001,32,CBBCBB,W
@@ -10972,7 +10822,6 @@ play,4,1,ortid001,21,*BBCB,WP.2-3;1-2
 play,4,1,ortid001,31,*BBCB.I,IW
 play,4,1,lowrj001,00,,NP
 sub,avilm001,"Mike Aviles",1,6,11
-com,"Red Sox shortstop Jed Lowrie left the game due to left shoulder tightness"
 play,4,1,avilm001,31,.CB*BBX,S9/L.3-H;2-3;1-2
 play,4,1,crawc002,10,BX,HR/9/F.3-H;2-H;1-H
 play,4,1,reddj001,00,,NP
@@ -11128,11 +10977,9 @@ play,3,0,hamij003,02,FFX,8/F
 play,3,1,saltj001,11,CBX,7/F
 play,3,1,scutm001,01,CX,63/G
 play,3,1,ellsj001,12,CFBX,D9/L
-com,"$Red Sox RF Conor Jackson ran into the bullpen wall chasing the ball"
 play,3,1,pedrd001,01,CX,63/G
 play,4,0,younm003,00,,NP
 sub,mcdod002,"Darnell McDonald",1,6,9
-com,"Red Sox left fielder Conor Jackson left the game due to an injured knee"
 play,4,0,younm003,32,.FBFBBB,W
 play,4,0,belta001,12,BTSX,9/F
 play,4,0,murpd005,21,BCBX,64(1)/FO/G.B-2(E4/TH1)
@@ -11154,7 +11001,6 @@ play,5,1,ellsj001,32,CBC1B.FFBX,4!/L+
 play,5,1,pedrd001,21,BBFX,3/P3F
 play,6,0,younm003,21,BBFX,S8/G
 play,6,0,belta001,02,FFX,S9/L.1-3
-com,"$Adrian Beltre's 2000th hit"
 play,6,0,murpd005,10,BX,S7/L.3-H;1-3
 play,6,0,napom001,11,CBB,WP.1-2
 play,6,0,napom001,32,CBB.BSFB,W
@@ -11269,7 +11115,6 @@ start,crawc002,"Carl Crawford",1,7,7
 start,scutm001,"Marco Scutaro",1,8,6
 start,saltj001,"Jarrod Saltalamacchia",1,9,2
 start,waket001,"Tim Wakefield",1,0,1
-com,"$Tim Wakefield's 200th career victory"
 play,1,0,mccom001,01,CX,63/G
 play,1,0,thame001,01,CH,HP
 play,1,0,bautj002,22,CBSB1S,K
@@ -11279,7 +11124,6 @@ play,1,1,pedrd001,22,CBBTX,D8/L
 play,1,1,gonza003,30,BBBB,W
 play,1,1,ortid001,00,,NP
 sub,lowrj001,"Jed Lowrie",1,4,11
-com,"Red Sox designated hitter David Ortiz left the game due to an injured back"
 play,1,1,lowrj001,02,.SCS,K
 play,1,1,youkk001,01,CH,HP.2-3;1-2
 play,1,1,reddj001,22,CBF*BX,E3/TH/G.3-H(UR)(NR);2-H(UR)(NR);1-3;B-2
@@ -11287,10 +11131,6 @@ play,1,1,crawc002,00,X,43/G
 play,2,0,coopd002,21,.CBBX,D7/L
 play,2,0,lawrb002,00,X,S6/G.2-2
 play,2,0,arenj001,00,X,HR/7/F.2-H;1-H
-com,"$J.P. Arencibia's fly ball hit the rail on the top of the LF wall and was ruled a"
-com,"homer; a ball that hits on top of the wall is a home run according to the ground"
-com,"rule; Red Sox manager Terry Francona asked about the call so crew chief Gerry Davis"
-com,"watched the replay and upheld his own call"
 play,2,0,loewa001,00,X,43/G
 play,2,0,woodc001,12,BCFS,K
 play,2,0,mccom001,32,CBBBCFX,9/L
@@ -11526,15 +11366,12 @@ play,7,0,mccom001,00,,NP
 sub,aceva001,"Alfredo Aceves",1,0,1
 play,7,0,mccom001,00,,NP
 sub,andel002,"Lars Anderson",1,3,3
-com,"Red Sox first baseman Adrian Gonzalez left the game due to an injured leg"
 play,7,0,mccom001,32,..BCBBCX,8/L
 play,7,0,thame001,11,BCX,31/G
 play,7,0,bautj002,31,BBBCB,W
 play,7,0,linda001,00,X,8/F
 play,7,1,varij001,00,,NP
 sub,teahm001,"Mark Teahen",0,7,5
-com,"$Blue Jays third baseman Brett Lawrie left the game due to a left knee bruise"
-com,"which he injured in the collision at the plate in the sixth inning"
 play,7,1,varij001,11,.MBX,53/G
 play,7,1,mcdod002,11,FBX,9/F
 play,7,1,ellsj001,10,BX,7/F
@@ -11806,9 +11643,6 @@ start,beckj002,"Josh Beckett",1,0,1
 play,1,0,jennd002,00,X,S1/BG.B-2(E1/TH1)
 play,1,0,uptob001,00,X,3/P3F
 play,1,0,longe001,22,CBCFBX,HR/7/F.2-H
-com,"$Evan Longoria’s fly ball hit on the top of the LF wall and was touched by a fan; it was ruled"
-com,"a home run; Red Sox manager Terry Francona asked about the call, so crew chief Jerry Layne watched"
-com,"the replay and upheld the call"
 play,1,0,kotcc001,32,BBCSBX,S9/G
 play,1,0,damoj001,11,CB>B,SB2
 play,1,0,damoj001,21,CB>B.X,43/G.2-3
@@ -11849,7 +11683,6 @@ play,5,0,brigr001,12,BSFX,43/G
 play,5,0,jennd002,01,SX,S8/L
 play,5,0,uptob001,21,11BF11B>B,SB2
 play,5,0,uptob001,32,11BF11B>B.SC,K
-com,"$B.J. Upton objected to the called third strike, which he thought was outside"
 play,5,0,longe001,30,BBII,IW
 play,5,0,kotcc001,02,C>FX,43/G
 play,5,1,pedrd001,21,BCBX,43/G
@@ -11861,11 +11694,6 @@ play,6,0,joycm001,01,1S>C,SB2
 play,6,0,joycm001,12,1S>C.FBF*B,SB3
 play,6,0,joycm001,22,1S>C.FBF*B.X,8/F
 play,6,0,jasoj001,32,*BCC*BBC,K
-com,"ej,maddj801,M,wendh902,Balls and strikes"
-com,"$John Jaso objected to the called third strike, which he thought was outside;"
-com,"Rays Manager Joe Maddon went onto the field to ask why the strike zone was"
-com,"wider for his players than the Red Sox; Maddon was ejected by HP umpire Hunter"
-com,"Wendelstedt; Maddon claimed he did not say anything about balls and strikes"
 play,6,1,reddj001,12,.CBSFFS,K
 play,6,1,scutm001,22,FCFBBFX,8/F
 play,6,1,crawc002,00,X,S6/G-
@@ -12149,7 +11977,6 @@ play,3,0,kotcc001,12,FFFFBS,K
 play,3,0,damoj001,12,FSBX,31/G
 play,3,1,ellsj001,10,BX,43/G
 play,3,1,avilm001,31,BBBCX,153/L
-com,"$the line drive by Mike Aviles hit pitcher David Price on the chest"
 play,3,1,gonza003,02,CFX,63/G
 badj,zobrb001,R
 play,4,0,zobrb001,01,CX,53/G
@@ -12176,7 +12003,6 @@ play,5,0,zobrb001,32,CF*B*BFB>X,E5/TH1/G.2-H(UR);1-3;B-2
 play,5,0,joycm001,32,F*BFBBS,K
 play,5,1,ellsj001,00,,NP
 sub,mcgej001,"Jake McGee",0,0,1
-com,"$Rays pitcher David Price left the game due to a bruised chest"
 play,5,1,ellsj001,12,.BCFX,7/F
 play,5,1,avilm001,10,.BX,63/G
 play,5,1,gonza003,12,BCSS,K23
@@ -12345,9 +12171,6 @@ play,5,1,ellsj001,31,BFBBX,43/G
 play,5,1,scutm001,32,BBBCCB,W
 play,5,1,gonza003,20,B*BX,D8/L.1-H
 play,5,1,pedrd001,21,CBBX,T8/F.2-H
-com,"$David Ortiz hit a line drive down the RF line on the first pitch; it hit the wall about one foot"
-com,"on the fair side of the pole but was called foul by 1B umpire Mike Estabrook; Red Sox manager Terry"
-com,"Francona and Ortiz objected to the call; the umpires huddled but the call stood"
 play,5,1,ortid001,22,FBBCX,8/F
 play,6,0,andir001,11,BCX,3/G
 play,6,0,reimn001,01,CX,43/G
@@ -12715,14 +12538,6 @@ play,4,1,pedrd001,02,CCS,K
 play,4,1,gonza003,31,BBCBX,32(3)/FO/G.2-H(UR)(NR);1-3;BX1(2E3)
 play,4,1,ortid001,22,BBCFC,K
 play,5,0,guerv001,01,CX,S8/G
-com,"ej,showb801,M,guccc901,Checked swing"
-com,"$the Orioles objected to the called second strike to Matt Wieters; the next pitch was inside"
-com,"and catcher Jarrod Saltalamacchia threw to 2B to attempt to catch Vladimir Guerrero's steal"
-com,"attempt; there was no call made at 2B by umpire Mike Winters as the pitch seemed to be ball"
-com,"four; when Saltalamacchia asked HP umpire Mark Wegner to ask about the check swing by Wieters,"
-com,"3B umpire Chris Guccione called it a swing (for strike three) and immediately after that Winters"
-com,"called out Guerrero on the steal for a double play; Orioles Manager Buck Showalter came out to"
-com,"argue the play and was ejected by Guccione"
 play,5,0,wietm001,32,BBBCC>S,K+CS2(26)/DP
 play,5,0,jonea003,22,CBCFBFX,S7/L
 play,5,0,reynm001,31,B1BBC1>C,CS2(24)
@@ -12908,7 +12723,6 @@ play,7,1,ellsj001,02,CFFFS,K
 play,7,1,avilm001,00,X,53/G
 play,7,1,gonza003,00,,NP
 sub,rapac001,"Clay Rapada",0,0,1
-com,"Orioles pitcher Tommy Hunter left the game due to an injured groin"
 play,7,1,gonza003,02,.CCS,K
 play,8,0,andir001,32,BBCBCX,3/P
 play,8,0,hardj003,01,CX,S7/G+

@@ -980,7 +980,6 @@ play,6,0,barnd001,22,.BCCBX,S9/G+
 play,6,0,colec001,10,BX,34/SH/BG.1-2
 play,6,0,fukuk001,00,,NP
 sub,soria001,"Alfonso Soriano",0,1,11
-com,"Cubs right fielder Kosuke Fukudome left the game due to an injured leg"
 play,6,0,soria001,11,.BFX,8/F
 play,6,0,casts001,12,FBCX,63/G
 play,6,1,kottg001,00,,NP
@@ -1106,14 +1105,6 @@ play,2,0,wallb001,32,FBSBBS,K
 play,2,0,johnc003,02,FSS,K
 play,2,1,fielp001,30,BBBB,W
 play,2,1,mcgec001,31,BBCBB,W.1-2
-com,"ej,arnsb001,C,schrp901,Balls and strikes"
-com,"ej,millb101,M,westj901,Ejection of coach Brad Arnsberg"
-com,"$Astros Pitching Coach Brad Arnsberg went to the mound and was talking with pitcher"
-com,"Nelson Figueroa; eventually HP umpire Paul Schrieber came out to stop the conversation;"
-com,"as Arnsberg left he said a few things to Schreiber, who ejected Arnsberg; Arnsberg then"
-com,"said a few more things and Astros Manager Brad Mills came out; crew chief Joe West"
-com,"came in from second base and Mills talked with West; after a few minutes, West ejected"
-com,"Mills; their conversation lasted a while"
 play,2,1,kotsm001,21,..CBBX,S7/F-.2-3;1-2
 play,2,1,betay001,22,CBFFBFS,K
 play,2,1,lucrj001,21,CBBX,64(1)/FO/G.3-H;2-3
@@ -1180,7 +1171,6 @@ play,7,0,sanca005,00,,NP
 sub,counc001,"Craig Counsell",1,1,4
 play,7,0,sanca005,00,,NP
 sub,grees004,"Sean Green",1,9,1
-com,"Brewers second baseman Rickie Weeks left the game due to an injured hand"
 play,7,0,sanca005,32,..BCBBCX,S5/G-
 play,7,0,pench001,01,FX,43/G.1-2
 play,7,0,lee-c001,12,FFBX,D9/F.2-H
@@ -2242,8 +2232,6 @@ play,2,1,mcgec001,11,BSX,S7/G.1-2
 play,2,1,betay001,20,BBX,S9/L.2-3;1-2
 play,2,1,hartc001,00,X,S7/G.3-H;2-3;1-2
 play,2,1,lucrj001,01,CX,S7/G/DP.3-H;2-H;1X3(7546);BX2(64)
-com,"$the throw from LF was cut off, trapping Corey Hart between 2B and 3B; then Jonathan"
-com,"Lucroy tried to reach 2B; the Brewers had a two-RBI single turn into two outs"
 play,2,1,marcs001,22,BFBSFS,K
 play,3,0,philk001,21,BBCX,63/G
 play,3,0,gonza005,01,CX,9/F
@@ -2742,7 +2730,6 @@ play,3,1,braur002,01,CX,63/G
 play,4,0,doumr001,22,BSFBX,5/L
 play,4,0,diazm003,32,FBFBBC,K
 play,4,0,overl001,10,BX,S6/L
-com,"originally scored E6, changed to single next day"
 play,4,0,alvap001,21,BBCX,53/G
 play,4,1,fielp001,11,BFX,HR/9/F
 play,4,1,mcgec001,12,FFFFBX,43/G
@@ -2779,9 +2766,6 @@ sub,hawkl001,"LaTroy Hawkins",1,9,1
 play,7,0,mccua001,22,.CBFBX,D7/L+
 play,7,0,tabaj002,32,LBBFBB,W
 play,7,0,walkn001,12,BFFX,46(1)3/GDP.2-3
-com,"ej,hurdc001,M,conrc901,Call at 1B"
-com,"Pirates Manager Clint Hurdle ejected by 1B umpire Chris Conroy for arguing a close play"
-com,"at first"
 play,7,0,doumr001,31,.B*BBCB,W
 play,7,0,diazm003,01,FX,53/G
 play,7,1,hawkl001,00,,NP
@@ -2945,8 +2929,6 @@ play,6,0,walkn001,00,.X,3/G
 play,6,0,overl001,32,BCBBFX,7/F
 play,6,0,alvap001,21,BCBX,S9/L
 play,6,0,snydc002,12,CF*BC,K
-com,"ej,snydc002,P,conrc901,Called third strike"
-com,"Pirates catcher Chris Snyder ejected by HP umpire Chris Conroy"
 play,6,1,weekr001,00,,NP
 sub,moskd001,"Daniel Moskos",0,7,1
 play,6,1,weekr001,00,,NP
@@ -3115,9 +3097,6 @@ sub,reynm002,"Matt Reynolds",0,9,1
 play,7,1,fielp001,02,.CSS,K
 play,8,0,herrj002,00,X,43/BG
 play,8,0,tulot001,22,CBBFC,K
-com,"ej,tulot001,P,drakr901,Called third strike"
-com,"$Rockies shortstop Troy Tulowitzki objected to the third strike call and was"
-com,"ejected by HP umpire Rob Drake"
 play,8,0,giamj001,00,.X,13/G
 play,8,1,mcgec001,00,,NP
 sub,spilr001,"Ryan Spilborghs",0,3,7
@@ -3322,9 +3301,6 @@ play,6,1,braur002,11,TBX,S5/G-
 play,6,1,fielp001,00,B,WP.1-2
 play,6,1,fielp001,31,B.BBCB,W
 play,6,1,mcgec001,01,CX,4/P/IF
-com,"ej,dauer001,C,darlg901,Checked swing"
-com,"$when the 2-2 pitch to Yuniesky Betancourt was called no swing, Rockies Third Base Coach Rich Dauer"
-com,"argued from the dugout about the call and was ejected by HP umpire Gary Darling"
 play,6,1,betay001,32,BCBS*B.2,POCS3(14)
 play,6,1,betay001,32,BCBS*B.2.>S,K
 play,7,0,lopej003,01,CX,7/F
@@ -3725,9 +3701,6 @@ play,3,0,hairj002,22,CFBFBX,9/F
 play,3,0,bixlb001,12,CFBC,K
 play,3,1,hartc001,10,BX,S8/L
 play,3,1,braur002,11,F1BX,43/G.1-2
-com,"ej,braur002,P,johna901,Call at 1B"
-com,"Brewers left fielder Ryan Braun ejected by 1B umpire Adrian Johnson after he slammed his"
-com,"helmet to the ground on a very close play at 1B"
 play,3,1,fielp001,12,.BF2FFS,K
 play,3,1,mcgec001,32,CBBSBX,FC5/G.2X3(5)
 play,4,0,hernl003,00,,NP
@@ -4037,11 +4010,6 @@ play,5,0,crawb001,10,BX,16(1)3/GDP
 play,5,1,morgn001,12,CBFX,D7/L
 play,5,1,marcs001,22,BBOLX,54/SH/BG.2-3
 play,5,1,weekr001,12,BSFX,FC1/G13.3-H
-com,"ej,bochb002,M,muchm901,Call at HP"
-com,"$catcher Eli Whiteside took the throw from Tim Lincecum in front of the plate"
-com,"without trying to block the runner's path; Nyjer Morgan slid in feet first, just"
-com,"beating the tag; Giants manager Bruce Bochy argued the call and was ejected"
-com,"by HP umpire Mike Muchlinski"
 play,5,1,hartc001,00,.1X,S7/G.1-2
 play,5,1,braur002,00,X,7/FDP.2X3(75)
 play,6,0,white004,02,SCC,K
@@ -4059,8 +4027,6 @@ play,7,0,huffa001,21,BCBX,D9/G
 play,7,0,schin001,12,FFBX,S8/L-.2-3
 play,7,0,tejam001,31,B*BSB*B,W.1-2
 play,7,0,crawb001,00,X,HR/89/F.3-H;2-H;1-H
-com,"$Brandon Crawford is the sixth player in history to hit a grand slam in his first"
-com,"major league game"
 play,7,0,white004,00,,NP
 sub,estrm001,"Marco Estrada",1,9,1
 play,7,0,white004,02,.CFFX,7/F
@@ -4165,12 +4131,6 @@ play,1,0,sancf001,12,FFBFS,K
 play,1,0,burrp001,22,SCBBS,K
 play,1,1,weekr001,12,CFBS,K
 play,1,1,gomec002,02,CLX,HR9/IPHR
-com,"$there is no view of the RF corner from the press box; the ball rolled into the dead zone"
-com,"and Chris Gomez ran the circuit; the official scorer did not know how the ball got past RF"
-com,"Cody Ross because the home TV did not have an angle on the play; the scorer tentatively"
-com,"ruled a home run and then a reported showed him the played from the Giants' TV on mlb.com;"
-com,"the Giants argued that the call should be a single and an error; the ball rolled under Ross'"
-com,"glove into the corner"
 play,1,1,braur002,31,BBBCB,W
 play,1,1,fielp001,12,11CCBX,7/F
 play,1,1,mcgec001,02,1CFC,K
@@ -4239,12 +4199,6 @@ play,8,1,loe-k001,00,,NP
 sub,counc001,"Craig Counsell",1,9,11
 play,8,1,counc001,00,....X,9/F
 play,8,1,weekr001,12,BCCS,K
-com,"umpchange,8,umphome,everm901"
-com,"umpchange,8,ump2b,(None)"
-com,"$HP umpire Mark Wegner tore his right calf muscle and had to be helped off the field;"
-com,"the injury occurred when Carlos Gomez attempted a bunt down the 3B line; Wegner tried"
-com,"to step around the bat on the field; there was a twelve minute delay as 2B umpire"
-com,"Mike Everitt changed into his plate gear"
 play,8,1,gomec002,02,CLS,K
 play,9,0,huffa001,00,,NP
 sub,axfoj001,"John Axford",1,9,1
@@ -4836,11 +4790,6 @@ play,7,0,murpd006,01,C1>B,SB2
 play,7,0,murpd006,32,C1>B.FFBFBX,43/G.2-3
 play,7,0,pagaa001,30,BBBB,W
 play,7,0,pridj001,00,P,PO1(E3).1-2
-com,"$pitcher Sergio Mitre attempted the fake to third turn to first move; Angel Pagan"
-com,"ran towards second as Mitre started; Mitre threw the ball to the shortstop and Pagan"
-com,"waited on the baseline, trying to get Justin Turner home from third; as Pagan ran"
-com,"back to first, Brewers 1B Prince Fielder was called for obstruction and Pagan"
-com,"Was sent to second base"
 play,7,0,pridj001,10,P.>X,3/G
 play,7,1,braur002,01,FX,S6/G
 play,7,1,fielp001,11,SBB,WP.1-2
@@ -5380,18 +5329,7 @@ play,6,0,longe001,10,BX,53/G
 play,6,0,uptob001,22,CBBCC,K
 play,6,0,rodrs002,12,CFBX,S7/L
 play,6,0,kotcc001,12,11SBCX,8/F
-com,"$the third pitch to Nyjer Morgan was inside; Morgan turned his shoulder towards the"
-com,"ball and ran to 1B after being hit on the shoulder; HP umpire Bob Davidson called him"
-com,"back, saying he did not try to get out of the way but turned into the ball; Morgan"
-com,"ran back to Davidson to argue but Brewers manager Ron Roenicke came out to talk to"
-com,"Davidson while 3B coach Ed Sedar and 3B umpire Jerry Layne moved Morgan away"
 play,6,1,morgn001,32,CFBBFBS,K
-com,"ej,sveud001,C,davib902,Non-HBP on Nyjer Morgan"
-com,"ej,roenr001,M,davib902,Non-HBP on Nyjer Morgan"
-com,"$as Nyjer Morgan walked back to the dugout, Brewers hitting coach Dale Sveum yelled"
-com,"at HP umpire Bob Davidson from the dugout and pointed his finger at the umpire;"
-com,"Davidson ejected Sveum and manager Ron Roenicke came out to continue the argument"
-com,"that he started a few minutes earlier; eventually, Davidson ejected Roenicke"
 play,6,1,hartc001,22,..FBBFX,S7/G
 play,6,1,fielp001,31,SBBB*B,W.1-2
 play,6,1,mcgec001,32,CBFFBFF*BFB,W.2-3;1-2
@@ -5435,14 +5373,6 @@ play,8,0,longe001,20,BBX,HR/7/L.2-H;1-H
 play,8,0,uptob001,02,CSC,K
 play,8,1,hartc001,00,,NP
 sub,ramoc001,"Cesar Ramos",0,1,1
-com,"$Rays manager Joe Maddon sent Sam Fuld, who had pinch hit for pitcher J.P. Howell,"
-com,"out to the mound to warm up; this was a trick to give pitcher Cesar Ramos more time"
-com,"to get ready in the bullpen; after Fuld threw his eight warm up tosses, Maddon went"
-com,"out and took him out; this was not a legal change, because Fuld must face one batter"
-com,"before being removed; according to crew chief Jerry Layne, HP umpire Bob Davidson"
-com,"was told that Fuld was unable to pitch because he was hurt; no trainer was involved"
-com,"in the process of removing Fuld; Brewers manager Ron Roenicke did not protest the"
-com,"change; Layne was quoted as saying that the umpires are not doctors"
 play,8,1,hartc001,32,.CSBBBB,W
 play,8,1,fielp001,32,BC*BBCB,W.1-2
 play,8,1,mcgec001,32,BCBBCFFX,S7/G.2-3;1-2
@@ -6005,10 +5935,6 @@ play,5,1,lucrj001,00,,NP
 sub,hughl001,"Luke Hughes",0,5,3
 play,5,1,lucrj001,00,,NP
 sub,repkj001,"Jason Repko",0,8,7
-com,"$Twins left fielder Delmon Young misjudged Yuniesky Betancourt's fly ball; as he ran back, the spikes on his"
-com,"left shoe got caught in the mesh covering the scoreboard; his weight then pushed down on his ankle; he fell"
-com,"and the ball rolled away; Betancourt ran the circuit for a homer; Young was placed on the DL with a sprained"
-com,"right ankle"
 play,5,1,lucrj001,01,...CX,S9/L+
 play,5,1,gomec002,02,FCX,S9/G.1-2
 play,5,1,gally001,12,CFBF.FC,K
@@ -7298,9 +7224,6 @@ play,2,0,vottj001,10,BX,S9/L.2-H;1-3
 play,2,0,philb001,11,BSX,8/F
 play,2,1,kottg001,02,CSC,K
 play,2,1,wolfr001,02,CFFS,K
-com,"$Randy Wolf hit a fly ball down the RF line that was ruled foul; Wolf objected to the call and"
-com,"Brewers manager Ron Roenicke asked crew chief Gary Darling about it; Darling watched the replay"
-com,"and upheld the call"
 play,2,1,weekr001,32,CFBBBB,W
 play,2,1,gomec002,01,1FX,T9/L.1-H
 play,2,1,hartc001,00,X,63/G
@@ -7588,8 +7511,6 @@ play,2,1,fielp001,12,CBCX,HR/7/F
 play,2,1,weekr001,00,X,S6/G
 play,2,1,mcgec001,00,,NP
 sub,counc001,"Craig Counsell",1,5,12
-com,"Brewers second baseman Rickie Weeks left the game due to an injured ankle,"
-com,"went onto DL"
 play,2,1,mcgec001,10,.BX,D7/G.1-3
 play,2,1,betay001,12,BFCFX,9/SF/F.3-H;2-3
 play,2,1,lucrj001,12,CFFFBX,FC5/G.3XH(526);B-2(THH)
@@ -8329,8 +8250,6 @@ play,6,1,lucrj001,22,BBFFT,K
 play,6,1,greiz001,00,,NP
 sub,counc001,"Craig Counsell",1,9,11
 play,6,1,counc001,10,.BX,4/P
-com,"$Craig Counsell's 45th consecutive at bat without a hit, which"
-com,"ties the record for non-pitchers of Bill Bergen and Dave Campbell"
 play,7,0,moliy001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",1,9,1
 play,7,0,moliy001,00,.X,S9/G
@@ -8493,15 +8412,9 @@ sub,morgn001,"Nyjer Morgan",1,9,8
 play,7,0,furcr001,21,...CBBX,S8/G
 play,7,0,jay-j001,02,FCX,S9/G.1-3
 play,7,0,pujoa001,01,FH,HP.1-2
-com,"$Albert Pujols was hit on the hand"
 play,7,0,hollm001,10,BX,46(1)3/GDP.3-H(NR);2-3
 play,7,0,berkl001,20,BBX,43/G
-com,"$the second pitch to Ryan Braun was inside; Cardinals manager Tony LaRussa said after the game that"
-com,"it was intentional and a message to the Brewers"
 play,7,1,braur002,20,BBH,HP
-com,"$the third pitch hit Ryan Braun on the back; Braun yelled at pitcher Jason Motte; both managers came"
-com,"onto the field but crew chief Gary Darling told them to go back to their respective dugouts; both teams"
-com,"were warned by HP umpire Rob Drake"
 play,7,1,fielp001,00,,NP
 sub,rzepm001,"Marc Rzepczynski",0,9,1
 play,7,1,fielp001,30,.B*BBB,W.1-2
@@ -8547,8 +8460,6 @@ play,9,1,lopef001,01,.CX,6!/P
 play,10,0,moliy001,00,,NP
 sub,estrm001,"Marco Estrada",1,8,1
 play,10,0,moliy001,12,.BSFC,K
-com,"ej,moliy001,P,drakr901,Called third strike"
-com,"Cardinals catcher Yadier Molina ejected by HP umpire Rob Drake"
 play,10,0,descd001,11,.BFX,DGR/89/F
 play,10,0,pattc001,22,SBBFS,K
 play,10,0,furcr001,10,BX,8/F
@@ -8867,7 +8778,6 @@ play,9,0,joneg002,00,,NP
 sub,morgn001,"Nyjer Morgan",1,7,8
 play,9,0,joneg002,00,,NP
 sub,loe-k001,"Kameron Loe",1,9,1
-com,"Brewers pitcher Francisco Rodriguez left the game due to an injured leg"
 play,9,0,joneg002,11,....CBX,7/F
 play,9,0,walkn001,21,BCBX,43/G
 play,9,0,ludwr001,32,BBBCFFS,K
@@ -8959,9 +8869,6 @@ play,5,1,lucrj001,00,X,S8/L
 play,5,1,estrm001,00,,NP
 sub,greiz001,"Zack Greinke",1,9,11
 play,5,1,greiz001,00,.X,13/SH/BG.1-2
-com,"$Zack Greinke pinch hit wearing the wrong jersey; he had on a special jersey meant for the"
-com,"Sunday game the following day under his fleece pullover; when he was told to hit, no one"
-com,"noticed; it is against the rules for one player to be in a different uniform"
 play,5,1,hartc001,12,CSBFX,4/P
 play,5,1,morgn001,01,CX,S49/G.2-3
 play,5,1,braur002,32,BFBB>F>S,K
@@ -9546,7 +9453,6 @@ play,6,1,morgn001,00,,NP
 sub,carrj001,"Jamey Carroll",0,2,4
 play,6,1,morgn001,00,,NP
 sub,milea001,"Aaron Miles",0,5,5
-com,"Dodgers third baseman Casey Blake left the game due to an injured shoulder"
 play,6,1,morgn001,22,..CBFBFFX,5/P
 play,6,1,braur002,32,CBFBFBB,W
 play,6,1,fielp001,10,11BX,S9/G.1-2
@@ -9691,7 +9597,6 @@ play,7,0,milea001,21,BCBX,3/G
 play,7,0,barar001,10,BX,D7/L+
 play,7,0,carrj001,02,FFX,S8/G.2-H;B-2(THH)
 play,7,0,kersc001,00,X,E1/TH1/BG.2-H(UR)(NR)
-com,"origially scored as single, changed to E1 after game"
 play,7,0,gwynt002,02,CC>X,63/G
 play,7,1,mcgec001,11,FBX,8/F
 play,7,1,betay001,11,SBX,3/P
@@ -10091,10 +9996,6 @@ start,greiz001,"Zack Greinke",1,9,1
 play,1,0,casts001,10,BX,9/L
 play,1,0,barnd001,22,BCCBFX,3/G
 play,1,0,ramia001,32,BFBBFC,K
-com,"ej,quadm801,M,millb901,Called third strike"
-com,"$Aramis Ramirez started towards 1B thinking he had walked; when HP umpire Bill Miller called"
-com,"the pitch strike three, he said a couple of things to Miller; Cubs Manager Mike Quade came"
-com,"onto the field to get Ramirez; as Quade turned Ramirez to the dugout, he was ejected by Miller"
 play,1,1,hartc001,21,.CBBX,S8/G
 play,1,1,morgn001,00,X,34/SH/BG.1-2
 play,1,1,braur002,00,X,D9/L.2-H
@@ -10402,7 +10303,6 @@ play,3,0,hollm001,21,BBFX,53/G
 play,3,1,hartc001,31,CBBBX,63/G
 play,3,1,morgn001,02,CSFX,6E3/G.B-1
 play,3,1,braur002,11,CPX,T8/L.1-H(UR);BXH(8625)
-com,"$Ryan Braun fell after rounding 3B while attempting to run out an IPHR"
 play,3,1,fielp001,00,X,43/G
 play,4,0,freed001,12,FCBH,HP
 play,4,0,berkl001,22,BFFB1H,HP.1-2
@@ -10553,8 +10453,6 @@ play,3,0,dickb001,11,CBX,S6/G.B-2(E6/TH1)
 play,3,0,furcr001,30,*BBBB,W
 play,3,0,jay-j001,12,BSFX,S4/G.2-3;1-2
 play,3,0,pujoa001,10,BX,HR/9/F.3-H;2-H;1-H
-com,"$Brewers RF Corey Hart lost his glove over the fence trying to catch Albert Pujols'"
-com,"grand slam"
 play,3,0,hollm001,22,SFBFBS,K
 play,3,0,berkl001,02,FFC,K
 play,3,0,schus001,01,CX,43/G
@@ -10578,7 +10476,6 @@ play,4,1,gally001,02,SFS,K
 play,5,0,jay-j001,12,CCBC,K
 play,5,0,pujoa001,00,X,S8/L
 play,5,0,hollm001,11,FBX,HR/9/F.1-H
-com,"$Matt Holliday's 200th home run"
 play,5,0,berkl001,12,CSBS,K
 play,5,0,schus001,11,CBX,S7/L
 play,5,0,moliy001,00,,NP
@@ -10725,10 +10622,6 @@ play,5,1,gomec002,11,SBX,7/F
 play,6,0,martm003,02,SFS,K
 play,6,0,hamec001,12,CSBS,K
 play,6,0,victs001,00,X,D7/F
-com,"$Shane Victorino's fly ball hit the yellow line at the top of the LF wall a couple"
-com,"of feet from the pole; it was ruled fair and in play by 3B umpire Gerry Davis, who"
-com,"is also the crew chief; Phillies manager Charlie Manuel asked about the call, so"
-com,"Davis watched the replay and upheld the call"
 play,6,0,valdw001,11,CBX,D8/L.2-H
 play,6,0,polap001,32,CBBFFB*B,W
 play,6,0,pench001,12,CBFX,T8/L.2-H;1-H
@@ -11361,7 +11254,6 @@ sub,kottg001,"George Kottaras",1,9,11
 play,5,1,kottg001,12,.CBCS,K23
 play,5,1,hartc001,31,BBSBB,W
 play,5,1,morgn001,02,>FFS,K23/INT
-com,"batter interference"
 play,6,0,heltt001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",1,9,1
 play,6,0,heltt001,31,.BBBCB,W
@@ -11370,7 +11262,6 @@ play,6,0,pachj001,00,>C,CS2(24)
 play,6,0,pachj001,12,>C.BFFX,3/P-
 play,6,1,braur002,00,,NP
 sub,fielt001,"Thomas Field",0,4,6
-com,"Rockies shortstop Troy Tulowitzki left the game due to an injured hip"
 play,6,1,braur002,22,.CSBFBX,63/G
 play,6,1,fielp001,11,CBX,HR/8/F
 play,6,1,weekr001,02,CSX,8/F

@@ -128,11 +128,6 @@ sub,ozunp001,"Pablo Ozuna",0,1,4
 play,7,1,liebm001,11,BCX,7/F7
 play,7,1,burrp001,01,CX,4/P4
 play,7,1,andem003,00,H,HP
-com,"ej,olsek001,P,cuzzp901,Intentional HBP"
-com,"ej,torbj101,M,cuzzp901,Intentional HBP"
-com,"Kevin Olsen ejected by HP umpire Phil Cuzzi and suspended for"
-com,"three games; Marlins Manager Jeff Torborg ejected by Cuzzi"
-com,"and suspended for two games for excessive arguing"
 play,7,1,santj002,00,,NP
 sub,loopb001,"Braden Looper",0,7,1
 play,7,1,santj002,32,BBCSBB,W.1-2
@@ -832,7 +827,6 @@ start,gland001,"Doug Glanville",1,7,8
 start,pratt001,"Todd Pratt",1,8,2
 start,duckb001,"Brandon Duckworth",1,9,1
 play,1,0,furcr001,00,X,S7
-com,"Debut game for John Ennis"
 play,1,0,jonea002,00,X,HR/78.1-H
 play,1,0,jonec004,00,X,8/F8
 play,1,0,shefg001,31,BCBBB,W
@@ -917,7 +911,6 @@ play,8,0,jonec004,10,BX,D7/7D.1-3
 play,8,0,shefg001,30,IIII,IW
 play,8,0,castv001,00,X,D/78.3-H;2-H;1-3
 play,8,0,franj002,02,CFX,FC6/INT/G6M.2X3(6);B-1
-com,"Clear interference on Castilla - no argument"
 play,8,0,gilem001,00,X,54(1)/FO
 play,8,1,gland001,12,CCBX,S8/8S
 play,8,1,pratt001,02,SLC,K/C
@@ -1096,7 +1089,6 @@ play,7,1,holld001,12,FBFX,46(1)/FO
 play,7,1,merch002,00,,NP
 sub,lee-t002,"Travis Lee",1,7,11
 play,7,1,lee-t002,12,CSBX,S6/G.1-2
-com,"originally scored as E6"
 play,7,1,gland001,12,BCFX,54(1)/FO
 play,8,0,furcr001,00,,NP
 sub,cormr001,"Rheal Cormier",1,7,1
@@ -1358,7 +1350,6 @@ start,persr001,"Robert Person",1,9,1
 play,1,0,taylr001,21,BBCX,T9
 play,1,0,larkb001,00,X,13/G
 play,1,0,cases001,01,SH,HP
-com,"hit on head, ball bounces to pitcher in air"
 play,1,0,dunna001,00,,NP
 sub,mater001,"Ruben Mateo",0,3,12
 play,1,0,dunna001,30,BBBX,46(1)3/GDP
@@ -1836,7 +1827,6 @@ sub,leder001,"Ricky Ledee",1,9,11
 play,5,1,leder001,22,BCBFX,63/G
 play,5,1,rollj001,02,CFC,K/C
 play,5,1,gland001,11,CBX,S5
-com,"originally scored E5"
 play,5,1,abreb001,12,CCBS,K
 play,6,0,lankr001,00,,NP
 sub,santj002,"Jose Santiago",1,9,1
@@ -2494,7 +2484,6 @@ play,7,1,burrp001,01,SX,63/G
 play,8,0,walkl001,32,SBBCBS,K
 play,8,0,heltt001,00,X,7/F7
 play,8,0,zeilt001,22,BBFCX,S1/L1
-com,"off Cormier's shin, has to leave game"
 play,8,0,hollt001,00,,NP
 sub,bottr001,"Ricky Bottalico",1,9,1
 play,8,0,hollt001,12,FBCFS,K
@@ -2571,7 +2560,6 @@ start,liebm001,"Mike Lieberthal",1,6,2
 start,burrp001,"Pat Burrell",1,7,7
 start,andem003,"Marlon Anderson",1,8,4
 start,adamt001,"Terry Adams",1,9,1
-com,"23 minute rain delay in the first inning"
 play,1,0,biggc001,02,FFX,63/G
 play,1,0,ausmb001,30,BBBB,W
 play,1,0,merco002,20,BBX,S9/9D.1-3
@@ -2810,8 +2798,6 @@ sub,bottr001,"Ricky Bottalico",1,9,1
 play,8,0,zaung001,32,BBCCFBFFX,3/G#
 play,8,0,bagwj001,12,CBCX,8/F8
 play,8,0,berkl001,12,FCBC,K/C
-com,"ej,berkl001,P,vanol901,Called strike three"
-com,"Lance Berkman ejected by HP umpire Larry Vanover"
 play,8,1,gland001,00,,NP
 sub,huntb002,"Brian Hunter",0,4,8
 play,8,1,gland001,00,,NP
@@ -3591,7 +3577,6 @@ play,2,0,alfoe001,00,X,43/G
 play,2,0,burnj001,31,BSBBB,W
 play,2,0,paytj001,32,CBBBCX,S8.1-2
 play,2,0,ordor001,00,X,S8.2-3;1X3(85)
-com,"$out at 3rd just before Burnitz to plate - no run"
 play,2,1,liebm001,21,BBCX,D7
 play,2,1,gland001,01,CX,D7.2-H
 play,2,1,adamt001,00,X,13/SH.2-3#
@@ -3601,7 +3586,6 @@ play,3,0,leita001,11,BCX,63/G
 play,3,0,ceder001,12,CBFX,S7.B-2(E7)
 play,3,0,alomr001,11,LBX,S8/8S.2-3
 play,3,0,vaugm001,00,X,3/GDP.3-H(NR)(UR);1X2(361)
-com,"fielding credit correct - GDP, no RBI"
 play,3,1,roles001,22,BCBFX,3/P3
 play,3,1,abreb001,32,BBCBCS,K
 play,3,1,burrp001,12,CCBS,K
@@ -4207,7 +4191,6 @@ sub,chenb001,"Bruce Chen",0,9,1
 play,1,1,peret003,11,BSX,3/FL
 play,1,1,pratt001,30,IIII,IW.2-3;1-2
 play,1,1,persr001,10,BX,HR/7.3-H;2-H;1-H
-com,"$Phi pitcher Person hits grand slam in first inn"
 play,1,1,andem003,22,CBSBFX,S8/8S
 play,1,1,roles001,30,BBBB,W.1-2
 play,1,1,abreb001,12,CFBFFB,WP.2-3;1-2
@@ -4245,7 +4228,6 @@ play,3,1,peret003,12,BSFFFFFFX,7/F7D
 play,3,1,pratt001,31,BBFBB,W.2-3;1-2
 play,3,1,persr001,00,,NP
 sub,yoshm001,"Masato Yoshii",0,9,1
-com,"$Person hits long foul that would have been a second slam"
 play,3,1,persr001,12,CBSFS,K
 play,4,0,galaa001,02,FSX,9/F9D
 play,4,0,barrm003,32,BCCBBB,W
@@ -4266,8 +4248,6 @@ play,5,1,lee-t002,12,BCFX,S9/9S
 play,5,1,peret003,02,CSS,K
 play,5,1,pratt001,10,BX,S8.1-3
 play,5,1,persr001,12,SSFBFX,HR/7.3-H;1-H
-com,"$Person becomes first pitcher with slam and 3-run homer"
-com,"in same game"
 play,5,1,andem003,11,BFX,7/F7
 play,5,1,rollj001,11,BCX,43/G
 play,6,0,cordw001,00,,NP
@@ -5072,7 +5052,6 @@ sub,leonj002,"Jose J. Leon",0,9,3
 play,7,1,burrp001,00,,NP
 sub,robew001,"Willis Roberts",0,7,1
 play,7,1,burrp001,12,BCFX,43/G
-com,"Debut game for Jose J. Leon"
 play,8,0,gil-g001,00,,NP
 sub,silvc001,"Carlos Silva",1,9,1
 play,8,0,gil-g001,02,FSX,53/G
@@ -5375,7 +5354,6 @@ start,liebm001,"Mike Lieberthal",1,6,2
 start,lee-t002,"Travis Lee",1,7,3
 start,peret003,"Tomas Perez",1,8,5
 start,padiv001,"Vicente Padilla",1,9,1
-com,"1:24 rain delay at start"
 play,1,0,loftk001,12,CBSS,K
 play,1,0,graft001,02,CFFX,3/FL
 play,1,0,ordom001,01,FX,D9/9D
@@ -5618,9 +5596,6 @@ play,9,0,rowaa001,22,BFSBC,K/C
 play,9,1,gland001,11,CBX,D/89D
 play,9,1,abreb001,11,BCX,D8/8D.2-H
 play,9,1,burrp001,32,CBBBSFC,K/C
-com,"ej,bowal001,M,hollm901,Called third strike"
-com,"ej,burrp001,P,hollm901,Called third strike"
-com,"Pat Burrell and Phillies Manager Larry Bowa ejected by HP umpire Matt Hollowell"
 play,9,1,liebm001,00,,NP
 sub,howrb001,"Bobby Howry",0,9,1
 play,9,1,liebm001,32,BBCFBS,K
@@ -6406,7 +6381,6 @@ sub,mcewj001,"Joe McEwing",0,4,3
 play,9,1,abreb001,00,,NP
 sub,walkt003,"Tyler Walker",0,9,1
 play,9,1,abreb001,31,BBBCB,W
-com,"Debut game for Tyler Walker"
 play,9,1,burrp001,12,BCFX,6/P6
 play,9,1,roles001,12,CBFFFFX,HR/7.1-H
 play,9,1,lee-t002,21,BBCX,5/FL
@@ -6953,7 +6927,6 @@ play,3,0,guerv001,10,BX,D/78
 play,3,0,oleat001,32,BBCBCS,K
 play,3,1,pratt001,32,BCBBFB,W
 play,3,1,duckb001,12,LLBX,16(1)4/BG/GDP
-com,"bunt assumed"
 play,3,1,leder001,32,CBBSBB,W
 play,3,1,rollj001,02,SCX,D9/9S.1-3
 play,3,1,abreb001,20,BBX,43/G
@@ -7190,11 +7163,6 @@ play,7,1,liebm001,21,BBCX,43/G.2-3
 play,7,1,andem003,00,,NP
 sub,eiscj001,"Joey Eischen",0,9,1
 play,7,1,andem003,12,FCBH,HP
-com,"ej,eiscj001,P,emmep901,Intentional HBP"
-com,"ej,robif103,M,emmep901,Intentional HBP"
-com,"ej,poled101,C,emmep901,Protesting Eischen ejection"
-com,"Joey Eischen, coach Dick Pole and Manager Frank Robinson"
-com,"ejected by HP umpire Paul Emmel"
 play,7,1,silvc001,00,,NP
 sub,lloyg001,"Graeme Lloyd",0,9,1
 play,7,1,silvc001,00,,NP
@@ -7323,7 +7291,6 @@ play,5,0,bellm002,20,BBX,3/G#
 play,5,0,muelb001,20,BBX,D7
 play,5,0,sosas001,31,BFBBB,W
 play,5,0,mcgrf001,01,CX,S7.2-H;1-H(E7/TH)(UR);B-2
-com,"originally scored as earned, changed next day"
 play,5,0,aloum001,10,BX,13/G
 play,5,0,pattc001,00,H,HP
 play,5,0,hundt001,00,X,23/G
@@ -7386,12 +7353,8 @@ sub,fassj001,"Jeff Fassero",0,6,1
 play,10,1,michj001,21,BBFX,S/89
 play,10,1,rollj001,00,X,13/SH.1-2#
 play,10,1,abreb001,32,BCBSBX,S6.2-3;B-1
-com,"changed next day from fielder's choice"
 play,10,1,burrp001,30,IIII,IW.1-2
 play,10,1,lee-t002,01,FX,FC4.3-H;2-3;1-2;B-1
-com,"$Bellhorn tried for DP, but Burrell eluded tag,"
-com,"allowing winning run to score.  Scoring changed"
-com,"next day to indicate Burrell was not tagged"
 data,er,woodk002,2
 data,er,alfoa001,1
 data,er,fassj001,1
@@ -7601,7 +7564,6 @@ start,lee-t002,"Travis Lee",1,6,3
 start,liebm001,"Mike Lieberthal",1,7,2
 start,peret003,"Tomas Perez",1,8,6
 start,duckb001,"Brandon Duckworth",1,9,1
-com,"1:45 minute rain delay at start"
 play,1,0,furcr001,12,CBCC,K/C
 play,1,0,franm001,22,CCBBFS,K
 play,1,0,shefg001,01,CX,2/FL
@@ -7965,7 +7927,6 @@ sub,giamj002,"Jeremy Giambi",1,9,11
 play,8,1,giamj002,11,FB+1,NP
 sub,blanh001,"Henry Blanco",0,7,2
 play,8,1,giamj002,32,FB+1SFBBFS,K+SB2
-com,"$Lopez hurt shoulder on pickoff try"
 play,8,1,leder001,00,X,13/G
 play,9,0,jonec004,00,,NP
 sub,gland001,"Doug Glanville",1,7,8
@@ -8766,7 +8727,6 @@ play,12,0,grees001,12,SFBFX,D7.1-3
 play,12,0,lodup001,10,BX,S.3-3;2-2
 play,12,0,belta001,02,SCX,4/F4
 play,12,0,karre001,11,CBX,S8/8S.3-H;2-H;1X3(83);B-2(TH3)
-com,"Lee cut off throw at mound and got Lo Duca hung up"
 play,12,0,gagne001,00,,NP
 sub,kinkm001,"Mike Kinkade",0,7,11
 play,12,0,kinkm001,32,BBBCCB,W
@@ -8921,7 +8881,6 @@ sub,iztuc001,"Cesar Izturis",0,5,12
 play,9,0,belta001,02,LCS,K
 play,9,0,grudm001,12,CBFFX,143/G.2-3
 play,9,0,coraa001,01,CX,S39/G34.3-H;BX2(96)
-com,"$deflected by Lee past Anderson"
 play,9,1,andem003,00,,NP
 sub,coraa001,"Alex Cora",0,8,4
 play,9,1,andem003,00,,NP
@@ -9092,8 +9051,6 @@ play,9,0,grudm001,00,,NP
 sub,rollj001,"Jimmy Rollins",1,8,6
 play,9,0,grudm001,00,,NP
 sub,peret003,"Tomas Perez",1,9,4
-com,"$Perez and Rollins change because Rollins was hurt"
-com,"when hit by pitch in 8th"
 play,9,0,grudm001,01,CX,S9.1-3
 play,9,0,coraa001,00,,NP
 sub,houst001,"Tyler Houston",0,8,11
@@ -9814,7 +9771,6 @@ start,lee-t002,"Travis Lee",1,6,3
 start,polap001,"Placido Polanco",1,7,5
 start,andem003,"Marlon Anderson",1,8,4
 start,padiv001,"Vicente Padilla",1,9,1
-com,"34 minute delay at start due to ceremonies for Harry Kalas"
 play,1,0,vinaf001,00,X,5/L5
 play,1,0,drewj001,11,CBX,43/G
 play,1,0,edmoj001,01,CX,3/G#
@@ -10024,7 +9980,6 @@ sub,smitd006,"Dan Smith",0,9,1
 play,7,1,rollj001,31,BBCBX,S9
 play,7,1,abreb001,32,CBBBFFFS,K
 play,7,1,burrp001,00,X,D7/F78XDW.1-H
-com,"$off top of wall"
 play,7,1,liebm001,20,BBX,8/F8
 play,7,1,lee-t002,32,CBBSBX,3/G#
 play,8,0,vidrj001,00,,NP
@@ -10050,7 +10005,6 @@ sub,macij001,"Jose Macias",0,9,11
 play,9,0,macij001,00,,NP
 sub,guerw001,"Wilton Guerrero",0,8,12
 play,9,0,macij001,01,FX,46(1)/FO.2-3
-com,"$should have been game-ending GDP, but throw high to 1B"
 play,9,0,wilkb002,22,SFBBS,K
 data,er,yoshm001,2
 data,er,eiscj001,0
@@ -10737,8 +10691,6 @@ play,1,1,andem003,00,X,43/G
 play,1,1,abreb001,01,CX,S/78
 play,1,1,burrp001,32,BCBFBB,W.1-2
 play,1,1,giamj002,10,BX,31/G
-com,"ej,bowal001,M,barkl901,Unknown reason"
-com,"Phillies Manager Larry Bowa ejected by Barksdale in 2nd"
 play,2,0,ordor001,11,BCX,S/89
 play,2,0,thomj005,01,LX,13/SH.1-2#
 play,2,0,ceder001,11,CBX,S8.2-H
@@ -10746,7 +10698,6 @@ play,2,0,peret004,01,CX,6/P6
 play,2,0,alomr001,11,BCB,SB2
 play,2,0,alomr001,32,BCBFBFX,9/F9
 play,2,1,byrdm001,32,BFBBCB,W
-com,"Debut game for Marlon Byrd"
 play,2,1,peret003,21,CBBX,D9.1-3
 play,2,1,pratt001,31,BCBBX,53/G.3-H;2-3
 play,2,1,duckb001,01,CX,S8.3-H
@@ -10755,7 +10706,6 @@ play,2,1,andem003,10,BX,7/F7
 play,2,1,abreb001,32,BBBCFX,7/F7
 play,3,0,alfoe001,00,,NP
 sub,lee-t002,"Travis Lee",1,5,3
-com,"not clear why Giambi left early"
 play,3,0,alfoe001,10,BX,63/G
 play,3,0,burnj001,31,BCBBB,W
 play,3,0,wiggt001,01,FS,SB2
@@ -10994,8 +10944,6 @@ sub,valej002,"John Valentin",0,9,11
 play,7,0,valej002,02,SFX,8/SF.3-H
 play,7,0,ceder001,31,FBBBB,W.2-3;1-2
 play,7,0,alomr001,32,BBCFBB,W.3-H;2-3;1-2
-com,"ej,timlm001,P,vanol901,Balls and strikes"
-com,"Mike Timlin ejected by HP umpire Larry Vanover"
 play,7,0,piazm001,00,,NP
 sub,santj002,"Jose Santiago",1,9,1
 play,7,0,piazm001,20,BBX,HR/7.3-H;2-H;1-H
@@ -11110,8 +11058,6 @@ play,1,0,lee-d002,32,CBSBFBX,T9/89.3-H;2-H;1-H
 play,1,0,wilsp002,31,CBBBB,W
 play,1,0,johnc002,12,SSBS,K
 play,1,0,mordm001,11,CBX,FC1/G2R.3XH(12);1-2;B-1
-com,"$dribbler 20 ft up 1B line, great scoop by Wolf to"
-com,"Lieberthal who made nice block"
 play,1,1,leder001,22,CCBFBX,13/G
 play,1,1,rollj001,01,CX,43/G
 play,1,1,abreb001,22,BFBFX,13/G
@@ -11122,7 +11068,6 @@ play,2,1,burrp001,21,BCBX,63/G
 play,2,1,lee-t002,01,CX,S8/G4M
 play,2,1,liebm001,11,BCX,53/G.1-2
 play,2,1,peret003,12,FFBX,S8/F8S.2-H;B-2(THH)
-com,"$broken bat bloop"
 play,2,1,andem003,21,BCBB,PB.2-3
 play,2,1,andem003,31,BCBBI,IW
 play,2,1,wolfr001,02,CFS,K
@@ -11133,9 +11078,6 @@ play,3,1,leder001,00,X,43/G
 play,3,1,rollj001,01,CX,7/F7
 play,3,1,abreb001,32,CBCBBX,S16
 play,3,1,burrp001,31,BBBCX,D7/G5L.1XH(742)
-com,"ej,vukoj101,C,fostm901,Call at HP"
-com,"$3B coach Vukovich immediately ejected"
-com,"by HP umpire Marty Foster; Gary Varsho took over as 3B coach"
 play,4,0,wilsp002,00,X,5/FL
 play,4,0,johnc002,12,BFFX,63/G
 play,4,0,mordm001,31,CBBBX,D8/78D
@@ -11196,7 +11138,6 @@ play,8,0,lowem001,10,BX,53/G
 play,8,0,lee-d002,31,CBBBX,53/G
 play,8,0,wilsp002,22,CBBFFFX,53/G
 play,8,1,polap001,10,BX,8/F8
-com,"$broken bat"
 play,8,1,gland001,21,CBBX,4/P4
 play,8,1,rollj001,01,SX,3/L3
 play,9,0,owene001,12,FFBFX,63/G
@@ -11279,7 +11220,6 @@ play,2,1,pratt001,22,SCBBC,K/C
 play,3,0,waynj001,11,FBX,63/G
 play,3,0,ozunp001,10,BX,S9/9S
 play,3,0,fox-a001,21,BCBX,S/BR.1X2(4)
-com,"$hit and run, ball hit Ozuna as he slid"
 play,3,0,millk005,20,BBX,S7.1-3
 play,3,0,lowem001,00,X,64(1)/FO
 play,3,1,padiv001,32,CFBBBC,K/C
@@ -11291,7 +11231,6 @@ play,4,0,redmm001,22,BCFFBH,HP
 play,4,0,bankb001,10,BX,8/F8
 play,4,1,abreb001,22,SCBBX,53/G
 play,4,1,burrp001,02,FFX,53/G
-com,"$nice play by Lowell on very bad hop"
 play,4,1,giamj002,31,BSBBB,W
 play,4,1,byrdm001,01,CX,64(1)/FO
 play,5,0,waynj001,02,CFX,9/F9
@@ -11305,8 +11244,6 @@ play,6,0,lowem001,12,BCFS,K
 play,6,0,lee-d002,02,CFX,63/G
 play,6,1,rollj001,32,CBFBBB,W
 play,6,1,polap001,01,CX,1/L1
-com,"$knocked Wayne flat; manager and trainer came out,"
-com,"he took one throw and stayed in"
 play,6,1,abreb001,21,CBBX,7/F7DW
 play,6,1,burrp001,02,SSC,K/C
 play,7,0,owene001,12,CFBX,S8/8S
@@ -11332,7 +11269,6 @@ sub,estrj001,"Johnny Estrada",1,5,2
 play,8,0,ozunp001,02,CFX,43/G
 play,8,0,fox-a001,12,BCFFS,K
 play,8,0,millk005,10,BX,S7/7S.BX2(74)
-com,"$Millar stumbled, fell on face, never got to bag"
 play,8,1,padiv001,00,,NP
 sub,michj001,"Jason Michaels",1,9,11
 play,8,1,michj001,00,,NP
@@ -11524,8 +11460,6 @@ sub,puntn001,"Nick Punto",1,7,4
 play,9,0,castr002,00,,NP
 sub,junge001,"Eric Junge",1,9,1
 play,9,0,castr002,00,X,D8/78XDW
-com,"Debut game for Eric Junge"
-com,"$First ML pitch by Junge hit off top of wall"
 play,9,0,fox-a001,32,CBFBBS,K
 play,9,0,owene001,12,BCSFFX,S9.2-H
 play,9,0,ozunp001,32,FFBBFBFFX,54(1)3/GDP
@@ -11602,7 +11536,6 @@ play,3,0,castr002,10,BX,53/G
 play,3,0,fox-a001,12,CFBFX,D9
 play,3,0,tejem001,00,X,63/G.2-3
 play,3,0,castl001,21,CBBX,31/G
-com,"$great cover by Roa, just beat Castillo"
 play,3,1,burrp001,21,BFBX,3/FL
 play,3,1,liebm001,12,CBFX,7/F7
 play,3,1,byrdm001,22,BSCBFX,43/G
@@ -11614,9 +11547,6 @@ play,4,1,polap001,10,BX,D/78
 play,4,1,holld001,12,SBCX,53/G
 play,4,1,peret003,12,BCFX,S9/9S.2-3
 play,4,1,roa-j001,11,SBX,E1/TH2/BG13.1-2
-com,"no SH"
-com,"$Tejera's throw high because he was worried about"
-com,"hitting Lee"
 play,4,1,rollj001,21,BBFX,T/78.3-H;2-H;1-H(UR)
 play,4,1,gland001,00,X,T/89.3-H
 play,4,1,burrp001,11,BCX,8/SF.3-H(UR)
@@ -11723,7 +11653,6 @@ start,andem003,"Marlon Anderson",1,8,4
 start,merch002,"Hector Mercado",1,9,1
 play,1,0,reesp001,22,CBBFX,S7
 play,1,0,wilsj002,01,LS,SB2.1-3(E4)
-com,"No one covered, error given to Anderson"
 play,1,0,wilsj002,12,LSFBFX,T9.3-H
 play,1,0,gileb002,20,BBX,43/G.3-H
 play,1,0,ramia001,12,BCSS,K
@@ -12227,7 +12156,6 @@ play,3,1,burrp001,30,BBBI,IW
 play,3,1,liebm001,11,BCH,HP.2-3;1-2
 play,3,1,lee-t002,21,BSBX,S8.3-H;2-3;1-2
 play,3,1,byrdm001,32,BBBCSX,32(3)/FO.2-3;1-2
-com,"$popup that fell in, became a force"
 play,3,1,andem003,10,BX,8/L8
 play,4,0,castv001,32,FBBSBFS,K
 play,4,0,derom001,00,X,8/F8
@@ -12236,8 +12164,6 @@ play,4,0,furcr001,32,SBFFFBBFX,8/F8
 play,4,1,junge001,32,BBCFBX,9/F9S
 play,4,1,rollj001,21,BBCX,9/F9
 play,4,1,polap001,02,SFX,13/G
-com,"ej,cox-b103,M,wegnm901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Mark Wegner in 5th"
 play,5,0,franm001,20,BBX,9/F9
 play,5,0,shefg001,00,X,S7
 play,5,0,jonec004,32,BBCBSFS,K+SB2

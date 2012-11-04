@@ -72,8 +72,6 @@ play,4,0,morrl001,00,X,S5/P.1-3
 play,4,0,murpd004,00,X,9/F
 play,4,1,pench001,12,CFFBFFX,43/G
 play,4,1,lee-c001,22,CBFBX,13/G
-com,"$Carlos Lee was called out for running inside the baseline when the toss from"
-com,"pitcher Ricky Nolasco went over everyone's head into right field foul territory"
 play,4,1,wallb001,01,FX,7/L
 play,5,0,bonie001,02,FCS,K
 play,5,0,hayeb001,00,X,D8/F
@@ -107,8 +105,6 @@ play,7,1,rodrw002,00,,NP
 sub,murpd004,"Donnie Murphy",0,6,6
 play,7,1,rodrw002,00,,NP
 sub,michj001,"Jason Michaels",1,9,11
-com,"$Marlins shortstop Hanley Ramirez left the game due to an injured leg"
-com,"after Bill Hall slid into him"
 play,7,1,michj001,11,...SBX,64(1)/FO/G
 play,8,0,infao001,00,,NP
 sub,lopew001,"Wilton Lopez",1,9,1
@@ -423,10 +419,6 @@ play,7,1,wallb001,22,..BBFFC,K
 play,7,1,hallb001,00,,NP
 sub,mujie001,"Edward Mujica",0,7,1
 play,7,1,hallb001,00,.H,HP
-com,"ej,mujie001,P,joycj901,Intentional HBP"
-com,"Marlins pitcher Edward Mujica ejected by HP umpire Jim Joyce; this may have been retribution for"
-com,"Hall's hard slide into Hanley Ramirez two days before, which injured Ramirez; Joyce also warned"
-com,"both teams"
 play,7,1,downm001,00,,NP
 sub,webbr001,"Ryan Webb",0,7,1
 play,7,1,downm001,00,..1X,7!/F+
@@ -449,9 +441,6 @@ play,8,1,lee-c001,00,X,9/F
 play,9,0,sancg001,00,,NP
 sub,rodra002,"Aneury Rodriguez",1,9,1
 play,9,0,sancg001,22,.BBCCFH,HP
-com,"ej,rodra002,P,joycj901,Intentional HBP"
-com,"ej,millb101,M,joycj901,Intentional HBP"
-com,"Astros pitcher Aneury Rodriguez and manager Brad Mills ejected by HP umpire Jim Joyce"
 play,9,0,buckj001,00,,NP
 sub,fulcj001,"Jeff Fulchino",1,9,1
 play,9,0,buckj001,12,...CBCS,K
@@ -587,9 +576,6 @@ play,7,1,abadf001,00,,NP
 sub,hallb001,"Bill Hall",1,9,11
 play,7,1,hallb001,11,.BFX,HR/9/F
 play,7,1,bourm001,11,CBX,D9/F
-com,"$Michael Bourn's fly to right field hit the top of the padding on the wall and landed on the warning"
-com,"track; it was ruled in play but the Astros asked about the call, so crew chief Gary Darling watched"
-com,"the replay and upheld the call"
 play,7,1,sanca005,10,BX,HR/7/F.2-H
 play,7,1,pench001,00,,NP
 sub,grabj002,"John Grabow",0,9,1
@@ -687,8 +673,6 @@ start,hallb001,"Bill Hall",1,6,4
 start,johnc003,"Chris Johnson",1,7,5
 start,quinh001,"Humberto Quintero",1,8,2
 start,myerb001,"Brett Myers",1,9,1
-com,"$Houston was managed by bench coach Al Pedrique while Brad Mills served a one-game suspension"
-com,"resulting from the bean-ball war in the game on 4/10 versus the Marlins"
 play,1,0,casts001,01,FX,S7/L
 play,1,0,barnd001,21,BCB1X,54(1)/FO/G
 play,1,0,byrdm001,11,BCX,S9/L.1-2
@@ -1990,7 +1974,6 @@ play,4,0,freed001,10,BX,S7/G
 play,4,0,pujoa001,10,BX,9/F
 play,4,0,hollm001,22,FFB+1F*B1,PO1(E1).1-2
 play,4,0,hollm001,22,FFB+1F*B1N,OA.2X3(45)
-com,"Last two plays really one, but must be entered as two"
 play,4,0,hollm001,32,FFB+1F*B1.BX,9/F
 play,4,1,johnc003,01,CX,9/F
 play,4,1,quinh001,21,BSBX,7/F
@@ -2222,7 +2205,6 @@ play,8,0,mcgec001,00,,NP
 sub,fulcj001,"Jeff Fulchino",1,5,1
 play,8,0,mcgec001,00,,NP
 sub,bogub001,"Brian Bogusevic",1,9,7
-com,"Astros first baseman Brett Wallace left the game due to an injured hip"
 play,8,0,mcgec001,00,...X,9/F
 play,8,0,hartc001,21,BSBX,8!/F+
 play,8,0,betay001,31,BBBCB,W
@@ -2451,7 +2433,6 @@ play,2,1,lee-c001,00,X,S9/L
 play,2,1,wallb001,02,CCX,S6/G.1-2
 play,2,1,hallb001,01,TX,S7/L.2-H;1-2
 play,2,1,downm001,32,*BFC*BBX,8/FDP.2X2(84)
-com,"$Brent Wallace called out for leaving 2B too early on the catch"
 play,2,1,quinh001,00,X,S9/L.1-2
 play,2,1,norrb001,02,CCFS,K
 play,3,0,lucrj001,01,CX,S9/F
@@ -2487,9 +2468,6 @@ play,7,0,braur002,22,CBFBC,K
 play,7,0,fielp001,01,TX,S15/G
 play,7,0,mcgec001,12,SSBT,K
 play,7,0,kotsm001,12,FBFX,D7/F.1-3
-com,"$Astros left fielder Carlos Lee and SS Angel Sanchez collide while trying to catch the bloop"
-com,"in short LF; Sanchez hit Lee in the left ribs with his knee; Lee left the game with a rib"
-com,"contusion and was held in the hospital overnight"
 play,7,0,betay001,00,,NP
 sub,bourj001,"Jason Bourgeois",1,1,7
 play,7,0,betay001,00,,NP
@@ -3412,8 +3390,6 @@ play,5,1,hallb001,12,CF*BFS,K
 play,6,0,bay-j001,00,X,S7/G
 play,6,0,murpd006,32,BBFVC1,PO1(E1).1-2
 play,6,0,murpd006,32,BBFVC1.FB,W
-com,"$Walk was disputed, but 2B umpire Angel Hernandez called ball three when pitcher"
-com,"Aneury Rodriguez went to his mouth on the pitching rubber and not everyone heard it"
 play,6,0,turnj001,00,X,HR/7/F.2-H;1-H
 play,6,0,pridj001,00,,NP
 sub,abadf001,"Fernando Abad",1,9,1
@@ -4052,8 +4028,6 @@ play,7,0,johnk003,00,X,S8/L.3-H;1-3
 play,7,0,uptoj001,20,BBX,3/P3F
 play,7,0,drews001,32,FSBFBBB,W.1-2
 play,7,0,younc004,10,BX,S1/G.3-H;2-H(E1/THH)(UR);1-3;B-2
-com,"$Astros catcher Humberto Quintero was knocked over by Ryan Roberts; Quintero"
-com,"suffered a sprained right ankle and was put on the disabled list"
 play,7,0,montm001,00,,NP
 sub,towlj001,"J.R. Towles",1,8,2
 play,7,0,montm001,00,.X,FC6/G.3XH(62);2-3
@@ -4325,9 +4299,6 @@ play,4,1,keppj001,10,BX,D7/G+
 play,4,1,pench001,21,BFBX,S9/L-.2-3
 play,4,1,lee-c001,30,*BBBX,3/P
 play,4,1,wallb001,11,FBN,BK.3-H;1-2
-com,"ej,gibsk001,M,reybd901,Balk call"
-com,"$D-backs Manager Kirk Gibson went on the field to ask about the balk called by HP umpire D. J. Reyburn;"
-com,"after Reyburn explained, Gibson pointed at Reyburn and said something; Reyburn ejected Gibson"
 play,4,1,wallb001,31,FBN..BB2B,W
 play,4,1,johnc003,32,BCFFFBF*B>F>X,63/G.2-3;1-2
 play,4,1,barmc001,22,CFBBFFFFS,K
@@ -4462,8 +4433,6 @@ play,1,0,craia001,12,CCBS,K
 play,1,1,bourm001,22,BCCBX,63/G
 play,1,1,barmc001,00,,NP
 sub,jay-j001,"Jon Jay",0,5,9
-com,"$Cardinals right fielder Allen Craig left the game due to a knee contusion after running"
-com,"into the wall in foul territory chasing a fly by Clint Barmes"
 play,1,1,barmc001,22,CBBFF.FX,63/G
 play,1,1,pench001,12,CBSX,S1/G-
 play,1,1,lee-c001,22,SCFB*BX,HR/7/F.1-H
@@ -4970,7 +4939,6 @@ play,3,1,lee-c001,02,SCX,S8/L.1-3;B-2(E8)
 play,3,1,keppj001,21,BCBX,63/G
 play,4,0,rossd001,00,,NP
 sub,michj001,"Jason Michaels",1,3,9
-com,"Astros right fielder Hunter Pence left the game due to an injured back"
 play,4,0,rossd001,11,.BFX,6/L
 play,4,0,younm004,02,CCFS,K
 play,4,0,hudst001,10,BX,9/F
@@ -5520,7 +5488,6 @@ sub,lyonb003,"Brandon Lyon",1,9,1
 play,9,0,mathj002,00,..X,4/P
 play,9,0,hickb002,00,X,53/G
 play,9,0,younm004,21,CBBX,DGR/7/L
-com,"fan interference"
 play,9,0,procs001,00,,NP
 sub,hinse001,"Eric Hinske",0,9,11
 play,9,0,hinse001,32,.CBFBFFFFBFB,W
@@ -5767,7 +5734,6 @@ play,3,1,pench001,22,FBSBS,K
 play,3,1,lee-c001,12,CS*BS,K
 play,3,1,wallb001,12,BCFX,S7/G.2-H;1-2
 play,3,1,johnc003,11,BFX,S5/G.2-3;1-2
-com,"originally scored E5, changed to single next day"
 play,3,1,barmc001,00,X,5(2)/FO/G.1-2;B-1
 play,4,0,mckem001,22,BBCFX,43/G
 play,4,0,ceder002,12,CFBX,S6/G
@@ -6084,19 +6050,12 @@ play,2,1,johnc003,20,BBX,63/G
 play,3,0,johne002,12,CFBS,K
 play,3,0,shiej002,00,,NP
 sub,corpc001,"Carlos Corporan",1,8,2
-com,"$Astros catcher J.R. Towles was struck on the mask by a hard foul ball for the"
-com,"second time in the game; he suffered a cut on his chin which required 11 stitches"
-com,"and left the game"
 play,3,0,shiej002,22,CSBF.*BS,K
 play,3,0,rodrs002,12,CFBX,S7/G
 play,3,0,zobrb001,21,1BC1B>C,SB2
 play,3,0,zobrb001,32,1BC1B>C.BX,S9/L.2-H
 play,3,0,longe001,00,X,HR/78/F.1-H
 play,3,0,uptob001,12,FFBX,HR/7/F
-com,"$B.J. Upton's fly ball landed in the first row of the Crawford Boxes in LF; Astros LF"
-com,"Carlos Lee immediately put his hands up to signal fan interference to the umpires but"
-com,"the ball was ruled a homer; Astros Manager Brad Mills asked about the call, so crew"
-com,"chief Brian Gorman watched the replay and upheld the call"
 play,3,0,shopk001,32,FBBBSX,31/G
 play,3,1,barmc001,12,CBFFX,63/G
 play,3,1,corpc001,01,FX,3/G
@@ -6431,10 +6390,6 @@ play,6,0,zobrb001,00,B,WP.1-2
 play,6,0,zobrb001,20,B.BN,BK.2-3
 play,6,0,zobrb001,32,B.BN.BCFC,K
 play,6,0,longe001,31,SBB*BX,HR/7/F.3-H
-com,"$Evan Longoria's fly to the LF Crawford boxes was ruled in play; Longoria, who thought"
-com,"he had a home run, was thrown out at 2B; a fan touched the ball, which caromed back onto"
-com,"the field; the umpires huddled briefly; crew chief Brian Gorman watched the replay and"
-com,"overturned the call to a home run; this was the second use of replay in this series"
 play,6,0,uptob001,12,FBCS,K
 play,6,0,rodrs002,02,CCX,3/L-
 play,6,1,barmc001,02,CFFFS,K
@@ -6612,15 +6567,10 @@ play,6,1,bourm001,10,BX,T9/F
 play,6,1,pench001,31,BFBBX,S7/G.3-H
 play,6,1,lee-c001,01,CX,8/F
 play,6,1,keppj001,22,CC*BB1X,64(1)3/GDP
-com,"ej,millb101,M,laynj901,Call at 1B"
-com,"$Jeff Keppinger seemed to beat the relay at 1B; Astros manager Brad Mills argued the call"
-com,"with 1B umpire Bob Davidson; eventually crew chief Jerry Layne came over and got involved"
-com,"in the discussion; Layne ejected Mills"
 play,7,0,hamij003,00,,NP
 sub,michj001,"Jason Michaels",1,1,7
 play,7,0,hamij003,00,,NP
 sub,delre001,"Enerio Del Rosario",1,9,1
-com,"Astros left fielder Jason Bourgeois left the game due to an injured leg"
 play,7,0,hamij003,00,...X,31/G
 play,7,0,belta001,22,BBFCX,43/G
 play,7,0,younm003,10,BX,63/G
@@ -7010,7 +6960,6 @@ play,2,1,norrb001,11,LBX,34/SH/BG.1-2
 play,2,1,bourm001,02,SSX,S8/L.2-3
 play,2,1,sanca005,00,X,S5/BG.3-H;1-2
 play,2,1,pench001,00,X,DGR/7.2-H;1-3
-com,"fan interference"
 play,2,1,lee-c001,11,SBX,7/F
 play,3,0,waket001,22,BCSBFS,K
 play,3,0,scutm001,22,BBCFC,K
@@ -7832,12 +7781,6 @@ play,3,0,diazm003,21,BSBX,53/G
 play,3,1,rodrw002,11,BCX,13/G
 play,3,1,bourm001,32,BBCCFBC,K
 play,3,1,barmc001,02,CFX,S8/L
-com,"ej,millb101,M,coope901,Balls and strikes"
-com,"$on a close pitch at the bottom of the strike zone with a 3-1 count, Astros hitter"
-com,"Jeff Keppinger flipped his bat thinking he had walked; when HP umpire Eric Cooper"
-com,"called it a strike, the Astros bench reacted; Astros Manager Brad Mills came up the"
-com,"stairs and was told by Cooper not to come on the field; when Mills stepped on the field,"
-com,"he was ejected by Cooper"
 play,3,1,keppj001,32,BBBCC.>F>X,HR/7/F.1-H
 play,3,1,pench001,32,FBBSBX,53/G
 play,4,0,overl001,12,CCBFS,K
@@ -7950,9 +7893,6 @@ sub,rodra002,"Aneury Rodriguez",1,7,1
 play,11,0,darnc001,00,.X,53/G
 play,11,0,walkn001,30,BBII,IW
 play,11,0,mccua001,00,X,S1/G15.2-H(E1/TH)(UR)(NR);1-3
-com,"$the throw by Astros pitcher Aneury Rodriguez was high and pulled 1B Carlos Lee"
-com,"off the bag; Andrew McCutcheon ran into Lee in an ugly collision but both players"
-com,"stayed in the game after a delay. Originally scored E1, changed to single on 7-21"
 play,11,0,mckem001,12,FFBS,K
 play,11,1,johnc003,00,,NP
 sub,resoc001,"Chris Resop",0,6,1
@@ -8542,7 +8482,6 @@ play,5,1,altuj001,11,CBX,53/G
 play,6,0,janip001,22,FBFBX,D7/L+
 play,6,0,arrob001,00,,NP
 sub,rodrf004,"Fernando Rodriguez",1,9,1
-com,"Astros pitcher Bud Norris left the game due to an injured hand"
 play,6,0,arrob001,00,.X,54/SH/BG.2-3
 play,6,0,stubd001,32,BFF*BBS,K
 play,6,0,cairm001,21,CBBX,8/F
@@ -8712,14 +8651,6 @@ play,6,1,lee-c001,10,BX,53/G
 play,6,1,martj006,02,SFT,K
 play,7,0,frazt001,22,BBFTX,S8/L
 play,7,0,bailh001,11,BL1X,36(1)/FO/G3S.BX2(41)
-com,"$Homer Bailey turned to bunt and then did not; he hit the ball down the 1B line between the"
-com,"mound and the line; Carlos Lee threw to 2B for the out but there was some confusion about who"
-com,"was covering 1B for the relay throw; pitcher Wandy Rodriguez ran to cover on the play and 2B"
-com,"Jose Altuve was there as well; Altuve was standing behind the bag in foul territory when the"
-com,"throw arrived and in no position to catch the ball, which sailed to the edge of the field and"
-com,"caromed back to Altuve; Bailey turned briefly towards 2B but then walked back to the 1B bag;"
-com,"Altuve threw to Rodriguez for the out; it is not a double play because of the misplay on the"
-com,"throw to 1B"
 play,7,0,stubd001,21,SBBX,43/G
 play,7,1,barmc001,32,BSTBFFFBFB,W
 play,7,1,parej002,11,FB>X,43/G.1-2
@@ -9044,8 +8975,6 @@ play,9,0,mcgec001,01,CX,64(1)/FO/G
 play,9,0,betay001,00,,NP
 sub,counc001,"Craig Counsell",0,6,11
 play,9,0,counc001,20,.*BBX,S9/L.1-3
-com,"$Craig Counsell broke a 45-at-bat hitless streak with this single. He thus"
-com,"ties the record of Dave Campbell and Bill Bergen for non-pitchers."
 play,9,0,lopef001,32,CBSBB>B,W.1-2
 play,9,0,lucrj001,32,BBCFB>F>B,W.3-H;2-3;1-2
 play,9,0,gally001,00,,NP
@@ -9192,7 +9121,6 @@ play,7,0,counc001,31,.BBBCB,W.1-2
 play,7,0,hartc001,01,CH,HP.2-3;1-2
 play,7,0,morgn001,00,,NP
 sub,escas001,"Sergio Escalona",1,5,1
-com,"Brewers right fielder Corey Hart left the game due to an injured hand"
 play,7,0,morgn001,11,.BCX,8/F
 play,7,1,quinh001,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,7,1
@@ -9234,8 +9162,6 @@ play,9,1,parej002,11,.CBX,7/F
 play,9,1,barmc001,02,CFX,HR/7/F
 play,9,1,quinh001,22,CSBFBFX,8/F
 play,9,1,shucj001,22,BCBFX,S1/G15.BX3(95)(E1/TH1)
-com,"$pitcher John Axford's wild throw went down the RF line; the ball was recovered by RF Nyjer Morgan,"
-com,"who threw on the fly to 3B to get J.B. Shuck and end the game"
 data,er,narvc001,4
 data,er,saitt001,0
 data,er,hawkl001,0
@@ -10303,8 +10229,6 @@ play,9,0,garcj002,00,,NP
 sub,rowaa001,"Aaron Rowand",0,9,11
 play,9,0,rowaa001,00,.X,S7/L
 play,9,0,rossc001,00,1,OA.1X2(46)
-com,"$pickoff throw went past 1B and bounced off the wall; Aaron Rowand tried for 2B"
-com,"and was thrown out by second baseman Jose Altuve, who was backing up the play at 1B"
 play,9,0,rossc001,32,1.CCBBFBC,K
 play,9,0,keppj001,22,BFCFFFFBFX,S7/G
 play,9,0,sandp001,22,BSBSFFX,S156/G.1-2
@@ -10750,9 +10674,6 @@ play,4,0,doumr001,32,CBFBBX,8/L
 play,4,1,parej002,30,BBBB,W
 play,4,1,sanca005,11,BC1>X,S7/G+.1-3
 play,4,1,quinh001,01,FX,23/G.3-H(RBI);1-3(E3/THH)
-com,"Play originally scored as no RBI, but RBI added next day"
-com,"$Jimmy Paredes ran towards home after catcher Ryan Doumit threw to 1B;"
-com,"there was no one at the plate to catch the return throw by 1B Garrett Jones."
 play,4,1,happj001,32,BBSCBFFB,W
 play,4,1,schaj002,00,X,S3/BG.3-H(UR);1-2
 play,4,1,altuj001,10,*BX,6(1)3/GDP
@@ -10940,7 +10861,6 @@ play,8,0,mcgec001,21,BFBX,HR/7/F.2-H
 play,8,0,betay001,00,H,HP
 play,8,0,hairj002,00,,NP
 sub,counc001,"Craig Counsell",0,6,12
-com,"Brewers shortstop Yuniesky Betancourt left the game due to an injured elbow"
 play,8,0,hairj002,02,.FCX,4/P
 play,8,0,lucrj001,11,BCX,9/L
 play,8,0,hawkl001,00,,NP
@@ -11503,7 +11423,6 @@ play,2,1,barmc001,11,CB>C,SB2
 play,2,1,barmc001,12,CB>C.S,K
 play,3,0,martm003,00,,NP
 sub,shucj001,"J.B. Shuck",1,7,9
-com,"Astros left fielder Jason Michaels left the game due to an injured hand"
 play,3,0,martm003,01,.SX,53/G
 play,3,0,hamec001,11,CBX,31/G
 play,3,0,rollj001,11,CBX,6/P
@@ -12210,8 +12129,6 @@ play,11,0,fowld001,30,II+2II,IW
 play,11,0,nelsc001,10,B>C,SB3;SB2
 play,11,0,nelsc001,11,B>C.X,FC1/G.3XH(12);2-3
 play,11,0,wiggt001,32,B1CBBC>C,K
-com,"ej,wiggt001,P,belld901,Called third strike"
-com,"Rockies third baseman Ty Wigginton slammed his helmet to the ground and was ejected by HP umpire Dan Bellino"
 play,11,1,schaj002,00,,NP
 sub,romej001,"J.C. Romero",0,5,1
 play,11,1,schaj002,00,,NP
@@ -12535,14 +12452,12 @@ play,5,1,rodrw002,00,,NP
 sub,mcclk001,"Kyle McClellan",0,1,1
 play,5,1,rodrw002,00,,NP
 sub,puntn001,"Nick Punto",0,9,6
-com,"Cardinals shortstop Rafael Furcal left the game due to an injured leg"
 play,5,1,rodrw002,21,..BCBX,D7/F
 play,5,1,bourj001,12,BCF.X,13/G
 play,5,1,sanca005,02,CFX,53/G
 play,5,1,martj006,12,BCSFX,S8/G+.2-3
 play,5,1,lee-c001,00,,NP
 sub,schaj002,"Jordan Schafer",1,3,12
-com,"Astros left fielder J. D. Martinez left the game due to an injured leg"
 play,5,1,lee-c001,30,.BBBB,W.1-2
 play,5,1,downm001,10,*BX,4/P
 play,6,0,hollm001,00,,NP
@@ -12698,7 +12613,6 @@ play,3,0,westj001,01,LX,14/SH/BG.1-2
 play,3,0,jay-j001,20,BBX,7/L
 play,3,1,shucj001,00,,NP
 sub,craia001,"Allen Craig",0,5,7
-com,"Cardinals left fielder Matt Holliday left the game due to an injured hand"
 play,3,1,shucj001,10,.BX,8/F
 play,3,1,altuj001,01,CX,S4/G
 play,3,1,bogub001,00,1X,D6/G.1-3

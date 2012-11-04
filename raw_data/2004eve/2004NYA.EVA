@@ -275,7 +275,6 @@ play,9,0,credj001,12,CFFFFBC,K
 play,9,1,matsh001,00,,NP
 sub,takas001,"Shingo Takatsu",0,0,1
 play,9,1,matsh001,12,..CBCX,D9/L
-com,"Debut game for Shingo Takatsu"
 play,9,1,crosb001,12,BCCX,HR/9/F.2-H
 play,9,1,wilse001,21,CBBX,4/P
 play,9,1,flahj001,00,,NP
@@ -858,7 +857,6 @@ sub,mirad001,"Doug Mirabelli",0,6,2
 play,9,1,shefg001,00,,NP
 sub,dinal001,"Lenny Dinardo",0,0,1
 play,9,1,shefg001,22,..BCSFBX,53/G
-com,"Debut game for Lenny Dinardo"
 play,9,1,matsh001,22,BCFBS,K
 play,9,1,willb002,22,BBCSX,53/G
 data,er,lowed001,2
@@ -1825,7 +1823,6 @@ start,flahj001,"John Flaherty",1,8,2
 start,wilse001,"Enrique Wilson",1,9,4
 start,liebj001,"Jon Lieber",1,0,1
 play,1,0,berra001,02,FSX,S4/G
-com,"Debut game for Eduardo Villacis"
 play,1,0,beltc001,01,CX,D7/F.1-3
 play,1,0,sweem002,11,CBX,63/G
 play,1,0,gonzj002,11,BFX,63/G.3-H;2-3
@@ -2314,11 +2311,9 @@ play,2,0,ameza001,11,LBX,13/BG
 play,2,1,shefg001,01,CX,63/G
 play,2,1,posaj001,32,FBBCFBB,W
 play,2,1,matsh001,20,BBX,46(1)/FO/G
-com,"$Posada stuck on face by the relay throw to 1B"
 play,2,1,willb002,22,FBBC1X,6/P
 play,3,0,kenna001,00,,NP
 sub,flahj001,"John Flaherty",1,6,2
-com,"$Posada left the game with a broken nose"
 play,3,0,kenna001,11,.CBX,6/L
 play,3,0,figgc001,12,CCBX,S9/G
 play,3,0,davaj001,31,1BB11FB>B,W.1-2
@@ -3123,7 +3118,6 @@ play,4,1,jeted001,12,F*BFFX,46(1)3/GDP.2-3
 play,4,1,willb002,20,BBX,43/G
 play,5,0,hairj002,02,CCX,63/G
 play,5,0,robeb003,22,BBCFX,DGR/7/L
-com,"$fan interference"
 play,5,0,moram002,21,BCB2X,63/G.2-3
 play,5,0,tejam001,02,CFFFFX,S8/G.3-H
 play,5,0,palmr001,12,CBFX,7/F
@@ -4095,7 +4089,6 @@ play,2,1,matsh001,22,CBBCFFS,K
 play,2,1,sierr001,11,CBX,63/G
 play,3,0,heltt001,00,,NP
 sub,sturt001,"Tanyon Sturtze",1,0,1
-com,"$Brown left game with injured back"
 play,3,0,heltt001,01,..CX,S7/F
 play,3,0,castv001,00,H,HP.1-2
 play,3,0,burnj001,22,SBBFS,K
@@ -4400,7 +4393,6 @@ play,3,1,willb002,11,BCX,S9/G.1-3
 play,3,1,rodra001,20,BBX,9/F
 play,4,0,lorem001,00,,NP
 sub,heref001,"Felix Heredia",1,0,1
-com,"$Mussina left game with injured groin"
 play,4,0,lorem001,21,..BCBX,D7/G
 play,4,0,gileb002,32,FCBF*BFFFBX,7/L
 play,4,0,nevip001,12,CBFX,S7/G.2-H
@@ -5061,7 +5053,6 @@ play,6,1,matsh001,32,BBBCCC,K
 play,6,1,sierr001,01,FX,3/G
 play,7,0,camem001,00,,NP
 sub,quanp001,"Paul Quantrill",1,0,1
-com,"$Contreras left game with injured arm"
 play,7,0,camem001,32,BBB.CFX,D7/F
 play,7,0,wiggt001,11,FBX,43/G.2-3
 play,7,0,zeilt001,11,BCX,53/G.3-H
@@ -5187,8 +5178,6 @@ play,4,1,jeted001,22,.BBS1CFX,64(1)3/GDP
 play,4,1,shefg001,22,CSBBFS,K
 play,5,0,reyej001,00,,NP
 sub,crosb001,"Bubba Crosby",1,3,9
-com,"ej,shefg001,P,hohnb901,Balls and strikes"
-com,"Gary Sheffield ejected by HP umpire Bill Hohn"
 play,5,0,reyej001,00,..X,13/G
 play,5,0,matsk001,01,CX,2/P2F
 play,5,0,piazm001,31,CBBBX,163/G
@@ -5606,13 +5595,6 @@ play,1,0,ramim002,12,FFBX,7/F
 play,1,1,loftk001,11,BFX,8/F
 play,1,1,jeted001,02,SFS,K
 play,1,1,shefg001,22,BCBFH,HP
-com,"$Gary Sheffield was hit on the back; he had stepped out as Pedro Martinez"
-com,"started his motion, so when Sheffield stepped back in, Martinez hit the"
-com,"batter; Sheffield took a couple of steps towards the mound before HP"
-com,"umpire Jim Wolf and catcher Jason Varitek got in the way; Wolf warned"
-com,"both teams; Varitek walked down the 1B line with Sheffield, who was"
-com,"yelling at Martinez while carrying his bat; half way to 1B, Sheffield"
-com,"dropped his bat and continued to walk; neither team came on the field"
 play,1,1,rodra001,12,BCC1S,K
 play,2,0,varij001,22,BSSBS,K
 play,2,0,millk005,00,X,63/G
@@ -5871,9 +5853,6 @@ play,4,0,whitr001,12,FBFS,K
 play,4,1,shefg001,11,CBX,HR/78/F
 play,4,1,rodra001,11,FB,NP
 sub,levia001,"Al Levine",0,0,1
-com,"ej,yan-e001,P,wegnm901,Throwing at Alex Rodriguez"
-com,"Esteban Yan ejected by HP umpire Mark Wegner for throwing"
-com,"at Alex Rodriguez"
 play,4,1,rodra001,12,FB.CS,K
 play,4,1,giamj001,10,BX,4/L
 play,4,1,posaj001,31,CBBBB,W
@@ -6134,9 +6113,6 @@ start,halsb001,"Brad Halsey",1,0,1
 play,1,0,sanca003,11,BCX,3/G
 play,1,0,infao001,00,X,S8/L
 play,1,0,rodri001,22,BF1BS1FFC,K
-com,"ej,rodri001,P,herna901,Called third strike"
-com,"ej,trama001,M,herna901,Called third strike"
-com,"Ivan Rodriguez and Manager Alan Trammell ejected by HP umpire Angel Hernandez"
 play,1,0,yound001,22,.*B.BFS1X,53/G
 play,1,1,loftk001,00,,NP
 sub,difem001,"Mike DiFelice",0,3,2
@@ -6532,8 +6508,6 @@ play,8,0,baldr001,00,,NP
 sub,gordt001,"Tom Gordon",1,0,1
 play,8,0,baldr001,01,..CX,7/F
 play,8,0,huffa001,32,CBFFBFFBFS,K
-com,"ej,pinil001,M,iassd901,Balls and strikes"
-com,"Devil Rays manager Lou Piniella ejected by HP umpire Dan Iassogna"
 play,8,0,fickr001,32,BC.FBBS,K
 play,8,1,matsh001,02,CFFFX,D9/L
 play,8,1,cairm001,00,X,34/SH/BG.2-3
@@ -6779,7 +6753,6 @@ play,3,1,giamj001,22,FC+2*BFBX,S7/G.2-H;1-2
 play,3,1,posaj001,21,*BBCX,S9/L.2-H;1-2
 play,3,1,matsh001,00,,NP
 sub,flahj001,"John Flaherty",1,6,12
-com,"$Posada left game with injured foot"
 play,3,1,matsh001,01,.CX,S8/G.2-H;1-3(E8)
 play,3,1,clart002,31,BBF*BX,64(1)/FO/G
 play,4,0,huffa001,00,,NP
@@ -6835,7 +6808,6 @@ play,8,0,cruzj004,10,BX,7/F
 play,8,0,lugoj001,00,,NP
 sub,marss001,"Sam Marsonek",1,0,1
 play,8,0,lugoj001,21,.BCBX,D8/L
-com,"Debut game for Sam Marsonek"
 play,8,0,rolld001,31,BBBCX,8/F
 play,8,1,willb002,00,,NP
 sub,baezd001,"Danys Baez",0,0,1
@@ -7792,7 +7764,6 @@ play,2,0,durae001,12,CCBFX,D7/F
 play,2,0,crosb002,12,CBSFFS,K
 play,2,1,sierr001,00,,NP
 sub,melha001,"Adam Melhuse",0,8,2
-com,"$Miller left game with injured knee"
 play,2,1,sierr001,32,.BCBBFB,W
 play,2,1,clart002,01,CX,9/F
 play,2,1,wilse001,22,1*B1BSCX,S9/G.1-2
@@ -8295,8 +8266,6 @@ play,3,1,olerj001,10,BX,3/G.2-3
 play,3,1,flahj001,12,MBLH,HP
 play,3,1,cairm001,00,,NP
 sub,millj002,"Justin Miller",0,0,1
-com,"ej,dougs001,P,guccc901,Intentional HBP"
-com,"Sean Douglass ejected by HP umpire Chris Guiccione"
 play,3,1,cairm001,02,..CCS,K
 play,3,1,loftk001,21,CBBX,S6/G.3-H;1-2
 play,3,1,jeted001,11,BCX,D8/F.2-H;1-H
@@ -8418,7 +8387,6 @@ play,1,1,willb002,32,BSFB*BC,K
 play,1,1,matsh001,22,CFB*BX,7/F
 play,2,0,hinse001,02,CSX,23/G
 play,2,0,grosg002,22,CBBFFX,S6/P
-com,"Debut game for Gabe Gross"
 play,2,0,hudso001,12,CB11FS,K
 play,2,0,cashk001,12,BSCS,K
 play,2,1,sierr001,10,BX,S8/G
@@ -9006,7 +8974,6 @@ play,4,0,molib001,00,X,E6/FO/G.1-3
 play,4,0,figgc001,32,BBFBFF1X,S7/L.3-H(UR);1-2
 play,4,0,ecksd001,00,,NP
 sub,sturt001,"Tanyon Sturtze",1,0,1
-com,"3:42 rain delay"
 play,4,0,ecksd001,10,.BX,54/SH/BG.2-3;1-2
 play,4,0,erstd001,32,BBFF*BS,K
 play,4,0,guerv001,32,BBFFBB,W
@@ -9395,7 +9362,6 @@ play,9,0,hafnt001,22,BSBTC,K
 play,9,1,rodra001,11,FBX,63/G
 play,9,1,crosb001,10,BX,9/F
 play,9,1,flahj001,12,CCFBFFX,3/P
-com,"$the largest margin of defeat in Yankee history"
 data,er,westj001,0
 data,er,guthj001,0
 data,er,vazqj001,6
@@ -9537,7 +9503,6 @@ play,8,1,olerj001,12,BSFS,K
 play,8,1,cairm001,21,1FB11BX,S8/F.1-3
 play,8,1,willb002,12,SCBS,K
 play,8,1,jeted001,01,FX,S7/G.3-H;1-3
-com,"orginally scored as S7, then changed to E5, then back"
 play,8,1,shefg001,02,CSS,K
 play,9,0,blakc001,02,CFX,D7/F
 play,9,0,broub001,01,CX,13/G.2-3
@@ -10173,11 +10138,6 @@ start,willb002,"Bernie Williams",1,7,10
 start,cairm001,"Miguel Cairo",1,8,4
 start,loftk001,"Kenny Lofton",1,9,8
 start,herno001,"Orlando Hernandez",1,0,1
-com,"$TBA outfielder Huff missed flight to NY because of"
-com,"flooding around his home due to Hurricane Frances;"
-com,"this game was scheduled for a 3pm double header but"
-com,"the Devil Rays left Tampa about 3pm and arrived"
-com,"at the stadium about 6pm"
 play,1,0,lugoj001,01,FX,6/P
 play,1,0,baldr001,12,CSBX,8/L
 play,1,0,martt002,00,X,S8/G
@@ -10244,10 +10204,6 @@ play,7,0,lugoj001,32,LBC>B.FF*BFX,63/G
 play,7,1,shefg001,32,BCSFFBBS,K
 play,7,1,matsh001,00,,NP
 sub,seayb001,"Bobby Seay",0,0,1
-com,"ej,herno001,P,drakr901,Balls and strikes from bench"
-com,"ej,stotm101,C,drakr901,Balls and strikes from bench"
-com,"Orlando Hernandez and coach Mel Stottlemyre ejected by HP umpire Rob Drake"
-com,"for arguing balls and strikes from the dugout steps"
 play,7,1,matsh001,22,.BCBF..X,43/G
 play,7,1,posaj001,11,BFX,7/F
 play,8,0,baldr001,00,,NP
@@ -10439,7 +10395,6 @@ sub,crosb001,"Bubba Crosby",1,5,9
 play,9,0,blumg001,00,,NP
 sub,karss001,"Steve Karsay",1,0,1
 play,9,0,blumg001,00,....X,43/G
-com,"Debut game for Dioner Navarro"
 play,9,0,fordb001,01,CX,4/P
 play,9,0,lugoj001,22,BCBCX,63/G
 data,er,sosaj002,5
@@ -10514,20 +10469,11 @@ play,2,0,cruzj004,00,X,S9/L.2-3
 play,2,0,cantj001,10,BX,14(1)/FO/G.3-H
 play,2,0,hallt001,21,CBBX,143/G
 play,2,1,cairm001,10,BH,HP
-com,"$the pitch deflected off Cairo's arm and struck plate umpire"
-com,"Jerry Crawford on the mask; Yankee trainer Gene Monahan treated"
-com,"Crawford"
 play,2,1,loftk001,01,M1X,S9/L.1-3;B-2(E9)
 play,2,1,jeted001,21,B*BFX,7/SF.3-H
 play,2,1,rodra001,22,FBBSS,K
 play,2,1,shefg001,20,BBX,S7/L.2-H(UR)
 play,2,1,matsh001,21,BSBX,7/F
-com,"umpchange,3,umphome,hollm901"
-com,"umpchange,3,ump1b,drakr901"
-com,"umpchange,3,ump2b,(None)"
-com,"$plate umpire Crawford left the field for further treatment;"
-com,"5 minute delay while the umpires realigned; Hollowell now"
-com,"at the plate, Drake at 1b"
 play,3,0,blumg001,12,BFFFX,S8/L
 play,3,0,crawc002,22,FB+1BFX,8/F
 play,3,0,baldr001,22,SCBBFX,8/F
@@ -10718,7 +10664,6 @@ sub,coloj001,"Jesus Colome",0,0,1
 play,6,1,jeted001,21,.BFBX,HR/7/L
 play,6,1,rodra001,00,,NP
 sub,seayb001,"Bobby Seay",0,0,1
-com,"$Colome left game with injured neck"
 play,6,1,rodra001,32,.SBBFBFFFX,7/F
 play,6,1,shefg001,30,BBBB,W
 play,6,1,matsh001,10,BX,3/G
@@ -10980,10 +10925,8 @@ play,2,0,millk005,02,SFFS,K
 play,2,0,varij001,01,FX,4/P
 play,2,1,jeted001,32,FFBBFBFB,W
 play,2,1,rodra001,22,1CCB1B>X,S13/G.1-3
-com,"$Lowe hit on leg by line drive"
 play,2,1,shefg001,00,,NP
 sub,adamt001,"Terry Adams",0,0,1
-com,"$Lowe left game with injured leg"
 play,2,1,shefg001,20,.BB>C,SB2
 play,2,1,shefg001,21,.BB>C.X,S7/G.3-H;2-3
 play,2,1,matsh001,12,CBCX,S3/G.3-H;1-2
@@ -11293,7 +11236,6 @@ start,cairm001,"Miguel Cairo",1,8,4
 start,loftk001,"Kenny Lofton",1,9,9
 start,vazqj001,"Javier Vazquez",1,0,1
 play,1,0,adamr002,21,BCBX,HR/9/F
-com,"Debut game for Gustavo Chacin"
 play,1,0,hudso001,20,BBX,8/F
 play,1,0,wellv001,20,BBX,4/P
 play,1,0,delgc001,12,CFFBX,S9/L
@@ -11367,8 +11309,6 @@ sub,nitkc001,"C.J. Nitkowski",1,0,1
 play,8,0,delgc001,22,.BBFCFFFX,8/F
 play,8,1,olerj001,32,CCBFBBB,W
 play,8,1,cairm001,12,CFBX,D7/G.1-3
-com,"originally scored as D7/G, changed next day to E5."
-com,"Changed back to D7 on 9-23"
 play,8,1,loftk001,00,H,HP
 play,8,1,jeted001,00,,NP
 sub,batim001,"Miguel Batista",0,0,1
@@ -11494,7 +11434,6 @@ play,5,1,rodra001,32,BFB1BCS,K
 play,5,1,shefg001,00,,NP
 sub,leagb001,"Brandon League",0,0,1
 play,5,1,shefg001,12,.CFBX,23/G-
-com,"Debut game for Brandon League"
 play,6,0,wellv001,12,BCFX,13/G
 play,6,0,delgc001,00,,NP
 sub,heref001,"Felix Heredia",1,0,1
@@ -12152,7 +12091,6 @@ play,9,0,kubej002,00,,NP
 sub,rivem002,"Mariano Rivera",1,0,1
 play,9,0,kubej002,21,..CBBX,6/P
 play,9,0,jonej003,01,SX,S5/G#
-com,"originally scored E5, changed after game"
 play,9,0,fordl001,22,BCFBFFX,6(1)3/GDP
 data,er,lohsk001,4
 data,er,craij001,0

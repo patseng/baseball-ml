@@ -1022,7 +1022,6 @@ play,5,1,walkl001,02,FSS,K
 play,5,1,heltt001,10,BX,43/G
 play,6,0,gracm001,20,BBX,D9
 play,6,0,bautd001,22,FBBCX,E5/G/INT.2-3;B-2
-com,"$interference on 3rd baseman Norton"
 play,6,0,donnc001,00,X,8/SF.3-H(UR);2-3
 play,6,0,barar001,02,CFFX,9/SF.3-H(UR)
 play,6,0,counc001,10,BX,4/L4
@@ -1455,7 +1454,6 @@ play,3,1,heltt001,31,BSBBB,W.1-2
 play,3,1,agbab001,30,BBBB,W.2-3;1-2
 play,3,1,nortg001,12,BCCC,K/C
 play,3,1,shumt001,00,X,8/SF.3-H;1X2(54)
-com,"No DP or assist to 8 because misplay between outs"
 play,4,0,iztuc001,21,BCBX,D9
 play,4,0,grudm001,01,CX,53/G
 play,4,0,grees001,12,CBFX,S6.2-3
@@ -1479,8 +1477,6 @@ play,6,0,jordb001,12,SBFX,53/G
 play,6,1,nortg001,12,CFBX,63/G
 play,6,1,shumt001,11,BCX,7/L7
 play,6,1,littm001,22,BCBFS,K
-com,"ej,benng001,P,dimum901,Balls and strikes"
-com,"Gary Bennett ejected by HP umpire Mike Dimuro"
 play,7,0,grism001,00,,NP
 sub,petrb001,"Ben Petrick",1,8,2
 play,7,0,grism001,00,,NP
@@ -1580,7 +1576,6 @@ start,hollt001,"Todd Hollandsworth",1,6,7
 start,ortij003,"Jose Ortiz",1,7,4
 start,benng001,"Gary Bennett",1,8,2
 start,thomj005,"John Thomson",1,9,1
-com,"$COL Mgr Buddy Bell fired; replaced by Clint Hurdle"
 play,1,0,rollj001,00,X,6/P6
 play,1,0,michj001,22,CBBFS,K
 play,1,0,abreb001,21,BBCX,7/F7
@@ -2076,7 +2071,6 @@ play,4,1,pierj002,01,LN,BK.2-3;1-2
 play,4,1,pierj002,02,LNCH,HP
 play,4,1,uribj002,10,BX,8/SF.3-H;2-3
 play,4,1,walkl001,12,BFSH,HP.1-2
-com,"David Williams with two BK and two HP in one inning"
 play,4,1,heltt001,11,BCX,S8.3-H;2-H;1-2
 play,4,1,zeilt001,00,,NP
 sub,lowes001,"Sean Lowe",0,9,1
@@ -3419,7 +3413,6 @@ sub,smolj001,"John Smoltz",0,2,1
 play,8,1,shumt001,00,,NP
 sub,butlb002,"Brent Butler",1,4,12
 play,8,1,shumt001,22,CBSBFX,43(B)64(1)/GDP
-com,"fielding is correct, apparently ended as rundown"
 play,9,0,jonec004,00,,NP
 sub,butlb002,"Brent Butler",1,4,5
 play,9,0,jonec004,00,,NP
@@ -3518,7 +3511,6 @@ play,4,0,burrs001,11,BFX,S7.1-3;B-2(E7)
 play,4,0,hubbt001,12,BCFX,FC6.2X3(6E5);3-H(UR);B-1
 play,4,0,lampt001,12,BFSX,63/G.3-H(UR);1-2
 play,4,0,tankd001,00,X,63/G
-com,"$Four assists in inning for shortstop Uribe"
 play,4,1,zeilt001,20,BBX,8/F8
 play,4,1,hollt001,01,FX,S9
 play,4,1,ortij003,01,SH,HP.1-2
@@ -3681,8 +3673,6 @@ play,4,1,hampm001,22,BSBCX,S7.1-2
 play,4,1,pierj002,10,BX,3/G
 play,5,0,gantr001,31,BBBFB,W
 play,5,0,klesr001,32,BFBSBC,K+CS2(26)/DP/C
-com,"ej,gantr001,P,joycj901,Unknown reason"
-com,"Ron Gant ejected by HP umpire Jim Joyce"
 play,5,0,tramb001,11,BFX,D/78
 play,5,0,cruzd001,10,BX,S7.2-H;B-2(THH)
 play,5,0,gonzw001,22,BFCBX,9/F9
@@ -4122,7 +4112,6 @@ start,neagd001,"Denny Neagle",1,9,1
 play,1,0,goodt001,12,CSBC,K/C
 play,1,0,belld002,12,BCCFFX,5/P5
 play,1,0,bondb001,01,CX,63/G4M
-com,"shift"
 play,1,1,pierj002,00,X,D7
 play,1,1,uribj002,10,BX,D9.2-H
 play,1,1,walkl001,32,BCFFBBX,9/F9
@@ -4148,7 +4137,6 @@ play,3,1,zeilt001,31,BCBBB,W
 play,3,1,shumt001,00,X,64(1)/FO
 play,4,0,belld002,21,BBFX,7/F7
 play,4,0,bondb001,00,X,HR/78
-com,"#584 for Bonds to pass McGwire for 6th all-time"
 play,4,0,kentj001,01,CX,3/P3
 play,4,0,santb001,20,BBX,13/G
 play,4,1,ortij003,32,CBCBBB,W
@@ -4216,7 +4204,6 @@ play,8,1,hollt001,00,,NP
 sub,fulta001,"Aaron Fultz",0,7,1
 play,8,1,hollt001,10,BX,D/78
 play,8,1,ortij003,00,X,2(B)6(2)/BP/DP
-com,"bunt assumed"
 play,8,1,benng001,12,FBFFX,63/G
 play,9,0,martr003,00,,NP
 sub,butlb002,"Brent Butler",1,9,4
@@ -4452,7 +4439,6 @@ play,2,0,robed001,12,CFBX,9/F9
 play,2,1,heltt001,22,BBCFFX,8/F8
 play,2,1,zeilt001,31,BBCBX,8/F8
 play,2,1,hollt001,00,X,53/G
-com,"30 minute rain delay in the 3rd"
 play,3,0,lodup001,01,FX,4/P4
 play,3,0,grees001,32,FBFBBB,W
 play,3,0,jordb001,00,X,4/P4
@@ -4518,7 +4504,6 @@ play,8,0,jordb001,21,CBBX,S7.3-H;2-3
 play,8,0,karre001,01,FX,D9.3-H;1-3
 play,8,0,grudm001,01,FX,13/G
 play,8,0,belta001,20,BBX,FC1.3-H(E1/TH3)(UR)(NR);2-H(UR)(NR);B-2
-com,"$Jimenez fielded ball, ran at runner, then threw ball into LF"
 play,8,0,iztuc001,00,,NP
 sub,speij001,"Justin Speier",1,9,1
 play,8,0,iztuc001,31,BFBBX,7/F7
@@ -5123,7 +5108,6 @@ play,2,0,thomj002,32,CBCFBBS,K
 play,2,0,bradm001,10,BX,3/G#
 play,2,0,frymt001,32,CBCBBB,W
 play,2,0,diaze002,00,X,FC6.1X2(6E4);B-1
-com,"$Ortiz missed the bag"
 play,2,0,mcdoj003,10,BX,5(2)/FO.1-2
 play,2,1,ortij003,00,X,13/G
 play,2,1,estab001,32,SCBBBB,W
@@ -5646,7 +5630,6 @@ sub,mendr001,"Ramiro Mendoza",0,8,1
 play,5,1,zeilt001,12,CCBFX,53/G
 play,5,1,agbab001,22,BBFFX,13/G
 play,5,1,uribj002,02,SLX,53/G
-com,"38 minute rain delay in the 6th"
 play,6,0,vandj001,00,,NP
 sub,whitr002,"Rick White",1,9,1
 play,6,0,vandj001,12,BSFX,8/F8D
@@ -5991,7 +5974,6 @@ start,hollt001,"Todd Hollandsworth",1,6,7
 start,uribj002,"Juan Uribe",1,7,6
 start,estab001,"Bobby Estalella",1,8,2
 start,chacs001,"Shawn Chacon",1,9,1
-com,"2 rain delays totaling 2:22 in the 2nd a& 7th"
 play,1,0,winnr001,01,CX,3/G#
 play,1,0,vaugg001,02,CFS,K
 play,1,0,cox-s001,21,BBCX,HR/9
@@ -6394,7 +6376,6 @@ play,4,1,littm001,21,BCBX,8/F8
 play,5,0,aberb001,01,FX,S/78S
 play,5,0,cox-s001,12,CFBFX,S8.1-2
 play,5,0,grieb001,00,X,36(1)/FO.2-H(E1)(UR)(NR);B-2
-com,"$Jennings dropped ball covering first"
 play,5,0,huffa001,32,BBFBFFB,W
 play,5,0,flahj001,12,CCFBS,K
 play,5,0,gomec001,32,CSBBBX,S.2-3;1-2
@@ -7808,7 +7789,6 @@ play,2,0,hernj001,30,BBBB,W
 play,2,0,ochoa001,32,BSSBBB,W.1-2
 play,2,0,machr001,10,BX,D/89D.2-H;1-H
 play,2,0,quevr001,21,LBBX,FC1/BG.2X3(1E5);B-1
-com,"bunt assumed"
 play,2,0,youne001,02,CSX,4/P4
 play,2,0,houst001,10,BX,4(B)3(1)/LDP
 play,2,1,hollt001,11,FBX,HR/9
@@ -8174,7 +8154,6 @@ sub,shumt001,"Terry Shumpert",1,9,11
 play,6,1,shumt001,22,FFBFBX,D/78
 play,6,1,pierj002,21,BFBX,13/SH.2-3#
 play,6,1,butlb002,01,CX,5(B)5(3)/LDP/L5L
-com,"$great diving catch, almost landed on bag for DP"
 play,7,0,sheeb001,00,,NP
 sub,youne001,"Eric Young",0,9,11
 play,7,0,youne001,00,,NP
@@ -8888,7 +8867,6 @@ sub,kaplg001,"Gabe Kapler",1,9,9
 play,6,0,aloum001,00,,NP
 sub,cooka002,"Aaron Cook",1,3,1
 play,6,0,aloum001,02,FFX,HR/7
-com,"Debut game for Aaron Cook"
 play,6,0,pattc001,22,FFFBBX,13/G
 play,6,0,gonza001,22,CFBFBFX,63/G
 play,6,0,hundt001,32,CBBFBX,7/F7
@@ -9362,7 +9340,6 @@ play,6,0,cordw001,00,X,D9
 play,6,0,tatif001,01,CX,43/G
 play,6,0,cabro001,11,BCX,D8/8D.2-H
 play,6,0,barrm003,00,X,D7.2-H
-com,"originally scored E7, changed next day"
 play,6,0,yoshm001,00,,NP
 sub,corem001,"Mark Corey",1,9,1
 play,6,0,yoshm001,00,,NP
@@ -9889,9 +9866,6 @@ play,9,0,peret004,11,CBX,HR/89.1-H
 play,9,0,weatd001,00,,NP
 sub,valej002,"John Valentin",0,8,11
 play,9,0,valej002,01,CH,HP
-com,"ej,hurdc001,M,barkl901,Intentional HBP"
-com,"ej,jimej001,P,barkl901,Intentional HBP"
-com,"Jose Jimenez and Rockies Manager Clint Hurdle ejected by HP umpire Lance Barksdale"
 play,9,0,tarat001,00,,NP
 sub,speij001,"Justin Speier",1,9,1
 play,9,0,tarat001,01,FX,S9.1-3
@@ -9967,8 +9941,6 @@ start,aloms001,"Sandy Alomar",1,7,2
 start,uribj002,"Juan Uribe",1,8,6
 start,neagd001,"Denny Neagle",1,9,1
 play,1,0,alomr001,22,CBSBS,K
-com,"$HP umpire Jerry Crawford warned both teams after a Denny Neagle pitch went"
-com,"behind Timo Perez"
 play,1,0,peret004,31,BBBCB,W
 play,1,0,piazm001,12,BSCB,SB2
 play,1,0,piazm001,22,BSCBS,K
@@ -10058,10 +10030,6 @@ sub,pierj002,"Juan Pierre",1,9,8
 play,9,0,alomr001,00,,NP
 sub,merck001,"Kent Mercker",1,1,1
 play,9,0,alomr001,22,FSBFBFX,3/P3
-com,"ej,hurdc001,M,crawj901,Pitcher threw at batter"
-com,"ej,merck001,P,crawj901,Throwing at batter"
-com,"Kent Mercker and Rockies Manager Clint Hurdle ejected by HP"
-com,"umpire Jerry Crawford after a pitch went behind Timo Perez"
 play,9,0,peret004,10,B,NP
 sub,fuenb001,"Brian Fuentes",1,1,1
 play,9,0,peret004,31,BBCBB,W
@@ -10075,10 +10043,6 @@ play,9,1,zeilt001,01,CX,S8/8S
 play,9,1,kaplg001,32,CBFBBX,HR/7.1-H
 play,9,1,aloms001,31,CBBBX,63/G
 play,9,1,uribj002,01,CH,HP
-com,"ej,valeb102,M,crawj901,Intentional HBP"
-com,"ej,weatd001,P,crawj901,Intentional HBP"
-com,"David Weathers and Mets Manager Bobby Valentine ejected by"
-com,"HP umpire Jerry Crawford"
 play,9,1,pierj002,00,,NP
 sub,benia001,"Armando Benitez",0,3,1
 play,9,1,pierj002,12,BFFX,9/F9
@@ -10653,7 +10617,6 @@ play,3,0,shint001,32,BFSFBBX,T/78.2-H
 play,3,0,belld002,12,FBFX,S8.3-H
 play,3,0,kentj001,22,BSFBX,HR/8.1-H
 play,3,0,bondb001,10,BX,HR/89
-com,"455 ft"
 play,3,0,santb001,01,CX,E5/TH1
 play,3,0,sandr002,02,SSX,E9/F.1-2
 play,3,0,minod001,00,X,46(1)3/GDP
@@ -10731,8 +10694,6 @@ play,9,0,felip001,01,FX,6/L6
 play,9,1,nortg001,00,,NP
 sub,nen-r001,"Robb Nen",0,7,1
 play,9,1,nortg001,01,C,NP
-com,"after 38 minute delay, game called for power outage, rain, lightning,"
-com,"and a tornado warning"
 data,er,hernl003,6
 data,er,rodrf002,0
 data,er,worrt002,0
@@ -11209,7 +11170,6 @@ play,9,0,matoj001,00,X,4/P4
 play,9,1,romaj002,00,,NP
 sub,shiej001,"Jason Shiell",0,6,1
 play,9,1,romaj002,10,BX,S9
-com,"Debut game for Jason Shiell"
 play,9,1,shumt001,21,BFBX,64(1)3/GDP
 play,9,1,pierj002,30,BBBB,W
 play,9,1,kaplg001,22,CBSFBFFX,S7.1-2
@@ -11496,7 +11456,6 @@ sub,merck001,"Kent Mercker",1,6,1
 play,7,0,robed001,00,,NP
 sub,grism001,"Marquis Grissom",0,1,11
 play,7,0,grism001,00,X,S6.2XH(32);1-2
-com,"$apparently no assist to Uribe"
 play,7,1,uribj002,00,,NP
 sub,grism001,"Marquis Grissom",0,1,8
 play,7,1,uribj002,00,X,S
@@ -11689,7 +11648,6 @@ play,6,0,ruanw001,22,BFFFFBS,K
 play,6,0,lodup001,00,,NP
 sub,chenc001,"Chin-Feng Chen",0,2,11
 play,6,0,chenc001,32,BBBCFFB,W
-com,"Debut game for Chin-Feng Chen"
 play,6,0,grees001,00,,NP
 sub,allel001,"Luke Allen",0,3,11
 play,6,0,allel001,02,FFX,D7.1-3
@@ -12181,7 +12139,6 @@ play,2,1,uribj002,01,CX,S7
 play,2,1,stard001,00,X,23/SH.1-2#
 play,2,1,pierj002,22,BBCFX,63/G.2-3
 play,2,1,petrb001,32,CBCBBS,K
-com,"1:19 rain delay in the 3rd"
 play,3,0,vinaf001,12,CBFFX,8/F8
 play,3,0,drewj001,32,CBFBFBX,43/G
 play,3,0,edmoj001,22,CBBCFFX,8/F8
@@ -12365,7 +12322,6 @@ play,3,1,nortg001,32,FBBSBX,D9/9D.3-H;2-H;1-H;B-3(THH)
 play,3,1,custj001,22,CBFBFX,43/G
 play,4,0,difem001,00,,NP
 sub,kaplg001,"Gabe Kapler",1,4,9
-com,"$Walker left with soreness in left shoulder"
 play,4,0,difem001,32,BCBSBS,K
 play,4,0,simoj001,10,BX,S8
 play,4,0,vinaf001,10,BX,T/89.1-H
@@ -12387,7 +12343,6 @@ play,5,1,kaplg001,21,BCBX,53/G
 play,6,0,vinaf001,00,,NP
 sub,fuenb001,"Brian Fuentes",1,9,1
 play,6,0,vinaf001,11,BCX,2/G/INT
-com,"$Vina hit by his own batted ball"
 play,6,0,marre001,20,BBX,2/FL
 play,6,0,edmoj001,22,CSBBX,S8
 play,6,0,pujoa001,30,BBBB,W.1-2
@@ -12716,7 +12671,6 @@ play,3,0,womat001,22,BSFBFS,K
 play,3,1,neagd001,11,CBX,8/F8D
 play,3,1,pierj002,02,CFX,S
 play,3,1,petrb001,00,X,S19/L1.1-3
-com,"$line drive off Anderson's foot, broke metatarsal"
 play,3,1,heltt001,00,,NP
 sub,prinb001,"Bret Prinz",0,9,1
 play,3,1,heltt001,22,FBFBX,D9/9D.3-H;1-3
@@ -12739,7 +12693,6 @@ play,4,1,petrb001,22,CBBFFS,K
 play,5,0,finls001,00,,NP
 sub,vancc001,"Cory Vance",1,9,1
 play,5,0,finls001,11,CBX,8/F8
-com,"Debut game for Cory Vance"
 play,5,0,gracm001,20,BBX,HR/9
 play,5,0,milld002,21,BCBX,HR/7
 play,5,0,swing001,00,,NP
@@ -12893,8 +12846,6 @@ play,1,1,paytj001,11,CBX,S9/9S
 play,1,1,walkl001,21,BCBX,7/F7
 play,1,1,heltt001,32,BBBCFB,W.1-2
 play,1,1,nortg001,11,SBX,S4.2-H(NR);1-2
-com,"run scores on 'fielder's choice' - no RBI"
-com,"no error?"
 play,1,1,butlb002,12,BSCS,K
 play,2,0,durae001,31,CBBBB,W
 play,2,0,willm003,10,BX,4/P4

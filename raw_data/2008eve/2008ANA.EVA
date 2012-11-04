@@ -531,7 +531,6 @@ play,4,1,huntt001,00,X,S7/L
 play,4,1,kotcc001,22,CFB*B>S,K+SB2
 play,4,1,kendh001,00,,NP
 sub,aybae001,"Erick Aybar",1,7,11
-com,"Angels second baseman Howie Kendrick left the game due to an injured hand/wrist"
 play,4,1,aybae001,10,.BX,13/G
 play,5,0,carrj001,00,,NP
 sub,aybae001,"Erick Aybar",1,7,6
@@ -1026,7 +1025,6 @@ sub,rivej001,"Juan Rivera",1,3,9
 play,9,0,gathj001,00,,NP
 sub,serra001,"Alex Serrano",1,0,1
 play,9,0,gathj001,00,..X,53/G
-com,"Debut game for Alex Serrano"
 play,9,0,grudm001,12,FBST,K
 play,9,0,teahm001,12,.BFCX,D8/F
 play,9,0,butlb003,00,X,63/G
@@ -1378,7 +1376,6 @@ play,2,1,rivej001,22,BBFFX,S7/G.2-3
 play,2,1,quinr002,11,CBX,3/P3F
 play,2,1,mathj001,00,X,7/SF/F.3-H
 play,2,1,rodrs002,01,C1X,64(1)/FO/G
-com,"Debut game for Sean Rodriguez"
 play,3,0,burkj003,01,CX,8/F
 play,3,0,betay001,11,CBX,7/F
 play,3,0,suzui001,12,CCBS,K23
@@ -1666,8 +1663,6 @@ play,3,0,suzuk001,11,BCX,S4/G
 play,3,0,ellim001,10,B1>X,S6/G.1-2
 play,3,0,bartd001,21,*BFBX,HR/9/F.2-H;1-H
 play,3,0,thomf001,32,BFCBFBFB,W
-com,"ej,butcm001,C,relic901,Balls and strikes"
-com,"Angels Pitching Coach Mike Butcher ejected by HP umpire Charlie Reliford"
 play,3,0,browe001,02,.CSX,14(1)/FO/G.B-1
 play,3,0,custj001,32,*BBSBC>B,W.1-2
 play,3,0,crosb002,22,BCFBS,K
@@ -1747,7 +1742,6 @@ sub,wilsb002,"Bobby Wilson",1,8,2
 play,8,0,hannj001,00,,NP
 sub,mosed001,"Dustin Moseley",1,0,1
 play,8,0,hannj001,32,.....CFBBBX,8/F
-com,"Debut game for Bobby Wilson"
 play,8,0,sweer001,01,FX,7/F
 play,8,0,suzuk001,11,BCX,13/G
 play,8,1,rivej001,00,,NP
@@ -2080,7 +2074,6 @@ start,napom001,"Mike Napoli",1,8,2
 start,aybae001,"Erick Aybar",1,9,6
 start,adenn001,"Nick Adenhart",1,0,1
 play,1,0,suzuk001,12,CBCX,53/G
-com,"Debut game for Nick Adenhart"
 play,1,0,ellim001,32,BBCBFX,9/F
 play,1,0,bartd001,01,CX,63/G
 play,1,1,figgc001,22,FBBFS,K
@@ -2464,8 +2457,6 @@ play,7,0,huffa001,31,B*BCBX,3/G
 play,7,0,millk005,11,BCX,8/F
 play,7,1,huntt001,11,CBX,4/L
 play,7,1,andeg001,12,CBCC,K
-com,"ej,andeg001,P,emmep901,Called third strike"
-com,"Angels left fielder Garret Anderson ejected by HP umpire Paul Emmel"
 play,7,1,aybae001,00,.X,S6/G
 play,7,1,napom001,00,1X,S7/G.1-2
 play,7,1,woodb003,01,F>B,SB3;SB2
@@ -2569,8 +2560,6 @@ play,2,1,mathj001,01,CX,63/G
 play,2,1,rodrs002,11,BFX,S9/G
 play,2,1,mattg002,32,BS1BCB>F1>F1>B,W.1-2
 play,2,1,aybae001,01,CX,E6.2-3;1X3(65);B-2
-com,"Attempted force at 2nd, ball dropped by shortstop, runner"
-com,"went past bag, run down at third. 2bman Roberts gets assist"
 play,2,1,guerv001,10,BX,8/F
 play,3,0,moram002,02,LFX,HR/7/F
 play,3,0,huffa001,21,CBBX,43/G
@@ -3091,7 +3080,6 @@ play,8,1,andeg001,10,BX,31/G
 play,9,0,swisn001,00,,NP
 sub,arrej001,"Jose Arredondo",1,0,1
 play,9,0,swisn001,20,.BBX,HR/89/F
-com,"Debut game for Jose Arredondo"
 play,9,0,uribj002,12,FBFS,K
 play,9,0,cabro001,00,X,63/G
 play,9,0,piera001,11,CBX,3/G
@@ -4987,8 +4975,6 @@ play,7,1,willr004,32,FBBFB>B,W.1-2
 play,7,1,iztum001,02,FFFX,S8/L.3-H;2-H;1-3
 play,7,1,kendh001,00,,NP
 sub,howej003,"J.P. Howell",0,0,1
-com,"ej,maddj801,M,cousd901,Balls and strikes"
-com,"Rays Manager Joe Maddon ejected by HP umpire Derryl Cousins"
 play,7,1,kendh001,01,..CX,9/F
 play,8,0,bartj001,00,,NP
 sub,woodb003,"Brandon Wood",1,9,5
@@ -5200,7 +5186,6 @@ start,mattg002,"Gary Matthews",1,8,7
 start,napom001,"Mike Napoli",1,9,2
 start,sante001,"Ervin Santana",1,0,1
 play,1,0,escoy001,02,FFX,S9/F
-com,"Debut game for Charlie Morton"
 play,1,0,johnk003,32,FCBBB>X,7/F
 play,1,0,jonec004,00,X,8/F
 play,1,0,teixm001,32,CB1FBB>S,K
@@ -5536,7 +5521,6 @@ sub,arrej001,"Jose Arredondo",1,0,1
 play,7,0,castl001,21,.BBSX,S7/L.3-H;2-H
 play,7,0,wrigd002,20,BBX,D7/F.1-H
 play,7,0,beltc001,02,CCFFX,S39/G.2-H;B-2(TH)
-com,"Originally scored E3, changed to single next day"
 play,7,0,delgc001,22,BFFFBS,K
 play,7,0,andem003,11,BS*B,SB3
 play,7,0,andem003,22,BS*B.FX,7/F
@@ -5630,12 +5614,9 @@ start,kendh001,"Howie Kendrick",1,7,4
 start,mattg002,"Gary Matthews",1,8,10
 start,mathj001,"Jeff Mathis",1,9,2
 start,lackj001,"John Lackey",1,0,1
-com,"$Jerry Manuel's first game as manager of the Mets; Willie Randolph"
-com,"had been fired after the last game, along with two coaches"
 play,1,0,reyej001,21,BFBX,S8/G
 play,1,0,castl001,00,,NP
 sub,easld001,"Damion Easley",0,1,12
-com,"Reyes left with tightness in left hamstring"
 play,1,0,castl001,11,B.CX,S8/G.1-3
 play,1,0,wrigd002,11,B1FX,46(1)3/GDP.3-H
 play,1,0,beltc001,00,X,43/G
@@ -6238,7 +6219,6 @@ play,1,1,huntt001,11,BCB,WP.3-H;1-2
 play,1,1,huntt001,32,BCB.BFX,8/F
 play,2,0,custj001,21,BFBX,3/L
 play,2,0,bankw002,22,BBSFFS,K
-com,"Debut game for Wes Bankston"
 play,2,0,gonzc001,20,BBX,53/G
 play,2,1,kendh001,10,BX,D8/F
 play,2,1,kotcc001,11,FBX,3/G.2-3
@@ -6568,7 +6548,6 @@ play,5,0,scutm001,00,X,D8/F
 play,5,0,riosa002,10,*BX,53/G
 play,5,0,wellv001,12,SS*BFF>X,HR/78/F.2-H
 play,5,0,wilkb002,32,FTBBFFBX,S4
-com,"originally scored 4E3, changed to single next day"
 play,5,0,roles001,12,B1FF1C,K
 play,5,1,kendh001,00,X,63/G
 play,5,1,napom001,32,CBBCFBFX,8/F
@@ -7181,8 +7160,6 @@ play,9,0,crisc001,32,..BBCSBC,K
 play,9,0,cashk001,00,,NP
 sub,cases001,"Sean Casey",0,9,11
 play,9,0,cases001,22,.BCSFBS,K213
-com,"$Pitch in dirt, bounced nearly back to mound where"
-com,"Rodriguez fielded it to get out at first"
 play,9,0,ellsj001,32,BBBCCS,K
 data,er,waket001,4
 data,er,delcm001,1
@@ -7409,7 +7386,6 @@ play,3,1,iztum001,02,CCFFX,S9/G
 play,3,1,guerv001,22,FBFBX,54(1)3/GDP
 play,4,0,marta004,00,,NP
 sub,olivd001,"Darren Oliver",1,0,1
-com,"Angels pitcher Jered Weaver left the game due to an injured back"
 play,4,0,marta004,11,.CBX,9/F
 play,4,0,gutif001,12,BCCS,K
 play,4,0,cabra002,11,CBX,S7/L
@@ -7875,7 +7851,6 @@ start,mattg002,"Gary Matthews",1,8,7
 start,mathj001,"Jeff Mathis",1,9,2
 start,garlj001,"Jon Garland",1,0,1
 play,1,0,robeb003,10,BX,S8/G
-com,"Debut game for Chris Waters"
 play,1,0,markn001,12,1FFB+1F1X,D9/F.1-H
 play,1,0,moram002,32,B*BCBFX,S8/G.2-H
 play,1,0,huffa001,22,CBB1SX,S8/L.1-2
@@ -7944,7 +7919,6 @@ sub,sherg001,"George Sherrill",0,0,1
 play,9,1,aybae001,00,,NP
 sub,montl001,"Luis Montanez",0,7,7
 play,9,1,aybae001,11,..CBX,S6/G
-com,"Debut game for Luis Montanez"
 play,9,1,teixm001,21,BCBX,7/F
 play,9,1,guerv001,32,FSBB*BX,9/F
 play,9,1,huntt001,01,CX,43/G
@@ -8215,8 +8189,6 @@ sub,willr004,"Reggie Willits",1,8,12
 play,7,1,mathj001,10,.*BX,D7/G.2-H;1-3
 play,7,1,figgc001,32,CBBCBC,K
 play,7,1,aybae001,32,BBFBFB,W+WP.3-H(NR);2-3
-com,"Angels runner Reggie Willits collided with Yankees pitcher Brian Bruney"
-com,"and suffered a concussion, leaving the game"
 play,7,1,teixm001,00,X,S8/G.3-H;1-3;B-2(TH)
 play,7,1,guerv001,01,FX,43/G
 play,8,0,rodra001,00,,NP
@@ -8825,15 +8797,12 @@ play,9,0,cairm001,32,.CBBBCB,W
 play,9,0,betay001,01,CX,S7/G.1-2
 play,9,0,suzui001,00,,NP
 sub,aybae001,"Erick Aybar",1,2,6
-com,"Angels second baseman Maicer Izturis left the game due to an injured hand/wrist"
 play,9,0,suzui001,12,.BLLX,9/L
 play,9,0,reedj004,01,FB,WP.2-3;1-2
 play,9,0,reedj004,21,FB.BX,D8/F.3-H;2-H
 play,9,0,ibanr001,32,BBBCSX,S8/G.2-H
 play,9,0,belta001,00,,NP
 sub,olivd001,"Darren Oliver",1,0,1
-com,"ej,rodrf003,P,davig901,Balls and strikes"
-com,"Angels pitcher Francisco Rodriguez ejected by HP umpire Gerry Davis"
 play,9,0,belta001,11,..FBX,4/P
 play,9,0,lopej003,20,BBX,8/F
 play,9,1,teixm001,00,,NP
@@ -9421,7 +9390,6 @@ play,2,0,ruizr001,00,,NP
 sub,mattg002,"Gary Matthews",1,6,9
 play,2,0,ruizr001,00,,NP
 sub,rivej001,"Juan Rivera",1,7,7
-com,"Angels left fielder Garret Anderson left the game due to an injured knee"
 play,2,0,ruizr001,12,..CFBC,K
 play,2,0,puntn001,02,FSX,43/G
 play,2,0,evera001,01,CX,E6/P.B-1
@@ -9503,8 +9471,6 @@ play,9,0,gomec002,00,,NP
 sub,lambm001,"Mike Lamb",0,9,11
 play,9,0,lambm001,12,.CBFX,53/G
 play,9,0,spand001,32,*B*BBCCC,K
-com,"ej,spand001,P,gormb901,Called third strike to end the game"
-com,"$Denard Span was ejected by HP umpire Brian Gorman after the game was over"
 data,er,slowk001,2
 data,er,reyed001,1
 data,er,craij001,2
@@ -9870,7 +9836,6 @@ play,4,1,kendh001,11,BCX,64(1)/FO/G.3-H;2-3;B-1
 play,4,1,teixm001,01,CX,S8/G.3-H;1-2
 play,4,1,guerv001,00,,NP
 sub,rodrs002,"Sean Rodriguez",1,2,12
-com,"Angels second baseman Howie Kendrick left the game due to an injured leg"
 play,4,1,guerv001,01,.CX,8/F
 play,4,1,huntt001,00,>B,SB3
 play,4,1,huntt001,12,>B.FSFS,K
@@ -9906,8 +9871,6 @@ play,6,1,napom001,00,,NP
 sub,streh001,"Huston Street",0,0,1
 play,6,1,napom001,02,.CSFS,K
 play,7,0,thomf001,32,CBCBFFFBFB,W
-com,"ej,sciom001,M,schrp901,Balls and strikes"
-com,"Angels Manager Mike Scioscia ejected by HP umpire Paul Schrieber"
 play,7,0,suzuk001,00,,NP
 sub,arrej001,"Jose Arredondo",1,0,1
 play,7,0,suzuk001,00,,NP
@@ -10473,10 +10436,6 @@ play,4,1,andeg001,12,BCFFX,53/G
 play,4,1,teixm001,00,X,8/F
 play,4,1,rivej001,12,SBFFX,7/F
 play,5,0,bradm001,11,CBX,D9/F
-com,"ej,sciom001,M,hohnb901,Balls and strikes"
-com,"Angels Manager Mike Scioscia ejected by HP umpire Bill Hohn for arguing"
-com,"a check swing call; Hohn ignored catcher Jeff Mathis' request for Hohn to"
-com,"ask the third base umpire for help"
 play,5,0,blalh001,32,BBCFB.S,K
 play,5,0,byrdm001,12,CFF*BX,9/F
 play,5,0,cruzn002,21,BCBX,S6/G.2-3
@@ -10498,10 +10457,6 @@ play,6,1,andeg001,11,BFX,3/G
 play,7,0,bradm001,32,BCFBBX,53/G
 play,7,0,blalh001,20,BBX,8/F
 play,7,0,byrdm001,02,CSFS,K
-com,"ej,washr001,M,hohnb901,Balls and strikes"
-com,"Rangers Manager Ron Washington ejected by HP umpire Bill Hohn for arguing"
-com,"the check swing third strike; Washington had asked for Hohn to get help on"
-com,"the call"
 play,7,1,teixm001,22,BBCFX,63/G
 play,7,1,rivej001,12,BSCT,K
 play,7,1,mattg002,21,BSBX,S8/L
@@ -10513,8 +10468,6 @@ play,8,0,cruzn002,00,,NP
 sub,speij001,"Justin Speier",1,0,1
 play,8,0,cruzn002,10,.BX,9/F
 play,8,0,lairg001,12,FFBC,K
-com,"ej,lairg001,P,hohnb901,Called third strike"
-com,"Rangers catcher Gerald Laird ejected by HP umpire Bill Hohn"
 play,8,0,davic003,32,.CBCBBB,W
 play,8,0,ariaj001,12,CSBX,7/F
 play,8,1,rodrs002,00,,NP
@@ -10653,17 +10606,6 @@ play,6,1,rivej001,00,>B,SB2
 play,6,1,rivej001,32,>B.FBCBFB,W
 play,6,1,napom001,00,>B,SB3
 play,6,1,napom001,32,>B.1CFBBX,FC5/G.3XH(52);1-3;B-1
-com,"ej,huntt001,P,barrt901,Fighting with Ivan Rodriguez"
-com,"ej,rodri001,P,barrt901,Fighting with Torii Hunter"
-com,"$Torii Hunter came into the plate standing and bumped catcher Ivan Rodriguez;"
-com,"Rodriguez then gave Hunter a small shove and started walking towards the mound;"
-com,"Hunter took a couple of steps and pushed Rodriguez, who turned and, after"
-com,"removing his mask, tried to get back to Hunter; plate umpire Ted Barrett"
-com,"restrained Rodriguez, preventing him from connecting with an open-handed"
-com,"swing at Hunter; both benches emptied but there was no further action;"
-com,"both players were ejected by Barrett; a few minutes later, Yankees pitching"
-com,"coach Dave Eiland fainted in the dugout; he had been fighting a cold and"
-com,"had not eaten since early in the afternoon"
 play,6,1,woodb003,00,,NP
 sub,molij001,"Jose Molina",0,9,2
 play,6,1,woodb003,32,...BSBCB>F>F>X,S9/F.3-H;1-H(E9)(UR)(NR);B-2
@@ -10696,7 +10638,6 @@ sub,browm006,"Matthew Brown",1,6,5
 play,8,0,jeted001,00,,NP
 sub,jepsk001,"Kevin Jepsen",1,0,1
 play,8,0,jeted001,11,.....BFX,13/G
-com,"Debut game for Kevin Jepsen"
 play,8,0,abreb001,21,CBBX,63/G
 play,8,0,rodra001,01,FX,9/F
 play,8,1,woodb003,00,,NP
@@ -10707,7 +10648,6 @@ play,8,1,morak001,11,BSX,3/LDP.1X1(3)
 play,8,1,andeg001,00,,NP
 sub,sandf001,"Freddy Sandoval",1,2,11
 play,8,1,sandf001,10,.BX,9/F
-com,"Debut game for Freddy Sandoval"
 play,9,0,betew001,00,,NP
 sub,wilsb002,"Bobby Wilson",1,7,2
 play,9,0,betew001,00,,NP
@@ -10810,7 +10750,6 @@ play,5,1,mathj001,02,T>S.C,K
 play,5,1,rodrs002,21,BCBX,63/G
 play,6,0,jeted001,00,,NP
 sub,mattg002,"Gary Matthews",1,5,8
-com,"Angels center fielder Torii Hunter left the game due to an injured leg"
 play,6,0,jeted001,32,.BCBFBX,E8/F.B-3
 play,6,0,abreb001,31,FBBBB,W
 play,6,0,rodra001,21,FBBX,HR/89/F.3-H(UR);1-H
@@ -11260,7 +11199,6 @@ play,4,1,rivej001,02,CSS,K
 play,4,1,quinr002,22,CFBFBFFFS,K
 play,5,0,johjk001,00,,NP
 sub,morak001,"Kendry Morales",1,4,9
-com,"Angels right fielder Vladimir Guerrero left the game due to an injured knee"
 play,5,0,johjk001,32,.CBBFBB,W
 play,5,0,cairm001,01,CX,4!6(1)/FO/G.B-1
 play,5,0,suzui001,12,BFC1>B,SB2
@@ -11455,7 +11393,6 @@ sub,dickr001,"R.A. Dickey",0,0,1
 play,8,1,rivej001,00,.X,D7/F
 play,8,1,quinr002,00,,NP
 sub,mattg002,"Gary Matthews",1,5,12
-com,"Angels right fielder Juan Rivera left the game due to an injured leg"
 play,8,1,quinr002,31,.F*B*B*BX,8/F.2-3
 play,8,1,napom001,30,BIII,IW
 play,8,1,woodb003,11,B1CX,8/SF/F.3-H

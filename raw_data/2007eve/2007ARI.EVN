@@ -683,7 +683,6 @@ play,1,1,byrne001,22,BFS>B.X,7/F
 play,2,0,hollm001,00,X,D9/L
 play,2,0,hawpb001,30,BBBB,W
 play,2,0,tulot001,22,BCCFBFX,46(1)3/DP/INT.2-2
-com,"$DP awarded on runner interference"
 play,2,0,iannc001,30,BBBI,IW
 play,2,0,cooka002,22,CSBBX,E6/TH/G.2-H(NR)(UR);1-3
 play,2,0,tavew001,22,F*BBFX,54(1)/FO/G
@@ -719,7 +718,6 @@ play,5,0,heltt001,00,X,S9/L-.3-H;2-H;1-2
 play,5,0,hollm001,12,SFBC,K
 play,5,1,hudso001,00,,NP
 sub,carrj001,"Jamey Carroll",0,2,4
-com,"Rockies second baseman Kazuo Matsui left the game due to an injured back"
 play,5,1,hudso001,32,.BBBCCFFFX,1/L
 play,5,1,byrne001,21,BBFX,7/F
 play,5,1,tracc001,00,X,D8/F
@@ -1504,8 +1502,6 @@ play,5,1,byrne001,32,BBFSFFBB,W
 play,5,1,drews001,22,F1FFFBB1X,8/F
 play,5,1,quenc001,12,S1BSS,K
 play,5,1,snydc002,30,BBB>B,W.1-2
-com,"ej,melvb001,M,reilm901,Balls and strikes"
-com,"Diamondbacks Manager Bob Melvin ejected by HP umpire Mike Reilly"
 play,5,1,webbb001,12,C.CBS,K
 play,6,0,gileb002,00,X,63/G
 play,6,0,gonza003,12,FBFX,4/L
@@ -2051,7 +2047,6 @@ play,2,1,hammr001,11,CBX,3/P3F
 play,2,1,johnr005,01,CX,53/G
 play,3,0,alfoe002,00,,NP
 sub,clart002,"Tony Clark",1,5,3
-com,"Diamondbacks first baseman Conor Jackson left the game due to an injured hand/wrist"
 play,3,0,alfoe002,12,.BFFX,S8/G
 play,3,0,morrm001,21,BLBX,24/SH/BG.1-2
 play,3,0,winnr001,00,B,WP.2-3
@@ -2358,9 +2353,6 @@ play,1,1,hudso001,12,B1C1FC,K
 play,1,1,byrne001,32,1BC1BSFB>F>F>S,K
 play,2,0,lodup001,01,CX,S7/L
 play,2,0,franj002,02,CSX,HR/89/F.1-H
-com,"$48-yr-old Franco homered off 43-yr-old Johnson for the"
-com,"oldest combined age ever for a home run; Franco extends"
-com,"his own record for oldest to homer"
 play,2,0,grees001,10,BX,7/F
 play,2,0,chave002,11,BCX,7/F
 play,2,0,mainj001,22,CBSBS,K
@@ -3388,7 +3380,6 @@ play,7,0,foggj001,31,BBBCX,34/SH/BG.1-2
 play,7,0,tavew001,11,CBX,3/L
 play,7,1,hernl003,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,9,1
-com,"Rockies pitcher Josh Fogg left the game due to an injured groin"
 play,7,1,hernl003,21,.CBBX,43/G
 play,7,1,drews001,12,CFBX,7/F
 play,7,1,jackc002,00,X,13/G
@@ -3700,7 +3691,6 @@ sub,palmo001,"Orlando Palmeiro",0,6,7
 play,8,1,drews001,00,,NP
 sub,ensbm001,"Morgan Ensberg",0,9,5
 play,8,1,drews001,02,.....CCS,K
-com,"Debut game for Mark McLemore"
 play,8,1,snydc002,11,BCX,53/G
 play,8,1,owinm001,02,SSS,K
 play,9,0,pench001,02,FSX,43/G
@@ -4396,13 +4386,11 @@ play,2,0,durhr001,02,SCS,K
 play,2,0,sweem001,12,BCCFC,K
 play,2,0,felip001,32,BFBBFB,W
 play,2,0,vizqo001,00,X,S1/BG.1-3(E1/TH);B-2
-com,"DWS: originally scored as S + E3, changed on 6-25 to E1"
 play,2,0,alfoe002,30,IIII,IW
 play,2,0,morrm001,02,CFX,13/G
 play,2,1,younc004,01,CX,63/G
 play,2,1,quenc001,32,FBCBFFBC,K
 play,2,1,snydc002,32,BCLBBX,DGR/7/F
-com,"fan interference"
 play,2,1,webbb001,12,CBCS,K
 play,3,0,winnr001,12,BCFS,K
 play,3,0,lewif001,12,SBSS,K
@@ -4740,9 +4728,6 @@ play,3,0,varij001,32,1BCBBF>F>F>F>F>X,S7/L.1-2
 play,3,0,crisc001,00,X,4/P
 play,3,1,calla001,00,X,S9/L
 play,3,1,snydc002,12,CBCFX,S9/G.1X2(6)
-com,"$Julio Lugo caught Alberto Callaspo with the hidden ball trick;"
-com,"$Callaspo slid into 2B, pulled his hand off the bag to dust"
-com,"himself off and was tagged by Lugo"
 play,3,1,david002,21,BCBX,34/SH/BG.1-2
 play,3,1,byrne001,00,X,S8/G.2-H
 play,3,1,younc004,11,BCX,54(1)/FO/G
@@ -4806,7 +4791,6 @@ play,8,1,younc004,12,BSCS,K
 play,9,0,varij001,00,,NP
 sub,peguj002,"Jailen Peguero",1,9,1
 play,9,0,varij001,22,.BCBFFS,K
-com,"Debut game for Jailen Peguero"
 play,9,0,crisc001,32,FBBCBX,63/G
 play,9,0,beckj002,00,,NP
 sub,mirad001,"Doug Mirabelli",0,9,11
@@ -5044,7 +5028,6 @@ start,johnr005,"Randy Johnson",1,9,1
 play,1,0,lugoj001,12,CBSS,K
 play,1,0,crisc001,22,BSCFBX,S7/L
 play,1,0,youkk001,00,1,PO1(E3).1-2
-com,"$Diamondbacks first baseman Jackson called for obstruction during rundown"
 play,1,0,youkk001,02,1.CCX,8/F
 play,1,0,ramim002,30,BBBB,W
 play,1,0,varij001,12,CBSFS,K
@@ -5252,7 +5235,6 @@ play,5,1,jackc002,22,BBCCFX,6!3/G
 play,5,1,hudso001,32,CBBBFFB,W
 play,5,1,tracc001,00,,NP
 sub,hammj002,"Jason Hammel",0,9,1
-com,"Devil Rays pitcher Edwin Jackson left the game due to an injured hand/wrist"
 play,5,1,tracc001,00,.1,PO1(E1).1-3
 play,5,1,tracc001,12,.1.CFBS,K
 play,6,0,penac001,01,SX,3/L
@@ -6236,7 +6218,6 @@ play,6,1,drews001,00,,NP
 sub,betew001,"Wilson Betemit",0,4,5
 play,6,1,drews001,00,,NP
 sub,abret001,"Tony Abreu",0,8,4
-com,"Dodgers second baseman Jeff Kent left the game due to an injured foot/ankle"
 play,6,1,drews001,12,..CFBS,K
 play,6,1,hudso001,22,CFBBC,K
 play,6,1,tracc001,32,BCCBBFFB,W
@@ -6848,8 +6829,6 @@ start,drews001,"Stephen Drew",1,6,6
 start,salaj002,"Jeff Salazar",1,7,9
 start,snydc002,"Chris Snyder",1,8,2
 start,david002,"Doug Davis",1,9,1
-com,"$Umpire Gary Darling replaced crew chief Jerry Crawford,"
-com,"whose father (former umpire Shag Crawford) died on 7/11"
 play,1,0,gileb002,20,BBX,3/G
 play,1,0,gilem001,22,CBTFBX,9/F
 play,1,0,gonza003,00,X,3/G
@@ -6895,7 +6874,6 @@ play,5,0,maddg002,00,,NP
 sub,bocah001,"Hiram Bocachica",0,9,11
 play,5,0,bocah001,32,.CSBBFBFS,K
 play,5,0,gileb002,22,CBBFFFX,9!/F
-com,"$Tremendous catch by Salazar who reached well over fence"
 play,5,0,gilem001,00,X,S7/L
 play,5,0,gonza003,00,X,7/F
 play,5,1,jackc002,00,,NP
@@ -7808,8 +7786,6 @@ play,6,1,tracc001,31,BBBCB,W
 play,6,1,drews001,00,,NP
 sub,pintr001,"Renyel Pinto",0,9,1
 play,6,1,drews001,31,.BBFBX,36(1)/FO/G.BX2(12)
-com,"$Stephen Drew beat the throw to 1B but was tagged by Mike Jacobs when"
-com,"returning to 1B and called out by Bill Miller for trying to advance"
 play,6,1,davaj001,12,SBSS,K
 play,7,0,cabrm001,01,CX,53/G
 play,7,0,jacom001,00,,NP
@@ -8508,7 +8484,6 @@ play,9,0,sancf001,01,CX,S7/G.2-H;1-2
 play,9,0,laroa001,12,CCBX,E3/TH/FO/G.2-H(UR);1-2;B-1
 play,9,0,bay-j001,22,CBBFX,4/P
 play,9,0,doumr001,20,BBX,36(1)/FO/G.2-H(NR)(UR);BX1(6E1)
-com,"error originally on throw, changed on 8-13 to drop"
 play,9,0,bautj002,11,BFX,4/P
 play,9,1,jackc002,00,,NP
 sub,cappm001,"Matt Capps",0,9,1
@@ -9820,8 +9795,6 @@ play,7,0,derom001,10,BX,D8/L
 play,7,0,kendj001,32,FBBBLX,S9/L.2-3
 play,7,0,pie-f001,00,,NP
 sub,cruzj005,"Juan Cruz",1,9,1
-com,"ej,melvb001,M,coope901,Balls and strikes"
-com,"Diamondbacks Manager Bob Melvin ejected by HP umpire Eric Cooper"
 play,7,0,pie-f001,32,..BC1BCFFBB,W.1-2
 play,7,0,marss002,00,,NP
 sub,wardd002,"Daryle Ward",0,9,11
@@ -10295,10 +10268,6 @@ play,8,1,hudso001,10,BX,3/P3F
 play,9,0,tulot001,00,,NP
 sub,valvj001,"Jose Valverde",1,6,1
 play,9,0,tulot001,12,.FSBX,63/G
-com,"ej,hurdc001,M,laynj901,Call at 1B"
-com,"ej,tulot001,P,monte901,Throwing helmet after close call"
-com,"Rockies Manager Clint Hurdle ejected by 1B umpire Jerry Layne;"
-com,"Rockies shortstop Troy Tulowitzki ejected by HP umpire Ed Montague"
 play,9,0,hollm001,00,.X,63/G
 play,9,0,heltt001,22,B.BCCX,S56/L
 play,9,0,atkig001,00,,NP
@@ -10515,7 +10484,6 @@ play,9,0,atkig001,22,CBS*BX,9/F
 play,9,0,hergm001,00,,NP
 sub,koshj001,"Joe Koshansky",0,6,11
 play,9,0,koshj001,01,.FX,3/G
-com,"Debut game for Joe Koshansky"
 data,er,desse001,7
 data,er,ortir002,4
 data,er,julij001,1
@@ -10652,7 +10620,6 @@ play,8,1,snydc002,32,CFBBBB,W
 play,8,1,uptoj001,00,,NP
 sub,bonie001,"Emilio Bonifacio",1,7,12
 play,8,1,uptoj001,12,.LTB1F1FFS,K
-com,"Debut game for Emilio Bonifacio"
 play,8,1,slatd001,00,,NP
 sub,jackc002,"Conor Jackson",1,9,11
 play,8,1,jackc002,21,.BF1B>X,S4/G.1-3
@@ -10799,7 +10766,6 @@ play,7,1,montm001,32,SFBFBBS,K
 play,8,0,gonza003,00,,NP
 sub,murpb001,"Bill Murphy",1,7,1
 play,8,0,gonza003,22,.STBBX,43/G
-com,"Debut game for Bill Murphy"
 play,8,0,greek002,00,X,9/F
 play,8,0,kouzk001,20,BBX,S7/L
 play,8,0,bardj001,12,CSBX,9/F9LF
@@ -10925,8 +10891,6 @@ play,5,0,ensbm001,10,.BX,S7/L.1-3
 play,5,0,gileb002,30,BBBB,W.1-2
 play,5,0,camem001,22,CBFFBX,9/SF/F.3-H;2-3
 play,5,0,bradm001,02,F1SC,K
-com,"ej,bradm001,P,cuzzp901,Called third strike"
-com,"Padres center fielder Milton Bradley ejected by HP umpire Phil Cuzzi"
 play,5,0,gonza003,11,.BSS,WP.1-2
 play,5,0,gonza003,22,.BSS.BFX,8/F
 play,5,1,david002,00,,NP
@@ -11102,7 +11066,6 @@ play,6,0,bardj001,00,,NP
 sub,penat003,"Tony Pena",1,8,1
 play,6,0,bardj001,00,,NP
 sub,reynm001,"Mark Reynolds",1,9,5
-com,"Diamondbacks pitcher Juan Cruz left the game due to an injured neck/shoulder"
 play,6,0,bardj001,12,CB..CX,63/G
 play,6,0,blumg001,20,BBX,5/P
 play,6,1,reynm001,12,BSTX,8/F
@@ -12546,7 +12509,6 @@ play,1,1,clart002,12,CBSS,K
 play,1,1,reynm001,22,BFCBX,S9/L.2-H;1-3
 play,1,1,snydc002,10,*BX,54(1)/FO/G
 play,2,0,laroa002,32,CBBBFX,23/G
-com,"$LaRoche called out for interfering with the play"
 play,2,0,hu--c001,01,CX,6/P
 play,2,0,billc001,12,BCSS,K
 play,2,1,drews001,21,BBFX,5/P-

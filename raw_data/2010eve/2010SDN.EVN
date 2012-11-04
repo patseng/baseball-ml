@@ -81,7 +81,6 @@ play,4,1,corrk001,12,BCFFX,S9/L.3-H;2-H;1-3
 play,4,1,cabre001,02,CFX,FC4/G.3-H;1-2;B-1
 play,4,1,ecksd001,32,BF*BCBX,9/F
 play,4,1,gonza003,00,X,DGR/8/F.2-H;1-3
-com,"fan interference"
 play,4,1,blank002,00,,NP
 sub,reyej003,"Jo-Jo Reyes",0,9,1
 play,4,1,blank002,32,.CBBCFFFBFFX,D7/L.3-H;2-H
@@ -551,7 +550,6 @@ play,2,1,blank002,12,CBSX,S9/L
 play,2,1,hairs001,12,B1CSS,K
 play,2,1,hundn001,22,11S*BS*BFX,64(1)3/GDP
 play,3,0,jackc002,22,BBCFFFX,E5/G
-com,"originally scored S5, changed next day to E5,makes 3 runs unearned"
 play,3,0,drews001,31,*BB1BF1B,W.1-2
 play,3,0,uptoj001,10,BX,8/L
 play,3,0,reynm001,12,*BFFX,2/P2F
@@ -1568,7 +1566,6 @@ play,2,0,zaung001,12,CCBX,S9/L.1-2
 play,2,0,escoa003,12,CFBS,K
 play,2,1,venaw001,00,,NP
 sub,geruj001,"Jody Gerut",0,2,8
-com,"Brewers center fielder Carlos Gomez left the game due to an injured knee"
 play,2,1,venaw001,22,.BBCFC,K
 play,2,1,staim001,32,CBCBBB,W
 play,2,1,hairj002,02,CCFFF1X,4/P
@@ -1777,13 +1774,6 @@ play,8,0,inglj001,31,.BBFBX,43/G
 play,8,1,gonza003,00,,NP
 sub,hawkl001,"LaTroy Hawkins",0,9,1
 play,8,1,gonza003,22,.CFBBFC,K
-com,"ej,gonza003,P,drakr901,Called third strike"
-com,"ej,blacb001,M,drakr901,Called third strike"
-com,"$Padres first baseman Adrian Gonzalez objected to the call third strike; he kept"
-com,"arguing and was ejected by HP umpire Rob Drake; Padres manager Buddy Black came"
-com,"and got between Gonzalez and Drake; crew chief Joe West escorted Gonzalez back"
-com,"to the dugout while Gonzalez still chirped about the call; Black kept pointing"
-com,"at the plate and was ejected by Drake"
 play,8,1,headc001,12,..CSBX,S7/G.BX2(74)
 play,8,1,venaw001,32,FBSBBFS,K
 play,9,0,weekr001,00,,NP
@@ -1875,10 +1865,8 @@ play,3,0,counc001,01,CX,9/F
 play,3,0,braur002,32,BCFBBB,W
 play,3,0,fielp001,00,11X,7/F
 play,3,1,zawal001,01,FX,S9/L
-com,"Debut game for Lance Zawadzki"
 play,3,1,garlj001,01,C1X,14/SH/BG.1-2
 play,3,1,gwynt002,22,FBBCX,T7/L.2-H
-com,"$Ryan Braun missed a diving catch"
 play,3,1,hairj002,10,BX,6/L-
 play,3,1,headc001,31,FBBBB,W
 play,3,1,hairs001,32,BCB1BF>X,S7/F.3-H;1-2
@@ -1953,7 +1941,6 @@ play,8,1,adamm001,00,,NP
 sub,staim001,"Matt Stairs",1,5,11
 play,8,1,staim001,30,.IIII,IW
 play,8,1,torry001,01,CX,S1/G.3-H;2-H(E1/TH1)(NR)(UR);1-3;B-2
-com,"$Todd Coffey's throw went down the RF line"
 play,8,1,venaw001,12,CBFS,K
 play,9,0,mcgec001,00,,NP
 sub,galls001,"Sean Gallagher",1,5,1
@@ -3849,14 +3836,6 @@ start,richc002,"Clayton Richard",1,9,1
 play,1,0,morgn001,32,BBBCCFX,31/G
 play,1,0,guzmc001,10,BX,53/G
 play,1,0,dunna001,10,BX,8/F
-com,"$Padres pitcher Clayton Richard was not listed on the lineup card submitted"
-com,"to the umpires before the game; Adam Russell, who had been sent to the minors"
-com,"earlier in the day, was listed as the pitcher; citing the rule that states"
-com,"that the pitcher on the lineup card must face one batter, the Nationals"
-com,"protested the game; Padres manager Bud Black told the umpires about the"
-com,"issue and the umpires told Nationals manager Jim Riggleman, who filed the"
-com,"protest because Russell was not in the game; the Nationals won the game"
-com,"and dropped their protest"
 play,1,1,venaw001,01,CX,6/P
 play,1,1,ecksd001,01,CX,43/G
 play,1,1,gonza003,31,BBBCX,43/G
@@ -4964,7 +4943,6 @@ start,denoc001,"Chris Denorfia",1,6,9
 start,hairj002,"Jerry Hairston",1,7,6
 start,gwynt002,"Tony Gwynn",1,8,8
 start,leblw001,"Wade LeBlanc",1,9,1
-com,"Ted Simmons managed game for Padres while Bud Black was away"
 play,1,0,suzui001,00,X,S7/F-
 play,1,0,figgc001,22,BSC11B1X,S7/L.1-3
 play,1,0,gutif001,30,BBBB,W.1-2
@@ -5132,7 +5110,6 @@ play,3,0,hernf002,02,LLX,34/SH/BG.1-2
 play,3,0,suzui001,11,BCX,63/G
 play,3,1,hairj002,00,X,D7/L
 play,3,1,gwynt002,12,CSBX,HR8/L/IPHR.2-H
-com,"$Gutierrez missed diving try and ball rolled to fence"
 play,3,1,richc002,22,BSFBS,K
 play,3,1,ecksd001,02,CCFS,K
 play,3,1,headc001,12,CBCS,K23
@@ -5329,7 +5306,6 @@ play,8,0,wised001,22,FBFBS,K
 play,8,1,ecksd001,00,,NP
 sub,downs001,"Scott Downs",0,9,1
 play,8,1,ecksd001,11,.BCX,63/G
-com,"$a 5.7-magnitude earthquake shook the ballpark and the RF pole swayed"
 play,8,1,headc001,01,CX,63/G
 play,8,1,gonza003,32,BBBCSS,K
 play,9,0,hilla001,22,FSBFBX,D7/L
@@ -5343,8 +5319,6 @@ play,9,1,hairs001,00,,NP
 sub,gregk001,"Kevin Gregg",0,9,1
 play,9,1,hairs001,32,.BCBBFFB,W
 play,9,1,torry001,22,CBBFFC,K
-com,"ej,torry001,P,vanol901,Called third strike"
-com,"Padres catcher Yorvit Torrealba ejected by HP umpire Larry Vanover"
 play,9,1,venaw001,22,.BCSBT,K
 play,9,1,hairj002,02,CFX,43/G
 data,er,marcs001,2
@@ -5731,10 +5705,6 @@ play,4,1,torry001,21,B1SB1X,14(1)3/GDP
 play,5,0,lugoj001,32,CBBSFFB*B,W
 play,5,0,iztuc001,20,B1B>B,SB2
 play,5,0,iztuc001,31,B1B>B.CX,2/INT.2-2
-com,"$Cesar Izturis called out for interfering with catcher Yorvit Torrealba"
-com,"who was trying to throw to 3B on an attempted steal; Izturis leaned back"
-com,"from the plate and the ball went into LF; HP umpire Chris Guccione made"
-com,"the call"
 play,5,0,matub001,12,SBTFX,3/G.2-3
 play,5,0,pattc001,00,X,3/G
 play,5,1,headc001,22,BFBFX,63/G
@@ -6545,7 +6515,6 @@ play,5,1,denoc001,20,BBX,S7/L.1-2
 play,5,1,hairs001,00,X,54(1)/FO/G
 play,6,0,gonzc001,00,,NP
 sub,torry001,"Yorvit Torrealba",1,4,2
-com,"Padres catcher Nick Hundley left the game due to an injured head"
 play,6,0,gonzc001,02,.CCS,K
 play,6,0,moram002,01,CX,8/F
 play,6,0,hawpb001,22,BBCSX,63/G
@@ -6729,11 +6698,6 @@ play,8,1,gonza003,00,,NP
 sub,lyonb003,"Brandon Lyon",0,6,1
 play,8,1,gonza003,12,.FSBX,5/P
 play,8,1,hairs001,12,BFFC,K
-com,"ej,hairs001,P,kulpr901,Called third strike"
-com,"$Padres left fielder Scott Hairston flipped his bat onto the plate after"
-com,"the third strike; as he bent over to pick it up, HP umpire Ron Kulpa saw"
-com,"the bat on the ground and said something to Hairston, who responded;"
-com,"Hairston was ejected by Kulpa"
 play,8,1,headc001,21,.BBFX,D7/L
 play,8,1,venaw001,30,IIII,IW
 play,8,1,hundn001,00,X,4/L-
@@ -7002,8 +6966,6 @@ play,6,1,ecksd001,30,11.BBBB,W
 play,6,1,headc001,11,BCX,7/F
 play,6,1,hairs001,10,BX,9/F
 play,7,0,pench001,32,BBBCCC,K
-com,"ej,pench001,P,rapue901,Called third strike"
-com,"Astros right fielder Hunter Pence ejected by HP umpire Ed Rapuano"
 play,7,0,castj006,22,.CBCBFFX,5/P
 play,7,0,johnc003,20,BBX,D7/L
 play,7,0,sanca005,10,BX,53/G
@@ -7429,10 +7391,6 @@ play,3,1,headc001,30,BBBB,W
 play,3,1,torry001,00,>C,SB2
 play,3,1,torry001,22,>C.BBSFFX,HR/7/F.2-H
 play,3,1,hairs001,11,BCX,S7/G
-com,"ej,rentr001,C,danlk901,Balk call not made"
-com,"$Padres First Base Coach Rich Renteria argued with 1B umpire Kerwin Danley"
-com,"that the move to 1B by Rodrigo Lopez was a balk; Danley told him to do his"
-com,"job and, when Renteria continued the argument, Danley ejected Renteria"
 play,3,1,cunna001,00,1.X,3/P
 play,4,0,snydc002,01,CX,4/P
 play,4,0,loper001,02,SCS,K
@@ -7457,7 +7415,6 @@ play,6,0,loper001,02,CSS,K
 play,6,1,hairs001,00,X,5/P
 play,6,1,cunna001,02,CSX,53/G
 play,6,1,gwynt002,31,BCBBX,HR7/F7L/IPHR
-com,"$DBacks LF Rusty Ryal made a diving attempt at the ball down the line"
 play,6,1,richc002,12,FBCFX,3/G
 play,7,0,younc004,22,BCBSX,S8/G
 play,7,0,johnk003,32,B1F1C1BBFX,36(1)/FO/G
@@ -7609,12 +7566,6 @@ play,6,1,staim001,22,BFFBFS,K
 play,6,1,denoc001,00,X,S9/L
 play,6,1,cabre001,00,1X,T9/F.1-H
 play,6,1,gwynt002,21,PBS>B,CSH(25)
-com,"ej,cabre001,P,demud901,Kicking Mark Reynolds during tag play"
-com,"$DBacks third baseman Mark Reynolds made a diving tag on Everth Cabrera"
-com,"and his momentum caused him to roll over on top of Cabrera; Cabrera kicked"
-com,"at Reynolds trying to get him off; Reynolds came back at Cabrera and the"
-com,"stood up; 3B umpire Dana DeMuth got between them and pushed Cabrera away;"
-com,"both benches and bullpens emptied; Cabrera was ejected by DeMuth"
 play,6,1,gwynt002,31,PBS>B.B,W
 play,6,1,corrk001,00,,NP
 sub,cunna001,"Aaron Cunningham",1,9,11
@@ -7738,7 +7689,6 @@ play,2,1,headc001,02,CSS,K
 play,2,1,torry001,01,CX,63/G
 play,2,1,venaw001,31,BFBBB,W
 play,2,1,gwynt002,12,BCC1>B,SB2
-com,"$Delayed steal by Venable"
 play,2,1,gwynt002,32,BCC1>B.BFB,W
 play,2,1,cabre001,02,CFC,K
 play,3,0,martr004,22,BCFBX,53/G
@@ -7754,8 +7704,6 @@ play,4,1,gonza003,11,BCX,S7/G
 play,4,1,headc001,21,CB*BX,S8/G+.1-2
 play,4,1,torry001,31,BBBCX,S14/G.2-3;1-2
 play,4,1,venaw001,02,FFFFX,42(3)/FO/G.2-3;1-2
-com,"$Throw home pulled catcher Martin off plate, but he tagged"
-com,"Gonzalez for the out"
 play,4,1,gwynt002,01,CX,6/P/IF
 play,4,1,cabre001,12,S*BCC,K
 play,5,0,blakc001,12,CBFX,9/F
@@ -9214,9 +9162,6 @@ start,torry001,"Yorvit Torrealba",1,7,2
 start,denoc001,"Chris Denorfia",1,8,8
 start,leblw001,"Wade LeBlanc",1,9,1
 play,1,0,drews001,32,CCBBBX,HR/9/F
-com,"$Drew's liner hit in the seats in the right field corner and caromed back onto the"
-com,"field; it was ruled in play but crew chief Brian Gorman watched the replay and"
-com,"overturned the call to a home run"
 play,1,0,uptoj001,02,CCS,K
 play,1,0,johnk003,01,FX,S8/L
 play,1,0,younc004,32,BBBFS>X,8/F
@@ -9980,7 +9925,6 @@ start,torry001,"Yorvit Torrealba",1,7,2
 start,denoc001,"Chris Denorfia",1,8,7
 start,luebc001,"Cory Luebke",1,9,1
 play,1,0,fowld001,32,CSBBBFB,W
-com,"Debut game for Cory Luebke"
 play,1,0,herrj002,01,C11,POCS2(136)
 play,1,0,herrj002,32,C11.BBFBFX,13/G
 play,1,0,gonzc001,01,FX,E1/G
@@ -10146,10 +10090,6 @@ play,1,1,venaw001,11,BFX,43/G
 play,1,1,ecksd001,12,CSBX,7/L
 play,1,1,ludwr001,12,BCTX,S8/L
 play,1,1,gonza003,12,1CTFBX,D9/F.1-H
-com,"$Adrian Gonzalez' fly hit near the top of the padded wall in the RF"
-com,"corner where the wall juts out; the ball was ruled in play but the Padres"
-com,"asked about the ruling; crew chief Gary Darling watched the replay and"
-com,"upheld the call"
 play,1,1,headc001,10,BX,7/F
 play,2,0,smits002,22,BBFFS,K
 play,2,0,iannc001,12,BCSC,K
@@ -10510,7 +10450,6 @@ play,4,1,hundn001,10,BX,S6/G.3-H;1-2
 play,4,1,staut001,00,,NP
 sub,baxtm001,"Mike Baxter",1,9,11
 play,4,1,baxtm001,00,.2X,4/P
-com,"Debut game for Mike Baxter"
 play,5,0,ausmb001,00,,NP
 sub,mujie001,"Edward Mujica",1,9,1
 play,5,0,ausmb001,32,.BFCBFBFB,W
@@ -10793,7 +10732,6 @@ play,2,0,blakc001,10,BX,8/F
 play,2,0,kempm001,11,CBX,D9/L
 play,2,0,johnr008,22,BBCSX,31/G.2-3
 play,2,0,mitcr001,22,BSBFS,K
-com,"Debut game for Russ Mitchell"
 play,2,1,staim001,00,X,43/G
 play,2,1,torry001,31,BBBCB,W
 play,2,1,venaw001,00,>C,SB2
@@ -10882,12 +10820,7 @@ play,8,0,lindj003,00,,NP
 sub,gregl001,"Luke Gregerson",1,9,1
 play,8,0,lindj003,00,,NP
 sub,ethia001,"Andre Ethier",0,1,11
-com,"$Dodgers John Lindsey appears in a major league box score for the first"
-com,"time after a 16-year minor league career; he was the oldest non-Asian"
-com,"rookie since 2002; he was announced as a pinch hitter but removed in"
-com,"a right/left switch after the pitching change"
 play,8,0,ethia001,00,...X,4(1)3/GDP
-com,"Debut game for John Lindsey"
 play,8,1,dural001,00,,NP
 sub,doteo001,"Octavio Dotel",0,1,1
 play,8,1,dural001,00,,NP
@@ -11207,9 +11140,6 @@ play,9,0,uribj002,02,FSX,S6/G.2-2
 play,9,0,rente001,22,CBSBX,65(2)/FO/G.1-2
 play,9,0,white004,01,CX,E1/TH2/FO/G.2-3;1-2
 play,9,0,wilsb001,12,SBSX,12(3)3/G/DP
-com,"$Juan Uribe's slide into home was a little wide of the plate and he hooked"
-com,"catcher Nick Hundley, who was throwing to 1B; Uribe was called for interference"
-com,"and batter Brian Wilson declared out"
 play,9,1,headc001,12,SBFX,5/P5F
 play,9,1,hundn001,12,FBFS,K
 play,9,1,cunna001,00,,NP
@@ -11939,7 +11869,6 @@ play,4,0,bailh001,02,CLFFX,FC5/G.3XH(52);1-2
 play,4,0,stubd001,01,CX,9/F
 play,4,1,tejam001,00,,NP
 sub,janip001,"Paul Janish",0,2,6
-com,"Reds shortstop Orlando Cabrera left the game due to an injured side"
 play,4,1,tejam001,21,.BCBX,S9/L
 play,4,1,gonza003,12,CBFX,S7/L.1-2
 play,4,1,ludwr001,12,*BCFX,9/F
@@ -12403,8 +12332,6 @@ play,1,1,venaw001,31,BBBCX,43/G
 play,1,1,ecksd001,02,CFFX,63/G
 play,1,1,tejam001,22,BFFBFFX,43/G
 play,2,0,soria001,21,CBBX,8/F
-com,"$Padres CF Will Venable caught the ball over the top of the wall, thus taking"
-com,"a home run away from Alfonso Soriano"
 play,2,0,dewib001,11,CBX,9/F
 play,2,0,hillk002,32,BCBFBX,D9/G
 play,2,0,wellr001,02,CFS,K
@@ -12417,8 +12344,6 @@ play,3,0,fukuk001,21,BCBX,13/G+
 play,3,0,casts001,00,X,8/F
 play,3,0,byrdm001,22,SCBBX,S5/G
 play,3,0,ramia001,22,1BFSF1*BX,8/F78XDW
-com,"$Padres CF Will Venable caught the ball over the top of the wall, thus taking"
-com,"a home run away from Aramis Ramirez"
 play,3,1,younc003,11,BCX,9/L
 play,3,1,venaw001,31,BBBCX,S8/L
 play,3,1,ecksd001,02,C1F11S,K

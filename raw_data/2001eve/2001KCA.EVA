@@ -330,8 +330,6 @@ play,1,0,ortid001,21,BSBX,9/F9
 play,1,1,feblc001,12,CBFX,S8/8S
 play,1,1,beltc001,11,FBX,D8/8D.1-3
 play,1,1,sweem002,31,BFBBX,53/G.3-H;2-3
-com,"ej,whitj001,C,millb901,Call at HP"
-com,"Twins 1B coach Jerry White ejected by HP umpire Bill Miller"
 play,1,1,dye-j001,12,BSCS,K
 play,1,1,randj002,02,SCX,63/G
 play,2,0,buchb002,02,CSS,K
@@ -1941,8 +1939,6 @@ play,4,0,huntt001,00,X,53/SH.2-3;1-2
 play,4,0,miend001,30,BBII,IW
 play,4,0,print001,22,CSBFFBC,K/C
 play,4,0,jonej003,10,BX,S9.3-H;2XH(92);1-2
-com,"Ortiz broke his hand on play at plate, stayed in"
-com,"to homer his next at bat!"
 play,4,1,browd002,32,BCBFBB,W
 play,4,1,ortih001,21,BSBX,9/F9
 play,4,1,alicl001,22,FBBFB,WP.1-2
@@ -2740,7 +2736,6 @@ play,6,1,browd002,12,BSFX,53/G
 play,6,1,alicl001,00,X,9/F9D
 play,6,1,hinca001,12,BFFC,K/C
 play,7,0,guilj001,12,CFBX,E5/TH1
-com,"Guillen hyperextended knee badly when he hit base"
 play,7,0,flahj001,00,,NP
 sub,winnr001,"Randy Winn",0,7,12
 play,7,0,flahj001,10,BX,54(1)3/GDP
@@ -4021,7 +4016,6 @@ start,mccad001,"David McCarty",1,7,3
 start,delgw001,"Wilson Delgado",1,8,6
 start,hinca001,"A.J. Hinch",1,9,2
 start,durbc001,"Chad Durbin",1,0,1
-com,"Debut for umpire Kevin Kelley"
 play,1,0,suzui001,21,CBBX,43/G
 play,1,0,mclem001,32,CBBBFFFX,8/F8
 play,1,0,marte001,00,X,S8
@@ -4526,7 +4520,6 @@ play,7,0,clayr001,00,,NP
 sub,bailc001,"Cory Bailey",1,0,1
 play,7,0,clayr001,00,X,53/G
 play,7,0,paulj001,00,X,S2/BG25.B-2(E2/TH1)
-com,"DV: conflict between pbp and box about error"
 play,7,0,valej003,22,BBFCX,S9.2-H(UR)
 play,7,0,graft001,11,BCX,46(1)3/GDP
 play,7,1,sweem002,02,CSFS,K
@@ -5207,8 +5200,6 @@ start,wilsk001,"Kris Wilson",1,0,1
 play,1,0,vinaf001,00,X,63/G
 play,1,0,polap001,10,BX,S8
 play,1,0,drewj001,10,BX,3(B)6(1)/GDP
-com,"Sweeney tagged base with glove (ball inside) after"
-com,"nice stop"
 play,1,1,chave002,12,CBFX,8/F8
 play,1,1,sancr001,10,BX,S/89
 play,1,1,beltc001,11,BCH,HP.1-2
@@ -5235,7 +5226,6 @@ play,3,1,dye-j001,31,BBBFX,S8.1-2
 play,3,1,randj002,02,CFX,4/P4
 play,3,1,browd002,32,BSFBBFFS,K
 play,3,1,feblc001,10,BX,S.2-H(NR)(UR);1-3(E4)
-com,"next 2 changed by DV"
 play,3,1,hinca001,10,BB,SB2
 play,3,1,hinca001,20,BB2,PO3(145)
 play,4,0,mcgwm001,22,CBBSFS,K
@@ -5535,8 +5525,6 @@ start,mccad001,"David McCarty",1,7,7
 start,ortih001,"Hector Ortiz",1,8,2
 start,feblc001,"Carlos Febles",1,9,4
 start,byrdp001,"Paul Byrd",1,0,1
-com,"$KC Mgr Muser missed game for daughter's graduation;"
-com,"coach Jamie Quirk managed team"
 play,1,0,loftk001,11,LBX,43/G
 play,1,0,vizqo001,02,CFFX,S8
 play,1,0,alomr001,01,CX,S.1-2
@@ -5821,8 +5809,6 @@ start,hinca001,"A.J. Hinch",1,8,2
 start,sadld001,"Donnie Sadler",1,9,4
 start,suppj001,"Jeff Suppan",1,0,1
 play,1,0,loftk001,02,CFC,K/C
-com,"ej,loftk001,P,drakr901,Called third strike"
-com,"Kenny Lofton ejected by HP umpire Rob Drake"
 play,1,0,vizqo001,12,CCBX,7/F7S
 play,1,0,alomr001,20,BBX,43/G
 play,1,1,alicl001,00,,NP
@@ -6070,7 +6056,6 @@ play,8,1,ibanr001,32,FBCBFBS,K
 play,9,0,fickr001,00,,NP
 sub,austj002,"Jeff Austin",1,0,1
 play,9,0,fickr001,12,CCBFS,K
-com,"Debut game for Jeff Austin"
 play,9,0,palmd002,32,CSBBBFS,K
 play,9,0,encaj001,21,BFBX,53/G
 data,er,blaiw001,7
@@ -6756,12 +6741,10 @@ start,ordal001,"Luis Ordaz",1,9,6
 start,durbc001,"Chad Durbin",1,0,1
 play,1,0,biggc001,10,BH,HP
 play,1,0,lugoj001,22,BCCBH,HP.1-2
-com,"$warnings issued to both benches"
 play,1,0,bagwj001,21,CBBB,WP.2-3;1-2
 play,1,0,bagwj001,31,CBBBB,W
 play,1,0,berkl001,32,FFBBFBS,K
 play,1,0,aloum001,01,FX,64(1)/FO.3-H;2-H(E3)(NR)(UR)
-com,"$Jeff Bagwell slide upended Donnie Sadler, who left with dizziness"
 play,1,0,hidar001,00,,NP
 sub,ordal001,"Luis Ordaz",1,9,4
 play,1,0,hidar001,00,,NP
@@ -6769,14 +6752,10 @@ sub,sancr001,"Rey Sanchez",1,1,6
 play,1,0,hidar001,01,CB,SB2
 play,1,0,hidar001,32,CBBBSX,6/P6
 play,1,1,sancr001,22,BBFFH,HP
-com,"ej,dierl101,M,nelsj901,Intentional HBP"
-com,"ej,elars001,P,nelsj901,Intentional HBP"
-com,"Scott Elarton and Astros Manager Larry Dierker ejected by HP umpire Jeff Nelson"
 play,1,1,maynb001,00,,NP
 sub,villr001,"Ron Villone",0,0,1
 play,1,1,maynb001,21,CBBX,7/F7
 play,1,1,sweem002,22,CFBFFBX,16(1)3/GDP
-com,"$36 minute first inning"
 play,2,0,castv001,00,X,8/F8
 play,2,0,lopem001,22,BBFCC,K/C
 play,2,0,servs002,10,BX,7/F7
@@ -6815,8 +6794,6 @@ play,5,1,ibanr001,20,BBX,3/G
 play,5,1,ordal001,01,CX,9/F9
 play,5,1,sancr001,01,F,NP
 sub,mccad001,"David McCarty",1,1,11
-com,"$Sanchez fouled pitch off foot; taken to hospital, but"
-com,"no break, only bruised"
 play,5,1,mccad001,32,F.BCBBS,K
 play,6,0,lopem001,00,,NP
 sub,mccad001,"David McCarty",1,1,7
@@ -6826,8 +6803,6 @@ play,6,0,lopem001,00,,NP
 sub,ibanr001,"Raul Ibanez",1,8,5
 play,6,0,lopem001,00,,NP
 sub,ordal001,"Luis Ordaz",1,9,6
-com,"first time Raul Ibanez played 3B as pro; first time Randa at 2B"
-com,"since 1988"
 play,6,0,lopem001,31,BFBBB,W
 play,6,0,servs002,00,X,7/F7
 play,6,0,biggc001,10,BX,2/FL
@@ -7179,9 +7154,6 @@ sub,lampt001,"Tom Lampkin",0,9,11
 play,9,0,lampt001,12,SBFFS,K
 play,9,0,suzui001,20,BB,NP
 sub,grimj001,"Jason Grimsley",1,0,1
-com,"ej,bailc001,P,joycj901,Throwing at batter"
-com,"ej,muset101,M,joycj901,Throwing at batter"
-com,"Cory Bailey and Royals Manager Tony Muser ejected by HP umpire Jim Joyce"
 play,9,0,suzui001,32,BB.BCFX,3/G
 data,er,garcf002,6
 data,er,fuenb001,0
@@ -8033,8 +8005,6 @@ start,maynb001,"Brent Mayne",1,9,2
 start,suppj001,"Jeff Suppan",1,0,1
 play,1,0,andeb001,12,CBC,NP
 sub,robeb003,"Brian Roberts",0,1,11
-com,"ej,andeb001,P,timmt901,Balls and strikes"
-com,"Brady Anderson ejected by HP umpire Tim Timmons during at bat"
 play,1,0,robeb003,32,CBC.BBFFB,W
 play,1,0,moram002,22,CCBFFBB,SB2.1-3(E2/TH2)
 play,1,0,moram002,32,CCBFFBBX,53/G.3-H(UR)
@@ -8199,8 +8169,6 @@ play,2,0,ripkc001,11,CBX,HR/78
 play,2,0,batit001,00,X,4/P4
 play,2,0,lunaf001,10,BX,3/P3
 play,2,0,hairj002,12,CBFC,K/C
-com,"ej,hairj002,P,millb901,Balls and strikes"
-com,"Jerry Hairston ejected by HP umpire Bill Miller"
 play,2,1,ibanr001,00,,NP
 sub,robeb003,"Brian Roberts",0,9,4
 play,2,1,ibanr001,02,CCX,53/G
@@ -8529,19 +8497,6 @@ sub,cruzd001,"Deivi Cruz",0,8,6
 play,6,1,feblc001,12,SBCC,K/C
 play,6,1,peren001,11,BCX,4/P4
 play,6,1,beltc001,22,BCBFX,D9
-com,"ej,mansd801,C,fichm901,Bench-clearing brawl"
-com,"ej,nippa001,C,fichm901,Bench-clearing brawl"
-com,"ej,sweem002,P,fichm901,Bench-clearing brawl"
-com,"$Mike Sweeney asked HP umpire Mike Fichter to have pitcher"
-com,"Jeff Weaver move the resin bag; Weaver swore at him so Sweeney"
-com,"threw his helmet at Weaver and charged mound, throwing Weaver"
-com,"to the ground; a bench-clearing brawl followed; Sweeney, Royals'"
-com,"pitching coach Al Nipper & Tigers bench coach Doug Mansolino all"
-com,"ejected by Fichter after 12 minute delay; Sweeney was suspended"
-com,"for 10 games, Tigers catcher Robert Fick for 8 games, Nipper for"
-com,"3 games, Tigers bench coach Bill Madlock for 2 games & Tigers"
-com,"1B coach Juan Samuel for 1 game; fined were Magee, Weaver, Mayne"
-com,"and Tigers bullpen coach Ed Ott"
 play,6,1,sweem002,00,,NP
 sub,mccad001,"David McCarty",1,4,11
 play,6,1,mccad001,32,BBBCCB,W
@@ -8559,7 +8514,6 @@ sub,mccad001,"David McCarty",1,4,3
 play,7,0,halts001,00,,NP
 sub,steib002,"Blake Stein",1,0,1
 play,7,0,halts001,01,CX,HR7/IPHR
-com,"IPHR"
 play,7,0,easld001,02,CCS,K
 play,7,0,cruzd001,10,BX,53/G
 play,7,0,macij001,11,FBX,53/G
@@ -8695,7 +8649,6 @@ play,8,1,feblc001,00,,NP
 sub,halts001,"Shane Halter",0,5,5
 play,8,1,feblc001,00,,NP
 sub,cruzd001,"Deivi Cruz",0,7,6
-com,"and again the mystery switch for Halter and Cruz"
 play,8,1,feblc001,32,FBBFBX,8/F8
 play,8,1,peren001,00,X,9/F9D
 play,8,1,beltc001,20,BBX,13/G
@@ -9227,7 +9180,6 @@ play,2,1,ibanr001,32,BFBBFFX,S9
 play,2,1,zaung001,21,BSBX,3/FL
 play,2,1,browd002,22,FFBFBS,K
 play,2,1,quinm001,12,CBSS,K
-com,"44 minute rain delay in 3rd"
 play,3,0,durhr001,22,BSBFS,K
 play,3,0,lee-c001,02,CCX,S
 play,3,0,ordom001,22,SBFBFX,6(1)3/GDP
@@ -9872,11 +9824,8 @@ play,5,0,ortid001,00,,NP
 sub,bailc001,"Cory Bailey",1,0,1
 play,5,0,ortid001,02,CSB,SB3;SB2
 play,5,0,ortid001,32,CSBBBC,K/C
-com,"ej,ortid001,P,schrp901,Balls and strikes"
-com,"David Ortiz ejected by HP umpire Paul Schreiber"
 play,5,1,quinm001,00,,NP
 sub,hockd001,"Denny Hocking",0,6,3
-com,"sub moved here from 7th by DV"
 play,5,1,quinm001,11,CBH,HP
 play,5,1,browd002,22,SBFBX,E6/G.1-3
 play,5,1,mccad001,22,CFBBX,9/SF.3-H(UR);1-2
@@ -10013,7 +9962,6 @@ play,3,0,glaut001,32,FBBBCB,W
 play,3,0,andeg001,10,BX,8/F8
 play,3,1,sweem002,22,CBSBX,63/G
 play,3,1,ibanr001,21,BCBX,3E1/G
-com,"$Ortiz missed base"
 play,3,1,quinm001,02,CSS,K
 play,3,1,browd002,12,FFBS,K
 play,4,0,woots001,20,BBX,D9
@@ -10187,7 +10135,6 @@ play,5,1,sweem002,22,BFBFX,14/L1
 play,5,1,randj002,00,,NP
 sub,potel001,"Lou Pote",0,0,1
 play,5,1,randj002,10,BX,8/L8
-com,"1:15 rain delay in the 6th"
 play,6,0,ecksd001,11,CBX,S
 play,6,0,salmt001,01,CX,T8/8D.1-H
 play,6,0,erstd001,00,,NP
@@ -10445,7 +10392,6 @@ play,5,1,browd002,00,X,7/F7S
 play,5,1,quinm001,22,CBSBS,K
 play,5,1,maynb001,12,BFCX,63/G
 play,6,0,lambm001,01,CX,HR8/IPHR
-com,"IPHR"
 play,6,0,rodra001,21,FBBX,7/F7S
 play,6,0,palmr001,11,CBX,S9/9S
 play,6,0,sierr001,31,BBBCB,W.1-2
@@ -10561,7 +10507,6 @@ play,2,1,alicl001,20,BBX,3(B)6(1)/GDP
 play,2,1,zaung001,11,CBX,63/G
 play,3,0,cataf001,11,CBX,HR/78
 play,3,0,lambm001,00,X,E4
-com,"originally single, changed to E4 next day"
 play,3,0,rodra001,22,CBBFX,S8/8S.1-3
 play,3,0,palmr001,00,X,9/SF.3-H(UR)
 play,3,0,sierr001,32,CBBCBB,W.1-2
@@ -11689,7 +11634,6 @@ play,2,1,quinm001,01,CX,43/G
 play,2,1,bergb001,12,CFBFFX,HR/7
 play,2,1,harvk001,00,X,E1/G
 play,2,1,zaung001,11,BC1,POCS2(134)
-com,"$Harvey injured toe in rundown, left game"
 play,2,1,zaung001,31,BC1BBB,W
 play,2,1,feblc001,00,X,46(1)/FO
 play,3,0,durhr001,00,,NP

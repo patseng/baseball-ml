@@ -223,7 +223,6 @@ play,4,1,wellv001,01,LX,8/F8S
 play,5,0,miend001,00,,NP
 sub,thurc001,"Corey Thurman",1,0,1
 play,5,0,miend001,12,CCFFBS,K
-com,"Debut game for Corey Thurman"
 play,5,0,ortid001,00,X,D9
 play,5,0,huntt001,11,BSX,63/G.2-3
 play,5,0,koskc001,02,CSX,43/G
@@ -757,7 +756,6 @@ sub,lawrj001,"Joe Lawrence",1,9,4
 play,8,0,johnn001,00,,NP
 sub,plesd001,"Dan Plesac",1,0,1
 play,8,0,johnn001,12,CBFS,K
-com,"Debut game for Joe Lawrence"
 play,8,0,soria001,01,CX,D7
 play,8,0,jeted001,01,FX,S7/7S.2-3
 play,8,0,willb002,12,CBFFS,K
@@ -769,8 +767,6 @@ sub,lillt001,"Ted Lilly",0,0,1
 play,8,1,bergd002,00,X,D/89
 play,8,1,mondr002,22,BBFCX,8/F8S
 play,8,1,delgc001,32,BCCBBC,K/C
-com,"ej,delgc001,P,mealj901,Called third strike"
-com,"Carlos Delgado ejected by HP umpire Jerry Meals"
 play,8,1,cruzj004,11,BCX,8/F8
 play,9,0,wilse001,00,,NP
 sub,lopef001,"Felipe Lopez",1,4,6
@@ -1218,7 +1214,6 @@ play,8,0,jeted001,20,BBX,9/F9D
 play,8,0,willb002,21,FBBX,3/G#
 play,8,1,mondr002,00,,NP
 sub,casta001,"Alberto Castillo",0,5,2
-com,"Posada hit in shoulder by foul in 1st, leaves now"
 play,8,1,mondr002,20,BBX,D7
 play,8,1,delgc001,32,FBFBBFS,K
 play,8,1,cruzj004,21,BBCX,4/L4
@@ -1344,7 +1339,6 @@ play,7,1,delgc001,00,,NP
 sub,arror001,"Rolando Arrojo",0,0,1
 play,7,1,delgc001,32,BCBBCC,K/C
 play,7,1,cruzj004,00,X,S6
-com,"originally scored E6"
 play,7,1,fletd001,32,BBFSFBB,W.1-2
 play,7,1,wellv001,12,CCFFBS,K
 play,7,1,bushh001,21,BBFX,E1/TH.2-H(UR);1-3;B-2
@@ -1932,7 +1926,6 @@ play,7,1,delgc001,02,SFC,K/C
 play,8,0,greer001,00,,NP
 sub,eyres001,"Scott Eyre",1,0,1
 play,8,0,greer001,00,X,S4
-com,"$Delgado missed 1B, originally scored 4E3"
 play,8,0,rodra001,32,CBBFBFX,9/F9D
 play,8,0,palmr001,31,BSBBB,W.1-2
 play,8,0,everc001,00,X,9/F9S
@@ -4165,7 +4158,6 @@ play,7,0,daubb001,10,BX,HR/9.2-H;1-H
 play,7,0,clart002,10,BX,E5/TH1
 play,7,0,nixot001,31,CBBBX,8/F8S
 play,7,0,nelsb001,12,CBFX,S5/G.1-2
-com,"originally scored as E5"
 play,7,0,mirad001,00,,NP
 sub,polic001,"Cliff Politte",1,0,1
 play,7,0,mirad001,12,SBSX,53/G
@@ -4241,7 +4233,6 @@ start,wellv001,"Vernon Wells",1,7,8
 start,lawrj001,"Joe Lawrence",1,8,4
 start,lopef001,"Felipe Lopez",1,9,6
 start,walkp001,"Pete Walker",1,0,1
-com,"$Carlos Tosca replaced Buck Martinez as TOR manager"
 play,1,0,aberb001,11,BFX,S9
 play,1,0,grieb001,31,BCBBB,W.1-2
 play,1,0,cox-s001,00,X,S9.2-3;1-2
@@ -4316,7 +4307,6 @@ play,8,0,vaugg001,11,BSX,4/P4
 play,8,1,hinse001,00,,NP
 sub,jimej002,"Jason Jimenez",0,0,1
 play,8,1,hinse001,11,CBX,43/G
-com,"Debut game for Jason Jimenez"
 play,8,1,wellv001,02,SCX,8/F8
 play,8,1,lawrj001,02,CFX,4/P4
 play,9,0,huffa001,00,,NP
@@ -4597,8 +4587,6 @@ play,8,1,delgc001,31,BBBCX,HR/8.1-H
 play,8,1,wilst003,22,FBCFFBS,K
 play,8,1,hinse001,30,BBBB,W
 play,8,1,wellv001,12,CFBFFC,K/C
-com,"ej,wellv001,P,demud901,Called third strike"
-com,"Vernon Wells ejected by HP umpire Dana Demuth"
 play,9,0,smitj001,00,,NP
 sub,cruzj004,"Jose Cruz",1,2,8
 play,9,0,smitj001,00,,NP
@@ -4725,9 +4713,6 @@ play,7,0,contj001,02,CSX,3/G
 play,7,0,winnr001,11,CBX,9/F9
 play,7,1,wellv001,20,BBX,63/G
 play,7,1,lawrj001,22,CBBFFX,63/G
-com,"ej,kennj001,P,danlk901,Balls and strikes"
-com,"ej,mcrah001,M,danlk901,Balls and strikes"
-com,"Joe Kennedy and Devil Rays Manager Hal McRae ejected by HP umpire Kerwin Danley"
 play,7,1,huckk001,00,,NP
 sub,harpt002,"Travis Harper",0,0,1
 play,7,1,huckk001,11,FBX,53/G
@@ -5700,7 +5685,6 @@ play,1,1,hinse001,31,BCBBB,W
 play,1,1,mondr002,21,CBBX,7/F7
 play,1,1,delgc001,11,BCX,9/F9
 play,2,0,guerv001,12,CSBX,S5/G
-com,"originally scored as E5, change to S on 8-29-02!"
 play,2,0,oleat001,10,BX,S7.1-2
 play,2,0,tatif001,32,BBFSBS,K
 play,2,0,galaa001,22,BFBCX,64(1)3/GDP
@@ -6512,7 +6496,6 @@ play,9,0,hills002,21,BBFX,S
 play,9,0,mirad001,00,,NP
 sub,damoj001,"Johnny Damon",0,7,11
 play,9,0,damoj001,00,B,PB.1-2
-com,"originally scored WP"
 play,9,0,damoj001,22,BCSBX,43/G.2-3
 play,9,0,nixot001,30,BBBB,W
 play,9,0,nelsb001,00,,NP
@@ -6773,11 +6756,9 @@ play,5,1,huckk001,10,BX,9/F9
 play,6,0,vandj001,00,,NP
 sub,thurc001,"Corey Thurman",1,0,1
 play,6,0,vandj001,12,SBFFS,K
-com,"$Corey Thurman threw one pitch over the head of Chris Widger"
 play,6,0,widgc001,22,CBBSS,K
 play,6,0,johnn001,32,CBBCFBB,W
 play,6,0,soria001,00,X,HR/7.1-H
-com,"$Corey Thurman threw one pitch over the head of Derek Jeter"
 play,6,0,jeted001,30,BBBB,W
 play,6,0,giamj001,21,CBBX,S.1-2
 play,6,0,willb002,12,FFBX,S8.2-H;1-2
@@ -6799,18 +6780,11 @@ play,7,0,soria001,22,BSBFX,53/G
 play,7,1,stews002,00,,NP
 sub,spens001,"Shane Spencer",0,7,7
 play,7,1,stews002,12,CBFS,K
-com,"$Orlando Hernandez threw his second pitch behind Carlos Delgado"
-com,"who took a step towards the mound and screamed at Hernandez"
 play,7,1,delgc001,31,BBBCH,HP
-com,"ej,herno001,P,welkt901,Intentional HBP"
-com,"ej,torrj101,M,welkt901,Intentional HBP"
-com,"Orlando Hernandez and Yankees Manager Joe Torre ejected by"
-com,"HP umpire Tim Welke"
 play,7,1,wellv001,00,,NP
 sub,karss001,"Steve Karsay",0,0,1
 play,7,1,wellv001,11,CBX,9/L9
 play,7,1,woodc001,22,FBFBX,54(1)/FO
-com,"$Cassidy almost hit Jeter with a pitch"
 play,8,0,jeted001,12,FFFBX,53/G
 play,8,0,giamj001,32,BBCBFFX,HR/8
 play,8,0,willb002,00,X,S8
@@ -7073,8 +7047,6 @@ play,2,0,moram002,11,BCX,64(1)3/GDP
 play,2,1,woodc001,21,CBBX,S7
 play,2,1,phelj001,32,BBSSBS,K+SB2
 play,2,1,huckk001,11,BFX,HR9/IPHR.2-H
-com,"$Matthews dove and missed, thought ball"
-com,"was foul, went after it slowly"
 play,2,1,lawrj001,12,CSBX,8/F8
 play,2,1,stews002,30,BBBB,W
 play,2,1,bergd002,10,BC,SB2
@@ -7199,7 +7171,6 @@ start,phelj001,"Josh Phelps",1,7,10
 start,bergd002,"Dave Berg",1,8,4
 start,huckk001,"Ken Huckaby",1,9,2
 start,carpc002,"Chris Carpenter",1,0,1
-com,"BAL Mgr Hargrove at funeral of CLE trainer; Perlozzo in charge"
 play,1,0,moram002,22,BBCCFS,K
 play,1,0,singc001,02,CCFX,9/F9
 play,1,0,mattg002,32,BCCBBB,W
@@ -7215,7 +7186,6 @@ play,2,0,fordb001,10,BX,9/F9
 play,2,1,wellv001,12,FCBX,8/F8D
 play,2,1,woodc001,20,BBX,S
 play,2,1,phelj001,32,BSSBFBS,K/DP.1X2(24)
-com,"no CS"
 play,3,0,hairj002,12,BCCX,63/G
 play,3,0,moram002,10,BX,53/G
 play,3,0,singc001,00,X,7/F7
@@ -7427,7 +7397,6 @@ play,7,0,smitj001,12,BCCS,K
 play,7,1,stews002,00,,NP
 sub,backb001,"Brandon Backe",0,0,1
 play,7,1,stews002,30,BBBB,W
-com,"Debut game for Brandon Backe"
 play,7,1,bergd002,22,BFBFB,SB2
 play,7,1,bergd002,32,BFBFBX,8/F8
 play,7,1,cruzj004,10,BX,4(B)6(2)/LDP
@@ -7502,7 +7471,6 @@ start,huckk001,"Ken Huckaby",1,8,2
 start,wised001,"Dewayne Wise",1,9,8
 start,parrs001,"Steve Parris",1,0,1
 play,1,0,winnr001,02,CCS,K
-com,"Debut game for Luis De Los Santos"
 play,1,0,sheea001,11,BCX,8/F8
 play,1,0,cox-s001,00,X,8/F8
 play,1,1,stews002,32,BCSFBFBB,W
@@ -7524,7 +7492,6 @@ play,2,1,bergd002,10,BX,54(1)/FO
 play,2,1,cruzj004,21,BBCX,3/L3
 play,3,0,sandj001,11,CBX,8/F8
 play,3,0,crawc002,32,CBSBBFFX,43/G
-com,"Debut game for Carl Crawford"
 play,3,0,winnr001,22,CBBFX,43/G
 play,3,1,delgc001,32,BBBCSFS,K
 play,3,1,hinse001,32,BBBCFX,D9
@@ -8530,7 +8497,6 @@ play,7,1,swanp001,11,BCX,43/G
 play,8,0,guilc001,00,,NP
 sub,hendm001,"Mark Hendrickson",1,0,1
 play,8,0,guilc001,12,CFBS,K
-com,"Debut game for Mark Hendrickson"
 play,8,0,relad001,31,BBCBB,W
 play,8,0,wilsd001,22,BCFBX,D7.1-3
 play,8,0,cirij001,31,BFBBX,S7.3-H;2-3
@@ -8959,7 +8925,6 @@ play,3,0,andeg001,10,BX,8/F8
 play,3,0,glaut001,32,BBBFCX,43/G.2-3;1-2
 play,3,0,fullb001,30,IIII,IW
 play,3,0,palmo001,32,SBBFBX,3E1/G.3-H(NR)(UR);2-3;1-2
-com,"$Walker failed to cover 1B"
 play,3,0,molib001,10,BX,8/F8
 play,3,1,huckk001,00,X,63/G
 play,3,1,stews002,02,FCX,S7
@@ -8986,7 +8951,6 @@ play,5,0,molib001,10,BX,4/L4
 play,5,1,cruzj004,02,CS,NP
 sub,wellv001,"Vernon Wells",1,4,11
 play,5,1,wellv001,02,CSS,K
-com,"Wells completed strikeout, Cruz apparently hurt"
 play,5,1,woodc001,12,CFBX,S9
 play,5,1,wised001,02,CFFX,E4/G.1-2
 play,5,1,phelj001,00,X,S7.2-H;1-2
@@ -9005,7 +8969,6 @@ play,6,1,stews002,32,BBCBFB,W
 play,6,1,hudso001,00,,NP
 sub,schos001,"Scott Schoeneweis",0,0,1
 play,6,1,hudso001,10,BX,S1.1-2
-com,"originally scored E1"
 play,6,1,hinse001,12,FBFS,K
 play,6,1,wellv001,01,CX,46(1)/FO.2-3
 play,6,1,woodc001,00,X,46(1)/FO
@@ -9867,7 +9830,6 @@ play,2,0,posaj001,12,CBSS,K
 play,2,0,mondr002,10,BX,4/P4
 play,2,1,wellv001,12,CBFX,9/F9
 play,2,1,phelj001,12,BSSX,HR/F7D
-com,"$into third deck"
 play,2,1,hudso001,32,BBBCFB,W
 play,2,1,huckk001,00,X,S9/9S.1-3
 play,2,1,wised001,02,FCX,FC5.3XH(52);1-2;B-1#
@@ -9989,7 +9951,6 @@ play,1,0,giamj001,22,BBCCFX,5/P5
 play,1,0,willb002,21,FBBC,SB2.1-3(E2/TH2)
 play,1,0,willb002,22,FBBCX,HR/89.3-H
 play,1,0,ventr001,00,X,463/G4M
-com,"great play by 4 running behind bag, flipped to 6"
 play,1,1,bergd002,12,CFBFX,3/FL
 play,1,1,hinse001,11,CBX,D9
 play,1,1,woodc001,01,CX,S.2-2
@@ -10000,7 +9961,6 @@ play,2,0,mondr002,00,X,S.2-3
 play,2,0,spens001,10,BX,S7/7S.3-H;1-2
 play,2,0,whitr001,12,FSFBX,64(1)3/GDP.2-3
 play,2,0,soria001,10,BX,HR/7.3-H
-com,"$third deck"
 play,2,0,jeted001,12,CBFX,13/G
 play,2,1,phelj001,22,CBSFBC,K/C
 play,2,1,hudso001,11,CBX,7/F7
@@ -10277,7 +10237,6 @@ start,hallr001,"Roy Halladay",1,0,1
 play,1,0,soria001,12,BFSFFFFX,9/F9
 play,1,0,jeted001,32,BBFFBB,W
 play,1,0,giamj001,21,BSBX,S49/G.1-3
-com,"originally scored E4"
 play,1,0,willb002,10,BX,S9.3-H;1-2
 play,1,0,vandj001,02,CSX,54(1)3/GDP
 play,1,1,stews002,31,BBBCX,9/F9
@@ -10300,7 +10259,6 @@ play,3,0,vandj001,00,X,E4/G.1-2
 play,3,0,coomr001,00,X,13/G
 play,3,1,huckk001,02,FCX,S8
 play,3,1,wertj001,10,BX,54(1)3/GDP
-com,"Debut game for Jayson Werth"
 play,3,1,stews002,22,CBSFFFBFFFX,8/F8
 play,4,0,whitr001,01,FX,HR/7
 play,4,0,rivej001,32,BCCBBX,53/G
@@ -10438,7 +10396,6 @@ play,1,1,delgc001,22,BFFFBS,K
 play,1,1,phelj001,12,FCBS,K
 play,2,0,lee-c001,32,BBFFFBX,7/F7
 play,2,0,borcj001,00,X,5/FL
-com,"Debut game for Joe Borchard"
 play,2,0,rowaa001,12,BFLFX,E6/G
 play,2,0,credj001,32,BSFBBS,K
 play,2,1,woodc001,01,CX,S9
@@ -10879,7 +10836,6 @@ start,huckk001,"Ken Huckaby",1,8,2
 start,wertj001,"Jayson Werth",1,9,9
 start,hallr001,"Roy Halladay",1,0,1
 play,1,0,sheea001,22,FBBFFS,K
-com,"Debut game for Dewon Brazelton"
 play,1,0,crawc002,12,CBFFX,3/G#
 play,1,0,winnr001,02,CSFX,9/F9
 play,1,1,stews002,31,BBBCB,W

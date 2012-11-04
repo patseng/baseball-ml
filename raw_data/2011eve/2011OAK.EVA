@@ -119,7 +119,6 @@ play,7,1,willj004,12,CBCS,K
 play,7,1,matsh001,01,FX,63/G
 play,8,0,figgc001,00,,NP
 sub,powel001,"Landon Powell",1,6,2
-com,"Athletics catcher Kurt Suzuki left the game due to an injured ankle"
 play,8,0,figgc001,12,.CBCFX,E6/G
 play,8,0,bradm001,10,BX,4/LDP.1X1(43)
 play,8,0,custj001,32,CBBBSB,W
@@ -854,16 +853,12 @@ play,5,0,jacka001,32,CSBFFBFBFB,W
 play,5,0,rabur001,10,1BX,7/L
 play,5,1,bartd001,32,CBCBBFB,W
 play,5,1,dejed001,21,BBCN,BK.1-2
-com,"$Tigers pitcher Justin Verlander came set, started to turn to 1B and throw but threw to the plate"
-com,"instead; the ball hit batter David DeJesus, who started to first as everyone wondered what just"
-com,"happened; the umpires huddled and then called a balk on Verlander and returned DeJesus to the plate"
 play,5,1,dejed001,31,BBCN.BB,W
 play,5,1,willj004,12,CFBS,K
 play,5,1,matsh001,02,CCFFX,6/P/IF
 play,5,1,suzuk001,02,CFX,9/F
 play,6,0,ordom001,00,,NP
 sub,ziegb001,"Brad Ziegler",1,0,1
-com,"Athletics pitcher Dallas Braden left the game due to an injured shoulder"
 play,6,0,ordom001,32,..BCBBCX,53/G
 play,6,0,cabrm001,00,X,43/G
 play,6,0,martv001,00,X,S7/L
@@ -1119,11 +1114,6 @@ play,3,1,crisc001,11,CBX,63/G
 play,3,1,bartd001,32,BBFFBFFX,7/F
 play,4,0,pedrd001,32,BCBCBB,W
 play,4,0,gonza003,12,CBF1,POCS2(136)
-com,"ej,frant001,M,reynj901,Arguing for balk call in fourth"
-com,"$Dustin Pedroia was called out at second; Red Sox manager Terry Francona went to the plate to talk with"
-com,"HP umpire Jim Reynolds; he claimed that Athletics pitcher Brett Anderson 'went two different directions'"
-com,"with his pickoff move; it looked like Anderson stepped towards the plate and threw to first but the"
-com,"umpires did not call a balk on the play; Francona was ejected by Reynolds"
 play,4,0,gonza003,12,CBF1..S,K
 play,4,0,youkk001,22,BCFBFFS,K
 play,4,1,dejed001,10,BX,7/F
@@ -1156,12 +1146,6 @@ play,8,0,ortid001,22,BCSBFX,S9/L
 play,8,0,camem001,00,,NP
 sub,ellsj001,"Jacoby Ellsbury",0,5,12
 play,8,0,camem001,32,.1BB11BC1F1>S,K+CS2(24)/DP
-com,"$Jacoby Ellsbury beat the throw at second but was called out on batter interference;"
-com,"between innings, acting manager DeMarlo Hale asked the umpires about the interference"
-com,"and was told there was no interference, that Ellsbury was called out at second; the"
-com,"official scorer had an interference call but removed it the next day; no out call was"
-com,"made at second base and HP umpire Jim Reynolds made a safe signal, meaning no interference,"
-com,"after calling a swing on Mike Cameron for strike three"
 play,8,0,crawc002,32,BFBSBX,S6/G
 play,8,0,saltj001,12,BCS11FFX,S7/L.1-2
 play,8,0,mcdod002,02,CCS,K
@@ -1421,7 +1405,6 @@ play,3,0,younm003,00,X,S8/L
 play,3,0,belta001,02,CCX,64(1)/FO/G
 play,3,1,ellim001,21,BCBX,63/G
 play,3,1,bartd001,10,BX,D8/F
-com,"originally scored as E8, changed next day, changes run to earned"
 play,3,1,jackc002,12,BCCH,HP
 play,3,1,willj004,12,CBFFFX,9/F.2-3
 play,3,1,suzuk001,01,FX,S7/L.3-H;1-2
@@ -3237,8 +3220,6 @@ start,kouzk001,"Kevin Kouzmanoff",1,8,5
 start,pennc001,"Cliff Pennington",1,9,6
 start,mccab001,"Brandon McCarthy",1,0,1
 play,1,0,spand001,11,BCX,15/L+
-com,"$Denard Span's line drive hit off the back of pitcher Carl Pavano and caromed to 3B"
-com,"Kevin Kouzmanoff"
 play,1,0,plout001,02,CCX,7/F
 play,1,0,kubej002,32,CSFBFBBX,D8/L
 play,1,0,mornj001,11,FBX,S8/G.2-H
@@ -3394,7 +3375,6 @@ play,1,0,spand001,12,CBFX,S8/G
 play,1,0,plout001,01,CB,PB.1-2
 play,1,0,plout001,00,,NP
 sub,purcd001,"David Purcey",1,0,1
-com,"Athletics pitcher Tyson Ross left the game due to an injured side"
 play,1,0,plout001,32,CB.B.FB>FFX,53/G
 play,1,0,kubej002,02,CCX,S9/G.2-H
 play,1,0,mornj001,11,CBX,7/F
@@ -3606,9 +3586,6 @@ play,5,1,ellim001,22,BFCBFFS,K
 play,6,0,wietm001,31,BBBCX,S7/L
 play,6,0,reimn001,00,,NP
 sub,ziegb001,"Brad Ziegler",1,0,1
-com,"ej,gereb001,M,campa901,Balls and strikes"
-com,"$during the pitching change, Athletics Manager Bob Geren discussed the strike"
-com,"zone with HP umpire Angel Campos and was ejected by Campos"
 play,6,0,reimn001,02,..CFX,8/F
 play,6,0,reynm001,11,SBX,46(1)3/GDP
 play,6,1,laroa002,22,SFBFBX,S8/G
@@ -3888,7 +3865,6 @@ play,4,1,suzuk001,00,,NP
 sub,pie-f001,"Felix Pie",0,1,8
 play,4,1,suzuk001,00,,NP
 sub,reimn001,"Nolan Reimold",0,2,7
-com,"Orioles center fielder Adam Jones left the game due to an injured shoulder"
 play,4,1,suzuk001,10,..BX,6/L
 play,4,1,dejed001,12,CBSC,K
 play,4,1,ellim001,11,BSX,63/G
@@ -4504,8 +4480,6 @@ play,6,1,jackc002,10,BX,7/F
 play,6,1,sizes001,32,CBBFBX,9/F
 play,6,1,suzuk001,32,CBBBFFB,W
 play,6,1,bartd001,00,X,2/P
-com,"$Daric Barton called out for interfering with catcher Matt treanor's ability"
-com,"to field the batted ball"
 play,7,0,butlb003,00,,NP
 sub,wuerm001,"Michael Wuertz",1,0,1
 play,7,0,butlb003,00,.X,43/G-
@@ -4548,8 +4522,6 @@ sub,sorij001,"Joakim Soria",0,0,1
 play,9,1,crisc001,32,.CCBBBS,K
 play,9,1,pennc001,32,CBBBCB,W
 play,9,1,matsh001,10,BX,2/P2F
-com,"$Royals catcher Matt Treanor reached over the wall into the photographers well"
-com,"to catch the foul ball"
 play,9,1,willj004,12,CBSFFC,K
 data,er,duffd001,2
 data,er,hollg001,1
@@ -4754,11 +4726,7 @@ play,2,1,pennc001,22,1BBCF11X,64(1)/FO/G
 play,3,0,escoa003,11,CBX,13/G
 play,3,0,maiem001,32,CCBBFBB,W
 play,3,0,cabrm002,00,X,64(1)/FO/G
-com,"$Athletics Manager Bob Melvin argued the call at 1B on Melky Cabrera"
 play,3,0,franj004,22,BSBF1>B,SB2
-com,"ej,melvb001,M,tscht901,Call at 2B"
-com,"$Oakland Athletics Manager Bob Melvin yelled from the dugout about the call at 2B"
-com,"on the steal by Melky Cabrera; Melvin was ejected by 3B umpire Tim Tschida"
 play,3,0,franj004,32,BSBF1>B..S,K
 play,3,1,matsh001,20,BBX,HR/9/F
 play,3,1,willj004,32,CBBFBX,S6/G+
@@ -5340,9 +5308,6 @@ play,6,1,matsh001,10,11BX,5/P
 play,6,1,jackc002,32,BBC1BF>F>X,9/F
 play,7,0,infao001,30,BBBB,W
 play,7,0,sancg001,02,1CFS,K
-com,"ej,sancg001,P,cuzzp901,Balls and strikes"
-com,"Marlins first baseman Gaby Sanchez ejected by HP umpire Phil Cuzzi; Sanchez claimed he checked his"
-com,"swing; he tossed his bat as he returned to the dugout and was ejected"
 play,7,0,ramih003,02,.SCS,K
 play,7,0,stanm004,02,SSS,K
 play,7,1,sweer001,00,,NP
@@ -6601,7 +6566,6 @@ play,6,0,troum001,00,,NP
 sub,devij001,"Joey Devine",1,0,1
 play,6,0,troum001,31,.BCBB,NP
 sub,ziegb001,"Brad Ziegler",1,0,1
-com,"$Athletics pitcher Joey Devine left the game due to back spasms after four pitches"
 play,6,0,troum001,32,.BCBB.FX,S9/L.3-H;2-3;1-2
 play,6,0,aybae001,00,X,46(1)3/GDP
 play,6,1,sizes001,00,,NP
@@ -6775,8 +6739,6 @@ sub,wuerm001,"Michael Wuertz",1,0,1
 play,8,0,trumm001,32,.S*BBBFT,K
 play,8,1,willj004,10,BX,53/G
 play,8,1,matsh001,21,BCBX,D9/L
-com,"$Hideki Matsui's fly hit at the top of the wall in right center, just below the yellow stripe;"
-com,"the ball was ruled in play; crew chief Dale Scott watched the replay and upheld the call"
 play,8,1,sizes001,00,,NP
 sub,sweer001,"Ryan Sweeney",1,4,12
 play,8,1,sizes001,10,.BX,13/G
@@ -7963,7 +7925,6 @@ play,3,0,mauej001,22,BBCFX,8/F
 play,3,0,cuddm001,01,FX,3/P
 play,3,1,dejed001,00,,NP
 sub,sweer001,"Ryan Sweeney",1,5,11
-com,"Athletics right fielder David DeJesus left the game due to soreness in his right thumb"
 play,3,1,sweer001,32,.CBBCFFBX,3/G
 play,3,1,jackc002,22,BCBFFX,D7/G
 play,3,1,pennc001,22,BCC*BS,K
@@ -8160,10 +8121,6 @@ sub,cappm001,"Matt Capps",0,0,1
 play,7,1,willj004,32,.BFBCBX,S7/G
 play,7,1,jackc002,02,CFX,46(1)3/GDP
 play,7,1,sweer001,12,CBCS,K
-com,"ej,sweer001,P,belld901,Balls and strikes"
-com,"Athletics right fielder Ryan Sweeney ejected by HP umpire Dan Bellino; he was upset with"
-com,"some of the pitches that were called strikes through the game and made a comment as he"
-com,"left the plate area"
 play,8,0,valed001,00,,NP
 sub,dejed001,"David DeJesus",1,6,9
 play,8,0,valed001,00,,NP
@@ -8271,7 +8228,6 @@ play,4,0,torry001,12,BCCX,3/G
 play,4,0,chave002,12,BCFFX,D13/L
 play,4,0,kinsi001,00,,NP
 sub,magnt001,"Trystan Magnuson",1,0,1
-com,"Athletics pitcher Brandon McCarthy left the game due to an injured knee"
 play,4,0,kinsi001,12,.CCBFX,S8/L-.2-H
 play,4,0,andre001,31,BBFBB,W.1-2
 play,4,0,hamij003,10,BX,7/F
@@ -9088,7 +9044,6 @@ play,9,0,hardj003,11,BCX,S6/G.2-3
 play,9,0,markn001,00,,NP
 sub,davib005,"Blake Davis",0,2,12
 play,9,0,markn001,12,.CBCFX,S9/L.3-H;1XH(92);B-2(THH)
-com,"$the ball was bobbled by RF David DeJesus so Blake Davis tried to score from 1B"
 data,er,simoa001,5
 data,er,bergb002,0
 data,er,pattt001,0
@@ -9851,7 +9806,6 @@ play,5,1,sizes001,22,BCCBX,HR/7/F
 play,5,1,weekj001,12,CCBX,43/G-
 play,5,1,crisc001,00,,NP
 sub,sweer001,"Ryan Sweeney",1,2,11
-com,"Athletics center fielder Coco Crisp left the game due to an injured leg"
 play,5,1,sweer001,31,.BBBCX,63/G
 play,5,1,matsh001,12,BFCX,43/G
 play,6,0,ryanb002,00,,NP
@@ -9951,12 +9905,10 @@ play,2,0,smoaj001,21,BBCX,S4/G
 play,2,0,olivm001,32,SB*B*BFX,9/F
 play,2,0,seagk001,31,BBC1BX,S8/L-.1-2
 play,2,0,wellc001,11,BSH,HP.2-3;1-2
-com,"$pitcher Casper Wells was hit on the left elbow"
 play,2,0,rodrl002,02,FCX,8/F
 play,2,0,suzui001,22,CFFFBBX,3/G
 play,2,1,alleb001,00,,NP
 sub,robit001,"Trayvon Robinson",0,8,7
-com,"Mariners right fielder Casper Wells left the game due to an injured elbow"
 play,2,1,alleb001,22,.BFFBX,D9/L
 play,2,1,sweer001,12,BCFX,3/G.2-3
 play,2,1,suzuk001,11,BFX,S8/L.3-H
@@ -10029,8 +9981,6 @@ play,8,0,rodrl002,11,CBX,S8/L.3-H;2-H
 play,8,0,suzui001,31,.BBBCX,S8/G.1-2
 play,8,0,gutif001,12,BFS,NP
 sub,kenna001,"Adam Kennedy",0,2,11
-com,"$Franklin Gutierrez grabbed his left side after a swing and a miss on the third pitch;"
-com,"he was helped off the field"
 badj,kenna001,R
 play,8,0,kenna001,22,BFS.FBS,K
 play,8,1,sizes001,00,,NP
@@ -11166,7 +11116,6 @@ play,3,0,yound003,00,X,16(1)3/GDP
 play,3,1,sogae001,12,CFBC,K
 play,3,1,crisc001,12,BCFX,8/F
 play,3,1,weekj001,02,CFC,K
-com,"$the stadium lights went out as the Athletics took the field, resulting in a 16-minute delay"
 play,4,0,cabrm001,20,BBX,S8/G
 play,4,0,martv001,22,C*BF*BFX,D9/G.1-3
 play,4,0,avila001,02,CFFS,K
@@ -11447,7 +11396,6 @@ play,4,0,cabrm001,02,SFX,9/F
 play,4,1,weekj001,11,CBX,13/G
 play,4,1,sizes001,00,,NP
 sub,rabur001,"Ryan Raburn",0,7,4
-com,"Tigers second baseman Carlos Guillen left the game due to an injured leg"
 play,4,1,sizes001,00,.X,8/F
 play,4,1,crisc001,10,BX,S9/L
 play,4,1,willj004,30,1BBBX,4/P

@@ -92,7 +92,6 @@ play,6,0,roles001,11,CBX,9/F9
 play,6,1,surhb001,00,,NP
 sub,silvc001,"Carlos Silva",0,9,1
 play,6,1,surhb001,10,BX,D7
-com,"Debut game for Carlos Silva"
 play,6,1,lopej001,12,BCFX,63/G
 play,6,1,gilem001,30,BBBX,S7/7S.2-3
 play,6,1,glavt001,10,BX,E6/G.3-H;1-2
@@ -635,7 +634,6 @@ start,gilem001,"Marcus Giles",1,8,4
 start,glavt001,"Tom Glavine",1,9,1
 play,1,0,ceder001,10,BX,S8
 play,1,0,alomr001,00,F,FLE7#
-com,"Chipper had FLE7 this game, first chance here"
 play,1,0,alomr001,12,FFBX,7/F7
 play,1,0,valej002,00,C,SB2
 play,1,0,valej002,12,CBSX,8/F8S
@@ -1342,7 +1340,6 @@ play,5,0,castl001,00,X,13/G
 play,5,1,furcr001,00,,NP
 sub,izquh001,"Hansel Izquierdo",0,9,1
 play,5,1,furcr001,11,CBX,43/G
-com,"Debut game for Hansel Izquierdo"
 play,5,1,jonea002,32,BBSFBFX,D7/7S
 play,5,1,jonec004,12,CBSX,S8.2XH(82);B-2(THH)#
 play,5,1,shefg001,22,CSBBS,K
@@ -1603,7 +1600,6 @@ start,helmw001,"Wes Helms",1,7,3
 start,gilem001,"Marcus Giles",1,8,4
 start,bongj001,"Jung Bong",1,9,1
 play,1,0,womat001,31,BCBBB,W
-com,"Debut game for Jung Bong"
 play,1,0,spivj001,21,BCBX,D/78.1-3
 play,1,0,gonzl001,32,BFCBBFS,K
 play,1,0,bautd001,30,BBBB,W
@@ -1831,7 +1827,6 @@ play,7,1,lockk001,01,FX,16(1)3/GDP
 play,8,0,finls001,00,,NP
 sub,fostj001,"John Foster",1,9,1
 play,8,0,finls001,30,BBBB,W
-com,"Debut game for John Foster"
 play,8,0,milld002,22,CBBSX,9/F9
 play,8,0,counc001,22,BCBCFS,K
 play,8,0,batim001,00,,NP
@@ -2106,8 +2101,6 @@ play,2,1,jonea002,31,BCBBB,W
 play,2,1,jonec004,22,CBSBX,S7.3-H;2-H;1-2
 play,2,1,surhb001,02,FFB,WP.2-3;1-2
 play,2,1,surhb001,22,FFBFFFBX,6/P6
-com,"ej,cox-b103,M,welkb901,Unknown reason"
-com,"Braves Manager Bobby Cox ejected by HP umpire Bill Welke in 3rd"
 play,3,0,reddt001,11,CBX,8/F8
 play,3,0,biggc001,32,BBCBCB,W
 play,3,0,ausmb001,02,FCH,HP.1-2
@@ -2136,7 +2129,6 @@ play,5,0,ausmb001,20,BBX,54(1)3/GDP
 play,5,1,surhb001,00,,NP
 sub,lidgb001,"Brad Lidge",0,9,1
 play,5,1,surhb001,10,BX,S
-com,"Debut game for Brad Lidge"
 play,5,1,castv001,32,SBBFBFC,K+SB2/C
 play,5,1,helmw001,12,CBCS,K
 play,5,1,gilem001,30,BBBB,W
@@ -2324,7 +2316,6 @@ sub,merco002,"Orlando Merced",0,9,11
 play,9,0,merco002,12,BFSC,K/C
 play,9,0,biggc001,10,BX,S7/7S
 play,9,0,zaung001,10,BX,T9.1-H;BXH(942)
-com,"Surhoff tore ACL - out for year"
 play,9,1,gilem001,00,,NP
 sub,wagnb001,"Billy Wagner",0,9,1
 play,9,1,gilem001,32,CBCBBFFS,K
@@ -2445,11 +2436,9 @@ play,7,1,helmw001,01,CX,63/G
 play,7,1,derom001,00,X,7/F7D
 play,8,0,bagwj001,00,,NP
 sub,langr002,"Ryan Langerhans",1,3,7
-com,"Chipper Jones leave with sprained thumb"
 play,8,0,bagwj001,00,,NP
 sub,remlm001,"Mike Remlinger",1,9,1
 play,8,0,bagwj001,10,BX,T/89
-com,"Debut game for Ryan Langerhans"
 play,8,0,berkl001,32,FBBFBB,W
 play,8,0,wardd002,12,CCBFFX,S8.3-H;1-2
 play,8,0,ensbm001,00,X,S8.2-H;1-3;B-2
@@ -3057,7 +3046,6 @@ start,gilem001,"Marcus Giles",1,7,4
 start,blanh001,"Henry Blanco",1,8,2
 start,maddg002,"Greg Maddux",1,9,1
 play,1,0,lankr001,32,CBFBBS,K
-com,"Debut game for Dennis Tankersley"
 play,1,0,kotsm001,01,CX,9/F9
 play,1,0,klesr001,31,BBBCB,W
 play,1,0,nevip001,00,X,64(1)/FO
@@ -3099,8 +3087,6 @@ play,5,0,kotsm001,32,FBSFBBX,43/G
 play,5,1,blanh001,22,CBCBX,63/G
 play,5,1,maddg002,12,CCFBC,K/C
 play,5,1,furcr001,10,BX,63/G
-com,"ej,cox-b103,M,timmt901,Unknown reason"
-com,"Braves Manager Bobby Cox ejected by 1B umpire Tim Timmons in 6th"
 play,6,0,klesr001,00,X,7/F7
 play,6,0,nevip001,00,X,23/G
 play,6,0,cruzd001,10,BX,HR/7
@@ -3262,8 +3248,6 @@ play,6,0,nevip001,00,,NP
 sub,grybk001,"Kevin Gryboski",1,9,1
 play,6,0,nevip001,22,CBFBFFS,K
 play,6,0,cruzd001,12,CBSC,K/C
-com,"ej,cruzd001,P,timmt901,Balls and strikes"
-com,"Deivi Cruz ejected by HP umpire Tim Timmons"
 play,6,0,jimed001,32,BBFBSFB,W
 play,6,0,vazqr001,01,SX,54(1)/FO
 play,6,1,lockk001,00,,NP
@@ -4093,7 +4077,6 @@ play,2,0,barrm003,12,CCBX,S.1-2
 play,2,0,reamb001,01,FX,43/G
 play,2,1,jonec004,11,BF,NP
 sub,franj002,"Julio Franco",1,4,11
-com,"$Jones fouled ball off right calf"
 play,2,1,franj002,12,BFCC,K/C
 play,2,1,jonea002,02,SCS,K
 play,2,1,castv001,32,CCBBBB,W
@@ -4156,7 +4139,6 @@ play,6,1,lopej001,00,X,S7
 play,6,1,holmd001,00,X,63/G.1-2
 play,6,1,furcr001,02,FFS,K
 play,6,1,gilem001,02,FFX,53/G
-com,"$Giles leaped at base, rolled ankle, helped off"
 play,7,0,galaa001,00,,NP
 sub,lockk001,"Keith Lockhart",1,9,4
 play,7,0,galaa001,00,,NP
@@ -4904,7 +4886,6 @@ play,3,1,castv001,12,BCFFX,7/F7D
 play,4,0,ceder001,21,BCBX,S5/BG5
 play,4,0,ordor001,02,FCFX,S9.1-3
 play,4,0,damij001,20,BBX,26(1)4/BG/GDP.3-3
-com,"bunt presumed"
 play,4,0,alomr001,22,CBFFBS,K
 play,4,1,lopej001,32,FBCBBFFX,53/G
 play,4,1,lockk001,12,CBCX,9/F9D
@@ -5428,7 +5409,6 @@ start,lopej001,"Javy Lopez",1,6,2
 start,helmw001,"Wes Helms",1,7,5
 start,lockk001,"Keith Lockhart",1,8,4
 start,marqj001,"Jason Marquis",1,9,1
-com,"Debut for umpire Adam Dowdy"
 play,1,0,santr002,32,CCBFBBFFB,W
 play,1,0,jackd003,00,X,S9.1-3
 play,1,0,fickr001,20,BBX,9/SF.3-H
@@ -5738,7 +5718,6 @@ play,6,0,berna001,00,X,13/SH.2-3#
 play,6,0,santr002,22,BSBSS,K
 play,6,0,jackd003,12,CBFX,D9/9S.3-H
 play,6,0,fickr001,12,BCCX,E4/G.2-H(UR)(NR);B-3(E4/TH3)
-com,"2 errors on this play"
 play,6,0,simor001,00,X,13/G
 play,6,1,furcr001,12,SLBC,K/C
 play,6,1,franj002,00,X,9/L9
@@ -6459,7 +6438,6 @@ start,castv001,"Vinny Castilla",1,6,5
 start,lopej001,"Javy Lopez",1,7,2
 start,lockk001,"Keith Lockhart",1,8,4
 start,mossd001,"Damian Moss",1,9,1
-com,"$Bartolo Colon's first appearance with Montreal"
 play,1,0,macij001,32,BCBCFBX,13/G
 play,1,0,vidrj001,10,BX,8/F8
 play,1,0,guerv001,11,BFX,7/F7D
@@ -6947,7 +6925,6 @@ start,castv001,"Vinny Castilla",1,6,5
 start,lopej001,"Javy Lopez",1,7,2
 start,lockk001,"Keith Lockhart",1,8,4
 start,millk004,"Kevin Millwood",1,9,1
-com,"$Cubs fire Mgr Don Baylor; Rene Lachemann interim Mgr today"
 play,1,0,pattc001,32,CCBBBFS,K
 play,1,0,muelb001,22,BCFBC,K/C
 play,1,0,aloum001,12,BFFX,7/F7D
@@ -7096,7 +7073,6 @@ start,castv001,"Vinny Castilla",1,6,5
 start,lopej001,"Javy Lopez",1,7,2
 start,lockk001,"Keith Lockhart",1,8,4
 start,glavt001,"Tom Glavine",1,9,1
-com,"$Bruce Kimm takes over as interim manager"
 play,1,0,bellm002,32,BFBSFFFBB,W
 play,1,0,muelb001,00,X,8/F8
 play,1,0,echea001,12,FFBX,S8.1-2
@@ -7786,7 +7762,6 @@ sub,remlm001,"Mike Remlinger",1,9,1
 play,9,0,lee-t002,12,FBFX,3/G#
 play,9,0,liebm001,10,BX,S8/8S
 play,9,0,andem003,02,FCX,564(1)/FO/G56
-com,"$great dive and deflection by Castilla to Furcal"
 play,9,0,adamt001,00,,NP
 sub,michj001,"Jason Michaels",0,9,11
 play,9,0,michj001,22,SBCBX,9/F9
@@ -8069,7 +8044,6 @@ play,4,0,andem003,11,BCX,4(1)3/GDP
 play,4,1,lopej001,12,FSBS,K
 play,4,1,lockk001,30,BBBX,S8/8S
 play,4,1,glavt001,00,X,16(1)4/BG/GDP#
-com,"bunt assumed"
 play,5,0,padiv001,02,CCX,63/G
 play,5,0,gland001,22,CBBFFC,K/C
 play,5,0,rollj001,12,BCCX,8/F8
@@ -8092,8 +8066,6 @@ sub,michj001,"Jason Michaels",0,9,11
 play,7,0,michj001,32,FBBSBB,W.1-2
 play,7,0,gland001,32,BBBCFB,W.2-3;1-2
 play,7,0,rollj001,00,X,S3/BG3.3-H;2-H(NR);1-3
-com,"yes, two runs on bunt, but only 1 RBI - no E"
-com,"$Glavine tried to tag Rollins, allowing run to score"
 play,7,0,abreb001,32,BBBCFX,S7/7S.3-H;1-3
 play,7,0,burrp001,00,,NP
 sub,derom001,"Mark DeRosa",1,9,4
@@ -8647,7 +8619,6 @@ sub,mattm001,"Mike Matthews",0,9,1
 play,2,1,lockk001,22,BFFFBFS,K
 play,2,1,helmw001,00,X,9/L9
 play,2,1,blanh001,12,SFBC,K/C
-com,"55 minute rain delay in the 3rd"
 play,3,0,pujoa001,11,CBX,63/G
 play,3,0,edmoj001,00,X,63/G
 play,3,0,roles001,11,CBX,3/L3
@@ -8945,9 +8916,6 @@ play,2,1,blanh001,02,CCFS,K
 play,3,0,martt002,32,CBBBSS,K
 play,3,0,mathm001,02,FCX,S7
 play,3,0,benea001,01,LN,BK.1-2
-com,"$Moss fooled Franco on the throw over; Franco thought Moss was going"
-com,"toward home and already was charging to field a possible bunt by Benes,"
-com,"causing the balk"
 play,3,0,benea001,11,LNBX,43/G.2-3
 play,3,0,vinaf001,31,BCBBB,W
 play,3,0,rente001,02,FCX,E5/G.3-H(NR)(UR);1-2
@@ -9255,7 +9223,6 @@ play,7,0,sandr002,31,BCBBX,43/G.2-3
 play,7,0,snowj001,32,CFBBBS,K
 play,7,1,torrs002,20,BBX,S/78
 play,7,1,glavt001,10,BX,26(1)4/BG/GDP#
-com,"bunt assumed"
 play,7,1,furcr001,02,CFS,K
 play,8,0,shint001,00,,NP
 sub,spoot001,"Tim Spooneybarger",1,9,1
@@ -9429,8 +9396,6 @@ play,10,0,nen-r001,00,,NP
 sub,loftk001,"Kenny Lofton",0,9,11
 play,10,0,loftk001,22,BLSBL,K/BF
 play,10,0,belld002,10,B,NP
-com,"called for rain after delay of 2:33 at 1:25am; game ends in tie and"
-com,"will be replayed only if necessary for the pennant race"
 data,er,schmj001,1
 data,er,rodrf002,0
 data,er,worrt002,0
@@ -9615,7 +9580,6 @@ start,castv001,"Vinny Castilla",1,6,5
 start,lopej001,"Javy Lopez",1,7,2
 start,gilem001,"Marcus Giles",1,8,4
 start,marqj001,"Jason Marquis",1,9,1
-com,"1:20 rain delay in 1st"
 play,1,0,pierj002,32,BFFBFBB,W
 play,1,0,butlb002,11,FBB,SB2
 play,1,0,butlb002,31,FBBBX,43/G.2-3
@@ -10054,7 +10018,6 @@ play,9,1,shefg001,00,,NP
 sub,jimej001,"Jose Jimenez",0,9,1
 play,9,1,shefg001,21,BBCX,HR/78
 play,9,1,jonec004,11,FBX,HR/9
-com,"$back-to-back homers to win; first time in Braves history"
 data,er,hampm001,2
 data,er,speij001,2
 data,er,jimej001,2
@@ -10130,7 +10093,6 @@ play,3,0,gileb002,31,BBFBB,W.1-2
 play,3,0,ramia001,01,CX,6/P6
 play,3,1,blanh001,00,,NP
 sub,hyzda001,"Adam Hyzdu",0,8,9
-com,"not clear why Rios left early"
 play,3,1,blanh001,12,CFBC,K/C
 play,3,1,maddg002,01,FX,S8/8S
 play,3,1,furcr001,20,BBX,D9/9D.1-3
@@ -10438,7 +10400,6 @@ play,6,1,blanh001,00,X,8/F8
 play,7,0,wellk001,00,,NP
 sub,alvat002,"Antonio Alvarez",0,9,11
 play,7,0,alvat002,31,BBBCB,W
-com,"Debut game for Antonio Alvarez"
 play,7,0,reesp001,11,BCX,64(1)/FO
 play,7,0,wilsj002,00,X,E6/TH.1-3;B-2
 play,7,0,kendj001,32,BBBCSS,K
@@ -10472,7 +10433,6 @@ play,9,0,browa001,02,CCS,K
 play,9,0,lincm001,00,,NP
 sub,davij004,"J.J. Davis",0,9,11
 play,9,0,davij004,22,BFSBC,K/C
-com,"Debut game for J.J. Davis"
 play,9,0,nunea001,32,BBCBCFB,W
 play,9,0,wilsj002,01,CX,S/89.1-3
 play,9,0,kendj001,22,CBBCFX,9/F9
@@ -10707,18 +10667,11 @@ play,4,1,furcr001,00,X,7/L7
 play,5,0,vidrj001,12,CCFBX,D9
 play,5,0,guerv001,12,CFFBX,13/G
 play,5,0,galaa001,00,X,S7.2-3;BX2(7236)
-com,"announcers say 7236"
-com,"$Late stop of Jose Vidro by 3B coach caused Andres Galarraga to break for"
-com,"2B; he was caught in rundown, but throw from Matt Franco hit his helmet"
-com,"and deflected to SS who fielded and made great diving tag at 2B"
 play,5,0,oleat001,31,FBBBB,W
 play,5,0,tatif001,00,X,54(1)/FO
 play,5,1,derom001,32,BSCBBFFX,S8
 play,5,1,shefg001,01,FX,7/L7
 play,5,1,jonea002,11,BSH,HP.1-2
-com,"ej,ohkat001,P,bellw901,Intentional HBP"
-com,"$Andruw Jones hit on ear flap, started slowly to mound, held"
-com,"back, Tomo Ohka ejected by HP umpire Wally Bell; Jones left game"
 play,5,1,franm001,00,,NP
 sub,drewt001,"Tim Drew",0,9,1
 play,5,1,franm001,00,,NP
@@ -10742,9 +10695,6 @@ play,6,1,lockk001,31,CBBBX,8/F8
 play,7,0,wilkb002,00,,NP
 sub,hammc001,"Chris Hammond",1,9,1
 play,7,0,wilkb002,00,H,HP
-com,"ej,cox-b103,M,bellw901,Intentional HBP"
-com,"ej,hammc001,P,bellw901,Intentional HBP"
-com,"Chris Hammond and Braves Manager Bobby Cox ejected by HP umpire Wally Bell"
 play,7,0,vidrj001,00,,NP
 sub,holmd001,"Darren Holmes",1,9,1
 play,7,0,vidrj001,11,CBX,8/F8D
@@ -11012,7 +10962,6 @@ play,2,1,furcr001,32,BCBBSFX,8/F8
 play,3,0,scutm001,00,,NP
 sub,hodgt001,"Trey Hodges",1,9,1
 play,3,0,scutm001,10,BX,4/P4
-com,"Debut game for Trey Hodges"
 play,3,0,mcewj001,10,BX,S9/9S
 play,3,0,ordor001,12,CBFFX,43(1)63/GDP
 play,3,1,franj002,21,BBFX,43/G
@@ -11044,8 +10993,6 @@ play,5,1,franj002,00,,NP
 sub,mcewj001,"Joe McEwing",0,7,4
 play,5,1,franj002,10,BX,S7
 play,5,1,shefg001,00,H,HP.1-2
-com,"ej,astap001,P,randt901,Intentional HBP"
-com,"Pedro Astacio ejected by HP umpire Tony Randazzo"
 play,5,1,jonec004,00,,NP
 sub,felip002,"Pedro Feliciano",0,9,1
 play,5,1,jonec004,00,X,S8.2-3;1-2
@@ -11623,7 +11570,6 @@ play,2,0,polap001,32,BFBFBB,W
 play,2,0,andem003,21,BFBX,S/78.1-2
 play,2,0,myerb001,00,X,S8/8S.2-H;1-2
 play,2,0,rollj001,31,BFBBX,1/G13
-com,"$Marquis made play on run and kept going to bag"
 play,2,1,franm001,01,CX,6/P6
 play,2,1,lopej001,10,BH,HP
 play,2,1,gilem001,22,BCCBX,D/89.1-H
@@ -11641,7 +11587,6 @@ play,3,1,jonec004,20,BBX,7/L7
 play,3,1,jonea002,31,BBCBB,W.1-2
 play,3,1,franm001,31,BBBCX,8/F8S
 play,3,1,lopej001,22,FBFBX,S4/G34D.2-H(E4/TH1);1-3;B-2
-com,"$great stop on outfield grass, then wild throw"
 play,3,1,gilem001,00,,BK.3-H(UR);2-3
 play,3,1,gilem001,30,BIII,IW
 play,3,1,marqj001,02,CFS,K
@@ -11876,7 +11821,6 @@ play,8,1,bragd001,22,SBBSFS,K
 play,9,0,estrj001,00,,NP
 sub,remlm001,"Mike Remlinger",1,3,1
 play,9,0,estrj001,12,CFBX,S6/G
-com,"originally scored E6"
 play,9,0,polap001,00,X,96(1)/FO
 play,9,0,lee-t002,00,X,S8.1-2
 play,9,0,junge001,00,,NP
@@ -11995,7 +11939,6 @@ sub,owene001,"Eric Owens",0,9,11
 play,6,0,owene001,01,SX,13/SH.1-2#
 play,6,0,ozunp001,00,X,S9.2-3
 play,6,0,mordm001,10,BX,E4/SH.3-H;1-2;B-1
-com,"SH added on 09-24"
 play,6,0,millk005,01,CX,9/F9
 play,6,0,lowem001,02,CSX,8/F8
 play,6,1,jonec004,00,,NP
@@ -12312,8 +12255,6 @@ play,6,1,jonea002,01,FX,E5/G.2-3;1-2
 play,6,1,lockk001,00,X,S/78.3-H;2-H(UR);1-2
 play,6,1,castv001,20,BBX,E1/TH.2-H(UR);1-3;B-2
 play,6,1,blanh001,00,H,HP
-com,"ej,tavaj001,P,darlg901,Intentional HBP"
-com,"Julian Tavarez ejected by HP umpire Gary Darling"
 play,6,1,maddg002,00,,NP
 sub,borlt001,"Toby Borland",0,9,1
 play,6,1,maddg002,11,BSS,CSH(2).2-3;1-2

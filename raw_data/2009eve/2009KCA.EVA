@@ -226,7 +226,6 @@ play,5,1,bloow001,21,BB+2FX,8/F.2-3
 play,5,1,crisc001,31,1SBBBX,64(1)/FO/G
 play,6,0,nadyx001,00,,NP
 sub,teahm001,"Mark Teahen",1,5,5
-com,"Royals third baseman Alex Gordon left the game due to an injured leg"
 play,6,0,nadyx001,22,.CBSBS,K
 play,6,0,ransc001,12,SCBS,K
 play,6,0,gardb001,31,CBBBB,W
@@ -1525,7 +1524,6 @@ play,4,0,riosa002,10,BX,S6/G-.2-3;1-2
 play,4,0,wellv001,01,CX,S8/G.3-H;2-H;1-2
 play,4,0,linda001,00,,NP
 sub,tejer001,"Robinson Tejeda",1,0,1
-com,"Royals pitcher Gil Meche left the game due to an injured back"
 play,4,0,linda001,30,B.*BBX,3/P
 play,4,1,jacom001,02,SSS,K
 play,4,1,calla001,22,FBBFX,63/G
@@ -2574,7 +2572,6 @@ play,2,0,huffa001,22,BCBCX,43/G
 play,2,0,moram002,12,CCBFFX,5!3/G
 play,2,0,wiggt001,20,BBX,S4/G
 play,2,0,reimn001,20,BBX,6/L
-com,"Debut game for Nolan Reimold"
 play,2,1,jacom001,12,FCBX,4!3/G
 play,2,1,guilj001,02,CFX,S9/L
 play,2,1,teahm001,11,CBX,64(1)3/GDP
@@ -3086,7 +3083,6 @@ play,8,1,dejed001,00,,NP
 sub,andir001,"Robert Andino",0,2,6
 play,8,1,dejed001,00,,NP
 sub,johnj010,"Jim Johnson",0,0,1
-com,"Orioles shortstop Cesar Izturis left the game due to an injured groin"
 play,8,1,dejed001,22,..CF.BBX,D9/F
 play,8,1,buckj001,00,X,T87/L.2-H
 play,8,1,bloow001,20,BBX,53/G-
@@ -3721,8 +3717,6 @@ play,8,1,buckj001,00,,NP
 sub,minez001,"Zach Miner",0,0,1
 play,8,1,buckj001,00,...X,53/G
 play,8,1,bloow001,22,CSBBC,K
-com,"ej,hillt801,M,emmep901,Called third strike on Bloomquist"
-com,"Royals Manager Trey Hillman ejected by HP umpire Paul Emmel"
 play,8,1,maiem001,10,.BX,T9/F
 play,8,1,dejed001,01,CX,S7/L.3-H
 play,8,1,butlb003,00,X,64(1)/FO/G
@@ -3831,7 +3825,6 @@ play,4,1,butlb003,01,CX,63/G
 play,4,1,guilj001,12,FSFBX,9/F
 play,5,0,ingeb001,00,,NP
 sub,maiem001,"Mitch Maier",1,1,8
-com,"Royals center fielder Coco Crisp left the game due to an injured neck/shoulder"
 play,5,0,ingeb001,10,.BX,S57/G+
 play,5,0,thomc002,00,111>X,46(1)3/GDP
 play,5,0,lairg001,12,BSSFF,FLE3
@@ -4089,7 +4082,6 @@ play,1,0,thomj002,22,CCBBS,K
 play,1,1,bloow001,01,CX,4/L
 play,1,1,dejed001,12,BCCS,K
 play,1,1,butlb003,32,BBCBFX,E5/G
-com,"$originally scored as single, changed on June 5 to E5"
 play,1,1,guilj001,21,BBCX,8/F
 play,2,0,konep001,11,BCX,S7/L
 play,2,0,piera001,11,BFX,S9/G-.1-2
@@ -4097,7 +4089,6 @@ play,2,0,andeb003,02,CSS,K
 play,2,0,getzc001,12,BFFX,143/G.2-3;1-2
 play,2,0,fielj001,12,BFSX,D7/L.3-H;2-H
 play,2,0,podss001,01,CX,S1/G.2-3
-com,"$orginally scored as E1, changed on June 5 to single"
 play,2,0,ramia003,01,CX,S7/G.3-H;1-2
 play,2,0,dye-j001,32,*BCB+2BT>F>F2>X,53/G
 play,2,1,jacom001,12,CBSFS,K
@@ -4273,7 +4264,6 @@ play,3,0,podss001,00,X,7/F
 play,3,0,ramia003,22,BBCSS,K
 play,3,1,buckj001,00,,NP
 sub,olivm001,"Miguel Olivo",1,8,11
-com,"Royals catcher John Buck left the game due to an injured back"
 play,3,1,olivm001,10,.BX,6/P
 play,3,1,hernl004,12,BCFX,43/G
 play,3,1,bloow001,02,CCX,S4/G
@@ -4715,9 +4705,6 @@ play,4,0,nix-l001,12,SBSX,8/F
 play,4,0,gomej001,22,FFBBX,63/G
 play,4,0,brucj001,21,SBBX,S9/L
 play,4,0,hernr002,02,FSX,43/G
-com,"$on the fourth pitch to Billy Butler, he hit a fly ball down the LF line that"
-com,"was called foul; KC manager Trey Hillman asked about the call; acting crew chief"
-com,"Jerry Layne watched the replay and, after 3 minutes, upheld the call"
 play,4,1,butlb003,22,BBCFX,43/G
 play,4,1,jacom001,21,BBCX,9/L
 play,4,1,guilj001,00,X,8/F
@@ -5504,9 +5491,6 @@ play,5,1,teahm001,00,,NP
 sub,duncc002,"Chris Duncan",0,5,3
 play,5,1,teahm001,00,,NP
 sub,thurj001,"Joe Thurston",0,8,5
-com,"$Cardinals third baseman Khalil Greene left the game due to an injured foot/ankle; DH"
-com,"Chris Duncan entered the game at 1B, so the Cardinals lost the use of the DH; pitcher"
-com,"Brad Thompson enters the lineup in the third spot, replacing Albert Pujols"
 play,5,1,teahm001,02,...CSX,53/G
 play,5,1,olivm001,21,BBCX,D7/L
 play,5,1,maiem001,00,N,BK.2-3
@@ -5789,7 +5773,6 @@ play,4,0,ankir001,01,CX,S9/G
 play,4,0,greek002,00,H,HP.1-2
 play,4,0,greet004,00,,NP
 sub,thurj001,"Joe Thurston",0,8,12
-com,"Cardinals third baseman Khalil Greene left the game due to an injured knee"
 play,4,0,greet004,10,.BX,S5/BG.2-3;1-2
 play,4,0,schus001,10,BX,S7/L.3-H;2-3;1-2
 play,4,0,rasmc001,11,CBX,6/P/IF
@@ -5978,9 +5961,6 @@ play,5,1,jacom001,30,BBBB,W
 play,5,1,teahm001,22,BFFBS,K
 play,6,0,mornj001,00,X,63/G
 play,6,0,kubej002,02,CSX,3/G
-com,"ej,gardr001,M,vanol901,Arguing that pitch struck Jason Kubel"
-com,"Twins Manager Ron Gardenhire argued that the batted ball hit Jason Kubel's foot;"
-com,"Gardenhire ejected by HP umpire Larry Vanover"
 play,6,0,cuddm001,20,.BBX,8/F
 play,6,1,calla001,32,BCFBBX,HR/9/F
 play,6,1,olivm001,32,BSBBCFFFX,HR/78/F
@@ -7183,7 +7163,6 @@ play,7,1,calla001,32,BFCBBB,W
 play,7,1,betay001,01,1FX,E4/FO/G.1-3
 play,7,1,dejed001,00,,NP
 sub,choar001,"Randy Choate",0,0,1
-com,"Rays pitcher Scott Kazmir left the game due to an injured arm"
 play,7,1,dejed001,11,.CBX,46(1)/FO/G.3-H(UR)
 play,7,1,bloow001,00,,NP
 sub,bradc001,"Chad Bradford",0,0,1
@@ -7784,7 +7763,6 @@ play,2,0,kendh001,22,C>S.B*BFS,K
 play,2,1,teahm001,12,CSBX,D7/L
 play,2,1,guilj001,00,,NP
 sub,freer001,"Ryan Freel",1,5,11
-com,"Royals right fielder Jose Guillen left the game due to an injured leg"
 play,2,1,freer001,32,.CC*BFFBBX,3/P-
 play,2,1,calla001,00,X,S9/L.2-H;B-2(THH)
 play,2,1,gorda001,12,BFFFX,43/G-.2-3
@@ -8113,8 +8091,6 @@ play,4,1,calla001,21,FBBX,8/F
 play,4,1,olivm001,02,CFFFFS,K
 play,4,1,buckj001,22,SFBFBX,S7/L.2-H
 play,4,1,betay001,00,X,6!3/G
-com,"ej,hillt801,M,crawj901,Call at 1B"
-com,"Royals Manager Trey Hillman ejected by 1B umpire Jerry Crawford"
 play,5,0,vizqo001,12,.CFFBX,7/F
 play,5,0,kinsi001,00,X,5!3/G
 play,5,0,younm003,21,BFBX,S9/F-
@@ -8241,7 +8217,6 @@ play,3,0,kinsi001,10,BX,S7/L
 play,3,0,younm003,12,1CFB1FFX,46(1)3/GDP
 play,3,1,betay001,00,,NP
 sub,nippd001,"Dustin Nippert",0,0,1
-com,"Rangers pitcher Kevin Millwood left the game due to an injured leg"
 play,3,1,betay001,02,.CFX,3/P
 play,3,1,dejed001,31,BFBBX,6/L
 play,3,1,freer001,00,X,13/G
@@ -10276,7 +10251,6 @@ play,8,0,abreb001,00,,NP
 sub,balej001,"John Bale",1,0,1
 play,8,0,abreb001,10,B,NP
 sub,color001,"Roman Colon",1,0,1
-com,"$John Bale left game with hamstring injury after throwing one pitch"
 play,8,0,abreb001,32,.B.CSBB>B,W.2-3;1-2
 play,8,0,guerv001,11,FBX,S7/G.3-H;2-H;1-2
 play,8,0,huntt001,32,FBBBF>B,W.2-3;1-2
@@ -10553,7 +10527,6 @@ play,4,0,abreb001,12,CBS>X,D9/L.2-H;1-H
 play,4,0,huntt001,00,,NP
 sub,hughd001,"Dusty Hughes",1,0,1
 play,4,0,huntt001,11,.CBX,S7/L-.2-H
-com,"Debut game for Dusty Hughes"
 play,4,0,morak001,10,BB,WP.1-2
 play,4,0,morak001,20,BB.X,9/F
 play,4,1,olivm001,00,X,HR/7/F
@@ -10599,7 +10572,6 @@ play,8,1,betay001,01,CX,46(1)3/GDP
 play,9,0,aybae001,00,,NP
 sub,martv002,"Victor Marte",1,0,1
 play,9,0,aybae001,00,.X,S8/L
-com,"Debut game for Victor Marte"
 play,9,0,abreb001,30,BBB*B,W.1-2
 play,9,0,huntt001,32,CBCFBB>S,K+CS3(25)/DP.1-2
 play,9,0,morak001,01,SX,43/G
@@ -10737,8 +10709,6 @@ play,7,0,rivej001,01,CX,7/F
 play,7,1,calla001,00,X,S9/F
 play,7,1,teahm001,00,*B,SB2
 play,7,1,teahm001,10,*B.X,3/G/INT.2-2
-com,"$Mark Teahen was called out when 1B umpire Todd Tichenor ruled that Teahen ran"
-com,"into the ball while running down the line"
 play,7,1,penab002,22,SBSFBS,K23
 play,7,1,betay001,32,BBSBSB,W+WP.2-3
 play,7,1,andej004,00,,NP
@@ -11262,9 +11232,6 @@ play,8,0,rabur001,31,BBBCX,S9/F-.1-2
 play,8,0,polap001,10,BX,54(1)3/GDP
 play,8,1,olivm001,02,CFX,53/G
 play,8,1,calla001,00,X,HR/89/F
-com,"$Callaspo's fly was touched by a fan just over the padded wall and called a home"
-com,"run; Tigers manager Jim Leyland asked about the call so acting crew chief Wally"
-com,"Bell watched the replay and upheld the call"
 play,8,1,andej004,00,,NP
 sub,jacom001,"Mike Jacobs",1,6,11
 play,8,1,jacom001,00,.X,43/G
@@ -11418,8 +11385,6 @@ sub,wrigj001,"Jamey Wright",1,0,1
 play,7,0,gonza002,21,.BBCX,8/F
 play,7,0,ellsj001,32,BBBCFX,3/G
 play,7,0,pedrd001,32,CBBCFBB,W
-com,"$the 2-2 pitch to Pedroia slipped out of Wright's hand and landed in the seats"
-com,"between home plate and the third base dugout"
 play,7,0,martv001,32,BBFBC>X,63/G
 play,7,1,andej004,00,,NP
 sub,wagnb001,"Billy Wagner",0,0,1
@@ -11857,10 +11822,6 @@ play,2,1,teahm001,02,CCC,K
 play,2,1,olivm001,22,SBFBS,K
 play,2,1,gorda001,12,SBSS,K
 play,3,0,gonza002,22,CSBBS,K
-com,"ej,greiz001,P,gibsg901,Balls and strikes (from bench)"
-com,"$the 1-2 pitch to Jacoby Ellsbury was called a ball; after the next pitch, which was fouled"
-com,"off by Ellsbury, Royals pitcher Zack Greinke, who was not in the game, yelled from the bench"
-com,"about the strike zone; he was ejected by HP umpire Greg Gibson"
 play,3,0,ellsj001,22,CFBB.FFX,S8/L-
 play,3,0,pedrd001,00,11>B,SB2
 play,3,0,pedrd001,32,11>B.CBBFX,E5/G.2-H(NR)(UR)
@@ -11870,11 +11831,6 @@ play,3,1,betay001,12,BFFS,K
 play,3,1,dejed001,22,CBBCFX,63/G
 play,3,1,maiem001,02,CCFS,K
 play,4,0,ortid001,12,BSCX,HR/8/F
-com,"ej,hillt801,M,gibsg901,Arguing warning to both teams"
-com,"$the first two pitches to Mike Lowell were curve balls that nearly hit the batter; both"
-com,"sides were warned by HP umpire Greg Gibson; Royals manager Trey Hillman stormed onto the"
-com,"field and was quickly ejected by Gibson; Hillman had to be restrained by crew chief Tim"
-com,"McClelland; Hillman yelled at McClelland for several minutes before leaving"
 play,4,0,lowem001,30,BB.BB,W
 play,4,0,kotcc001,21,CBBX,S9/L.1-2
 play,4,0,reddj001,21,BBFX,E6/G.2-H(NR);1-2
@@ -12278,10 +12234,6 @@ sub,gomec002,"Carlos Gomez",0,4,8
 play,8,1,andej004,12,..BCFX,43/G
 play,8,1,bloow001,20,BBX,9/F
 play,8,1,maiem001,32,BBBCCB,W
-com,"ej,gardr001,M,coope901,Warning issued to both teams"
-com,"$the first pitch to Billy Butler was inside; HP umpire Eric Cooper warned both"
-com,"teams and Twins manager Ron Gardenhire ran out to argue; Gardenhire was ejected"
-com,"by Cooper"
 play,8,1,butlb003,21,B.SBX,D9/L.1-H
 play,8,1,jacom001,01,FX,7/F
 play,9,0,harrb001,00,,NP

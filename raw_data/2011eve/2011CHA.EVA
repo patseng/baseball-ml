@@ -256,13 +256,6 @@ play,7,1,pierj002,10,11*BX,2E3/SH/BG.1-3;B-1
 play,7,1,beckg001,00,,NP
 sub,peraj002,"Joel Peralta",0,0,1
 play,7,1,beckg001,02,.S1SF1F>F>B,SB2.3XH(21)
-com,"$Juan Pierre ran for second on the pitch, which bounced well in front of the"
-com,"plate and caromed to the backstop; catcher Kelly Shoppach ran for the ball,"
-com,"which bounced back half way to the plate; when he turned to toss the ball to"
-com,"pitcher Joel Peralta covering, his knee buckled under him; Peralta tagged"
-com,"out Brent Morel trying to score on the wild pitch; since Morel was trying to"
-com,"advance on a wild pitch but was out, Pierre is still credited with a steal;"
-com,"Shoppach left the game with a sore knee"
 play,7,1,beckg001,00,,NP
 sub,jasoj001,"John Jaso",0,6,2
 play,7,1,beckg001,12,.S1SF1F>F>B..FX,7/F7LF
@@ -578,13 +571,6 @@ play,6,0,damoj001,00,X,S7/L.2-3
 play,6,0,uptob001,11,CBX,9/F
 play,6,0,johnd004,00,1,PO1(E1).3-H(UR);1-3
 play,6,0,johnd004,12,1.CSBX,341/G
-com,"ej,maddj801,M,demud901,Changed call at 1B"
-com,"$Dan Johnson was called safe by 1B umpire Doug Eddings, who ruled that pitcher Gavin Floyd juggled the ball"
-com,"making the play; White Sox manager Ozzie Guillen talked to Eddings and the umpires huddled to discuss the call;"
-com,"the call was changed to an out because Floyd juggled the ball after crossing the bag while taking the ball"
-com,"out of his glove; Rays manager Joe Maddon stormed onto the field to argue the changed call and was ejected"
-com,"by crew chief Dana DeMuth; Maddon then signaled that he was ejecting DeMuth and proceeded to eject all four"
-com,"umpires before leaving the field"
 play,6,1,piera001,11,.BFX,4/P
 play,6,1,vizqo001,12,FFFFFBX,8/F
 play,6,1,teahm001,12,CSBX,S8/L
@@ -1487,9 +1473,6 @@ play,5,1,ramia003,32,BCBBFX,53/G
 play,5,1,vizqo001,22,CBBFX,63/G
 play,6,0,huntt001,11,BFX,5!3/G
 play,6,0,wellv001,00,X,T9/F89XDW
-com,"$the fly ball by Vernon Wells hit the top of the padding on the yellow line in right center and"
-com,"rebounded back onto the field; the Angels asked about the 'in play' ruling so crew chief Tom"
-com,"Hallion watched the replay and upheld the call"
 play,6,0,calla001,31,FBBBX,S7/L.3-H
 play,6,0,trumm001,22,BBCFC,K
 play,6,0,mathj001,32,BF1BSB>F>B,W.1-2
@@ -1586,8 +1569,6 @@ start,lillb001,"Brent Lillibridge",1,7,8
 start,teahm001,"Mark Teahen",1,8,5
 start,beckg001,"Gordon Beckham",1,9,4
 start,dankj001,"John Danks",1,0,1
-com,"$White Sox manager Ozzie Guillen serving the first of a two-game suspension"
-com,"for tweeting after being ejected on 4/28"
 play,1,0,robeb003,02,SFFX,53/G
 play,1,0,markn001,32,CBSFBBS,K
 play,1,0,lee-d002,22,BCFBFX,43/G
@@ -1990,8 +1971,6 @@ play,9,1,ramia003,31,.BBCBB,W
 play,9,1,quenc001,22,CBBFX,S8/L-.1-2
 play,9,1,konep001,22,CBBCC,K
 play,9,1,riosa002,32,BCBBSC,K
-com,"ej,riosa002,P,blasc901,Called third strike"
-com,"White Sox center fielder Alex Rios ejected by HP umpire Cory Blaser"
 play,9,1,piera001,11,.CBX,43/G
 data,er,britz001,1
 data,er,berkj001,1
@@ -2196,7 +2175,6 @@ start,castr002,"Ramon Castro",1,7,2
 start,beckg001,"Gordon Beckham",1,8,4
 start,moreb001,"Brent Morel",1,9,5
 start,jacke001,"Edwin Jackson",1,0,1
-com,"$no-hitter by Francisco Liriano"
 play,1,0,spand001,21,BFBX,S8/L
 play,1,0,casia001,12,BFLFFX,46(1)3/GDP
 play,1,0,mornj001,01,CX,5/P5F
@@ -2547,7 +2525,6 @@ play,9,0,belta001,32,BBCBFFB,W
 play,9,0,murpd005,22,BFFB1C,K
 play,9,0,torry001,22,BBSF1FS,K
 play,9,1,ramia003,22,FBFBX,DGR/7
-com,"fan interference"
 play,9,1,dunna001,00,X,7/F
 play,9,1,konep001,31,BBBCX,7/F
 play,9,1,quenc001,00,X,8/F
@@ -3346,14 +3323,12 @@ play,4,1,pierj002,01,>FX,D9/F.1-3
 play,4,1,ramia003,31,B*BBSX,S4/P.3-H(UR);2-3
 play,4,1,dunna001,00,,NP
 sub,gwynt002,"Tony Gwynn",0,3,9
-com,"Dodgers right fielder Andre Ethier left the game due to an injured back"
 play,4,1,dunna001,31,.SBBB*B,W.1-2
 play,4,1,konep001,30,BBBX,8/SF/F.3-H(UR)
 play,4,1,piera001,12,BCSFS,K
 play,5,0,lonej001,12,BCCX,D9/G
 play,5,0,barar001,00,,NP
 sub,navad001,"Dioner Navarro",0,6,11
-com,"Dodgers catcher Rod Barajas left the game due to an injured wrist"
 play,5,0,navad001,12,.FFBFX,163/G
 play,5,0,gibbj002,12,FFBB,WP.2-3
 play,5,0,gibbj002,22,FFBB.X,31/G.3-H
@@ -3814,7 +3789,6 @@ play,4,1,moreb001,11,BFX,S9/L
 play,4,1,pierj002,01,FX,6(1)/FO/G
 play,5,0,jacka001,00,,NP
 sub,ohmaw001,"Will Ohman",1,0,1
-com,"White Sox pitcher Jake Peavy left the game due to an injured groin"
 play,5,0,jacka001,11,.CBX,13/BG
 play,5,0,kelld001,12,CBSS,K
 play,5,0,boesb001,02,SSS,K
@@ -4510,7 +4484,6 @@ start,dunna001,"Adam Dunn",1,7,10
 start,beckg001,"Gordon Beckham",1,8,4
 start,moreb001,"Brent Morel",1,9,5
 start,jacke001,"Edwin Jackson",1,0,1
-com,"$Bob Melvin's first game as Oakland manager"
 play,1,0,crisc001,11,BCX,7/F
 play,1,0,pennc001,12,CBFX,D7/L
 play,1,0,sweer001,12,CBFFFFX,3/G.2-3
@@ -4756,7 +4729,6 @@ play,7,1,moreb001,22,BFBFFX,64(1)/FO/G
 play,8,0,bartd001,11,BCX,S7/G+
 play,8,0,weekj001,01,1CX,14/SH/BG.1-2
 play,8,0,crisc001,02,CFFX,7/F
-com,"$White Sox LF Brent Lillibridge caught the ball over the top of the fence, thus bringing back a homer"
 play,8,0,pennc001,00,,NP
 sub,craij001,"Jesse Crain",1,0,1
 play,8,0,pennc001,11,.SBX,4/P
@@ -5018,15 +4990,6 @@ play,6,0,sotog001,00,X,9/F
 play,6,0,lemad001,01,CX,43/G
 play,6,1,dunna001,22,CBBCS,K
 play,6,1,ramia003,12,CFBX,2/G-
-com,"ej,guilo001,M,hoyej901,Fair/foul call"
-com,"$Alexei Ramirez hit the pitch straight down at the plate in fair territory; the ball"
-com,"bounced back towards foul territory; catcher Geovany Soto grabbed the ball and tagged"
-com,"Ramirez and HP umpire James Hoye ruled it a fair ball and an out; Ramirez immediately"
-com,"started yelling about the ball being foul; White Sox manager Ozzie Guillen ran out,"
-com,"pushed Ramirez away and stomped on the ground in foul territory where he claimed the"
-com,"ball was fielded; Hoye ejected Guillen, who then kicked Soto's mask towards the White"
-com,"Sox dugout; Soto saw the kick and turned towards his dugout with a big smile on his"
-com,"face; crew chief Tom Hallion came in from 1B and helped escort Guillen off the field"
 play,6,1,piera001,00,.X,6/P
 play,7,0,campt001,00,,NP
 sub,ohmaw001,"Will Ohman",1,0,1
@@ -5413,7 +5376,6 @@ start,piera001,"A.J. Pierzynski",1,7,2
 start,lillb001,"Brent Lillibridge",1,8,9
 start,beckg001,"Gordon Beckham",1,9,4
 start,jacke001,"Edwin Jackson",1,0,1
-com,"$the first game as interim manager for John McLaren after the resignation of Jim Riggleman"
 play,1,0,wertj001,12,CBCS,K
 play,1,0,bernr001,21,BSBX,9/F
 play,1,0,zimmr001,22,BBCSC,K
@@ -5463,8 +5425,6 @@ play,6,1,moreb001,32,BFBFBX,9/F
 play,6,1,ramia003,11,CBX,S7/L
 play,6,1,konep001,00,X,4/P3F
 play,6,1,dunna001,01,CX,8!/F
-com,"Nationals CF Roger Bernadina made a leaping catch at the eight-foot wall and caught the ball"
-com,"over the top of the fence, taking a home run away from former teammate Adam Dunn"
 play,7,0,ramow001,21,BBFX,9/F
 play,7,0,hairj002,32,FBFBBB,W
 play,7,0,desmi001,11,S*BX,8/F
@@ -5489,18 +5449,6 @@ sub,rodrh002,"Henry Rodriguez",0,0,1
 play,8,1,moreb001,02,.CSX,53/G
 play,8,1,ramia003,02,CCFS,K
 play,8,1,konep001,20,BBX,S6/G
-com,"ej,hairj002,P,nelsj901,Overturned call at 1B"
-com,"ej,mclaj801,M,estam901,Overturned call at 1B; hit umpire's cap"
-com,"$Nationals SS Ian Desmond bobbled the ball but had plenty of time to get Paul Konerko;"
-com,"Desmond's throw was wide to the home plate side of 1B; Mike Morse came off the bag but"
-com,"swiped his glove past Konerko, who tried to jump around the tag; 1B umpire Mike"
-com,"Estabrook called Konerko out; Konerko immediately started yelling and gesturing at"
-com,"Estabrook; acting crew chief Jeff Nelson huddled the umpires; White Sox manager"
-com,"Ozzie Guillen told Konerko to go stand on 1B; Nelson overruled Estabrook and called"
-com,"Konerko safe; Nationals LF Jerry Hairston yelled something from the dugout and was"
-com,"ejected by Nelson; Nationals interim manager John McLaren ran onto the field; he"
-com,"yelled and gestured at the umpires and struck the bill of Estabrook's cap as he"
-com,"gestured; McLaren was ejected by Estabrook"
 play,8,1,dunna001,00,,NP
 sub,burns001,"Sean Burnett",0,0,1
 play,8,1,dunna001,00,,NP
@@ -6028,11 +5976,6 @@ play,8,1,riosa002,00,1X,64(1)/FO/G
 play,9,0,hosme001,00,,NP
 sub,sants001,"Sergio Santos",1,0,1
 play,9,0,hosme001,00,.X,HR/8/F
-com,"$Eric Hosmer's fly to CF was just beyond the stretch of CF Alex Rios; the ball was ruled in play and"
-com,"Hosmer reached 3B on the play; the ball hit the top of the wall and caromed off the railing behind the"
-com,"wall back onto the field; Royals manager Ned Yost asked about the call, so crew chief Ed Rapuano"
-com,"watched the replay and overturned the call to a home run; this is the second replay affecting a ball"
-com,"hit by rookie Eric Hosmer (6/3)"
 play,9,0,penab002,02,FSX,S7/L
 play,9,0,mousm001,12,FBCC,K
 play,9,0,escoa003,02,FCFFX,7/F
@@ -6051,7 +5994,6 @@ sub,pierj002,"Juan Pierre",1,2,11
 play,9,1,pierj002,32,.BBBCFB,W
 play,9,1,dunna001,00,>B,DI.1-2
 play,9,1,dunna001,10,>B.N,BK.3-H;2-3
-com,"$a game-ending balk by Aaron Crow"
 data,er,franj003,2
 data,er,hollg001,0
 data,er,crowa001,3
@@ -6752,8 +6694,6 @@ play,7,1,moreb001,02,CTX,9/F
 play,8,0,repkj001,32,CFBBFFBX,S6/G
 play,8,0,reveb001,11,1BL1X,34/SH/BG.1-2
 play,8,0,casia001,10,BB,PB.2-3
-com,"$White Sox catcher Ramon Castro did not see the pitch until the last minute due to Alexi"
-com,"Casilla's fake bunt attempt; the ball struck Castro's bare right hand and broke a bone"
 play,8,0,casia001,00,,NP
 sub,piera001,"A.J. Pierzynski",1,7,2
 play,8,0,casia001,20,BB..X,8/SF/F.3-H(UR)
@@ -6906,7 +6846,6 @@ sub,burna002,"Alex Burnett",0,0,1
 play,7,1,riosa002,32,.BBBCCB,W
 play,7,1,piera001,10,BX,D9/L.1-H
 play,7,1,beckg001,10,BX,DGR/7.2-H
-com,"fan interference"
 play,7,1,teahm001,02,CCS,K
 play,7,1,pierj002,00,,NP
 sub,perkg001,"Glen Perkins",0,0,1
@@ -7036,8 +6975,6 @@ play,5,1,beckg001,01,FX,63/G
 play,5,1,moreb001,11,BCX,S8/L
 play,5,1,pierj002,10,BX,36(1)/FO/G
 play,5,1,ramia003,22,BBCF11,SB2
-com,"$Tigers Manager Jim Leyland yelled about the 2-2 pitch to Alexei Ramirez, which"
-com,"was called a ball by HP umpire Jim Wolf"
 play,5,1,ramia003,32,BBCF11.BX,S7/G.2-H;B-2(E7/THH)
 play,5,1,konep001,30,IIII,IW
 play,5,1,dunna001,32,BCCBB>F>B,W.2-3;1-2
@@ -7045,9 +6982,6 @@ play,5,1,quenc001,00,,NP
 sub,ruffc001,"Chance Ruffin",0,0,1
 play,5,1,quenc001,11,.BFX,DGR/7/L.3-H;2-H;1-3
 play,5,1,riosa002,01,CX,4/P
-com,"ej,leylj801,M,wolfj901,Balls and strikes"
-com,"Tigers Manager Jim Leyland ejected by HP umpire Jim Wolf between innings for continuing"
-com,"to yell about the pitch to Alexei Ramirez"
 play,6,0,rabur001,32,.BBBCCFS,K
 play,6,0,avila001,20,BBX,S4/G
 play,6,0,jacka001,22,CBFBX,8/F
@@ -7070,7 +7004,6 @@ play,7,1,dunna001,00,,NP
 sub,furbc001,"Charlie Furbush",0,0,1
 play,7,1,dunna001,32,.BSFBBB,W
 play,7,1,quenc001,32,BBCFBX,S7/G.1X3(75);B-2(TH)
-com,"originally scored as double, changed to single next day"
 play,7,1,riosa002,00,,NP
 sub,lillb001,"Brent Lillibridge",1,5,12
 play,7,1,riosa002,30,.IIII,IW
@@ -7756,7 +7689,6 @@ play,5,0,ellsj001,00,,NP
 sub,lillb001,"Brent Lillibridge",1,1,3
 play,5,0,ellsj001,00,,NP
 sub,pierj002,"Juan Pierre",1,3,7
-com,"White Sox first baseman Paul Konerko left the game due to an injured leg"
 play,5,0,ellsj001,10,..BX,13/G-
 play,5,0,pedrd001,22,BCFFBX,13/G
 play,5,0,gonza003,10,BX,7/F
@@ -8078,7 +8010,6 @@ play,7,0,jonea002,22,CBCBX,S8/L.2-H;1-2
 play,7,0,martr004,00,,NP
 sub,brunb001,"Brian Bruney",1,0,1
 play,7,0,martr004,02,.CFFX,64(1)/FO/G
-com,"$Game called early for rain"
 data,er,hughp001,0
 data,er,dankj001,4
 data,er,frasj002,2
@@ -8205,10 +8136,6 @@ play,7,0,martr004,00,,NP
 sub,brunb001,"Brian Bruney",1,0,1
 play,7,0,martr004,32,.FCBBBX,D9/F
 play,7,0,gardb001,11,CBX,S3/G.2-3
-com,"ej,brunb001,P,hudsm901,Call at 1B"
-com,"$Adam Dunn fielded the high chopper and flipped to pitcher Brian Bruney; Brett Gardner dove into the"
-com,"bag and was called safe on a close play at 1B; Bruney objected to the call by 1B umpire Marvin Hudson"
-com,"and made a gesture; Bruney was ejected by Hudson"
 play,7,0,jeted001,00,,NP
 sub,thorm001,"Matt Thornton",1,0,1
 play,7,0,jeted001,00,..>C,SB2
@@ -8496,7 +8423,6 @@ play,4,1,moreb001,22,CCFBFVX,E4/G.B-2(E4/TH1)
 play,4,1,pierj002,12,BFFX,43/G
 play,5,0,mousm001,00,,NP
 sub,flowt001,"Tyler Flowers",1,5,2
-com,"White Sox catcher A. J. Pierzynski left the game due to a fractured left wrist"
 play,5,0,mousm001,11,.CBX,3!1/G
 play,5,0,escoa003,02,CFX,3/P3F
 play,5,0,gorda001,00,K,C/E2
@@ -8546,7 +8472,6 @@ play,8,1,quenc001,10,*BX,3!/P3F
 play,8,1,flowt001,11,SBX,9/F
 play,8,1,riosa002,22,F*BSF*BX,54(1)/FO/G
 play,9,0,escoa003,00,X,E5/G
-com,"originally scored as single, changed next day"
 play,9,0,gorda001,31,BSBB>S,SB2
 play,9,0,gorda001,32,BSBB>S.X,S65/P.2-3
 play,9,0,cabrm002,00,X,HR/7/F.3-H(UR);1-H
@@ -8942,8 +8867,6 @@ play,3,1,dunna001,32,BCBBSX,S7/G
 play,3,1,flowt001,32,BBCBC>X,9/F
 play,4,0,branm003,22,SFBFFFFBFH,HP
 play,4,0,choos001,00,X,S9/L.1-3
-com,"$Indians manager Manny Acta argued with the umpires looking for an obstruction call"
-com,"on SS Alexei Ramirez"
 play,4,0,cabra002,00,1X,8/SF/F.3-H
 play,4,0,hafnt001,11,FB1X,36(1)1/GDP
 play,4,1,beckg001,32,BFBBSS,K
@@ -9042,9 +8965,6 @@ sub,sippt001,"Tony Sipp",0,0,1
 play,10,1,moreb001,01,.CX,8/F
 play,10,1,pierj002,01,CX,S9/L
 play,10,1,deaza001,10,111BX,S3/BG.1-2
-com,"ej,sippt001,P,bellw901,Call at 1B"
-com,"$Indians pitcher Tony Sipp yelled at 1B umpire Wally Bell about the safe call"
-com,"on Alejandro de Aza; Bell ejected Sipp"
 play,10,1,konep001,00,,NP
 sub,perec002,"Chris Perez",0,0,1
 play,10,1,konep001,22,..BCBFX,6(1)3/GDP
@@ -9297,8 +9217,6 @@ play,1,1,ramia003,21,BCBX,4/P
 play,2,0,santc002,00,X,D9/L
 play,2,0,choos001,22,FBFBC,K
 play,2,0,fukuk001,32,CBBBCX,S12/L+.2-3
-com,"$White Sox pitcher Philip Humber was hit above the right eye by a line drive and was"
-com,"removed from the game"
 play,2,0,lapom001,00,,NP
 sub,stewz001,"Zach Stewart",1,0,1
 play,2,0,lapom001,32,.11B1BFFB>X,4/P
@@ -9525,8 +9443,6 @@ play,8,1,quenc001,00,,NP
 sub,adamm001,"Mike Adams",0,0,1
 play,8,1,quenc001,00,.X,3/P3F
 play,8,1,ramia003,32,BBBCFFFC,K
-com,"ej,ramia003,P,nelsj901,Called third strike"
-com,"White Sox shortstop Alexei Ramirez ejected by HP umpire Jeff Nelson"
 play,8,1,riosa002,02,.FCS,K
 play,9,0,torry001,00,,NP
 sub,vizqo001,"Omar Vizquel",1,5,6
@@ -9593,8 +9509,6 @@ start,beckg001,"Gordon Beckham",1,9,4
 start,dankj001,"John Danks",1,0,1
 play,1,0,kinsi001,01,CX,HR/7/F
 play,1,0,gentc001,31,BSBBX,9!/F89S
-com,"$White Sox right fielder Carlos Quentin made a diving, rolling catch of the sinking liner;"
-com,"he left the game due to an injured left shoulder"
 play,1,0,hamij003,00,,NP
 sub,deaza001,"Alejandro de Aza",1,2,9
 play,1,0,hamij003,00,,NP
@@ -10662,9 +10576,6 @@ play,4,1,dunna001,32,BBBCFFFFB,W
 play,4,1,deaza001,12,*BFFS,K
 play,4,1,moreb001,21,SBBX,146(1)/FO/G
 play,4,1,beckg001,00,X,13/G
-com,"umpchange,5,ump1b,onorb901"
-com,"umpchange,5,ump2b,(None)"
-com,"$1B umpire Ed Rapuano left the game with neck pain"
 play,5,0,duncs001,01,SX,D8/F
 play,5,0,chisl001,12,TBFX,S8/L.2-3
 play,5,0,lapom001,01,SX,D8/F.3-H;1-H
@@ -12226,7 +12137,6 @@ play,5,0,wised001,12,SBS1FC,K
 play,5,0,mccom001,10,BX,4(1)/FO/G
 play,5,1,deaza001,22,BFFBFFX,S7/L-
 play,5,1,ramia003,01,SX,DGR/7.1-H
-com,"fan interference"
 play,5,1,piera001,00,X,9/F.2-3
 play,5,1,flowt001,12,*BSFS,K
 play,5,1,vicid001,32,CBS*B*BS,K

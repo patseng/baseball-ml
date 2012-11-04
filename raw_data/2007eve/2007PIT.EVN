@@ -578,7 +578,6 @@ play,3,1,bay-j001,01,CX,6/P
 play,4,0,lindt001,32,CBBSBX,9/F
 play,4,0,aurir001,02,CCS,K23
 play,4,0,bondb001,11,CBX,HR/89/F
-com,"$the 70th multi-homer game of Bonds career"
 play,4,0,durhr001,30,BBBB,W
 play,4,0,molib001,01,CX,64(1)/FO/G
 play,4,1,nadyx001,00,,NP
@@ -1776,7 +1775,6 @@ start,bautj002,"Jose Bautista",1,6,5
 start,laroa001,"Adam LaRoche",1,7,3
 start,paulr001,"Ronny Paulino",1,8,2
 start,armat002,"Tony Armas",1,9,1
-com,"Suspend=20070502,,6,5,39"
 play,1,0,soria001,11,BCX,HR/8/F
 play,1,0,floyc001,12,CBSFFS,K
 play,1,0,lee-d002,22,BCBFX,8/F
@@ -1853,8 +1851,6 @@ sub,howrb001,"Bob Howry",0,2,1
 play,7,1,duffc001,00,,NP
 sub,murtm001,"Matt Murton",0,9,9
 play,7,1,duffc001,22,..CFBFFBC,K
-com,"$Game suspended with 2-2 count on Duffy due to rain, resumed"
-com,"on 5-02"
 play,7,1,wilsj002,12,CSBX,8/F
 play,7,1,sancf001,32,BBFBFFX,S7/L-
 play,7,1,bay-j001,32,SFBBB>F>F>T,K
@@ -2465,7 +2461,6 @@ play,6,1,laroa001,30,BBBB,W.1-2
 play,6,1,paulr001,21,*BBFX,S9/F.3-H;2-H;1X3(95)
 play,7,0,orr-p001,00,,NP
 sub,castj005,"Jose Castillo",1,2,5
-com,"Pirates third baseman Jose Bautista left the game due to an injured foot/ankle"
 play,7,0,orr-p001,32,.CFBFBBFB,W
 play,7,0,villo001,00,,NP
 sub,woodc001,"Chris Woodward",0,9,11
@@ -3656,8 +3651,6 @@ play,2,0,bardj001,00,X,D8/F
 play,2,0,sledt001,11,CBX,63/G
 play,2,0,welld001,12,BTCX,13/G
 play,2,0,gilem001,22,BCSBC,K
-com,"ej,gilem001,P,westj901,Called third strike"
-com,"Padres second baseman Marcus Giles ejected by 1B umpire Joe West"
 play,2,1,paulr001,00,,NP
 sub,roblo001,"Oscar Robles",0,1,4
 play,2,1,paulr001,10,..BX,8/F
@@ -3929,7 +3922,6 @@ start,nadyx001,"Xavier Nady",1,6,9
 start,doumr001,"Ryan Doumit",1,7,2
 start,wilsj002,"Jack Wilson",1,8,6
 start,chacs001,"Shawn Chacon",1,9,1
-com,"47 minute rain delay before start of game"
 play,1,0,gilem001,02,CCS,K
 play,1,0,sledt001,22,CSBBS,K
 play,1,0,gonza003,22,BBSSFS,K
@@ -4045,15 +4037,6 @@ play,11,0,camem001,00,,NP
 sub,sharj001,"Josh Sharpless",1,7,1
 play,11,0,camem001,21,.BFBX,HR/89/F
 play,11,0,bardj001,10,BX,D9/F
-com,"ej,bardj001,P,rapue901,Reversed call from homer to double"
-com,"ej,blacb001,M,westj901,Arguing after Bard ejected on reversed call"
-com,"$Bard's fly ball nit the railing in RF and he ran the bases for a homer;"
-com,"Pit Mgr Tracy successfully argued that the ball did not leave the park:"
-com,"when the call was reversed, Bard ran onto the field and was ejected by"
-com,"HP umpire Ed Rapuano; Mgr Buddy Black was ejected for arguing with 3B"
-com,"umpire (and crew chief) Joe West; Bard's actions were reminiscent of"
-com,"George Brett in 1983 with 'pine-tar' homer; Bard awarded a double;"
-com,"Bard suspended three days for making contact with Rapuano"
 play,11,0,roblo001,00,,NP
 sub,bower002,"Rob Bowen",0,5,12
 play,11,0,roblo001,21,...BBLX,24/SH/BG.2-3
@@ -4439,8 +4422,6 @@ play,4,0,abret001,01,CX,9/F
 play,4,1,nadyx001,01,FX,D8/L
 play,4,1,wilsj002,20,BBX,8/F.2-3
 play,4,1,gorzt001,00,X,FC3/G/THH.3-H;B-1
-com,"ej,littg801,M,welkb901,Call at HP"
-com,"Dodgers Manager Grady Little ejected by HP umpire Bill Welke"
 play,4,1,bautj002,31,BCBBB,W.1-2
 play,4,1,mclon001,10,BX,6/P5F
 play,4,1,sancf001,00,X,8/L
@@ -4509,7 +4490,6 @@ sub,duffc001,"Chris Duffy",1,9,11
 play,9,1,duffc001,12,.FBCX,S7/G
 play,9,1,bautj002,22,*BBSS,NP
 sub,beimj001,"Joe Beimel",0,8,1
-com,"$Saito left with sort hamstring"
 play,9,1,bautj002,22,*BBSS.1X,8/F
 play,9,1,mclon001,00,,NP
 sub,castj005,"Jose Castillo",1,2,11
@@ -5192,7 +5172,6 @@ play,5,1,castj005,12,CBFFS,K
 play,5,1,paulr001,12,F*BCX,13/G
 play,6,0,piera001,00,,NP
 sub,mclon001,"Nate McLouth",1,2,8
-com,"Pirates center fielder Chris Duffy left the game due to an injured leg"
 play,6,0,piera001,00,.X,43/G
 play,6,0,terrl001,31,BBBCB,W
 play,6,0,uribj002,21,.BCBX,46(1)3/GDP
@@ -6465,7 +6444,6 @@ play,2,1,bay-j001,00,,NP
 sub,jenkg001,"Geoff Jenkins",0,4,7
 play,2,1,bay-j001,00,,NP
 sub,menck001,"Kevin Mench",0,5,9
-com,"Brewers center fielder Bill Hall left the game due to an injured foot/ankle"
 play,2,1,bay-j001,00,...X,53/G
 play,2,1,bautj002,12,CBCX,9/L
 play,2,1,wilsj002,22,BCBCX,S9/F-
@@ -7070,7 +7048,6 @@ play,4,0,heltt001,22,CBFFBX,8/F
 play,4,0,atkig001,12,FFBX,8/F
 play,4,0,hawpb001,10,BX,43/G+
 play,4,1,mclon001,22,BBCCX,E1/G
-com,"originally 1E3, changed to E1 on 7-24"
 play,4,1,sancf001,00,X,D7/L.1-3
 play,4,1,laroa001,31,C*BBBX,6/P7LF/SF.3-H(UR);2-3
 play,4,1,nadyx001,22,S*BBFX,7/SF/F.3-H(UR)
@@ -7113,7 +7090,6 @@ play,7,1,martd004,00,,NP
 sub,davir003,"Rajai Davis",1,9,11
 play,7,1,davir003,22,.BCBFFX,S9/L
 play,7,1,mclon001,20,BBX,S3/G+.1-2
-com,"originally E3, changed to single on 7-24"
 play,7,1,sancf001,00,,NP
 sub,julij001,"Jorge Julio",0,6,1
 play,7,1,sancf001,00,,NP
@@ -7491,7 +7467,6 @@ play,2,0,ensbm001,31,BBSBX,S7/L
 play,2,0,brune001,10,BX,8/F
 play,2,0,ausmb001,02,CFX,64(1)3/GDP
 play,2,1,laroa001,11,CBX,DGR/7/F
-com,"fan interference"
 play,2,1,doumr001,11,SBX,31/G.2-3
 play,2,1,bay-j001,02,CFS,K
 play,2,1,paulr001,12,CBSX,43/G
@@ -7535,7 +7510,6 @@ play,7,0,biggc001,12,CFFFF*BFC,K
 play,7,1,paulr001,12,CCBX,D8/F
 play,7,1,wilsj002,00,,NP
 sub,wheed001,"Dan Wheeler",0,9,1
-com,"Astros pitcher Roy Oswalt left the game due to an injured chest"
 play,7,1,wilsj002,02,.LML,K/BF
 play,7,1,gorzt001,00,,NP
 sub,phelj001,"Josh Phelps",1,9,11
@@ -7804,7 +7778,6 @@ play,4,1,katam001,00,,NP
 sub,burkc001,"Chris Burke",0,1,8
 play,4,1,katam001,00,,NP
 sub,scotl001,"Luke Scott",0,2,9
-com,"Astros center fielder Hunter Pence left the game due to an injured hand/wrist"
 play,4,1,katam001,00,..X,S4/BG
 play,4,1,sancf001,10,BX,4/P
 play,4,1,laroa001,00,1X,3(B)6(1)/GDP
@@ -7938,7 +7911,6 @@ play,4,1,nadyx001,21,BBFX,S8/G
 play,4,1,doumr001,32,BBCFB>F>X,8/L
 play,4,1,paulr001,00,,NP
 sub,mclon001,"Nate McLouth",1,5,12
-com,"Pirates Xavier Nady left the game due to an injured leg"
 play,4,1,paulr001,31,.1CPBB>X,43/G.1-2
 play,4,1,wilsj002,10,BX,S8/L.2-H
 play,4,1,mahop002,10,BX,S8/L.1-2
@@ -8324,8 +8296,6 @@ sub,martd004,"Damaso Marte",1,8,1
 play,8,0,edmoj001,00,,NP
 sub,spies001,"Scott Spiezio",0,9,11
 play,8,0,spies001,22,..FFBBC,K
-com,"ej,spies001,P,davib902,Called third strike"
-com,"Cardinals Scott Spiezio ejected by HP umpire Bob Davidson"
 play,8,0,ecksd001,32,FBBBSS,K
 play,8,1,sancf001,00,,NP
 sub,ludwr001,"Ryan Ludwick",0,6,8
@@ -8833,7 +8803,6 @@ play,6,0,davir003,01,LX,63/G
 play,6,0,durhr001,32,BBBCFFS,K
 play,6,1,doumr001,00,,NP
 sub,iztuc001,"Cesar Izturis",1,5,11
-com,"Pirates right fielder Ryan Doumit left the game due to an injured hand/wrist"
 play,6,1,iztuc001,12,.CFBX,5!3/G+
 play,6,1,castj005,02,SSS,K
 play,6,1,paulr001,11,FBX,63/G
@@ -9301,7 +9270,6 @@ play,8,1,bautj002,00,,NP
 sub,grees001,"Shawn Green",0,7,3
 play,8,1,bautj002,00,,NP
 sub,milll002,"Lastings Milledge",0,9,9
-com,"Mets first baseman Carlos Delgado left the game due to an injured leg"
 play,8,1,bautj002,21,...BBCX,7/F
 play,8,1,castj005,01,FX,13/G
 play,8,1,paulr001,32,BBCBFB,W
@@ -9456,7 +9424,6 @@ play,6,0,beltc001,00,,NP
 sub,iztuc001,"Cesar Izturis",1,2,6
 play,6,0,beltc001,00,,NP
 sub,castj005,"Jose Castillo",1,7,5
-com,"Pirates shortstop Jack Wilson left the game due to an injured head"
 play,6,0,beltc001,00,..X,D9/F
 play,6,0,aloum001,12,BCC*B,SB3
 play,6,0,aloum001,22,BCC*B.X,5/L
@@ -10554,9 +10521,6 @@ play,4,0,dunna001,32,BBFFBFB,W
 play,4,0,valej004,22,SBS1BFFFS,K
 play,4,0,hatts001,31,BB*BCB,W.1-2
 play,4,0,encae001,00,X,FC1/L7.3-3;2X3(15);1-2
-com,"$Encarnacion hit a line drive single to LF but the Pirates appealed"
-com,"that Dunn missed 3B, thus the play became a force out for the third"
-com,"out and no run scored"
 play,4,1,nadyx001,02,FFX,7/F
 play,4,1,bay-j001,22,FFBFBX,S8/L
 play,4,1,paulr001,12,B1CCS,K
@@ -10877,7 +10841,6 @@ play,4,0,floyc001,00,,NP
 sub,mclon001,"Nate McLouth",1,2,7
 play,4,0,floyc001,00,,NP
 sub,doumr001,"Ryan Doumit",1,4,9
-com,"Pirates left fielder Jason Bay left the game due to an injured knee"
 play,4,0,floyc001,10,..BX,7/L
 play,4,0,derom001,20,BBX,S9/L
 play,4,0,kendj001,02,CFX,64(1)/FO/G
@@ -12326,7 +12289,6 @@ play,5,0,ankir001,00,X,S7/G.3-H;1-2
 play,5,0,benng001,00,X,64(1)3/GDP
 play,5,1,gorzt001,00,,NP
 sub,bardb001,"Brian Barden",0,5,5
-com,"Cardinals Miguel Cairo left the game due to an injured leg"
 play,5,1,gorzt001,10,.BX,9/F
 play,5,1,morgn001,32,BMFBFBX,5/P5F
 play,5,1,katam001,00,X,43/G
@@ -12334,8 +12296,6 @@ play,6,0,waina001,00,X,9/F
 play,6,0,milea001,32,BBBCF.B,W
 play,6,0,ecksd001,20,BBX,53/G.1-2
 play,6,0,tagus001,01,CX,S8/G.2-H
-com,"$SS Jack Wilson and 2B Matt Kata banged heads while both diving"
-com,"for ground ball up the middle"
 play,6,0,pujoa001,00,,NP
 sub,iztuc001,"Cesar Izturis",1,8,6
 play,6,0,pujoa001,01,.CX,8/F
@@ -12508,7 +12468,6 @@ play,6,0,branr001,32,..BFBCB>B,W.3-H;2-3;1-2
 play,6,0,schus001,21,BFBX,S8/L.3-H;2-H;1-2
 play,6,0,pujoa001,00,,NP
 sub,sancr002,"Romulo Sanchez",1,9,1
-com,"Pirates pitcher John Grabow left the game due to an injured hand/wrist"
 play,6,0,pujoa001,10,.BX,9/F
 play,6,1,laroa001,00,,NP
 sub,sprir001,"Russ Springer",0,1,1

@@ -683,7 +683,6 @@ play,6,0,swisn001,32,BC*BFBX,S9/L.3-H
 play,6,0,piazm001,00,X,53/G
 play,6,1,kendh001,00,,NP
 sub,scutm001,"Marco Scutaro",0,8,6
-com,"Athletics shortstop Bobby Crosby left the game due to an injured back"
 play,6,1,kendh001,22,.CSBBS,K
 play,6,1,kotcc001,00,X,43/G
 play,6,1,molij001,32,SFBBFFBX,53/G
@@ -1117,7 +1116,6 @@ play,7,1,andeg001,00,,NP
 sub,morrb001,"Brandon Morrow",0,0,1
 play,7,1,andeg001,11,.FBX,S7/L
 play,7,1,kotcc001,11,CBX,DGR/9/F.1-3
-com,"fan interference"
 play,7,1,hills002,01,CX,S9/F-.3-H;2-3
 play,7,1,iztum001,00,,NP
 sub,quinr002,"Robb Quinlan",1,6,12
@@ -1518,12 +1516,7 @@ start,iztum001,"Maicer Izturis",1,9,4
 start,weavj003,"Jered Weaver",1,0,1
 play,1,0,granc001,22,CCBBX,HR/9/F
 play,1,0,polap001,31,BFBBX,7/F7LF
-com,"$fan reached onto field and knocked ball away from Anderson"
 play,1,0,shefg001,32,BSFFFFBBX,63/G
-com,"$Kotchman reached into stands but ball bounced off his glove"
-com,"and into fan. Ball came back to Kotchman as 1B umpire Joyce"
-com,"tumbled into camera well. Kotchman tried to claim he had caught"
-com,"ball"
 play,1,0,ordom001,32,CCFBBBB,W
 play,1,0,guilc001,21,C1BBX,S8/G.1-2
 play,1,0,rodri001,11,CBX,S8/F-.2-H;1-3
@@ -1691,7 +1684,6 @@ play,1,1,guerv001,01,SX,S7/G+.2-3
 play,1,1,andeg001,11,1BSX,7/F
 play,1,1,kotcc001,20,BBX,E6/FO/G.3-H;1-2;B-1
 play,1,1,morak001,00,X,E6/G.2-H(UR)(NR);1-3;B-1
-com,"Previous play is really 1E6 on runner from first"
 play,1,1,iztum001,20,BB+1X,S9/G.3-H(UR);1-2
 play,1,1,molij001,02,FFS,K
 play,1,1,aybae001,02,SCFS,K
@@ -2029,7 +2021,6 @@ play,1,1,hills002,11,BCX,D7/L.3-H
 play,1,1,aybae001,12,FFFBX,S9/L.2-H;B-2(TH)
 play,1,1,molij001,22,BBCFX,S8/F.2-H
 play,1,1,woodb003,32,BCF*B*B>F>S,K
-com,"Debut game for Brandon Wood"
 play,2,0,yound003,01,CX,3/G
 play,2,0,penac001,22,BCBFX,4/L
 play,2,0,uptob001,12,BFSFC,K
@@ -2943,7 +2934,6 @@ sub,aybae001,"Erick Aybar",1,6,6
 play,8,0,peraj001,00,,NP
 sub,figgc001,"Chone Figgins",1,9,4
 play,8,0,peraj001,20,...BBX,S9/L
-com,"Debut game for Matthew Brown"
 play,8,0,delld001,00,X,8/F
 play,8,0,garkr001,12,BCFX,9/F
 play,8,0,rousm001,00,X,6/P
@@ -3507,7 +3497,6 @@ sub,quinr002,"Robb Quinlan",1,4,7
 play,8,0,lopej003,00,,NP
 sub,bootc001,"Chris Bootcheck",1,0,1
 play,8,0,lopej003,01,.....CX,S5/G
-com,"Debut game for Nathan Haynes"
 play,8,0,suzui001,11,BFX,54(1)/FO/G
 play,8,0,vidrj001,12,BCFX,7/F
 play,8,0,guilj001,00,,NP
@@ -5575,7 +5564,6 @@ play,3,0,bautj002,32,BBCFBFX,54(1)3/GDP
 play,3,1,mattg002,12,CCBFX,S6/G
 play,3,1,kendh001,00,,NP
 sub,haynn001,"Nathan Haynes",1,5,12
-com,"Angels center fielder Gary Matthews left the game due to an injured leg"
 play,3,1,kendh001,01,.CX,46(1)3/GDP
 play,3,1,morak001,02,CFS,K
 play,4,0,duffc001,00,,NP
@@ -6059,8 +6047,6 @@ play,6,0,dejed001,32,BBC1BFX,8/SF/F.3-H(UR)
 play,6,0,germe001,00,H,HP.1-2
 play,6,0,teahm001,32,CBF*BF>FFB>F>B,W.2-3;1-2
 play,6,0,browe001,21,B*BSX,9/FDP.3X3(15)
-com,"$Gathright was called out on appeal for leaving 3B early."
-com,"Right fielder Guerrero is credited with DP, but not assist"
 play,6,1,figgc001,30,BBBB,W
 play,6,1,cabro001,10,BX,7/F
 play,6,1,guerv001,11,SBX,D8/L.1-3
@@ -6240,7 +6226,6 @@ play,8,0,gathj001,00,,NP
 sub,molij001,"Jose Molina",1,8,2
 play,8,0,gathj001,00,,NP
 sub,mosed001,"Dustin Moseley",1,0,1
-com,"Angels Reggie Willits left the game due to an injured knee"
 play,8,0,gathj001,00,...X,43/G
 play,8,0,dejed001,21,BCBX,T7/L
 play,8,0,germe001,10,BX,1/L
@@ -6797,7 +6782,6 @@ play,1,1,andeg001,00,X,31/G.2-3;1-2
 play,1,1,mattg002,00,X,43/G
 play,2,0,suzuk001,00,,NP
 sub,mosed001,"Dustin Moseley",1,0,1
-com,"Angels pitcher Bartolo Colon left the game due to an injured elbow"
 play,2,0,suzuk001,02,.CFFX,63/G
 play,2,0,stews002,10,BX,43/G
 play,2,0,swisn001,31,BBCBB,W
@@ -7015,7 +6999,6 @@ play,8,0,scutm001,10,BX,43/G
 play,8,0,crosb002,02,CFH,HP
 play,8,0,suzuk001,00,,NP
 sub,chave001,"Eric Chavez",0,8,12
-com,"Athletics shortstop Bobby Crosby left the game due to an injured hand/wrist"
 play,8,0,suzuk001,32,1S.B1F.BB>B,W.1-2
 play,8,0,buckt001,12,CBCX,S8/G.2-H;1-3
 play,8,0,swisn001,10,B>B,SB2
@@ -7292,7 +7275,6 @@ play,1,1,napom001,21,BCBX,54(1)/FO/G.3-H;B-1
 play,1,1,iztum001,01,1C>B,SB2
 play,1,1,iztum001,00,,NP
 sub,mathj001,"Jeff Mathis",1,8,12
-com,"Angels catcher Mike Napoli left the game due to an injured foot/ankle"
 play,1,1,iztum001,12,1C>B...SX,D8/L.2-H
 play,1,1,willr004,10,BX,9/F
 play,2,0,ingeb001,00,,NP
@@ -7714,7 +7696,6 @@ sub,quinr002,"Robb Quinlan",1,4,7
 play,9,0,rabur001,00,,NP
 sub,gwynm001,"Marcus Gwyn",1,0,1
 play,9,0,rabur001,22,...BBFSX,8/F
-com,"Debut game for Marcus Gwyn"
 play,9,0,ingeb001,12,SSBX,D7/G
 play,9,0,granc001,21,BFBX,43/G.2-3
 play,9,0,hessm001,12,SF*BX,5/L+
@@ -7799,8 +7780,6 @@ play,3,1,willr004,12,CFBX,6/P-
 play,3,1,figgc001,22,BBFFX,T7/F
 play,3,1,cabro001,00,X,63/G
 play,4,0,ramim002,02,SFS,K
-com,"ej,ramim002,P,hoyej901,Checked swing"
-com,"Red Sox Manny Ramirez ejected by HP umpire James Hoye"
 play,4,0,drewj001,12,.CCBX,S7/L
 play,4,0,lowem001,00,1>B,SB2
 play,4,0,lowem001,12,1>B.CCX,7/F
@@ -7808,7 +7787,6 @@ play,4,0,varij001,01,FX,7/F
 play,4,1,guerv001,00,,NP
 sub,mossb001,"Brandon Moss",0,4,7
 play,4,1,guerv001,02,.FFX,S18/G
-com,"Debut game for Brandon Moss"
 play,4,1,andeg001,21,B1BSX,36(1)/FO/G.B-1
 play,4,1,mattg002,22,FBF*BX,D7/L.1-3
 play,4,1,kotcc001,01,CX,S8/G.3-H;2-H
@@ -8365,7 +8343,6 @@ play,8,0,huntt001,22,CBBFC,K
 play,8,0,kubej002,00,,NP
 sub,watkt001,"Tommy Watkins",0,7,11
 play,8,0,watkt001,12,.BCSFFX,43/G
-com,"Debut game for Tommy Watkins"
 play,8,1,browm006,01,.CX,9/F
 play,8,1,quinr002,22,CBFBFX,7/F
 play,8,1,mattg002,00,,NP
@@ -8458,7 +8435,6 @@ play,3,1,willr004,32,BCBTBFX,6/L
 play,4,0,cuddm001,02,CSX,9/F
 play,4,0,kubej002,00,,NP
 sub,redmm001,"Mike Redmond",0,7,11
-com,"Twins designated hitter Jason Kubel left the game due to an injured chest"
 play,4,0,redmm001,12,.CBCX,9/F
 play,4,0,whitr001,10,BX,63/G
 play,4,1,figgc001,22,..BFFFBX,63/G
@@ -8793,8 +8769,6 @@ sub,iztum001,"Maicer Izturis",1,8,11
 play,8,1,iztum001,20,.BBX,FC3/G.3XH(32);2-3;B-1
 play,8,1,willr004,02,CC>B,SB2
 play,8,1,willr004,12,CC>BS,K
-com,"ej,sciom001,M,iassd901,Checked swing"
-com,"Angels Manager Mike Scioscia ejected by 3B umpire Dan Iassogna"
 play,9,0,cabrm002,00,,NP
 sub,buddr001,"Ryan Budde",1,8,2
 play,9,0,cabrm002,00,,NP
@@ -8925,7 +8899,6 @@ play,3,1,mattg002,31,BBFBB,W
 play,3,1,kotcc001,22,BCBSFS,K
 play,4,0,canor001,00,,NP
 sub,quinr002,"Robb Quinlan",1,1,5
-com,"Angels third baseman Chone Figgins left the game due to an injured hand/wrist"
 play,4,0,canor001,02,.CFX,7/F
 play,4,0,phila001,00,X,63/G
 play,4,0,molij001,02,CFX,43/G
@@ -9083,7 +9056,6 @@ play,4,0,rodra001,31,BCBBB,W
 play,4,0,matsh001,12,S+1CF*BX,7/F
 play,4,0,posaj001,00,X,D7/L.1-3
 play,4,0,canor001,32,BBS*BFX,E1/G.3-H(NR)(UR);2XH(3252)
-com,"orginally scored as S1, changed next day"
 play,4,1,cabro001,22,BBCCX,9/F
 play,4,1,guerv001,00,X,D7/F
 play,4,1,andeg001,02,FSB,WP.2-3
@@ -10002,7 +9974,6 @@ play,7,1,iztum001,21,BCBX,43/G
 play,8,0,bottj001,00,,NP
 sub,thomr006,"Rich Thompson",1,0,1
 play,8,0,bottj001,12,.FBFS,K
-com,"Debut game for Rich Thompson"
 play,8,0,saltj001,32,BBSBSS,K
 play,8,0,kinsi001,32,CBBSBFX,D9/L-
 play,8,0,vazqr001,01,SX,43/G
@@ -10632,8 +10603,6 @@ sub,streh001,"Huston Street",0,0,1
 play,9,1,guerv001,00,..X,S7/G
 play,9,1,andeg001,00,X,9/F
 play,9,1,iztum001,00,>B,DI.1-2
-com,"originally ruled DI, changed after game to SB"
-com,"changed back to DI two days later"
 play,9,1,iztum001,22,>B.BCSS,K
 play,9,1,kotcc001,32,FBBC*BB,W
 play,9,1,mattg002,12,SSBS,K
@@ -11312,7 +11281,6 @@ play,2,1,kotcc001,01,CX,S48/L
 play,2,1,kendh001,01,CX,E4/FO/G.1-2;B-1
 play,2,1,mathj001,32,FBBBSC,K
 play,2,1,haynn001,00,X,S4/G.2-3;1-2
-com,"$the Devil Rays argued the call at 1B by umpire Mark Wegner"
 play,2,1,figgc001,00,X,3/G.3-H(UR);2-3;1-2
 play,2,1,cabro001,20,*BBX,S8/G.3-H(UR);2-H(UR);B-2(TH)
 play,2,1,guerv001,00,X,53/G+
@@ -11369,7 +11337,6 @@ play,6,1,iztum001,22,BCFFBX,S8/G.1-H(E8/TH)(NR);B-3
 play,6,1,kotcc001,00,,NP
 sub,ridgj001,"Jeff Ridgway",0,0,1
 play,6,1,kotcc001,20,.BBX,S8/L.3-H
-com,"Debut game for Jeff Ridgway"
 play,6,1,kendh001,10,*BX,T8/F.1-H
 play,6,1,mathj001,00,,NP
 sub,dohms001,"Scott Dohmann",0,0,1
@@ -11379,11 +11346,7 @@ sub,speij001,"Justin Speier",1,0,1
 play,7,0,yound003,20,.BBX,53/G
 play,7,0,harrb001,01,FH,HP
 play,7,0,gomej001,22,SF*BBS,K
-com,"$Gomes called out on a check swing call by 1B umpire Mark Wegner"
 play,7,0,navad001,12,CB1SX,S7/F-.1-2
-com,"ej,maddj801,M,froeb901,Arguing with 1B umpire"
-com,"Devil Rays Manager Joe Maddon ejected by HP umpire Bruce Froemming"
-com,"for yelling at 1B umpire Mark Wegner"
 play,7,0,wilsj003,22,CBB.CS,K
 play,7,1,haynn001,00,,NP
 sub,salaj001,"Juan Salas",0,0,1
@@ -11690,7 +11653,6 @@ sub,navad001,"Dioner Navarro",0,9,11
 play,9,0,navad001,00,,NP
 sub,ruggj001,"Justin Ruggiano",0,8,12
 play,9,0,navad001,32,..BBC1BC>S,K
-com,"Debut game for Justin Ruggiano"
 data,er,howej003,2
 data,er,wheed001,0
 data,er,reyea001,0
@@ -11780,15 +11742,12 @@ play,3,1,kotcc001,10,11BX,3/P3F
 play,4,0,broub001,00,X,8/F
 play,4,0,vidrj001,12,CFBX,43/G
 play,4,0,johjk001,00,H,HP
-com,"$Johjima stared at the mound as he went to 1B"
 play,4,0,lopej003,22,BCBFX,4/L
 play,4,1,mathj001,00,,NP
 sub,campj002,"Jorge Campillo",0,0,1
-com,"$Campillo threw a pitch up and in to Mathis"
 play,4,1,mathj001,22,.FBBFS,K
 play,4,1,willr004,32,BBFBCFX,9/L
 play,4,1,cabro001,02,CFX,S6/G
-com,"$ball two to Guerrero was at his head; both sides warned"
 play,4,1,guerv001,20,BBX,HR/8/F.1-H
 play,4,1,andeg001,00,X,8/F
 play,5,0,betay001,20,BBX,S8/G
@@ -11814,12 +11773,6 @@ play,6,1,cabro001,01,CX,T9/F.2-H
 play,6,1,guerv001,10,B,NP
 sub,baekc001,"Cha Seung Baek",0,0,1
 play,6,1,guerv001,31,B...BBCB,W
-com,"ej,campj002,P,demud901,Intentional HBP"
-com,"ej,mclaj801,M,demud901,Intentional HBP by Campillo"
-com,"$the first pitch to Guerrero was at his head; he fell to the ground, got up and"
-com,"started towards the mound; both benches and bullpens emptied and Guerrero was"
-com,"restrained"
-com,"Mariners pitcher Jorge Campillo & Mgr John McLaren ejected by HP umpire Dana DeMuth"
 play,6,1,andeg001,11,CBX,S8/F-.3-H;1-3
 play,6,1,iztum001,12,CFBX,13/G-
 play,7,0,suzui001,00,,NP
@@ -11852,7 +11805,6 @@ play,9,0,suzui001,00,>C,DI.1-2
 play,9,0,suzui001,22,>C.BBFFX,S8/F.2-H
 play,9,0,belta001,00,>B,DI.1-2
 play,9,0,belta001,22,>B.BCSX,63/G
-com,"Scioscia's 700th victory as manager"
 data,er,feier001,5
 data,er,campj002,4
 data,er,baekc001,0

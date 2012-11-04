@@ -749,7 +749,6 @@ play,6,0,sosas001,31,BBSBB,W.1-2
 play,6,0,aloum001,11,CBX,8/L
 play,6,0,choih001,00,,NP
 sub,heref001,"Felix Heredia",1,9,1
-com,"Reds Jimmy Haynes left the game due to an injured back"
 play,6,0,choih001,00,,NP
 sub,karre001,"Eric Karros",0,5,11
 play,6,0,karre001,11,..BFB,PB.2-3;1-2
@@ -793,7 +792,6 @@ play,8,0,bellm002,02,CSFS,K
 play,8,0,bakop001,01,CX,T7/F.3-H(UR);2-H(UR);1-H(UR)
 play,8,0,remlm001,00,,NP
 sub,mater001,"Ruben Mateo",1,3,8
-com,"Reds Ken Griffey, left the game due to dislocated shoulder"
 play,8,0,remlm001,22,..CCBBFS,K
 play,8,1,keara001,22,CBSBFS,K
 play,8,1,cases001,01,CX,S9/L
@@ -1370,7 +1368,6 @@ play,3,0,rollj001,32,BBSFBFC,K
 play,3,0,polap001,02,CFX,8(B)2(3)/LDP
 play,3,1,laruj001,00,,NP
 sub,leder001,"Ricky Ledee",0,8,8
-com,"Phillies Marlon Byrd left the game due to an injured knee"
 play,3,1,laruj001,21,.FBBX,53/G
 play,3,1,dempr002,10,BX,53/G
 play,3,1,lopef001,22,BCBSFS,K
@@ -2159,7 +2156,6 @@ play,4,1,freer001,31,CBBBB,W.1-2
 play,4,1,guilj001,01,CX,63/G
 play,5,0,nadyx001,00,,NP
 sub,stink001,"Kelly Stinnett",1,8,2
-com,"Reds Jason LaRue left the game due to an injured neck/shoulder"
 play,5,0,nadyx001,12,.CCBFX,43/G
 play,5,0,rivem003,12,CCBX,S7/G
 play,5,0,victs001,11,BCX,16(1)3/GDP
@@ -2243,8 +2239,6 @@ play,8,1,keara001,00,,NP
 sub,wrigj002,"Jaret Wright",0,6,1
 play,8,1,keara001,00,,NP
 sub,victs001,"Shane Victorino",0,8,9
-com,"ej,bochb002,M,dimum901,Balls and strikes"
-com,"Padres Manager Bruce Bochy ejected by HP umpire Mike DiMuro"
 play,8,1,keara001,22,....FFBBS,K
 play,8,1,lopef001,32,BBCBCS,K
 play,9,0,rivem003,32,CBBSBX,6/P
@@ -2381,7 +2375,6 @@ play,5,0,klesr001,10,BX,HR/9/F
 play,5,0,whitr001,02,CCX,63/G
 play,5,1,boona001,00,,NP
 sub,buchb002,"Brian Buchanan",0,6,9
-com,"Xavier Nady left the game due to an injured neck/shoulder"
 play,5,1,boona001,01,.CX,E6/TH/G
 play,5,1,dunna001,32,BBCFBB,W.1-2
 play,5,1,lopef001,01,FX,S1/BG.2-H(E1/TH)(UR)(NR);1-3;B-2
@@ -3620,7 +3613,6 @@ play,1,0,gilem001,31,BBFBX,9/F
 play,1,0,shefg001,01,CX,5/P5F
 play,1,1,lopef001,00,,NP
 sub,derom001,"Mark De Rosa",0,2,4
-com,"Giles suffered contusion on left calf from foul in 1st"
 play,1,1,lopef001,00,.X,D7/L
 play,1,1,cases001,32,BFBBC*B,W
 play,1,1,grifk002,21,FBBB,WP.2-3;1-2
@@ -3647,8 +3639,6 @@ play,3,0,furcr001,01,CX,D9/L.2-H
 play,3,0,derom001,01,FH,HP
 play,3,0,shefg001,32,CFBBB>X,9/F
 play,3,1,dunna001,22,CSB.BS,K
-com,"ej,cox-b103,M,welkb901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Bill Welke"
 play,3,1,laruj001,02,FSC,K
 play,3,1,castj004,00,X,43/G
 play,4,0,jonec004,12,CFBX,3/G
@@ -3814,8 +3804,6 @@ sub,penaw001,"Wily Mo Pena",1,9,11
 play,4,1,penaw001,11,.FBX,46(1)/FO/G.3-H;B-1
 play,4,1,larkb001,32,CBB1FB>F>B,W.1-2
 play,4,1,guilj001,02,CFX,S9/L-.2-H;1-2
-com,"ej,cox-b103,M,danlk901,Balls and strikes"
-com,"Braves Manager Bobby Cox ejected by HP umpire Kerwin Danley"
 play,4,1,grifk002,31,SBBBB,W.2-3;1-2
 play,4,1,keara001,00,,NP
 sub,grybk001,"Kevin Gryboski",0,9,1
@@ -3825,7 +3813,6 @@ play,5,0,derom001,00,,NP
 sub,reitc001,"Chris Reitsma",1,1,1
 play,5,0,derom001,00,,NP
 sub,lopef001,"Felipe Lopez",1,9,6
-com,"Reds Barry Larkin left the game due to an injured leg"
 play,5,0,derom001,10,..BX,53/G
 play,5,0,shefg001,10,BX,63/G
 play,5,0,jonec004,31,BBCBB,W
@@ -4472,7 +4459,6 @@ play,8,0,pierj002,10,BX,9/F
 play,8,1,wills002,00,,NP
 sub,olmer001,"Rainer Olmedo",1,9,11
 play,8,1,olmer001,12,.CFBFS,K
-com,"Debut game for Rainer Olmedo"
 play,8,1,freer001,10,BX,8/F
 play,8,1,guilj001,10,BX,S8/L
 play,8,1,dunna001,10,BX,43/G
@@ -4740,7 +4726,6 @@ play,5,1,grifk002,02,CSFX,HR/89/F
 play,5,1,keara001,02,FCC,K
 play,6,0,ventr001,00,,NP
 sub,taylr001,"Reggie Taylor",1,3,8
-com,"Reds Ken Griffey, Jr. left the game due to an injured arm."
 play,6,0,ventr001,22,..BBCCX,8/F
 play,6,0,mondr002,32,FCBFFBBB,W
 play,6,0,rivej001,01,CX,54(1)3/GDP
@@ -4883,8 +4868,6 @@ play,6,0,soria001,00,X,S7/L
 play,6,0,jeted001,21,B1B>F11>B,SB2
 play,6,0,jeted001,31,B1B>F11>B.B,W
 play,6,0,giamj001,12,SFF*B>C,K+SB3;SB2
-com,"ej,torrj101,M,drecb901,Balls and strikes"
-com,"Yankees Manager Joe Torre ejected by HP umpire Bruce Dreckman"
 play,6,0,posaj001,02,FCX,53/G
 play,6,1,boona001,10,BX,53/G
 play,6,1,branr001,11,BFX,3/L
@@ -5324,7 +5307,6 @@ start,branr001,"Russell Branyan",1,6,5
 start,laruj001,"Jason LaRue",1,7,2
 start,castj004,"Juan Castro",1,8,4
 start,haynj001,"Jimmy Haynes",1,9,1
-com,"3:05 delay during game"
 play,1,0,johnr008,02,CFX,13/G
 play,1,0,cataf001,11,CBX,43/G
 play,1,0,wellv001,31,BCBBB,W
@@ -5524,15 +5506,6 @@ play,6,1,laruj001,10,BX,HR/7/F.1-H
 play,6,1,castj004,22,CFBFFBC,K
 play,6,1,haynj001,22,BBFFX,S8/G
 play,6,1,dunna001,00,B,WP.1-2
-com,"ej,silvc001,P,eddid901,Throwing at Adam Dunn"
-com,"ej,dunna001,P,eddid901,Charging mound"
-com,"ej,cases001,P,eddid901,Bench-clearing brawl"
-com,"ej,bowal001,M,eddid901,Bench-clearing brawl"
-com,"ej,mesaj001,P,eddid901,Bench-clearing brawl"
-com,"$Carols Silva's first pitch in tight; the second went behind"
-com,"Adam Dunn, who ran towards the mound; Dunn was tackled by"
-com,"catcher Mike Lieberthal; Silva, Dunn, Sean Casey, Jose Mesa"
-com,"and Phillies Manager Larry Bowa ejected by HP umpire Doug Eddings"
 play,6,1,dunna001,20,BB,NP
 sub,merch002,"Hector Mercado",0,9,1
 play,6,1,dunna001,20,B.B,NP
@@ -5624,7 +5597,6 @@ start,cases001,"Sean Casey",1,6,3
 start,laruj001,"Jason LaRue",1,7,2
 start,castj004,"Juan Castro",1,8,4
 start,gravd001,"Danny Graves",1,9,1
-com,"29 minute delay during game"
 play,1,0,abreb001,02,CCX,8/L
 play,1,0,polap001,00,X,D7/G
 play,1,0,thomj002,32,FBBF*BB,W
@@ -6017,10 +5989,6 @@ sub,remlm001,"Mike Remlinger",0,9,1
 play,9,1,dunna001,12,.FBCS,K
 play,9,1,laruj001,32,SBBBFFC,K
 play,9,1,castj004,02,CCX,3/P3F
-com,"ej,boonb001,M,westj901,Throwing equipment"
-com,"$Juan Castro threw his helmet after making an out; HP umpire"
-com,"Joe West fined Castro; Reds Manager Bob Boone objected to the"
-com,"fine and was ejected by West"
 play,10,0,grudm001,00,X,3/P3F
 play,10,0,pattc001,02,FSS,K
 play,10,0,aloum001,31,BCBBB,W
@@ -6277,11 +6245,6 @@ play,7,1,wilsp001,00,,NP
 sub,grifk002,"Ken Griffey",1,9,11
 play,7,1,grifk002,00,,NP
 sub,wellt002,"Todd Wellemeyer",0,9,1
-com,"ej,farnk001,P,barkl901,Fighting with Paul Wilson"
-com,"ej,wilsp001,P,barkl901,Fighting with Kyle Farnsworth"
-com,"$Paul Wilson attempted a bunt and Kyle Farnsworth pitched inside;"
-com,"Wilson yelled and charged the mound; Wilson and Farnsworth ejected"
-com,"by HP umpire Lance Barksdale"
 play,7,1,grifk002,22,..B...BCSX,4/L
 play,7,1,larkb001,12,CSBX,S7/L.2-H
 play,7,1,guilj001,32,B1SBF1B>B,W.1-2
@@ -6402,7 +6365,6 @@ play,4,1,boona001,00,H,HP
 play,4,1,cases001,32,BBBC1C>B,W.1-2
 play,4,1,laruj001,00,,NP
 sub,stink001,"Kelly Stinnett",1,7,11
-com,"Reds Jason LaRue left the game due to an injured neck/shoulder"
 play,4,1,stink001,02,..CFT,K
 play,5,0,peret004,00,,NP
 sub,stink001,"Kelly Stinnett",1,7,2
@@ -6472,8 +6434,6 @@ play,9,1,stink001,02,FFX,S5/G.1-2
 play,9,1,castj004,00,,NP
 sub,taylr001,"Reggie Taylor",1,8,11
 play,9,1,taylr001,32,.CSBBBC,K
-com,"ej,taylr001,P,mealj901,Called third strike"
-com,"Reds Reggie Taylor ejected by HP umpire Jerry Meals"
 play,9,1,riedj001,00,,NP
 sub,branr001,"Russell Branyan",1,9,11
 play,9,1,branr001,32,..SSB*BB>B,W.2-3;1-2
@@ -6584,8 +6544,6 @@ play,7,0,floyc001,12,FBFFX,D7/G.3-H
 play,7,0,wiggt001,10,BX,S5/BG.2-3
 play,7,0,philj003,11,FBX,6/P
 play,7,0,wilsv001,00,,SB2
-com,"SB awarded when Olmedo walked ball to mound without"
-com,"calling time. Second uncovered and Wigginton stole"
 play,7,0,wilsv001,00,.X,S7/L.3-H;2-H
 play,7,0,sancr001,00,X,64(1)3/GDP
 play,7,1,boona001,00,,NP
@@ -7222,7 +7180,6 @@ sub,wagnr001,"Ryan Wagner",1,7,1
 play,7,0,brune001,00,,NP
 sub,taylr001,"Reggie Taylor",1,9,8
 play,7,0,brune001,12,...CSFFBX,7/F
-com,"Debut game for Ryan Wagner"
 play,7,0,villr001,00,,NP
 sub,huntb002,"Brian Hunter",0,9,11
 play,7,0,huntb002,12,.CBFS,K
@@ -7369,7 +7326,6 @@ play,4,1,guilj001,10,BX,S9/L
 play,4,1,cases001,32,BFFBB>B,W.1-2
 play,4,1,boona001,31,BSBBB,W.2-3;1-2
 play,4,1,dunna001,02,CCFX,4/P
-com,"Infield Fly rule"
 play,4,1,laruj001,12,FFBT,K
 play,5,0,ausmb001,20,BBX,S9/L.BX2(96)
 play,5,0,brune001,00,X,53/G
@@ -7392,7 +7348,6 @@ play,6,1,laruj001,11,SBX,9/F
 play,7,0,berkl001,00,X,DGR/8/L+
 play,7,0,hidar001,01,FH,HP
 play,7,0,ausmb001,21,BLB>X,3/P
-com,"Infield Fly rule"
 play,7,0,brune001,10,BX,S8/L+.2-H;1-3
 play,7,0,gallm002,00,,NP
 sub,merco002,"Orlando Merced",0,9,11
@@ -7872,7 +7827,6 @@ play,7,0,gileb002,00,,NP
 sub,castj004,"Juan Castro",1,2,6
 play,7,0,gileb002,00,,NP
 sub,heref001,"Felix Heredia",1,9,1
-com,"Reds Barry Larkin left the game due to an injured leg"
 play,7,0,gileb002,32,..BBSBSX,8/F
 play,7,0,staim001,01,CX,S9/G
 play,7,0,sandr002,12,SBCS,K
@@ -8025,7 +7979,6 @@ play,5,1,branr001,12,CBFFX,HR/8/F
 play,5,1,guilj001,11,BFX,S6/G
 play,5,1,cases001,00,,NP
 sub,nunea001,"Abraham Nunez",0,2,6
-com,"Pirates Jack Wilson left the game due to an injured leg"
 play,5,1,cases001,01,..CX,7/F
 play,5,1,dunna001,30,1BBBB,W.1-2
 play,5,1,laruj001,00,X,3/P3F/DP.2X2(36)
@@ -8673,9 +8626,6 @@ play,3,0,walkl001,00,X,5/P5F
 play,3,1,dunna001,10,BX,8!/F
 play,3,1,laruj001,22,BBFFH,HP
 play,3,1,branr001,10,BX,D8/L/DP.1XH(84252);BX3(28)
-com,"Branyan ran towards 3B but LeRue stopped at 3B;"
-com,"Branyan thought LaRue was the 3rd out and started"
-com,"off the field"
 play,4,0,paytj001,12,FCBX,S9/L-
 play,4,0,estab001,12,1FBFS,K
 play,4,0,uribj002,11,BF>X,9/F
@@ -8956,7 +8906,6 @@ start,stink001,"Kelly Stinnett",1,7,2
 start,castj004,"Juan Castro",1,8,5
 start,hallj002,"Josh Hall",1,9,1
 play,1,0,peren001,21,CBBX,43/G
-com,"Debut game for Josh Hall"
 play,1,0,aurir001,02,CCS,K
 play,1,0,felip001,01,CX,31/G
 play,1,1,jimed001,10,BX,8/F
@@ -9135,7 +9084,6 @@ play,3,0,galaa001,30,BBBB,W.1-2
 play,3,0,santb001,22,BCSBFX,S7/L.3-H;2-3;1-2
 play,3,0,alfoe001,00,,NP
 sub,reitb001,"Brian Reith",1,9,1
-com,"Reds Jimmy Haynes left the game due to an injured back"
 play,3,0,alfoe001,01,.SX,D7/L-.3-H;2-H;1-3
 play,3,0,peren001,30,IIII,IW
 play,3,0,hermd001,32,BSCBBFX,63/G
@@ -9186,7 +9134,6 @@ play,7,1,castj004,12,CBSS,K
 play,7,1,balej001,00,,NP
 sub,budzm001,"Mark Budzinski",1,9,11
 play,7,1,budzm001,22,.BSFFBC,K
-com,"Debut game for Mark Budzinski"
 play,7,1,jimed001,11,BCX,8/F
 play,8,0,hammj001,00,,NP
 sub,riedj001,"John Riedling",1,9,1
@@ -9514,7 +9461,6 @@ play,9,1,taylr001,21,.FBBX,8/F
 play,9,1,reitc001,00,,NP
 sub,stend001,"Dernell Stenson",1,9,11
 play,9,1,stend001,11,.BCX,7/F
-com,"Debut game for Dernell Stenson"
 play,9,1,jimed001,12,CCBS,K
 data,er,batim001,1
 data,er,rands001,0
@@ -9712,9 +9658,6 @@ start,mater001,"Ruben Mateo",1,6,9
 start,larsb001,"Brandon Larson",1,7,5
 start,taylr001,"Reggie Taylor",1,8,8
 start,gravd001,"Danny Graves",1,9,1
-com,"ej,lamog101,C,wintm901,Unknown reason"
-com,"$Astros coach Gene Lamont ejected by HP umpire Mike Winters"
-com,"sometime in this game"
 play,1,0,biggc001,10,BX,S8/L
 play,1,0,ensbm001,00,X,7/F
 play,1,0,bagwj001,10,BX,7/F
@@ -10368,14 +10311,12 @@ play,5,1,penaw001,02,FCFFX,8/L
 play,6,0,helmw001,00,,NP
 sub,rands002,"Scott Randall",1,9,1
 play,6,0,helmw001,12,.BCCX,7/F
-com,"Debut game for Scott Randall"
 play,6,0,peree002,21,BCBX,63/G
 play,6,0,clayr001,32,BBBCFX,E6/P
 play,6,0,david002,11,BCX,23/G
 play,6,1,rands002,00,,NP
 sub,hummt001,"Tim Hummel",1,9,11
 play,6,1,hummt001,22,.CFFBBFFFX,53/G
-com,"Debut game for Tim Hummel"
 play,6,1,freer001,32,CCBBBX,53/G
 play,6,1,olmer001,22,BSSBFS,K
 play,7,0,podss001,00,,NP
@@ -10463,7 +10404,6 @@ start,hummt001,"Tim Hummel",1,6,5
 start,smits001,"Stephen Smitherman",1,7,7
 start,millc001,"Corky Miller",1,8,2
 start,ethes001,"Seth Etherton",1,9,1
-com,"9 minute delay during game"
 play,1,0,podss001,01,FX,4!3/G
 play,1,0,gintk001,32,CFBBBB,W
 play,1,0,jenkg001,11,FBX,D9/L.1-3
@@ -10710,7 +10650,6 @@ play,8,1,hummt001,00,,NP
 sub,delov001,"Valerio De Los Santos",0,2,1
 play,8,1,hummt001,00,,NP
 sub,hallb001,"Billy Hall",0,9,4
-com,"Brewers Keith Ginter left the game due to an injured leg"
 play,8,1,hummt001,22,..CBBFX,53/G
 play,8,1,jimed001,31,BBBCX,S7/L
 play,8,1,cases001,02,CFS,K
@@ -10809,7 +10748,6 @@ start,mater001,"Ruben Mateo",1,6,9
 start,stend001,"Dernell Stenson",1,7,7
 start,stink001,"Kelly Stinnett",1,8,2
 start,balej001,"John Bale",1,9,1
-com,"38 minute delay at start of game"
 play,1,0,tagus001,22,FFBBX,53/G
 play,1,0,edmoj001,21,CBBX,8/F
 play,1,0,pujoa001,11,FBX,43/G
@@ -11333,7 +11271,6 @@ play,6,1,hummt001,02,CFFFC,K
 play,7,0,wilsj002,00,,NP
 sub,cerrj001,"Juan Cerros",1,9,1
 play,7,0,wilsj002,01,.CX,S7/L
-com,"Debut game for Juan Cerros"
 play,7,0,foggj001,22,BLCBO,K/BF
 play,7,0,reboj001,32,BC+1BBC>F>F>F>S,K+SB2
 play,7,0,redmt001,31,BBFBB,W

@@ -315,7 +315,6 @@ sub,otsua001,"Akinori Otsuka",0,4,1
 play,8,1,robed001,00,,NP
 sub,vazqr001,"Ramon Vazquez",0,6,3
 play,8,1,robed001,11,..CBX,13/G
-com,"Debut game for Akinori Otsuka"
 play,8,1,iztuc001,01,CX,43/G
 play,8,1,bradm001,20,BBX,D9/G+
 play,8,1,grees001,30,BBII,IW
@@ -726,7 +725,6 @@ play,2,1,nomoh001,32,BSSBFBX,5/P
 play,3,0,heltt001,00,X,7/F
 play,3,0,wilsp002,12,CBFS,K
 play,3,0,burnj001,12,CFBFS,K
-com,"$Wilson left due to injury"
 play,3,1,robed001,00,,NP
 sub,reyer001,"Rene Reyes",0,4,8
 play,3,1,robed001,00,.X,S1/BG
@@ -1210,8 +1208,6 @@ play,2,0,willj003,00,,NP
 sub,robed001,"Dave Roberts",1,1,8
 play,2,0,willj003,00,,NP
 sub,grabj001,"Jason Grabowski",1,3,7
-com,"ej,bradm001,P,holbs901,Called third strike"
-com,"Milton Bradley ejected by HP umpire Sam Holbrook"
 play,2,0,willj003,00,...X,63/G
 play,2,0,durhr001,21,CBBX,13/G
 play,2,0,snowj001,00,X,8/F
@@ -2470,7 +2466,6 @@ play,3,0,pattc001,10,BX,5/P5F
 play,3,0,sosas001,22,BSCBFS,K
 play,3,1,lodup001,00,,NP
 sub,ruscg001,"Glendon Rusch",0,9,1
-com,"$Wood left game with injured arm"
 play,3,1,lodup001,01,.CX,9/F
 play,3,1,bradm001,21,CBBX,S9/G
 play,3,1,grees001,21,CBB1X,E4/TH/FO/G.1-2;B-1
@@ -2658,8 +2653,6 @@ play,8,1,grees001,01,.CX,53/G
 play,8,1,belta001,12,SFFBFX,3/P
 play,8,1,encaj001,02,CCX,9/F
 play,9,0,aloum001,12,SBCC,K
-com,"ej,aloum001,P,diazl901,Called third strike"
-com,"Moises Alou ejected by HP umpire Laz Diaz"
 play,9,0,ramia001,22,.SFBFBX,53/G
 play,9,0,lee-d002,00,X,43/G
 data,er,clemm001,4
@@ -2755,7 +2748,6 @@ play,4,1,encaj001,02,FCX,96(1)/FO/G
 play,4,1,rossd001,02,SFS,K
 play,5,0,lee-d002,00,,NP
 sub,thurj001,"Joseph Thurston",1,8,4
-com,"$Cora left game with injured elbow"
 play,5,0,lee-d002,22,.CBSBFS,K
 play,5,0,martr003,32,BBSCBFFX,9/F
 play,5,0,bakop001,12,CSFBX,31/G
@@ -3341,7 +3333,6 @@ play,2,1,belta001,22,CFBBX,3/P
 play,2,1,encaj001,02,SSX,63/G
 play,3,0,katam001,00,,NP
 sub,falkb001,"Brian Falkenborg",1,9,1
-com,"$Alvarez left game with injured leg"
 play,3,0,katam001,30,.BBBB,W
 play,3,0,cinta001,11,CB1>B,SB2
 play,3,0,cinta001,21,CB1>B.X,43/G.2-3
@@ -3497,7 +3488,6 @@ play,2,1,encaj001,22,B1SFBC,K
 play,2,1,coraa001,11,CBX,S4/G.1-3
 play,2,1,limaj001,00,,NP
 sub,hairs001,"Scott Hairston",0,1,4
-com,"$Kata left game with injured neck"
 play,2,1,limaj001,00,..X,13/G
 play,3,0,maynb001,02,CFX,4!63/G
 play,3,0,webbb001,22,BBCSS,K
@@ -3550,7 +3540,6 @@ play,7,0,gonzl001,00,,NP
 sub,rossd001,"David Ross",1,3,2
 play,7,0,gonzl001,00,,NP
 sub,lodup001,"Paul Lo Duca",1,5,7
-com,"$Bradley left game with injured foot"
 play,7,0,gonzl001,00,....X,31/G
 play,7,0,bautd001,01,CX,63/G
 play,7,0,finls001,12,CSBX,D9/L
@@ -3646,7 +3635,6 @@ play,1,1,grees001,32,CCBBB>B,W.1-2
 play,1,1,belta001,22,BCBCX,D7/L.2-H;1-H
 play,1,1,encaj001,12,CBCS,K
 play,2,0,olsot001,12,SSFFBFX,53/G
-com,"Debut game for Tim Olson"
 play,2,0,hammr001,21,BBFX,53/G
 play,2,0,fossc001,22,CBBCS,K
 play,2,1,hernj001,31,BBBCX,S8/L
@@ -3992,18 +3980,6 @@ play,6,0,spivj001,12,FSBX,64(1)/FO/G
 play,6,0,gintk001,11,1BFX,8/L
 play,6,1,bradm001,00,,NP
 sub,robed001,"Dave Roberts",1,3,11
-com,"ej,bradm001,P,craft901,Arguing with umpire at start of at bat"
-com,"ej,tracj101,M,westj901,Claimed Bradley was provoked by Craft"
-com,"$Milton Bradley ejected by HP umpire Terry Craft as he came to bat;"
-com,"he had to be restrained by Manager Jim Tracy; Bradley"
-com,"removed his batting gloves and left them with"
-com,"his helmet and bat near the plate raised his"
-com,"hands over his head and went to the dugout;"
-com,"he then took a ball bag and emptied it onto"
-com,"field, threw the bag and threw a ball into"
-com,"deep left field; while the batboys picked"
-com,"up the balls, Tracy was ejected by 2B umpire Joe West;"
-com,"Tracy claimed Bradley was provoked"
 play,6,1,robed001,11,BFX,S7/L-
 play,6,1,grees001,12,1B1FFFX,46(1)3/GDP
 play,6,1,belta001,30,BBBX,8/F
@@ -4108,7 +4084,6 @@ start,encaj001,"Juan Encarnacion",1,7,9
 start,coraa001,"Alex Cora",1,8,4
 start,jacke001,"Edwin Jackson",1,9,1
 play,1,0,podss001,32,BCBFBFX,HR/9/F
-com,"Debut game for Ben Hendrickson"
 play,1,0,counc001,32,BBCBFFX,S8/G
 play,1,0,grieb001,10,B>S,SB2
 play,1,0,grieb001,21,B>S.BX,6/P
@@ -4545,7 +4520,6 @@ play,1,0,moram002,00,X,S5/BG
 play,1,0,tejam001,01,1CX,S7/G.1-2
 play,1,0,palmr001,00,,NP
 sub,leonj002,"Jose J. Leon",0,3,12
-com,"$Mora left game with injured foot"
 play,1,0,palmr001,32,.FBBCFB>X,S8/G.2-H;1-3
 play,1,0,lopej001,02,SCX,64(1)/FO/G
 play,1,1,iztuc001,00,,NP
@@ -4844,7 +4818,6 @@ start,hernj001,"Jose Hernandez",1,7,4
 start,rossd001,"David Ross",1,8,2
 start,nomoh001,"Hideo Nomo",1,9,1
 play,1,0,willb002,01,CX,5/P5F
-com,"Debut game for Brad Halsey"
 play,1,0,jeted001,00,X,S7/L
 play,1,0,rodra001,11,BC1>B,CS2(24)
 play,1,0,rodra001,32,BC1>B.BFFB,W
@@ -5371,7 +5344,6 @@ play,5,1,iztuc001,22,SBFBX,3/G
 play,5,1,grees001,32,FBBFBX,8/F
 play,6,0,figgc001,00,,NP
 sub,alvaw001,"Wilson Alvarez",1,9,1
-com,"$Perez left game with injured neck"
 play,6,0,figgc001,32,.BBBCCFT,K
 play,6,0,guerv001,32,FBBBFB,W
 play,6,0,andeg001,22,BCFBX,HR/89/L.1-H
@@ -6567,7 +6539,6 @@ play,2,1,grees001,31,BCBBX,S8/G+
 play,2,1,wertj001,22,CC1B>F*BFX,8/F
 play,3,0,duckb001,00,,NP
 sub,ventr001,"Robin Ventura",1,4,5
-com,"$Beltre left game with injured leg"
 play,3,0,duckb001,21,.CBBX,S8/L
 play,3,0,biggc001,01,FX,HR/7/F.1-H
 play,3,0,bagwj001,22,CBCBS,K
@@ -6784,9 +6755,6 @@ play,8,1,rossd001,00,,NP
 sub,lanej001,"Jason Lane",0,9,8
 play,8,1,rossd001,00,,NP
 sub,bradm001,"Milton Bradley",1,7,11
-com,"$Vizcaino left game injured arm and Beltran"
-com,"left game with injured leg (he had fouled a ball"
-com,"off his right knee in the first inning)"
 play,8,1,bradm001,32,.....SSBBBB,W
 play,8,1,coraa001,12,BCM1S,K
 play,8,1,ventr001,12,BCCX,7/F
@@ -8040,7 +8008,6 @@ play,6,0,foggj001,00,,NP
 sub,wertj001,"Jayson Werth",1,2,7
 play,6,0,foggj001,00,,NP
 sub,bradm001,"Milton Bradley",1,3,8
-com,"Finley left game with injured leg"
 play,6,0,foggj001,22,..BBCFX,53/G
 play,6,0,kendj001,12,CCFBX,S9/L-
 play,6,0,wilsj002,00,1X,S8/G.1-3
@@ -8208,7 +8175,6 @@ play,7,1,iztuc001,01,FX,63/G
 play,8,0,kendj001,00,,NP
 sub,brazy001,"Yhency Brazoban",1,9,1
 play,8,0,kendj001,22,.CFBBFX,8/F
-com,"Debut game for Yhency Brazoban"
 play,8,0,wilsj002,00,X,7/F
 play,8,0,mackr001,11,BFX,8/F
 play,8,1,wertj001,00,,NP
@@ -8634,14 +8600,11 @@ play,1,0,utlec001,22,BCCFBX,HR/9/F
 play,1,0,abreb001,10,BX,9/F
 play,1,0,thomj002,10,B,NP
 sub,carrg001,"Giovanni Carrara",1,9,1
-com,"$Penny left with badly strained right biceps"
 play,1,0,thomj002,30,B..BBX,3/G
 play,1,1,iztuc001,12,CFBX,43/G
 play,1,1,coraa001,22,BBCCS,K
 play,1,1,bradm001,32,BSBFBX,8/F
 play,2,0,belld002,11,FBX,63/G
-com,"$Bell had back spasms as he hit the ball, fell in"
-com,"batter's box & lay there as play was made to retire him"
 play,2,0,colll001,12,BSCFFFX,8/F
 play,2,0,byrdm001,32,CBBBFX,4/P
 play,2,1,belta001,00,,NP
@@ -8814,7 +8777,6 @@ play,4,1,coraa001,10,BX,7/F
 play,5,0,encaj001,21,CBBX,S7/L
 play,5,0,gonza002,12,CSFBX,3/P
 play,5,0,pavac001,01,L1X,2/BG/INT.1-1
-com,"$Pavano out for batter interference"
 play,5,0,pierj002,00,>B,SB2
 play,5,0,pierj002,11,>B.FX,S9/G.2-H(E9)(UR)(NR);B-2
 play,5,0,castl001,31,CBBBB,W
@@ -9136,7 +9098,6 @@ play,9,0,castl001,00,,NP
 sub,gagne001,"Eric Gagne",1,9,1
 play,9,0,castl001,02,.CFS,K
 play,9,0,cabrm001,00,X,D7/L7DW
-com,"Off padding at very top of wall"
 play,9,0,lowem001,12,CBSX,S7/L.2-3
 play,9,0,conij001,00,,NP
 sub,easld001,"Damion Easley",0,4,12
@@ -9648,7 +9609,6 @@ sub,green001,"Nick Green",0,7,4
 play,8,1,hernj001,00,,NP
 sub,franj002,"Julio Franco",0,9,3
 play,8,1,hernj001,32,...FCFBBBS,K
-com,"Debut game for Roman Colon"
 play,8,1,rossd001,02,FSS,K
 play,8,1,brazy001,00,,NP
 sub,grabj001,"Jason Grabowski",1,9,11
@@ -9765,8 +9725,6 @@ sub,grabj001,"Jason Grabowski",1,9,11
 play,5,1,grabj001,31,.BBBCX,5/P
 play,6,0,thomc001,00,,NP
 sub,sancd001,"Duaner Sanchez",1,9,1
-com,"ej,wallt001,C,barkl901,Unknown reason"
-com,"Dodgers coach Tim Wallach ejected by HP umpire Lance Barksdale"
 play,6,0,thomc001,11,..CBX,S9/L
 play,6,0,wrigj002,12,LFBX,64(1)/FO/G
 play,6,0,furcr001,22,BBFFFX,46(1)/FO/G
@@ -9818,7 +9776,6 @@ sub,reitc001,"Chris Reitsma",0,4,1
 play,9,1,iztuc001,01,.FX,S1/G+
 play,9,1,finls001,00,,NP
 sub,martt003,"Tom Martin",0,4,1
-com,"$Reitsma left game with injured hand"
 play,9,1,finls001,12,..BCFFX,S9/L.1-2
 play,9,1,wertj001,12,BCFX,4/P
 play,9,1,hernj001,20,BBX,8/L
@@ -10122,8 +10079,6 @@ sub,fettm001,"Mike Fetters",0,9,1
 play,7,1,belta001,32,.BBCFB>F>X,43/G
 play,8,0,greea001,11,CBX,S9/F-
 play,8,0,bautd001,02,FFC,K
-com,"ej,bautd001,P,fleta901,Called third strike"
-com,"Danny Bautista ejected by HP umpire Andy Fletcher"
 play,8,0,hills002,00,,NP
 sub,brazy001,"Yhency Brazoban",1,8,1
 play,8,0,hills002,11,..C1BX,9/F
@@ -10259,7 +10214,6 @@ play,6,0,hills002,01,CX,53/G
 play,6,1,maynb001,00,,NP
 sub,goslm001,"Mike Gosling",0,9,1
 play,6,1,maynb001,20,.BBX,S9/F-
-com,"Debut game for Mike Gosling"
 play,6,1,limaj001,02,CMX,24/SH/BG.1-2
 play,6,1,iztuc001,01,CX,8/L
 play,6,1,finls001,00,X,HR/9/L.2-H
@@ -10392,7 +10346,6 @@ play,4,0,walkl001,11,BSH,HP
 play,4,0,pujoa001,22,CFBBX,7/F
 play,4,1,maynb001,00,,NP
 sub,lunah001,"Hector Luna",0,4,5
-com,"$Rolen left game with injured leg"
 play,4,1,maynb001,00,..X,S7/G
 play,4,1,alvaw001,02,MLX,56(1)3/GDP
 play,4,1,iztuc001,32,BFBFBX,3/G
@@ -10607,8 +10560,6 @@ play,8,0,walkl001,11,.SBX,S9/L.3-H
 play,8,0,pujoa001,00,,NP
 sub,sancd001,"Duaner Sanchez",1,9,1
 play,8,0,pujoa001,00,.>X,936(1)/FO/G.B-1
-com,"$Walker was called out on appeal for missing second base"
-com,"on what had been a clean single to right by Pujols"
 play,8,0,edmoj001,00,,NP
 sub,stews003,"Scott Stewart",1,7,1
 play,8,0,edmoj001,00,,NP
@@ -10904,7 +10855,6 @@ play,5,0,klesr001,32,CSFFFBFBBB,W
 play,5,0,greek002,12,BC1CFX,64(1)3/GDP
 play,5,1,rossd001,12,BCCS,K
 play,5,1,perea001,11,BFX,E6/G.B-1
-com,"$Greene injured on this play; left after end of inning"
 play,5,1,iztuc001,12,CB1FC,K
 play,5,1,wertj001,00,X,HR/8/L.1-H(UR);B-H(UR)
 play,5,1,finls001,31,BBFBX,63/G
@@ -10914,7 +10864,6 @@ play,6,0,welld001,02,SSC,K
 play,6,0,burrs001,32,FBBSBX,63/G
 play,6,1,belta001,00,,NP
 sub,vazqr001,"Ramon Vazquez",0,6,6
-com,"$Greene left game with broken right index finger; out for season"
 play,6,1,belta001,20,.BBX,9/F
 play,6,1,grees001,11,CBX,HR/8/F
 play,6,1,bradm001,12,FBFFX,5/P
@@ -11772,16 +11721,7 @@ play,8,0,piedj001,31,BCB*BB,W.2-3;1-2
 play,8,0,johnc002,00,,NP
 sub,sweem001,"Mark Sweeney",0,6,11
 play,8,0,sweem001,01,.CX,E9/L.3-H(UR)(NR);2-H(UR)(NR);1-2
-com,"$Milton Bradley seemed to lose the ball in the lights"
 play,8,0,hawpb001,10,BX,S8/L-.2-H(UR);1-2
-com,"ej,bradm001,P,joycj901,Threatening fans after bottle thrown"
-com,"$someone threw a plastic bottle at Bradley from the stands;"
-com,"Milton Bradley picked up the bottle and angrily approached the stands"
-com,"and yelled at a fan; he slammed the bottle into the front row"
-com,"of the seats; several teammates came out to calm him down;"
-com,"Bradley continued to scream at the fans and was ejected by 2B umpire"
-com,"Jim Joyce; as Bradley left the field he took his hat and jersey"
-com,"off and gestured towards the booing fans behind the Dodger dugout"
 play,8,0,freec001,00,,NP
 sub,grees001,"Shawn Green",1,5,9
 play,8,0,freec001,00,,NP
@@ -12651,7 +12591,6 @@ sub,knoej001,"Justin Knoedler",0,7,2
 play,8,1,thurj001,00,,NP
 sub,walkt003,"Tyler Walker",0,9,1
 play,8,1,thurj001,00,..X,3/G
-com,"Debut game for Justin Knoedler"
 play,8,1,florj001,32,BFFBBC,K
 play,8,1,wertj001,10,BX,53/G
 play,9,0,dallb001,10,BX,D9/L

@@ -51,7 +51,6 @@ play,1,0,salmt001,10,BX,53/G
 play,1,1,greer001,11,BCX,3/G
 play,1,1,kaplg001,00,,NP
 sub,nievj002,"Jose Nieves",0,8,3
-com,"$Gil injured when Greer slid into him - onto 15 day DL"
 play,1,1,kaplg001,20,BBX,8/F8
 play,1,1,rodra001,12,CFBS,K
 play,2,0,andeg001,00,X,6/P6
@@ -341,7 +340,6 @@ play,2,0,colam001,11,CBX,S7
 play,2,0,myerg001,21,BBSX,64(1)3/GDP
 play,2,1,everc001,21,CBBX,6/P6
 play,2,1,menck001,02,CSS,K
-com,"Debut game for Kevin Mench"
 play,2,1,cataf001,31,BCBBB,W
 play,2,1,kaplg001,02,CCFX,53/G
 play,3,0,penac001,00,,NP
@@ -396,7 +394,6 @@ play,8,0,menef001,32,BBCFBX,S8.1-2
 play,8,0,chave001,00,,NP
 sub,ellim001,"Mark Ellis",0,1,12
 play,8,0,chave001,22,FBFBX,8/F8
-com,"Debut game for Mark Ellis"
 play,8,0,justd001,11,BCX,3/G#
 play,8,1,rodri001,01,FX,8/F8
 play,8,1,rodra001,10,BX,HR/7
@@ -840,7 +837,6 @@ play,6,1,cataf001,00,,NP
 sub,rhoda001,"Arthur Rhodes",0,0,1
 play,6,1,cataf001,00,X,7/SF.3-H
 play,6,1,greer001,00,C,SB2
-com,"originally scored CS2(2E4) - changed on May 8"
 play,6,1,greer001,22,CFBFBFX,63/G
 play,7,0,boonb002,00,,NP
 sub,miced001,"Dan Miceli",1,0,1
@@ -862,9 +858,6 @@ play,8,0,suzui001,30,BBBB,W.1-2
 play,8,0,cirij001,00,,NP
 sub,woods001,"Steve Woodard",1,0,1
 play,8,0,cirij001,02,CFS,K
-com,"ej,cirij001,P,fleta901,Checked swing"
-com,"Jeff Cirillo ejected by HP umpire Andy Fletcher for"
-com,"arguing a check swing"
 play,8,1,everc001,00,,NP
 sub,relad001,"Desi Relaford",0,2,5
 play,8,1,everc001,22,BBCCX,9/F9
@@ -950,9 +943,6 @@ play,1,1,greer001,32,CSFBBBC,K+CS2(24)/DP/C
 play,1,1,rodra001,21,BFBX,3/FL
 play,2,0,camem001,32,BFBBFB,W
 play,2,0,sierr001,01,CX,46(1)3/GDP
-com,"ej,pinil001,M,cousd901,Call at 1B"
-com,"Mariners Manager Lou Piniella ejected by 1B umpire Derryl Cousins in 2nd"
-com,"for arguing a call at 1B"
 play,2,0,guilc001,12,BCFX,43/G
 play,2,1,palmr001,31,BBCBB,W
 play,2,1,rodri001,10,BX,8/F8
@@ -1109,7 +1099,6 @@ play,1,1,rodra001,01,CX,63/G
 play,2,0,sierr001,00,X,S/89
 play,2,0,olerj001,32,BBCBCB,W.1-2
 play,2,0,wrigr002,02,CCC,K/C
-com,"Debut game for Ron Wright"
 play,2,0,davib003,12,CBCX,3/FL
 play,2,0,gipsc001,00,X,13/G
 play,2,1,palmr001,22,BBCCX,9/F9
@@ -1125,8 +1114,6 @@ play,3,1,blalh001,01,CX,36(1)3/GDP
 play,4,0,sierr001,22,FCBBX,D7
 play,4,0,olerj001,22,BBSFX,S8.2-3
 play,4,0,wrigr002,22,BSSBX,16(1)/FO/TP.3XH(6251);BX2(14)
-com,"Kenny Rogers was officially awarded two assists on this"
-com,"play, one for each rundown"
 play,4,1,younm003,10,BX,D/78
 play,4,1,greer001,10,BX,3/G.2-3
 play,4,1,rodra001,01,CX,HR/7.3-H
@@ -1521,7 +1508,6 @@ play,6,0,cruzj004,31,BBBCB,W.2-3;1-2
 play,6,0,fletd001,00,,NP
 sub,florr001,"Randy Flores",1,0,1
 play,6,0,fletd001,21,CBBX,9/SF.3-H
-com,"Debut game for Randy Flores"
 play,6,0,wellv001,00,,NP
 sub,woods001,"Steve Woodard",1,0,1
 play,6,0,wellv001,20,BBX,5/L5
@@ -2329,7 +2315,6 @@ play,9,0,frymt001,22,CBBCX,63/G
 play,9,0,mcdoj003,00,,NP
 sub,snyde001,"Earl Snyder",0,9,11
 play,9,0,snyde001,32,BBCBFX,S8/8S
-com,"Debut game for Earl Snyder"
 play,9,0,lawtm002,10,BX,3/G#
 data,er,colob001,2
 data,er,valdi001,1
@@ -2638,9 +2623,6 @@ play,7,0,clayr001,00,X,63/G
 play,7,0,loftk001,32,FCFBBBX,43/G
 play,7,0,durhr001,02,SFX,S
 play,7,0,thomf001,11,BSX,8/F8
-com,"ej,haseb001,P,cedeg901,Bench jockeying"
-com,"Bill Haselman ejected by HP umpire Gary Cederstrom in 7th"
-com,"for bench jockeying"
 play,7,1,rodra001,00,X,8/F8
 play,7,1,palmr001,21,BBCX,9/F9
 play,7,1,greer001,11,BCX,5/FL
@@ -2783,7 +2765,6 @@ play,7,0,thomf001,10,BX,4/P4
 play,7,1,kaplg001,01,CX,8/L8
 play,7,1,menck001,12,SBFS,K
 play,7,1,haseb001,00,X,53/G
-com,"61 minute rain delay in the 8th"
 play,8,0,ordom001,00,,NP
 sub,seanr001,"Rudy Seanez",1,0,1
 play,8,0,ordom001,22,BBCFFFX,D7
@@ -2795,7 +2776,6 @@ play,8,0,aloms001,02,CSX,7/F7
 play,8,0,clayr001,00,,NP
 sub,florr001,"Randy Flores",1,0,1
 play,8,0,clayr001,10,BX,63/G
-com,"61 minute rain delay"
 play,8,1,murrc001,00,,NP
 sub,cataf001,"Frank Catalanotto",1,9,11
 play,8,1,cataf001,00,,NP
@@ -3643,11 +3623,6 @@ play,5,0,kielb001,12,FBFFB,SB2.1-3(E2/TH2)
 play,5,0,kielb001,32,FBFFBBX,S8.3-H
 play,5,0,piera001,22,FFBBS,K+SB2
 play,5,0,hockd001,32,BCSFFBBS,K
-com,"ej,narrj001,M,gibsg901,Running off field in intimidating manner"
-com,"ej,rodra001,P,gibsg901,Alex Rodriguez ejection"
-com,"$Alex Rodriguez ejected by 2B umpire Greg Gibson because"
-com,"he 'ran off the field in an intimidating manner' although"
-com,"he said nothing; Rangers Manager Jerry Narron ejected as well"
 play,5,1,younm003,10,BX,43/G
 play,5,1,rodra001,00,,NP
 sub,romaj002,"Jason Romano",1,3,11
@@ -3840,8 +3815,6 @@ play,5,0,guzmc001,02,FCX,43/G
 play,5,1,everc001,32,BSSFBFBS,K
 play,5,1,greet003,02,CSFX,S9
 play,5,1,lambm001,10,BX,S5.1-H(E3/TH3);B-3
-com,"$Koskie double-clutched, threw late, then 1Bman made"
-com,"wild throw into dugout trying to get Greene"
 play,5,1,younm003,31,BBFBX,63/G.3-H(UR)
 play,5,1,kaplg001,11,FBX,S9
 play,5,1,perrh001,00,,NP
@@ -3869,9 +3842,6 @@ play,8,0,guzmc001,02,CFX,3/G#
 play,8,0,miend001,30,BBBB,W
 play,8,0,ortid001,22,FFBBX,7/F7
 play,8,0,huntt001,10,BX,D8/8D.1-H;BXH(21)
-com,"scoring apparently correct. Throw home from 8 beat"
-com,"Hunter, but catcher couldn't handle it, however, he"
-com,"recovered and got ball to pitcher for out"
 play,8,1,younm003,00,,NP
 sub,jackm001,"Mike Jackson",0,0,1
 play,8,1,younm003,32,BCSBFBB,W
@@ -5574,7 +5544,6 @@ start,younm003,"Michael Young",1,8,4
 start,romaj002,"Jason Romano",1,9,8
 start,burbd001,"Dave Burba",1,0,1
 play,1,0,kenna001,11,FBX,7/F7
-com,"Debut game for John Lackey"
 play,1,0,erstd001,12,CCBFX,S
 play,1,0,glaut001,00,X,S7.1-2
 play,1,0,andeg001,10,BX,8/F8
@@ -6953,7 +6922,6 @@ play,3,1,gonzj002,00,X,HR/7
 play,3,1,palmr001,10,BX,HR/9
 play,3,1,rodri001,12,CCBX,1/L1
 play,3,1,perrh001,12,CBFFX,53/G
-com,"61 minute rain delay in the 4th"
 play,4,0,batit001,00,X,S7
 play,4,0,gibbj002,12,BFCX,S9.1-3
 play,4,0,cordm001,01,CX,46(1)3/GDP.3-H
@@ -7157,8 +7125,6 @@ sub,bauer001,"Rick Bauer",0,0,1
 play,8,1,younm003,10,BX,43/G
 play,8,1,rodra001,32,BBCBFX,63/G
 play,8,1,gonzj002,22,BCCBC,K/C
-com,"ej,gonzj002,P,nelsj901,Called third strike"
-com,"Juan Gonzalez ejected by HP umpire Jeff Nelson"
 play,9,0,gil-g001,00,,NP
 sub,romaj002,"Jason Romano",1,4,7
 play,9,0,gil-g001,00,,NP
@@ -7326,8 +7292,6 @@ play,8,1,gonzj002,21,BBCX,E5/G.1-2
 play,8,1,palmr001,00,,NP
 sub,romaj002,"Jason Romano",1,4,12
 play,8,1,palmr001,22,SBBCFX,8/F8
-com,"ej,narrj001,M,reynj901,Unknown reason"
-com,"Rangers Manager Jerry Narron ejected by HP umpire Jim Reynolds in 9th"
 play,9,0,gil-g001,00,,NP
 sub,younm003,"Michael Young",1,2,6
 play,9,0,gil-g001,00,,NP
@@ -7454,8 +7418,6 @@ play,6,1,palmr001,32,BBFBFH,HP.1-2
 play,6,1,rodri001,00,,NP
 sub,nelsj001,"Jeff Nelson",0,0,1
 play,6,1,rodri001,11,FBX,9/F9
-com,"ej,smits801,C,younl901,Balls and strikes"
-com,"Rangers coach Steve Smith ejected by HP umpire Larry Young in 7th"
 play,7,0,wilsd001,11,CBX,S8
 play,7,0,cirij001,00,X,3/BP3
 play,7,0,suzui001,10,BX,7/F7S
@@ -7972,9 +7934,6 @@ play,7,1,everc001,01,CH,HP.2-3;1-2
 play,7,1,haseb001,00,,NP
 sub,rodri001,"Ivan Rodriguez",1,7,11
 play,7,1,rodri001,00,X,64(1)/FO
-com,"ej,howea001,M,danlk901,Opponent's delay in sending up PH"
-com,"Athletics Manager Art Howe ejected by HP umpire Kerwin Danley"
-com,"because of the delay of the Rangers to send a PH to the plate"
 play,8,0,mabrj001,00,,NP
 sub,rodri001,"Ivan Rodriguez",1,7,2
 play,8,0,mabrj001,00,,NP
@@ -8261,7 +8220,6 @@ play,2,1,palmr001,12,BCFX,S9
 play,2,1,rodri001,22,FBBFFX,54(1)3/GDP
 play,3,0,jeted001,32,SBFBBB,W
 play,3,0,giamj001,01,FX,96(1)/FO
-com,"$Gonzalez dropped line drive, recovered for force"
 play,3,0,willb002,01,FX,54(1)3/GDP
 play,3,1,perrh001,20,BBX,4/P4
 play,3,1,river002,00,X,53/G
@@ -8421,7 +8379,6 @@ play,2,1,perrh001,22,SBBFFX,7/F7
 play,2,1,rodra001,12,BCFX,8/F8
 play,3,0,soria001,22,CFFBFFBFFS,K
 play,3,0,jeted001,11,FBX,D7
-com,"originally scored as E7"
 play,3,0,giamj001,22,CFBBX,1/L1
 play,3,0,willb002,01,SX,D/89.2-H
 play,3,0,ventr001,32,BCBBCFFFX,5/FL
@@ -10114,7 +10071,6 @@ play,8,1,younm003,32,BSBFFBX,8/F8
 play,8,1,lambm001,00,,NP
 sub,hartj002,"Jason Hart",1,2,11
 play,8,1,hartj002,30,BBBB,W
-com,"Debut game for Jason Hart"
 play,8,1,rodra001,32,CBCBBC,K/C
 play,8,1,palmr001,31,BBBCX,S8.1-2
 play,8,1,haseb001,00,,NP
@@ -11145,7 +11101,6 @@ start,river002,"Ruben Rivera",1,8,8
 start,sadld001,"Donnie Sadler",1,9,5
 start,parkc002,"Chan Ho Park",1,0,1
 play,1,0,vizcj001,10,BX,8/F8
-com,"Debut game for Jeriome Robertson"
 play,1,0,lorem001,01,CX,S8
 play,1,0,berkl001,12,FFFBFS,K
 play,1,0,bagwj001,12,CSBS,K
@@ -11377,7 +11332,6 @@ sub,nelsj001,"Jeff Nelson",0,0,1
 play,6,1,rodra001,12,CBCX,HR/8.3-H;1-H
 play,6,1,palmr001,32,BCBBSB,W
 play,6,1,rodri001,20,BBB,SB2
-com,"originally scored DI"
 play,6,1,rodri001,31,BBBCB,W
 play,6,1,everc001,22,FBFFBS,K
 play,7,0,wilsd001,00,,NP
@@ -11388,7 +11342,6 @@ play,7,0,suzui001,32,BCSFBBS,K
 play,7,1,blalh001,00,,NP
 sub,tayla001,"Aaron Taylor",0,0,1
 play,7,1,blalh001,00,X,7/F7
-com,"Debut game for Aaron Taylor"
 play,7,1,river002,22,BCFBS,K
 play,7,1,sadld001,00,X,53/G
 play,8,0,relad001,00,X,S8
@@ -11401,7 +11354,6 @@ play,8,1,lambm001,22,LBBFX,S8.1-2
 play,8,1,rodra001,00,,NP
 sub,younm003,"Michael Young",1,1,12
 play,8,1,rodra001,31,BBBCX,HR/8.2-H;1-H
-com,"A.Rodriguez' 53rd home run setting new season record for SS"
 play,8,1,palmr001,20,BBX,HR/9
 play,8,1,rodri001,00,,NP
 sub,baldj002,"James Baldwin",0,0,1
@@ -12156,9 +12108,6 @@ play,8,0,salmt001,30,BBBB,W
 play,8,0,andeg001,00,,NP
 sub,figgc001,"Chone Figgins",0,3,12
 play,8,0,andeg001,11,BFX,363(B)6(1)/GDP
-com,"$initial throw to 2B, but Rodriguez off bag; Figgins"
-com,"ran off the field, thinking he was out, then throw"
-com,"went back to Rodriguez"
 play,8,0,woots001,22,BBSFS,K
 play,8,1,palmr001,00,,NP
 sub,ochoa001,"Alex Ochoa",0,3,9
@@ -12263,7 +12212,6 @@ play,2,1,blalh001,22,BBCFX,7/F7D
 play,2,1,river002,12,CBSX,63/G
 play,3,0,molib001,00,,NP
 sub,menck001,"Kevin Mench",1,6,9
-com,"$Hollandsworth fouled ball off left knee in 2nd"
 play,3,0,molib001,22,CSBBS,K
 play,3,0,kenna001,22,BBCCFX,S8/8S
 play,3,0,ecksd001,21,BCBX,1(B)3(1)/LDP

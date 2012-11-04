@@ -546,13 +546,6 @@ play,5,1,kaplg001,02,FSS,K
 play,5,1,uptob001,31,FBBBB,W
 play,5,1,crawc002,02,1SSS,K
 play,6,0,thomj002,10,BX,5/P
-com,"ej,maddj801,M,gormb901,Arguing whether ball was foul"
-com,"$on the third pitch to Jermaine Dye, he hit a grounder down the 3B line;"
-com,"Willie Aybar fielded it and threw out Dye; however, Dye has hopped around and told"
-com,"HP umpire Brian Gorman that the ball had hit his foot; the umpires checked Dye's"
-com,"shoe and the ball and declared it a foul ball; Rays Manager Joe Maddon was ejected"
-com,"by Gorman; Maddon said that it is hard to get a black mark on a ball from a grey"
-com,"shoe; replays indicated that the umpires got the call correct"
 play,6,0,dye-j001,31,BBF.BX,S8/G
 play,6,0,konep001,00,X,S8/L.1-2
 play,6,0,piera001,12,BFFX,S9/L-.2-3;1-2
@@ -994,7 +987,6 @@ play,2,1,zobrb001,22,CSBBC,K
 play,2,1,grosg002,00,X,8/L
 play,3,0,andeb003,00,,NP
 sub,kaplg001,"Gabe Kapler",1,1,8
-com,"Rays center fielder B. J. Upton left the game due to an injured leg"
 play,3,0,andeb003,32,.BBCCBX,S7/L-
 play,3,0,getzc001,22,L>FB*BX,8/F
 play,3,0,lillb001,10,BX,S7/G.1-2
@@ -1448,7 +1440,6 @@ play,2,1,zobrb001,31,BBBCX,31/G
 play,2,1,iwama001,31,BBCBX,31/G
 play,2,1,kaplg001,12,BCSFS,K23
 play,3,0,drewj001,22,LSFBFBS,K
-com,"$Jason Bay fouled a pitch off his left ankle, bruising it"
 play,3,0,bay-j001,02,CFX,S6/G
 play,3,0,lowem001,10,B>B,SB2
 play,3,0,lowem001,21,B>B.CX,8/L
@@ -1499,7 +1490,6 @@ play,6,0,youkk001,31,.BFBBX,D7/L.3-H;2-H;1-3
 play,6,0,drewj001,12,CSBFFS,K
 play,6,0,bay-j001,00,,NP
 sub,bailj001,"Jeff Bailey",0,6,11
-com,"Red Sox left fielder Jason Bay left the game due to a left ankle bruise"
 play,6,0,bailj001,31,.BCBBX,4/P
 play,6,1,iwama001,00,,NP
 sub,bailj001,"Jeff Bailey",0,6,7
@@ -1519,9 +1509,6 @@ play,7,0,ortid001,32,CCBBFB>H,HP.1-2
 play,7,0,youkk001,32,CBFBB>B,W.3-H;2-3;1-2
 play,7,0,drewj001,00,,NP
 sub,nelsj002,"Joe Nelson",1,0,1
-com,"ej,hickj801,C,hirsj901,Balls and strikes"
-com,"Rays pitching coach Jim Hickey ejected by 3B umpire John Hirschbeck for arguing"
-com,"balls and strikes"
 play,7,0,drewj001,01,.CX,8/F
 play,7,1,longe001,01,CX,53/G
 play,7,1,penac001,31,BBBCB,W
@@ -2228,9 +2215,6 @@ play,3,0,derom001,32,SBBBFFB,W.3-H;2-3;1-2
 play,3,0,garkr001,22,CBFBFX,S8/G.3-H;2-3;1-2
 play,3,0,lapom001,11,C*BX,9/SF/F.3-H
 play,3,0,carrj001,21,CBBX,S8/L.2XH(82);1-2
-com,"ej,wedge001,M,gibsg901,Call at HP"
-com,"Indians Manager Eric Wedge ejected by HP umpire Greg Gibson for arguing close"
-com,"play at the plate"
 play,3,0,sizeg001,10,.BX,43/G
 play,3,1,iwama001,10,BX,8/F
 play,3,1,bartj001,21,BCBX,9/L
@@ -2516,19 +2500,9 @@ start,kaplg001,"Gabe Kapler",1,7,9
 start,iwama001,"Akinori Iwamura",1,8,4
 start,hernm002,"Michel Hernandez",1,9,2
 play,1,0,cabra002,12,CBFX,13/G
-com,"Debut game for David Huff"
 play,1,0,carrj001,01,CX,S7/L
 play,1,0,martv001,22,CCB*BX,7/F
 play,1,0,choos001,01,CX,63/G
-com,"$Indians manager Eric Wedge showed HP umpire Ted Barrett that two Rays players were"
-com,"listed as playing third base and no one was listed as the designated hitter on the Rays"
-com,"lineup that was given to the umpire before the game; since Ben Zobrist had just played"
-com,"third in the top of the first inning, he was the correct player and Evan Longoria, who"
-com,"was supposed to be the DH but was also listed as 3B, was out; according to AL rules,"
-com,"pitcher Andy Sonnanstine was inserted into the third spot to replace Longoria and the"
-com,"Rays lost the use of the DH for the game; since Longoria had not batted, the umpires"
-com,"decided that he was still available for use in the game and in fact played late in the game;"
-com,"MLB announced later in the month that Longoria should not have been allowed to play"
 play,1,1,uptob001,30,BBBB,W
 play,1,1,crawc002,01,C1,SB2
 play,1,1,crawc002,22,C1.BBFX,S8/L.2-H
@@ -3530,7 +3504,6 @@ play,4,1,kaplg001,00,,NP
 sub,tolbm001,"Matt Tolbert",0,5,6
 play,4,1,kaplg001,00,,NP
 sub,harrb001,"Brendan Harris",0,6,5
-com,"Twins third baseman Joe Crede left the game due to an injured knee"
 play,4,1,kaplg001,32,..BBCBFB,W
 play,4,1,hernm002,32,CS*B1FB*BX,46(1)3/GDP
 play,4,1,uptob001,22,CBFFBS,K
@@ -3643,7 +3616,6 @@ play,2,1,aybaw001,00,,NP
 sub,spand001,"Denard Span",0,1,9
 play,2,1,aybaw001,00,,NP
 sub,yound003,"Delmon Young",0,5,7
-com,"Twins right fielder Michael Cuddyer left the game due to an injured hand/wrist"
 play,2,1,aybaw001,12,..BSCX,63/G
 play,2,1,joycm001,21,TBBX,43/G
 play,2,1,grosg002,21,CBBX,7/F
@@ -4253,10 +4225,6 @@ play,4,1,zobrb001,21,BCBX,13/G.1-2
 play,4,1,joycm001,32,C*BCB*BB,W
 play,4,1,grosg002,22,BCSBS,K
 play,5,0,kendh001,12,CFBX,T9/F
-com,"$Kendrick's ball hit the yellow stripe at the top of the right field wall and"
-com,"bounced back towards the infield; Angels manager Mike Scioscia went out to"
-com,"discuss the play with acting crew chief Jeff Kellogg, who decided to watch the"
-com,"replay; after a 2:40 delay, the play was upheld"
 play,5,0,figgc001,01,CX,9/SF/F.3-H
 play,5,0,abreb001,02,CCS,K
 play,5,0,huntt001,10,BX,D8/L
@@ -4318,10 +4286,6 @@ play,9,1,dillj001,00,,NP
 sub,fuenb001,"Brian Fuentes",0,0,1
 play,9,1,dillj001,31,.CBBBB,W
 play,9,1,uptob001,32,BBCBCFX,8/F
-com,"ej,uptob001,P,wegnm901,Balls and strikes"
-com,"$Rays center fielder B. J. Upton was unhappy with a strike called on the fifth pitch"
-com,"of his at bat; after flying out, Upton was talking to HP umpire Mark Wegner while"
-com,"leaving the field and was ejected by Wegner"
 play,9,1,crawc002,11,.FBX,46(1)3/GDP
 data,er,weavj003,2
 data,er,olivd001,0
@@ -5342,7 +5306,6 @@ play,7,1,grosg002,12,CBCS,K
 play,7,1,navad001,12,CBFS,K
 play,8,0,ruizc001,00,,NP
 sub,aybaw001,"Willy Aybar",1,3,5
-com,"Rays third baseman Evan Longoria left the game due to an injured leg"
 play,8,0,ruizc001,12,.CBCFFFS,K23
 play,8,0,rollj001,22,BFCBFX,5/P
 play,8,0,victs001,02,CCX,63/G
@@ -5464,7 +5427,6 @@ play,4,1,uptob001,12,1>B.FSS,K
 play,4,1,crawc002,31,BBBCB,W
 play,4,1,burrp001,00,,NP
 sub,durbc001,"Chad Durbin",0,0,1
-com,"Phillies pitcher Antonio Bastardo left the game due to an injured neck/shoulder"
 play,4,1,burrp001,32,.BBCBC>C,K
 play,5,0,victs001,32,BBCFFBX,9/F
 play,5,0,dobbg001,31,FBBBX,S7/L
@@ -5506,11 +5468,6 @@ play,7,1,navad001,32,BCBSFFFBS,K
 play,7,1,uptob001,32,S*BBBFB,W
 play,7,1,crawc002,10,B1X,46(1)/FO/G.3-H
 play,7,1,burrp001,22,1CFF1BBX,DGR/78/F.1-3
-com,"$the ball bounced into the seats; crew chief Gary Cederstrom watched a replay to determine"
-com,"if there was fan interference as the ball was leaving the field; after a 1:36 delay, he said"
-com,"that the ball went into the seats cleanly and sent Carl Crawford, who had scored on the play,"
-com,"back to 3B; MLB Vice President Mike Port told Cederstrom the next day that he was not allowed"
-com,"to use replay in that circumstance"
 play,7,1,penac001,22,SBFBX,6/P
 play,8,0,utlec001,00,,NP
 sub,choar001,"Randy Choate",1,0,1
@@ -6043,7 +6000,6 @@ start,kaplg001,"Gabe Kapler",1,8,9
 start,navad001,"Dioner Navarro",1,9,2
 start,shiej002,"James Shields",1,0,1
 play,1,0,scutm001,12,CCBFX,S8/L
-com,"Debut game for Marc Rzepczynski"
 play,1,0,hilla001,01,FX,4/P
 play,1,0,linda001,02,CSFFS,K
 play,1,0,roles001,00,X,43/G
@@ -6620,7 +6576,6 @@ play,9,0,suzuk001,10,BX,S8/L
 play,9,0,giamj001,10,B>S,DI.1-2
 play,9,0,giamj001,31,B>S.BBB,W
 play,9,0,sweer001,01,CX,S6/G.2-3;1-2
-com,"Originally scored Fielder's choice, changed after game"
 play,9,0,ellim001,02,CSX,64(1)/FO/G
 data,er,mazzv001,2
 data,er,bresc001,1
@@ -6777,11 +6732,6 @@ play,9,0,hollm001,00,,NP
 sub,corml001,"Lance Cormier",1,0,1
 play,9,0,hollm001,10,.BX,D7/L
 play,9,0,custj001,22,BCFBN,OA.2-3(E2)
-com,"ej,maddj801,M,nelsj901,Call when catcher scooped ball with mask"
-com,"$catcher Michel Hernandez scooped the ball up with his mask; after HP umpire Jeff"
-com,"Nelson stopped play and told Matt Holiday to advance from second to third, Rays"
-com,"manager Joe Maddon argued the call; Maddon was ejected by Nelson; after the game,"
-com,"Maddon admitted that Nelson got the call correct"
 play,9,0,custj001,22,BCFBN..FS,K
 play,9,0,suzuk001,00,X,53/G
 play,9,0,crosb002,12,BFCS,K23
@@ -7450,7 +7400,6 @@ start,grosg002,"Gabe Gross",1,7,9
 start,navad001,"Dioner Navarro",1,8,2
 start,bartj001,"Jason Bartlett",1,9,6
 start,pricd001,"David Price",1,0,1
-com,"$HP umpire Charlie Reliford tore his right calf muscle sometime during the second inning"
 play,1,0,dejed001,22,CCBBFX,6/P
 play,1,0,bloow001,12,CFBFFFX,43/G
 play,1,0,butlb003,10,BX,S7/L
@@ -7476,9 +7425,6 @@ play,3,1,uptob001,01,FX,53/G
 play,3,1,crawc002,00,X,T9/L
 play,3,1,longe001,32,BBCSBF*B,W
 play,3,1,zobrb001,00,X,14/LDP.3X3(435)
-com,"$Zobrist hit a line drive off Ponson's left arm which was caught by second baseman"
-com,"Callaspo; Callaspo threw to first baseman Billy Butler who threw to third base to"
-com,"get Carl Crawford before he returned to the bag"
 play,4,0,teahm001,02,FCX,63/G
 play,4,0,calla001,12,BCSX,43/G
 play,4,0,olivm001,12,CBSX,D8/F
@@ -7508,11 +7454,9 @@ play,6,0,butlb003,31,SBBBB,W
 play,6,0,teahm001,02,CSC,K
 play,6,0,calla001,10,BX,4/P
 play,6,0,olivm001,00,X,54(1)/FO/G
-com,"umpchange,6,ump2b,(None)"
 play,6,1,bartj001,32,FBSBBFFFFS,K
 play,6,1,uptob001,32,BCBSBX,7/F
 play,6,1,crawc002,22,BCFBS,K
-com,"umpchange,7,umphome,holbs901"
 play,7,0,penab002,22,BBCFX,63/G
 play,7,0,gorda001,31,BBBCX,8/F
 play,7,0,betay001,22,BCBFFX,5/L
@@ -9853,8 +9797,6 @@ sub,grosg002,"Gabe Gross",1,7,12
 play,8,1,navad001,01,.CX,S9/L-.3-H;2-3;1-2
 play,8,1,uptob001,00,,NP
 sub,papej001,"Jonathan Papelbon",0,0,1
-com,"$Jonathan Papelbon was fined by MLB for taking too long to deliver his first"
-com,"pitch after coming into the game"
 play,8,1,uptob001,12,.BCFS,K
 play,8,1,bartj001,22,F*BBFX,8/L
 play,8,1,crawc002,32,FSBFBFB,NP
@@ -10150,8 +10092,6 @@ play,4,1,bartj001,31,BCBBX,53/G
 play,5,0,gonza002,22,CFBBFFS,K
 play,5,0,ellsj001,31,BBBCB,W
 play,5,0,pedrd001,10,BX,7/F
-com,"$B.J. Upton and Carl Crawford bump as Crwaford made the catch; Upton left with"
-com,"a sprained left ankle"
 play,5,0,martv001,00,,NP
 sub,zobrb001,"Ben Zobrist",1,3,8
 play,5,0,martv001,00,,NP
@@ -10613,7 +10553,6 @@ start,navad001,"Dioner Navarro",1,8,2
 start,peref001,"Fernando Perez",1,9,8
 start,daviw001,"Wade Davis",1,0,1
 play,1,0,granc001,32,BFBBFS,K
-com,"Debut game for Wade Davis"
 play,1,0,santr002,22,CFFBBC,K
 play,1,0,guilc001,12,CFBC,K
 play,1,1,bartj001,02,CCFX,8/F
@@ -11923,7 +11862,6 @@ play,7,0,scotl001,11,SBX,S9/L
 play,7,0,wietm001,02,SCX,8/F
 play,7,1,brigr001,00,,NP
 sub,montl001,"Luis Montanez",0,4,7
-com,"Orioles Luke Scott left the game due to an injured foot/ankle"
 play,7,1,brigr001,12,.BFSS,K
 play,7,1,bartj001,01,FX,D8/L
 play,7,1,crawc002,20,BB>C,SB3
@@ -12593,7 +12531,6 @@ play,6,0,teixm001,30,.IIII,IW
 play,6,0,rodra001,00,,NP
 sub,miraj001,"Juan Miranda",0,3,12
 play,6,0,rodra001,01,.FX,HR/89/F.3-H(UR);2-H(UR);1-H(UR);B-H(UR)
-com,"$Alex Rodriguez homered in his first and last at bats of the season"
 play,6,0,guzmf001,02,FCX,43/G
 play,6,1,burrp001,00,,NP
 sub,gardb001,"Brett Gardner",0,2,8

@@ -45,8 +45,6 @@ start,hannj001,"Jack Hannahan",1,7,5
 start,suzuk001,"Kurt Suzuki",1,8,2
 start,sweer001,"Ryan Sweeney",1,9,8
 start,blanj001,"Joe Blanton",1,0,1
-com,"$Opening Day in Tokyo; earliest date for a game in"
-com,"major league history"
 play,1,0,pedrd001,01,CX,S68/G
 play,1,0,youkk001,11,C*BX,53/G.1-2
 play,1,0,ortid001,00,X,5/P
@@ -127,10 +125,6 @@ play,9,0,lowem001,00,,NP
 sub,streh001,"Huston Street",1,0,1
 play,9,0,lowem001,10,.BX,8/F
 play,9,0,mossb001,22,CBSBX,HR/9/F
-com,"$the first career homer for Moss; second player"
-com,"in history to hit his first outside USA/Canada"
-com,"following Joey Hamilton, who homered in Mexico"
-com,"in 1996"
 play,9,0,varij001,22,CCBBS,K
 play,9,0,ellsj001,11,BFX,7/L
 play,9,1,suzuk001,00,,NP
@@ -150,9 +144,6 @@ play,10,0,pedrd001,00,X,34/SH/BG.1-2
 play,10,0,youkk001,12,CBFS,K
 play,10,0,ortid001,30,IIII,IW
 play,10,0,ramim002,12,S>FBX,D9/F.2-H;1-H
-com,"$Ramirez couldn't be bothered to run as he posed for"
-com,"what he thought was a homer. He just made it to second"
-com,"as Oakland did not cover the base"
 play,10,0,lowem001,00,,NP
 sub,dinal001,"Lenny DiNardo",1,0,1
 play,10,0,lowem001,00,,NP
@@ -231,7 +222,6 @@ start,hannj001,"Jack Hannahan",1,7,5
 start,suzuk001,"Kurt Suzuki",1,8,2
 start,denoc001,"Chris Denorfia",1,9,8
 start,hardr001,"Rich Harden",1,0,1
-com,"$Second game of two-game series played in Tokyo"
 play,1,0,pedrd001,02,CFS,K
 play,1,0,youkk001,22,BCSFBX,7/F
 play,1,0,ortid001,31,BTBBB,W
@@ -722,7 +712,6 @@ play,6,0,shopk001,10,BX,S9/L
 play,6,0,sizeg001,01,SX,S8/L-.1-2
 play,6,0,cabra002,20,BB,NP
 sub,garcj002,"Santiago Casilla",1,0,1
-com,"Athletics pitcher Justin Duchscherer left the game due to an injured arm"
 play,6,0,cabra002,31,BB.BCB,W.2-3;1-2
 play,6,0,peraj001,32,CS*BBBFFFX,54(1)3/GDP.3-H(NR);2-3
 play,6,0,hafnt001,02,CSC,K
@@ -845,7 +834,6 @@ play,3,1,sweem002,22,BFCBX,8/F
 play,3,1,crosb002,32,FBBBFFX,9/F
 play,4,0,peraj001,00,,NP
 sub,hannj001,"Jack Hannahan",1,8,5
-com,"Athletics second baseman Donnie Murphy left the game due to an injured hand/wrist"
 play,4,0,peraj001,10,.BX,9/F
 play,4,0,garkr001,01,CX,S6/P
 play,4,0,gutif001,00,X,8/F
@@ -3768,10 +3756,6 @@ play,6,0,ortid001,31,BTBBB,W
 play,6,0,ramim002,11,SBX,3/P3F
 play,6,0,lowem001,21,*BFBX,D8/L.1-3
 play,6,0,youkk001,11,BFX,3/P3F
-com,"ej,magad001,C,tscht901,Yelling from dugout about not granting time"
-com,"$J.D. Drew asked for time to apply some pine tar to his bat but"
-com,"HP umpire Tim Tschida said no; Boston hitting coach Dave Magadan"
-com,"yelled from the dugout and was ejected by Tschida"
 play,6,0,drewj001,32,CFBF.*BBS,K
 play,6,1,bartd001,32,SBBBFB,W
 play,6,1,suzuk001,21,*BBCX,D7/L.1-3
@@ -4189,7 +4173,6 @@ play,5,0,ecksd001,11,CBX,9/L-
 play,5,0,stews002,11,FBX,53/G
 play,5,1,thomf001,00,,NP
 sub,sweem002,"Mike Sweeney",1,4,11
-com,"Athletics designated hitter Frank Thomas left the game due to an injured leg"
 play,5,1,sweem002,12,.CSBS,K
 play,5,1,sweer001,11,BFX,31/G
 play,5,1,browe001,11,BFX,63/G
@@ -4357,7 +4340,6 @@ play,8,0,scutm001,00,,NP
 sub,davir003,"Rajai Davis",1,5,8
 play,8,0,scutm001,00,,NP
 sub,gaudc001,"Chad Gaudin",1,0,1
-com,"Athletics center fielder Ryan Sweeney left the game due to an injured foot/ankle"
 play,8,0,scutm001,11,..BCX,7/F
 play,8,0,wilkb002,20,BBX,3/G
 play,8,0,barar001,32,BBBCCX,5/P
@@ -5448,7 +5430,6 @@ play,9,0,iztum001,00,,NP
 sub,petig001,"Gregorio Petit",1,2,6
 play,9,0,iztum001,00,,NP
 sub,streh001,"Huston Street",1,0,1
-com,"Athletics shortstop Bobby Crosby left the game due to an injured foot/ankle"
 play,9,0,iztum001,11,..CBX,63/G
 play,9,0,kendh001,10,BX,S6/G
 play,9,0,andeg001,00,X,S8/L.1-3
@@ -5547,7 +5528,6 @@ start,buckt001,"Travis Buck",1,7,9
 start,gonzc001,"Carlos Gonzalez",1,8,8
 start,suzuk001,"Kurt Suzuki",1,9,2
 start,eveld001,"Dana Eveland",1,0,1
-com,"$Debut for umpire D.J. Reyburn"
 play,1,0,damoj001,01,CX,13/G
 play,1,0,jeted001,31,FBBBB,W
 play,1,0,abreb001,22,CCB1B1X,S7/G.1-3
@@ -6197,7 +6177,6 @@ play,4,0,cantj001,21,FBBX,S9/L.3-H;2-3;1-2
 play,4,0,helmw001,22,FBBCFFX,46(1)3/GDP
 play,4,1,crosb002,00,,NP
 sub,andir001,"Robert Andino",0,9,8
-com,"Marlins center fielder Alfredo Amezaga left the game due to an injured groin"
 play,4,1,crosb002,20,.BBX,D7/F
 play,4,1,hannj001,00,X,43/G.2-3
 play,4,1,suzuk001,00,X,8/SF/L.3-H
@@ -6382,17 +6361,12 @@ sub,millj004,"Jai Miller",0,6,8
 play,7,1,browe001,00,,NP
 sub,rossc001,"Cody Ross",0,8,7
 play,7,1,browe001,30,..BBBB,W
-com,"Debut game for Jai Miller"
 play,7,1,hannj001,00,,NP
 sub,davir003,"Rajai Davis",1,6,12
 play,7,1,hannj001,00,.X,D7/F.1-3
 play,7,1,gonzc001,22,BSFBX,2/P5F
 play,7,1,murpd004,22,BCBSFFFS,K
 play,7,1,ellim001,32,CBBSBC,K
-com,"ej,ellim001,P,barkl901,Called third strike"
-com,"ej,gereb001,M,barkl901,Called third strike on Ellis"
-com,"Athletics second baseman Mark Ellis and manager Bob Geren ejected by"
-com,"HP umpire Lance Barksdale"
 play,8,0,hermj001,00,,NP
 sub,bartd001,"Daric Barton",1,1,3
 play,8,0,hermj001,00,,NP
@@ -6511,8 +6485,6 @@ play,5,0,felip001,32,BBBCFS,K
 play,5,0,ruizc001,02,CCC,K
 play,5,0,rollj001,21,BFBX,13/G
 play,5,1,browe001,12,CCBX,6/P
-com,"ej,vanbt001,C,nelsj901,Balls and strikes"
-com,"Athletics Batting Coach Ty Van Burkleo ejected by HP umpire Jeff Nelson"
 play,5,1,hannj001,32,BCCF.BBX,8/F
 play,5,1,gonzc001,12,SCBFFC,K
 play,6,0,victs001,11,BCX,3/G
@@ -6768,7 +6740,6 @@ play,2,0,howar001,00,,NP
 sub,gonzc001,"Carlos Gonzalez",1,7,9
 play,2,0,howar001,00,,NP
 sub,davir003,"Rajai Davis",1,2,8
-com,"Athletics center fielder Ryan Sweeney left the game due to an injured foot/ankle"
 play,2,0,howar001,00,..X,7/F
 play,2,0,dobbg001,01,CX,8/F
 play,2,0,victs001,22,BBFFFS,K
@@ -7581,7 +7552,6 @@ play,3,0,betay001,11,CBX,63/G
 play,3,0,suzui001,32,BFFBBX,63/G
 play,3,1,murpd004,00,,NP
 sub,rowlr002,"Ryan Rowland-Smith",0,0,1
-com,"Mariners pitcher Miguel Batista left the game due to an injured groin"
 play,3,1,murpd004,12,CBS..FFX,63/G
 play,3,1,bartd001,00,X,S8/G
 play,3,1,ellim001,02,CFX,FC4.1X2(4E6);B-1
@@ -7747,7 +7717,6 @@ play,4,0,ibanr001,00,,NP
 sub,davir003,"Rajai Davis",1,2,8
 play,4,0,ibanr001,00,,NP
 sub,gonzc001,"Carlos Gonzalez",1,6,9
-com,"Athletics center fielder Ryan Sweeney left the game due to an injured hand/wrist"
 play,4,0,ibanr001,21,..BCBX,S8/G+
 play,4,0,belta001,22,CBFBX,8/F
 play,4,0,vidrj001,12,TCFB1X,9/F
@@ -8538,8 +8507,6 @@ play,2,1,davir003,02,FFS,K
 play,3,0,younm003,00,X,63/G
 play,3,0,hamij003,02,CFS,K
 play,3,0,bradm001,22,CBBFFC,K
-com,"ej,bradm001,P,mealj901,Called third strike"
-com,"Rangers designated hitter Milton Bradley ejected by HP umpire Jerry Meals"
 play,3,1,ellim001,00,X,7/F
 play,3,1,gonzc001,21,BCBX,S8/G
 play,3,1,suzuk001,11,CBX,S9/L.1-2
@@ -9284,7 +9251,6 @@ play,2,1,gonzc001,32,BBCFBS,K
 play,2,1,suzuk001,12,CFFBH,HP
 play,2,1,bartd001,32,BFF*BBT,K
 play,2,1,pennc001,11,CBX,54(1)/FO/G
-com,"Debut game for Cliff Pennington"
 play,3,0,navad001,12,BCFX,9/L
 play,3,0,zobrb001,30,BBBB,W
 play,3,0,bartj001,12,BCCX,D7/F.1-3
@@ -9575,7 +9541,6 @@ start,galls001,"Sean Gallagher",1,0,1
 play,1,0,iwama001,32,CBBBFS,K
 play,1,0,uptob001,22,FSBBFX,S7/L-
 play,1,0,penac001,20,BBX,9/FDP.1X1(916)
-com,"$Appeal play"
 play,1,1,ellim001,11,CBX,T7/F+
 play,1,1,gonzc001,00,X,HR/78/F+.3-H
 play,1,1,thomf001,01,CX,6/P
@@ -9679,8 +9644,6 @@ sub,pennc001,"Cliff Pennington",1,9,12
 play,9,1,ellim001,12,.BCLX,1/SH/BG.1-2
 play,9,1,gonzc001,00,,NP
 sub,balfg001,"Grant Balfour",0,0,1
-com,"Rays pitcher Troy Percival left the game due to a sprained right knee that he hurt"
-com,"while making the play on the Mark Ellis bunt"
 play,9,1,gonzc001,22,.BBSSS,K
 play,9,1,thomf001,11,CBX,S9/L+.2-H
 play,9,1,custj001,00,,NP
@@ -10716,7 +10679,6 @@ play,2,1,suzuk001,02,CSX,D7/F
 play,2,1,bartd001,22,BCFFBFFX,7!/F
 play,2,1,hannj001,22,CBBFC,K
 play,2,1,cunna001,02,FCS,K
-com,"Debut game for Aaron Cunningham"
 play,3,0,puntn001,22,BBCFX,8/F
 play,3,0,mauej001,21,BBTX,43/G
 play,3,0,mornj001,10,BX,6/P
@@ -10949,7 +10911,6 @@ play,8,0,ariaj001,01,.CX,8/F
 play,8,0,younm003,12,CBFX,S68/G
 play,8,0,hamij003,00,,NP
 sub,boggb001,"Brandon Boggs",0,3,11
-com,"Rangers center fielder Josh Hamilton left the game due to an injured foot/ankle"
 play,8,0,boggb001,22,.FBCBX,S8/L.1-2
 play,8,0,byrdm001,22,CBBFFS,K
 play,8,0,cruzn002,12,BCCX,7/F
@@ -11187,14 +11148,6 @@ play,3,1,davir003,01,FX,63/G
 play,3,1,pennc001,00,X,8/F
 play,4,0,hamij003,00,X,S9/G
 play,4,0,bradm001,22,BFFF*BX,64(1)3/GDP
-com,"ej,bradm001,P,campa902,Call at 1B"
-com,"Rangers designated hitter Milton Bradley thought he beat the relay at"
-com,"1B and argued with 1B umpire Angel Campos; Rangers manager Ron Washington"
-com,"came out to discuss the play briefly; Bradley continued to argue from the"
-com,"dugout and was ejected by Campos; Bradley came back on the field to yell"
-com,"at Campos while 1B coach Gary Pettis stepped between the two; crew chief"
-com,"Tim McClelland ran to 1B from the plate and Washington came back out to"
-com,"help"
 play,4,0,byrdm001,11,.BFX,9/F
 play,4,1,sweer001,12,BCFX,D98/F
 play,4,1,custj001,10,BX,HR/78/F.2-H
@@ -11349,8 +11302,6 @@ play,3,1,cunna001,31,LBBBX,8/F
 play,3,1,crosb002,22,CCFFBFBX,46(1)/FO/G.B-2(E6/TH1)
 play,3,1,bartd001,22,FBFBC,K
 play,4,0,lairg001,32,CBBFBC,K
-com,"ej,lairg001,P,campa902,Called third strike"
-com,"Rangers designated hitter Gerald Laird ejected by HP umpire Angel Campos"
 play,4,0,davic003,22,.BCFBFFS,K
 play,4,0,teagt001,00,H,HP
 play,4,0,ariaj001,02,CFX,13/G
@@ -11671,7 +11622,6 @@ play,5,1,patte001,00,>X,36(1)/FO/BG
 play,5,1,buckt001,02,11C1>FX,S9/G.1-2
 play,5,1,cunna001,00,,NP
 sub,crosb002,"Bobby Crosby",1,9,12
-com,"Athletics Eric Patterson left the game due to an injured leg"
 play,5,1,cunna001,32,.BSBC*BX,D8/F.2-H;1-3
 play,5,1,sweer001,30,IIII,IW
 play,5,1,custj001,32,BCBBFS,K
@@ -12203,13 +12153,6 @@ play,8,1,crosb002,11,BFX,54(1)/FO/G
 play,9,0,valbl001,00,,NP
 sub,ziegb001,"Brad Ziegler",1,0,1
 play,9,0,valbl001,32,.BBCFBX,D9/L9L.BX3(945)
-com,"ej,riggj801,M,millb901,Call at 3B"
-com,"$Valbuena slid into third head first just ahead of the tag; it"
-com,"appeared his hand might have touched the base but came off when"
-com,"he was tagged; Mariners third base coach Sam Perlozzo immediately"
-com,"objected to the out call and had to be led away from 3B umpire"
-com,"Bill Miller; manager Jim Riggleman also objected to the call and"
-com,"was ejected by Miller"
 play,9,0,suzui001,31,.BBBCB,W
 play,9,0,betay001,00,X,54(1)3/GDP
 data,er,silvc001,3

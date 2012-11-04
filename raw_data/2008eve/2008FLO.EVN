@@ -234,7 +234,6 @@ play,4,0,castl001,10,BX,31/G
 play,4,1,tream001,02,CCX,53/G
 play,4,1,ameza001,00,,NP
 sub,sosaj002,"Jorge Sosa",0,9,1
-com,"Mets pitcher Pedro Martinez left the game due to an injured leg"
 play,4,1,ameza001,31,.BCBBX,DGR/89/L
 play,4,1,pintr001,00,X,54/SH/BG.2-3
 play,4,1,ramih003,30,BBII,IW
@@ -953,7 +952,6 @@ sub,kensl001,"Logan Kensing",1,9,1
 play,9,0,grabj002,00,,NP
 sub,bixlb001,"Brian Bixler",0,9,11
 play,9,0,bixlb001,12,..BSFS,K
-com,"Debut game for Brian Bixler"
 play,9,0,morgn001,22,BFBFFX,5/P5F
 play,9,0,rival001,10,BX,53/G
 play,9,1,gonzl001,00,,NP
@@ -1710,7 +1708,6 @@ play,6,1,rossc001,00,,NP
 sub,coloj001,"Jesus Colome",0,9,1
 play,6,1,rossc001,31,.BBBCX,8/SF/F.3-H;2-3
 play,6,1,rabem001,00,X,S4/G.3-H
-com,"originally scored E4, changed to single next day"
 play,6,1,pintr001,12,BLOX,14/SH/BG.1-2
 play,6,1,ramih003,32,FBCBBC,K
 play,7,0,milll002,12,LBFX,63/G
@@ -2208,7 +2205,6 @@ play,8,0,kentj001,00,,NP
 sub,millj002,"Justin Miller",1,9,1
 play,8,0,kentj001,00,,NP
 sub,hu--c001,"Chin-Lung Hu",0,4,11
-com,"Marlins pitcher Matt Lindstrom left the game due to an injured back"
 play,8,0,hu--c001,22,..BSSBX,E4/TH/G.B-2
 play,8,0,martr004,32,FCB*B*BB,W
 play,8,0,lonej001,00,X,7/F
@@ -2655,7 +2651,6 @@ play,6,1,rabem001,02,.CSX,6(1)/FO/G
 play,7,0,edmoj001,00,X,S7/L
 play,7,0,greek002,00,,NP
 sub,crabc001,"Callix Crabbe",0,6,11
-com,"Greene left with irritation to his left eye"
 play,7,0,crabc001,21,.BBF>B,CS2(26)
 play,7,0,crabc001,32,.BBF>B.FS,K
 play,7,0,bardj001,11,CBX,31/G
@@ -2812,8 +2807,6 @@ play,7,0,bardj001,12,CSBT,K
 play,7,0,crabc001,32,BSFBBB,W
 play,7,0,camek001,00,,NP
 sub,hubej001,"Justin Huber",0,9,11
-com,"ej,blacb001,M,holbs901,Balls and strikes"
-com,"Padres Manager Bud Black ejected by HP umpire Sam Holbrook"
 play,7,0,hubej001,11,.BS11.X,54(1)/FO/G
 play,7,1,ramih003,00,,NP
 sub,ruscg001,"Glendon Rusch",0,9,1
@@ -2937,8 +2930,6 @@ play,3,1,ramih003,31,CBBBB,W
 play,3,1,jacom001,10,11BX,HR/8/F.1-H
 play,3,1,cantj001,12,BFCFS,K
 play,4,0,camem001,22,CFBBC,K
-com,"ej,yoste001,M,coope901,Called third strike on Cameron"
-com,"Brewers Manager Ned Yost ejected by HP umpire Eric Cooper"
 play,4,0,braur002,00,.X,D7/L+
 play,4,0,fielp001,00,X,3!/G+.2-3
 play,4,0,hartc001,01,FX,9/F
@@ -3078,7 +3069,6 @@ play,3,1,ramih003,32,CBTBBB,W
 play,3,1,jacom001,30,BBBX,D8/F+.2-H;1-H
 play,3,1,cantj001,00,,NP
 sub,helmw001,"Wes Helms",1,4,12
-com,"Marlins first baseman Mike Jacobs left the game due to an injured leg"
 play,3,1,cantj001,01,.CX,7/L
 play,4,0,weekr001,00,,NP
 sub,helmw001,"Wes Helms",1,4,3
@@ -3767,7 +3757,6 @@ play,9,0,teahm001,32,.CBFBFBX,6/P
 play,9,0,gobbj001,00,,NP
 sub,tupmm001,"Matt Tupman",0,6,11
 play,9,0,tupmm001,10,.BX,S9/L
-com,"Debut game for Matt Tupman"
 play,9,0,olivm001,11,BFX,4/LDP.1X1(43)
 play,9,1,cantj001,00,,NP
 sub,tupmm001,"Matt Tupman",0,6,2
@@ -4280,7 +4269,6 @@ play,4,0,durhr001,00,,NP
 sub,jonej003,"Jacque Jones",1,8,9
 play,4,0,durhr001,00,,NP
 sub,waecd001,"Doug Waechter",1,9,1
-com,"Marlins center fielder Brett Carroll left the game due to an injured neck/shoulder"
 play,4,0,durhr001,10,..BX,8/F
 play,4,0,aurir001,21,BBCX,D8/F
 play,4,0,vizqo001,11,BCX,9/F
@@ -5114,7 +5102,6 @@ start,rossc001,"Cody Ross",1,7,8
 start,rabem001,"Mike Rabelo",1,8,2
 start,tuckr001,"Ryan Tucker",1,9,1
 play,1,0,hairj002,01,CX,D9/L
-com,"Debut game for Ryan Tucker"
 play,1,0,brucj001,22,SBFBS,K
 play,1,0,grifk002,31,BFBBI,IW
 play,1,0,philb001,11,2BF>X,64(1)3/GDP
@@ -5276,12 +5263,10 @@ play,1,0,brucj001,02,C1FC,K
 play,1,0,grifk002,10,B1>B,SB2
 play,1,0,grifk002,20,B1>B.>B,SB3
 play,1,0,grifk002,31,B1>B.>B.SX,HR/9/F.3-H
-com,"$home run #600 for Griffey; he is the sixth player to reach that milestone"
 play,1,0,philb001,11,SBX,4/P
 play,1,0,dunna001,22,CSBBX,6/P
 play,1,1,ramih003,00,,NP
 sub,janip001,"Paul Janish",0,1,6
-com,"Reds Jerry Hairston left the game due to an injured hand/wrist"
 play,1,1,ramih003,11,.BFX,63/G
 play,1,1,hermj001,22,CBSBS,K
 play,1,1,cantj001,12,CBSS,K
@@ -5374,8 +5359,6 @@ play,8,1,gonzl001,30,BBBB,W
 play,8,1,rossc001,00,,NP
 sub,weatd001,"David Weathers",0,3,1
 play,8,1,rossc001,12,.BSFC,K
-com,"ej,rossc001,P,hohnb901,Called third strike"
-com,"Marlins center fielder Cody Ross ejected by HP umpire Bill Hohn"
 play,8,1,tream001,12,.CFBX,9!/F9LF
 play,9,0,dunna001,00,,NP
 sub,pintr001,"Renyel Pinto",1,7,1
@@ -5738,7 +5721,6 @@ start,gonzl001,"Luis Gonzalez",1,6,7
 start,tream001,"Matt Treanor",1,7,2
 start,ameza001,"Alfredo Amezaga",1,8,4
 start,olses001,"Scott Olsen",1,9,1
-com,"$36 minute rain delay at start of game"
 play,1,0,rollj001,21,BFBX,7!/F
 play,1,0,victs001,12,CBFFX,8/F
 play,1,0,utlec001,01,CX,S9/G
@@ -6500,7 +6482,6 @@ play,4,0,uptoj001,00,X,9/F
 play,4,0,hudso001,10,BX,4/P
 play,4,0,jackc002,12,CCFBS,K
 play,4,1,uggld001,00,X,S7/G.BX2(743)
-com,"$Uggla turned his ankle as he rounded the 1B bag"
 play,4,1,jacom001,21,BBCX,D7/F
 play,4,1,rossc001,02,CFB,WP.2-3
 play,4,1,rossc001,12,CFB.S,K
@@ -6508,7 +6489,6 @@ play,4,1,tream001,30,IIII,IW
 play,4,1,milla002,01,CX,13/G
 play,5,0,reynm001,00,,NP
 sub,andir001,"Robert Andino",1,5,4
-com,"Marlins second baseman Dan Uggla left the game due to an injured foot/ankle"
 play,5,0,reynm001,21,.BFBX,D7/L
 play,5,0,snydc002,22,BCFBX,8/F.2-3
 play,5,0,younc004,12,BFFX,D9/L.3-H
@@ -6951,7 +6931,6 @@ start,andir001,"Robert Andino",1,7,4
 start,tream001,"Matt Treanor",1,8,2
 start,hendm001,"Mark Hendrickson",1,9,1
 play,1,0,bernr001,32,CLBBBFFT,K
-com,"Debut game for Collin Balester"
 play,1,0,guzmc001,10,BX,S9/F
 play,1,0,dukee001,11,SBX,4/L
 play,1,0,yound001,12,TFB1X,13/G
@@ -7295,10 +7274,6 @@ play,4,1,jacom001,12,FFBX,S9/L+.2-3;1-2
 play,4,1,uggld001,31,BBBFX,64(1)3/GDP.3-H(NR);2-3
 play,4,1,willj004,22,FBBFFX,3/P3F
 play,5,0,rollj001,12,BCCX,8/L+
-com,"ej,manuc101,M,joycj901,Strike call on pitch that hit batter"
-com,"$Shane Victorino tried to bunt a ball that hit his leg; the pitch"
-com,"was called a strike and Phillies Manager Charlie Manuel objected;"
-com,"he was ejected by HP umpire Jim Joyce"
 play,5,0,victs001,02,M.FX,8/F
 play,5,0,utlec001,12,CCBFX,D9/L+
 play,5,0,howar001,30,IIII,IW
@@ -7626,9 +7601,6 @@ play,5,1,rossc001,02,CCX,8/F
 play,5,1,bakej002,12,BCCS,K
 play,6,0,burrp001,12,FFFBX,S7/L
 play,6,0,jenkg001,00,X,46(1)3/GDP
-com,"$Jenkins bat broke and the heavy end came up to hit"
-com,"him on the right shoulder. He went down in much pain"
-com,"and left the game"
 play,6,0,felip001,02,CFC,K
 play,6,1,johnj009,00,,NP
 sub,wertj001,"Jayson Werth",0,6,9
@@ -8075,7 +8047,6 @@ play,4,0,hudst001,12,CBSX,13/G.2-3
 play,4,0,blang001,22,BBCCFX,S8/L.3-H
 play,4,0,escoy001,02,1SF1X,D8/F.1-H
 play,4,0,jonec004,22,BFFBX,53/G
-com,"$Braves third baseman Chipper Jones pulled hamstring running out grounder"
 play,4,1,hermj001,00,,NP
 sub,pradm001,"Martin Prado",0,3,5
 play,4,1,hermj001,10,.BX,3/G
@@ -8108,7 +8079,6 @@ play,7,0,mccab002,22,FC*B*BX,S9/G.2-H;1-3
 play,7,0,franj004,00,X,64(1)/FO/G
 play,7,1,uggld001,00,,NP
 sub,boyeb001,"Blaine Boyer",0,9,1
-com,"Braves pitcher Tim Hudson left the game due to an injured elbow"
 play,7,1,uggld001,00,.X,63/G
 play,7,1,gonzl001,11,BCX,7/F
 play,7,1,rossc001,22,CCFFBBFFC,K
@@ -8248,7 +8218,6 @@ play,5,1,bakej002,20,BBX,HR/9/L+
 play,5,1,nolar001,12,BCSX,9/F
 play,5,1,ramih003,00,,NP
 sub,munic001,"Carlos Muniz",0,9,1
-com,"Mets pitcher John Maine left the game due to an injured neck/shoulder"
 play,5,1,ramih003,20,.BBX,D8/F
 play,5,1,hermj001,31,CB*BBX,5!/P5F
 play,5,1,cantj001,11,FBX,9/F
@@ -11310,7 +11279,6 @@ play,3,1,bakej002,22,FBBFX,7/F-
 play,4,0,escoy001,21,BFBX,S8/G
 play,4,0,mccab002,00,,NP
 sub,lillb001,"Brent Lillibridge",0,3,12
-com,"Braves shortstop Yunel Escobar left the game due to an injured neck/shoulder"
 play,4,0,mccab002,12,.F1BSX,7/F
 play,4,0,infao001,11,11LPX,S7/G+.1-2
 play,4,0,johnk003,00,X,T8/L+.2-H;1-H
@@ -11328,9 +11296,6 @@ play,4,1,mcphd001,32,S*B1CB>B.>B,W
 play,4,1,willj004,01,SX,S8/G.2-H;1-3
 play,4,1,hermj001,12,CBCFFFFX,S8/L-.3-H;1-2
 play,4,1,volsc001,22,BFFBX,53/G
-com,"ej,cox-b103,M,wegnm901,Balls and strikes"
-com,"$Braves Manager Bobby Cox argued about the strike call on the first pitch"
-com,"to Martin Prado and was ejected by HP umpire Mark Wegner"
 play,5,0,pradm001,22,C.C*BBX,43/G
 play,5,0,lillb001,32,BFBBCB,W
 play,5,0,mccab002,00,X,6/L
@@ -11475,7 +11440,6 @@ play,3,1,ramih003,31,BFBBB,W
 play,3,1,bakej002,00,>S,SB2
 play,3,1,bakej002,21,>S.BBX,FC1.2X3(1E6);B-1
 play,3,1,cantj001,00,,OA.3XH(32)
-com,"Previous two plays are really one, must separate for now"
 play,4,0,harrw001,12,CSBS,K
 play,4,0,nievw001,12,BFCX,S7/G+
 play,4,0,marts001,11,LB1X,16(1)/FO/BG.B-2(E6/TH1)
@@ -11500,7 +11464,6 @@ play,6,1,ramih003,32,BSBFBB,W
 play,6,1,bakej002,22,CC1BP>F>B,SB2
 play,6,1,bakej002,32,CC1BP>F>B.FX,FC1/G.2X3(1E6);B-2
 play,6,1,cantj001,00,,OA.3-H(NR)(UR)
-com,"Previous two plays are really one, must separate for now"
 play,6,1,cantj001,32,FBBBFFFB,W
 play,6,1,jacom001,00,,NP
 sub,mannc001,"Charlie Manning",0,9,1
@@ -11845,7 +11808,6 @@ play,8,1,willj004,11,.CBX,S7/G.3-H;1-2
 play,8,1,ramih003,30,BBBB,W.2-3;1-2
 play,8,1,bakej002,21,BFBX,E3/FO/G.3-H(UR)(NR);2-3;1-2
 play,8,1,cantj001,12,CBFFX,9/FDP.3X3(925)
-com,"Marlins runner Josh Willingham called out on appeal for leaving third too soon"
 play,9,0,bonie001,00,,NP
 sub,cantj001,"Jorge Cantu",1,3,3
 play,9,0,bonie001,00,,NP
@@ -11931,7 +11893,6 @@ play,1,0,tejam001,21,CBBX,E5/G.B-2
 play,1,0,berkl001,10,BX,3/G.2-3
 play,1,0,blumg001,00,X,5/P5F
 play,1,1,ramih003,00,X,S6
-com,"Originally E6, changed two days later"
 play,1,1,bakej002,12,CB11SFX,S8/L.1-2
 play,1,1,cantj001,31,BCBBX,HR/7/F.2-H;1-H
 play,1,1,jacom001,00,X,43/G
@@ -12092,7 +12053,6 @@ play,2,1,jacom001,21,.BFBX,46(1)/FO/G
 play,3,0,quinh001,01,CX,53/G
 play,3,0,cassj001,12,CSBC,K
 play,3,0,matsk001,12,BCCFX,E6/G-
-com,"originally S6, changed to single on appeal on 9-24-2008"
 play,3,0,tejam001,12,CSBFX,S8/G+.1-2
 play,3,0,berkl001,22,BCSBX,6/P
 play,3,1,uggld001,31,BBSBB,W
@@ -12117,7 +12077,6 @@ play,5,0,quinh001,00,,NP
 sub,maybc001,"Cameron Maybin",1,1,8
 play,5,0,quinh001,00,,NP
 sub,ameza001,"Alfredo Amezaga",1,8,6
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured neck/shoulder"
 play,5,0,quinh001,00,..X,13/G
 play,5,0,byrdt001,00,,NP
 sub,saccm001,"Mark Saccomanno",0,9,11
@@ -12188,13 +12147,11 @@ play,8,1,cantj001,01,CX,HR/7/F+.3-H;2-H;1-H
 play,8,1,kensl001,00,,NP
 sub,sancg001,"Gaby Sanchez",1,4,11
 play,8,1,sancg001,12,.CFBX,63!/G
-com,"Debut game for Gaby Sanchez"
 play,9,0,pench001,00,,NP
 sub,delgj001,"Jesus Delgado",1,3,1
 play,9,0,pench001,00,,NP
 sub,sancg001,"Gaby Sanchez",1,4,3
 play,9,0,pench001,31,..BBCBB,W
-com,"Debut game for Jesus Delgado"
 play,9,0,bourm001,11,BCX,3!6!(1)/FO/G
 play,9,0,quinh001,02,CCB,WP.1-2
 play,9,0,quinh001,22,CCB.FBFX,8/F
@@ -12642,7 +12599,6 @@ play,6,0,victs001,12,CFBS,K
 play,6,0,dobbg001,11,BFX,S7/L.2-H;1-2
 play,6,0,ruizc001,20,BB,NP
 sub,kensl001,"Logan Kensing",1,9,1
-com,"Marlins pitcher Anibal Sanchez left the game due to an injured leg"
 play,6,0,ruizc001,30,BB..BB,W.2-3;1-2
 play,6,0,blanj001,00,,NP
 sub,jenkg001,"Geoff Jenkins",0,9,11

@@ -67,9 +67,6 @@ play,3,0,bradm001,32,FBFBBB,W
 play,3,0,vizqo001,10,BX,S9/G.1-2
 play,3,0,lawtm002,00,X,E3/TH/FO/G.2-H(NR)(UR);1-2;B-1
 play,3,0,burke001,12,BCSFFX,S9/F.2-H;1-3
-com,"$Burks fly lost in the snow storm; play halted for 13"
-com,"minutes and Bal Mgr Hargrove argued that the single"
-com,"should not count"
 play,3,0,garck002,20,BBX,8/SF.3-H(UR)
 play,3,0,hafnt001,01,FX,S7/G.1-2
 play,3,0,blakc001,12,BFFS,K
@@ -898,7 +895,6 @@ sub,morbj001,"Jose Morban",1,8,6
 play,8,0,damoj001,00,,NP
 sub,ligtk001,"Kerry Ligtenberg",1,0,1
 play,8,0,damoj001,01,..CX,43/G
-com,"Debut game for Jose Morban"
 play,8,0,walkt002,00,X,13/G
 play,8,0,garcn001,00,X,8/F
 play,8,1,conij001,00,,NP
@@ -1262,8 +1258,6 @@ start,cordm001,"Marty Cordova",1,7,10
 start,cruzd001,"Deivi Cruz",1,8,6
 start,fordb001,"Brook Fordyce",1,9,2
 start,daalo001,"Omar Daal",1,0,1
-com,"$Sam Perlozzo managing in place of Mike Hargrove,"
-com,"who left to be with his mother"
 play,1,0,crawc002,11,BLX,63/G
 play,1,0,rolld001,00,X,8/L
 play,1,0,baldr001,01,CX,D9/F
@@ -1388,8 +1382,6 @@ start,cordm001,"Marty Cordova",1,7,10
 start,moram002,"Melvin Mora",1,8,6
 start,fordb001,"Brook Fordyce",1,9,2
 start,hellr001,"Rick Helling",1,0,1
-com,"$Sam Perlozzo managing in place of Mike Hargrove,"
-com,"who left to be with his mother"
 play,1,0,crawc002,32,CBFBFFBFFFS,K
 play,1,0,lombg001,12,FCBS,K
 play,1,0,baldr001,12,BFCX,9/F
@@ -1587,8 +1579,6 @@ play,8,0,valej003,00,X,53/G
 play,8,1,hairj002,02,CFS,K
 play,8,1,mattg002,00,X,43/G
 play,8,1,surhb001,11,BCX,3/G
-com,"ej,surhb001,P,coope901,Balls and strikes"
-com,"Orioles B.J. Surhoff ejected by HP umpire Eric Cooper"
 play,9,0,thomf001,00,,NP
 sub,bauer001,"Rick Bauer",1,0,1
 play,9,0,thomf001,32,..CCBBBX,D7/L
@@ -1728,7 +1718,6 @@ play,8,0,thomf001,22,BSSBFFX,4/P3F
 play,8,1,gibbj002,00,,NP
 sub,sandd002,"David Sanders",0,0,1
 play,8,1,gibbj002,20,.BBX,3/P
-com,"Debut game for David Sanders"
 play,8,1,batit001,32,BBSFBB,W
 play,8,1,leonj002,02,SSFC,K
 play,8,1,cruzd001,31,BB*BCB,W.1-2
@@ -2126,8 +2115,6 @@ play,7,0,berra001,01,CX,3!/P3F
 play,7,1,mattg002,32,BBCBCX,D7/F-
 play,7,1,gil-g001,12,BFFX,43/G.2-3
 play,7,1,hairj002,10,BX,4/P
-com,"ej,penat001,M,fleta901,Balls and strikes"
-com,"Royals Manager Tony Pena ejected by HP umpire Andy Fletcher"
 play,7,1,moram002,32,CLBBB.X,3/P3F
 play,8,0,feblc001,11,CBX,6/L
 play,8,0,tuckm001,01,FX,13/G
@@ -2703,7 +2690,6 @@ play,7,0,infao001,31,BBCBB,W
 play,7,0,higgb001,00,X,S7/L.1-2
 play,7,0,yound001,12,BFSX,S9/L-.2-3;1-2
 play,7,0,palmd002,21,*BFBX,3/P
-com,"Infield Fly rule"
 play,7,0,monrc001,32,CFBBFFFBB,W.3-H;2-3;1-2
 play,7,0,halts001,01,SX,52(3)3/GDP
 play,7,1,hairj002,32,CCFBFFFBBX,S8/L
@@ -2829,7 +2815,6 @@ play,4,1,gibbj002,31,*BBBCB,W
 play,4,1,batit001,12,FFBFX,8/SF.3-H
 play,4,1,bigbl001,32,BFBBFF>B,W.2-3;1-2
 play,4,1,cruzd001,01,CX,4/P
-com,"Infield Fly rule"
 play,4,1,fordb001,32,BBCCB>F>F>S,K
 play,5,0,tynej001,11,CBX,S8/G
 play,5,0,andem003,21,BB1FX,3/G.1-2
@@ -2924,10 +2909,6 @@ start,bigbl001,"Larry Bigbie",1,7,7
 start,cruzd001,"Deivi Cruz",1,8,6
 start,fordb001,"Brook Fordyce",1,9,2
 start,hentp001,"Pat Hentgen",1,0,1
-com,"$Tampa Bay records no asists in the game;"
-com,"second time for the franchise; Baltimore"
-com,"manager Hargrove returned after his mother's"
-com,"funeral; he had been gone for 4 games"
 play,1,0,tynej001,12,CCBX,31/G
 play,1,0,andem003,11,FBX,43/G
 play,1,0,baldr001,11,CBX,43/G
@@ -3090,8 +3071,6 @@ play,4,0,baldr001,01,CX,T8/F
 play,4,0,huffa001,21,BCBX,D9/G.3-H
 play,4,0,lee-t002,10,BX,D9/G.2-H
 play,4,0,hallt001,00,X,S7/L-.2-H
-com,"ej,elial101,C,herna901,Balls and strikes"
-com,"Devil Rays Coach Lee Elia ejected by HP umpire Angel Hernandez"
 play,4,0,sandj001,00,.X,7/L
 play,4,1,conij001,22,CFBFBX,HR/7/F
 play,4,1,gibbj002,00,X,63/G
@@ -3820,7 +3799,6 @@ start,matol001,"Luis Matos",1,7,8
 start,cruzd001,"Deivi Cruz",1,8,6
 start,gil-g001,"Geronimo Gil",1,9,2
 start,hellr001,"Rick Helling",1,0,1
-com,"2:42 delay during game"
 play,1,0,everc001,12,BCSFFX,41/G
 play,1,0,blalh001,12,CBFX,D9/L-
 play,1,0,rodra001,11,BCX,9/F.2-3
@@ -4257,7 +4235,6 @@ start,surhb001,"B.J. Surhoff",1,7,7
 start,matol001,"Luis Matos",1,8,8
 start,gil-g001,"Geronimo Gil",1,9,2
 start,daalo001,"Omar Daal",1,0,1
-com,"1:44 delay during game"
 play,1,0,grudm001,10,BX,53/G
 play,1,0,gonza001,22,BBSSFFX,31/G
 play,1,0,pattc001,12,FBFS,K
@@ -4352,7 +4329,6 @@ play,8,1,matol001,11,.BSX,64(1)/FO/G.3-H
 play,8,1,gil-g001,00,1>B,SB2
 play,8,1,gil-g001,12,1>B.FSB,PB.2-3
 play,8,1,gil-g001,32,1>B.FSB.BS,K
-com,"Rain delay of 1:44"
 play,9,0,gonza001,00,,NP
 sub,robew001,"Willis Roberts",1,0,1
 play,9,0,gonza001,10,.BX,8/F
@@ -4419,7 +4395,6 @@ start,surhb001,"B.J. Surhoff",1,7,10
 start,cruzd001,"Deivi Cruz",1,8,6
 start,fordb001,"Brook Fordyce",1,9,2
 start,hellr001,"Rick Helling",1,0,1
-com,"53 minute rain delay to start game"
 play,1,0,grudm001,00,X,S9/L
 play,1,0,gonza001,12,FFBF1FF>X,8/F
 play,1,0,pattc001,11,CBB,WP.1-2
@@ -4442,7 +4417,6 @@ play,2,1,robeb003,01,CX,DGR/7/L.1-3
 play,2,1,matol001,12,CBFC,K
 play,2,1,moram002,20,BBX,63/G.3-H
 play,2,1,conij001,11,C*BX,63/G
-com,"Rain delay of 1:49"
 play,3,0,goodt001,32,CBFBFBX,43/G
 play,3,0,grudm001,11,BSX,3/G
 play,3,0,gonza001,02,FFX,9/F
@@ -4556,7 +4530,6 @@ play,1,0,podss001,02,CCH,HP
 play,1,0,sexsr001,00,>C,SB2
 play,1,0,sexsr001,02,>C.SFX,9/F.2-3
 play,1,0,jenkg001,00,X,3/G
-com,"Rain delay of 1:50"
 play,1,1,robeb003,32,BCBCBB,W
 play,1,1,matol001,11,1C11BX,46(1)/FO/G
 play,1,1,moram002,01,C1C,POCS2(136)
@@ -4581,7 +4554,6 @@ play,3,1,moram002,02,CFH,HP
 play,3,1,conij001,21,1CBBX,9/F
 play,4,0,jenkg001,12,SFBS,K
 play,4,0,vandj001,01,CX,S8/G
-com,"Rain delay of 32 minutes"
 play,4,0,helmw001,12,BFSS,K
 play,4,0,kiesb001,01,FX,5/P5F
 play,4,1,gibbj002,01,FX,D7/L
@@ -5183,8 +5155,6 @@ play,6,0,hudso001,00,,NP
 sub,hentp001,"Pat Hentgen",1,0,1
 play,6,0,hudso001,02,.CCH,HP
 play,6,0,woodc001,21,BFBX,S6/G.1-2
-com,"ej,hargm001,M,vanol901,Call at 2B"
-com,"Orioles Manager Mike Hargrove ejected by 2B umpire Larry Vanover"
 play,6,0,bordm001,10,.BX,54(1)3/GDP.2-3
 play,6,0,johnr008,32,*BCBFFBX,63/G
 play,6,1,moram002,12,CBFC,K
@@ -5225,7 +5195,6 @@ sub,polic001,"Cliff Politte",0,0,1
 play,9,1,segud001,12,.BSFX,7/F
 play,9,1,cruzd001,02,SFS,K
 play,9,1,fordb001,02,CFX,S4/L
-com,"originally scored E4, changed after game"
 play,9,1,robeb003,22,CBBCX,9/F
 data,er,escok001,1
 data,er,sturt001,0
@@ -5291,7 +5260,6 @@ play,1,1,moram002,12,1CF1*B>C,K+SB2
 play,1,1,surhb001,31,BBFBX,D7/L.2-H
 play,1,1,conij001,12,CCBX,53/G.2-3
 play,1,1,gibbj002,12,CBCFX,163/G
-com,"line drive off Duckworth's forearm"
 play,2,0,leder001,31,BBFBB,W
 play,2,0,belld002,30,BB1BB,W.1-2
 play,2,0,burrp001,00,X,7/F
@@ -5299,7 +5267,6 @@ play,2,0,byrdm001,12,*BCFS,K
 play,2,0,polap001,01,FX,13/G
 play,2,1,batit001,00,,NP
 sub,silvc001,"Carlos Silva",0,0,1
-com,"Phillies Brandon Duckworth left game due to an injured arm"
 play,2,1,batit001,01,.CX,4/P
 play,2,1,segud001,01,FX,S7/F
 play,2,1,gil-g001,31,B1SBBX,5/P5F
@@ -5330,7 +5297,6 @@ play,5,1,matol001,00,.X,13/BG
 play,5,1,robeb003,00,X,S7/G
 play,5,1,moram002,30,1BB1BB,W.1-2
 play,5,1,surhb001,22,BFF>FBX,4/P
-com,"Infield Fly rule"
 play,5,1,conij001,01,FX,54(1)/FO/G
 play,6,0,liebm001,22,CBBCX,53/G
 play,6,0,leder001,20,BBX,9/L
@@ -5705,8 +5671,6 @@ play,3,1,robeb003,21,BCBX,53/BG
 play,3,1,matol001,02,CFX,9/F
 play,4,0,burrp001,32,CSBBFBFB,W
 play,4,0,belld002,12,CCBB,PB.1-2
-com,"ej,wilem101,C,monte901,Balls and strikes"
-com,"Orioles Coach Mark Wiley ejected by HP umpire Ed Montague"
 play,4,0,belld002,32,CCBB..BB,W
 play,4,0,peret003,02,LLX,2/P2F
 play,4,0,pratt001,12,CBCS,K
@@ -5997,8 +5961,6 @@ play,2,1,batit001,30,BBBX,D9/L.2-H
 play,2,1,surhb001,32,CCBBBFFFFT,K
 play,2,1,cruzd001,02,FFFX,13/G.2-3
 play,2,1,gil-g001,22,BBCSFFFFC,K
-com,"ej,crowt101,C,cuzzp901,Balls and strikes"
-com,"Orioles Coach Terry Crowley ejected by HP umpire Phil Cuzzi"
 play,3,0,garck002,10,.BX,53/G
 play,3,0,soria001,22,BBCFX,S8/L
 play,3,0,jeted001,00,>C,SB2
@@ -6342,7 +6304,6 @@ play,6,0,johnr008,10,BX,S7/L
 play,6,0,hudso001,20,BBX,46(1)/FO/G
 play,6,0,woodc001,00,,NP
 sub,bordm001,"Mike Bordick",0,8,12
-com,"Blue Jays Orlando Hudson left the game due to an injured groin"
 play,6,0,woodc001,11,..BFB,WP.1-2
 play,6,0,woodc001,32,..BFB.BCX,7/F
 play,6,1,matol001,00,,NP
@@ -6689,8 +6650,6 @@ sub,ligtk001,"Kerry Ligtenberg",1,0,1
 play,10,0,stews002,01,..CX,9/F
 play,10,0,johnr008,11,BSX,9/F
 play,10,0,wellv001,11,BC.X,S6/G
-com,"ej,hargm001,M,fleta901,Call at 1B"
-com,"Orioles Manager Mike Hargrove ejected by 1B umpire Andy Fletcher"
 play,10,0,myerg001,00,,NP
 sub,groob001,"Buddy Groom",1,0,1
 play,10,0,myerg001,32,.CBCBBB,W.1-2
@@ -7210,7 +7169,6 @@ play,3,1,matol001,32,CBBBFFFX,5/P
 play,3,1,moram002,01,CH,HP
 play,3,1,conij001,00,,NP
 sub,segud001,"David Segui",1,3,12
-com,"Orioles Melvin Mora hit in face with pitch"
 play,3,1,conij001,00,.X,D8/L.1-3
 play,3,1,gibbj002,30,IIII,IW
 play,3,1,batit001,32,BBFFB>F>S,K
@@ -8497,7 +8455,6 @@ start,cruzd001,"Deivi Cruz",1,7,6
 start,bigbl001,"Larry Bigbie",1,8,7
 start,machr001,"Robert Machado",1,9,2
 start,loper001,"Rodrigo Lopez",1,0,1
-com,"34 minute delay during game"
 play,1,0,stews002,12,CFBFS,K
 play,1,0,rival001,22,FBFBX,E6/G
 play,1,0,miend001,02,C>F>C,K+CS2(26)/DP
@@ -8536,7 +8493,6 @@ play,4,1,bigbl001,01,CB,WP.2-3
 play,4,1,bigbl001,11,CB.X,S7/L-.3-H
 play,4,1,machr001,00,,NP
 sub,mohrd001,"Dustan Mohr",0,7,7
-com,"Twins Jacque Jones left the game due to an injured groin"
 play,4,1,machr001,00,..X,7/F
 play,4,1,robeb003,00,C,CS2(26)
 play,5,0,hockd001,32,BCBBSX,8/F
@@ -8899,10 +8855,6 @@ sub,wilse001,"Enrique Wilson",0,6,12
 play,9,0,johnn001,02,.FF*B,SB2
 play,9,0,johnn001,32,.FF*B.FBB*B,W
 play,9,0,boona001,22,FFBBX,HR/7/F.2-H;1-H
-com,"ej,hargm001,M,tscht901,Arguing HR was foul"
-com,"Orioles Manager Mike Hargrove ejected by HP umpire Tim Tschida;"
-com,"Aaron Boone's fly called foul, then changed to fair, Hargrove argued and"
-com,"was ejected; replay showed ball was fair"
 play,9,0,delld001,02,.CFX,43/G
 play,9,0,soria001,11,FBX,HR/7/F
 play,9,0,jeted001,32,BFFFBBB,W
@@ -9107,8 +9059,6 @@ play,12,1,leonj002,00,,NP
 sub,custj001,"Jack Cust",1,7,11
 play,12,1,custj001,32,.CFBBBB,W
 play,12,1,bigbl001,12,BCCX,D9/L.1XH(94525)
-com,"Cust rounded too far, got in rundown, Yankees"
-com,"left plate uncovered and he fell down and was tagged"
 data,er,hitcs001,3
 data,er,osuna002,0
 data,er,rivem002,1
@@ -9623,7 +9573,6 @@ play,2,0,marta001,32,CFBBFBB,W
 play,2,0,andem003,00,X,D7/F.1-3
 play,2,0,sandj001,00,H,HP
 play,2,0,valej004,12,CFFBX,6/P
-com,"Infield Fly rule"
 play,2,0,lugoj001,22,CBBCX,3/P3F
 play,2,1,gibbj002,01,CX,8/L
 play,2,1,batit001,12,BCSX,5/P5F
@@ -9825,9 +9774,6 @@ play,8,0,durae001,21,BCBX,7!/F
 play,8,0,ellim001,22,CBFFFFBX,D7/F
 play,8,0,singc001,22,B2*BFCS,K
 play,8,0,longt002,12,CCBS,K
-com,"ej,longt002,P,hudsm901,Argued third strike was foul tip"
-com,"Athletics Terrence Long ejected by HP umpire Marvin Hudson"
-com,"for arguing that he tipped strike three"
 play,8,1,fordb001,00,,NP
 sub,dye-j001,"Jermaine Dye",0,1,7
 play,8,1,fordb001,10,..BX,S7/L
@@ -9857,7 +9803,6 @@ play,9,1,batit001,01,CX,13/G
 play,10,0,durae001,00,,NP
 sub,crosb002,"Bobby Crosby",0,7,11
 play,10,0,crosb002,32,.BBCCBFFX,4/P
-com,"Debut game for Bobby Crosby"
 play,10,0,ellim001,32,CBCFBBFX,63/G
 play,10,0,singc001,02,SFC,K
 play,10,1,surhb001,32,CBFBFBX,43/G
@@ -9955,7 +9900,6 @@ start,moram002,"Melvin Mora",1,7,9
 start,cruzd001,"Deivi Cruz",1,8,6
 start,fordb001,"Brook Fordyce",1,9,2
 start,loper001,"Rodrigo Lopez",1,0,1
-com,"27 minute delay during game"
 play,1,0,ellim001,22,BTFBX,3/G
 play,1,0,guilj001,10,BX,S8/L
 play,1,0,chave001,21,BCBX,46(1)3/GDP
@@ -10760,7 +10704,6 @@ play,2,0,nixot001,01,CX,6/P
 play,2,0,muelb001,10,BX,S9/G
 play,2,0,varij001,31,BBBC1B,W.1-2
 play,2,0,damoj001,00,X,HR/89/F.2-H;1-H
-com,"$Johnny Damon's 100th career homer"
 play,2,0,walkt002,12,CBCFX,7/L
 play,2,0,garcn001,22,BSFBX,43/G
 play,2,1,fordb001,21,BCBX,53/G
@@ -10797,7 +10740,6 @@ play,5,1,batit001,21,CB*BX,63/G
 play,6,0,muelb001,10,BX,S9/G
 play,6,0,varij001,00,X,D7/G.1-3
 play,6,0,damoj001,10,BX,3/SH.3-H;2-3
-com,"orginally scored as no SH, changed later"
 play,6,0,walkt002,11,BFX,S8/F.3-H
 play,6,0,garcn001,01,FX,23/G.1-2
 play,6,0,ramim002,10,BX,S9/L.2-H
@@ -10827,12 +10769,6 @@ play,7,1,moram002,00,,NP
 sub,wills002,"Scott Williamson",0,0,1
 play,7,1,moram002,31,.BBBCB,W.2-3;1-2
 play,7,1,cruzd001,01,SX,D7/G.3-H;2-H;1-H
-com,"ej,varij001,P,poncl901,Fair/foul call"
-com,"ej,lowed001,P,cuzzp901,Bench jockeying"
-com,"Red Sox Jason Varitek ejected by 3B umpire Larry Poncino for arguing that"
-com,"the double by Deivi Cruz was foul; "
-com,"Red Sox Derek Lowe ejected (from bench) by 2B umpire Phil Cuzzi for yelling"
-com,"about the double"
 play,7,1,fordb001,00,,NP
 sub,mirad001,"Doug Mirabelli",0,9,2
 play,7,1,fordb001,12,...2BFCS,K
@@ -10932,7 +10868,6 @@ play,2,0,nixot001,00,X,S9/G.1-3(E9)
 play,2,0,jackd003,11,CBX,S7/L.3-H;1-2
 play,2,0,damoj001,00,,NP
 sub,kaplg001,"Gabe Kapler",0,8,12
-com,"Nixon left with strained left calf"
 play,2,0,damoj001,21,.C*BBX,S7/L.2-3;1-2
 play,2,0,muelb001,00,X,9/SF.3-H;2-3
 play,2,0,garcn001,22,*BFFBX,64(1)/FO/G
@@ -10958,7 +10893,6 @@ sub,dougs001,"Sean Douglass",1,0,1
 play,4,0,damoj001,22,.BCBSX,S7/L
 play,4,0,muelb001,30,BB1BB,W.1-2
 play,4,0,garcn001,01,FX,4/P.2-3;1-2
-com,"Infield Fly rule"
 play,4,0,ramim002,11,3C*BH,HP
 play,4,0,ortid001,32,BCBBFX,36(1)/FO/G.3-H;2-3
 play,4,0,millk005,32,CCBBB>S,K
@@ -11239,7 +11173,6 @@ play,3,1,gibbj002,00,11.X,3/G
 play,4,0,giamj001,01,SX,HR/8/F
 play,4,0,posaj001,32,BBFBCB,W
 play,4,0,matsh001,02,FFX,7/F
-com,"49 minute rain delay"
 play,4,0,sierr001,01,CX,S7/F.1-2
 play,4,0,boona001,00,X,HR/7/F.2-H;1-H
 play,4,0,garck002,00,X,S7/L
@@ -11268,7 +11201,6 @@ play,6,0,soria001,11,CBX,S8/F.1-2
 play,6,0,johnn001,12,CBFX,8/F
 play,6,0,jeted001,10,BX,S6/G.2-3;1-2
 play,6,0,giamj001,21,BSBX,4/P
-com,"Infield Fly rule"
 play,6,0,posaj001,32,BBBCF>X,D9/L.3-H;2-H;1-H
 play,6,0,matsh001,00,,NP
 sub,parrj003,"John Parrish",1,0,1
@@ -11426,9 +11358,6 @@ play,4,1,batit001,21,BSBX,13/G
 play,4,1,surhb001,10,BX,43/G
 play,5,0,garck002,01,SX,43/G
 play,5,0,soria001,21,BCBX,HR/8/F
-com,"$Jason Johnson warned by HP umpire Dan Iassogna after pitch"
-com,"went behind Nick Johnson; he protested that he was not throwing"
-com,"at the batter"
 play,5,0,johnn001,32,BBCBFFB,W
 play,5,0,jeted001,32,B1BSFB>X,43/G.1-2
 play,5,0,giamj001,12,CBCS,K
@@ -11439,12 +11368,8 @@ play,5,1,robeb003,12,BSSC,K
 play,6,0,willb002,31,CBBBB,W
 play,6,0,posaj001,02,CC1X,D8/F.1-3
 play,6,0,matsh001,10,BX,3E1/G.3-H;2-3
-com,"$1B umpire Fieldin Culbreth ruled that Jason Johnson missed"
-com,"base; replay showed that he hit the bag with his foot"
 play,6,0,boona001,02,1CFS,K
 play,6,0,garck002,00,X,7/SF.3-H(UR)
-com,"$Pedro Swann thought there were three outs, started off field,"
-com,"then lobbed ball in making no attempt to throw home"
 play,6,0,soria001,10,*BX,D8/L.1-H(UR)
 play,6,0,johnn001,12,BCCX,13/G
 play,6,1,hairj002,22,BBCFX,7/F
@@ -11458,11 +11383,6 @@ play,7,0,giamj001,32,F1F1F1B1B.B.FB,W
 play,7,0,willb002,00,,NP
 sub,parrj003,"John Parrish",1,0,1
 play,7,0,willb002,22,.CFBB1X,E1/TH1/G.1-2
-com,"ej,hargm001,M,culbf901,Call at 1B"
-com,"Jason Johnson's throw a one-hopper that B.J. Surhoff juggled"
-com,"but clearly controlled in bare hand before Bernie Williams"
-com,"touched 1B; ruled safe by 1B umpire Fieldin Culbreth;"
-com,"Orioles Manager Mike Hargrove ejected by Culbreth"
 play,7,0,posaj001,02,.SSS,K
 play,7,0,matsh001,10,BX,S9/G.3-H;2-H;1-2
 play,7,0,boona001,01,CX,8/F
@@ -11723,9 +11643,6 @@ play,5,1,swanp001,01,CX,D9/G
 play,5,1,machr001,12,CMBL,K/BF
 play,5,1,robeb003,11,CBX,S7/L.2XH(752);B-2(TH)
 play,5,1,matol001,12,CFBX,43/G
-com,"after 44 minute delay game called due to rain"
-com,"from Hurricane Isabel; tie game; player stats"
-com,"count but game to be replayed in NY"
 data,er,mussm001,1
 data,er,hentp001,1
 id,BAL200309190

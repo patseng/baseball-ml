@@ -45,7 +45,6 @@ start,ruizc001,"Carlos Ruiz",1,8,2
 start,hamec001,"Cole Hamels",1,9,1
 play,1,0,morgn001,00,,NP
 sub,castj004,"Juan Castro",1,1,6
-com,"Rollins hurt leg while warming up - onto DL"
 play,1,0,morgn001,32,CBBBCX,7/F
 play,1,0,tavew001,12,CBLX,63/G
 play,1,0,guzmc001,00,X,D7/G+
@@ -78,10 +77,6 @@ play,4,1,castj004,11,CBX,43/G
 play,4,1,polap001,21,CBBX,S8/G
 play,4,1,utlec001,31,BCBVB,W.1-2
 play,4,1,howar001,32,BFFB*BFX,S7/G.2-H;1-3
-com,"ej,riggj801,M,schrp901,Balls and strikes"
-com,"$Nationals manager Jim Riggleman went to the mound to talk with Jason Marquis;"
-com,"when HP umpire Paul Schreiber went to the mound to speed up the talk, Riggleman"
-com,"discussed Schreiber's strike zone and was ejected by Schreiber"
 play,4,1,wertj001,11,.FBX,54(1)/FO/G.3-H
 play,4,1,ibanr001,00,X,7/L
 play,5,0,tavew001,12,CBLX,63/G
@@ -100,7 +95,6 @@ play,5,1,wertj001,22,CBBFFFX,S8/F-
 play,5,1,ibanr001,02,CTS,K
 play,6,0,willj004,00,,NP
 sub,franb001,"Ben Francisco",1,5,9
-com,"Phillies right fielder Jayson Werth left the game due to an injured hip"
 play,6,0,willj004,02,.FCFS,K
 play,6,0,desmi001,21,BSBX,2/P2F
 play,6,0,rodri001,31,BTBBX,D8/L
@@ -225,7 +219,6 @@ play,2,0,harrw001,32,1>B.CFBBFF*B,W
 play,2,0,guzmc001,21,CBBX,S8/L.3-H;2-H;1-2
 play,2,0,dunna001,11,CBX,4/P/IF
 play,2,0,willj004,30,BBBX,DGR/7/L.2-H;1-3
-com,"fan interference"
 play,2,0,kenna001,00,,NP
 sub,figun001,"Nelson Figueroa",1,9,1
 play,2,0,kenna001,21,.BBFX,3/G
@@ -1049,7 +1042,6 @@ play,7,0,reyej001,21,*BCBX,S9/G.3-H
 play,7,0,bay-j001,12,CSBFX,54(1)3/GDP
 play,7,1,wertj001,00,,NP
 sub,mattg002,"Gary Matthews",0,7,9
-com,"Mets right fielder Jeff Francoeur left the game due to an injured elbow"
 play,7,1,wertj001,22,.BCFBX,S8/L
 play,7,1,ibanr001,12,CBSC,K
 play,7,1,castj004,11,CBX,6/P
@@ -1420,11 +1412,6 @@ play,1,0,pujoa001,11,CBX,53/G
 play,1,1,victs001,21,BBCX,S1/G15-
 play,1,1,polap001,12,1CB11SS,K
 play,1,1,utlec001,22,CFF1*BBF1>B,CS2(26)
-com,"$Chase Utley hit the 3-2 pitch down the RF line; it curved past the pole"
-com,"on the foul side and was called a foul ball by 1B umpire Adrian Johnson;"
-com,"Phillies manager Charlie Manuel asked Johnson about the call, the umpires"
-com,"conferred and then crew chief Tim McClelland watched the replay and"
-com,"upheld the call"
 play,1,1,utlec001,32,CFF1*BBF1>B.FX,9/F9DW+
 play,2,0,hollm001,00,X,D8/L
 play,2,0,freed001,21,BCBX,43/G.2-3
@@ -1458,12 +1445,6 @@ play,5,1,ibanr001,10,BX,S8/L.2-3
 play,5,1,castj004,21,BBFX,9/SF/L.3-H
 play,5,1,ruizc001,30,BBBB,W.1-2
 play,5,1,blanj001,00,X,26(2)4/BG/DP/INT
-com,"ej,manuc101,M,fleta901,Blanton called out for interference"
-com,"$the Cardinals successfully execute the rotation play covering the bunt with"
-com,"SS Brendam Ryan covering 3B on the force; HP umpire Andy Fletcher called batter"
-com,"Joe Blanton out for running inside line and interfering with 2B Skip Schumaker's"
-com,"ability to catch the throw at 1B; Phillies manager Charlie Manuel argued the"
-com,"call with plate umpire Fletcher, who eventually ejected Manuel"
 play,6,0,pujoa001,22,.CBSBS,K
 play,6,0,hollm001,12,FSFBC,K
 play,6,0,freed001,01,FX,S7/G
@@ -1786,7 +1767,6 @@ play,7,1,ibanr001,22,.BBFFFX,4/L
 play,7,1,castj004,12,BSSX,S16/G
 play,7,1,schnb001,00,,NP
 sub,valdw001,"Wilson Valdez",1,7,12
-com,"Phillies shortstop Juan Castro left the game due to an injured leg"
 play,7,1,schnb001,02,.C1FX,7/F
 play,7,1,kendk001,00,,NP
 sub,dobbg001,"Greg Dobbs",1,9,11
@@ -2075,7 +2055,6 @@ play,7,0,jonec004,00,X,9/F
 play,7,1,wertj001,00,,NP
 sub,kimbc001,"Craig Kimbrel",0,9,1
 play,7,1,wertj001,21,.BBCX,D9/L
-com,"Debut game for Craig Kimbrel"
 play,7,1,ibanr001,32,BBCFBS,K
 play,7,1,ruizc001,00,B,WP.2-3
 play,7,1,ruizc001,12,B.FFFS,K
@@ -2174,8 +2153,6 @@ play,3,1,howar001,32,1BCBBFS,K
 play,3,1,wertj001,32,FBBBFFX,64(1)3/GDP
 play,4,0,hinse001,00,,NP
 sub,ruizc001,"Carlos Ruiz",1,7,2
-com,"Phillies catcher Brian Schneider left the game due to an injured Achilles"
-com,"tendon in his left heel"
 play,4,0,hinse001,02,..FCX,13/G-
 play,4,0,cabrm002,01,CX,43/G
 play,4,0,infao001,01,CX,3/P3F
@@ -2794,8 +2771,6 @@ play,7,1,moyej001,00,,NP
 sub,hillk002,"Koyie Hill",0,9,2
 play,7,1,moyej001,00,,NP
 sub,franb001,"Ben Francisco",1,9,11
-com,"Cubs pitcher Tom Gorzelanny left because single by Ruiz was"
-com,"line drive off his pitching hand. Not broken"
 play,7,1,franb001,12,...CBFS,K
 play,8,0,hillk002,00,,NP
 sub,durbc001,"Chad Durbin",1,9,1
@@ -3091,7 +3066,6 @@ play,6,1,hamec001,12,.BFFC,K
 play,6,1,rollj001,00,X,S9/G
 play,6,1,polap001,00,,NP
 sub,castj004,"Juan Castro",1,1,12
-com,"Phillies shortstop Jimmy Rollins left the game due to an injured leg"
 play,6,1,polap001,11,.BCX,7/F
 play,6,1,utlec001,10,BX,S9/F.1-2
 play,6,1,howar001,22,BBCCX,S7/G.2-H;1-2
@@ -3531,7 +3505,6 @@ sub,zawal001,"Lance Zawadzki",0,9,11
 play,6,0,zawal001,00,.X,63/G.2-3;1-2
 play,6,0,venaw001,00,,NP
 sub,denoc001,"Chris Denorfia",0,1,11
-com,"Padres right fielder Will Venable left the game due to an injured neck"
 play,6,0,denoc001,10,.BX,13/G
 play,6,1,castj004,00,,NP
 sub,denoc001,"Chris Denorfia",0,1,9
@@ -4093,7 +4066,6 @@ play,1,1,utlec001,31,CBBBX,7/F
 play,2,0,uggld001,22,CBSBX,8/F
 play,2,0,rossc001,10,BX,63/G
 play,2,0,stanm004,32,CBBBSX,S4/G-
-com,"Debut game for Mike Stanton"
 play,2,0,paulr001,00,X,D8/F.1-H
 play,2,0,volsc001,00,X,153/G
 play,2,1,howar001,31,CBBBB,W
@@ -4469,9 +4441,6 @@ play,8,0,mauej001,32,.BCFBBX,9/L
 play,8,0,mornj001,00,X,31/G
 play,8,0,cuddm001,02,FSX,S7/L
 play,8,0,kubej002,00,X,5/P-
-com,"$kubel's bat broke and hit catcher Ruiz in the back of the"
-com,"helmet. He did not lose consciousness, but left game and went"
-com,"to hospital"
 play,8,1,valdw001,00,,NP
 sub,burna002,"Alex Burnett",0,9,1
 play,8,1,valdw001,31,.BFBBX,43/G
@@ -4888,8 +4857,6 @@ play,1,1,ibanr001,01,CX,8/F
 play,2,0,keara001,20,BBX,63/G
 play,2,0,peraj001,31,BBSBX,63/G
 play,2,0,branr001,00,X,HR/9/F
-com,"$the 505th home run allowed by Jamie Moyer to tie the"
-com,"career record set by Robin Roberts"
 play,2,0,herna003,11,BCX,43/G
 play,2,1,victs001,31,BCBBB,W
 play,2,1,schnb001,20,BB1X,16(1)3/GDP
@@ -4907,15 +4874,6 @@ play,4,1,howar001,22,SBFBX,8/F
 play,4,1,wertj001,32,BCBBCB,W
 play,4,1,ibanr001,11,BF1X,S9/G.1-3
 play,4,1,victs001,11,BCX,46(1)3/G/DP
-com,"ej,manuc101,M,holbs901,Runner interference on Ibanez"
-com,"$Jason Donald made a great diving stop on the ball hit by Shane"
-com,"Victorino; Donald tossed to SS Anderson Hernandez, who relayed"
-com,"the ball to 1B; Victorino beat the play at 1B and a run scored;"
-com,"Raul Ibanez slid about four feet to the right of 2B trying to slow"
-com,"Hernandez as he made the play to 1B and 2B umpire Sam Holbrook"
-com,"called Ibanez for runner interference; thus Victorino was out"
-com,"to end the inning and the run did not count; Phillies manager"
-com,"Charlie Manuel argued the call with Holbrook, who ejected Manuel"
 play,5,0,peraj001,00,.X,53/G
 play,5,0,branr001,11,CBX,13/G
 play,5,0,herna003,11,CBX,9/F
@@ -5109,8 +5067,6 @@ play,8,1,victs001,02,FFX,7/F
 play,9,0,herna003,00,X,S1/BG
 play,9,0,crowt001,00,,NP
 sub,romej001,"J.C. Romero",1,9,1
-com,"Phillies pitcher Chad Durbin pulled a hamstring badly while"
-com,"fielding the bunt"
 play,9,0,crowt001,11,.1LB1X,S9/F-.1-3
 play,9,0,choos001,00,X,FC1/G.3XH(152);1-3(THH);B-2
 play,9,0,santc002,10,BX,FC6/G.3-H;2-3(E6/TH);B-2
@@ -5200,14 +5156,6 @@ play,2,1,valdw001,01,CX,S9/G.2-3;1-2
 play,2,1,sardd001,22,BCFBX,FC5.3XH(5E2)(UR)(NR);2-H(NR);1-3;B-2
 play,2,1,blanj001,00,H,HP
 play,2,1,victs001,11,FBX,1/G-.3-H;2-3;1-2
-com,"ej,manuc101,M,gibsg901,Call at 1B on Victorino leaving the baseline"
-com,"$Shane Victorino hit a bouncer down the 1B line that was fielded by"
-com,"pitcher Fausto Carmona; Carmona then reached out to tag Victorino"
-com,"but the latter ran around him to avoid the tag and dove to the bag;"
-com,"Victorino was called out for leaving the baseline by 1B umpire Greg"
-com,"Gibson; Phillies manager Charlie Manuel argued with Gibson for a while"
-com,"and eventually stuck his finger up in front of Gibson's face; Manuel"
-com,"was ejected by Gibson"
 play,2,1,polap001,01,.FX,S8/G.3-H;2-3
 play,2,1,utlec001,01,CX,8/SF/F.3-H(UR)
 play,2,1,howar001,10,BX,23/G-
@@ -5284,7 +5232,6 @@ play,8,1,gloar001,00,,NP
 sub,smitj002,"Joe Smith",0,9,1
 play,8,1,gloar001,10,.BX,53/G
 play,8,1,wertj001,22,BBCFFS,K
-com,"1:37 rain delay during which the high winds pulled the tarp off the infield"
 play,8,1,ibanr001,10,BX,3/G
 play,9,0,branr001,11,BFX,6/L
 play,9,0,marta004,32,CBTBBFX,7/F
@@ -5825,16 +5772,6 @@ play,3,1,schnb001,12,BCFS,K
 play,3,1,kendk001,32,BBBCCS,K
 play,3,1,rollj001,32,CBFBBB,W
 play,3,1,victs001,22,BBF11S>X,S3/G.1-H(NR)(UR)(E1)
-com,"$hard grounder off Votto's glove into foul ground; he recovered"
-com,"and threw to Cueto covering 1B and Victorino collided with him,"
-com,"knocking off his glove; the ball bounced into foul territory and"
-com,"was retrieved by Votto as Victorino turned toward second; Votto"
-com,"threw to Cueto again, but he had no glove and ball hit him in the"
-com,"groin, bouncing loose again; Votto retrieved the ball, pushing"
-com,"Cueto away as he did and threw too late to get Rollins at home."
-com,"He had been running on the pitch; Cueto was hurt when Victorino"
-com,"stepped on his foot at 1B; Cueto pulled his foot out from under"
-com,"Victorino's when he went to chase the ball the second time."
 play,3,1,ibanr001,00,1,PO1(13)
 play,4,0,cabro001,22,CBCFBX,63/G
 play,4,0,vottj001,00,X,8/F
@@ -5877,8 +5814,6 @@ play,8,0,cuetj001,00,,NP
 sub,heisc001,"Chris Heisey",0,9,11
 play,8,0,heisc001,02,.CFS,K
 play,8,0,philb001,12,BSCS,K+WP.2-H;1-2;B-1
-com,"$runner scored from second because pitcher and catcher both"
-com,"chased after the wild pitch and no one covered home"
 play,8,0,cabro001,12,BSFX,43/G
 play,8,1,valdw001,00,,NP
 sub,massn001,"Nick Masset",0,6,1
@@ -6339,10 +6274,6 @@ play,3,0,millc001,11,FBX,S7/L
 play,3,0,malom001,11,MBX,14/SH/BG.1-2
 play,3,0,philb001,32,CFFFBF*BFBX,13/G
 play,3,1,ruizc001,00,X,D8/F78
-com,"$a fan reached over the fence at the 387 marker in left-center attempting"
-com,"to catch the ball; it caromed back onto the field and was called fan"
-com,"interference by 2B umpire Laz Diaz; crew chief John Hirschbeck watched the"
-com,"replay and upheld the call"
 play,3,1,valdw001,01,CX,43/G.2-3
 play,3,1,hamec001,11,SBX,3/G
 play,3,1,rollj001,22,FFBBX,S9/L-.3-H
@@ -6353,9 +6284,6 @@ play,4,0,roles001,32,BFBSBFB,W.2-3;1-2
 play,4,0,gomej001,00,X,52(3)/FO/G.2-3;1-2
 play,4,0,brucj001,10,BX,1/LDP.2X2(16)
 play,4,1,wertj001,01,CX,D8/F
-com,"$a fan reached over the top of the wall with a glove to catch the ball in"
-com,"the triangle area near the 409 marker; it was ruled fan interference but"
-com,"crew chief John Hirschbeck watched the replay and upheld the call"
 play,4,1,howar001,20,BBH,HP
 play,4,1,ibanr001,10,BX,8/F
 play,4,1,ransc001,11,FBX,3/P3F
@@ -6714,7 +6642,6 @@ play,8,1,victs001,00,X,7/F
 play,9,0,stewi001,00,,NP
 sub,worlv001,"Vance Worley",1,3,1
 play,9,0,stewi001,22,.CBBFFFX,8/F
-com,"Debut game for Vance Worley"
 play,9,0,iannc001,32,CBBBCFS,K
 play,9,0,hawpb001,32,CBBBCS,K
 data,er,jimeu001,6
@@ -7013,7 +6940,6 @@ play,7,0,florr001,00,,NP
 sub,fowld001,"Dexter Fowler",0,9,11
 play,7,0,fowld001,22,.CBBSFFS,K
 play,7,0,smits002,21,BSBX,DGR7/F
-com,"fan interference"
 play,7,0,herrj002,32,CB*BCBFX,7/F
 play,7,1,wertj001,00,,NP
 sub,bucht001,"Taylor Buchholz",0,9,1
@@ -7028,8 +6954,6 @@ play,8,0,gonzc001,00,,NP
 sub,romej001,"J.C. Romero",1,9,1
 play,8,0,gonzc001,22,...BCFBFS,K
 play,8,0,giamj001,00,X,341/G
-com,"$as J.C. Romero ran to first to cover on the play; he lost his left"
-com,"shoe; it came off at the base"
 play,8,0,spilr001,30,BBBB,W
 play,8,0,stewi001,01,CX,43/G
 play,8,1,schnb001,12,CBSS,K
@@ -7159,7 +7083,6 @@ play,5,0,ryalr001,11,BCX,S6/G.2-3;1-2
 play,5,0,loper001,02,SSS,K
 play,5,1,howar001,00,,NP
 sub,parrg001,"Gerardo Parra",0,3,9
-com,"D-backs right fielder Justin Upton left the game due to an injured hip"
 play,5,1,howar001,32,.BBCCFBB,W
 play,5,1,wertj001,12,FSBX,HR/8/F.1-H
 play,5,1,dobbg001,12,CSFBX,3/L
@@ -7198,7 +7121,6 @@ play,7,0,ryalr001,00,,NP
 sub,gloar001,"Ross Gload",1,1,9
 play,7,0,ryalr001,00,,NP
 sub,wertj001,"Jayson Werth",1,5,8
-com,"Phillies center fielder Shane Victorino left the game due to an injured side"
 play,7,0,ryalr001,11,..BFX,63/G
 play,7,0,vasqe001,00,,NP
 sub,abret001,"Tony Abreu",0,9,11
@@ -7293,7 +7215,6 @@ play,2,0,montm001,11,BFX,8/F
 play,2,0,reynm001,12,CBSS,K
 play,2,1,wertj001,11,BSX,D9/L+
 play,2,1,browd004,11,BCX,D9/L+.2-H
-com,"Debut game for Domonic Brown"
 play,2,1,ruizc001,20,BBX,S7/G.2-3
 play,2,1,valdw001,02,FFX,63/G.3-H;1-2
 play,2,1,hallr001,01,FX,43/G.2-3
@@ -7496,9 +7417,6 @@ sub,ryalr001,"Rusty Ryal",0,4,12
 play,9,0,reynm001,30,.IIII,IW
 play,9,0,drews001,30,BBBB,W.2-3;1-2
 play,9,0,parrg001,00,X,46(1)3/GDP
-com,"ej,parrg001,P,johna901,Call at 1B; slammed helmet to ground"
-com,"$D-backs left fielder Gerardo Parra slammed his helmet to the ground after being"
-com,"called out at first; he was ejected by 1B umpire Adrian Johnson"
 play,9,1,wertj001,00,,NP
 sub,ryalr001,"Rusty Ryal",0,4,3
 play,9,1,wertj001,00,,NP
@@ -8291,7 +8209,6 @@ play,6,0,blakc001,22,CFBBS,K
 play,6,1,gloar001,12,CFBX,D9/L
 play,6,1,ibanr001,00,,NP
 sub,sweem002,"Mike Sweeney",1,3,12
-com,"Phillies right fielder Ross Gload left the game due to an injured groin"
 play,6,1,ibanr001,01,.FX,D8/F+.2-H
 play,6,1,wertj001,02,FFX,3/G.2-3
 play,6,1,browd004,32,FBBFBFFFB,W
@@ -8478,9 +8395,6 @@ play,8,1,sweem002,02,CFX,S8/G.1-2
 play,8,1,wertj001,00,B,WP.2-3;1-2
 play,8,1,wertj001,32,B.BBCFX,S8/G.3-H;2-H
 play,8,1,franb001,22,C*BBFN,BK.1-2
-com,"$Belisario faked to third and then to first, but there was no runner on"
-com,"third! The umpires did not call it immediately and the Phillies objected;"
-com,"after the umpires huddled, they called the balk"
 play,8,1,franb001,22,C*BBFN.X,D7/F.2-H
 play,8,1,ruizc001,00,,NP
 sub,jansk001,"Kenley Jansen",0,9,1
@@ -8646,13 +8560,6 @@ sub,ramir003,"Ramon S. Ramirez",0,3,1
 play,8,1,gloar001,00,..X,13/G
 play,8,1,rollj001,21,*BBCX,S9/G.3-H;2-3
 play,8,1,utlec001,00,N,BK.3-H;1-2
-com,"ej,bochb002,M,carlm901,Balk call"
-com,"$Giants pitcher Ramon Ramirez started his motion after being in the set"
-com,"position; it was not clear whether his front leg moved toward third or"
-com,"home but then he turned and threw to first, picking off Jimmy Rollins;"
-com,"HP umpire Mark Carlson immediately called a balk on Ramirez; Giants"
-com,"Manager Bruce Bochy came out and asked about the balk and then argued"
-com,"enough that he was ejected by Carlson"
 play,8,1,utlec001,22,N..BSBFB,WP.2-3
 play,8,1,utlec001,32,N..BSBFB.X,E4/TH1/G.3-H(NR)(UR);B-2
 play,8,1,polap001,01,FX,8/L
@@ -9056,8 +8963,6 @@ play,7,0,morgn001,32,BBCCBFX,3/G
 play,7,0,desmi001,01,SX,S5/BG
 play,7,0,dunna001,32,BBFBF>B,W.1-2
 play,7,0,zimmr001,11,BF>X,7/LDP.2X2(74)
-com,"Desmond was far off base when ball was caught, overslid the base"
-com,"as he tried to get back and was tagged by a lunging Chase Utley"
 play,7,1,hallr001,00,,NP
 sub,browd004,"Domonic Brown",1,9,11
 play,7,1,browd004,12,.SBSS,K
@@ -9176,8 +9081,6 @@ play,5,0,harrw001,22,BCSBC,K
 play,5,1,ibanr001,12,CSFBC,K
 play,5,1,browd004,21,BFB,NP
 sub,stamc001,"Craig Stammen",0,9,1
-com,"Nationals pitcher Stephen Strasburg left the game due to an"
-com,"injured right elbow"
 play,5,1,browd004,32,BFB.FBX,43/G
 play,5,1,schnb001,22,CBFFBX,43/G
 play,6,0,stamc001,12,CBCX,43/G
@@ -9197,7 +9100,6 @@ play,6,1,utlec001,20,.*BBX,6/P
 play,6,1,howar001,32,BSBSB>S,K
 play,7,0,zimmr001,01,CX,6/P
 play,7,0,bernr001,00,X,2/BG/INT
-com,"$Roger Bernadina ran into his own bunt and was called out"
 play,7,0,kenna001,01,CX,13/G
 play,7,1,victs001,12,CBFX,53/G
 play,7,1,ibanr001,22,CCBFBS,K
@@ -9352,7 +9254,6 @@ play,6,1,oswar001,21,FBBX,7/F
 play,7,0,morsm001,22,FFBFBS,K
 play,7,0,kenna001,00,X,S7/F
 play,7,0,nievw001,00,X,6(1)3/GDP
-com,"rain delay of 1:44"
 play,7,1,rollj001,00,,NP
 sub,stamc001,"Craig Stammen",0,7,1
 play,7,1,rollj001,00,,NP
@@ -9482,7 +9383,6 @@ play,6,1,wertj001,00,X,D8/F
 play,6,1,ibanr001,22,BBFFS,K
 play,6,1,ruizc001,30,IIII,IW
 play,6,1,valdw001,00,N,PO2(26)
-com,"$this pickoff was a continuation of the IW"
 play,7,0,johnc003,32,CBCBBS,K
 play,7,0,wallb001,21,CBBX,8/F
 play,7,0,quinh001,11,BFX,S2/BG
@@ -9499,11 +9399,6 @@ play,8,0,myerb001,00,,NP
 sub,michj001,"Jason Michaels",0,9,11
 play,8,0,michj001,32,..CBBBSX,S9/G+
 play,8,0,bourm001,00,X,S3/BG.1-2
-com,"ej,manuc101,M,gibsg901,Call at 1B"
-com,"$Michael Bourn ran a little out of the line in foul territory to avoid the"
-com,"diving tag by Phillies first baseman Ryan Howard; Phillies Manager Charlie"
-com,"Manuel argued that Bourn was out of the base line and should be called out"
-com,"and was ejected by 1B umpire Greg Gibson"
 play,8,0,sanca005,10,.*BX,54/SH/BG.2-3;1-2
 play,8,0,pench001,22,CBBFS,K
 play,8,0,lee-c001,00,X,S7/L-.3-H;2-H
@@ -9748,31 +9643,15 @@ play,14,1,polap001,12,BFCX,S9/L
 play,14,1,utlec001,32,SFB*B1B>B,W.1-2
 play,14,1,howar001,02,FSF*B,WP.2-3;1-2
 play,14,1,howar001,12,FSF*B.FS,K
-com,"ej,howar001,P,barrs901,Checked swing"
-com,"ej,gloar001,P,gibsg901,Bench jockeying while on DL"
-com,"$3B umpire Scott Barry ruled that Phillies Ryan Howard did not check his"
-com,"swing for the second strike; Howard glared at Barry, who put his hands on"
-com,"his hips and glared back; the third strike was another check swing that"
-com,"Barry also ruled as a swing; Howard threw his bat and yelled at Barry"
-com,"and was ejected by Barry as he tossed his helmet away; Howard then charged"
-com,"toward Barry while HP umpire Greg Gibson tried to stop him; Howard told"
-com,"Gibson 'Don't you talk to me' as he moved down the 3B line; he had to be"
-com,"restrained by teammates and 2B umpire Scott Holbrook; Ross Gload was"
-com,"yelling from the bench; he was on the DL and not allowed to interact"
-com,"as he was doing, so he was ejected by HP umpire Greg Gibson"
 play,15,0,castj006,00,,NP
 sub,oswar001,"Roy Oswalt",1,4,7
 play,15,0,castj006,00,,NP
 sub,ibanr001,"Raul Ibanez",1,6,3
-com,"$the Phillies were out of position players, so pitcher Roy Oswalt was put"
-com,"in left field and left fielder Raul Ibanez moved to first base"
 play,15,0,castj006,00,....X,7/F
-com,"$the first play of the inning is a fly ball to left fielder Roy Oswalt"
 play,15,0,melam001,00,,NP
 sub,rodrw002,"Wandy Rodriguez",0,9,11
 play,15,0,rodrw002,02,.FSX,13/G
 play,15,0,bourm001,11,BLX,3/BG
-com,"$Raul Ibanez dove and tagged the bag to get the out on the bunt"
 play,15,1,wertj001,00,,NP
 sub,fulcj001,"Jeff Fulchino",0,9,1
 play,15,1,wertj001,10,.BX,7/F
@@ -9894,10 +9773,6 @@ play,6,0,pench001,32,FBBCBS,K
 play,6,1,hallr001,32,BCBSBX,S8/G
 play,6,1,rollj001,01,FX,7/F
 play,6,1,victs001,12,CFBFFX,S7/G.1-2
-com,"$the third pitch to Shane Victorino hit his left arm; HP umpire"
-com,"Brian Knight ruled that Victorino did not make an effort to avoid"
-com,"the pitch; Phillies manager Charlie Manuel argued the ruling and"
-com,"the umpires huddled on the infield; the call stood"
 play,6,1,polap001,21,FBBX,D7/L.2-H;1-3
 play,6,1,utlec001,11,BFX,4/P
 play,6,1,wertj001,12,CSFBX,43/G
@@ -9919,11 +9794,6 @@ play,7,1,ibanr001,11,..CBX,8/F.2-3
 play,7,1,rollj001,00,,NP
 sub,melam001,"Mark Melancon",0,9,1
 play,7,1,rollj001,22,.CSFB*B+3,PO3(25)
-com,"$Humberto Quintero blocked the pitch and the ball landed in front of the"
-com,"plate; Ben Francisco stood off the bag at third; Quintero picked up the"
-com,"ball and looked at Francisco then threw to Chris Johnson; Francisco moved"
-com,"back to the bag but missed it and stepped on Johnson's foot before getting"
-com,"on the bag; Johnson tagged Francisco before the latter touched the bag"
 play,8,0,melam001,00,,NP
 sub,contj002,"Jose Contreras",1,9,1
 play,8,0,melam001,00,,NP
@@ -10579,7 +10449,6 @@ start,schnb001,"Brian Schneider",1,7,2
 start,valdw001,"Wilson Valdez",1,8,6
 start,worlv001,"Vance Worley",1,9,1
 play,1,0,bonie001,01,CX,43/G
-com,"Debut game for Adalberto Mendez"
 play,1,0,morrl001,31,BBBCB,W
 play,1,0,ramih003,02,CFFB,WP.1-2
 play,1,0,ramih003,22,CFFB.FBT,K
@@ -10636,7 +10505,6 @@ play,7,0,davib004,01,CX,53/G
 play,7,0,menda001,00,X,S9/F-
 play,7,0,bonie001,00,,NP
 sub,lunah001,"Hector Luna",0,9,12
-com,"Marlins pitcher Adalberto Mendez left the game due to an injured leg"
 play,7,0,bonie001,20,.BBX,S9/G.1-2
 play,7,0,morrl001,00,,NP
 sub,basta001,"Antonio Bastardo",1,9,1
@@ -10688,7 +10556,6 @@ play,9,0,stanm004,00,,NP
 sub,roben001,"Nate Robertson",1,9,1
 play,9,0,stanm004,00,,NP
 sub,couss001,"Scott Cousins",0,6,12
-com,"Marlins center fielder Cameron Maybin left the game due to an injured knee"
 play,9,0,stanm004,32,..CBBBT>X,S5/G.3-H;2-3;1-2
 play,9,0,davib004,00,X,8/F
 play,9,1,howar001,00,,NP
@@ -10696,7 +10563,6 @@ sub,couss001,"Scott Cousins",0,6,9
 play,9,1,howar001,00,,NP
 sub,cedaj001,"Jose Ceda",0,7,1
 play,9,1,howar001,31,...BBBCX,D9/L
-com,"Debut game for Jose Ceda"
 play,9,1,wertj001,12,CBSX,S8/G.2-H
 play,9,1,ibanr001,31,BBBCB,W.1-2
 play,9,1,ruizc001,00,,NP
@@ -11109,7 +10975,6 @@ play,3,1,ruizc001,00,X,S7/L.2-H;1-2
 play,3,1,hamec001,22,BBSFFFS,K
 play,4,0,uggld001,00,,NP
 sub,valdw001,"Wilson Valdez",1,6,6
-com,"Phillies shortstop Jimmy Rollins left the game due to an injured leg"
 play,4,0,uggld001,10,.BX,2/P
 play,4,0,stanm004,12,CCBFS,K
 play,4,0,helmw001,32,FBSBBFFB,W
@@ -11625,11 +11490,6 @@ play,6,1,blanj001,00,,NP
 sub,dobbg001,"Greg Dobbs",1,9,11
 play,6,1,dobbg001,11,.BSX,4/P
 play,6,1,victs001,22,BCFFBFFS,K
-com,"ej,victs001,P,herna901,Checked swing"
-com,"$Phillies center fielder Shane Victorino was called out on a check swing by 3B"
-com,"umpire Angel Hernandez; Victorino threw his bat and helmet down and was ejected"
-com,"by Hernandez; Victorino ran towards third base but was stopped by 3B coach"
-com,"Sam Perlozzo"
 play,7,0,rodri001,00,,NP
 sub,baezd001,"Danys Baez",1,1,1
 play,7,0,rodri001,00,,NP
@@ -11746,7 +11606,6 @@ start,ruizc001,"Carlos Ruiz",1,7,2
 start,valdw001,"Wilson Valdez",1,8,6
 start,hamec001,"Cole Hamels",1,9,1
 play,1,0,infao001,12,CFBFS,K
-com,"Debut game for Brandon Beachy"
 play,1,0,heywj001,10,BX,S6/G
 play,1,0,pradm001,21,CBBX,54(1)3/GDP
 play,1,1,victs001,32,BBCCBX,6/P
@@ -12267,9 +12126,6 @@ play,9,0,ariaj001,00,,NP
 sub,felij002,"Jesus Feliciano",0,8,11
 play,9,0,felij002,02,.C.F,NP
 sub,castl001,"Luis Castillo",0,7,12
-com,"$with 2 strikes and Lidge ready to pitch, Mets manager Manuel called"
-com,"time out as batter grounded back to pitcher for apparent end of game."
-com,"He inserted pinch-runner to distract Lidge who then completed strikeout"
 play,9,0,felij002,02,.C.FS,K23
 data,er,dickr001,2
 data,er,desse001,0

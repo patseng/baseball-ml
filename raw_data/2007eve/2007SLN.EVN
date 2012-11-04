@@ -120,7 +120,6 @@ play,8,1,milea001,31,.BBBCB,W
 play,8,1,ecksd001,00,,NP
 sub,smitj002,"Joe Smith",0,9,1
 play,8,1,ecksd001,02,.CF>FX,S7/G.1-2
-com,"Debut game for Joe Smith"
 play,8,1,wilsp002,02,CFS,K
 play,8,1,pujoa001,31,BBBCB,W.2-3;1-2
 play,8,1,roles001,00,,NP
@@ -1323,7 +1322,6 @@ play,4,0,dunna001,12,CCBFS,K
 play,4,0,grifk002,20,BBX,3/G
 play,4,0,encae001,02,CFX,43/G
 play,4,1,roles001,22,BFFBX,DGR/7
-com,"fan interference"
 play,4,1,edmoj001,02,FFX,S8/G.2-H
 play,4,1,wilsp002,10,BX,7/F
 play,4,1,kenna001,11,CBX,7/F
@@ -1672,7 +1670,6 @@ play,7,1,ecksd001,00,.X,2/P2F
 play,8,0,soria001,00,,NP
 sub,jimek001,"Kelvin Jimenez",1,9,1
 play,8,0,soria001,21,.BCBX,S9/L
-com,"Debut game for Kelvin Jimenez"
 play,8,0,therr001,32,LPLB1F1*B>X,3/P
 play,8,0,lee-d002,32,BCB+1FB>S,K+SB2.1-3(E2/TH)
 play,8,0,ramia001,30,BBBB,W
@@ -2388,7 +2385,6 @@ play,3,0,tulot001,32,BFFB.BFX,D9/F.2-H
 play,3,0,hollm001,10,BX,63/G
 play,3,1,moliy001,20,BBX,S9/L
 play,3,1,ecksd001,02,FFX,46(1)3/G/DP/RINT
-com,"$GDP awarded for runner interference"
 play,3,1,reyea002,12,CSBX,63/G
 play,4,0,heltt001,12,CBCFFX,53/G
 play,4,0,atkig001,32,FBCFBBFS,K
@@ -2436,9 +2432,6 @@ play,9,0,finls001,00,,NP
 sub,falkb001,"Brian Falkenborg",1,9,1
 play,9,0,finls001,12,.BCFX,31/G
 play,9,0,tulot001,01,CX,D8/F
-com,"ej,hurdc001,M,davib902,Call on whether hit was over the wall"
-com,"Rockies Manager Clint Hurdle ejected by 2B umpire Bob Davidson"
-com,"for arguing that Tulowitzki's fly ball went over the fence"
 play,9,0,hollm001,31,BBFBB,W
 play,9,0,heltt001,00,,NP
 sub,johnt002,"Tyler Johnson",1,9,1
@@ -3184,7 +3177,6 @@ play,6,1,loopb001,00,,NP
 sub,baylj001,"Jonah Bayliss",0,9,1
 play,6,1,loopb001,00,,NP
 sub,spies001,"Scott Spiezio",1,9,11
-com,"Pirates pitcher Tom Gorzelanny left the game due to an injured hand/wrist"
 play,6,1,spies001,12,..CSFBS,K
 play,6,1,ecksd001,11,BFX,7/F
 play,7,0,bay-j001,00,,NP
@@ -3648,7 +3640,6 @@ play,4,0,florj002,01,CX,4/P
 play,4,1,pujoa001,31,BBBCX,S6/G
 play,4,1,encaj001,12,BCFX,4/P
 play,4,1,roles001,32,1CBSBFBX,S5/G.1-2
-com,"$Rolen and Young collide"
 play,4,1,moliy001,11,BCX,9/F.2-3
 play,4,1,milea001,10,*BX,7/L
 play,5,0,langr002,10,BX,4/P
@@ -3657,7 +3648,6 @@ play,5,0,lopef001,00,X,S7/L
 play,5,0,bellr002,01,1FX,HR/7/F.1-H
 play,5,0,zimmr001,00,X,S8/G
 play,5,0,churr001,02,CFX,13/G
-com,"61 minute rain delay"
 play,5,1,kenna001,00,,NP
 sub,logan001,"Nook Logan",0,5,8
 play,5,1,kenna001,00,,NP
@@ -3666,7 +3656,6 @@ play,5,1,kenna001,00,,NP
 sub,langr002,"Ryan Langerhans",0,8,9
 play,5,1,kenna001,00,,NP
 sub,rives001,"Saul Rivera",0,9,1
-com,"Nationals first baseman Dmitri Young left the game due to a lower lumbar strain"
 play,5,1,kenna001,12,.....FBFFS,K
 play,5,1,waina001,21,CBBX,8/F
 play,5,1,tagus001,00,X,7/F
@@ -3708,7 +3697,6 @@ sub,keara001,"Austin Kearns",0,9,11
 play,8,0,keara001,00,,NP
 sub,catet001,"Troy Cate",1,9,1
 play,8,0,keara001,11,..CBX,7/F
-com,"Debut game for Troy Cate"
 play,8,1,spies001,00,,NP
 sub,coloj001,"Jesus Colome",0,9,1
 play,8,1,spies001,20,.BBX,HR/9/F
@@ -3716,7 +3704,6 @@ play,8,1,pujoa001,11,CBX,S8/F
 play,8,1,encaj001,01,CX,64(1)/FO/G
 play,8,1,roles001,00,,NP
 sub,duncc002,"Chris Duncan",1,5,11
-com,"Scott Rolen left with a possible concussion from the earlier collision"
 play,8,1,duncc002,10,.B>B,DI.1-2
 play,8,1,duncc002,32,.B>B.BCST,K
 play,8,1,moliy001,00,X,53/G
@@ -3808,7 +3795,6 @@ play,2,1,encaj001,32,BBFFBX,S8/G
 play,2,1,benng001,01,1FH,HP.1-2
 play,2,1,kenna001,00,,NP
 sub,stink001,"Kelly Stinnett",1,7,12
-com,"$Bennett hit in back of helmet by pitch, left with contusion"
 play,2,1,kenna001,02,..FFT,K
 play,2,1,wellt002,22,BBLCS,K
 play,2,1,ecksd001,01,CX,S7/L-.2-H;1-2
@@ -4066,7 +4052,6 @@ sub,valej004,"Javier Valentin",0,7,2
 play,8,1,encaj001,00,,NP
 sub,mcbem001,"Marcus McBeth",0,9,1
 play,8,1,encaj001,12,..BFFX,9/F
-com,"Debut game for Marcus McBeth"
 play,8,1,milea001,00,X,5/P5F
 play,8,1,stink001,12,BCFX,6/P
 play,9,0,castj004,00,,NP
@@ -4205,7 +4190,6 @@ play,8,1,spies001,00,.X,43/G
 play,9,0,rossd001,00,,NP
 sub,cavaa001,"Andy Cavazos",1,1,1
 play,9,0,rossd001,12,.CFFBX,D7/L
-com,"Debut game for Andy Cavazos"
 play,9,0,lohsk001,00,X,54/SH/BG.2-3
 play,9,0,hatts001,01,CX,4/P
 play,9,0,castj004,32,BC*BBFFB,W
@@ -4491,7 +4475,6 @@ play,4,1,ecksd001,12,CBCX,13/G
 play,4,1,duncc002,22,FBCBX,43/G
 play,4,1,pujoa001,30,BBBB,W
 play,4,1,edmoj001,00,X,DGR/9.1-3
-com,"fan interference"
 play,4,1,roles001,22,FSBBFS,K
 play,5,0,kotcc001,11,CBX,3/G
 play,5,0,andeg001,32,SBFFBBFFX,S9/L
@@ -4500,7 +4483,6 @@ play,5,0,molij001,01,SX,9/F
 play,5,0,sante001,12,CC*BS,K
 play,5,1,encaj001,00,,NP
 sub,willr004,"Reggie Willits",0,6,7
-com,"Angels left fielder Garret Anderson left the game due to an injured leg"
 play,5,1,encaj001,10,.BX,HR/7/L
 play,5,1,kenna001,02,CCS,K
 play,5,1,benng001,32,FBCFBBFFFFX,63/G
@@ -4513,7 +4495,6 @@ play,6,0,kotcc001,22,BCBFH,HP.2-3;1-2
 play,6,0,willr004,21,CBBX,8/F
 play,6,1,ecksd001,00,,NP
 sub,quinr002,"Robb Quinlan",0,5,3
-com,"Angels first baseman Casey Kotchman left the game due to an injured elbow"
 play,6,1,ecksd001,22,.BBCFX,S9/L
 play,6,1,duncc002,22,BBCFS,K
 play,6,1,pujoa001,32,CCB*B*B>X,8/L
@@ -4657,7 +4638,6 @@ play,4,0,hills002,22,BFSBFFT,K
 play,4,0,napom001,30,BBBX,S8/L.2-H;1-2
 play,4,0,weavj003,00,,NP
 sub,haynn001,"Nathan Haynes",0,9,11
-com,"Angels pitcher Jered Weaver left the game due to an injured back"
 play,4,0,haynn001,32,.BFCFFBB>F>F>F>B,W.2-3;1-2
 play,4,0,willr004,00,X,8/F
 play,4,0,figgc001,01,FX,7/F
@@ -6590,7 +6570,6 @@ sub,wellk001,"Kip Wells",1,2,1
 play,8,0,klesr001,00,,NP
 sub,ludwr001,"Ryan Ludwick",1,9,9
 play,8,0,klesr001,12,..FFBX,DGR/9
-com,"fan interference"
 play,8,0,rodrg001,01,CX,63/G
 play,8,0,aurir001,11,BFX,3/P3F
 play,8,0,vizqo001,11,CBX,1/P
@@ -6855,7 +6834,6 @@ play,3,1,milea001,00,,NP
 sub,therr001,"Ryan Theriot",0,2,4
 play,3,1,milea001,00,,NP
 sub,ceder002,"Ronny Cedeno",0,6,6
-com,"Cubs second baseman Mark DeRosa left the game due to an injured leg"
 play,3,1,milea001,22,..BBCFX,D8/L
 play,3,1,moliy001,11,BFX,43/G.2-3
 play,3,1,wellk001,32,FFBB*BS,K
@@ -7432,7 +7410,6 @@ play,9,0,menck001,00,,NP
 sub,ludwr001,"Ryan Ludwick",1,9,9
 play,9,0,menck001,01,....FX,S9/G+
 play,9,0,estrj001,01,FX,E4/FO/G.1-3
-com,"Previous play is actually 6E4"
 play,9,0,graft001,01,FX,64(1)/FO/G.3-H(UR)
 play,9,0,vargc001,00,,NP
 sub,jenkg001,"Geoff Jenkins",0,9,11
@@ -7558,9 +7535,6 @@ play,6,1,moliy001,21,BCBX,8/F
 play,6,1,milea001,02,CCFX,T9/L
 play,6,1,falkb001,00,,NP
 sub,schus001,"Skip Schumaker",1,9,11
-com,"ej,larut101,M,gibsg901,Checked swing"
-com,"Cardinals Manager Tony La Russa ejected by 3B umpire Greg Gibson for"
-com,"arguing a check swing call to Schumaker"
 play,6,1,schus001,12,.CBS.S,K
 play,7,0,hallb001,00,,NP
 sub,perct001,"Troy Percival",1,9,1
@@ -8060,7 +8034,6 @@ sub,florr001,"Randy Flores",1,8,1
 play,9,0,gonza003,01,.FX,9/F
 play,9,0,ensbm001,00,X,S9/L-
 play,9,0,greek002,02,FSX,DGR/7/L.1-3
-com,"fan interference"
 play,9,0,bardj001,10,BX,8/SF/F.3-H
 play,9,0,blumg001,21,BCBX,S6/G.2-3
 play,9,0,thomm004,00,,NP
@@ -8461,7 +8434,6 @@ play,5,1,kenna001,32,BBBCFX,3/G
 play,5,1,ecksd001,31,BBBCX,8/F
 play,5,1,ankir001,22,SSFBBS,K
 play,6,0,hairs001,00,X,S7/L.BX2(74)
-com,"Hairston strained left oblique muscle and left next inning"
 play,6,0,blumg001,12,CBFX,8/F
 play,6,0,camem001,11,CBH,HP
 play,6,0,gonza003,21,BFB1X,4/L
@@ -9985,10 +9957,6 @@ play,6,0,valej004,11,BFX,564(1)/FO/G
 play,6,0,hatts001,31,CBBBX,8/F
 play,6,0,encae001,21,*BBCX,6/P
 play,6,1,milea001,12,FFBFFFC,K
-com,"$Cardinals Juan Encarnacion was struck on the eye with a foul ball"
-com,"from Aaron Miles while standing in the on deck circle. He was taken"
-com,"to the hospital where 'multiple fractures of left eye socket"
-com,"were found. Encarnacion onto DL for remainder of year"
 play,6,1,florr001,00,,NP
 sub,tagus001,"So Taguchi",1,8,11
 play,6,1,tagus001,00,,NP
@@ -10157,7 +10125,6 @@ sub,goslm001,"Mike Gosling",0,9,1
 play,6,1,milea001,21,.LBBX,9/L
 play,6,1,ryanb002,00,X,S8/G+
 play,6,1,ecksd001,32,BSFBFBX,E6/G.1-3;B-2
-com,"Previous play is actually 3E6"
 play,6,1,ankir001,12,FS*BX,D8/L.3-H(UR);2-H
 play,6,1,pujoa001,30,BBII,IW
 play,6,1,ludwr001,30,BBBB,W.2-3;1-2
@@ -10209,7 +10176,6 @@ sub,duncc002,"Chris Duncan",1,6,3
 play,9,0,hamij003,12,SBSF,NP
 sub,jimek001,"Kelvin Jimenez",1,3,1
 play,9,0,hamij003,22,...SBSF.BX,7/F
-com,"Percival left after 4 pitches with Hamilton still at bat - injury?"
 play,9,0,keppj001,21,BBCX,S49/G+
 play,9,0,ellij001,00,X,7/F
 play,9,0,philb001,00,X,8/L
@@ -10454,7 +10420,6 @@ play,4,1,milea001,21,CB*BX,64(1)3/GDP
 play,5,0,nadyx001,22,CBBFFFH,HP
 play,5,0,bay-j001,00,,NP
 sub,mclon001,"Nate McLouth",0,4,12
-com,"Pirates Xavier Nady left the game due to an injured head"
 play,5,0,bay-j001,10,..BX,2/P2F
 play,5,0,pears001,11,CBX,T9/F.1-H
 play,5,0,paulr001,11,BSX,D8/L.3-H
@@ -11011,7 +10976,6 @@ sub,david003,"Dave Davidson",0,2,1
 play,6,1,ryanb002,00,,NP
 sub,castj005,"Jose Castillo",0,9,5
 play,6,1,ryanb002,21,..BFBX,S8/L
-com,"Debut game for Dave Davidson"
 play,6,1,ecksd001,32,CBCBBFX,D7/L.1-3
 play,6,1,ankir001,10,BX,D9/L.3-H;2-H
 play,6,1,pujoa001,00,X,43/G.2-3
@@ -11067,7 +11031,6 @@ play,8,1,tagus001,11,BFX,53/G
 play,9,0,phelj001,00,,NP
 sub,edmoj001,"Jim Edmonds",1,3,3
 play,9,0,phelj001,32,.CBBBFH,HP
-com,"$Game called for rain"
 data,er,bullb001,5
 data,er,vanbj001,5
 data,er,grabj002,2
@@ -11669,8 +11632,6 @@ play,7,1,pujoa001,32,BBBCF>F>B,W.2-3;1-2
 play,7,1,edmoj001,00,,NP
 sub,howrb001,"Bob Howry",0,9,1
 play,7,1,edmoj001,12,.BCCX,3/P
-com,"ej,edmoj001,P,schrp901,Balls and strikes"
-com,"Cardinals center fielder Jim Edmonds ejected by HP umpire Paul Schrieber"
 play,8,0,lee-d002,00,,NP
 sub,milea001,"Aaron Miles",1,1,6
 play,8,0,lee-d002,00,,NP

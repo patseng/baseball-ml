@@ -303,7 +303,6 @@ play,11,1,hallt001,02,CFX,63/G
 play,11,1,grieb001,20,BB,NP
 sub,farnj001,"Jeff Farnsworth",0,0,1
 play,11,1,grieb001,32,BBCFBS,K
-com,"Debut game for Jeff Farnsworth"
 play,11,1,smitr003,22,BFBFFFFC,K/C
 play,12,0,easld001,00,X,S9
 play,12,0,macij001,10,BX,24/SH.1-2
@@ -397,7 +396,6 @@ play,3,1,vaugg001,32,FBBBCFB,W.1-2
 play,3,1,hallt001,00,,NP
 sub,peart001,"Terry Pearson",0,0,1
 play,3,1,hallt001,22,BFBFFX,6(1)3/GDP.2-3
-com,"Debut game for Terry Pearson"
 play,3,1,grieb001,21,BCBX,S7.3-H
 play,3,1,smitr003,12,SSBS,K
 play,4,0,yound001,12,BFSS,K
@@ -428,7 +426,6 @@ sub,winnr001,"Randy Winn",1,8,8
 play,6,0,fickr001,00,,NP
 sub,escaf001,"Felix Escalona",1,9,6
 play,6,0,fickr001,31,CBBBX,9/F9
-com,"Debut game for Felix Escalona"
 play,6,0,yound001,21,FBBX,43/G
 play,6,0,paquc001,22,BSSBC,K/C
 play,6,1,tynej001,00,,NP
@@ -453,7 +450,6 @@ play,7,1,winnr001,32,FCBBBFX,43/G
 play,8,0,macij001,00,,NP
 sub,kents001,"Steven Kent",1,0,1
 play,8,0,macij001,00,X,43/G
-com,"Debut game for Steven Kent"
 play,8,0,magew001,32,BCBBFFFX,S
 play,8,0,halts001,32,SBBBFX,E5/TH.1-2
 play,8,0,fickr001,12,BCFS,K
@@ -472,7 +468,6 @@ sub,smitj001,"Jason Smith",1,2,4
 play,9,0,jackd003,00,,NP
 sub,sosaj002,"Jorge Sosa",1,0,1
 play,9,0,jackd003,10,BX,9/F9
-com,"Debut game for Jorge Sosa"
 play,9,0,cruzj003,10,BX,HR/8
 play,9,0,rivem003,31,BBBCX,HR/89
 play,9,0,easld001,00,X,9/F9
@@ -575,7 +570,6 @@ play,4,1,smitr003,12,FSBX,D8/8D
 play,4,1,gomec001,00,,NP
 sub,millj002,"Justin Miller",0,0,1
 play,4,1,gomec001,01,CH,HP
-com,"Debut game for Justin Miller"
 play,4,1,tynej001,10,BH,HP.2-3;1-2
 play,4,1,winnr001,21,BBFX,8/SF.3-H
 play,4,1,cox-s001,32,SBBBSFS,K
@@ -1592,8 +1586,6 @@ play,7,1,cox-s001,12,BFFX,3/G.1-2#
 play,7,1,hallt001,32,SBFBBX,8/F8
 play,7,1,grieb001,30,IIII,IW
 play,7,1,vaugg001,12,CBFC,K/C
-com,"ej,vaugg001,P,welkb901,Called third strike"
-com,"Greg Vaughn ejected by HP umpire Bill Welke"
 play,8,0,guzmc001,00,,NP
 sub,zambv001,"Victor Zambrano",1,0,1
 play,8,0,guzmc001,01,FX,43/G
@@ -3207,7 +3199,6 @@ sub,tynej001,"Jason Tyner",1,6,11
 play,9,1,tynej001,12,BCCX,S7/7S
 play,9,1,gomec001,11,FBX,S.1-2
 play,9,1,flahj001,00,X,35(2)/FO/BG3S.1-2
-com,"$great dive, almost caught bunt pop"
 play,9,1,sandj001,12,CBFC,K/C
 play,9,1,aberb001,00,X,S9.2-H;1-2
 play,9,1,winnr001,22,BSSFBX,HR/89.2-H;1-H
@@ -3298,7 +3289,6 @@ play,3,1,grieb001,32,BCFBBFC,K/C
 play,4,0,fordb001,01,CX,S8
 play,4,0,hairj002,02,CFX,9/F9
 play,4,0,moram002,10,BX,53/BG.1-2
-com,"originally scored as SH, changed two days later"
 play,4,0,singc001,00,X,S9.2XH(92)#
 play,4,1,vaugg001,11,BCX,S8
 play,4,1,contj001,21,SBBX,63/G.1-2
@@ -3472,10 +3462,6 @@ play,7,1,winnr001,01,CX,S7
 play,7,1,cox-s001,22,BBFFFH,HP.1-2
 play,7,1,vaugg001,00,X,6/P6
 play,7,1,grieb001,11,CBX,3/G#
-com,"ej,pinil001,M,shulj901,Pointing out replays on video board"
-com,"Mariners Manager Lou Piniella ejected by HP umpire John Shulock"
-com,"in 8th for pointing out replays on the scoreboard to the umpires;"
-com,"Piniella kicked dirt over the plate, covering it"
 play,8,0,camem001,00,,NP
 sub,contj001,"Jason Conti",1,4,7
 play,8,0,camem001,02,CSFS,K
@@ -3608,8 +3594,6 @@ sub,camem001,"Mike Cameron",0,2,8
 play,7,1,huffa001,10,BX,63/G
 play,7,1,gomec001,00,X,8/F8
 play,7,1,smitj001,22,BSCBFS,K
-com,"ej,mcrah001,M,everm901,Unknown reason"
-com,"Devil Rays Manager Hal McRae ejected by HP umpire Mike Everitt in 8th"
 play,8,0,olerj001,12,BCFFS,K
 play,8,0,sierr001,32,CBBCFBB,W
 play,8,0,guilc001,22,CBFBS,K
@@ -3805,7 +3789,6 @@ play,10,1,johnr006,10,BH,HP.1-2
 play,10,1,vaugg001,00,,NP
 sub,bradc001,"Chadwick Bradford",0,0,1
 play,10,1,vaugg001,02,CFFX,5(B)6(2)/LDP
-com,"5 man infield"
 play,11,0,byrne001,22,BCSBX,7/F7
 play,11,0,chave001,01,CX,8/F8
 play,11,0,longt002,11,BSX,4/P4
@@ -3959,9 +3942,6 @@ play,6,0,tejam001,12,CCBX,E5/TH1
 play,6,0,dye-j001,32,CBCBBFB,W.1-2
 play,6,0,chave001,11,BFX,7/L7
 play,6,0,piata001,11,CBH,HP.2-3;1-2
-com,"$pitch deflected off catcher and hit umpire Rippley"
-com,"in temple. Result non-displaced fracture, carried"
-com,"off field, expected to miss 10 days."
 play,6,0,longt002,00,,NP
 sub,creed001,"Doug Creek",1,0,1
 play,6,0,longt002,22,CBBSFX,8/F8
@@ -4657,7 +4637,6 @@ play,1,0,kotsm001,00,X,8/L8
 play,1,0,jimed001,02,CCC,K/C
 play,1,0,klesr001,12,CBFX,9/F9
 play,1,1,winnr001,10,BX,HR/9
-com,"Winn homers on his birthday!"
 play,1,1,vaugg001,31,BBFBB,W
 play,1,1,cox-s001,32,CFFFBBBFB,W.1-2
 play,1,1,grieb001,12,CFFBC,K/C
@@ -4717,8 +4696,6 @@ play,6,1,winnr001,32,BBSCFBFX,D/78.1-H
 play,6,1,vaugg001,00,,NP
 sub,myerr002,"Rodney Myers",0,0,1
 play,6,1,vaugg001,32,FCBBBX,6/FL
-com,"great play by Matos after Jimenez collides with"
-com,"bullpen catcher"
 play,7,0,jimed001,01,FX,S
 play,7,0,klesr001,10,BB,PB.1-2
 play,7,0,klesr001,31,BBCBX,9/F9.2-3
@@ -6664,7 +6641,6 @@ play,7,1,aberb001,12,CBSX,8/F8
 play,7,1,cox-s001,10,BX,D/89D
 play,7,1,huffa001,30,IIII,IW
 play,7,1,hallt001,01,CX,S5.2-3;1X2(4)
-com,"apparently no assists"
 play,7,1,grieb001,00,,NP
 sub,watsm001,"Mark Watson",0,0,1
 play,7,1,grieb001,31,BBFBX,4/P4
@@ -6936,7 +6912,6 @@ play,6,0,byrne001,00,X,8/F8
 play,6,1,mccad001,01,FX,53/G
 play,6,1,grieb001,12,BCSC,K/C
 play,6,1,flahj001,31,BBBCX,S6/G
-com,"originally scored E6"
 play,6,1,gomec001,00,X,63/G
 play,7,0,myerg001,00,,NP
 sub,harpt002,"Travis Harper",1,0,1
@@ -7267,9 +7242,6 @@ play,9,0,hendr001,22,BBFCC,K/C
 play,9,0,damoj001,22,BCBSX,4/P4
 play,9,0,garcn001,22,BFBSX,D/78
 play,9,0,ramim002,10,BH,HP
-com,"ej,mcrah001,M,marqa901,Intentional HBP"
-com,"ej,yan-e001,P,marqa901,Intentional HBP"
-com,"Esteban Yan and Devil Rays Manager Hal McRae ejected by HP umpire Alfonzo Marquez"
 play,9,0,hills002,00,,NP
 sub,coloj001,"Jesus Colome",1,0,1
 play,9,0,hills002,01,CX,46(1)/FO
@@ -7836,7 +7808,6 @@ play,5,1,gomec001,32,FBBFFBX,S8.1-3
 play,5,1,crawc002,00,,NP
 sub,ryanb001,"B.J. Ryan",0,0,1
 play,5,1,crawc002,12,SFFBX,S3.3-3;1-2;B-1
-com,"originally FC3, changed to single next day"
 play,5,1,sandj001,22,BCCFBS,K
 play,5,1,contj001,00,,NP
 sub,winnr001,"Randy Winn",1,1,11
@@ -7938,7 +7909,6 @@ start,gomec001,"Chris Gomez",1,8,6
 start,crawc002,"Carl Crawford",1,9,7
 start,kennj001,"Joe Kennedy",1,0,1
 play,1,0,moram002,02,CFFFS,K
-com,"Debut game for John Stephens"
 play,1,0,robeb003,02,SFC,K/C
 play,1,0,mattg002,10,BX,3/FL
 play,1,1,contj001,01,CX,D9
@@ -8742,8 +8712,6 @@ play,6,0,konep001,21,FBBX,3/G.2-3#
 play,6,0,thomf001,11,CBH,HP
 play,6,0,credj001,10,BX,S7/7S.3-H;1-2
 play,6,0,clayr001,32,FBBFBX,S9.2XH(92);1-3#
-com,"second consecutive game in which Thomas was thrown out at home"
-com,"by Conti trying to score from 2B"
 play,6,0,paulj001,20,BBX,8/L8
 play,6,1,huffa001,01,CX,HR/8
 play,6,1,sandj001,12,BFSFX,HR/7
@@ -9271,7 +9239,6 @@ start,gomec001,"Chris Gomez",1,8,6
 start,escaf001,"Felix Escalona",1,9,4
 start,kennj001,"Joe Kennedy",1,0,1
 play,1,0,crisc001,10,BX,7/F7
-com,"Debut game for Covelli Crisp"
 play,1,0,vizqo001,22,CCBBX,8/F8
 play,1,0,burke001,00,X,D9/9D
 play,1,0,thomj002,01,CX,43/G
@@ -9833,7 +9800,6 @@ play,9,0,guiea001,22,BCBCS,K
 play,9,0,beltc001,32,BFBBFX,S8/8S
 play,9,0,sweem002,00,,NP
 sub,gomec001,"Chris Gomez",1,9,6
-com,"Was Sheets injured?"
 play,9,0,sweem002,20,BBX,HR/8.1-H
 play,9,0,ibanr001,01,CX,8/F8
 data,er,suppj001,5
@@ -10587,8 +10553,6 @@ play,9,1,winnr001,30,BBBB,W
 play,9,1,huffa001,31,BBCBB,W.1-2
 play,9,1,cox-s001,31,BBBCB,W.2-3;1-2
 play,9,1,hallt001,31,CBBBB,W.3-H;2-3;1-2
-com,"ej,parkc002,P,wintm901,Balls and strikes"
-com,"Chan Ho Park ejected by HP umpire Mike Winters"
 play,9,1,grieb001,00,,NP
 sub,seanr001,"Rudy Seanez",0,0,1
 play,9,1,grieb001,00,X,46(1)3/GDP
@@ -10856,11 +10820,6 @@ play,7,0,garcn001,10,BX,7/F7
 play,7,0,ramim002,11,BSX,HR/7
 play,7,0,floyc001,11,BFX,7/F7D
 play,7,1,escaf001,00,H,HP
-com,"ej,littg801,M,crawj901,Intentional HBP by Derek Lowe"
-com,"ej,lowed001,P,crawj901,Intentional HBP"
-com,"Derek Lowe and Red Sox Manager Grady Little ejected by HP umpire"
-com,"Jerry Crawford; Lowe said it was not on purpose but Crawford said"
-com,"'he hit the same guy on successive pitches'"
 play,7,1,rolld001,00,,NP
 sub,embra001,"Alan Embree",0,0,1
 play,7,1,rolld001,12,CFBS,K
@@ -11010,7 +10969,6 @@ play,7,0,clart002,00,X,4/P4
 play,7,0,sancr001,00,,NP
 sub,sancf001,"Freddy Sanchez",0,9,11
 play,7,0,sancf001,12,BCFFX,S8.3-H;2-H;1-2
-com,"Debut game for Freddy Sanchez"
 play,7,0,damoj001,01,CX,9/F9
 play,7,1,winnr001,00,,NP
 sub,sancf001,"Freddy Sanchez",0,9,4
@@ -11022,7 +10980,6 @@ play,7,1,cox-s001,00,,NP
 sub,johnr006,"Russ Johnson",1,5,11
 play,7,1,johnr006,11,BFX,S7.1-2
 play,7,1,sandj001,01,SX,6(2)6(1)/GDP
-com,"box scores all clear on the scoring, no details"
 play,8,0,hills002,00,,NP
 sub,contj001,"Jason Conti",1,3,8
 play,8,0,hills002,00,,NP
@@ -11031,9 +10988,6 @@ play,8,0,hills002,12,CFBFX,E5/TH1.B-2
 play,8,0,garcn001,00,,NP
 sub,merll001,"Lou Merloni",0,3,11
 play,8,0,merll001,00,H,HP
-com,"ej,gardl001,P,gormb901,Intentional HBP"
-com,"ej,mcrah001,M,gormb901,Intentional HBP"
-com,"Lee Gardner and Devil Rays Manager Hal McRae ejected by HP umpire Brian Gorman"
 play,8,0,ramim002,00,,NP
 sub,phelt001,"Travis Phelps",1,0,1
 play,8,0,ramim002,00,,NP
@@ -11067,7 +11021,6 @@ play,9,0,hills002,01,CX,9/F9
 play,9,1,grieb001,00,,NP
 sub,hancj001,"Joshua Hancock",0,0,1
 play,9,1,grieb001,21,BBFX,8/F8
-com,"Debut game for Joshua Hancock"
 play,9,1,contj001,22,CBFFBFX,53/G
 play,9,1,huffa001,00,X,53/G
 data,er,burkj001,1
@@ -11317,7 +11270,6 @@ play,5,1,crawc002,02,FCX,6/P6
 play,6,0,sancr001,10,BX,13/G
 play,6,0,damoj001,32,CFBFBBX,S9/9S
 play,6,0,hills002,10,BX,D7.1-3
-com,"$second pitch high & inside to Garciaparra; Hollowell warned teams"
 play,6,0,garcn001,30,BBBB,W
 play,6,0,ramim002,21,BCBX,46(1)3/GDP
 play,6,1,winnr001,01,CX,43/G
@@ -11479,7 +11431,6 @@ play,6,1,rolld001,01,CX,3/L3
 play,6,1,crawc002,21,BBFX,8/F8
 play,7,0,soria001,10,BX,S7/7S
 play,7,0,jeted001,11,BCH,HP.1-2
-com,"$Jeter hit on hand, left next inning"
 play,7,0,giamj001,02,CFX,5/P5
 play,7,0,willb002,21,CBBX,T/89.2-H;1-H
 play,7,0,posaj001,00,,NP
@@ -11598,7 +11549,6 @@ play,3,1,sandj001,00,,NP
 sub,whitr001,"Rondell White",0,8,7
 play,3,1,sandj001,00,,NP
 sub,rivej001,"Juan Rivera",0,9,9
-com,"$Spencer left with aggravated left hamstring"
 play,3,1,sandj001,32,CBCBBC,K/C
 play,3,1,aberb001,01,CX,43/G
 play,3,1,escaf001,00,X,63/G
@@ -11942,8 +11892,6 @@ play,6,1,hallt001,10,BX,3/FL
 play,6,1,sandj001,00,X,63/G
 play,7,0,woodc001,31,BBBCX,S7
 play,7,0,hudso001,22,BFFBX,43/G.1X1(36E2)
-com,"After groundout, Woodward in rundown, but returned"
-com,"safely to first when catcher dropped throw"
 play,7,0,cashk001,00,X,64(1)3/GDP
 play,7,1,sheea001,32,FFBFBBC,K/C
 play,7,1,gomec001,11,BFX,53/G

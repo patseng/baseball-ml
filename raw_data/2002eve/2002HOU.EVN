@@ -298,7 +298,6 @@ play,8,0,sexsr001,11,SBX,9/F9D
 play,8,1,lugoj001,00,,NP
 sub,nomut001,"Takahito Nomura",0,9,1
 play,8,1,lugoj001,02,FCS,K
-com,"Debut game for Takahito Nomura"
 play,8,1,huntb002,12,BFSS,K
 play,8,1,biggc001,11,CBX,63/G
 play,9,0,staim001,00,,NP
@@ -3164,7 +3163,6 @@ play,1,1,berkl001,01,FX,43/G
 play,1,1,wardd002,11,BCX,8/F8
 play,2,0,mackr001,00,,NP
 sub,hidar001,"Richard Hidalgo",1,2,9
-com,"$Merced strained right knee, aggravating injury of 5-8"
 play,2,0,mackr001,11,CBX,8/F8D
 play,2,0,kendj001,21,CBBX,8/F8
 play,2,0,wilsc003,02,CSX,D7
@@ -4121,7 +4119,6 @@ play,4,1,biggc001,12,BCSFFS,K
 play,4,1,berkl001,32,FBBFFBX,63/G
 play,5,0,morrm001,01,CX,53/G
 play,5,0,vinaf001,21,BFBX,S4/G
-com,"originally scored as E4"
 play,5,0,rente001,10,BX,64(1)3/GDP
 play,5,1,bagwj001,00,X,S8
 play,5,1,wardd002,02,CFS,K
@@ -5596,8 +5593,6 @@ play,8,0,suzui001,00,,NP
 sub,doteo001,"Octavio Dotel",1,9,1
 play,8,0,suzui001,01,CX,6/L6
 play,8,0,mclem001,22,CBBCFC,K/C
-com,"ej,mclem001,P,iassd901,Called third strike"
-com,"Mark McLemore ejected by HP umpire Dan Iassogna"
 play,8,0,olerj001,32,BFBCBFFX,7/F7
 play,8,1,wardd002,00,,NP
 sub,uguel001,"Luis Ugueto",0,2,6
@@ -5727,7 +5722,6 @@ play,2,1,wardd002,00,,NP
 sub,relad001,"Desi Relaford",0,7,4
 play,2,1,wardd002,00,,NP
 sub,sierr001,"Ruben Sierra",0,4,7
-com,"Boone injured elbow, out for 2 weeks"
 play,2,1,wardd002,22,BCCBX,43/G
 play,2,1,hidar001,32,BBFFBX,S8
 play,2,1,blumg001,01,CX,8/F8
@@ -6272,8 +6266,6 @@ sub,vizcj001,"Jose Vizcaino",1,1,11
 play,9,1,vizcj001,00,,NP
 sub,kim-b001,"Byung-Hyun Kim",0,9,1
 play,9,1,vizcj001,21,BBCX,53/G
-com,"ej,willj107,M,diazl901,Call at 1B"
-com,"Astros Manager Jimy Williams ejected by 1B umpire Laz Diaz"
 play,9,1,biggc001,31,BBCBB,W
 play,9,1,berkl001,20,BBH,HP.1-2
 play,9,1,bagwj001,22,BCCBX,S.2-3;1-2
@@ -6722,7 +6714,6 @@ sub,larkb001,"Barry Larkin",0,9,6
 play,8,1,blumg001,00,,NP
 sub,larsb001,"Brandon Larson",0,6,7
 play,8,1,blumg001,00,X,FC4/DP.3X3(42);1X3(2);B-2
-com,"$Miller chased Hunter back to 3B and then tagged Hidalgo coming to 3B"
 play,8,1,ausmb001,00,X,9/F9
 play,9,0,larsb001,00,,NP
 sub,berkl001,"Lance Berkman",1,3,7
@@ -6869,8 +6860,6 @@ play,8,0,taylr001,01,FX,S1/BG1
 play,8,0,walkt002,20,BBB,SB2
 play,8,0,walkt002,30,BBBB,W
 play,8,0,boona001,32,BBFBFS,K+CS2(2)/DP
-com,"$Walker tried to steal 2B with Taylor on the bag, so Zaun"
-com,"ran out and tagged him"
 play,8,1,berkl001,00,,NP
 sub,chenb001,"Bruce Chen",0,9,1
 play,8,1,berkl001,02,LSS,K
@@ -7057,7 +7046,6 @@ sub,wessb001,"Barry Wesson",1,9,8
 play,9,0,kendj001,00,,NP
 sub,wagnb001,"Billy Wagner",1,5,1
 play,9,0,kendj001,02,CFS,K
-com,"Debut game for Barry Wesson"
 play,9,0,wilsj002,02,CFFX,S8
 play,9,0,gileb002,12,CBCX,43/G.1-2
 play,9,0,ramia001,01,CX,HR/78.2-H
@@ -7647,11 +7635,6 @@ play,7,0,lorem001,10,BX,S1/BG1
 play,7,0,sexsr001,01,CX,S8.1-2
 play,7,0,staim001,11,BSX,8/F8
 play,7,0,hernj001,22,BBCSX,S9.2-H;1-3;B-2(THH)
-com,"ej,ausmb001,P,hollm901,Call at HP"
-com,"Brad Ausmus ejected by HP umpire Matt Hollowell; he jumped"
-com,"up after the safe call at the plate and vehemently argued;"
-com,"it was a quick toss and then Ausmus threw his helmet down"
-com,"and had to be restrained by coaches and teammates"
 play,7,0,ochoa001,00,,NP
 sub,zaung001,"Gregg Zaun",1,8,2
 play,7,0,ochoa001,00,X,S9.3-H;2-H
@@ -7694,7 +7677,6 @@ play,9,1,vizcj001,10,BX,S8.1-2
 play,9,1,lugoj001,10,BX,S7/7S.2-3;1-2
 play,9,1,biggc001,21,BFBX,5(2)/FO.3-H(UR);1-2
 play,9,1,berkl001,31,BFBBX,S8.2-3;1-2
-com,"$DeJean argued with Mgr Royster on the mound before leaving the game"
 play,9,1,bagwj001,00,,NP
 sub,vizcl001,"Luis Vizcaino",0,9,1
 play,9,1,bagwj001,12,BSCFX,3/P3
@@ -8645,7 +8627,6 @@ play,3,0,castl001,00,X,23/BG
 play,3,0,fox-a001,10,BX,S9
 play,3,0,lowem001,01,FX,8/F8D
 play,3,0,wilsp002,00,X,S4/G.1-3
-com,"originally scored as E4, changed later"
 play,3,0,lee-d002,22,BBFFS,K
 play,3,1,lugoj001,32,BBCBFX,6/L6
 play,3,1,biggc001,00,X,6/L6
@@ -8812,7 +8793,6 @@ play,3,0,jonea002,30,BBBB,W
 play,3,0,helmw001,01,FX,64(1)/FO
 play,3,1,ausmb001,01,CX,S8
 play,3,1,millw001,00,X,26(1)4/BG/GDP
-com,"bunt assumed"
 play,3,1,lugoj001,21,BBCX,S8/8S
 play,3,1,biggc001,02,CSB,SB2
 play,3,1,biggc001,12,CSBFS,K
@@ -9288,7 +9268,6 @@ sub,holmd001,"Darren Holmes",0,9,1
 play,8,1,bagwj001,00,X,7/F7S
 play,8,1,wardd002,21,FBBX,E1/TH1
 play,8,1,merco002,10,BX,S3/G.1-2
-com,"originally scored as E3"
 play,8,1,blumg001,02,CFS,K
 play,8,1,zaung001,00,H,HP.2-3;1-2
 play,8,1,borbp001,00,,NP
@@ -10385,7 +10364,6 @@ play,7,0,kingg001,00,H,HP.2-3;1-2
 play,7,0,kotsm001,00,,NP
 sub,borbp001,"Pedro Borbon",1,6,1
 play,7,0,kotsm001,12,BFFX,7/SF/F7DW.3-H
-com,"$leap by Berkman at wall"
 play,7,0,matoj001,00,X,S8.2-3;1-2
 play,7,0,nevip001,00,,NP
 sub,wardd002,"Daryle Ward",1,6,7
@@ -10394,7 +10372,6 @@ sub,berkl001,"Lance Berkman",1,3,8
 play,7,0,nevip001,00,,NP
 sub,cruzn001,"Nelson Cruz",1,1,1
 play,7,0,nevip001,11,BFX,S3.3-H;2-3;1-2
-com,"$deflected by Bagwell into foul ground"
 play,7,0,klesr001,32,FBBCFFBX,HR/9.3-H;2-H;1-H
 play,7,0,gantr001,22,FBFBX,53/G
 play,7,0,hubbt001,00,X,D7
@@ -10565,7 +10542,6 @@ sub,gonzw001,"Wiki Gonzalez",0,8,2
 play,8,1,merco002,00,,NP
 sub,condc001,"Clay Condrey",0,9,1
 play,8,1,merco002,31,BBCBB,W
-com,"Debut game for Clay Condrey"
 play,8,1,ausmb001,11,BCX,S7.1-2
 play,8,1,blumg001,00,X,16(1)3/GDP.2-3
 play,8,1,doteo001,00,,NP
@@ -11150,7 +11126,6 @@ play,8,0,kreuc001,11,BFS,SB2
 play,8,0,kreuc001,12,BFS,NP
 sub,ruanw001,"Wilkin Ruan",0,6,12
 play,8,0,kreuc001,32,BFSBBS,K
-com,"Debut game for Wilkin Ruan"
 play,8,0,iztuc001,12,BFFS,K
 play,8,1,lorem001,00,,NP
 sub,coraa001,"Alex Cora",0,1,4
@@ -11457,7 +11432,6 @@ play,5,0,heltt001,32,BFBFBFFX,S8.1-3
 play,5,0,nortg001,20,BBX,9/F9
 play,5,1,huntb002,02,CSFX,D/78D
 play,5,1,biggc001,00,X,FC1.BX2(1561);2-2
-com,"apparently Hunter escaped rundown back to 2nd"
 play,5,1,berkl001,22,BFCBS,K
 play,5,1,bagwj001,30,BBII,IW
 play,5,1,lorem001,31,CBBBB,W.2-3;1-2
@@ -12140,7 +12114,6 @@ play,5,1,munrp001,12,BCFC,K/C
 play,5,1,huntb002,21,BCBX,8/F8
 play,6,0,willw001,02,CLC,K/C
 play,6,0,vinaf001,12,CBFX,E5
-com,"originally scored as single"
 play,6,0,drewj001,00,X,53/SH.1-2#
 play,6,0,edmoj001,00,X,D8/8D.2-H(UR)
 play,6,0,pujoa001,00,X,9/F9
@@ -12571,7 +12544,6 @@ start,ausmb001,"Brad Ausmus",1,6,2
 start,lanej001,"Jason Lane",1,7,9
 start,blumg001,"Geoff Blum",1,8,5
 start,oswar001,"Roy Oswalt",1,9,1
-com,"19 minute rain delay in first"
 play,1,0,bellr002,01,FX,53/G
 play,1,0,gintk001,32,CSBBBS,K
 play,1,0,hammj001,12,BSCX,4/P4
@@ -12631,7 +12603,6 @@ play,7,0,harrl001,31,BBBCB,W
 play,7,0,bellr002,00,,NP
 sub,hallb001,"Billy Hall",0,9,12
 play,7,0,bellr002,12,CBFX,S5/G.1-2
-com,"originally scored E5"
 play,7,0,gintk001,31,CBBBB,W.2-3;1-2
 play,7,0,hammj001,00,X,9/F9S
 play,7,1,oswar001,00,,NP

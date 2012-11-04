@@ -64,7 +64,6 @@ play,3,0,kaplg001,00,,NP
 sub,menef001,"Frank Menechino",1,2,4
 play,3,0,kaplg001,01,FX,D7
 play,3,0,blalh001,10,BX,S8.2-H
-com,"Debut game for Hank Blalock"
 play,3,0,younm003,12,CBSC,K/C
 play,3,0,cataf001,10,BX,26(1)3/GDP/BG
 play,3,1,giamj002,22,CBSBX,S9/9S
@@ -104,7 +103,6 @@ sub,colam001,"Mike Colangelo",1,1,12
 play,6,1,menef001,00,,NP
 sub,lewic001,"Colby Lewis",0,0,1
 play,6,1,menef001,32,BFFFBBB,W.1-2
-com,"Debut game for Colby Lewis"
 play,6,1,hatts001,01,CB,WP.2-3;1-2
 play,6,1,hatts001,12,CBFX,63/G
 play,7,0,everc001,00,,NP
@@ -422,9 +420,6 @@ play,7,1,menef001,31,BBCBB,W.1-2
 play,7,1,hatts001,32,BBBCFX,8/F8
 play,7,1,justd001,00,X,4/P4
 play,7,1,chave001,30,BBBB,W.2-3;1-2
-com,"ej,narrj001,wegnm901,Call at 3B"
-com,"Texas Mgr Narron ejected by Wegner after Ivan Rodriguez tried to rundown"
-com,"Giambi after walk"
 play,7,1,tejam001,10,BX,S/89.3-H;2-H;1-3
 play,7,1,longt002,00,,NP
 sub,rodrr004,"Rich Rodriguez",0,0,1
@@ -722,7 +717,6 @@ play,5,0,camem001,00,,NP
 sub,bradc001,"Chadwick Bradford",1,0,1
 play,5,0,camem001,12,BFCX,D9.3-H;2-H;1-3
 play,5,0,sierr001,10,BX,S7.3-H;2-3
-com,"1:21 rain delay"
 play,5,0,guilc001,32,BBCCBX,7/SF.3-H(TUR)
 play,5,0,wilsd001,00,X,13/G
 play,5,1,hernr002,00,,NP
@@ -746,7 +740,6 @@ sub,magnm001,"Mike Magnante",1,0,1
 play,7,0,olerj001,32,CBFFFBBX,9/L9
 play,7,0,camem001,32,BFBCBS,K
 play,7,0,sierr001,11,CBX,9/F9
-com,"game called for rain after 1:12 delay"
 data,er,garcf002,2
 data,er,pinej001,0
 data,er,lidlc001,4
@@ -858,7 +851,6 @@ play,6,0,boonb002,00,X,64(1)/FO
 play,6,1,hernr002,00,,NP
 sub,fitzb001,"Brian Fitzgerald",0,0,1
 play,6,1,hernr002,32,BBCBFFX,63/G
-com,"Debut game for Brian Fitzgerald"
 play,6,1,penac001,32,CBCBBX,7/F7
 play,6,1,giamj002,32,SFBFBFFBFFFX,S9
 play,6,1,menef001,22,BCCBFX,43/G
@@ -1780,8 +1772,6 @@ play,7,0,ventr001,22,FCBFBS,K
 play,7,1,hatts001,22,BBCCX,63/G
 play,7,1,colam001,21,BFBX,9/F9S
 play,7,1,tejam001,22,BCFBX,53/G
-com,"ej,peter801,C,monte901,Balls and strikes"
-com,"Athletics Coach Rick Peterson ejected by HP umpire Ed Montague in 8th"
 play,8,0,whitr001,00,,NP
 sub,tam-j001,"Jeff Tam",1,0,1
 play,8,0,whitr001,22,CBBFFFX,3/G#
@@ -3398,7 +3388,6 @@ play,1,0,conij001,32,BFFBBB,W
 play,1,0,batit001,10,BX,S7.1-2
 play,1,0,gil-g001,02,CFS,K
 play,1,1,germe001,12,CFBX,63/G
-com,"Debut game for Esteban German"
 play,1,1,giamj002,32,BCCFBBX,43/G
 play,1,1,tejam001,01,CX,63/G
 play,2,0,bordm001,12,CSBX,13/G
@@ -3626,7 +3615,6 @@ play,3,0,moram002,20,BBX,53/G
 play,3,0,robeb003,32,CCBBFBB,W
 play,3,0,singc001,10,BB,SB2
 play,3,0,singc001,21,BBFX,S5/P5S.2-H
-com,"$lost in sun, hit off glove and chest"
 play,3,0,conij001,11,BCB,SB2.1-3(E2/TH2)
 play,3,0,conij001,22,BCBSB,OA.3XH(21)#
 play,3,1,saeno001,11,BCX,9/F9
@@ -3833,8 +3821,6 @@ play,7,1,hernr002,02,CFS,K
 play,7,1,velar001,01,FX,13/G
 play,7,1,suttl001,12,FBFS,K
 play,8,0,singc001,00,H,HP
-com,"ej,magnm001,P,froeb901,Intentional HBP"
-com,"Mike Magnante ejected by HP umpire Bruce Froemming"
 play,8,0,moram002,00,,NP
 sub,holtm001,"Mike Holtz",1,0,1
 play,8,0,moram002,00,X,S8.1-2
@@ -3988,7 +3974,6 @@ sub,smitj001,"Jason Smith",0,9,5
 play,6,1,piata001,00,,NP
 sub,gardl001,"Lee Gardner",0,0,1
 play,6,1,piata001,12,CBFS,K
-com,"Debut game for Lee Gardner"
 play,6,1,hernr002,11,CBX,63/G
 play,6,1,germe001,02,CCC,K/C
 play,7,0,vaugg001,00,,NP
@@ -4083,7 +4068,6 @@ start,mabrj001,"John Mabry",1,8,9
 start,myerg001,"Greg Myers",1,9,2
 start,haraa001,"Aaron Harang",1,0,1
 play,1,0,aberb001,12,BFFS,K
-com,"Debut game for Aaron Harang"
 play,1,0,winnr001,31,BBBCB,W
 play,1,0,cox-s001,22,BFFFBFS,K
 play,1,0,vaugg001,00,B,SB2
@@ -5595,7 +5579,6 @@ play,6,1,ellim001,32,BCFBFBX,S9.2-3;1-2
 play,6,1,longt002,00,,NP
 sub,duroj001,"Jayson Durocher",0,0,1
 play,6,1,longt002,12,CBFS,K
-com,"Debut game for Jayson Durocher"
 play,6,1,tejam001,12,FBSX,S.3-H(UR);2-3;1-2
 play,6,1,justd001,21,BBFX,43/G
 play,7,0,sexsr001,00,X,3/P3
@@ -6011,7 +5994,6 @@ play,1,0,dunss001,01,CB,CS2(24)
 play,1,1,ellim001,12,CSBS,K
 play,1,1,hatts001,12,FCBX,8/F8D
 play,1,1,tejam001,12,BCFS,K
-com,"Kent originally charged with FLE4, removed next day"
 play,2,0,dunss001,01,CX,S8
 play,2,0,belld002,32,BCFFBBX,31/G.1-2
 play,2,0,torry001,12,CBCFX,S9.2-H;B-2(E9)
@@ -7134,11 +7116,6 @@ play,10,0,ibanr001,00,,NP
 sub,carum001,"Mike Caruso",0,4,12
 play,10,0,ibanr001,01,SX,23/G.1-2
 play,10,0,tuckm001,32,BCFBFFFFBX,S8/8D.2-H;BX2(4)
-com,"$Tucker's long fly was caught by Long at the wall;"
-com,"however, he lost it over the fence for a homer when"
-com,"he hit the wall; Caruso started to tag up as Tucker"
-com,"approached 2B; Tucker stopped but Caruso passed"
-com,"him; Tucker was called out for passing the runner"
 play,10,0,peren001,32,FBBFFBFFX,D8
 play,10,0,bergb001,32,BCFBFBS,K
 play,10,1,mabrj001,00,,NP
@@ -7692,7 +7669,6 @@ play,6,1,longt002,22,CFBBX,S7.2-H
 play,6,1,ellim001,00,,NP
 sub,garcr003,"Reynaldo Garcia",0,0,1
 play,6,1,ellim001,30,BBBB,W.1-2
-com,"Debut game for Reynaldo Garcia"
 play,6,1,hatts001,12,BCCB,WP.2-3;1-2
 play,6,1,hatts001,32,BCCBFBX,HR/9.3-H;2-H
 play,6,1,tejam001,31,BBBCX,HR/7
@@ -8204,7 +8180,6 @@ play,3,1,ellim001,31,BCBBB,W
 play,3,1,durhr001,00,,NP
 sub,bevej001,"Jason Beverlin",0,0,1
 play,3,1,durhr001,32,CCBBFBX,7/FL
-com,"Debut game for Jason Beverlin"
 play,4,0,thomj002,31,BBSBX,4/P4
 play,4,0,bradm001,12,BSFC,K/C
 play,4,0,stevl001,01,SX,D9
@@ -8539,7 +8514,6 @@ play,4,0,peree002,00,X,9/F9
 play,4,1,longt002,21,BFBX,63/G
 play,4,1,velar001,30,BBBB,W
 play,4,1,myerg001,12,BCFX,363/G.1-2
-com,"apparently late on DP try"
 play,4,1,ellim001,01,CX,8/F8S
 play,5,0,magrc001,00,X,63/G
 play,5,0,vizqo001,32,BFBFBX,9/F9
@@ -8581,7 +8555,6 @@ play,8,1,tejam001,10,BX,S.3-H;2-3;1-2
 play,8,1,justd001,00,,NP
 sub,sadlc001,"Carl Sadler",0,0,1
 play,8,1,justd001,21,BFBX,5/FL
-com,"Debut game for Carl Sadler"
 play,8,1,chave001,02,CFX,13/G
 play,9,0,bradm001,00,,NP
 sub,hernr002,"Ramon Hernandez",1,4,2
@@ -9847,9 +9820,6 @@ play,9,0,konep001,12,CBCX,S9
 play,9,0,thomf001,01,CX,4/P4
 play,9,0,credj001,00,X,46(1)/FO
 play,9,0,clayr001,00,H,HP.1-2
-com,"ej,howea001,M,drakr901,Intentional HBP"
-com,"ej,mecij001,P,drakr901,Intentional HBP"
-com,"Jim Mecir and Athletics Manager Art Howe ejected by HP umpire Rob Drake"
 play,9,0,paulj001,00,,NP
 sub,tam-j001,"Jeff Tam",1,0,1
 play,9,0,paulj001,12,CBCC,K/C
@@ -10534,7 +10504,6 @@ play,4,0,guiea001,20,BBX,S/89
 play,4,0,peren001,01,FX,S9.1-2
 play,4,0,hinca001,12,CBSX,E6/G.2-3;1-2
 play,4,0,ordal001,10,BX,9/SF.3-H(UR);2-3
-com,"$Zito ran into Guiel while backing up the play at home"
 play,4,0,beltc001,02,SSB,SB2
 play,4,0,beltc001,12,SSBX,S8/8S.3-H(UR);2-H(UR)
 play,4,0,randj002,01,SX,S8/8S.1-3
@@ -11010,7 +10979,6 @@ play,3,1,chave001,12,CCBFFX,3/G#
 play,3,1,justd001,32,BBCBFX,7/FL
 play,3,1,piata001,22,BFFBS,K
 play,4,0,marte001,01,CX,S9
-com,"originally scored E9"
 play,4,0,olerj001,31,BBBCB,W.1-2
 play,4,0,boonb002,02,SCX,46(1)3/GDP.2-3
 play,4,0,camem001,22,BSCBS,K
@@ -11620,7 +11588,6 @@ sub,kenna001,"Adam Kennedy",0,8,4
 play,8,1,chave001,00,,NP
 sub,rodrf003,"Francisco Rodriguez",0,0,1
 play,8,1,chave001,12,CFBX,S/89
-com,"Debut game for Francisco Rodriguez"
 play,8,1,dye-j001,01,CX,7/F7
 play,8,1,mabrj001,12,CFBS,K+SB2
 play,8,1,ellim001,22,SBSBFS,K
@@ -11716,7 +11683,6 @@ play,4,0,andeg001,00,X,43/G
 play,4,0,spies001,22,BBCSX,3/G#
 play,4,1,dye-j001,31,BBCBB,W
 play,4,1,justd001,11,CBX,36(1)4/GDP
-com,"apparently not a bunt, but fielding correct"
 play,4,1,ellim001,32,CBSBFBB,W
 play,4,1,longt002,00,X,S8/8S.1-3
 play,4,1,hernr002,20,BBX,S9.3-H;1-3
@@ -12187,7 +12153,6 @@ play,2,1,justd001,32,BCBFBB,W
 play,2,1,longt002,00,X,S9.1-2
 play,2,1,hernr002,22,CFBBX,S/78.2-H;1-3;B-2(TH)
 play,2,1,grabj001,32,BBFBCS,K
-com,"Debut game for Jason Grabowski"
 play,3,0,haseb001,02,CCX,S
 play,3,0,hartj002,21,BBCX,D/78D.1-3
 play,3,0,river002,12,CFFBS,K
@@ -12278,7 +12243,6 @@ sub,rodrr004,"Rich Rodriguez",0,0,1
 play,8,1,mckac001,00,,NP
 sub,piata001,"Adam Piatt",1,9,11
 play,8,1,piata001,31,BCBBB,W
-com,"Debut game for Cody McKay"
 play,8,1,durhr001,01,CX,13/SH.1-2#
 play,8,1,hatts001,00,,NP
 sub,velar001,"Randy Velarde",1,2,11

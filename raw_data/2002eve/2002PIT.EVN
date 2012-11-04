@@ -782,7 +782,6 @@ start,kendj001,"Jason Kendall",1,6,2
 start,younk001,"Kevin Young",1,7,3
 start,wilsj002,"Jack Wilson",1,8,6
 start,villr001,"Ron Villone",1,9,1
-com,"Two rain delays totaling 2:14 in the 5th and 8th"
 play,1,0,stync001,11,BCX,1/P1
 play,1,0,lewid001,01,CX,63/G
 play,1,0,sosas001,30,BBBX,S7
@@ -867,7 +866,6 @@ play,8,0,stync001,31,BBCBB,W
 play,8,0,lewid001,00,X,S7.1-2
 play,8,0,sosas001,32,BBSSBFX,64(1)3/GDP.2-3
 play,8,0,mcgrf001,32,BCBCBC,K/C
-com,"Game called for rain"
 data,er,liebj001,1
 data,er,osbod001,0
 data,er,boroj001,0
@@ -1997,9 +1995,7 @@ start,kendj001,"Jason Kendall",1,6,2
 start,mackr001,"Rob Mackowiak",1,7,5
 start,wilsj002,"Jack Wilson",1,8,6
 start,wellk001,"Robert Wells",1,9,1
-com,"8 minute rain delay in first"
 play,1,0,jimed001,22,CCBBFX,4/L4
-com,"Debut game for Ben Howard"
 play,1,0,kotsm001,00,X,S8/8S
 play,1,0,klesr001,22,BLBCX,HR/9.1-H
 play,1,0,nevip001,11,BFX,S7
@@ -2058,9 +2054,6 @@ play,6,1,riosa001,21,BCBX,D8/8D
 play,6,1,kendj001,11,BFX,S8.2-H
 play,6,1,mackr001,12,CFBS,K
 play,6,1,wilsj002,11,BCX,S4.1-2
-com,"$on the hit & run, Wilson swung at a pitch at his head"
-com,"while falling to the ground; the ball dribbled towards the"
-com,"unattended right side of the infield"
 play,6,1,wellk001,00,,NP
 sub,osikk001,"Keith Osik",1,9,11
 play,6,1,osikk001,11,BFB,CS3(25).1-2
@@ -2241,7 +2234,6 @@ play,7,1,lopem001,00,,NP
 sub,fikaj001,"Jeremy Fikac",0,5,1
 play,7,1,lopem001,12,SBSS,K
 play,7,1,nunea001,00,X,2/INT.1-1
-com,"$Nunez called out for an illegally batted ball"
 play,7,1,browa001,00,X,8/F8
 play,8,0,cresc001,00,,NP
 sub,beimj001,"Joe Beimel",1,9,1
@@ -2375,7 +2367,6 @@ play,7,0,lugoj001,31,BBBCB,W
 play,7,0,hernc004,00,,NP
 sub,lanej001,"Jason Lane",0,9,11
 play,7,0,lanej001,00,X,7/F7
-com,"Debut game for Jason Lane"
 play,7,1,kendj001,00,,NP
 sub,puffb001,"Brandon Puffer",0,9,1
 play,7,1,kendj001,21,CBBX,S
@@ -2513,7 +2504,6 @@ play,7,0,wardd002,22,BBFFC,K/C
 play,7,0,ensbm001,12,CBCS,K
 play,7,0,lanej001,20,BBX,53/G
 play,7,1,mackr001,02,CCX,E5/G.B-2(E4)
-com,"$interference on Biggio"
 play,7,1,wilsj002,10,BX,13/SH.2-3#
 play,7,1,foggj001,00,,NP
 sub,ramia001,"Aramis Ramirez",1,9,11
@@ -2614,7 +2604,6 @@ play,2,1,wilsc003,11,CBX,S8
 play,2,1,kendj001,11,BCX,16(1)/FO
 play,2,1,mackr001,10,BX,9/L9
 play,2,1,wilsj002,22,BCBCFX,54(1)/FO
-com,"1:26 rain delay in the 3rd"
 play,3,0,vizcj001,22,BBCFFX,9/F9
 play,3,0,bagwj001,10,BX,HR/7
 play,3,0,berkl001,02,CFX,8/F8
@@ -2652,8 +2641,6 @@ play,6,0,ausmb001,32,CBSBBC,K/C
 play,6,1,gileb002,21,CBBX,3/G#
 play,6,1,riosa001,11,FBX,9/F9
 play,6,1,wilsc003,32,BBCBSX,43/G
-com,"ej,willj107,M,wolfj901,Unknown reason"
-com,"Astros Manager Jimy Williams ejected by HP umpire Jim Wolf in the 7th"
 play,7,0,lugoj001,32,BBCLFBFFFFFX,3/P3
 play,7,0,reyns001,00,,NP
 sub,wardd002,"Daryle Ward",0,9,11
@@ -3103,8 +3090,6 @@ play,6,0,spivj001,31,CBBBB,W
 play,6,0,gonzl001,32,CBBFBFFX,HR/9.1-H
 play,6,0,colbg001,00,X,9/L9
 play,6,0,finls001,10,BX,HR/89
-com,"$the ball struck a woman in a wheelchair; she received several"
-com,"stitches in the head"
 play,6,0,guilj001,10,BX,D7
 play,6,0,womat001,01,FX,3/G.2-3#
 play,6,0,barar001,30,IIII,IW
@@ -3219,7 +3204,6 @@ start,wellk001,"Robert Wells",1,9,1
 play,1,0,vinaf001,11,CBX,63/G
 play,1,0,cairm001,22,CBCBX,43/G
 play,1,0,drewj001,10,BF,FLE5
-com,"Aramis has FLE5 somewhere in this game"
 play,1,0,drewj001,12,BFCFX,S
 play,1,0,pujoa001,31,BBCBX,54(1)/FO
 play,1,1,hermc001,12,CBFS,K
@@ -4218,9 +4202,6 @@ sub,giraj001,"Joe Girardi",0,2,2
 play,9,1,kendj001,00,,NP
 sub,alfoa001,"Antonio Alfonseca",0,5,1
 play,9,1,kendj001,22,BBCCX,13/G
-com,"ej,kendj001,P,hollm901,Balls and strikes"
-com,"ej,mccll001,M,hollm901,Balls and strikes"
-com,"Jason Kendall and Pirates Manager Lloyd McClendon ejected by HP umpire Matt Hollowell"
 play,9,1,gileb002,01,CX,8/F8
 play,9,1,younk001,10,BX,5/P5
 data,er,woodk002,5
@@ -4547,7 +4528,6 @@ play,10,0,jensm001,31,CBBBB,W
 play,10,0,dejem001,00,,NP
 sub,lorem001,"Mark Loretta",0,9,11
 play,10,0,lorem001,01,CX,16(1)4/BG/GDP
-com,"bunt assumed"
 play,10,0,sanca003,10,BX,S/78
 play,10,0,youne001,00,,NP
 sub,benjm001,"Mike Benjamin",1,9,5
@@ -4799,7 +4779,6 @@ play,2,0,tejam001,00,X,63/G
 play,2,1,younk001,02,CCX,53/G
 play,2,1,reesp001,12,CBFX,63/G
 play,2,1,foggj001,12,CFBX,3/G#
-com,"48 minute rain delay in the 3rd"
 play,3,0,justd001,01,FX,9/F9D
 play,3,0,dye-j001,12,CCBFX,63/G
 play,3,0,chave001,30,BBBX,43/G
@@ -5188,7 +5167,6 @@ play,8,0,chave001,00,,NP
 sub,saues001,"Scott Sauerbeck",1,7,1
 play,8,0,chave001,00,,NP
 sub,lincm001,"Mike Lincoln",1,7,1
-com,"$Sauerbeck left with sore arch, did not pitch"
 play,8,0,chave001,11,BCX,43/G
 play,8,0,hernr002,12,CFBX,8/F8
 play,8,0,longt002,11,BFX,3/G#
@@ -5221,8 +5199,6 @@ play,9,1,wilsc003,02,SFS,K
 play,9,1,reesp001,32,CBFBFBFB,W.2-3;1-2
 badj,browa001,R
 play,9,1,browa001,00,X,S.3-H;2-3;1-2
-com,"Brown batted left against Hudson and right against"
-com,"Koch, even though both are RHP"
 play,9,1,kendj001,12,CBFS,K
 data,er,hudst001,2
 data,er,kochb001,1
@@ -5587,7 +5563,6 @@ play,1,1,osikk001,12,CFFBX,13/G
 play,2,0,haseb001,11,FBX,E5/G
 play,2,0,ludwr001,22,CBFBFFX,8/F8
 play,2,0,parkc002,11,BCX,26(1)4/BG/GDP#
-com,"bunt assumed"
 play,2,1,hermc001,22,BBFSFX,4/P4
 play,2,1,reesp001,32,FBBBSB,W
 play,2,1,foggj001,01,LX,3/BP3
@@ -6117,7 +6092,6 @@ play,7,1,lowes001,00,,NP
 sub,eiscj001,"Joey Eischen",0,4,1
 play,7,1,lowes001,11,BCX,8/F8
 play,7,1,nunea001,11,BCX,S7
-com,"game called for rain after 2 delays totaling 1:37"
 data,er,day-z001,2
 data,er,browj003,0
 data,er,eiscj001,0
@@ -6170,7 +6144,6 @@ start,younk001,"Kevin Young",1,6,3
 start,wilsc003,"Craig Wilson",1,7,9
 start,reesp001,"Pokey Reese",1,8,4
 start,wellk001,"Robert Wells",1,9,1
-com,"37 minute rain delay in the 1st"
 play,1,0,sanca003,10,BX,63/G
 play,1,0,youne001,11,BCX,53/G
 play,1,0,hammj001,22,BBCSS,K
@@ -6974,7 +6947,6 @@ play,5,0,biggc001,00,X,D7/7D
 play,5,0,berkl001,30,IIII,IW
 play,5,0,bagwj001,31,CBBBB,W.2-3;1-2
 play,5,0,wardd002,00,X,HR/9.3-H;2-H;1-H
-com,"$first ball hit into Allegheny River from PNC Park on the fly"
 play,5,0,hidar001,00,,NP
 sub,lowes001,"Sean Lowe",1,9,1
 play,5,0,hidar001,12,CCBS,K
@@ -7380,7 +7352,6 @@ start,younk001,"Kevin Young",1,6,3
 start,hyzda001,"Adam Hyzdu",1,7,8
 start,reesp001,"Pokey Reese",1,8,4
 start,wellk001,"Robert Wells",1,9,1
-com,"27 minute rain delay in 1st"
 play,1,0,walkt002,02,FFS,K
 play,1,0,boona001,12,SBSX,43/G
 play,1,0,dunna001,31,FBBBX,S7
@@ -8559,8 +8530,6 @@ play,6,0,hernl003,00,X,3/SH.1-2#
 play,6,0,loftk001,22,BSBFB,WP.2-3
 play,6,0,loftk001,32,BSBFBB,W
 play,6,0,aurir001,01,CX,S7/DP.3-H;1X3(65);BX2(746)
-com,"$Aurilia stopped running between 1B & 2B and was tagged out in a"
-com,"rundown by Wilson whose quick throw to 3B caught Lofton off the bag"
 play,6,1,younk001,22,FCBBX,S
 play,6,1,hyzda001,32,BBFFBX,9/F9
 play,6,1,reesp001,11,FBX,64(1)3/GDP
@@ -8686,13 +8655,11 @@ play,1,1,gileb002,31,CBBBB,W
 play,1,1,ramia001,00,X,4/P4
 play,2,0,belld002,00,,NP
 sub,hyzda001,"Adam Hyzdu",1,5,8
-com,"not clear why Mackowiak left so early"
 play,2,0,belld002,00,X,1/BP1
 play,2,0,schmj001,32,BCSFBBB,W
 play,2,0,loftk001,02,CCFX,7/F7
 play,2,0,aurir001,12,FFBFX,E1/G.1-2
 play,2,0,bondb001,32,FBBFBX,HR/9.2-H(UR);1-H(UR);B-H(UR)
-com,"$#597 of Bonds' career"
 play,2,0,kentj001,00,X,63/G
 play,2,1,hyzda001,11,BFX,7/F7
 play,2,1,younk001,12,BFCFFX,S/78
@@ -8934,7 +8901,6 @@ play,8,1,younk001,11,CBX,6/P6
 play,9,0,bondb001,00,,NP
 sub,saues001,"Scott Sauerbeck",1,9,1
 play,9,0,bondb001,21,BBFX,HR/89
-com,"$#598 of Bonds' career"
 play,9,0,santb001,00,X,S8
 play,9,0,snowj001,00,B,WP.1-2
 play,9,0,snowj001,31,BCBBX,8/F8
@@ -9386,8 +9352,6 @@ play,5,1,wilsc003,22,BBCFX,8/F8D
 play,5,1,reesp001,02,CSX,S9
 play,5,1,wellk001,11,BLX,24/SH.1-2
 play,5,1,kendj001,20,BBX,8/F8
-com,"ej,mccll001,M,tscht901,Balls and strikes"
-com,"Pirates Manager Lloyd McClendon ejected by HP umpire Tim Tschida in 6th"
 play,6,0,vinaf001,01,CX,S9
 play,6,0,drewj001,12,SCBB,SB2.1-3(E2/TH2)
 play,6,0,drewj001,32,SCBBBX,43/G
@@ -9998,7 +9962,6 @@ play,2,0,youne001,00,X,9/F9
 play,2,1,riosa001,10,BX,8/L8
 play,2,1,arrob001,01,FX,8/F8
 play,2,1,reesp001,01,CX,63/G
-com,"1:01 rain delay in the 3rd"
 play,3,0,harrl001,00,X,43/G
 play,3,0,sexsr001,30,BBBB,W
 play,3,0,hammj001,00,B,PB.1-2
@@ -10771,7 +10734,6 @@ start,hyzda001,"Adam Hyzdu",1,7,8
 start,nunea001,"Abraham Nunez",1,8,4
 start,foggj001,"Josh Fogg",1,9,1
 play,1,0,castl001,32,CBSBBX,6/P6
-com,"Debut game for Nate Robertson"
 play,1,0,fox-a001,02,LFX,6/L6
 play,1,0,millk005,22,FBFBX,S9
 play,1,0,wilsp002,32,BCBCBS,K
@@ -11298,13 +11260,11 @@ play,4,1,mackr001,01,CX,2/FL
 play,4,1,hyzda001,32,BBBCFX,E5/G
 play,4,1,wilsc003,32,BFBBFFB,W.1-2
 play,4,1,bensk001,01,FX,FC2/BG2L.2XH(2E5)(UR)(NR);1-H(UR)(NR);B-2
-com,"$the ball went right through Boone's glove"
 play,4,1,reesp001,00,,NP
 sub,reitc001,"Chris Reitsma",0,9,1
 play,4,1,reesp001,01,FB,WP.2-3
 play,4,1,reesp001,11,FBX,S8/8S.3-H(UR)
 play,4,1,wilsj002,10,BX,E6/G.1-2
-com,"$Larkin could not get the ball out of his glove"
 play,4,1,kendj001,22,CFBBC,K/C
 play,4,1,gileb002,21,BCBX,5/P5
 play,5,0,taylr001,22,BFBFFFX,8/F8
@@ -11376,10 +11336,7 @@ play,8,1,browa001,21,BBCX,D9.3-H(UR);2-H(TUR);1-3
 play,8,1,reesp001,00,,NP
 sub,sulls001,"Scott Sullivan",0,7,1
 play,8,1,reesp001,02,SFX,S8.3-H(TUR);2-H(TUR)
-com,"Reece's 5 RBI a career high"
 play,8,1,wilsj002,00,X,E7/F7S.1-3;B-2
-com,"$second time in inning for J.Wilson to reach 2B on E7;"
-com,"most errors for the Reds since 5/21/1990 (5 at Chicago)"
 play,8,1,kendj001,11,CBX,9/F9
 play,9,0,sulls001,00,,NP
 sub,penaw001,"Wily Mo Pena",0,7,11
@@ -11456,7 +11413,6 @@ play,1,1,wilsj002,12,BCSX,9/F9
 play,1,1,kendj001,12,CFBX,9/F9
 play,1,1,gileb002,01,CX,S9/9D.1-3
 play,1,1,ramia001,21,SBBX,64(1)/FO
-com,"58 minute rain delay in 2nd"
 play,2,0,walkt002,22,CBFBFX,3/G#
 play,2,0,branr001,22,BSBFS,K
 play,2,0,dunna001,01,CX,3/G#
@@ -12398,8 +12354,6 @@ start,riosa001,"Armando Rios",1,6,9
 start,wilsc003,"Craig Wilson",1,7,3
 start,wilsj002,"Jack Wilson",1,8,6
 start,meadb001,"Brian Meadows",1,9,1
-com,"ej,sandt101,C,emmep901,Call at 1B"
-com,"Pirates coach Tommy Sandt ejected sometime in game by 1B umpire Paul Emmel"
 play,1,0,ceder001,11,LBX,S8
 play,1,0,alomr001,10,B1,PO1(13)
 play,1,0,alomr001,32,B1BCCFBFFX,7/F7

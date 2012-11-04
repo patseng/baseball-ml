@@ -1081,7 +1081,6 @@ play,4,1,milld002,21,BC1BX,S9/L.1-2
 play,4,1,cirij001,22,CBFBX,8/L
 play,4,1,magrc001,00,,NP
 sub,carlb001,"Buddy Carlyle",0,9,1
-com,"Dodgers pitcher Elmer Dessens left the game due to an injured neck/shoulder"
 play,4,1,magrc001,22,.CBSBX,HR/9/F+.2-H;1-H
 play,4,1,hardj003,31,BBCBB,W
 play,4,1,glovg001,01,LH,HP.1-2
@@ -1751,8 +1750,6 @@ play,5,1,branr001,32,CFBBBS,K
 play,5,1,hardj003,10,BX,53/G
 play,5,1,capuc001,02,SSS,K
 play,6,0,pattc001,12,CBSX,4!3/G
-com,"ej,pattc001,P,davib902,Call at 1B"
-com,"Cubs center fielder Corey Patterson ejected by 1B umpire Bob Davidson"
 play,6,0,ramia001,11,.CBX,9!/L
 play,6,0,lee-d002,22,FCBBX,S9/L
 play,6,0,burnj001,31,BB1C1BX,43/G
@@ -2094,8 +2091,6 @@ play,8,0,barrm003,00,,NP
 sub,bottr001,"Ricky Bottalico",1,2,1
 play,8,0,barrm003,00,.X,35(2)/FO/BG.1-2
 play,8,0,hollt001,02,CSFC,K
-com,"ej,hollt001,P,drakr901,Called third strike"
-com,"Cubs right fielder Todd Hollandsworth ejected by HP umpire Rob Drake"
 play,8,0,remlm001,00,,NP
 sub,grieb001,"Ben Grieve",0,8,11
 play,8,0,grieb001,20,..BBX,S9/L.2-H;1-3
@@ -2498,7 +2493,6 @@ play,2,1,jenkg001,11,BCX,D6/P-.2-H;1-3
 play,2,1,lee-c001,12,CCBFX,S7/G.3-H;2XH(72)
 play,3,0,reyej001,00,,NP
 sub,helmw001,"Wes Helms",1,5,3
-com,"Brewers first baseman Lyle Overbay left the game due to an injured leg"
 play,3,0,reyej001,12,..CBFX,3/L+
 play,3,0,cairm001,12,CTBX,3/P3F
 play,3,0,beltc001,21,FBBX,8/F
@@ -2835,9 +2829,6 @@ play,5,0,abreb001,30,.BBB.I,IW
 play,5,0,burrp001,12,SCFBX,7/F
 play,5,0,utlec001,12,BFFS,K
 play,5,0,belld002,22,BFC.BS,K
-com,"ej,manuc101,M,marqa901,Balls and strikes"
-com,"Phillies Mgr Charlie Manuel ejected by HP umpire Alfonso Marquez"
-com,"after the second strike to Bell"
 play,5,1,jenkg001,12,CFBX,43/G
 play,5,1,lee-c001,01,CX,43/G
 play,5,1,overl001,21,FBBX,31/G
@@ -2876,8 +2867,6 @@ play,7,0,utlec001,12,BCCC,K
 play,7,0,belld002,00,,NP
 sub,adamm001,"Mike Adams",1,3,1
 play,7,0,belld002,12,.CCBC,K
-com,"ej,belld002,P,marqa901,Balls and strikes"
-com,"Bell ejected by Marquez, throws bat and helmet"
 play,7,1,milld002,00,,NP
 sub,peret003,"Tomas Perez",0,6,5
 play,7,1,milld002,01,..FX,S9/L-
@@ -2894,7 +2883,6 @@ play,8,0,rollj001,10,BX,4!1/G
 play,8,1,spivj001,00,,NP
 sub,tejer001,"Robinson Tejeda",0,9,1
 play,8,1,spivj001,32,.BBFBFB,W
-com,"Debut game for Robinson Tejeda"
 play,8,1,adamm001,00,,NP
 sub,helmw001,"Wes Helms",1,3,11
 play,8,1,helmw001,22,.FCBBB,WP.1-2
@@ -3131,7 +3119,6 @@ play,5,0,chacs001,00,X,FC1/BG.3XH(12);2-3
 play,5,0,barmc001,00,1,BK.3-H(NR)(UR);1-2
 play,5,0,barmc001,00,,NP
 sub,wrigj001,"Jamey Wright",0,9,12
-com,"Rockies pitcher Shawn Chacon left the game due to an injured foot/ankle"
 play,5,0,barmc001,31,.1.F*BBBX,9/F
 play,5,1,clarb003,00,,NP
 sub,nealb001,"Blaine Neal",0,9,1
@@ -3578,7 +3565,6 @@ play,7,0,chavr001,00,1,POCS2(13)
 play,7,0,chavr001,22,1.BFSBFS,K
 play,7,1,milld002,00,,NP
 sub,sprir001,"Russ Springer",0,9,1
-com,"Astros pitcher Roy Oswalt left the game due to an injured back"
 play,7,1,milld002,12,.CBCS,K
 play,7,1,spivj001,01,FX,S8/G
 play,7,1,hallb001,02,S+1CF>S,K+SB2
@@ -3734,7 +3720,6 @@ play,6,1,spivj001,10,BX,HR/7/F
 play,6,1,moelc001,32,SBBSBX,63/G
 play,7,0,selft001,00,,NP
 sub,branr001,"Russ Branyan",1,2,5
-com,"Brewers 3B Jeff Cirillo left the game due to an injured back"
 play,7,0,selft001,02,.CSC,K
 play,7,0,vizcj001,12,CBCFX,5/P5F
 play,7,0,berkl001,12,CTBC,K
@@ -4298,10 +4283,6 @@ play,5,0,sierr001,00,,NP
 sub,santj001,"Julio Santana",1,9,1
 play,5,0,sierr001,10,.BX,S9/L.3-H;2-3;1-2
 play,5,0,martt002,32,CF*BBFFF*BX,46(1)3/GDP.3-H(NR);2-3
-com,"ej,martt002,P,vanol901,Call at 1B"
-com,"ej,torrj101,M,vanol901,Call at 1B"
-com,"Yankees 1B Tino Martinez & Mgr Joe Torre ejected by 1B"
-com,"umpire Larry Vanover"
 play,5,0,flahj001,00,X,7/L-
 play,5,1,clarb003,00,,NP
 sub,johnr006,"Russ Johnson",0,6,3
@@ -5485,7 +5466,6 @@ play,1,1,helmw001,00,X,D7/L.2-H
 play,1,1,jenkg001,12,C*BFS,K
 play,2,0,bay-j001,00,,NP
 sub,magrc001,"Chris Magruder",1,4,7
-com,"Brewers left fielder Carlos Lee left the game due to an injured knee"
 play,2,0,bay-j001,21,.BFBX,S7/G
 play,2,0,wardd002,22,CBFFFFBX,56(1)/FO/G.B-2(E6/TH)
 play,2,0,castj005,01,C.X,9/LDP.2X2(96)
@@ -5620,7 +5600,6 @@ start,jenkg001,"Geoff Jenkins",1,7,9
 start,hardj003,"Jack Hardy",1,8,6
 start,santv001,"Victor Santos",1,9,1
 play,1,0,lawtm002,10,BX,7/F
-com,"Debut game for Zach Duke"
 play,1,0,sancf001,02,CFX,S9/L.B-2(E9/TH)
 play,1,0,mackr001,10,BX,5/P
 play,1,0,bay-j001,11,BCX,S8/G.2-H(UR);B-2(TH)
@@ -6137,10 +6116,6 @@ play,3,0,vidrj001,11,CBX,7/F
 play,3,0,guilj001,22,FBS*BX,53/G
 play,3,0,wilsp002,21,FBBX,53/G
 play,3,1,weekr001,32,BCCFBFFBFC,K
-com,"ej,yoste001,M,davib902,Called third strike"
-com,"$Weeks objected to called third strike and Mgr Yost"
-com,"came out to defend his player; Yost ejected by HP"
-com,"umpire Bob Davidson"
 play,3,1,overl001,12,.FBCC,K
 play,3,1,lee-c001,32,BCBBFFB,W
 play,3,1,jenkg001,10,B>S,CS2(26)
@@ -6319,8 +6294,6 @@ play,6,0,wilsp002,02,C1.SFX,9/F
 play,6,0,castv001,32,BSBBCB,W
 play,6,0,benng001,32,B1FBB1F1>X,S4/G.1-3
 play,6,0,guzmc001,22,BBCSC,K
-com,"ej,guzmc001,P,schrp901,Called third strike"
-com,"Nationals shortstop Cristian Guzman ejected by HP umpire Paul Schrieber"
 play,6,1,overl001,00,,NP
 sub,carrj001,"Jamey Carroll",0,8,6
 play,6,1,overl001,21,..BBCX,43/G
@@ -6354,7 +6327,6 @@ play,7,1,weekr001,02,CFFX,43/G
 play,8,0,castv001,00,,NP
 sub,eveld001,"Dana Eveland",1,9,1
 play,8,0,castv001,12,.CSF*BS,K
-com,"Debut game for Dana Eveland"
 play,8,0,benng001,10,BX,63/G
 play,8,0,carrj001,31,BBBCB,W
 play,8,0,majeg001,00,,NP
@@ -6442,7 +6414,6 @@ play,1,1,overl001,21,1*BC1BX,63/G-.1-2
 play,1,1,hallb001,01,CX,E4/G.2-3
 play,1,1,jenkg001,11,CBX,D9/L.3-H(UR);1-H(UR);B-3(E2)
 play,1,1,magrc001,22,BCBCH,HP
-com,"$Magruder hit on right elbow"
 play,1,1,branr001,10,BX,8/F
 play,2,0,churr001,12,CFBX,43/G
 play,2,0,castv001,02,FCFFFFS,K
@@ -6453,7 +6424,6 @@ play,2,1,ohkat001,00,X,63/G
 play,2,1,clarb003,31,BCBBX,7/F
 play,3,0,dresr001,00,,NP
 sub,lee-c001,"Carlos Lee",1,6,7
-com,"Brewers left fielder Chris Magruder left the game due to an injured elbow"
 play,3,0,dresr001,12,..CFBFC,K
 play,3,0,wilkb002,01,SX,8/F
 play,3,0,vidrj001,02,FFFX,63/G
@@ -6754,8 +6724,6 @@ play,4,1,weekr001,22,BBCCX,63/G
 play,4,1,overl001,00,X,HR/89/L
 play,4,1,lee-c001,02,FFX,9!/L
 play,4,1,jenkg001,10,BX,3/G
-com,"ej,yoste001,M,kulpr901,Call at 1B"
-com,"Brewers Manager Ned Yost ejected by 1B umpire Ron Kulpa"
 play,5,0,counc001,22,.CFBBX,S7/L-
 play,5,0,clayr001,11,BC1X,23/SH/BG.1-2
 play,5,0,gonzl001,22,BSBFC,K
@@ -7753,7 +7721,6 @@ start,branr001,"Russ Branyan",1,7,5
 start,moelc001,"Chad Moeller",1,8,2
 start,david002,"Doug Davis",1,9,1
 play,1,0,ecksd001,31,CBBBX,5!3/BG
-com,"Debut game for Anthony Reyes"
 play,1,0,tagus001,10,BX,D8/F
 play,1,0,pujoa001,30,IIII,IW
 play,1,0,grudm001,12,BCC*B,WP.2-3;1-2
@@ -7765,8 +7732,6 @@ play,1,1,overl001,22,BCCFFFBX,31/G
 play,2,0,rodrj002,32,BSBBCS,K
 play,2,0,lunah001,12,BOFX,S8/L
 play,2,0,mahom001,02,CFFN,BK.1-2
-com,"ej,yoste001,M,herna901,Balk"
-com,"Brewers Manager Ned Yost ejected by HP umpire Angel Hernandez"
 play,2,0,mahom001,02,CFFN..F>S,K+CS3(25)/DP
 play,2,1,lee-c001,00,X,S7/L
 play,2,1,jenkg001,11,CBS,WP.1-2
@@ -7933,7 +7898,6 @@ play,3,1,weekr001,01,FX,54(1)3/GDP
 play,3,1,overl001,02,SCX,43/G+
 play,4,0,rodrj002,00,,NP
 sub,magrc001,"Chris Magruder",1,1,8
-com,"Brewers left fielder Brady Clark left the game due to an injured chest"
 play,4,0,rodrj002,21,.CBBX,6/P
 play,4,0,tagus001,01,CX,8/F
 play,4,0,edmoj001,32,BCBCBFC,K
@@ -9012,7 +8976,6 @@ play,8,0,gilem001,12,BFFX,S8/G
 play,8,0,jonec004,02,CSB,WP.1-2
 play,8,0,jonec004,00,,NP
 sub,davik001,"Kane Davis",1,9,1
-com,"Brewers pitcher Ben Sheets left the game due to an injured arm"
 play,8,0,jonec004,32,CSB..BBB,W
 play,8,0,jonea002,01,CX,S8/G.2-H;1-3
 play,8,0,laroa001,00,,NP
@@ -9370,7 +9333,6 @@ start,hartc001,"Corey Hart",1,7,9
 start,hardj003,"Jack Hardy",1,8,6
 start,david002,"Doug Davis",1,9,1
 play,1,0,sancf001,12,CBFC,K
-com,"Debut game for Paul Maholm"
 play,1,0,redmt001,21,CBBX,13/G
 play,1,0,bay-j001,32,BBBCSB,W
 play,1,0,wilsc003,32,F11BCB1B>B,W.1-2
@@ -9835,7 +9797,6 @@ play,2,1,overl001,01,CX,S8/L.2-H;1-2
 play,2,1,lee-c001,00,,NP
 sub,oxspc001,"Chris Oxspring",0,9,1
 play,2,1,lee-c001,31,.BFBBB,W.2-3;1-2
-com,"Debut game for Chris Oxspring"
 play,2,1,jenkg001,00,X,HR/9/F.3-H;2-H;1-H
 play,2,1,branr001,22,SBSBC,K
 play,3,0,greek002,02,CFS,K
@@ -10243,7 +10204,6 @@ play,9,1,turnd001,00,,NP
 sub,weekr001,"Rickie Weeks",1,9,11
 play,9,1,weekr001,32,.C*BC*BB*B,W
 play,9,1,clarb003,10,B>X,FC3/SH/BG.3-H;1-2
-com,"squeeze play to end game"
 data,er,peavj001,0
 data,er,hammc001,2
 data,er,hensc002,0
@@ -11287,7 +11247,6 @@ play,7,0,lunah001,00,,NP
 sub,moelc001,"Chad Moeller",1,8,2
 play,7,0,lunah001,00,,NP
 sub,cirij001,"Jeff Cirillo",1,9,5
-com,"Brewers catcher Damian Miller left the game due to an injured knee"
 play,7,0,lunah001,02,....CFFX,53/G
 play,7,0,moliy001,10,BX,9/F
 play,7,0,nunea001,32,BSBCBS,K
@@ -11776,7 +11735,6 @@ play,8,0,merck001,00,,NP
 sub,holba001,"Aaron Holbert",0,9,11
 play,8,0,holba001,00,,NP
 sub,lehrj001,"Justin Lehr",1,7,1
-com,"Brewers pitcher Matt Wise left the game due to an injured neck/shoulder"
 play,8,0,holba001,32,.B.SF*BBS,K
 play,8,0,freer001,22,BSBCFX,S7/G
 play,8,0,lopef001,20,11B11B>B,SB2
@@ -12075,7 +12033,6 @@ play,5,0,keara001,11,S*BX,S8/L+.2-H
 play,5,0,laruj001,22,1SCBBX,54(1)/FO/G
 play,5,1,weekr001,00,,NP
 sub,denoc001,"Chris Denorfia",0,7,8
-com,"Wily Mo Pena left the game due to an injured back"
 play,5,1,weekr001,30,.BBBB,W
 play,5,1,milld002,21,BC+1BX,S9/L.1-3
 play,5,1,capuc001,00,,NP

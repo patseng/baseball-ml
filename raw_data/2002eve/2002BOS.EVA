@@ -47,7 +47,6 @@ start,sancr001,"Rey Sanchez",1,9,4
 start,martp001,"Pedro Martinez",1,0,1
 play,1,0,stews002,32,BFFBBB,W
 play,1,0,hinse001,12,FSBX,7/F7
-com,"Debut game for Eric Hinske"
 play,1,0,mondr002,02,FCX,9/L9
 play,1,0,delgc001,01,FH,HP.1-2
 play,1,0,cruzj004,11,SBX,D7/7D.2-H;1-3
@@ -89,8 +88,6 @@ play,3,1,varij001,22,CBFBX,S7.1-2
 play,3,1,sancr001,30,BBBB,W.2-3;1-2
 play,3,1,damoj001,10,BX,5/FL
 play,3,1,offej001,11,CBX,46(1)/FO
-com,"ej,rojac101,C,cousd901,Unknown reason"
-com,"Blue Jays coach Cookie Rojas ejected by 1B umpire Derryl Cousins in 4th inning"
 play,4,0,delgc001,32,BBBCSFX,S/89
 play,4,0,cruzj004,31,BBBCB,W.1-2
 play,4,0,fletd001,00,,NP
@@ -108,7 +105,6 @@ play,4,1,sancr001,32,CBBFFBX,S/89.3-H;2-H;1-3
 play,4,1,damoj001,00,,NP
 sub,casss001,"Scott Cassidy",0,0,1
 play,4,1,damoj001,11,BCB,WP.1-2
-com,"Debut game for Scott Cassidy"
 play,4,1,damoj001,22,BCBSX,8/SF.3-H
 play,4,1,offej001,31,BCBBB,W
 play,4,1,garcn001,22,CBBFX,8/F8
@@ -244,7 +240,6 @@ play,1,0,beltc001,21,CBBX,E5/G
 play,1,0,sweem002,00,X,53/G
 play,1,1,damoj001,31,BFBBB,W
 play,1,1,sancr001,11,FBX,S7.1X2(74)#
-com,"$Damon overran 2B and was tagged out"
 play,1,1,garcn001,00,X,64(1)3/GDP
 play,2,0,tuckm001,10,BX,8/F8
 play,2,0,randj002,32,BBCBCFX,S
@@ -895,9 +890,6 @@ play,6,1,damoj001,22,CCBFFBFFFFX,7/F7
 play,6,1,garcn001,00,X,4/P4
 play,6,1,ramim002,32,CBBSBB,W
 play,6,1,clart002,02,CFX,64(1)/FO
-com,"ej,clont101,C,culbf901,Balls and strikes"
-com,"Red Sox coach Tony Cloninger ejected by HP umpire Fieldin Culbreth in 7th"
-com,"for arguing balls and strikes"
 play,7,0,willb002,31,BCBBX,6/P6
 play,7,0,giamj001,12,BFFX,63/G
 play,7,0,posaj001,32,CCBBBB,W
@@ -1640,7 +1632,6 @@ sub,julij001,"Jorge Julio",0,0,1
 play,9,1,clart002,11,SBX,S8/8S
 play,9,1,varij001,12,CCFBX,S7/7S.1-2
 play,9,1,nixot001,22,CLBFBB,WP.2-3
-com,"Varitek held on WP, allowing later GDP"
 play,9,1,nixot001,32,CLBFBBX,6/P6
 play,9,1,sancr001,00,,NP
 sub,offej001,"Jose Offerman",1,9,11
@@ -2038,7 +2029,6 @@ play,7,1,clart002,11,BFX,43/G
 play,8,0,hatts001,00,,NP
 sub,nelsb001,"Bry Nelson",1,4,9
 play,8,0,hatts001,11,CBX,S/89
-com,"Debut game for Bry Nelson"
 play,8,0,longt002,11,BFX,64(1)3/GDP
 play,8,0,hernr002,10,BX,53/G
 play,8,1,varij001,00,,NP
@@ -2654,8 +2644,6 @@ start,nixot001,"Trot Nixon",1,7,9
 start,varij001,"Jason Varitek",1,8,2
 start,sancr001,"Rey Sanchez",1,9,4
 start,burkj001,"John Burkett",1,0,1
-com,"$BOS Mgr Little home for mother's funeral; Mike Stanley"
-com,"running club"
 play,1,0,suzui001,22,CFBBFX,S5.B-2(E5/TH1)
 play,1,0,cirij001,00,X,3/SH.2-3#
 play,1,0,sierr001,21,BFBX,3/P3
@@ -2726,8 +2714,6 @@ play,7,1,garcn001,22,BSFBX,7/F7
 play,8,0,camem001,12,FBCS,K
 play,8,0,guilc001,22,CBCBC,K/C
 play,8,0,wilsd001,22,BCBSC,K/C
-com,"$the knuckleball third strike to Wilson was about a foot"
-com,"outside and bounced in the dirt"
 play,8,1,daubb001,22,BBFFX,8/F8
 play,8,1,hills002,11,CBX,6/L6
 play,8,1,clart002,01,FX,S9/9D
@@ -2791,8 +2777,6 @@ start,nixot001,"Trot Nixon",1,7,9
 start,varij001,"Jason Varitek",1,8,2
 start,sancr001,"Rey Sanchez",1,9,4
 start,lowed001,"Derek Lowe",1,0,1
-com,"$BOS Mgr Little home for mother's funeral; Mike Stanley"
-com,"running club"
 play,1,0,loftk001,00,X,S
 play,1,0,durhr001,22,CBFBFX,6(1)3/GDP
 play,1,0,ordom001,12,CCBC,K/C
@@ -2817,8 +2801,6 @@ play,3,1,offej001,32,BSBFBFX,8/SF.3-H
 play,3,1,garcn001,00,X,S9/9S.1-3
 play,3,1,daubb001,12,CBCX,S9/9S.3-H;1-3
 play,3,1,hills002,20,BBX,HR/9L.3-H;1-H
-com,"$the ball landed in the first row of seats just to"
-com,"the left of the pole; 303-foot homer"
 play,3,1,clart002,12,SBSX,S7
 play,3,1,nixot001,12,BFSFC,K/C
 play,4,0,loftk001,11,BCX,23/G
@@ -4437,7 +4419,6 @@ play,3,0,walkl001,12,SCBFC,K/C
 play,3,1,nixot001,20,BBX,3/G#
 play,3,1,merll001,12,CBCX,53/G
 play,3,1,damoj001,10,BX,9/F9D
-com,"35 minute rain delay in 4th"
 play,4,0,heltt001,22,FBFBX,D/89
 play,4,0,nortg001,12,SBCS,K
 play,4,0,hollt001,10,BX,43/G.2-3
@@ -4583,7 +4564,6 @@ play,2,0,walkl001,10,BS,SB2
 play,2,0,walkl001,11,BSX,7/F7
 play,2,1,daubb001,22,CFBBFFFS,K
 play,2,1,diazj001,00,X,D7
-com,"Debut game for Juan Diaz"
 play,2,1,mirad001,01,CX,D7.2-H
 play,2,1,nixot001,11,BFX,6/P6
 play,2,1,merll001,10,BX,13/G
@@ -5047,7 +5027,6 @@ play,3,1,damoj001,21,BSBB,SB2
 play,3,1,damoj001,32,BSBBCFX,43/G.2-3
 play,3,1,baerc001,12,CBFS,K
 play,3,1,garcn001,00,X,E5/TH1/G5L.3-H(NR)(UR)
-com,"originally scored S5, changed 2 innings later"
 play,3,1,ramim002,21,BCBB,SB2
 play,3,1,ramim002,32,BCBBCX,43/G
 play,4,0,franj002,00,X,S8/8S
@@ -5130,7 +5109,6 @@ play,9,0,jonea002,11,CBX,8/F8
 play,9,0,castv001,00,X,S8/8S.2-H
 play,9,0,bragd001,31,BBBCB,W.1-2
 play,9,0,blanh001,11,BCX,D9/9S.2-H;1-3
-com,"originally scored as Single and advance on throw"
 play,9,0,garcj001,02,CFC,K/C
 play,9,1,nixot001,00,,NP
 sub,smolj001,"John Smoltz",0,0,1
@@ -6735,7 +6713,6 @@ play,3,1,merll001,00,,NP
 sub,backb001,"Brandon Backe",0,0,1
 play,3,1,merll001,00,X,5/P5
 play,3,1,garcn001,00,X,HR/7.1-H(UR);B-H(TUR)
-com,"$43rd time for two homers in one inning by batter"
 play,3,1,ramim002,22,BCBFS,K
 play,4,0,contj001,22,BFCFBS,K
 play,4,0,gomec001,02,CSS,K
@@ -6748,8 +6725,6 @@ play,4,1,mirad001,10,BX,S7/7D.2-H
 play,4,1,damoj001,12,CFBX,D7/7S.1-3
 play,4,1,merll001,32,BSBBFB,W
 play,4,1,garcn001,22,CBBSX,HR/7.3-H;2-H;1-H
-com,"$Garciaparra first to hit three homers on birthday and 12th"
-com,"to hit grand slam on birthday"
 play,4,1,ramim002,00,,NP
 sub,kents001,"Steven Kent",0,0,1
 play,4,1,ramim002,02,CCX,5/L5
@@ -6793,7 +6768,6 @@ play,8,1,daubb001,20,BBX,8/F8
 play,9,0,huffa001,00,X,43/G
 play,9,0,hallt001,22,CBBSX,63/G
 play,9,0,contj001,21,BSBX,S6/G
-com,"originally scored E6"
 play,9,0,gomec001,11,BFX,9/L9
 data,er,sturt001,7
 data,er,backb001,7
@@ -7280,7 +7254,6 @@ play,2,1,hills002,22,CCBBS,K23
 play,3,0,singc001,10,BX,S
 play,3,0,gil-g001,30,BBBB,W.1-2
 play,3,0,hairj002,01,LX,FC1/SH.2-3;1-2;B-1
-com,"$Hillebrand in too close, couldn't get back to bag"
 play,3,0,moram002,11,BSX,D7.3-H;2-H;1-3
 play,3,0,clarh001,21,BCBX,D7/7D.3-H;2-H
 play,3,0,mattg002,00,X,S9.2-H
@@ -7533,7 +7506,6 @@ play,1,0,moram002,11,BCX,43/G
 play,1,0,clarh001,31,CBBBX,43/G
 play,1,0,mattg002,20,BBX,S4
 play,1,0,batit001,30,BBBX,D7/7D.1XH(762)
-com,"$Matthews missed the plate and was tagged out after crossing"
 play,1,1,damoj001,01,CX,S6
 play,1,1,nixot001,21,CBBX,D9.1-H
 play,1,1,garcn001,00,X,S9.2-H
@@ -7559,17 +7531,6 @@ play,3,1,hills002,32,FBSBBX,S6.3-H;2-H(E6/TH)
 play,3,1,daubb001,21,BFBX,HR/78.1-H
 play,3,1,baerc001,31,BBFBX,63/G
 play,4,0,mattg002,00,H,HP
-com,"ej,mattg002,P,marsr901,Inciting bench-clearing brawl"
-com,"ej,robew001,P,marsr901,Bench-clearing brawl"
-com,"ej,clont101,C,marsr901,Bench-clearing brawl"
-com,"$ Gary Matthews, Brian Roberts and Boston coach Tony Cloninger"
-com,"ejected by HP umpire Randy Marsh; Matthews took a few steps towards"
-com,"the mound after being hit and both teams were warned about not"
-com,"throwing at hitters; Matthews & Derek Lowe yelled at each other"
-com,"after Matthews went to 1B; Matthews headed to the mound after"
-com,"Tony Batista fouled off a pitch, causing a bench-clearing brawl;"
-com,"Roberts punched Carlos Baerga in short CF; Roberts' jersey was"
-com,"torn off; Brook Fordyce and Cloninger pushed each other near HP"
 play,4,0,batit001,02,CF,NP
 sub,lopel002,"Luis Lopez",0,3,12
 play,4,0,batit001,12,CFBFX,9/F9
@@ -7872,7 +7833,6 @@ play,1,1,ramim002,12,CCFFBC,K/C
 play,2,0,justd001,01,CX,3/G#
 play,2,0,chave001,31,SBBBB,W
 play,2,0,dye-j001,12,CBSX,8/F8D
-com,"$ball hit into triangle in CF"
 play,2,0,mabrj001,00,X,43/G
 play,2,1,floyc001,11,BSX,3/G#
 play,2,1,varij001,32,BCBFFBFS,K
@@ -7907,7 +7867,6 @@ play,5,1,garcn001,32,CBBBFX,S7.1-2
 play,5,1,ramim002,00,X,54(1)/FO
 play,6,0,tejam001,10,BX,43/G
 play,6,0,justd001,10,BX,9/FL
-com,"$Nixon reached into the stands and grabbed ball from fan"
 play,6,0,chave001,11,CBX,E5/G
 play,6,0,dye-j001,11,BCX,HR/7.1-H(UR);B-H(UR)
 play,6,0,mabrj001,00,X,8/F8
@@ -7971,7 +7930,6 @@ play,9,1,damoj001,32,BFBFFBB,W
 play,9,1,nixot001,11,CBX,S/78.1-2
 play,9,1,garcn001,12,FFBS,K
 play,9,1,ramim002,12,CFBX,8/F89XDW
-com,"$Long caught the ball over wall in bullpen with fine leap"
 data,er,haraa001,1
 data,er,mecij001,0
 data,er,rincr001,0
@@ -8887,7 +8845,6 @@ play,1,0,rodra001,20,BBX,63/G
 play,1,1,damoj001,01,CX,S4
 play,1,1,garcn001,00,,NP
 sub,hendr001,"Rickey Henderson",1,1,12
-com,"not clear why Damon left, presumably injured"
 play,1,1,garcn001,22,BBFFS,K
 play,1,1,ramim002,01,FX,HR/8.1-H
 play,1,1,floyc001,22,CSBFBX,HR/9
@@ -9387,7 +9344,6 @@ play,9,0,spies001,10,BX,S9
 play,9,0,kenna001,00,,NP
 sub,figgc001,"Chone Figgins",0,7,12
 play,9,0,kenna001,02,LFS,K
-com,"Debut game for Chone Figgins"
 play,9,0,molij001,00,,NP
 sub,woots001,"Shawn Wooten",0,9,11
 play,9,0,woots001,21,CBBX,S7/7S.1-3
@@ -9554,7 +9510,6 @@ play,8,0,kenna001,32,BFBFBFX,D7/7D
 play,8,0,ecksd001,01,CX,S5/BG5.2-3
 play,8,0,erstd001,32,BFBSBS,K
 play,8,0,palmo001,22,BCCBX,9/SF.3-H;1-2(E9)
-com,"$Nixon dropped ball right on line"
 play,8,0,andeg001,30,IIII,IW
 play,8,0,fullb001,10,BX,D9.2-H;1-3
 play,8,0,glaut001,10,BX,D9.3-H;2-H
@@ -9682,14 +9637,12 @@ play,4,1,garcn001,12,BCFFX,8/F8
 play,4,1,ramim002,22,BSFBFX,43/G
 play,4,1,hills002,32,BBBCFFC,K/C
 play,5,0,mondr002,21,CBBX,D7/F7DW
-com,"$off top of wall"
 play,5,0,spens001,21,BBFX,S9.2-3
 play,5,0,whitr001,21,BFBX,9/SF.3-H
 play,5,0,coomr001,00,X,8/L8
 play,5,0,soria001,02,CSX,D/78D.1-H
 play,5,0,jeted001,22,FFBFFBX,S7.2-H;B-2(THH)
 play,5,0,giamj001,00,X,D8/F78XDW.2-H
-com,"$off wall, just over Damon's leap"
 play,5,0,willb002,00,,NP
 sub,castf001,"Frank Castillo",1,0,1
 play,5,0,willb002,00,X,9/F9
@@ -9710,9 +9663,6 @@ play,7,0,jeted001,32,BBFBCX,S9
 play,7,0,giamj001,21,BBCB,SB2
 play,7,0,giamj001,31,BBCBB,W
 play,7,0,willb002,11,BSX,96(2)6(1)/GDP
-com,"$Williams' fly fell in front of a diving Ramirez; Jeter thought the"
-com,"ball was caught and returned to 2B; Garciaparra tagged Jeter and then"
-com,"the bag just before Giambi reached it"
 play,7,1,ramim002,22,SBBCX,D/89D
 play,7,1,hills002,22,FFFFBBX,53/G
 play,7,1,baerc001,32,BBFCBX,43/G.2-3
@@ -10128,8 +10078,6 @@ play,5,1,hills002,00,X,S9/9S
 play,5,1,garcn001,01,CX,D7.1-3
 play,5,1,ramim002,10,BX,7/L7
 play,5,1,floyc001,22,FBBCS,K
-com,"ej,floyc001,P,herna901,Balls and strikes"
-com,"Cliff Floyd ejected by HP umpire Angel Hernandez"
 play,5,1,agbab001,10,BX,S7.3-H;2-H
 play,5,1,daubb001,12,BFSS,K
 play,6,0,wellv001,00,,NP
@@ -10161,7 +10109,6 @@ sub,cashk001,"Kevin Cash",0,8,2
 play,8,1,mirad001,00,,NP
 sub,thurc001,"Corey Thurman",0,0,1
 play,8,1,mirad001,02,FSFC,K/C
-com,"Debut game for Kevin Cash"
 play,8,1,sancr001,21,BSBX,S9
 play,8,1,damoj001,22,CSBFBX,S.1-2
 play,8,1,hills002,20,BBX,8/F8.2-3
@@ -11016,7 +10963,6 @@ play,5,0,snyde001,22,BBCFS,K
 play,5,0,martv001,00,X,43/G
 play,5,0,selbb001,22,CFBBX,D9
 play,5,0,mcdoj003,02,CCC,K/C
-com,"1:12 rain delay"
 play,5,1,floyc001,00,,NP
 sub,mulht001,"Terry Mulholland",0,0,1
 play,5,1,floyc001,21,BBFX,8/F8
@@ -11133,7 +11079,6 @@ start,sancr001,"Rey Sanchez",1,8,6
 start,sancf001,"Freddy Sanchez",1,9,4
 start,castf001,"Frank Castillo",1,0,1
 play,1,0,crisc001,12,CCBFX,6/P6
-com,"Debut game for Brian Tallet"
 play,1,0,philb001,02,CCX,13/G
 play,1,0,burke001,22,CBBSX,53/G
 play,1,1,hendr001,32,FBFFBBB,W
@@ -11466,8 +11411,6 @@ play,7,0,thomj002,00,,NP
 sub,embra001,"Alan Embree",1,0,1
 play,7,0,thomj002,32,BCBBSB,W
 play,7,0,bradm001,22,BCCBFC,K/C
-com,"ej,bradm001,P,fleta901,Balls and strikes"
-com,"$Milton Bradley ejected by HP umpire Andy Fletcher"
 play,7,1,sancf001,00,,NP
 sub,crisc001,"Covelli Crisp",0,1,8
 play,7,1,sancf001,00,,NP
@@ -11601,8 +11544,6 @@ play,2,1,floyc001,00,H,HP.2-3;1-2
 play,2,1,ramim002,00,,NP
 sub,baerc001,"Carlos Baerga",1,3,12
 play,2,1,ramim002,32,BBBCFC,K/C
-com,"ej,ramim002,P,reedr901,Called third strike (threw helmet)"
-com,"Manny Ramirez ejected by HP umpire Rick Reed"
 play,2,1,hills002,32,BBBCSFS,K
 play,3,0,sandj001,00,,NP
 sub,agbab001,"Benny Agbayani",1,4,7

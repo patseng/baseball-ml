@@ -309,8 +309,6 @@ sub,tholj001,"Josh Thole",1,8,11
 play,8,1,tholj001,00,,NP
 sub,slatd001,"Doug Slaten",0,9,1
 play,8,1,tholj001,00,..X,FC6/G46.2X3(6);1-2
-com,"$on a grounder up the middle, Ike Davis interfered with SS Ian Desmond when he ran to field the ball;"
-com,"Davis was called out and no run allowed to score on the play"
 play,8,1,rodrf003,12,SSFBS,K
 play,8,1,reyej001,32,BBBCC>X,D7/L.3-H;2-H;1-3
 play,8,1,pagaa001,00,X,8/F
@@ -1078,10 +1076,6 @@ play,2,0,heltt001,22,CCFBBFX,S9/F
 play,2,0,spilr001,00,X,9/F
 play,2,1,davii001,31,BBBCB,W
 play,2,1,hairs001,00,1X,D7/F.1-3
-com,"$Scott Hairston's fly ball hit the top of the padding in the LF corner and rebounded onto"
-com,"the field; Mets manager Terry Collins ran onto the field to argue the ruling that the ball"
-com,"was in play; acting crew chief Jim Joyce watched the replay and upheld the ruling; Collins"
-com,"continued to argue the call, which is not allowed in the replay rules"
 play,2,1,emaub001,12,CFBX,13/G-
 play,2,1,nickm001,11,CBX,D7/F+.3-H;2-H
 play,2,1,capuc001,02,CFS,K
@@ -1253,11 +1247,6 @@ play,2,1,hairs001,22,BFF*BS,K
 play,3,0,pench001,01,SX,53/G
 play,3,0,lee-c001,21,BBCX,S7/G
 play,3,0,johnc003,02,FSX,E4/TH2/FO/G34.1X3(5);B-2
-com,"$Mets 2B Justin Turner caught the ball to his left but bounced the throw to 2B;"
-com,"the ball skipped by SS Jose Reyes and was retrieved at the normal SS position by"
-com,"3B David Wright; Carlos Lee thought he could reached 3B because no one was covering"
-com,"the bag; Wright picked up the ball and ran back to the bag; he made a diving tag"
-com,"on Lee, who hurt his elbow on his head-first slide into third"
 play,3,0,hallb001,02,CSS,K
 play,3,1,turnj001,11,CBX,63/G
 play,3,1,niesj001,12,BCCC,K
@@ -1429,7 +1418,6 @@ play,4,0,norrb001,22,CBBFX,13/G
 play,4,0,bourm001,02,CFX,23/G-
 play,4,1,harrw001,00,,NP
 sub,downm001,"Matt Downs",0,7,4
-com,"Astros second baseman Bill Hall left the game due to an injured ankle"
 play,4,1,harrw001,11,.BCX,43/G
 play,4,1,murpd006,02,CFX,S9/L
 play,4,1,dickr001,01,L1X,3/BP
@@ -1477,8 +1465,6 @@ sub,turnj001,"Justin Turner",1,9,11
 play,8,1,turnj001,00,,NP
 sub,valdj001,"Jose Valdez",0,4,1
 play,8,1,turnj001,02,..FFFFS,K.3XH(21)
-com,"$the third strike got away from catcher J.R. Towles, the ball rolling about 15 feet to his right;"
-com,"Angel Pagan tried to score from third on the play but Towles threw to the pitcher Jose Valdez for the out"
 play,9,0,downm001,00,,NP
 sub,isrij001,"Jason Isringhausen",1,9,1
 play,9,0,downm001,12,.CSBX,4/P
@@ -1542,11 +1528,6 @@ start,turnj001,"Justin Turner",1,7,4
 start,nickm001,"Mike Nickeas",1,8,2
 start,capuc001,"Chris Capuano",1,9,1
 play,1,0,bourm001,11,BMX,43/G
-com,"ej,collt801,M,eddid901,Call on foul tip"
-com,"$Angel Sanchez fouled the 2-2 pitch and it was caught by catcher Mike Nickeas;"
-com,"however, HP umpire Doug Eddings ruled that the ball hit the ground before the catch"
-com,"and was therefore not strike three; Mets Manager Terry Collins argued with Eddings"
-com,"for a while and eventually was ejected by Eddings"
 play,1,0,sanca005,22,CBSBF.S,K
 play,1,0,pench001,12,SBFX,D8/L
 play,1,0,lee-c001,12,BSCX,13/G-
@@ -1568,9 +1549,6 @@ play,3,1,nickm001,22,BCSBX,HR/7/F
 play,3,1,capuc001,22,BSBSS,K
 play,3,1,reyej001,32,CBFBBFX,53/G
 play,4,0,pench001,01,CX,4/P8S
-com,"$Mets second baseman Justin Turner ran into shallow CF to catch the ball; CF Angel Pagan ran in"
-com,"and reached toward the abll as Turner caught it; Pagan's left elbow hit Turner's right shoulder,"
-com,"knocking off Pagan's glove; he remained in the game"
 play,4,0,lee-c001,01,CX,4/P
 play,4,0,johnc003,22,FFBBX,D8/F
 play,4,0,wallb001,22,FS*BFBX,5/P5F
@@ -1592,7 +1570,6 @@ play,5,1,pagaa001,32,BFBSBX,9/F
 play,5,1,wrigd002,21,CBBX,D8/L.2-H;1-H
 play,5,1,beltc001,00,,NP
 sub,delre001,"Enerio Del Rosario",0,9,1
-com,"Mets center fielder Angel Pagan left the game due to a tweaked oblique muscle"
 play,5,1,beltc001,00,.X,43/G
 play,6,0,sanca005,00,,NP
 sub,harrw001,"Willie Harris",1,2,8
@@ -1627,9 +1604,6 @@ play,8,1,harrw001,32,FBBCBFX,7/F
 play,8,1,wrigd002,31,FBBBB,W
 play,8,1,beltc001,22,BSCBS,K
 play,8,1,bay-j001,00,X,E9/F.1-H(UR)(NR);B-H(UR)(NR)
-com,"Astros RF Hunter Pence ran over near the foul line to catch Jason Bay's fly; the"
-com,"ball hit Pence on the left forearm and rolled into the corner, allowing Bay to"
-com,"run the circuit"
 play,8,1,davii001,32,BBSBFX,HR/8/F.B-H(UR)
 play,8,1,turnj001,02,FCS,K
 play,9,0,johnc003,12,SCBS,K
@@ -1741,9 +1715,6 @@ sub,vasqe001,"Esmerling Vasquez",0,9,1
 play,7,1,beltc001,32,.CSBFB1*B>X,4/P
 play,7,1,bay-j001,22,1BBCC1>S,K+SB2
 play,7,1,davii001,10,BX,HR/8/F.2-H
-com,"$the fly ball by Ike Davis hit the CF wall a few feet above the red line that indicates home run;"
-com,"the ball was ruled in play but the umpires huddled and then crew chief Gerry Davis watched the"
-com,"replay and overturned the call to a home run"
 play,7,1,nickm001,10,BX,S9/L
 play,7,1,pridj001,31,BBCBB,W.1-2
 play,7,1,pelfm001,00,,NP
@@ -2658,8 +2629,6 @@ play,4,1,davii001,22,CSBBX,3(B)6(1)/GDP
 play,4,1,pridj001,21,BSBX,7/F
 play,5,0,carrj001,31,BBBCB,W
 play,5,0,sandj002,00,X,2/BG.1-1
-com,"$Dodgers Jerry Sands called out for running into his own bunt in fair territory"
-com,"(batter interference)"
 play,5,0,ethia001,10,BX,S8/L.1-3;B-2(TH3)
 play,5,0,kempm001,30,BIII,IW
 play,5,0,uribj002,00,X,63/G.3-H;2-3;1-2
@@ -3146,7 +3115,6 @@ play,6,0,dobbg001,10,BB,WP.1-2
 play,6,0,dobbg001,30,BB.*BX,9/F
 play,6,1,turnj001,00,,NP
 sub,mujie001,"Edward Mujica",0,9,1
-com,"Marlins pitcher Josh Johnson left the game due to an injured arm"
 play,6,1,turnj001,02,.CFX,13/G-
 play,6,1,pridj001,22,BFBFS,K
 play,6,1,paulr001,01,CX,9/F
@@ -3228,8 +3196,6 @@ play,10,1,beltc001,31,.BBFBB,W
 play,10,1,bay-j001,00,X,13/SH/BG.1-2
 play,10,1,murpd006,30,IIII,IW
 play,10,1,turnj001,12,CCBX,64(1)3/GDP
-com,"$Justin Turner's grounder bounced off SS Hanley Ramirez' chest to 2B, where it was"
-com,"fielded by Omar Infante while standing on the bag; he threw to 1B to complete the DP"
 play,11,0,stanm004,00,,NP
 sub,igarr001,"Ryota Igarashi",1,9,1
 play,11,0,stanm004,00,.X,S8/G+
@@ -3628,15 +3594,12 @@ play,4,1,pagaa001,22,1BCB1FX,7/F
 play,4,1,paulr001,12,CB+1F1>B,SB2
 play,4,1,paulr001,32,CB+1F1>B.FFBX,53/G
 play,5,0,maybj001,10,BX,S8/F.B-3(E8)(E7/TH2)
-com,"$when Mets CF Angel Pagan did not field the ball cleanly, John Mayberry advanced to"
-com,"second; LF Jason Bay threw wildly to second and Mayberry advanced to third"
 play,5,0,oswar001,21,BBCX,S7/L.3-H(UR)
 play,5,0,rollj001,11,BFX,5!4(1)/FO/G
 play,5,0,utlec001,12,FCBX,36(1)3/GDP
 play,5,1,tejar001,21,BBCX,63/G
 play,5,1,capuc001,12,CSBS,K23
 play,5,1,reyej001,02,FSX,E4/P
-com,"$Chase Utley and Jimmy Rollins collided behind second on the easy popup"
 play,5,1,turnj001,02,FCX,S9/G.1-2
 play,5,1,beltc001,11,BFX,S9/G.2-H(UR);1-3
 play,5,1,bay-j001,02,FSS,K
@@ -3660,7 +3623,6 @@ play,7,1,reyej001,00,,NP
 sub,stutm001,"Michael Stutes",0,9,1
 play,7,1,reyej001,11,.CBX,D7/L
 play,7,1,turnj001,00,2,PO2(E1).2-3
-com,"$no one covered the bag when pitcher Michael Stutes threw to second"
 play,7,1,turnj001,01,2.CX,S9/F.3-H
 play,7,1,beltc001,01,CX,9/L
 play,7,1,bay-j001,00,1>B,CS2(24)
@@ -3802,8 +3764,6 @@ play,4,0,howar001,22,BSBFFC,K
 play,4,0,ibanr001,22,CFBBFX,D4/G+.2-H
 play,4,0,ruizc001,32,C*BBBFB,W
 play,4,0,browd004,00,N,BK.2-3;1-2
-com,"$while Mike Pelfrey was standing on the pitching rubber, the ball fell out of his"
-com,"glove and was called a balk"
 play,4,0,browd004,22,N.BSFBX,63/G
 play,4,1,pagaa001,11,FBX,23/G-
 play,4,1,paulr001,11,SBX,S8/L
@@ -4743,8 +4703,6 @@ play,4,1,pagaa001,20,BBX,S8/L.3-H
 play,4,1,tholj001,00,X,13/G
 play,5,0,schaj002,02,CL,NP
 sub,hinse001,"Eric Hinske",0,1,11
-com,"$Jordan Schafer attempted to bunt the second pitch and fouled it off his right cheek;"
-com,"he suffered a non-displaced sinus fracture"
 play,5,0,hinse001,12,CL.FBS,K
 play,5,0,pradm001,21,BSBX,D7/L+
 play,5,0,jonec004,00,X,9/F.2-3
@@ -5021,7 +4979,6 @@ play,3,0,mathj002,00,,NP
 sub,harrw001,"Willie Harris",1,3,7
 play,3,0,mathj002,00,,NP
 sub,pridj001,"Jason Pridie",1,7,9
-com,"Mets right fielder Carlos Beltran left the game due to an injured leg"
 play,3,0,mathj002,10,..BX,7/F
 play,3,0,hudst001,22,CBBCX,53/G
 play,3,0,schaj002,00,X,8/F
@@ -5339,7 +5296,6 @@ play,5,1,reyej001,32,BBBCFB,W
 play,5,1,turnj001,11,1CP>B,SB2
 play,5,1,turnj001,22,1CP>B.TFX,S9/L.2-H
 play,5,1,beltc001,21,CB1BX,HR/89/F.1-H
-com,"$Beltran's homer landed on the Shea Bridge in deep RCF"
 play,5,1,murpd006,00,,NP
 sub,takah001,"Hisanori Takahashi",0,7,1
 play,5,1,murpd006,00,,NP
@@ -5671,11 +5627,6 @@ play,8,1,beltc001,11,.CBX,53/G
 play,8,1,murpd006,22,BCBFX,9/F
 play,8,1,pagaa001,31,BBFBB,W
 play,8,1,bay-j001,00,X,T8/F.1-H
-com,"$Jason Bay hit a fly to deep CF to the right of the 408' marker; CF Coco Crisp made a leaping"
-com,"attempt to catch the ball but closed his glove too soon; the ball struck his glove as Crisp was"
-com,"still going up, bounced up and struck the glove again higher than the orange stripe and then"
-com,"caromed back onto the field; the ball was ruled in play but, when Mets manager Terry Collins"
-com,"asked about the ruling, crew chief Gary Cederstrom watched the replay and upheld the call"
 play,8,1,byrdt001,00,,NP
 sub,harrw001,"Willie Harris",1,7,11
 play,8,1,harrw001,22,.BFCBH,HP
@@ -6025,7 +5976,6 @@ play,6,1,harrw001,00,,NP
 sub,bresc001,"Craig Breslow",0,6,1
 play,6,1,harrw001,00,,NP
 sub,cartc002,"Chris Carter",0,9,3
-com,"Mets pitcher Chris Capuano left the game due to an injured side"
 play,6,1,harrw001,21,...BCBX,S8/L.1-2
 play,6,1,reyej001,01,SF,FLE3
 play,6,1,reyej001,02,SFX,S8/L.2-H(UR);1-2
@@ -6192,11 +6142,6 @@ play,7,0,rodra001,02,CSS,K
 play,7,0,canor001,00,X,3/G+
 play,7,1,reyej001,11,CBX,S8/G
 play,7,1,turnj001,10,1B1X,8/F.1X3(65)
-com,"ej,collt801,M,laynj901,Call at 3B"
-com,"$Mets Jose Reyes advanced to 2B on the deep flyout; when SS Eduardo Nunez mishandled the throw in and then"
-com,"did not hustle to pick up the ball, Reyes ran for 3B but was called out by HP umpire Jerry Layne, who was"
-com,"covering that base on a rotation; Reyes jumped up arguing and was restrained by 3B coach Chip Hale; Mets"
-com,"manager Terry Collins ran out and pushed both Hale and Reyes away; Collins was ejected by Layne"
 play,7,1,beltc001,31,.BBCBB,W
 play,7,1,murpd006,00,,NP
 sub,logab001,"Boone Logan",0,9,1
@@ -6312,7 +6257,6 @@ play,2,1,bay-j001,22,CCBBX,9/F
 play,2,1,dudal001,21,BCBX,9/L
 play,3,0,nunee002,00,,NP
 sub,tejar001,"Ruben Tejada",1,1,6
-com,"Mets shortstop Jose Reyes left the game due to an injured leg"
 play,3,0,nunee002,12,.BCSX,D7/L
 play,3,0,colob001,01,LX,54/SH/BG.2-3
 play,3,0,gardb001,21,FBBX,FC3/G.3XH(32)
@@ -6482,7 +6426,6 @@ play,5,1,tholj001,01,CX,43/G
 play,5,1,tejar001,20,BBX,2/P
 play,5,1,dickr001,00,,NP
 sub,pridj001,"Jason Pridie",1,9,11
-com,"Mets pitcher R. A. Dickey left the game due to an injured back"
 play,5,1,pridj001,02,.CSS,K23
 play,6,0,teixm001,00,,NP
 sub,beatp001,"Pedro Beato",1,9,1
@@ -7129,7 +7072,6 @@ play,3,0,camem001,00,,NP
 sub,evann001,"Nick Evans",1,4,3
 play,3,0,camem001,00,,NP
 sub,dudal001,"Lucas Duda",1,5,9
-com,"Mets right fielder Scott Hairston left the game due to an injured leg"
 play,3,0,camem001,10,..BX,7/F
 play,3,0,buckj001,10,BX,63/G
 play,3,0,hensc002,32,BBBCCB,W
@@ -7435,7 +7377,6 @@ play,3,1,turnj001,10,BX,54(1)/FO/G
 play,3,1,beltc001,12,BFFX,3/G
 play,4,0,lairg001,00,,NP
 sub,harrw001,"Willie Harris",1,6,7
-com,"Mets left fielder Jason Bay left the game due to an injured leg"
 play,4,0,lairg001,22,.CCBBX,S7/G
 play,4,0,descd001,10,*B>X,16(1)3/GDP
 play,4,0,mcclk001,00,X,43/G
@@ -7500,7 +7441,6 @@ play,8,0,lairg001,00,X,S5/BG.3-H;1-2
 play,8,0,descd001,00,B,WP.2-3;1-2
 play,8,0,descd001,22,B.BFFS,K
 play,8,1,pagaa001,22,BFCBX,S6/G
-com,"originally scored E6, changed to single on 7-26-2011"
 play,8,1,harrw001,32,1B1BCL*B>F1>X,53/G.1-2
 play,8,1,dudal001,31,BBBCX,31/G.2-3
 play,8,1,tholj001,00,,NP
@@ -7937,7 +7877,6 @@ play,6,1,dudal001,00,,NP
 sub,bonie001,"Emilio Bonifacio",0,1,6
 play,6,1,dudal001,00,,NP
 sub,dobbg001,"Greg Dobbs",0,4,5
-com,"Marlins shortstop Hanley Ramirez left the game due to an injured shoulder"
 play,6,1,dudal001,01,..1C11>B,SB2
 play,6,1,dudal001,12,..1C11>B.SB,WP.2-3
 play,6,1,dudal001,22,..1C11>B.SB.X,9/SF/L.3-H
@@ -8393,7 +8332,6 @@ play,2,1,evann001,02,1SCX,S49/G.1-2
 play,2,1,gee-d001,21,BCBX,S7/L.2-H;1-3
 play,2,1,reyej001,00,,NP
 sub,harrw001,"Willie Harris",1,1,11
-com,"Mets shortstop Jose Reyes left the game due to a mild pull of the left hamstring"
 play,2,1,harrw001,10,.BX,S4/P.3-H;1-3
 play,2,1,turnj001,00,X,9/F
 play,3,0,bourm001,00,,NP
@@ -8462,8 +8400,6 @@ sub,murpd006,"Daniel Murphy",1,9,4
 play,7,0,gonza002,21,..FBBX,8/F
 play,7,0,consj001,30,BBBB,W
 play,7,0,boscj001,10,1B>B,SB2
-com,"$Jose Constanza slid into 2B and his lead foot popped off the bag; the foot hit Daniel Murphy's"
-com,"left knee, which buckled the wrong way; Murphy left and was placed on the DL"
 play,7,0,boscj001,00,,NP
 sub,hairs001,"Scott Hairston",1,4,4
 play,7,0,boscj001,00,,NP
@@ -8773,7 +8709,6 @@ play,5,0,bartj001,00,X,D9/F.1-H
 play,5,0,guzmj005,22,BCFBX,D9/L.2-H
 play,5,0,hudso001,00,,NP
 sub,gonza005,"Alberto Gonzalez",0,4,11
-com,"Padres second baseman Orlando Hudson left the game due to an injured groin"
 play,5,0,gonza005,00,.X,7/L
 play,5,1,pagaa001,00,,NP
 sub,gonza005,"Alberto Gonzalez",0,4,4
@@ -8931,7 +8866,6 @@ play,4,1,tejar001,00,X,D7/L.1-3
 play,4,1,dickr001,00,X,S7/G.3-H;2-3
 play,4,1,pagaa001,00,,NP
 sub,pridj001,"Jason Pridie",1,1,11
-com,"Mets center fielder Angel Pagan left the game due to an injured back"
 play,4,1,pridj001,12,.BFCFX,7/FDP.3XH(72)
 play,5,0,maybc001,00,,NP
 sub,pridj001,"Jason Pridie",1,1,8
@@ -9109,8 +9043,6 @@ play,5,1,wrigd002,00,X,S7/L.1-2
 play,5,1,bay-j001,12,CBCX,8/F
 play,5,1,dudal001,01,CX,E5/G.2-3;1-2
 play,5,1,evann001,12,BCSFC,K
-com,"ej,hudgd101,C,carav901,Balls and strikes"
-com,"Mets Batting Coach Dave Hudgens ejected by HP umpire Vic Carapazza for arguing balls and strikes"
 play,6,0,luebc001,00,,NP
 sub,tekob001,"Blake Tekotte",0,9,11
 play,6,0,tekob001,12,..BSCS,K
@@ -9222,7 +9154,6 @@ start,pridj001,"Jason Pridie",1,6,7
 start,tholj001,"Josh Thole",1,7,2
 start,tejar001,"Ruben Tejada",1,8,6
 start,pelfm001,"Mike Pelfrey",1,9,1
-com,"2:46 rain delay before start of game"
 play,1,0,hartc001,21,BBCX,9/F
 play,1,0,morgn001,02,CFX,43/G-
 play,1,0,braur002,00,X,E5/G
@@ -9244,10 +9175,6 @@ play,2,1,pridj001,00,X,5/P
 play,3,0,morgn001,12,CCBX,S9/L
 play,3,0,braur002,00,1>B,SB2
 play,3,0,braur002,22,1>B.CCBC,K
-com,"ej,braur002,P,campa901,Called third strike"
-com,"$Brewers left fielder Ryan Braun stood at the plate yelling about the called third strike"
-com,"he repeatedly said: 'that's not a strike' with some extra words thrown in; after he did"
-com,"not leave, Braun was ejected by HP umpire Angel Campos"
 play,3,0,fielp001,30,.BBBI,IW
 play,3,0,mcgec001,00,X,5!(2)3/GDP
 play,3,1,tholj001,00,,NP
@@ -10434,8 +10361,6 @@ play,2,0,hayeb001,01,CX,S5/L
 play,2,0,hensc002,00,X,34/SH/BG.1-2
 play,2,0,bonie001,21,BBS,NP
 sub,nickm001,"Mike Nickeas",1,8,2
-com,"$Mets catcher Josh Thole left the game due to a bruised left wrist after a fast ball"
-com,"hit him on the inside of the wrist; he was expecting a slider and got a fast ball"
 play,2,0,bonie001,32,BBS.BFX,D9/L.2-H
 play,2,0,infao001,01,CX,8/F
 play,2,1,bay-j001,00,X,53/G

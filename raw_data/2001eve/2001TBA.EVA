@@ -277,7 +277,6 @@ sub,winnr001,"Randy Winn",1,2,7
 play,8,0,batit001,00,,NP
 sub,hillk001,"Ken Hill",1,0,1
 play,8,0,batit001,10,BX,HR/8
-com,"broke bat on homer to straight center!"
 play,8,0,fletd001,11,CBX,4/P4
 play,8,0,cruzj004,22,SSBFBFX,13/G
 play,8,0,bushh001,02,SCX,9/F9
@@ -299,7 +298,6 @@ play,9,1,mcgrf001,20,BBX,S
 play,9,1,grieb001,00,,NP
 sub,freer001,"Ryan Freel",0,9,4
 play,9,1,grieb001,22,BBCFS,K
-com,"Debut game for Ryan Freel"
 play,9,1,castv001,32,BBCBFB,W.1-2
 play,9,1,smitr003,12,BCFS,K
 play,9,1,flahj001,20,BBX,7/F7D
@@ -519,7 +517,6 @@ play,1,1,mcgrf001,21,BBSX,3/G
 play,2,0,varij001,22,SFBFBX,43/G
 play,2,0,hills002,32,BBBCFB,W
 play,2,0,daubb001,00,F,FLE7
-com,"DV: error placement verified by Drays"
 play,2,0,daubb001,02,FFX,HR/9.1-H(UR);B-H(UR)
 play,2,0,merll001,01,CX,4/P4
 play,2,0,nixot001,31,BBBCB,W
@@ -644,7 +641,6 @@ start,castv001,"Vinny Castilla",1,7,5
 start,flahj001,"John Flaherty",1,8,2
 start,martf001,"Felix Martinez",1,9,6
 start,lopea002,"Albie Lopez",1,0,1
-com,"$Hal McRae's first game as Tampa Bay manager"
 play,1,0,nixot001,11,BCX,53/G
 play,1,0,offej001,00,X,S7
 play,1,0,everc001,12,BCSS,K
@@ -849,7 +845,6 @@ play,5,1,vaugg001,11,BFX,D7.1XH(762)
 play,6,0,daubb001,00,,NP
 sub,phelt001,"Travis Phelps",1,0,1
 play,6,0,daubb001,00,X,3/G
-com,"Debut game for Travis Phelps"
 play,6,0,grebc001,21,BBCX,53/G
 play,6,0,lewid001,20,BBX,7/F7
 play,6,1,mcgrf001,32,SBSBBS,K
@@ -1477,7 +1472,6 @@ play,3,0,browd002,31,BBFBB,W.1-2
 play,3,0,randj002,01,CX,8/F8D
 play,3,1,castv001,00,,NP
 sub,ibanr001,"Raul Ibanez",0,4,9
-com,"$Dye left with contusion to left knee"
 play,3,1,castv001,21,CBBX,63/G
 play,3,1,flahj001,11,CBX,9/F9D
 play,3,1,martf001,00,X,S3/BG3
@@ -2065,7 +2059,6 @@ play,4,1,martf001,12,BFCFH,HP
 play,4,1,willg001,01,FB,WP.1-2
 play,4,1,willg001,22,FBBCFX,53/G
 play,5,0,vizqo001,21,CBBX,D9
-com,"$HP umpire Mike DiMuro warned both teams"
 play,5,0,alomr001,00,X,9/F9D.2-3
 play,5,0,gonzj002,11,BSX,D/78.3-H
 play,5,0,thomj002,32,CBFBBS,K
@@ -2104,10 +2097,6 @@ play,8,0,cordm001,22,FSBBX,5/L5
 play,8,0,branr001,12,SFBX,7/SF.3-H
 play,8,0,diaze002,11,CB,NP
 sub,wallj001,"Jeff Wallace",1,0,1
-com,"ej,juddm001,P,dimum901,Throwing at Einar Diaz after warning"
-com,"ej,mcrah001,M,dimum901,Mike Judd threw at Diaz after warning"
-com,"Mike Judd ejected by HP umpire Mike DiMuro for throwing at"
-com,"Einar Diaz; Devil Rays Manager Hal McRae also ejected"
 play,8,0,diaze002,12,CBSS,K23
 play,8,1,castv001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",0,3,4
@@ -2116,10 +2105,6 @@ play,8,1,guilj001,01,CX,53/G
 play,8,1,flahj001,21,CBBX,9/L9
 play,9,0,loftk001,00,,NP
 sub,yan-e001,"Esteban Yan",1,0,1
-com,"ej,difem001,P,dimum901,Balls and strikes (not in game)"
-com,"Mike DiFelice (not in game) ejected by HP umpire Mike DiMuro while"
-com,"warming up pitcher before inning; he was complaining"
-com,"about inside pitch from Karsay to Flaherty in eighth"
 play,9,0,loftk001,20,BBX,43/G
 play,9,0,vizqo001,12,BCFFX,S
 play,9,0,cabrj002,31,BFBBB,W.1-2
@@ -3344,7 +3329,6 @@ play,8,0,rodri001,00,,NP
 sub,meacr001,"Rusty Meacham",1,0,1
 play,8,0,rodri001,00,X,D7.3-H;1-3
 play,8,0,kaplg001,22,BCFBX,S8/P8S.3-H;2-2
-com,"$Rodriguez could not advance from 2B on pop hit to CF"
 play,8,0,cataf001,02,CFX,46(1)/FO.2-3
 play,8,0,camik001,22,CBBSX,13/G
 play,8,1,grieb001,00,,NP
@@ -3633,8 +3617,6 @@ play,4,0,mater001,12,CBFFFS,K
 play,4,0,greer001,21,BBCX,43/G
 play,4,1,grieb001,22,CBBSC,K/C
 play,4,1,mcgrf001,11,FBX,9/FL
-com,"$McGriff's fly hit a cable in the roof, would have"
-com,"been home run"
 play,4,1,vaugg001,31,BBBCX,HR/78
 play,4,1,huffa001,11,CBX,S
 play,4,1,winnr001,12,CFBFC,K/C
@@ -3976,7 +3958,6 @@ play,8,0,salmt001,20,BBX,8/F8
 play,8,1,sheea001,00,,NP
 sub,shies002,"Scot Shields",0,0,1
 play,8,1,sheea001,32,BFCBFBX,S9
-com,"Debut game for Scot Shields"
 play,8,1,winnr001,31,BCBBB,W.1-2
 play,8,1,rolld001,11,CBX,8/F8
 play,8,1,grieb001,32,BBCFBFX,1(B)3(1)/LDP
@@ -4673,7 +4654,6 @@ play,3,0,ordor001,32,CBBBCX,9/F9D
 play,3,1,rolld001,01,CX,6/P6
 play,3,1,tynej001,10,BX,S
 play,3,1,willg001,12,BSFX,2/G/INT.1-1
-com,"$batter's interference"
 play,3,1,vaugg001,21,BBSS,SB2
 play,3,1,vaugg001,22,BBSSX,13/G
 play,4,0,peret004,02,FFX,S7
@@ -4791,7 +4771,6 @@ start,sheea001,"Andy Sheets",1,8,6
 start,rolld001,"Damian Rolls",1,9,4
 start,kennj001,"Joe Kennedy",1,0,1
 play,1,0,gland001,22,CFBFBX,S7/7S
-com,"$15-game hitting streak for Glanville"
 play,1,0,rollj001,12,SFFBX,46(1)3/GDP
 play,1,0,abreb001,12,CBCC,K/C
 play,1,1,tynej001,10,BX,43/G
@@ -4830,7 +4809,6 @@ play,5,0,jordk001,11,CBX,1/L1
 play,5,1,tynej001,10,BX,7/F7
 play,5,1,winnr001,22,CBBSFC,K/C
 play,5,1,vaugg001,21,BBFX,HR/7
-com,"$off the catwalk"
 play,5,1,mcgrf001,00,X,S/89
 play,5,1,grieb001,11,CBB,SB2
 play,5,1,grieb001,21,CBBX,3/G
@@ -4863,7 +4841,6 @@ play,7,1,mcgrf001,00,,NP
 sub,orope001,"Eddie Oropesa",0,0,1
 play,7,1,mcgrf001,32,CCBBBFB,W.2-3;1-2
 play,7,1,grieb001,20,BBX,HR/9.3-H;2-H;1-H
-com,"$off the catwalk in LF"
 play,7,1,huffa001,31,BCBBX,3/G
 play,7,1,difem001,00,X,53/G
 play,8,0,estrj001,00,,NP
@@ -5277,16 +5254,13 @@ play,8,1,huffa001,12,CFBFX,3/G
 play,8,1,difem001,22,BCBCS,K
 play,8,1,sheea001,31,BCBBB,W
 play,8,1,rolld001,12,BCFX,7/P7S
-com,"$great dive by O'Leary, near collision with Lansing"
 play,9,0,offej001,11,BCX,7/F7
 play,9,0,nixot001,22,CBBCX,HR/9
 play,9,0,everc001,32,BFSFFBFBFX,43/G
 play,9,0,ramim002,12,CBFS,K
 play,9,1,tynej001,11,CBX,E4/TH1/G4S
-com,"$Offerman's throw on the slow grounder pulled Daubach off the bag"
 play,9,1,winnr001,10,BC,PB.1-2
 play,9,1,winnr001,12,BCSX,S7/L5D.2-H(UR)
-com,"$first hit off Wakefield with 3 outs to go"
 play,9,1,vaugg001,22,CBBCX,7/F7
 play,9,1,mcgrf001,31,BCBBB,W.1-2
 play,9,1,grieb001,00,,NP
@@ -5570,7 +5544,6 @@ play,7,1,winnr001,00,X,43/G
 play,8,0,nixot001,00,,NP
 sub,zambv001,"Victor Zambrano",1,0,1
 play,8,0,nixot001,10,BX,S8
-com,"Debut game for Victor Zambrano"
 play,8,0,everc001,21,BCBX,HR/9.1-H
 play,8,0,ramim002,30,BBBX,53/G
 play,8,0,bichd001,10,BX,8/F8
@@ -5609,7 +5582,6 @@ play,9,0,ramim002,11,CBX,D9/9S.3-H;2-H;1-H
 play,9,0,bichd001,20,BB,NP
 sub,coloj001,"Jesus Colome",1,0,1
 play,9,0,bichd001,22,BBCFX,53/G
-com,"Debut game for Jesus Colome"
 play,9,1,tynej001,00,,NP
 sub,nixot001,"Trot Nixon",0,2,8
 play,9,1,tynej001,00,,NP
@@ -5748,8 +5720,6 @@ play,8,0,oneip001,32,BBCSBB,W.2-3;1-2
 play,8,0,spens001,00,,NP
 sub,wilsp001,"Paul Wilson",1,0,1
 play,8,0,spens001,20,BBX,D7/7D.3-H;2XH(862);1-3
-com,"Ball hit off LF wall, Tyner recovered it, Posada left his"
-com,"parking brake on and was thrown out."
 play,8,0,bross001,32,BBCCBFFC,K/C
 play,8,1,vaugg001,00,,NP
 sub,mendr001,"Ramiro Mendoza",0,0,1
@@ -6883,8 +6853,6 @@ play,2,0,millk005,00,,NP
 sub,tynej001,"Jason Tyner",1,1,7
 play,2,0,millk005,00,,NP
 sub,winnr001,"Randy Winn",1,3,8
-com,"$Vaughn left with strained right hamstring, withdrew"
-com,"from All-Star game as well"
 play,2,0,millk005,31,BBBSX,S7
 play,2,0,lee-d002,31,BCBBX,E5/G.1-2
 play,2,0,thomr004,12,FBFX,S7.2-H;1-3
@@ -7753,7 +7721,6 @@ play,2,1,hallt001,12,BFSX,S/89.1-3
 play,2,1,winnr001,21,BBFX,S9.3-H;1-2
 play,2,1,huffa001,01,FX,S3.2XH(362);1-3
 play,2,1,sandj001,01,CX,S9.3-H;1-3
-com,"Debut game for Jared Sandberg"
 play,2,1,gomec001,11,CBX,4/FL
 play,2,1,tynej001,11,BFX,6/L6
 play,3,0,soria001,32,BFBFFBB,W
@@ -8186,11 +8153,7 @@ play,2,0,ortid001,22,BCFBFFS,K
 play,2,0,huntt001,02,FFS,K
 play,2,1,hallt001,02,CSH,HP
 play,2,1,winnr001,22,LBBSX,S9.1-3
-com,"3 unassisted is correct"
 play,2,1,huffa001,20,BBX,FC3/DP.3XH(3);1X3(3);B-2
-com,"$Hall caught in rundown while Winn advanced to 3B; both players"
-com,"ended up on 3B and Winn is tagged out; Hall thought he was the one"
-com,"who was out and stepped off the bag and is tagged out"
 play,2,1,sandj001,12,FBCX,3/FL
 play,3,0,jonej003,12,FCBFX,63/G
 play,3,0,kielb001,02,CCC,K/C
@@ -8502,7 +8465,6 @@ play,6,1,grieb001,01,FX,D9
 play,6,1,winnr001,10,BX,S7/7S.2-3;BX2(753)
 play,6,1,huffa001,11,BFX,FC1.3XH(1524);B-2
 play,6,1,sandj001,10,BX,S9.2-H;BX2(9363)
-com,"Notable inning - 3 AB's, 3 outs made on bases with at least two assists."
 play,7,0,ortid001,32,SBBFBB,W
 play,7,0,koskc001,12,CSBX,S7.1-2
 play,7,0,huntt001,00,X,6/P6
@@ -9403,7 +9365,6 @@ start,sandj001,"Jared Sandberg",1,7,5
 start,gomec001,"Chris Gomez",1,8,6
 start,flahj001,"John Flaherty",1,9,2
 start,kennj001,"Joe Kennedy",1,0,1
-com,"24 minute power outage delay in the 1st"
 play,1,0,durhr001,10,BX,8/F8
 play,1,0,lee-c001,31,BBBCB,W
 play,1,0,ordom001,21,BFBX,S9.1-2
@@ -9794,8 +9755,6 @@ play,8,0,boonb002,32,CBCFBBX,7/F7
 play,8,1,winnr001,12,BFCS,K
 play,8,1,johnr006,02,FCS,K
 play,8,1,gomec001,10,BX,HR7/IPHR
-com,"IPHR"
-com,"$the ball bounced off the top of the wall into CF"
 play,8,1,tynej001,12,CFBX,23/G
 play,9,0,marta001,00,,NP
 sub,phelt001,"Travis Phelps",1,0,1
@@ -9869,10 +9828,6 @@ play,1,1,aberb001,11,CBX,63/G
 play,1,1,cox-s001,01,CX,3/G
 play,2,0,belld002,30,BBBB,W
 play,2,0,lampt001,21,BCBX,S9.1-2;BX1(4)
-com,"$Lampkin hit a liner to Grieve in RF; Bell saw that Grieve should"
-com,"catch it, put his head down and returned to 1B; Lampkin saw the ball"
-com,"fall in, put his head down and started for 2B; Lampkin passed Bell"
-com,"and was called out"
 play,2,0,suzui001,11,BLX,43/G.2-3
 play,2,0,camem001,21,SBBX,9/F9
 play,2,1,vaugg001,12,SBFC,K/C
@@ -10067,8 +10022,6 @@ play,8,1,grieb001,00,,NP
 sub,gipsc001,"Charles Gipson",0,7,7
 play,8,1,grieb001,00,X,S7/7S
 play,8,1,vaugg001,22,BCSBC,K/C
-com,"ej,vaugg001,P,coope901,Called third strike"
-com,"Greg Vaughn ejected by HP umpire Eric Cooper"
 play,8,1,cox-s001,12,BCFH,HP.1-2
 play,8,1,hallt001,00,,NP
 sub,nelsj001,"Jeff Nelson",0,0,1
@@ -11452,7 +11405,6 @@ play,7,1,cox-s001,00,,NP
 sub,mcdia001,"Allen McDill",0,0,1
 play,7,1,cox-s001,12,FFBX,S8/8S.2-H(UR);B-2(THH)
 play,7,1,winnr001,00,X,E6/G.2XH(72)
-com,"$Cox thrown out at home twice by two left fielders"
 play,8,0,burkm001,00,,NP
 sub,seayb001,"Bobby Seay",1,0,1
 play,8,0,burkm001,01,CX,53/G
@@ -12017,8 +11969,6 @@ play,6,1,rolld001,12,FCBS,K
 play,7,0,wilse001,00,,NP
 sub,phelt001,"Travis Phelps",1,0,1
 play,7,0,wilse001,12,BCCC,K/C
-com,"ej,wilse001,P,wintm901,Called third strike"
-com,"Enrique Wilson ejected by HP umpire Mike Winters"
 play,7,0,soria001,32,CBCBBC,K/C
 play,7,0,oneip001,00,,NP
 sub,creed001,"Doug Creek",1,0,1

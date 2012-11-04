@@ -569,8 +569,6 @@ play,7,0,gonzl001,32,CBSB.BB,W
 play,7,0,rabem001,00,,NP
 sub,borkd001,"Dave Borkowski",1,9,1
 play,7,0,rabem001,10,.BX,46(1)/FO/G
-com,"ej,presj001,C,davib902,Balls and strikes"
-com,"Marlins Batting Coach Jim Presley ejected by HP umpire Bob Davidson"
 play,7,1,lorem001,21,.BBCX,S9/L
 play,7,1,berkl001,00,X,7/F
 play,7,1,lee-c001,02,CSS,K
@@ -1182,7 +1180,6 @@ play,4,1,pench001,21,BBFX,S4/G
 play,4,1,towlj001,00,>X,13/G
 play,5,0,hollm001,00,,NP
 sub,villo001,"Oscar Villarreal",1,9,1
-com,"Astros pitcher Wandy Rodriguez left the game due to a sore groin"
 play,5,0,hollm001,31,.BFBBB,W
 play,5,0,atkig001,10,*BX,S7/L.1-3
 play,5,0,hawpb001,00,X,S9/G+.3-H;1-2
@@ -1206,13 +1203,6 @@ play,7,0,hawpb001,22,SBFBFFFFX,S8/G+
 play,7,0,barmc001,22,C1B*BF1X,9/F
 play,7,0,iannc001,32,BBBS>F>X,53/G
 play,7,1,blumg001,22,FCBFBX,8!/F
-com,"ej,coopc001,M,reedr901,Arguing catch/non-catch call"
-com,"$Ryan Spilborghs made a diving catch moving away from the plate;"
-com,"the ball appeared to bounce out of the glove; Spilborghs held"
-com,"the ball up in his bare hand and 2B umpire Mark Wegner ruled it"
-com,"a catch; Houston manager Cecil Cooper came out to protest"
-com,"the call; the umpires huddled and let the call stand; Cooper"
-com,"was ejected by HP umpire Rick Reed"
 play,7,1,pench001,02,CFS,K23
 play,7,1,towlj001,10,BX,9/F
 play,8,0,cooka002,00,,NP
@@ -2109,7 +2099,6 @@ play,4,1,wiggt001,22,SFBFBFX,63/G
 play,4,1,towlj001,22,FBBCFX,8/F
 play,5,0,hallb001,12,CCBX,53/G
 play,5,0,counc001,32,CCFBFBBFX,DGR/7/INT
-com,"fan interference"
 play,5,0,sheeb001,01,FX,53/G
 play,5,0,kendj001,02,SCX,43/G
 play,5,1,borkd001,00,,NP
@@ -2769,11 +2758,6 @@ play,4,0,lee-d002,02,FFX,7/F
 play,4,0,ramia001,32,BSBFFFFFFBX,S7/G
 play,4,0,fukuk001,32,1BSBFB1B,W.1-2
 play,4,0,sotog001,11,CBX,HR8/F78XDW/IPHR.2-H;1-H
-com,"$Soto hit the ball off the LCF wall and it bounced away from the fielders;"
-com,"the ball hit in the out of play area and should have been ruled a homer and"
-com,"not in play; 2B umpire Joe West later said he lost sight of the ball and"
-com,"ruled it in play; it hit above and to the right of the L-shaped line on the"
-com,"left centerfield wall"
 play,4,0,edmoj001,22,BCFBFX,S8/L
 play,4,0,derom001,00,X,S7/L.1-2
 play,4,0,lillt001,00,X,24/SH/BG.2-3;1-2
@@ -3282,7 +3266,6 @@ play,8,0,victs001,00,,NP
 sub,byrdt001,"Tim Byrdak",1,9,1
 play,8,0,victs001,00,,NP
 sub,brune001,"Eric Bruntlett",0,9,12
-com,"Phillies Jayson Werth left the game due to an injured chest"
 play,8,0,victs001,12,..FS*BFX,6/P/IF
 play,8,0,utlec001,00,X,S9/L.2-H;1-3
 play,8,0,howar001,02,C1FFFFS,K
@@ -3668,16 +3651,6 @@ play,1,1,bourm001,31,BBBCX,4/L
 play,1,1,matsk001,22,CBFFFFFBX,63/G
 play,1,1,tejam001,00,X,S8/G
 play,1,1,berkl001,31,BBCB>X,S9/F.1-3
-com,"$HP umpire Jerry Crawford was struck by Carlos Lee's bat"
-com,"on the follow through of the swing on the sixth pitch to Lee;"
-com,"Crawford left the game with a bloody gash on the left side"
-com,"of his head; he was taken to the hospital for tests but"
-com,"did not require stitches and was back at the park before"
-com,"the end of the game; there was a 12-minute delay while"
-com,"Rob Drake changed his gear and went behind the plate"
-com,"umpchange,1,umphome,drakr901"
-com,"umpchange,1,ump1b,nauep901"
-com,"umpchange,1,ump2b,(None)"
 play,1,1,lee-c001,32,SBFBFFB>X,HR/7/F.3-H;1-H
 play,1,1,pench001,22,BBTFX,4/P
 play,2,0,howar001,20,BBX,43/G
@@ -3903,7 +3876,6 @@ sub,boggm001,"Mitchell Boggs",0,5,1
 play,7,1,matsk001,00,,NP
 sub,milea001,"Aaron Miles",0,8,5
 play,7,1,matsk001,12,..FFBX,S8/G
-com,"Debut game for Mitchell Boggs"
 play,7,1,erstd001,01,CX,64(1)3/GDP
 play,7,1,berkl001,32,BTFFBBX,31/G
 play,8,0,kenna001,00,,NP
@@ -4035,7 +4007,6 @@ play,6,0,bartb001,32,FBBBSS,K
 play,6,1,berkl001,00,X,D8/F
 play,6,1,erstd001,00,,NP
 sub,mcclk001,"Kyle McClellan",0,8,1
-com,"Cardinals pitcher Adam Wainwright left the game due to an injured hand/wrist"
 play,6,1,erstd001,22,BFFB.S,K
 play,6,1,wiggt001,02,FFFX,S9/F.2-3
 play,6,1,bourm001,12,FBFX,S9/G.3-H;1-2
@@ -4078,7 +4049,6 @@ sub,ludwr001,"Ryan Ludwick",0,4,7
 play,8,1,bourm001,00,,NP
 sub,mathj002,"Joe Mather",0,8,9
 play,8,1,bourm001,32,...BFBBCFX,DGR/9/F/INT
-com,"fan interference"
 play,8,1,ausmb001,12,BCCX,S8/F.2-2
 play,8,1,lorem001,22,BCSBC,K
 play,8,1,pench001,22,FBBSFFX,64(1)3/GDP
@@ -4537,14 +4507,7 @@ play,7,0,camem001,00,,NP
 sub,sampc001,"Chris Sampson",1,9,1
 play,7,0,camem001,32,.BBCCB,NP
 sub,quinh001,"Humberto Quintero",1,8,2
-com,"ej,ausmb001,P,campa902,Checked swing"
-com,"$Astros catcher Brad Ausmus ejected by 1B umpire Angel Campos for"
-com,"arguing a check swing call for ball three"
 play,7,0,camem001,32,.BBCCB..B,W
-com,"ej,coopc001,M,campa902,Safe call on pickoff at 1B"
-com,"$Lance Berkman argued a safe call on the third pickoff attempt at 1B;"
-com,"Astros manager Cecil Cooper came out to argue and was ejected by 1B"
-com,"umpire Angel Campos; Cooper threw his hat to the ground at Campos' feet"
 play,7,0,kendj001,11,C+111.*BX,7/F
 play,7,1,matsk001,12,BCFT,K
 play,7,1,tejam001,12,CFBFFX,S3/G
@@ -4713,7 +4676,6 @@ sub,motag001,"Guillermo Mota",0,9,1
 play,8,1,lee-c001,00,.X,9/F
 play,8,1,wiggt001,00,X,53/G
 play,8,1,bourm001,12,CCBX,4E3/G
-com,"originally S4, changed on 6-26 to 4E3"
 play,8,1,villo001,00,,NP
 sub,lorem001,"Mark Loretta",1,8,11
 play,8,1,lorem001,10,.B>C,SB2
@@ -5154,8 +5116,6 @@ play,6,0,canor001,00,X,S7/G.1-2
 play,6,0,cabrm002,01,CX,7/F
 play,6,0,wangc001,01,MX,15(2)/FO/BG.1-2
 play,6,0,damoj001,32,BBFFB>X,FC6.1X2(4E6);2-3;B-1
-com,"originally scored 4E6, changed after game,"
-com,"changed back again next day"
 play,6,0,jeted001,32,BFBCB>X,S9/G.3-H(UR);2-H(UR);1-3
 play,6,0,matsh001,00,,NP
 sub,wrigw001,"Wesley Wright",1,9,1
@@ -5168,9 +5128,6 @@ play,6,1,erstd001,00,,NP
 sub,ohler001,"Ross Ohlendorf",0,5,1
 play,6,1,erstd001,00,,NP
 sub,betew001,"Wilson Betemit",0,9,3
-com,"Yankees pitcher Chien-Ming Wang left the game due to a sprained right foot;"
-com,"he injured it running the bases on Jeter's hit. Out for minimum"
-com,"of six weeks"
 play,6,1,erstd001,30,..BBBB,W
 play,6,1,tejam001,02,CFS,K
 play,6,1,lee-c001,12,FBCX,5/L+
@@ -5332,7 +5289,6 @@ play,5,1,moehb001,00,,NP
 sub,byrdm001,"Marlon Byrd",0,5,8
 play,5,1,moehb001,00,,NP
 sub,murpd005,"David Murphy",0,6,9
-com,"Rangers center fielder Josh Hamilton left the game due to an injured knee"
 play,5,1,moehb001,02,...CCC,K
 play,5,1,bourm001,32,CSBBBX,8/F
 play,5,1,lorem001,32,BBFTBB,W
@@ -5597,7 +5553,6 @@ start,rodrw002,"Wandy Rodriguez",1,9,1
 play,1,0,kinsi001,10,BX,8/F
 play,1,0,younm003,10,BX,63/G
 play,1,0,hamij003,21,BSBH,HP
-com,"$Hamilton was hit on the hand"
 play,1,0,bradm001,10,BX,9/F
 play,1,1,bourm001,32,BCBFBX,S8/G
 play,1,1,newhd001,12,CBFC,K
@@ -5614,7 +5569,6 @@ play,2,1,quinh001,00,,NP
 sub,boggb001,"Brandon Boggs",0,3,7
 play,2,1,quinh001,00,,NP
 sub,byrdm001,"Marlon Byrd",0,5,8
-com,"Rangers center fielder Josh Hamilton left the game due to an injured hand"
 play,2,1,quinh001,00,..X,S5/BG
 play,2,1,rodrw002,11,CBX,S9/G.1-2
 play,2,1,bourm001,00,X,53/SH/BG.2-3;1-2
@@ -5686,7 +5640,6 @@ sub,villo001,"Oscar Villarreal",1,9,1
 play,9,0,wrigj001,00,,NP
 sub,davic003,"Chris Davis",0,4,11
 play,9,0,davic003,00,..X,S5/G
-com,"Debut game for Chris Davis"
 play,9,0,byrdm001,00,X,T9/F.1-H
 play,9,0,ramim003,02,CSS,K
 play,9,0,saltj001,12,TSFFBS,K
@@ -6390,8 +6343,6 @@ play,2,0,ethia001,12,CBCX,E4/G.B-1
 play,2,0,mazal001,01,FX,9/F
 play,2,0,kersc001,00,,NP
 sub,ausmb001,"Brad Ausmus",1,8,2
-com,"$Quintero hit in head by Maza's bat. Delay of 3:58;"
-com,"onto DL with concussion"
 play,2,0,kersc001,22,.B1ML1B1C,K
 play,2,0,kempm001,22,FBBF1X,7/F
 play,2,1,wiggt001,10,BX,6/P
@@ -6799,10 +6750,6 @@ play,9,0,billc001,00,,NP
 sub,sweem001,"Mark Sweeney",0,9,11
 play,9,0,sweem001,22,..BSBCS,K
 play,9,0,kempm001,30,BBBB,W
-com,"ej,brocd001,P,timmt901,Outburst on mound after a walk"
-com,"$Astros pitcher Doug Brocail yelled an expletive at himself and pounded his glove"
-com,"after the walk to Matt Kemp; HP umpire Tim Timmons thought the outburst was directed"
-com,"at him and ejected Brocail"
 play,9,0,ethia001,00,,NP
 sub,byrdt001,"Tim Byrdak",1,9,1
 play,9,0,ethia001,31,..1BB*BC*B,W.1-2
@@ -7515,7 +7462,6 @@ sub,byrdt001,"Tim Byrdak",1,9,1
 play,7,0,wilsj002,32,.CBCBBB,W
 play,7,0,mclon001,01,CX,4/P
 play,7,0,sancf001,22,BBFSX,DGR/9/INT.1-3
-com,"fan interference"
 play,7,0,doumr001,00,X,HR/7/F.3-H;2-H
 play,7,0,bay-j001,02,CCS,K
 play,7,0,nadyx001,30,BBBB,W
@@ -7784,7 +7730,6 @@ start,pench001,"Hunter Pence",1,6,9
 start,erstd001,"Darin Erstad",1,7,8
 start,ausmb001,"Brad Ausmus",1,8,2
 start,oswar001,"Roy Oswalt",1,9,1
-com,"$Debut for umpire Delfin Colon"
 play,1,0,brucj001,02,STX,7/F
 play,1,0,keppj001,11,BFX,S8/F
 play,1,0,grifk002,01,CX,36(1)3/GDP
@@ -8379,7 +8324,6 @@ play,1,1,tejam001,11,BCX,43/G
 play,1,1,berkl001,11,BSX,3/P
 play,2,0,tatif001,11,CBX,43/G
 play,2,0,murpd006,02,CFX,S9/G
-com,"Debut game for Dan Murphy"
 play,2,0,easld001,00,11X,HR/7/L.1-H
 play,2,0,castr002,22,BBFSFC,K
 play,2,0,santj003,02,CSS,K
@@ -8469,13 +8413,6 @@ sub,blumg001,"Geoff Blum",1,9,11
 play,9,1,blumg001,00,,NP
 sub,newhd001,"David Newhan",1,8,12
 play,9,1,blumg001,11,..BSX,S7/L+.3-H;2-H;1-2
-com,"$Geoff Blum hit a sinking liner that Dan Murphy trapped; Hunter Pence"
-com,"started running from second immediately on the hit while Mark Loretta"
-com,"waited at third and then stumbled when he started towards the plate;"
-com,"Pence nearly passed Loretta half way home; they both slid into the"
-com,"plate with Loretta knocking catcher Ramon Castro off the plate;"
-com,"Pence slid in immediately after Loretta; plate umpire Tim Welke"
-com,"signaled 'safe' and then 'safe'"
 play,9,1,matsk001,00,,NP
 sub,schnb001,"Brian Schneider",0,8,2
 play,9,1,matsk001,02,.CFC,K
@@ -8624,7 +8561,6 @@ play,7,0,wrigd002,10,BX,8/F
 play,7,1,erstd001,00,,NP
 sub,kunze001,"Eddie Kunz",0,9,1
 play,7,1,erstd001,01,.CX,S4/BG
-com,"Debut game for Eddie Kunz"
 play,7,1,quinh001,11,1B1>Q>X,E1/TH/SH/BG.1X3(45)
 play,7,1,sampc001,00,,NP
 sub,newhd001,"David Newhan",1,9,11
@@ -8858,7 +8794,6 @@ play,2,1,wiggt001,00,X,9/F
 play,2,1,bourm001,22,TBC1BC,K
 play,3,0,lewif001,00,,NP
 sub,lorem001,"Mark Loretta",1,1,4
-com,"Astros second baseman Kazuo Matsui left the game due to an injured back"
 play,3,0,lewif001,02,..SCFFFFX,S7/F
 play,3,0,molib001,01,C>X,64(1)3/GDP
 play,3,0,rowaa001,31,BBBCB,W
@@ -8888,7 +8823,6 @@ play,5,1,oswar001,00,,NP
 sub,yabuk001,"Keiichi Yabu",0,8,1
 play,5,1,oswar001,00,,NP
 sub,velee001,"Eugenio Velez",0,9,4
-com,"Giants pitcher Tim Lincecum left the game due to an injured knee"
 play,5,1,oswar001,12,..CBTX,3/P3F
 play,5,1,lorem001,22,CBBFX,4/P
 play,6,0,velee001,00,X,13/BG
@@ -9015,7 +8949,6 @@ start,quinh001,"Humberto Quintero",1,8,2
 start,wolfr001,"Randy Wolf",1,9,1
 play,1,0,winnr001,01,CX,7/F
 play,1,0,rohlr001,32,BBCFBFS,K
-com,"Debut game for Ryan Rohlinger"
 play,1,0,rowaa001,30,BBBX,7/F
 play,1,1,wiggt001,12,BCFX,E5/TH/G
 play,1,1,lorem001,10,B>C,CS2(263)
@@ -9163,7 +9096,6 @@ play,1,0,velee001,12,C+1CB>X,S8/G.1-3
 play,1,0,winnr001,22,BBCF1>X,S9/L.3-H;1-3
 play,1,0,rowaa001,11,BS>X,9/F
 play,1,0,sandp001,11,1BFX,7/SF/F.3-H
-com,"Debut game for Pablo Sandoval"
 play,1,0,ishit001,01,C1X,3/G
 play,1,1,erstd001,32,CBBFBB,W
 play,1,1,wiggt001,11,BFX,S7/G.1-2
@@ -9175,7 +9107,6 @@ play,2,0,corrk001,12,FBFS,K
 play,2,0,robed001,32,BCFBFBX,9/F
 play,2,1,blumg001,00,,NP
 sub,lewif001,"Fred Lewis",0,4,8
-com,"Giants center fielder Aaron Rowand left the game due to an injured back"
 play,2,1,blumg001,32,.BCBBCX,31/G
 play,2,1,pench001,10,BX,DGR/8/F
 play,2,1,newhd001,31,BBBCX,31/G.2-3
@@ -10316,11 +10247,6 @@ play,3,1,pench001,12,CBFX,S7/G
 play,3,1,newhd001,32,1*BBBC1>F>F>B,W.1-2
 play,3,1,quinh001,11,FB+1,PO1(23)
 play,3,1,quinh001,11,FB+1.X,8!/FDP.2X2(86)
-com,"ej,coopc001,M,wintm901,Arguing catch/trap call"
-com,"$Cardinal center fielder Skip Schumaker dove for Humberto Quintero's liner"
-com,"and bounced up quickly to make a throw; the ball was ruled a catch by 2B"
-com,"umpire Marvin Hudson but it appeared to be a trap; Astros manager Cecil"
-com,"Cooper argued the call and was ejected by 1B umpire Mike Winters"
 play,4,0,moliy001,02,.SFFX,63/G
 play,4,0,loopb001,12,CSBFX,63/G
 play,4,0,iztuc001,21,BFBX,4/L
@@ -10500,10 +10426,6 @@ play,6,0,pujoa001,22,BFFFFBFC,K
 play,6,0,ludwr001,22,CS*BFBC,K
 play,6,0,glaut001,00,,NP
 sub,sampc001,"Chris Sampson",1,9,1
-com,"ej,larut101,M,wintm901,Balls and strikes"
-com,"$Astros pitcher Wandy Rodriguez left the game due to an injured back;"
-com,"Cardinals Manager Tony La Russa ejected by HP umpire Mike Winters for"
-com,"arguing balls and strikes"
 play,6,0,glaut001,32,..BCSBBFB,W
 play,6,0,moliy001,00,X,9/F
 play,6,1,wiggt001,32,.SSBBBFC,K
@@ -10621,9 +10543,6 @@ play,3,1,erstd001,22,11C1BSPFF>X,43/G
 play,4,0,morgn001,32,BTSBBX,S9/G
 play,4,0,sancf001,22,C1BFB1,PO1(E1).1-2
 play,4,0,sancf001,22,C1BFB1,OA.2XH(32)
-com,"$The last two plays are really one continuous play; pitcher Alberto Arias"
-com,"made a wild throw on a pick-off attempt and Nyjer Morgan nearly scored on"
-com,"the play"
 play,4,0,sancf001,32,C1BFB1.BB,W
 play,4,0,mclon001,01,CX,S31/G.1-2
 play,4,0,doumr001,00,X,46(1)/FO/G.2-3
@@ -10641,8 +10560,6 @@ play,5,1,towlj001,22,LBBTX,63/G
 play,5,1,ariaa002,00,,NP
 sub,saccm001,"Mark Saccomanno",1,9,11
 play,5,1,saccm001,00,.X,HR/9/F
-com,"Debut game for Mark Saccomanno"
-com,"$Mark Saccomanno hit the first major league pitch he saw for a homer"
 play,5,1,bourm001,00,X,S5/BG
 play,5,1,erstd001,10,PX,S8/L.1-2
 play,5,1,tejam001,01,CX,S8/G.2-H;1-2
@@ -10668,7 +10585,6 @@ play,6,1,castj005,22,.BBFCS,K
 play,7,0,cruzl001,00,,NP
 sub,sampc001,"Chris Sampson",1,9,1
 play,7,0,cruzl001,00,.X,23/G/INT
-com,"$Cruz was called for interfering with the throw"
 play,7,0,sneli001,00,,NP
 sub,pears001,"Steve Pearce",0,9,11
 play,7,0,pears001,32,.BBCBCX,63/G
@@ -10780,7 +10696,6 @@ play,2,0,bixlb001,02,CFS,K
 play,2,0,ohler001,22,BBCSX,9/F
 play,2,1,newhd001,00,,NP
 sub,rival001,"Luis Rivas",0,2,4
-com,"Pirates second baseman Freddy Sanchez left the game due to an injured head"
 play,2,1,newhd001,01,.CX,2/P2F
 play,2,1,quinh001,10,BX,S7/L
 play,2,1,wolfr001,12,SLBS,K
@@ -10831,8 +10746,6 @@ play,6,1,tejam001,21,BBFX,S7/L
 play,6,1,berkl001,12,BCTFS,K
 play,6,1,blumg001,01,SX,S9/G.1-2
 play,6,1,pench001,22,BSC*BX,D9/F.2-H;1-3
-com,"$the ball struck the top of the wall and was called in play; the umpires reviewed the"
-com,"play and the play stood as called; the second usage of the replay system"
 play,6,1,newhd001,12,FBSFS,K
 play,7,0,michj001,22,FBFFBX,53/G
 play,7,0,pears001,20,BBX,HR/7/F
@@ -10954,7 +10867,6 @@ play,3,1,lorem001,01,CX,S6/G
 play,3,1,tejam001,32,BBBCS>B,W.1-2
 play,3,1,berkl001,00,,NP
 sub,beamt002,"T.J. Beam",0,9,1
-com,"Pirates pitcher Tom Gorzelanny left the game due to an injured hand/wrist"
 play,3,1,berkl001,22,FBBCFF.FS,K
 play,3,1,pench001,11,BFX,64(1)/FO/G
 play,4,0,doumr001,10,BX,3/G
@@ -11212,8 +11124,6 @@ start,pench001,"Hunter Pence",1,6,9
 start,newhd001,"David Newhan",1,7,4
 start,quinh001,"Humberto Quintero",1,8,2
 start,wolfr001,"Randy Wolf",1,9,1
-com,"$Game played at Miller Park, Milwaukee, due to the effects of Hurricane Ike in Houston;"
-com,"the game was scheduled for 9/12"
 play,1,0,soria001,11,CBX,HR/78/F
 play,1,0,therr001,02,FFX,43/G
 play,1,0,lee-d002,32,BCSBBS,K
@@ -11295,7 +11205,6 @@ play,9,1,cassj001,00,,NP
 sub,castj005,"Jose Castillo",1,9,11
 play,9,1,castj005,21,.CBBX,63/G
 play,9,1,erstd001,32,BBCFBS,K
-com,"$First no-hitter for the Cubs since 1972"
 data,er,zambc001,0
 data,er,wolfr001,4
 data,er,nievf001,0
@@ -11346,8 +11255,6 @@ start,castj005,"Jose Castillo",1,6,5
 start,erstd001,"Darin Erstad",1,7,7
 start,quinh001,"Humberto Quintero",1,8,2
 start,moehb001,"Brian Moehler",1,9,1
-com,"$Game played at Miller Park, Milwaukee, due to the effects of Hurricane Ike in Houston;"
-com,"the game was scheduled for 9/13"
 play,1,0,soria001,02,FSX,S9/L
 play,1,0,fontm001,10,BX,8/F
 play,1,0,lee-d002,12,1S1B+1>FF1X,S8/L-.1-3
@@ -11511,9 +11418,6 @@ start,rodrw002,"Wandy Rodriguez",1,9,1
 play,1,0,hairj002,12,CFBC,K
 play,1,0,keppj001,01,CX,S9/G
 play,1,0,vottj001,22,CBCB1FX,T7/F.1-H
-com,"$Originally ruled E7, changed two days later. Not only"
-com,"does this give Votto a triple and 2 RBI, it also changes"
-com,"two runs from unearned to earned"
 play,1,0,encae001,32,*B*BFCFFB*B,W
 play,1,0,brucj001,12,SSBFT,K
 play,1,0,cabrj002,01,CX,S7/G.3-H;1-2
@@ -11569,14 +11473,8 @@ play,7,0,volqe001,02,CSS,K
 play,7,0,hairj002,01,CX,S7/L
 play,7,0,keppj001,10,BX,7/L
 play,7,0,vottj001,01,1CX,S9/L.1-3
-com,"$Votto's fly ball struck the top of the wall on the yellow line and bounced back onto the field;"
-com,"the Reds argued that it was over the fence into the seats instead of off the wall; after an on-field"
-com,"discussion, the umpires used the replay system; the call stood as ruled on the field; there was not"
-com,"convincing evidence that the ball went over the wall; the process took six minutes; this was the"
-com,"fourth usage of the replay system"
 play,7,0,encae001,00,,NP
 sub,nievf001,"Fernando Nieve",1,9,1
-com,"Astros pitcher Chris Sampson left the game due to an injured elbow"
 play,7,0,encae001,22,.BFCBX,8/F
 play,7,1,pench001,22,BBFFS,K23
 play,7,1,wiggt001,22,SSFBBS,K
@@ -12100,7 +11998,6 @@ sub,erstd001,"Darin Erstad",1,9,7
 play,9,0,infao001,32,..SBBBFFFB,W
 play,9,0,franj004,10,BX,S7/L.1-2
 play,9,0,joneb005,02,CFFFX,36(1)/FO/G.2-H(E1)(NR);BX1(1)
-com,"$No DP due to intervening error"
 play,9,0,bennj002,00,,NP
 sub,jonec004,"Chipper Jones",0,9,11
 play,9,0,jonec004,31,.BBBCB,W

@@ -359,7 +359,6 @@ start,estes001,"Shawn Estes",1,9,1
 play,1,0,browa001,21,BBCX,6/P6
 play,1,0,kendj001,32,BCBFBB,W
 play,1,0,riosa001,11,FBX,7(B)7(1)/FDP/F7S
-com,"$hit and run; Kendall had passed 2B"
 play,1,1,mcewj001,31,BCBBX,HR/7
 play,1,1,alomr001,32,BBBCFB,W
 play,1,1,vaugm001,10,BH,HP.1-2
@@ -445,7 +444,6 @@ sub,chrim002,"McKay Christensen",1,9,7
 play,9,0,younk001,00,,NP
 sub,komis001,"Satoru Komiyama",1,1,1
 play,9,0,younk001,22,BFBCS,K
-com,"Debut game for Satoru Komiyama"
 play,9,0,wilsj002,11,BSX,5/L5
 play,9,0,nunea001,00,X,7/F7
 play,9,1,alomr001,00,,NP
@@ -664,7 +662,6 @@ play,3,0,trubc001,30,BBBB,W
 play,3,0,wilkb002,00,X,2/FL
 play,3,0,vazqj001,00,X,E1/TH.1-2
 play,3,0,bergp001,10,BX,1E3/SH.2-3;1-2
-com,"$Valentin cut off throw headed for Alomar covering bag"
 play,3,0,mordm001,11,SBX,S7.3-H(UR);2-3;1-2
 play,3,0,vidrj001,11,SBX,S8/8S.3-H(UR);2-3;1-2
 play,3,0,guerv001,32,BFSBFFBFC,K/C
@@ -2685,8 +2682,6 @@ play,8,0,aurir001,00,,NP
 sub,weatd001,"David Weathers",1,9,1
 play,8,0,aurir001,12,CCBC,K/C
 play,8,0,bondb001,22,SBCBC,K/C
-com,"ej,bondb001,P,iassd901,Called third strike"
-com,"Barry Bonds ejected by HP umpire Dan Iassogna"
 play,8,0,kentj001,00,X,8/L8
 play,8,1,ceder001,00,,NP
 sub,benam001,"Marvin Benard",0,1,7
@@ -3975,7 +3970,6 @@ play,8,0,roles001,00,,NP
 sub,weatd001,"David Weathers",1,9,1
 play,8,0,roles001,00,X,S9
 play,8,0,abreb001,12,CBF>X,D8/89.1-H
-com,"hit and run"
 play,8,0,burrp001,00,X,43/G.2-3
 play,8,0,peret003,30,IIII,IW
 play,8,0,liebm001,12,BSSX,FC6.3XH(62);1-2;B-1#
@@ -4335,8 +4329,6 @@ play,9,0,giamj001,00,B,SB2
 play,9,0,giamj001,31,BCBBB,W
 play,9,0,willb002,01,CX,9/F9
 play,9,1,ceder001,02,CSX,53/G
-com,"ej,ceder001,P,bellw901,Call at 1B"
-com,"Roger Cedeno ejected by 1B umpire Wally Bell"
 play,9,1,alomr001,21,FBBX,D9
 play,9,1,benia001,00,,NP
 sub,valej002,"John Valentin",1,3,11
@@ -4436,14 +4428,10 @@ play,2,1,burnj001,00,X,S9
 play,2,1,ceder001,00,C,SB2
 play,2,1,ceder001,11,CBX,7/F7
 play,3,0,spens001,12,BCCX,53/G
-com,"$first pitch a lob behind Clemens at knees; plate umpire Bell"
-com,"issued a warning to both benches"
 play,3,0,clemr001,32,BFBFBC,K/C
 play,3,0,soria001,12,CBSX,53/G
 play,3,1,ordor001,00,X,D7
 play,3,1,estes001,00,X,24/SH/BG25.2-H(NR)
-com,"yes, score from 2B on SH"
-com,"$Clemens did not cover the plate"
 play,3,1,peret004,11,FBX,S8
 play,3,1,alfoe001,11,BFB,PB.1-2
 play,3,1,alfoe001,31,BFBBX,4/P4
@@ -4477,7 +4465,6 @@ play,6,1,vaugm001,00,X,3/G#
 play,6,1,burnj001,02,SCX,3/G#
 play,6,1,ceder001,10,B,NP
 sub,lillt001,"Ted Lilly",0,9,1
-com,"$Clemens hurt on double in top 6th"
 play,6,1,ceder001,32,BBFCBX,7/F7D
 play,7,0,whitr001,12,CSBFS,K
 play,7,0,coomr001,22,FBCBFX,D/89D
@@ -5273,7 +5260,6 @@ play,9,1,mcewj001,10,BX,8/F8
 play,9,1,vaugm001,00,,NP
 sub,mulls002,"Scott Mullen",0,8,1
 play,9,1,vaugm001,00,X,S5.2-H(E5/TH)(UR);1-2
-com,"originally scored E5 all the way"
 data,er,may-d002,2
 data,er,bailc001,1
 data,er,voylb001,0
@@ -5413,7 +5399,6 @@ play,9,0,maynb001,12,CBCX,43/G
 play,9,0,reicd001,00,,NP
 sub,guiea001,"Aaron C. Guiel",0,9,11
 play,9,0,guiea001,22,FBBFS,K
-com,"Debut game for Aaron C. Guiel"
 play,9,0,feblc001,32,FBSBBFX,53/G
 play,9,1,vaugm001,00,,NP
 sub,hernr001,"Roberto Hernandez",0,9,1
@@ -7292,7 +7277,6 @@ play,6,1,piazm001,11,BSX,HR/7.1-H
 play,6,1,vaugm001,11,CBX,43/G
 play,6,1,alfoe001,00,X,S7
 play,6,1,burnj001,32,FSBBBFFX,9/F9D
-com,"$Vlad Guerrero injured shoulder hitting wall"
 play,6,1,paytj001,32,CFBBBFB,W.1-2
 play,6,1,ordor001,00,X,E3/G.2-3;1-2
 play,6,1,damij001,12,BCCS,K
@@ -7621,8 +7605,6 @@ sub,riedj001,"John Riedling",0,9,1
 play,8,1,alfoe001,22,BCBSX,63/G
 play,8,1,burnj001,31,BCBBB,W
 play,8,1,paytj001,10,BX,64(1)/FO/DP/INT.BX1(3)
-com,"$DP awarded due to interference by Burnitz at second"
-com,"no GDP according to Elias"
 play,9,0,branr001,02,CSS,K
 play,9,0,castj004,00,X,23/G
 play,9,0,laruj001,01,FX,53/G
@@ -8251,8 +8233,6 @@ play,5,0,wessb001,31,CBBBB,W
 play,5,0,mannj001,32,BCBBCFC,K/C
 play,5,1,ceder001,21,CBBX,S7/7S
 play,5,1,ordor001,01,FH,HP.1-2
-com,"ej,mannj001,P,poncl901,Intentional HBP"
-com,"Jim Mann ejected by HP umpire Larry Poncino"
 play,5,1,estes001,00,,NP
 sub,puffb001,"Brandon Puffer",0,9,1
 play,5,1,estes001,00,,NP
@@ -8713,7 +8693,6 @@ play,1,1,vaugm001,32,BCFBBX,S9
 play,1,1,burnj001,22,CBSBC,K/C
 play,2,0,gonzl001,00,,NP
 sub,mcewj001,"Joe McEwing",1,1,4
-com,"$Alomar left with sore groin"
 play,2,0,gonzl001,10,BX,S8
 play,2,0,gracm001,31,BBBCB,W.1-2
 play,2,0,bellj001,12,CFBX,8/F8
@@ -8944,8 +8923,6 @@ play,7,1,valej002,11,BCX,53/G
 play,7,1,tarat001,32,FBBCBX,S7
 play,7,1,wiggt001,02,FCX,8/F8
 play,7,1,ordor001,00,X,53/G
-com,"ej,brenb001,M,hudsm901,Call at 2B"
-com,"D-Backs Manager Bob Brenly ejected by 2B umpire Marvin Hudson in 8th"
 play,8,0,moelc001,00,,NP
 sub,reeds001,"Steve Reed",1,9,1
 play,8,0,moelc001,01,CX,53/G
@@ -9514,7 +9491,6 @@ play,5,0,hubbt001,02,CFX,13/G.2-3
 play,5,0,matoj001,10,BX,S8.3-H
 play,5,0,tomkb001,00,X,63/G.1-2
 play,5,0,vazqr001,11,CBX,S5/P5.2-H(UR)
-com,"Lost in sun, originally scored as E5"
 play,5,0,kingg001,00,,NP
 sub,cerdj001,"Jaime Cerda",1,9,1
 play,5,0,kingg001,01,CX,4/P4
@@ -9981,8 +9957,6 @@ play,3,0,grism001,32,BBFFFBX,T8
 play,3,0,belta001,32,BBSFBX,S7.3-H
 play,3,0,grees001,11,BSX,S8.1-2
 play,3,0,karre001,32,BBFFFBC,K+SB3;SB2
-com,"ej,karre001,P,cedeg901,Called third strike"
-com,"Eric Karros ejected by HP umpire Gary Cederstrom"
 play,3,0,grudm001,32,BFBFBB,W
 play,3,0,coraa001,22,SCBFBS,K
 play,3,1,scutm001,00,,NP
@@ -10459,7 +10433,6 @@ play,6,1,wilsv001,00,X,43/G.3-H;2-3
 play,6,1,cerdj001,00,,NP
 sub,tarat001,"Tony Tarasco",1,8,11
 play,6,1,tarat001,00,X,31/G
-com,"$Tarasco badly sprained his ankle as he hit 1B"
 play,7,0,polap001,00,,NP
 sub,stris001,"Scott Strickland",1,8,1
 play,7,0,polap001,21,CBBX,53/G
@@ -10622,7 +10595,6 @@ sub,sneae001,"Esix Snead",1,5,12
 play,7,1,burnj001,00,,NP
 sub,lloyg001,"Graeme Lloyd",0,9,1
 play,7,1,burnj001,01,FX,46(1)/FO
-com,"Debut game for Esix Snead"
 play,7,1,ceder001,31,BBBCB,W.1-2
 play,7,1,ordor001,21,BCBX,54(1)3/GDP
 play,8,0,castl001,00,,NP
@@ -10635,7 +10607,6 @@ play,8,0,millk005,21,BCBX,S8/8S
 play,8,0,wilsp002,00,,NP
 sub,nunea002,"Abraham Nunez",0,3,12
 play,8,0,wilsp002,31,BBBCS,CS2(24)
-com,"Debut game for Abraham Nunez"
 play,8,1,wilsv001,00,,NP
 sub,nunea002,"Abraham Nunez",0,3,7
 play,8,1,wilsv001,00,X,9/F9
@@ -10754,7 +10725,6 @@ start,philj003,"Jason Phillips",1,7,2
 start,mcewj001,"Joe McEwing",1,8,6
 start,bacsm001,"Mike Bacsik",1,9,1
 play,1,0,ozunp001,12,CSBH,HP
-com,"Debut game for Justin Wayne"
 play,1,0,mordm001,10,BX,43/G.1-2
 play,1,0,millk005,21,BBCX,63/G.2-3
 play,1,0,wilsp002,12,FSBS,K
@@ -11020,7 +10990,6 @@ sub,wilsv001,"Vance Wilson",1,3,2
 play,8,0,castl001,00,,NP
 sub,felip002,"Pedro Feliciano",1,1,1
 play,8,0,castl001,01,CX,8/F8
-com,"Debut game for Pedro Feliciano"
 play,8,0,fox-a001,11,FBX,9/FL
 play,8,0,millk005,31,BBBCB,W
 play,8,0,wilsp002,00,X,64(1)/FO
@@ -12116,7 +12085,6 @@ sub,valej002,"John Valentin",1,9,3
 play,8,0,guerw001,00,,NP
 sub,weatd001,"David Weathers",1,8,1
 play,8,0,guerw001,01,FX,S6/G
-com,"originally scored E6, changed after game"
 play,8,0,day-z001,10,BX,13/SH.1-2#
 play,8,0,chave002,00,X,43/G.2-3
 play,8,0,carrj001,11,BFX,53/G
@@ -12222,8 +12190,6 @@ play,4,0,blanh001,10,BX,8/F8
 play,4,1,vaugm001,10,BX,S9
 play,4,1,alfoe001,02,CFX,6(1)3/GDP
 play,4,1,burnj001,12,CCBC,K/C
-com,"ej,burnj001,P,nelsj901,Called third strike"
-com,"Jeromy Burnitz ejected by HP umpire Jeff Nelson"
 play,5,0,maddg002,00,,NP
 sub,gonzr002,"Raul Gonzalez",1,6,9
 play,5,0,maddg002,12,SBSFX,13/G
@@ -12348,9 +12314,6 @@ play,1,0,gilem001,10,BX,16(1)/FO.B-2(E6/TH1)
 play,1,0,jonec004,20,BBX,3/G#
 play,1,1,sneae001,01,CX,S1/BG1
 play,1,1,peret004,31,BFBBC,SB2
-com,"First pitch was pitchout and Snead was in rundown,"
-com,"safe back at first when 1st baseman dropped ball."
-com,"No CS or error charged"
 play,1,1,peret004,32,BFBBCX,9/F9.2-3
 play,1,1,burnj001,32,CFBFFBBFFFFX,43/G.3-H
 play,1,1,vaugm001,02,FSC,K/C
@@ -12538,7 +12501,6 @@ sub,gilem001,"Marcus Giles",0,3,5
 play,3,1,scutm001,00,,NP
 sub,prata001,"Andy Pratt",0,7,1
 play,3,1,scutm001,02,CFX,8/F8
-com,"Debut game for Andy Pratt"
 play,3,1,piazm001,22,BSSBS,K
 play,3,1,vaugm001,31,CBBBX,S9
 play,3,1,alfoe001,31,BCBBB,W.1-2
@@ -12816,7 +12778,6 @@ play,8,1,gonzr002,12,BFSC,K/C
 play,8,1,sneae001,00,,NP
 sub,dawlj001,"Joey Dawley",0,8,1
 play,8,1,sneae001,22,BSSBFFC,K/C
-com,"Debut game for Joey Dawley"
 play,9,0,franj002,00,,NP
 sub,benia001,"Armando Benitez",1,4,1
 play,9,0,franj002,22,BSCBX,9/L9

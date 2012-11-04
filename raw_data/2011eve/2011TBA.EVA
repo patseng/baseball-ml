@@ -107,10 +107,6 @@ play,8,1,uptob001,00,X,D8/F
 play,8,1,joycm001,11,BCX,8/L
 play,8,1,brigr001,32,BCBFFBFB,W
 play,8,1,jasoj001,00,2,POCS3(1562).1-2(TH)
-com,"$B.J. Upton left early trying to steal 3B; while in the rundown, he and"
-com,"shortstop J.J. Hardy collided; 3B umpire Scott Barry called Upton out for"
-com,"running out of the baseline; Upton, 3B coach Ton Foley and manager Joe"
-com,"Maddon all argued the call with Barry, having expected an obstruction call"
 play,8,1,jasoj001,11,2.FBX,7/F
 play,9,0,guerv001,01,SX,3/P3F
 play,9,0,jonea003,11,BFX,7/F
@@ -1293,8 +1289,6 @@ play,3,1,johnd004,12,CSBX,8/F
 play,3,1,johne002,31,BBCBX,D8/F
 play,3,1,fulds001,10,BX,S9/L-.2-3
 play,3,1,damoj001,01,LX,S8/G.3-H;1X3(85)
-com,"$while attempting to bunt the first pitch, Johnny Damon suffered a bruise on the tip"
-com,"of his left ring finger when it was struck by the ball"
 play,3,1,uptob001,22,11BFBC1X,S8/F-.1-3
 play,3,1,lopef001,22,11BCBF11>S,K
 play,4,0,casia001,32,BCBCBT,K
@@ -1718,9 +1712,6 @@ play,6,0,riosa002,01,CX,63/G
 play,6,0,piera001,01,CX,43/G
 play,6,1,uptob001,00,,NP
 sub,castr002,"Ramon Castro",0,7,2
-com,"ej,piera001,P,knigb901,Balls and strikes"
-com,"White Sox catcher A. J. Pierzynski ejected by HP umpire Brian Knight between innings for arguing"
-com,"balls and strikes"
 play,6,1,uptob001,10,..BX,3/P3F
 play,6,1,kotcc001,00,,NP
 sub,ohmaw001,"Will Ohman",0,0,1
@@ -2033,9 +2024,6 @@ play,6,0,trumm001,12,BCFFX,63/G
 play,6,0,mathj001,32,FFBBBFS,K
 play,6,0,bourp001,12,BCSX,13/G-
 play,6,1,joycm001,22,BCSBC,K
-com,"ej,joycm001,P,hallt901,Called third strike"
-com,"Rays Matt Joyce ejected by HP umpire Tom Hallion for arguing the called third strike"
-com,"as he walked away; he turned back to Hallion instead of walking away"
 play,6,1,zobrb001,11,.BCX,S7/L
 play,6,1,kotcc001,02,1C+1FC,K
 play,6,1,lopef001,20,1BB1>C,SB2
@@ -2185,7 +2173,6 @@ play,5,1,zobrb001,00,X,D9/L
 play,5,1,kotcc001,31,BBBCX,31/G.2-3
 play,5,1,lopef001,30,IIII,IW
 play,5,1,shopk001,32,BSLB*B>S,K/DP.1X1(2)
-com,"$Kelly Shoppach called for interfering with catcher Hank Conger"
 play,6,0,iztum001,00,X,7/L
 play,6,0,abreb001,32,BBBCFC,K
 play,6,0,huntt001,22,BCSBFS,K
@@ -2634,7 +2621,6 @@ play,4,1,joycm001,12,BSSX,S3/G.2-3
 play,4,1,uptob001,32,BFBBS>C,K
 play,5,0,pattc001,00,,NP
 sub,sonna001,"Andy Sonnanstine",1,0,1
-com,"Rays pitcher Jeff Niemann left the game due to an injured back"
 play,5,0,pattc001,00,.X,13/BG
 play,5,0,escoy001,31,BBBCX,9/F
 play,5,0,linda001,11,CBX,S9/L
@@ -2662,17 +2648,7 @@ play,7,1,johnd004,12,.FBSX,4/L-
 play,7,1,jasoj001,22,C>FFB1BFX,S9/L.1-2
 play,7,1,fulds001,00,,NP
 sub,frasj002,"Jason Frasor",0,0,1
-com,"ej,farrj001,M,fairc901,Balls and strikes"
-com,"$Toronto manager John Farrell walked to the plate after making the pitching change"
-com,"and talked to HP umpire Chad Fairchild; after a brief, calm discussion, Fairchild"
-com,"ejected Farrell"
 play,7,1,fulds001,12,.CBFX,5(2)3/GDP
-com,"ej,maddj801,M,westj901,Changed call at 1B"
-com,"$the throw to first was wide on the foul side of the bag; first baseman Adam Lind"
-com,"swiped at Sam Fuld as he ran past; Fuld was called safe by 1B umpire Joe West; the"
-com,"umpires huddled and then Fuld was called out; 1B coach George Hendrick started talking"
-com,"with West and Rays Manager Joe Maddon ran out to argue; West told Maddon to go back"
-com,"to the dugout a couple of times and then ejected Maddon"
 play,8,0,escoy001,00,,NP
 sub,johne002,"Elliot Johnson",1,8,6
 play,8,0,escoy001,00,,NP
@@ -2697,10 +2673,6 @@ sub,mccom001,"Mike McCoy",0,6,5
 play,9,1,uptob001,00,,NP
 sub,franf001,"Frank Francisco",0,0,1
 play,9,1,uptob001,12,..CBCC,K
-com,"ej,uptob001,P,fairc901,Called third strike"
-com,"$B.J. Upton went nuts after being called out for the third time in the game; he was"
-com,"immediately ejected by HP umpire Chad Fairchild; Upton kept yelling and pointing at"
-com,"Fairchild and had to be restrained by two coaches"
 play,9,1,kotcc001,31,.BFBBB,W
 play,9,1,johne002,02,CCS,K
 play,9,1,jasoj001,31,FBBBB,W.1-2
@@ -3541,11 +3513,6 @@ play,9,1,johne002,00,,NP
 sub,sania001,"Amauri Sanit",0,0,1
 play,9,1,johne002,32,.BCBBFFX,31/G
 play,9,1,shopk001,22,CBBFX,7/F
-com,"$Kelly Shoppach's towering fly ball appeared to hit one of the catwalks at Tropicana Field;"
-com,"Yankees LF Brett Gardner caught the ball on the warning track; Rays manager Joe Maddon talked"
-com,"with crew chief Gary Darling and asked if the ball hit the C-ring catwalk; if it did, the play"
-com,"is a home run by ground rule; Darling watched the replay for 4 minutes and 2 seconds and"
-com,"upheld the call"
 play,9,1,fulds001,00,,NP
 sub,rodrs002,"Sean Rodriguez",1,1,11
 play,9,1,rodrs002,32,.CSBBFBB,W
@@ -3839,8 +3806,6 @@ play,9,1,longe001,30,BBBB,W.1-2
 play,9,1,damoj001,00,,NP
 sub,perec002,"Chris Perez",0,0,1
 play,9,1,damoj001,22,.CBSFBX,E3/G.3-H(NR)(UR);2X3(3142);1-2
-com,"$originally scored E3, changed to single on 5-29,"
-com,"changed back to E3 on 6-10"
 data,er,carrc003,2
 data,er,pestv001,0
 data,er,sippt001,0
@@ -3935,7 +3900,6 @@ play,4,1,jasoj001,31,BBCBX,HR/9/F.3-H
 play,4,1,brigr001,21,BFBX,43/G
 play,5,0,cabro001,00,,NP
 sub,rodrs002,"Sean Rodriguez",1,5,3
-com,"Rays first baseman Casey Kotchman left the game due to an injured ankle"
 play,5,0,cabro001,02,.CFX,31/G
 play,5,0,marsl001,00,X,4/P
 play,5,0,evera001,22,BFBCFX,S7/L-
@@ -4748,7 +4712,6 @@ play,1,0,lowrj001,12,BFCS,K
 play,1,0,crawc002,12,FBFFFX,43/G
 play,1,1,damoj001,00,,NP
 sub,scutm001,"Marco Scutaro",0,6,6
-com,"Red Sox shortstop Jed Lowrie left the game due to an injured shoulder"
 play,1,1,damoj001,02,.CCX,63/G
 play,1,1,zobrb001,32,BBFBFB,W
 play,1,1,joycm001,22,C1BB1SX,31/G.1-2
@@ -4798,7 +4761,6 @@ play,6,0,pedrd001,32,*BFBCB>X,53/G.1-2
 play,6,0,gonza003,02,CFS,K
 play,6,1,joycm001,00,,NP
 sub,aceva001,"Alfredo Aceves",0,0,1
-com,"Red Sox pitcher Clay Buchholz left the game due to lower back tightness"
 play,6,1,joycm001,31,.BBBCX,8/F
 play,6,1,longe001,32,BFFBBX,7/L
 play,6,1,kotcc001,10,BX,HR/9/F
@@ -4989,11 +4951,6 @@ play,8,1,joycm001,32,CBBBCX,S8/L
 play,8,1,longe001,00,X,S7/G.1-2
 play,8,1,uptob001,32,BCCBBX,4/P-
 play,8,1,rodrs002,22,BBCSX,DGR/9/L.2-H;1-H
-com,"ej,rodre001,M,barrt901,Allowing run to score from first on fan"
-com,"$the line drive landed on the chalk and bounced into foul territory where it was caught by a fan; interference"
-com,"was called but HP umpire Ted Barrett allowed Evan Longoria to score from 1B; Marlins Manager Edwin Rodriguez"
-com,"came out to ask about why Longoria was allowed to score on what he thought was a  double and dead ball; Barrett"
-com,"told Rodriguez that it was a judgement call by the umpire; when Rodriguez argued the call, he was ejected by Barrett"
 play,8,1,kotcc001,30,.IIII,IW
 play,8,1,johne002,00,X,7/F
 play,8,1,shopk001,22,BCCBC,K
@@ -5209,8 +5166,6 @@ start,jasoj001,"John Jaso",1,7,2
 start,fulds001,"Sam Fuld",1,8,7
 start,brigr001,"Reid Brignac",1,9,6
 start,shiej002,"James Shields",1,0,1
-com,"$after Marlins manager Edwin Rodriguz resigned, the club was run by"
-com,"bench coach Brandon Hyde on an interim basis"
 play,1,0,wised001,11,SBX,E5/G
 play,1,0,bonie001,02,C1FF1FX,D9/F.1-3
 play,1,0,morrl001,02,C3FS,K
@@ -5394,9 +5349,6 @@ play,6,0,lewif001,22,BB>C.FFFS,K
 play,6,1,zobrb001,11,BFX,D9/L
 play,6,1,longe001,31,BBBCB,W
 play,6,1,joycm001,32,FBFBBFFX,7/F/DP.2-3;1X2(6)
-com,"$Rays Evan Longoria rounded 2B thinking that Matt Joyce's fly would drop in; he passed"
-com,"Ben Zobrist, who was going back to 2B to tag up; 2B umpire Angel Hernandez immediately"
-com,"called out Longoria"
 play,6,1,kotcc001,21,BBCX,43/G
 play,7,0,philb001,00,,NP
 sub,ramoc001,"Cesar Ramos",1,0,1
@@ -5830,24 +5782,11 @@ sub,howej003,"J.P. Howell",1,0,1
 play,8,0,jay-j001,12,.CBSX,8/F
 play,8,0,hollm001,22,CBSBX,7/F
 play,8,0,berkl001,32,BCBFBB,W
-com,"ej,maddj801,M,carav901,Balls and strikes"
-com,"$ball four to Berkman was a very close pitch off the inside part of the plate; Rays pitcher"
-com,"J.P. Howell thought he had a strikeout; Rays Manager Joe Maddon yelled from the dugout asking"
-com,"about the pitch; when he continue to talk, he was ejected by HP umpire Vic Carapazza; Maddon"
-com,"then came out and stepped at the side of the plate where the pitch was and yelled at Carapazza"
 play,8,0,freed001,22,.CSB1*BN,BK.1-2
 play,8,0,freed001,32,.CSB1*BN.BFB,W
 play,8,0,rasmc001,00,,NP
 sub,puntn001,"Nick Punto",0,5,12
 play,8,0,rasmc001,01,.FX,HR/9/F.2-H;1-H
-com,"ej,howej003,P,carav901,Balls and strikes"
-com,"ej,pricd001,P,demud901,Balls and strikes (From the bench)"
-com,"ej,johne002,P,demud901,Balls and strikes (From the bench)"
-com,"$Rays pitcher J.P. Howell slammed his glove down on the grass; he picked it up and slapped at the"
-com,"new baseball tossed to him by HP umpire Vic Carapazza; he then took the ball and threw it off the"
-com,"field towards the 1B dugout and asked for a new ball; Carapazza looked at Howell and said something"
-com,"to Howell; Howell, yelling for a new ball, was ejected by Carapazza; Rays pitchers David Price and"
-com,"Elliott Johnson were ejected from the bench by 2B umpire and crew chief Dana DeMuth"
 play,8,0,moliy001,00,,NP
 sub,russa001,"Adam Russell",1,0,1
 play,8,0,moliy001,20,....BBX,9/F
@@ -6606,8 +6545,6 @@ play,6,1,fulds001,12,BCFS,K
 play,6,1,brigr001,12,CBCX,4!3/G
 play,6,1,damoj001,12,FBFS,K
 play,7,0,youkk001,12,FCBS,K
-com,"$David Ortiz' backswing on a pitch stuck HP umpire Chad Fairchild on the side"
-com,"of the head"
 play,7,0,ortid001,12,FCBX,43/G
 play,7,0,drewj001,10,BX,63/G
 play,7,1,zobrb001,32,CBFBBFX,8/F
@@ -6619,10 +6556,6 @@ play,8,0,scutm001,32,BCCBBFB,W
 play,8,0,ellsj001,32,BB1FB>F>F>F>S,K
 play,8,1,uptob001,00,X,4/P
 play,8,1,lobaj001,21,BBCX,7/F
-com,"$Rays Sean Rodriguez hit a foul ball that struck a lamp on a catwalk in LF;"
-com,"the ball shattered the lamp with pieces falling onto the field and into the"
-com,"seats; there was a delay while the grounds crew picked up the shattered glass;"
-com,"music from 'The Natural' played on the PA"
 play,8,1,rodrs002,32,SBFBFBS,K
 play,9,0,pedrd001,00,,NP
 sub,farnk001,"Kyle Farnsworth",1,0,1
@@ -6648,7 +6581,6 @@ play,10,0,varij001,00,,NP
 sub,ruggj001,"Justin Ruggiano",1,6,7
 play,10,0,varij001,00,,NP
 sub,peraj002,"Joel Peralta",1,0,1
-com,"$Rays catcher Jose Lobaton left the game with a sprained left knee; placed on DL"
 play,10,0,varij001,21,...CBBX,7/F
 play,10,0,scutm001,31,FBBBB,W
 play,10,0,ellsj001,00,,NP
@@ -6670,24 +6602,11 @@ sub,mcdod002,"Darnell McDonald",0,6,11
 play,11,0,mcdod002,31,..BSBBB,W.2-3;1-2
 play,11,0,reddj001,00,,NP
 sub,suttd002,"Drew Sutton",0,5,12
-com,"$a 2-2 pitch to Josh Reddick was ruled no swing by 3B umpire Jim Reynolds; the Rays"
-com,"were very unhappy with the call"
 play,11,0,reddj001,32,.BBSCFFFBS,K
 play,11,0,varij001,00,,NP
 sub,cruzj005,"Juan Cruz",1,0,1
-com,"ej,maddj801,M,fairc901,Balls and strikes"
-com,"$while Rays manager Joe Maddon made the pitching change, he yelled at HP umpire Chad"
-com,"Fairchild and 3B umpire Jim Reynolds about the check swing and the strike zone; after"
-com,"a short time, Maddon was ejected by Fairchild"
 play,11,0,varij001,22,..FFBBT,K
 play,11,0,scutm001,21,*BCBX,2/P2F
-com,"ej,martd002,C,fairc901,Marco Scutaro bat throwing incident"
-com,"$with the bases loaded and two outs in a scoreless game, Marco Scutaro popped the ball"
-com,"up behind the plate; he was upset with himself and flung the bat down to the artificial"
-com,"turf; the bat bounced weirdly and flew near catcher Kelly Shoppach as he was making the"
-com,"catch; the Rays complained about what they thought was Scutaro throwing the bat at"
-com,"Shoppach; when HP umpire Chad Fairchild refused to listen, bench coach and acting"
-com,"manager Dave Martinez came on the field and was ejected by Fairchild"
 play,11,1,rodrs002,00,,NP
 sub,mcdod002,"Darnell McDonald",0,6,9
 play,11,1,rodrs002,21,...LBBX,S8/G
@@ -6851,7 +6770,6 @@ play,5,0,gardb001,31,CBBBB,W
 play,5,0,nunee002,00,>B,SB2
 play,5,0,nunee002,20,>B.BX,43/G.2-3
 play,5,0,jeted001,22,*BBCFS,K
-com,"$the game was delayed for 18 minutes when a bank of lights lost power"
 play,5,0,granc001,32,BBCFBFB,W
 play,5,0,teixm001,11,BF>X,S4/G.3-H;1-2
 play,5,0,canor001,32,BCFBFB>X,43/G
@@ -8046,7 +7964,6 @@ start,rodrs002,"Sean Rodriguez",1,9,6
 start,cobba001,"Alex Cobb",1,0,1
 play,1,0,weekj001,01,CX,43/G
 play,1,0,crisc001,22,BBCSX,S3/G
-com,"originally scored as 3E1, changed on 8-11 to single"
 play,1,0,matsh001,01,CX,8/F
 play,1,0,willj004,00,>C,SB2
 play,1,0,willj004,11,>C.BX,S7/G.2XH(756)
@@ -8096,8 +8013,6 @@ play,6,0,suzuk001,11,CBX,8/F
 play,6,0,rosaa001,02,CCS,K
 play,6,0,weekj001,00,X,8/F
 play,6,1,chirr001,01,CX,S8/L-
-com,"$a foul ball by Sean Rodriguez landed in a trash can in the RF picnic area; the can had a cover on it"
-com,"and the ball went in the opening on the side of the cover"
 play,6,1,rodrs002,22,FFFBFBFX,S9/L.1-2
 play,6,1,jennd002,22,CBBLX,9/F
 play,6,1,damoj001,32,BFBBSX,36(1)/FO/G.2-3
@@ -8972,7 +8887,6 @@ play,7,0,gutif001,00,1X,7/L
 play,7,0,kenna001,00,11X,9/F
 play,7,1,zobrb001,00,X,13/G-
 play,7,1,kotcc001,01,CX,S5/G
-com,"originally scored as E5, changed to S5 the next day"
 play,7,1,uptob001,22,FSF*BBS,K
 play,7,1,joycm001,00,X,41/G
 play,8,0,carpm001,00,,NP
@@ -9276,11 +9190,6 @@ play,7,1,jennd002,31,P1BBCB,W.1-2
 play,7,1,damoj001,00,,NP
 sub,grayj002,"Jeff Gray",0,0,1
 play,7,1,damoj001,31,.BBBCX,D9/F.3-H;2-H;1-H
-com,"$Johnny Damon's fly hit the top of the wall on the yellow line and caromed back onto the field;"
-com,"it was ruled a home run (thus a grand slam); Damon stopped at 2B but eventually ran the circuit;"
-com,"Mariners manager Eric Wedge asked crew chief Mike Winters about the call, so Winters watched the"
-com,"replay; after a 2:41 delay, Winters overturned the call to a ball in play, giving Damon a double"
-com,"and allowing all three runners to score; Damon was stranded at 2B"
 play,7,1,longe001,30,IIII,IW
 play,7,1,zobrb001,00,,NP
 sub,cortd002,"Dan Cortes",0,0,1
@@ -9429,7 +9338,6 @@ play,8,0,cabrm001,00,,NP
 sub,fulds001,"Sam Fuld",1,7,8
 play,8,0,cabrm001,00,,NP
 sub,rodrs002,"Sean Rodriguez",1,9,4
-com,"Rays center fielder B. J. Upton left the game due to an injured shoulder"
 play,8,0,cabrm001,30,.....IIII,IW
 play,8,0,avila001,00,,NP
 sub,mcgej001,"Jake McGee",1,0,1
@@ -10852,13 +10760,11 @@ play,3,1,damoj001,22,BBCCFFFX,S3/G.2-H;1-3
 play,3,1,joycm001,21,BBSX,S8/L.3-H;1-3
 play,3,1,kotcc001,31,BBCBB,W.1-2
 play,3,1,jasoj001,12,F*BFX,13/L
-com,"$the ball struck John Lackey's left calf"
 play,4,0,ellsj001,12,CCFBX,43/G
 play,4,0,scutm001,01,CX,63/G
 play,4,0,gonza003,01,LX,5/P-
 play,4,1,brigr001,00,,NP
 sub,atchs001,"Scott Atchison",0,0,1
-com,"Red Sox pitcher John Lackey left the game due to a bruised left calf"
 play,4,1,brigr001,12,.FBSFX,43/G
 play,4,1,jennd002,32,BCSFBBS,K
 play,4,1,uptob001,00,X,S8/L
@@ -11372,8 +11278,6 @@ sub,carrj002,"Joel Carreno",0,0,1
 play,8,1,jennd002,22,.CBCBX,63/G
 play,8,1,uptob001,30,BBBB,W
 play,8,1,longe001,00,>C,CS2(24)
-com,"ej,uptob001,P,hicke901,Call at 2B"
-com,"Rays center fielder B. J. Upton ejected by 2B umpire Ed Hickox"
 play,8,1,longe001,12,>C.CBC,K
 play,9,0,molij001,00,,NP
 sub,ruggj001,"Justin Ruggiano",1,2,8
@@ -11775,9 +11679,6 @@ play,5,1,jennd002,22,.CFBFBFX,8/F
 play,5,1,uptob001,22,BFCBX,8/L
 play,5,1,longe001,30,BBBB,W
 play,5,1,zobrb001,30,BB*BB,W.1-2
-com,"ej,martr004,P,schrp901,Balls and strikes (while catching)"
-com,"$as Johnny Damon stepped into the batter's box, HP umpire Paul Schrieber stepped in front"
-com,"of catcher Russell Martin and said something; when Martin answered, he was ejected by Schreiber"
 play,5,1,damoj001,00,,NP
 sub,romia002,"Austin Romine",0,7,2
 play,5,1,damoj001,11,..CBX,4/P
@@ -12147,8 +12048,6 @@ play,8,1,zobrb001,00,X,D7/L.1-3
 play,8,1,kotcc001,21,C*BBH,HP
 play,8,1,shopk001,00,,NP
 sub,romia002,"Austin Romine",0,7,2
-com,"$After pitch hit Kotchman, it deflected into catcher Montero's hand,"
-com,"bruising two fingers. He left game but X-rays showed no breaks."
 play,8,1,shopk001,00,,NP
 sub,ayall001,"Luis Ayala",0,0,1
 play,8,1,shopk001,00,,NP

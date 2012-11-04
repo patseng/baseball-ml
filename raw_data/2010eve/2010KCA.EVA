@@ -46,7 +46,6 @@ start,kendj001,"Jason Kendall",1,8,2
 start,getzc001,"Chris Getz",1,9,4
 start,greiz001,"Zack Greinke",1,0,1
 play,1,0,jacka001,11,BCX,9/F
-com,"Debut game for Austin Jackson"
 play,1,0,damoj001,01,CX,43/G
 play,1,0,ordom001,22,BFFBX,D8/F
 play,1,0,cabrm001,30,*BBBB,W
@@ -58,7 +57,6 @@ play,1,1,butlb003,01,CX,53/G
 play,1,1,ankir001,11,BSX,43/G
 play,2,0,lairg001,00,X,7/F
 play,2,0,sizes001,22,BCBSFX,3/P3F
-com,"Debut game for Scott Sizemore"
 play,2,0,evera001,10,BX,S7/L
 play,2,0,jacka001,32,C1BF1B*B>X,6/L-
 play,2,1,guilj001,22,FBSBX,S8/G
@@ -592,10 +590,6 @@ play,5,1,getzc001,12,CFBS,K
 play,5,1,dejed001,32,BSCBBX,9/F
 play,6,0,youkk001,10,BX,8/F
 play,6,0,ortid001,32,CSBBBS,K
-com,"ej,ortid001,P,estam901,Checked swing"
-com,"Red Sox designated hitter David Ortiz ejected by HP umpire Mike Estabrook for"
-com,"arguing the check swing strike three; Estabrook called it and Ortiz was upset"
-com,"that Estabrook did not check with the 3B umpire"
 play,6,0,belta001,10,.BX,9/F
 play,6,1,podss001,01,CX,43/G+
 badj,calla001,R
@@ -971,8 +965,6 @@ play,9,1,maiem001,32,BBCBCF,NP
 sub,drewj001,"J.D. Drew",0,1,9
 play,9,1,maiem001,32,BBCBCF,NP
 sub,hallb001,"Bill Hall",0,9,7
-com,"Red Sox LF Jacoby Ellsbury collided with 3B Adrian Beltre while they chased a foul ball;"
-com,"Ellsbury left the game with bruised ribs; X-rays were negative"
 play,9,1,maiem001,32,BBCBCF..X,9/F
 play,9,1,calla001,22,CS.BBX,8/F
 data,er,buchc001,2
@@ -1232,7 +1224,6 @@ play,5,1,calla001,01,CX,S9/L-
 play,5,1,ankir001,32,BFBBF1X,36(1)/FO/G
 play,5,1,kendj001,00,,NP
 sub,maiem001,"Mitch Maier",1,6,12
-com,"Royals center fielder Rick Ankiel left the game due to an injured leg"
 play,5,1,kendj001,12,.B1CFH,HP.1-2
 play,5,1,gorda001,00,,NP
 sub,mahar001,"Ron Mahay",0,0,1
@@ -2053,8 +2044,6 @@ play,7,0,cabra002,11,.BCX,43/G
 play,7,0,sizeg001,32,BBFFBFFB,W
 play,7,0,choos001,00,X,S9/L.1-2
 play,7,0,hafnt001,10,B>B,SB3;SB2
-com,"ej,hillt801,M,reynj901,Call at 3B on steal"
-com,"Royals Manager Trey Hillman ejected by 3B umpire Jim Reynolds for arguing the call at 3B"
 play,7,0,hafnt001,21,B>B..CX,63/G.3-H;2-3
 play,7,0,keara001,00,,NP
 sub,rupej001,"Josh Rupe",1,0,1
@@ -2214,7 +2203,6 @@ play,6,1,maiem001,12,CCBC,K
 play,7,0,redmm001,00,,NP
 sub,woodb004,"Blake Wood",1,0,1
 play,7,0,redmm001,31,.BBBCX,43/G
-com,"Debut game for Blake Wood"
 play,7,0,cabra002,32,BBBCCX,S8/L
 play,7,0,sizeg001,22,FB11BFX,4(1)3/GDP
 play,7,1,betay001,31,BCBBB,W
@@ -2302,7 +2290,6 @@ start,penab002,"Brayan Pena",1,7,2
 start,maiem001,"Mitch Maier",1,8,8
 start,betay001,"Yuniesky Betancourt",1,9,6
 start,greiz001,"Zack Greinke",1,0,1
-com,"$last game as Royals manager for Trey Hillman; he has been told before the game"
 play,1,0,cabra002,01,CX,T7/F
 play,1,0,sizeg001,12,SBTS,K
 play,1,0,choos001,22,BCBCX,FC5/G.3XH(52);B-1
@@ -3364,7 +3351,6 @@ play,6,0,cruzn002,00,,NP
 sub,avilm001,"Mike Aviles",1,2,6
 play,6,0,cruzn002,00,,NP
 sub,getzc001,"Chris Getz",1,7,4
-com,"Royals shortstop Yuniesky Betancourt left the game due to an injured head"
 play,6,0,cruzn002,21,..SBBX,53/G
 play,6,0,smoaj001,00,.X,9/L
 play,6,0,tream001,32,CSBBBB,W
@@ -3805,9 +3791,6 @@ play,6,0,iztum001,11,CBX,HR/9/F
 play,6,0,abreb001,21,BBCX,53/G
 play,6,0,huntt001,10,BX,S9/L
 play,6,0,matsh001,01,CX,D9/F.1-3
-com,"$the ball hit the railing at the top of the wall and was ruled in play; the Angels"
-com,"asked about the call so acting crew chief Mike Winters watched the replay and upheld"
-com,"the call"
 play,6,0,rivej001,00,,NP
 sub,tejer001,"Robinson Tejeda",1,0,1
 play,6,0,rivej001,11,.BFX,8/F
@@ -4046,10 +4029,6 @@ play,1,0,abreb001,21,CBBX,E4/G
 play,1,0,huntt001,32,C1BF1BB>B,W.1-2
 play,1,0,matsh001,30,BBBB,W.2-3;1-2
 play,1,0,napom001,12,BCSFX,54(1)/FO/G
-com,"$on the third pitch to Royals Scott Podsednik, which he fouled off,"
-com,"Angels manager Mike Scioscia claimed that Podsednik had bunted the"
-com,"ball and the foul should be strike three; HP umpire Mike Estabrook"
-com,"and Scioscia had a yelling match while Scioscia stayed in the dugout"
 play,1,1,podss001,02,CCFS,K
 play,1,1,kendj001,32,CBBFBX,9/F
 play,1,1,dejed001,31,BBBCX,S49/G
@@ -4064,13 +4043,6 @@ play,2,1,maiem001,22,CSBBS,K
 play,3,0,kendh001,32,LBBFFBFFX,8!/L
 play,3,0,abreb001,22,CBBCX,S6/G
 play,3,0,huntt001,12,FSB.S,K
-com,"ej,yoste001,M,estam901,Complaining about umpire's attitude"
-com,"$after the 0-2 pitch to Torii Hunter was called a ball, catcher Jason"
-com,"Kendall talked to HP umpire Mike Estabrook without turning around and"
-com,"still in his crouch; Estabrook called time and came around the front"
-com,"of the plate to chastise Kendall; Royals manager Ned Yost started"
-com,"yelling from the dugout and ran out to the plate to yell at Estabrook,"
-com,"who ejected Yost"
 play,3,0,matsh001,00,X,S8/G+.1-2
 play,3,0,napom001,00,X,5/L
 play,3,1,betay001,12,FFBX,E6/TH1/G
@@ -4436,7 +4408,6 @@ sub,zumaj001,"Joel Zumaya",0,0,1
 play,8,1,butlb003,30,.BBBB,W.1-2
 play,8,1,guilj001,00,,NP
 sub,cokep001,"Phil Coke",0,0,1
-com,"Tigers pitcher Joel Zumaya left the game due to an injured hand"
 play,8,1,guilj001,31,BB.CBX,S7/G.3-H;2-3;1-2
 play,8,1,calla001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,5,12
@@ -4672,10 +4643,6 @@ play,2,1,kendj001,22,BCFFBFX,63/G
 play,3,0,manzt001,21,CBBX,4/P
 play,3,0,bourm001,22,CCBBX,E4/TH1/G.B-1
 play,3,0,keppj001,32,BC1B>F1*B>S,K/DP.1X1(2)
-com,"$with Michael Bourn running on the pitch, Jeff Keppinger struck"
-com,"out; HP umpire Mike Everitt ruled that Keppinger interfered with"
-com,"catcher Jason Kendall's ability to throw to 2B on the steal and"
-com,"called Bourn out for double play"
 play,3,1,dejed001,01,FX,S4/G-
 play,3,1,butlb003,00,X,54(1)3/GDP
 play,3,1,guilj001,22,CBBFX,31/G-
@@ -4705,10 +4672,6 @@ play,5,1,kendj001,11,CBX,8/F
 play,5,1,dejed001,12,CCBFFX,S8/L
 play,5,1,butlb003,30,BBBB,W.1-2
 play,5,1,guilj001,11,BSX,C/E2.2-3;1-2
-com,"$Jose Guillen fouled off a pitched but catcher Humberto Quintero"
-com,"was called for catcher's interference; the Astros argued the call;"
-com,"there was a catcher's interference with the batter and a batter's"
-com,"interference with the catcher in the same game"
 play,5,1,calla001,21,SBBX,S9/G.3-H;2-3;1-2
 play,5,1,avilm001,11,BCX,S7/G.3-H;2-H(UR);1-2
 play,5,1,maiem001,32,BCSBFF*B>B,W.2-3;1-2
@@ -5000,16 +4963,6 @@ play,5,0,keppj001,32,CFBBB>X,63/G
 play,5,1,avilm001,21,CBBX,S7/L
 play,5,1,betew001,22,BBCF>X,3/G.1-2
 play,5,1,betay001,00,X,63/G.2-3
-com,"$Yuniesky Betancourt hit a soft liner that SS Geoff Blum appeared"
-com,"to trap; he started to throw to 1B but saw that 2B umpire Mike"
-com,"Everitt called it a catch, so Blum ran to 2B to double off Mike"
-com,"Aviles, who ran to 3B after the trap; this was an apparent"
-com,"inning-ending double play; as Royals manager Ned Yost came onto"
-com,"the field, the umpires huddled; after a few minutes, they brought"
-com,"both teams back on the field, ruled Betancourt out at 1B (although"
-com,"there never was a throw to 1B) and placed Aviles on 3B; the umpires"
-com,"assumed that Betancourt would have been thrown out at 1B and"
-com,"advanced Aviles since he was most of the way to that bag"
 play,5,1,podss001,21,BBCX,6/L-
 play,6,0,berkl001,32,SFBBBS,K
 play,6,0,lee-c001,00,X,8/F
@@ -5306,7 +5259,6 @@ play,7,1,guilj001,00,,NP
 sub,winnr001,"Randy Winn",0,2,9
 play,7,1,guilj001,00,,NP
 sub,mcclk001,"Kyle McClellan",0,0,1
-com,"Cardinals pitcher Jason Motte left the game due to an injured leg"
 play,7,1,guilj001,11,.B.CX,4/L
 play,7,1,calla001,12,CFBC,K
 play,7,1,penab002,10,BX,S8/L-
@@ -5727,15 +5679,6 @@ play,3,1,betew001,01,CX,3/G
 play,3,1,betay001,10,BX,41/G
 play,3,1,podss001,21,CBBX,8/F
 play,4,0,vicid001,32,BBFBSS,K
-com,"ej,guilo001,M,timmt901,Balls and strikes"
-com,"$White Sox Manager Ozzie Guillen started yelling at HP umpire Tim Timmons"
-com,"from the dugout about the strike zone; Timmons took off his mask and told"
-com,"Guillen to stop; after Timmons put the mask back on and stepped behind the"
-com,"plate, Guillen kept talking so Timmons ejected Guillen; the manager then"
-com,"came out to the plate and yelled for a bit while Timmons wrote notes on"
-com,"his lineup card about the ejection; Timmons never talked with Guillen"
-com,"once the manager came out; as Guillen left the field, he yelled at 3B"
-com,"umpire Jeff Nelson about his work behind the plate in the previous game"
 play,4,0,beckg001,21,BC.BX,D8/L
 play,4,0,pierj002,10,BX,3/G.2-3
 play,4,0,ramia003,20,*BBX,S9/L.3-H
@@ -6627,7 +6570,6 @@ play,2,0,buckj001,00,X,D57/L.1-3
 play,2,0,encae001,00,X,13/L+
 play,2,0,lewif001,00,,NP
 sub,texek001,"Kanekoa Texeira",1,0,1
-com,"Royals pitcher Anthony Lerew was hit on the chest by Edwin Encarnacion's line drive"
 play,2,0,lewif001,32,.*BFBCFBX,D7/F.3-H;2-3
 play,2,0,mcdoj003,00,X,63/G
 play,2,0,bautj002,11,BCX,S4/G.3-H;2-3
@@ -6828,7 +6770,6 @@ play,5,1,maiem001,12,BCS>B,SB2.1-3(E2/TH2)
 play,5,1,maiem001,22,BCS>B.FS,K23
 play,6,0,lewif001,00,,NP
 sub,wised001,"Dewayne Wise",0,1,11
-com,"Blue Jays left fielder Fred Lewis left the game due to an injured ankle"
 play,6,0,wised001,11,.CBX,4/P
 play,6,0,mcdoj003,12,CBCS,K23
 play,6,0,bautj002,00,X,43/G-
@@ -6912,9 +6853,6 @@ start,gorda001,"Alex Gordon",1,7,7
 start,bloow001,"Willie Bloomquist",1,8,8
 start,getzc001,"Chris Getz",1,9,4
 start,greiz001,"Zack Greinke",1,0,1
-com,"$Jason Kendall's 2000th big league game caught; he is the fifth"
-com,"player to achieve this milestone: Ivan Rodriguez, Carlton Fisk,"
-com,"Bob Boone and Gary Carter"
 play,1,0,repkj001,01,CX,D7/F
 play,1,0,casia001,10,BX,T9/L.2-H
 play,1,0,mauej001,20,BBX,S7/L-.3-H
@@ -7155,7 +7093,6 @@ sub,craij001,"Jesse Crain",0,0,1
 play,6,1,kendj001,12,.C1F11BX,7/F-
 play,7,0,cuddm001,20,BB,NP
 sub,tejer001,"Robinson Tejeda",1,0,1
-com,"Royals pitcher Kyle Farnsworth left the game due to a right hamstring cramp"
 play,7,0,cuddm001,32,BB.CBCX,63/G
 play,7,0,valed001,02,CCC,K
 play,7,0,hardj003,21,CBBX,HR/7/F
@@ -7461,8 +7398,6 @@ play,5,1,avilm001,11,FBX,6(1)3/GDP
 play,6,0,jonea003,22,BBFSFS,K
 play,6,0,pie-f001,32,BFCBBB,W
 play,6,0,wietm001,11,C1BX,FC1.1X3(1E6);B-1
-com,"DWS: the dropped thow was on the play at second, but need to"
-com,"enter this way to capture pitcher assist"
 play,6,0,pattc001,12,FFBX,46(1)/FO/G.3-H(UR)
 play,6,0,iztuc001,00,X,S8/L-.1-2
 play,6,0,robeb003,00,,NP
@@ -7636,11 +7571,6 @@ play,6,0,markn001,31,BBCBB,W
 play,6,0,wiggt001,01,C11X,S8/L-.1-3
 play,6,0,scotl001,20,BBX,8/SF/F.3-H
 play,6,0,jonea003,00,H,HP.1-2
-com,"umpchange,6,umphome,ticht901"
-com,"umpchange,6,ump2b,(None)"
-com,"$HP umpire Wally Bell left the game suffering from dehydration and"
-com,"heat exhaustion; the game-time temperature was 92 but the heat index"
-com,"was 100; Bell was examined at the park and not taken to a hospital"
 play,6,0,pie-f001,11,BCX,43/G.2-3;1-2
 play,6,0,wietm001,01,FX,43/G
 play,6,1,betay001,20,BBX,S9/F-
@@ -8063,7 +7993,6 @@ play,5,0,swisn001,00,,NP
 sub,maiem001,"Mitch Maier",1,8,8
 play,5,0,swisn001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,9,9
-com,"Royals center fielder Gregor Blanco left the game due to an injured head"
 play,5,0,swisn001,32,...CSFFFBBBFFFFB,W
 play,5,0,teixm001,01,CX,5/L
 play,5,0,rodra001,12,BCFF1X,E4/TH2/FO/G.1-2
@@ -8533,10 +8462,6 @@ play,6,0,cervf001,22,1P1>B.SFFT,K
 play,6,1,blang001,21,FBBX,S7/G
 play,6,1,bloow001,01,111F1X,8/F
 play,6,1,butlb003,00,1X,4/L.1-3(E4/TH1)(E2/TH2)
-com,"$after catching the soft liner, Yankees second baseman Robinson Cano threw wide"
-com,"to first trying to double up Gregor Blanco; Yankees catcher Francisco Cervelli"
-com,"retrieved the ball and bounced his throw to second; the ball went into center"
-com,"field, thus allowing Blanco to advance to third"
 play,6,1,betew001,12,BCSS,K
 play,7,0,jeted001,11,BCX,53/G
 play,7,0,swisn001,00,X,4/P
@@ -8990,7 +8915,6 @@ play,7,1,betew001,22,BBCFX,E5/G.2-3
 play,7,1,gorda001,31,BBCB>X,13/G
 play,8,0,nix-j001,00,,NP
 sub,millj004,"Jai Miller",1,7,9
-com,"Royals center fielder Mitch Maier left the game due to an injured neck"
 play,8,0,nix-j001,21,.BCBX,53/G
 play,8,0,crowt001,11,CBX,S9/L
 play,8,0,lapom001,02,FFFFB,WP.1-2
@@ -10227,13 +10151,11 @@ play,1,1,butlb003,22,BCBCX,8/F
 play,1,1,kaaik001,32,BBBCC>S,K
 play,2,0,wellc001,11,BFX,63/G
 play,2,0,stpim001,10,BX,63/G
-com,"Debut game for Max St. Pierre"
 play,2,0,rhymw001,22,CBBTFX,S9/L
 play,2,0,jacka001,22,BSBF>T,K
 play,2,1,fielj001,01,CX,S7/F-
 play,2,1,gorda001,12,CFBC,K
 play,2,1,may-l001,12,CBSX,16(1)3/GDP
-com,"Debut game for Lucas May"
 play,3,0,damoj001,01,CX,DGR/8/F
 play,3,0,rabur001,22,FBTFBFX,63/G.2-3
 play,3,0,cabrm001,30,IIII,IW
@@ -10516,7 +10438,6 @@ start,millj004,"Jai Miller",1,8,9
 start,may-l001,"Lucas May",1,9,2
 start,hochl001,"Luke Hochevar",1,0,1
 play,1,0,crisc001,11,CBX,3E1/G
-com,"Debut game for Bobby Cramer"
 play,1,0,bartd001,20,1BB>B,SB2
 play,1,0,bartd001,30,1BB>B.B,W
 play,1,0,suzuk001,11,CBX,54(1)/FO/G.2-H(UR)(NR)(E4/TH)
@@ -10708,7 +10629,6 @@ play,4,0,custj001,21,BSBX,7/F
 play,4,0,ellim001,00,,NP
 sub,sogae001,"Eric Sogard",0,5,11
 play,4,0,sogae001,32,.BCBCBB,W
-com,"Debut game for Eric Sogard"
 play,4,0,hermj001,22,CF*BBX,43/G
 play,4,1,penab002,00,,NP
 sub,powel001,"Landon Powell",0,3,2
@@ -11241,7 +11161,6 @@ play,9,0,branm003,32,BBCFB>X,43/G.1-2
 play,9,0,cabra002,02,FFFX,3/G.2-3
 play,9,0,choos001,30,IIII,IW
 play,9,0,browj006,00,>C,SB2
-com,"originally scored as DI, changed to SB next day"
 play,9,0,browj006,32,>C.BBFBX,3/G
 play,9,1,millj004,00,,NP
 sub,perec002,"Chris Perez",0,0,1
@@ -12359,7 +12278,6 @@ play,2,0,joycm001,12,CC1BX,3/LDP.1X1(3)
 play,2,0,penac001,32,CBBBSB,W
 play,2,0,hawpb001,22,FBCBX,S7/F-.1-3
 play,2,0,brigr001,32,CSBB>F>B,W.1-2
-com,"$Walk awarded on three balls"
 play,2,0,navad001,22,SBSBS,K
 play,2,1,betew001,20,BBX,4/L
 play,2,1,gorda001,01,CX,6/P

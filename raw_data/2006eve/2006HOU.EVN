@@ -551,7 +551,6 @@ play,6,1,tavew001,00,,NP
 sub,byrdm001,"Marlon Byrd",0,3,9
 play,6,1,tavew001,00,,NP
 sub,bergj001,"Jason Bergmann",0,9,1
-com,"Nationals right fielder Jose Guillen left the game due to an injured arm"
 play,6,1,tavew001,11,..CBX,S9/L
 play,6,1,berkl001,02,111FC1FX,HR/9/F.1-H
 play,6,1,ensbm001,31,BFBBB,W
@@ -930,7 +929,6 @@ sub,burkc001,"Chris Burke",1,9,4
 play,9,0,cordc001,00,,NP
 sub,wardd002,"Daryle Ward",0,9,11
 play,9,0,wardd002,31,....BBBCX,DGR/9/INT
-com,"fan interference"
 play,9,0,byrdm001,12,CBSS,K
 play,9,0,clayr001,02,SFFX,S9/L.2-3
 play,9,0,vidrj001,00,>S,DI.1-2
@@ -1513,7 +1511,6 @@ start,lanej001,"Jason Lane",1,6,9
 start,ausmb001,"Brad Ausmus",1,7,2
 start,evera001,"Adam Everett",1,8,6
 start,petta001,"Andy Pettitte",1,9,1
-com,"$Debut for umpire Adrian Johnson"
 play,1,0,clarb003,12,CBFFX,63/G
 play,1,0,hardj003,11,BCX,9/F
 play,1,0,jenkg001,02,FCS,K
@@ -1659,11 +1656,6 @@ play,1,0,mclon001,01,CX,S7/L
 play,1,0,wilsj002,10,BB,PB.1-2
 play,1,0,wilsj002,31,BB.BCB,W
 play,1,0,bay-j001,32,CBCFBBFFX,9/F.2-3
-com,"ej,garnp001,M,reedr901,Umpire's actions towards pitcher"
-com,"$Astros pitcher Wandy Rodriguez reacted to a couple of pitch calls"
-com,"by HP umpire Rick Reed; after the second time, Reed went out to the"
-com,"mound to tell Rodriguez to stop; Astros Manager Phil Garner went onto"
-com,"the field to object to Reed's actions and was ejected by Reed"
 play,1,0,wilsc003,22,B1S>FB.11,POCS2(134)
 play,1,0,wilsc003,22,B1S>FB.11.S,K
 play,1,1,biggc001,00,X,53/G
@@ -2280,7 +2272,6 @@ play,5,1,sprir001,00,,NP
 sub,brune001,"Eric Bruntlett",1,8,12
 play,5,1,sprir001,00,,NP
 sub,palmo001,"Orlando Palmeiro",1,9,11
-com,"Astros shortstop Adam Everett left the game due to an injured hand/wrist"
 play,5,1,palmo001,21,..FBBX,8/L
 play,5,1,biggc001,02,FF1X,6(1)3/GDP
 play,6,0,muelb001,00,,NP
@@ -2343,7 +2334,6 @@ play,9,0,furcr001,32,.1CBS*B.BC,K
 play,9,0,loftk001,10,BB,WP.2-3
 play,9,0,loftk001,31,BB.F*BB,W
 play,9,0,drewj001,00,>C,SB2
-com,"originally scored as DI, changed next day"
 play,9,0,drewj001,31,>C.IIII,IW
 play,9,0,kentj001,02,SFX,9/SF.3-H;2-3
 play,9,0,garcn001,12,SBSX,9/F
@@ -2356,9 +2346,6 @@ sub,repkj001,"Jason Repko",0,9,7
 play,9,1,lanej001,22,...FBFBS,K
 play,9,1,ausmb001,01,C,NP
 sub,munse001,"Eric Munson",1,7,11
-com,"ej,ausmb001,P,marqa901,Balls and strikes"
-com,"Astros catcher Brad Ausmus ejected by HP umpire Alfonso Marquez"
-com,"after the first pitch of the at bat"
 play,9,1,munse001,31,C..BBBX,7/F
 play,9,1,brune001,32,BFCBBB,W
 play,9,1,lidgb001,00,,NP
@@ -2996,7 +2983,6 @@ play,7,1,biggc001,21,BSBX,8/F
 play,7,1,tavew001,21,BFBX,S9/G
 play,7,1,berkl001,00,,NP
 sub,lambm001,"Mike Lamb",1,3,11
-com,"Astros first baseman Lance Berkman left the game due to an injured leg"
 play,7,1,lambm001,12,.1SCB1>K,C/E2.1-2
 play,7,1,ensbm001,00,X,S8/F-.2-H;1-2
 play,7,1,wilsp002,01,TX,T8/F.2-H(UR);1-H
@@ -3564,16 +3550,9 @@ play,4,1,wilsp002,22,CBBFFS,K
 play,4,1,munse001,12,BFFS,K
 play,4,1,lanej001,21,BBCX,S8/L.2-H;1-3
 play,4,1,evera001,11,FBX,53/G
-com,"$Springer to Bonds: first pitch skipped behind Bonds to the backstop;"
-com,"West warned Astros which was argued by Garner and Springer; second"
-com,"pitch nearly hit Bonds on knee; third pitch was inside fastball that"
-com,"knicked bat; fourth pitch was fastball way inside"
 play,5,0,bondb001,31,BBFBH,HP
 play,5,0,felip001,00,,NP
 sub,gallm002,"Mike Gallo",1,9,1
-com,"ej,sprir001,P,westj901,Intentional HBP"
-com,"ej,garnp001,M,westj901,Intentional HBP"
-com,"Astros pitcher Russ Springer & Mgr Phil Garner ejected by HP umpire Joe West"
 play,5,0,felip001,00,...X,8/F
 play,5,0,finls001,20,BBX,8/F
 play,5,0,mathm001,12,FSFBX,S7/L.1-2
@@ -4829,12 +4808,6 @@ play,4,0,pierj002,31,BCBBB,W
 play,4,0,womat001,10,1B>C,SB2
 play,4,0,womat001,11,1B>C.X,7/F
 play,4,0,barrm003,12,CBSX,8/F
-com,"umpchange,4,umphome,cedeg901"
-com,"umpchange,4,ump1b,reynj901"
-com,"umpchange,4,ump2b,(None)"
-com,"$HP umpire Kerwin Danley left the game after being hit on the"
-com,"collarbone in the second inning; Gary Cederstrom moved to the"
-com,"plate and Jim Reynolds moved from second to first"
 play,4,1,biggc001,22,SBFFBX,13/G
 play,4,1,burkc001,22,FSFBFBFX,7/L
 play,4,1,berkl001,00,X,6/P
@@ -5126,7 +5099,6 @@ play,3,1,sampc001,10,BX,34/SH/BG.1-2
 play,3,1,biggc001,02,CFS,K
 play,3,1,burkc001,00,,NP
 sub,tavew001,"Willy Taveras",1,2,11
-com,"Astros second baseman Chris Burke left the game due to an injured neck/shoulder"
 play,3,1,tavew001,12,BS.CX,53/G
 play,4,0,pierj002,00,,NP
 sub,tavew001,"Willy Taveras",1,2,8
@@ -5483,7 +5455,6 @@ play,9,0,jonec004,00,,NP
 sub,berkl001,"Lance Berkman",1,3,3
 play,9,0,jonec004,00,,NP
 sub,brune001,"Eric Bruntlett",1,4,9
-com,"Astros third baseman Morgan Ensberg left the game due to an injured neck/shoulder"
 play,9,0,jonec004,12,......FFBS,K
 play,9,0,jonea002,00,X,8/F
 play,9,0,laroa001,10,BX,D8/F
@@ -5691,7 +5662,6 @@ play,2,1,burkc001,10,BH,HP
 play,2,1,berkl001,00,X,S9/L.3-H;1-H(E9/TH)(NR)(UR);B-2
 play,2,1,wilsp002,00,,NP
 sub,villo001,"Oscar Villarreal",0,9,1
-com,"Braves pitcher Horacio Ramirez left the game due to an injured head"
 play,2,1,wilsp002,31,.BBBC*B,W
 play,2,1,lanej001,11,C*BX,3/P
 play,3,0,rente001,32,BBBCFC,K
@@ -5718,7 +5688,6 @@ play,4,1,wilsp002,32,CBSFBFBFS,K
 play,4,1,lanej001,22,CBBCS,K
 play,5,0,rente001,00,,NP
 sub,tavew001,"Willy Taveras",1,3,8
-com,"Astros second baseman Chris Burke left the game due to an injured elbow"
 play,5,0,rente001,10,.BX,HR/78/F
 play,5,0,jonec004,22,BCBFS,K
 play,5,0,jonea002,12,.SBFX,63/G
@@ -5854,7 +5823,6 @@ start,rodrw002,"Wandy Rodriguez",1,9,1
 play,1,0,dejed001,22,BCCFFBX,S3/G
 play,1,0,grudm001,11,BC11X,9/F
 play,1,0,sandr002,00,X,DGR/9/F.1-3
-com,"fan interference"
 play,1,0,browe001,10,BX,53/G.3-H;2-3
 play,1,0,graft001,22,BFBFC,K
 play,1,1,biggc001,32,BFFBBX,7/F
@@ -7241,7 +7209,6 @@ play,2,1,evera001,32,BCB.BCX,8/F
 play,3,0,moliy001,00,H,HP
 play,3,0,milea001,02,CC,NP
 sub,benng001,"Gary Bennett",0,7,12
-com,"Molina hit on back of head by curve ball; had to leave game"
 play,3,0,milea001,02,CC.FFX,64(1)/FO/G
 play,3,0,ponss001,22,B1C>FB1L,K/BF
 play,3,0,ecksd001,12,FB1CB,PB.1-2
@@ -7822,8 +7789,6 @@ play,11,1,munse001,12,BFFX,31/G
 play,11,1,qualc001,00,,NP
 sub,oswar001,"Roy Oswalt",1,9,11
 play,11,1,oswar001,22,.CSBFBX,13
-com,"Oswalt doubled as a pinch hitter but missed first base -"
-com,"out on appeal"
 play,12,0,ecksd001,00,,NP
 sub,lidgb001,"Brad Lidge",1,9,1
 play,12,0,ecksd001,11,.FBH,HP
@@ -7911,7 +7876,6 @@ play,2,0,laruj001,00,X,9/F
 play,2,0,haraa001,11,FBX,13/G.2-3
 play,2,0,freer001,31,BBCBB,W
 play,2,0,dunna001,10,B>C,CSH(25)
-com,"$Great fake throw to second, then Clayton in rundown"
 play,2,1,wilsp002,01,CX,53/G
 play,2,1,scotl001,11,CBX,6/P5F
 play,2,1,ausmb001,22,BFBFX,53/G
@@ -8436,7 +8400,6 @@ sub,lanej001,"Jason Lane",1,9,11
 play,6,1,lanej001,00,.X,S4/G
 play,6,1,tavew001,01,CX,S9/G.1-2
 play,6,1,biggc001,11,BCX,36(1)1/DP
-com,"DP awarded on runner interference, not GDP"
 play,7,0,grees001,00,,NP
 sub,qualc001,"Chad Qualls",1,9,1
 play,7,0,grees001,11,.CBX,63/G
@@ -8725,9 +8688,6 @@ play,4,1,evera001,11,BCX,S5/BG
 play,4,1,ausmb001,10,1B>B,SB2
 play,4,1,ausmb001,21,1B>B.FX,31/G.2-3
 play,4,1,clemr001,01,CN,BK.3-H
-com,"Batista was set, then removed hand from glove to"
-com,"signal catcher to repeat signs. Since he did not"
-com,"step off rubber, balk"
 play,4,1,clemr001,01,CN.X,63/G
 play,4,1,tavew001,02,CLX,4/P
 play,5,0,hudso001,00,X,8/F
@@ -9071,7 +9031,6 @@ play,6,1,oswar001,00,,NP
 sub,martd004,"Damaso Marte",0,4,1
 play,6,1,oswar001,00,,NP
 sub,lanej001,"Jason Lane",1,9,11
-com,"Pirates pitcher Josh Sharpless left the game due to an injured foot/ankle"
 play,6,1,lanej001,12,..CBCFF.X,HR/7/F.1-H
 play,6,1,tavew001,00,X,3/L
 play,6,1,burkc001,00,X,8/F
@@ -9668,7 +9627,6 @@ play,4,0,willw001,11,BCX,63/G.3-H;2-3
 play,4,0,robed001,12,SBFFFX,5/P5F
 play,4,1,scotl001,00,,NP
 sub,blumg001,"Geoff Blum",0,7,6
-com,"Padres shortstop Khalil Greene left the game due to an injured hand/wrist"
 play,4,1,scotl001,20,.BBX,S8/L
 play,4,1,burkc001,11,BCX,43/G.1-2
 play,4,1,munse001,00,X,3/G.2-3
@@ -9862,7 +9820,6 @@ play,7,1,biggc001,00,X,53/G
 play,7,1,berkl001,31,BBCBX,43/G
 play,8,0,peren001,00,,NP
 sub,qualc001,"Chad Qualls",1,9,1
-com,"Astros pitcher Roy Oswalt left the game due to an injured hand/wrist"
 play,8,0,peren001,12,.BS.FX,S9/L
 play,8,0,barrm003,00,1X,5!3/G.1-2
 play,8,0,ramia001,10,BX,9/F
@@ -10043,7 +10000,6 @@ play,8,1,huffa001,11,FBB,WP.1-2
 play,8,1,huffa001,32,FBB.BSX,S3/G.2-3
 play,8,1,evera001,00,,NP
 sub,howrb001,"Bob Howry",0,3,1
-com,"Cubs pitcher Scott Eyre left the game due to an injured leg"
 play,8,1,evera001,01,.TM,CSH(251).1-2
 play,8,1,evera001,12,.TM.BFX,8/F
 play,9,0,murtm001,00,,NP
@@ -10414,7 +10370,6 @@ play,7,0,hallb001,21,BCBX,D7/F
 play,7,0,grosg002,22,TBBFFX,D9/G.2-H
 play,7,0,hartc001,00,,NP
 sub,menck001,"Kevin Mench",0,5,12
-com,"Brewers left fielder Gabe Gross left the game due to an injured leg"
 play,7,0,hartc001,00,.X,D9/F.2-H
 play,7,0,belld002,22,BFFF*BFX,63/G.2-3
 play,7,0,rivem003,12,SFBX,7/SF.3-H
@@ -10649,16 +10604,8 @@ start,evera001,"Adam Everett",1,7,6
 start,ausmb001,"Brad Ausmus",1,8,2
 start,petta001,"Andy Pettitte",1,9,1
 play,1,0,clarb003,22,BCBCX,63/G
-com,"$Clark was clearly out but yelled at 1B umpire Timmons; 1B coach"
-com,"Dave Nelson restrained Clark and Mgr Ned Yost came out to argue;"
-com,"the Brewers said that Timmons stared at Clark and then called"
-com,"him out aggressively"
 play,1,0,graft001,00,X,9/F
 play,1,0,cirij001,22,BSFBX,43/G
-com,"ej,cirij001,P,timmt901,Call at 1B"
-com,"ej,yoste001,M,timmt901,Call at 1B"
-com,"Brewers Jeff Cirillo & Mgr Ned Yost ejected by 1B umpire Tim Timmons"
-com,"for arguing a very close play at 1B"
 play,1,1,tavew001,00,,NP
 sub,fielp001,"Prince Fielder",0,3,3
 play,1,1,tavew001,32,...BFBFBB,W
@@ -10976,7 +10923,6 @@ play,2,1,scotl001,21,BBFX,43/G
 play,3,0,valej003,22,CFBBX,S8/L
 play,3,0,herna003,12,FC1FFBX,7/F
 play,3,0,mainj001,00,X,34/BG/INT.1-1
-com,"Maine out on batter interference"
 play,3,0,chave002,10,B>B,SB2
 play,3,0,chave002,22,B>B.SSFFS,K
 play,3,1,evera001,02,FCFC,K
@@ -11055,7 +11001,6 @@ play,9,1,huffa001,00,,NP
 sub,grees001,"Shawn Green",0,3,9
 play,9,1,huffa001,00,,NP
 sub,burkc001,"Chris Burke",1,5,11
-com,"Mets center fielder Carlos Beltran left the game due to an injured knee"
 play,9,1,burkc001,02,....C>FC,K
 data,er,mainj001,2
 data,er,felip002,0
@@ -11132,8 +11077,6 @@ play,3,0,difem001,22,BSF*BFS,K
 play,3,0,herno001,12,BFSFFS,K23
 play,3,1,biggc001,31,BBCBB,W
 play,3,1,lambm001,11,CBX,3/G.1-1
-com,"$grounder to first, Biggio evaded rundown, returned to"
-com,"first"
 play,3,1,berkl001,12,SBCS,K
 play,3,1,huffa001,00,>X,8/F
 play,4,0,reyej001,22,BFFFBX,3/G
@@ -11460,10 +11403,6 @@ play,5,1,hirsj001,22,CBCFBFC,K
 play,6,0,victs001,00,X,13/BG
 play,6,0,utlec001,11,CBX,9/F
 play,6,0,howar001,30,BBBX,DGR/7/F
-com,"fan interference; the ball was touched by a fan and should"
-com,"have been ruled a homer but was not; umpire Poncino issued"
-com,"a statement after the game saying that the ball was indeed"
-com,"over the wall when touched"
 play,6,0,burrp001,02,CCX,8/F
 play,6,1,tavew001,00,X,3/BG
 play,6,1,biggc001,20,BBX,9/F
@@ -11832,7 +11771,6 @@ play,7,0,olmer001,10,.BX,HR/9/F
 play,7,0,freer001,12,FCBX,S9/L
 play,7,0,philb001,00,,NP
 sub,qualc001,"Chad Qualls",1,9,1
-com,"Astros pitcher Roy Oswalt left the game due to an injured neck/shoulder"
 play,7,0,philb001,02,C..SB,CS2(24)
 play,7,1,biggc001,00,,NP
 sub,cormr001,"Rheal Cormier",0,9,1
@@ -11928,7 +11866,6 @@ play,1,1,berkl001,00,X,S7/F-
 play,1,1,scotl001,32,*BBSFB>X,T8/F.1-H
 play,1,1,huffa001,00,,NP
 sub,olmer001,"Ray Olmedo",0,2,4
-com,"Reds second baseman Brandon Phillips left the game due to an injured head"
 play,1,1,huffa001,22,..BBCSX,6/P
 play,2,0,aurir001,12,BCFX,13/G
 play,2,0,hatts001,30,BBBB,W
@@ -12112,8 +12049,6 @@ play,4,1,huffa001,00,,NP
 sub,hoppn001,"Norris Hopper",0,1,8
 play,4,1,huffa001,00,,NP
 sub,hollt001,"Todd Hollandsworth",0,8,9
-com,"Reds right fielder Chris Denorfia left the game due to an injured foot/ankle"
-com,"Reds left fielder Ryan Freel left the game due to an injured hand/wrist"
 play,4,1,huffa001,10,..BX,43/G
 play,4,1,burkc001,01,CX,5/P
 play,4,1,evera001,21,CBBX,7/F
@@ -12779,7 +12714,6 @@ play,5,0,weavj002,02,CSFS,K
 play,5,0,ecksd001,12,CBFFX,7/L
 play,5,1,biggc001,00,,NP
 sub,vizcj001,"Jose Vizcaino",0,1,6
-com,"Cardinals shortstop David Eckstein left the game due to an injured leg"
 play,5,1,biggc001,01,.CX,9/F
 play,5,1,lambm001,10,BX,T8/F
 play,5,1,berkl001,10,BX,7/SF.3-H

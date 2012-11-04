@@ -269,7 +269,6 @@ play,6,1,valbl001,22,.CTFBF*BB,WP.2-3
 play,6,1,valbl001,32,.CTFBF*BB.B,W.1-2
 play,6,1,marsl001,22,BBCSX,9/F
 play,6,1,branm003,22,CCBFFBX,DGR/9.3-H;2-H;1-3
-com,"fan interference"
 play,6,1,cabra002,01,FX,43/G
 play,7,0,borbj001,00,,NP
 sub,laffa001,"Aaron Laffey",1,0,1
@@ -617,8 +616,6 @@ play,1,0,quenc001,00,X,4/LDP.2X2(4)
 play,1,1,cabra002,00,X,3/BG
 play,1,1,sizeg001,31,BBCBX,T7/F
 play,1,1,choos001,12,CSFFBX,13.3-H
-com,"$Shin-Soo Choo hit a run-scoring double on a liner to RF; the White Sox"
-com,"appealed at 1B and umpire Dan Bellino called Choo out for missing the bag"
 play,1,1,hafnt001,12,BFSS,K
 play,2,0,konep001,30,BBBB,W
 play,2,0,jonea002,12,BCCFFX,64(1)3/GDP
@@ -983,7 +980,6 @@ play,7,1,hafnt001,32,SFBFBB>X,9/F
 play,8,0,yound003,00,,NP
 sub,ambrh001,"Hector Ambriz",1,0,1
 play,8,0,yound003,10,.BX,8!/F
-com,"Debut game for Hector Ambriz"
 play,8,0,hardj003,22,BCFFBX,53/G
 play,8,0,harrb001,10,BX,S9/G
 play,8,0,spand001,00,X,43/G
@@ -1253,7 +1249,6 @@ play,1,1,peraj001,32,>B.BSS1B1N.B,W
 play,1,1,grudm001,00,X,64(1)3/GDP
 play,2,0,hardj003,31,BCBBX,3/P3F
 play,2,0,ramow001,01,CX,S7/G
-com,"Debut game for Wilson Ramos"
 play,2,0,puntn001,22,BFBCX,7/F
 play,2,0,spand001,02,CSX,64(1)/FO/G
 play,2,1,marta004,22,BBCFC,K
@@ -1760,7 +1755,6 @@ sub,camps002,"Shawn Camp",0,0,1
 play,6,1,grudm001,10,.BX,46(1)3/GDP
 play,7,0,snidt001,00,,NP
 sub,marsl001,"Lou Marson",1,9,2
-com,"Indians catcher Mike Redmond left the game due to an injured hip"
 play,7,0,snidt001,01,.FX,9!/F
 play,7,0,molij001,32,FBBBFB,W
 play,7,0,lewif001,00,,NP
@@ -2703,7 +2697,6 @@ play,7,0,brucj001,00,X,S8/L.3-H;1-3
 play,7,0,gomej001,00,X,14(1)3/GDP
 play,7,1,grudm001,00,,NP
 sub,owinm001,"Micah Owings",0,0,1
-com,"Reds pitcher Johnny Cueto left with a blister on his right index finger"
 play,7,1,grudm001,21,.BCBX,4/P
 play,7,1,redmm001,32,CBBFBX,2/P2F
 play,7,1,donaj002,01,CX,53/G
@@ -2826,7 +2819,6 @@ play,3,1,choos001,21,SBBX,T7/F
 play,3,1,hafnt001,02,CFFX,7/F
 play,3,1,peraj001,00,,NP
 sub,owinm001,"Micah Owings",0,0,1
-com,"Reds pitcher Homer Bailey left the game due to an injured shoulder"
 play,3,1,peraj001,32,.BBFSBFF*B,W
 play,3,1,branr001,01,SX,8/SF/F.3-H
 play,3,1,duncs001,32,S1FBBFB>B,W.1-2
@@ -3163,7 +3155,6 @@ play,6,1,valbl001,02,FFX,9/SF/F9LF.3-H;2-3
 play,6,1,marsl001,22,BFBFFFX,7/SF/F.3-H
 play,6,1,donaj002,02,CFFX,43/G
 play,7,0,ramia003,22,BCFFBX,DGR/9/F
-com,"fan interference"
 play,7,0,riosa002,12,CCBX,4/P
 play,7,0,jonea002,00,X,D8/L.2-H
 play,7,0,kotsm001,00,X,D9/G.2-H;BX3(945)
@@ -3257,12 +3248,6 @@ play,2,1,branr001,20,BBX,7/F
 play,2,1,peraj001,10,BX,53/G
 play,2,1,lapom001,21,CBBX,S7/G
 play,2,1,valbl001,12,FSBN,BK.1-2
-com,"ej,guilo001,M,westj901,Balk call on Mark Buehrle"
-com,"$1B umpire Joe West called the balk on White Sox pitcher Mark Buehrle, who"
-com,"yelled to West about the call; West yelled back and White Sox manager Ozzie"
-com,"Guillen came out to talk with West; West motioned to Guillen to return to"
-com,"the dugout; Guillen wanted to know why West was disrespecting his pitcher;"
-com,"when Guillen did not return to the dugout, he was ejected by West"
 play,2,1,valbl001,12,FSBN..X,13/G
 play,3,0,teahm001,12,CSBX,7/F
 play,3,0,ramia003,20,BBX,S1/BG
@@ -3270,11 +3255,6 @@ play,3,0,beckg001,00,X,43(B)6(1)/GDP
 play,3,1,marsl001,12,BFFC,K
 play,3,1,donaj002,01,CX,S6/G
 play,3,1,crowt001,01,11CN,BK.1-2
-com,"ej,buehm001,P,westj901,Balk call (second time in two innings)"
-com,"$1B umpire Joe West called the second balk on Mark Buehrle, who threw his"
-com,"glove to the ground and was ejected by West; when Buehrle tried to walk to"
-com,"West, White Sox coaches and players and umpire Angel Hernandez moved him"
-com,"towards the dugout"
 play,3,1,crowt001,00,,NP
 sub,willr003,"Randy Williams",0,0,1
 play,3,1,crowt001,21,11CN...BBX,S16/G+.2-3
@@ -3548,14 +3528,11 @@ start,valbl001,"Luis Valbuena",1,7,4
 start,marsl001,"Lou Marson",1,8,2
 start,donaj002,"Jason Donald",1,9,6
 start,huffd001,"David Huff",1,0,1
-com,"$pitcher Tim Wakefield reached 2777 innings pitched for the Red Sox in this"
-com,"game to set a new team record"
 play,1,0,scutm001,21,CBBX,8!/L
 play,1,0,pedrd001,32,CBTBFBFB,W
 play,1,0,martv001,01,FX,64(1)3/GDP
 play,1,1,crowt001,22,BCBSX,3/P
 play,1,1,choos001,12,CSBX,T9/L
-com,"$CF Mike Cameron missed a shoe-string catch"
 play,1,1,keara001,32,BBBCCS,K
 play,1,1,peraj001,02,CSX,E5/G.3-H(UR)(NR);B-1
 play,1,1,branr001,12,FBF1X,43/G
@@ -3574,12 +3551,7 @@ play,3,1,choos001,22,CBBCX,8/F
 play,4,0,scutm001,12,BCCC,K
 play,4,0,pedrd001,02,CSFX,63/G
 play,4,0,martv001,11,BCX,E8/F.B-2
-com,"$CF Trevor Crowe missed an easy catch on the warning track"
 play,4,0,youkk001,01,CX,D7/F.2-H(UR)
-com,"$Kevin Youkilis' fly ball hit the top of the out-of-town scoreboard, bounced"
-com,"straight up and returned to the field; Red Sox manager Terry Francona asked"
-com,"about the call, so acting crew chief Mike Everitt watched the replay and"
-com,"upheld the call"
 play,4,0,ortid001,32,BCBBFX,S4/L.2-H(UR)
 play,4,0,belta001,00,X,S7/G.1-2
 play,4,0,hallb001,12,CBFFX,D7/L.2-H(UR);1-3
@@ -3611,7 +3583,6 @@ play,7,0,pedrd001,32,BFSFFBBFX,43/G
 play,7,1,peraj001,12,BCFS,K
 play,7,1,branr001,20,BBX,6/P89S
 play,7,1,duncs001,11,CBX,HR/F7L
-com,"$off the LF pole"
 play,7,1,valbl001,11,CBX,3/G
 play,8,0,martv001,10,BX,3/G
 play,8,0,youkk001,22,CBSBX,S7/G
@@ -3915,7 +3886,6 @@ play,7,1,crowt001,00,,NP
 sub,lowem001,"Mike Lowell",0,4,3
 play,7,1,crowt001,00,,NP
 sub,delcm001,"Manny Delcarmen",0,0,1
-com,"Red Sox first baseman Kevin Youkilis left the game due to an injured back"
 play,7,1,crowt001,12,..BCCS,K
 play,7,1,choos001,21,BCBX,S7/L
 play,7,1,keara001,31,TBBBB,W.1-2
@@ -4017,7 +3987,6 @@ play,1,0,willj004,12,FSBS,K
 play,1,1,crowt001,11,BCX,13/G-
 play,1,1,choos001,12,BCSFX,S8/G
 play,1,1,santc002,01,CX,46(1)/FO/G
-com,"Debut game for Carlos Santana"
 play,1,1,branr001,11,SBX,E4/G.1-2
 play,1,1,keara001,12,CC*BB,WP.2-3;1-2
 play,1,1,keara001,32,CC*BB.BX,HR/78/F.3-H(UR);2-H(UR);B-H(UR)
@@ -4159,7 +4128,6 @@ play,2,0,willj004,31,BBBCX,6/P
 play,2,0,harrw001,22,FBSBX,43/G
 play,2,1,branr001,11,FBX,S9/F
 play,2,1,peraj001,12,FBCX,DGR/7.1-3
-com,"fan interference"
 play,2,1,valbl001,01,CX,8/SF/F.3-H
 play,2,1,donaj002,11,BCX,S9/L.2-3
 play,2,1,crowt001,12,F1B>FFX,6/P
@@ -4641,7 +4609,6 @@ play,6,0,wrigd002,01,.F>B,SB2
 play,6,0,wrigd002,12,.F>B.CS,K
 play,6,1,hafnt001,00,,NP
 sub,felij002,"Jesus Feliciano",0,5,7
-com,"Mets left fielder Jason Bay left the game due to an injured leg"
 play,6,1,hafnt001,22,.BBCSS,K
 play,6,1,keara001,00,X,43/G
 play,6,1,peraj001,12,CBFX,S8/L
@@ -5235,7 +5202,6 @@ sub,linda001,"Adam Lind",0,9,3
 play,7,1,keara001,00,,NP
 sub,camps002,"Shawn Camp",0,0,1
 play,7,1,keara001,32,...FBBBSFX,S5/G
-com,"originally scored as E5, changed to hit next day"
 play,7,1,peraj001,12,CBFX,6(1)3/GDP
 play,7,1,lapom001,21,BBCX,HR/8/F
 play,7,1,herna003,12,CBCS,K
@@ -5501,9 +5467,6 @@ play,6,1,peraj001,11,BCX,S7/F-
 play,6,1,lapom001,10,BX,S8/L.1-2
 play,6,1,nix-j001,21,BTBX,S7/L+.2-3;1-2
 play,6,1,redmm001,11,CBX,93/L
-com,"$Mike Redmond hit a line drive to RF that scored Jhonny Peralta from 3B;"
-com,"the other two runners moved up one base; however, Athletics RF Ryan Sweeney"
-com,"grabbed the one-hopper and threw out Redmond at 1B, thus negating the run"
 play,7,0,bartd001,00,,NP
 sub,ambrh001,"Hector Ambriz",1,0,1
 play,7,0,bartd001,21,.CBBX,43/G
@@ -5779,7 +5742,6 @@ play,2,0,rosaa001,00,X,6/P
 play,2,0,powel001,32,BBFBFS,K
 play,2,1,keara001,00,,NP
 sub,davir003,"Rajai Davis",0,1,8
-com,"Athletics center fielder Coco Crisp left the game due to an injured leg"
 play,2,1,keara001,31,.CBBBX,63/G
 play,2,1,peraj001,22,FBFBX,S8/G
 play,2,1,lapom001,22,C1BBFS,K
@@ -6366,7 +6328,6 @@ start,marta004,"Andy Marte",1,8,3
 start,donaj002,"Jason Donald",1,9,6
 start,gomej002,"Jeanmar Gomez",1,0,1
 play,1,0,kelld001,11,BCX,7/L
-com,"Debut game for Jeanmar Gomez"
 play,1,0,damoj001,32,CFBFBBB,W
 play,1,0,ordom001,22,CF*BBX,54(1)3/GDP
 play,1,1,branm003,32,BBCBCX,8/F
@@ -6374,10 +6335,6 @@ play,1,1,nix-j001,10,BX,D7/F
 play,1,1,santc002,31,BBCBB,W
 play,1,1,keara001,22,CBBFC,K
 play,1,1,peraj001,10,BX,HR7/F89/IPHR.2-H;1-H
-com,"$Tigers center fielder Ryan Raburn attempted to catch Jhonny Peralta's"
-com,"fly by leaping at the fence; Raburn hit the bullpen gate, which opened"
-com,"and Raburn fell to the ground; the ball rolled towards center field"
-com,"where it was retrieved by left fielder Brennan Boesch"
 play,1,1,lapom001,11,BCX,63/G
 play,2,0,cabrm001,00,X,53/G
 play,2,0,boesb001,22,BCBFS,K
@@ -6450,7 +6407,6 @@ sub,valvj001,"Jose Valverde",0,0,1
 play,8,1,marta004,10,..BX,53/G
 play,8,1,donaj002,22,SCBFBFX,43/G
 play,8,1,branm003,21,CBBX,DGR/9
-com,"fan interference"
 play,8,1,nix-j001,12,CBFX,S8/L.2-H
 play,8,1,santc002,00,,NP
 sub,gonze002,"Enrique Gonzalez",0,0,1
@@ -6575,7 +6531,6 @@ sub,aybaw001,"Willy Aybar",0,5,11
 play,7,0,aybaw001,22,.BCC*BF>FS,K
 play,7,0,jasoj001,32,1*BBCCB>X,8/L
 play,7,1,cabra002,11,.FBX,S52/BG
-com,"$Game called for rain"
 data,er,niemj001,2
 data,er,wheed001,1
 data,er,choar001,0
@@ -6664,12 +6619,6 @@ play,5,0,uptob001,32,CCFFBBBFX,9!/F
 play,5,0,shopk001,00,X,S7/G
 play,5,0,bartj001,01,FX,S9/G.1-2
 play,5,0,zobrb001,10,BX,HR/78/F.2-H;1-H;B-H
-com,"$the fly ball by Ben Zobrist hit the railing above the yellow stripe in"
-com,"left center and bounded back onto the field; it was ruled in play but"
-com,"initially neither Indians outfielder chased after the ball, since it"
-com,"had hit over the fence for a home run; Rays manager Joe Maddon asked about"
-com,"the ruling so acting crew chief Mike Everitt watched the replay and"
-com,"overturned the call to a home run"
 play,5,0,crawc002,22,FSBBC,K
 play,5,1,donaj002,32,CBFBFBFX,6/P
 play,5,1,crowt001,12,CBSFX,53/G
@@ -7067,7 +7016,6 @@ start,donaj002,"Jason Donald",1,8,4
 start,gimec001,"Chris Gimenez",1,9,2
 start,tomlj001,"Josh Tomlin",1,0,1
 play,1,0,jeted001,10,BX,8/F
-com,"Debut game for Josh Tomlin"
 play,1,0,swisn001,10,BX,8/F
 play,1,0,teixm001,22,BCCBX,4/P
 play,1,1,crowt001,01,CX,9/F
@@ -7390,7 +7338,6 @@ play,2,1,valbl001,00,X,46(1)3/GDP
 play,3,0,curtc002,12,CBFX,S8/G+
 play,3,0,jeted001,20,BB,NP
 sub,perer002,"Rafael Perez",1,0,1
-com,"Indians pitcher Mitch Talbot left the game due to an injured back"
 play,3,0,jeted001,31,BB.1BCB,W.1-2
 play,3,0,granc001,11,LB+2X,53/SH/BG.2-3;1-2
 play,3,0,teixm001,30,B*B*BB,W
@@ -7656,13 +7603,6 @@ play,9,0,hardj003,02,.CCFX,S1/G-
 play,9,0,buted001,00,,NP
 sub,thomj002,"Jim Thome",0,9,11
 play,9,0,thomj002,22,.SBBF1X,D8/F.1-3
-com,"ej,gardr001,M,davig901,Objecting to replay ruling"
-com,"$Jim Thome's fly hit the yellow stripe at the top of the left center"
-com,"field wall and caromed back onto the field; the Twins thought it was"
-com,"a home run; crew chief Gerry Davis watched the replay and upheld the"
-com,"call after the crew huddled; Twins manager Ron Gardenhire came on the"
-com,"field after the review and argued violently the about the ruling;"
-com,"Gardenhire was ejected by Davis"
 play,9,0,spand001,00,,NP
 sub,plout001,"Trevor Plouffe",0,9,12
 play,9,0,spand001,02,.FCS,K
@@ -9676,7 +9616,6 @@ play,5,0,blang001,00,,NP
 sub,marta004,"Andy Marte",1,7,3
 play,5,0,blang001,00,,NP
 sub,valbl001,"Luis Valbuena",1,9,5
-com,"Indians first baseman Matt LaPorta left the game due to an injured hip"
 play,5,0,blang001,32,...CBSBBB,W
 play,5,0,avilm001,01,CX,8/F
 play,5,0,kaaik001,10,1BX,9/F
@@ -9869,7 +9808,6 @@ sub,herrf001,"Frank Herrmann",1,0,1
 play,7,0,beckg001,11,.BCH,HP
 play,7,0,pierj002,00,,NP
 sub,lillb001,"Brent Lillibridge",0,9,12
-com,"White Sox second baseman Gordon Beckham left the game due to an injured hand"
 play,7,0,pierj002,01,.FX,46(1)/FO/G
 play,7,1,choos001,00,,NP
 sub,lillb001,"Brent Lillibridge",0,9,4
@@ -9879,8 +9817,6 @@ play,7,1,choos001,22,..CBFBC,K
 play,7,1,duncs001,22,BCTBS,K
 play,7,1,hafnt001,32,FBCBFBX,S8/G+
 play,7,1,nix-j001,22,CBFBC,K
-com,"ej,nix-j001,P,welkb901,Called third strike"
-com,"Indians third baseman Jayson Nix ejected by HP umpire Bill Welke"
 play,8,0,vizqo001,00,,NP
 sub,valbl001,"Luis Valbuena",1,6,5
 play,8,0,vizqo001,10,..BX,63/G
@@ -10195,7 +10131,6 @@ play,5,0,castr002,12,BC11TT,K
 play,5,0,ramia003,00,X,8/F
 play,5,1,gimec001,00,,NP
 sub,penat003,"Tony Pena",0,0,1
-com,"White Sox pitcher Freddy Garcia left the game due to an injured back"
 play,5,1,gimec001,12,.BFSX,D7/L
 play,5,1,branm003,00,X,S1/BG.2-3
 play,5,1,cabra002,32,FBFBBFX,46(1)3/GDP.3-H(NR)
@@ -10425,9 +10360,6 @@ start,donaj002,"Jason Donald",1,7,4
 start,valbl001,"Luis Valbuena",1,8,5
 start,marsl001,"Lou Marson",1,9,2
 start,carrc003,"Carlos Carrasco",1,0,1
-com,"$1:53 rain delay before start of game; umpire Angel Campos, scheduled to"
-com,"work behind the plate, became ill during the delay and was taken to the"
-com,"hospital where he had an emergency appendectomy"
 play,1,0,spand001,22,CBSBC,K
 play,1,0,hudso001,10,BX,7/F
 play,1,0,mauej001,02,CFFX,31/G
@@ -10480,18 +10412,12 @@ play,7,0,valed001,12,B>S.CX,43/G
 play,7,1,hafnt001,10,BX,S8/G+
 play,7,1,lapom001,00,X,7/F
 play,7,1,crowt001,00,>X,S9/L.1-3
-com,"$Trevor Crowe's bat broke and the barrel struck catcher Joe Mauer on the mask"
 play,7,1,donaj002,00,1X,2/BG.3-3;1-1
-com,"$the pitch hit Jason Donald's finger as he bunted the ball and then the ball"
-com,"bounced up and hit him in fair territory; he was called for interference and"
-com,"both runners sent back to their bases; Travis Hafner had scored what appeared"
-com,"to be the first run of the game"
 play,7,1,valbl001,12,BFCX,4/P
 play,8,0,hardj003,00,,NP
 sub,marta004,"Andy Marte",1,7,5
 play,8,0,hardj003,00,,NP
 sub,valbl001,"Luis Valbuena",1,8,4
-com,"Indians shortstop Jason Donald left the game due to an injured hand"
 play,8,0,hardj003,12,..BCSFS,K
 play,8,0,spand001,30,BBBB,W
 play,8,0,hudso001,00,,NP
@@ -10550,7 +10476,6 @@ play,12,0,cuddm001,00,,NP
 sub,germj001,"Justin Germano",1,0,1
 play,12,0,cuddm001,01,..CX,4/P
 play,12,0,thomj002,20,BBX,HR/8/F
-com,"$Thome's 587th homer to pass Frank Robinson and move into eighth place"
 play,12,0,yound003,10,BX,53/G
 play,12,0,valed001,02,CCS,K
 play,12,1,valbl001,00,,NP
@@ -10625,7 +10550,6 @@ play,1,0,hudso001,21,C>B.BX,S4/G+.2-3
 play,1,0,mauej001,31,BBFBX,S7/L.3-H;1-2
 play,1,0,kubej002,00,,NP
 sub,mastj001,"Justin Masterson",1,0,1
-com,"Indians pitcher Mitch Talbot left the game due to an injured shoulder"
 play,1,0,kubej002,00,.X,7/F
 play,1,0,cuddm001,21,BBCX,S7/G.2-3;1-2
 play,1,0,thomj002,00,X,E4/FO/G.3-H;2-3;1-2
@@ -11156,10 +11080,6 @@ play,10,1,hafnt001,30,IIII,IW.1-2
 play,10,1,browj006,00,,NP
 sub,kendh001,"Howard Kendrick",0,1,8
 play,10,1,browj006,01,.CX,32(3)4(B)/GDP
-com,"$five man infield with Kendrick listed as the centerfielder but playing near"
-com,"second base; second baseman Kevin Frandsen covered first to complete DP, pulling"
-com,"in the high throw from catcher Jeff Mathis; this was Kendrick's first 'appearance'"
-com,"as an outfielder"
 play,11,0,abreb001,00,,NP
 sub,perer002,"Rafael Perez",1,0,1
 play,11,0,abreb001,10,.BX,S6/G-
@@ -11324,7 +11244,6 @@ play,8,1,nix-j001,12,SBFFS,K
 play,9,0,avilm001,00,,NP
 sub,pestv001,"Vinnie Pestano",1,0,1
 play,9,0,avilm001,12,.CFFFBX,13/G
-com,"Debut game for Vinnie Pestano"
 play,9,0,butlb003,22,FBBSFC,K
 play,9,0,betew001,30,BBBB,W
 play,9,0,kaaik001,02,CFX,9/F
@@ -11902,7 +11821,6 @@ play,7,0,kelld001,21,..BBCX,S8/L
 play,7,0,cabrm001,10,BX,S8/L.1-2
 play,7,0,peraj001,00,,NP
 sub,boesb001,"Brennan Boesch",0,4,12
-com,"Tigers first baseman Miguel Cabrera left the game due to an injured ankle"
 play,7,0,peraj001,02,FS+1.S,K
 play,7,0,ingeb001,10,BX,14(1)3/GDP
 play,7,1,carll001,00,,NP
@@ -12201,7 +12119,6 @@ sub,boesb001,"Brennan Boesch",0,3,9
 play,7,1,valbl001,12,.CCBX,8/F
 play,7,1,suttd002,00,,NP
 sub,cabra002,"Asdrubal Cabrera",1,8,11
-com,"Indians second baseman Drew Sutton left the game due to an injured knee"
 play,7,1,cabra002,11,.FBX,S8/L
 play,7,1,marsl001,02,1C1FX,S8/L.1-2
 play,7,1,branm003,00,B,WP.2-3;1-2

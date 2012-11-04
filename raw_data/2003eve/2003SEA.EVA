@@ -60,7 +60,6 @@ play,2,0,gil-b001,22,SBSBS,K
 play,2,0,molib001,21,BBCX,53/G
 play,2,1,camem001,00,,NP
 sub,spies001,"Scott Spiezio",0,5,5
-com,"Glaus left with injured leg"
 play,2,1,camem001,22,..BBFCS,K
 play,2,1,cirij001,20,BBX,53/G
 play,2,1,guilc001,22,BFBFX,4!/L
@@ -1426,7 +1425,6 @@ play,5,1,camem001,32,.CBBBFX,S5/G-.3-3;2-2
 play,5,1,guilc001,10,BX,5(2)3/GDP
 play,6,0,longt002,00,,NP
 sub,mclem001,"Mark McLemore",1,8,5
-com,"Mariners Jeff Cirillo left the game due to an injured chest"
 play,6,0,longt002,32,..BCBFBX,7/F
 play,6,0,hatts001,20,BBX,7/F7LF
 play,6,0,tejam001,22,CFFBBX,S8/L
@@ -1641,10 +1639,8 @@ play,9,0,vizqo001,00,X,2!/BP/P2F
 play,9,0,garck002,32,BSBFFBB,W.1-2
 play,9,0,burke001,00,X,S7/G.2-H;1-2
 play,9,0,lawtm002,22,CBBCX,6/P
-com,"Infield fly rule"
 play,9,0,bardj001,00,,NP
 sub,carrg001,"Giovanni Carrara",1,0,1
-com,"Mariners Kazuhiro Sasaki left the game due to an injured back"
 play,9,0,bardj001,31,..BBBCB,W.2-3;1-2
 play,9,0,blakc001,00,,NP
 sub,selbb001,"Bill Selby",0,7,11
@@ -2459,7 +2455,6 @@ play,5,0,tramb001,00,X,E1/G.1-2
 play,5,0,almoe001,32,CSBBBX,S7/G.2-H;1-2
 play,5,0,soria001,22,BBCFX,S8/G.2-H(UR);1-2
 play,5,0,zeilt001,22,CBCFBFFFX,2/P
-com,"Infield fly rule"
 play,5,0,giamj001,22,CBSBFFX,9/F
 play,5,0,willb002,31,BFBBB,W.2-3;1-2
 play,5,0,matsh001,32,BCCFB*BX,63/G
@@ -3645,8 +3640,6 @@ play,3,1,guilc001,22,*BB1C1C.X,S1/G-.2-3
 play,3,1,boonb002,10,BX,8/SF.3-H
 play,3,1,marte001,32,CBBBFX,63/G
 play,4,0,tuckm001,12,CFBC,K
-com,"ej,tuckm001,P,hudsm901,Called third strike"
-com,"Royals Michael Tucker ejected by HP umpire Marvin Hudson"
 play,4,0,randj002,11,CBX,4/P
 play,4,0,sweem002,21,FBBX,43/G
 play,4,1,camem001,22,BBCFX,S8/L
@@ -3655,7 +3648,6 @@ play,4,1,winnr001,11,*BCX,8/F
 play,4,1,cirij001,22,11BFB1FX,6/P
 play,5,0,ibanr001,00,,NP
 sub,mclem001,"Mark McLemore",1,2,6
-com,"Mariners Carlos Guillen left the game due to an injured leg"
 play,5,0,ibanr001,31,..BBBFB,W
 play,5,0,beltc001,32,CBCFBB>X,S8/L.1-3
 play,5,0,relad001,01,CX,46(1)3/GDP.3-H
@@ -3781,7 +3773,6 @@ play,1,0,huntt001,11,BSX,8!/F
 play,1,1,suzui001,21,CBBX,E3/G
 play,1,1,guilc001,32,CBFBFB>B,W.1-2
 play,1,1,boonb002,02,CCFFX,4/P
-com,"Infield fly rule"
 play,1,1,marte001,02,CFX,S8/F-.2-3;1-2
 play,1,1,olerj001,10,BX,FC3.1X2(3E6);3-H(UR);2-H(NR)(UR);B-1
 play,1,1,camem001,11,CBX,D9/F.2-H(UR);1-3
@@ -3836,7 +3827,6 @@ play,6,1,guilc001,30,BBBB,W
 play,6,1,boonb002,00,X,16(1)3/GDP
 play,7,0,rival001,00,,NP
 sub,hases001,"Shigetoshi Hasegawa",1,0,1
-com,"Mariners Giovanni Carrara left the game due to an injured back"
 play,7,0,rival001,32,CBFBB..C,K
 play,7,0,jonej003,12,SBFX,D7/G
 play,7,0,guzmc001,32,BFBFBX,8/FDP.2X2(8)
@@ -3913,7 +3903,6 @@ play,1,0,jonej003,12,FFBX,4!3/G
 play,1,0,gomec001,32,BFFFBBFX,D7/G
 play,1,0,koskc001,31,CBBBB,W
 play,1,0,lecrm001,00,X,4/P
-com,"Infield Fly rule"
 play,1,0,huntt001,22,BBSSC,K
 play,1,1,suzui001,11,BFX,5/P5F
 play,1,1,guilc001,12,CFFBFX,43/G
@@ -3946,7 +3935,6 @@ play,4,1,suzui001,00,X,S7/L
 play,4,1,guilc001,00,X,7/F
 play,4,1,boonb002,11,CBX,S5/G-.1-2
 play,4,1,marte001,22,BBF>FFX,6/P
-com,"Infield Fly rule"
 play,4,1,olerj001,00,X,S8/L.2-H;1-3
 play,4,1,camem001,12,CBSS,K
 play,5,0,seart001,10,BX,7/F
@@ -4781,7 +4769,6 @@ play,5,1,suzui001,00,X,7/L
 play,5,1,guilc001,12,CFBX,3/P
 play,6,0,furcr001,00,,NP
 sub,bloow001,"Willie Bloomquist",1,2,6
-com,"Mariners Carlos Guillen left the game due to an injured leg"
 play,6,0,furcr001,02,..CFX,7/L
 play,6,0,gilem001,22,SBCFBS,K
 play,6,0,shefg001,01,CX,6/P
@@ -5308,7 +5295,6 @@ play,2,0,andeg001,12,BSFC,K
 play,2,0,fullb001,12,TBFX,S4/G
 play,2,0,spies001,32,FFBBB1>B,W.1-2
 play,2,0,davaj001,12,SSBX,5/P
-com,"Infield Fly rule"
 play,2,0,kenna001,11,BFX,7/F
 play,2,1,winnr001,01,LX,31/G
 play,2,1,mclem001,21,CBBX,8/F-
@@ -5324,7 +5310,6 @@ play,4,0,salmt001,00,,NP
 sub,cirij001,"Jeff Cirillo",1,2,5
 play,4,0,salmt001,00,,NP
 sub,mclem001,"Mark McLemore",1,8,6
-com,"Mariners Carlos Guillen left the game due to an injured elbow"
 play,4,0,salmt001,00,...X,63/G
 play,4,0,andeg001,11,CBX,D7/L
 play,4,0,fullb001,11,BCX,9/F
@@ -5902,7 +5887,6 @@ play,6,0,klesr001,31,TBBBB,W
 play,6,0,whitr001,22,CTBBS,K
 play,6,0,burrs001,22,BBCFX,S8/G.1-2
 play,6,0,mattg002,01,CX,5/P
-com,"Infield Fly rule"
 play,6,0,nadyx001,32,BCFBB>S,K
 play,6,1,camem001,01,CX,3/P3F
 play,6,1,mclem001,10,BX,S8/L
@@ -6101,7 +6085,6 @@ play,8,0,gibbj002,00,,NP
 sub,rhoda001,"Arthur Rhodes",1,0,1
 play,8,0,gibbj002,11,.BFX,S7/G.2-H;1-2
 play,8,0,batit001,32,BBSBTX,5/P
-com,"Infield Fly rule"
 play,8,0,surhb001,02,CCX,S7/G.2-3;1-2
 play,8,0,cruzd001,00,,NP
 sub,nelsj001,"Jeff Nelson",1,0,1
@@ -6270,7 +6253,6 @@ play,8,1,marte001,00,,NP
 sub,moram002,"Melvin Mora",0,2,7
 play,8,1,marte001,00,,NP
 sub,morbj001,"Jose Morban",0,3,4
-com,"Orioles B. J. Surhoff left the game due to an injured leg"
 play,8,1,marte001,22,...CSBBC,K
 play,8,1,olerj001,11,CBX,63/G
 play,8,1,camem001,22,CBBFS,K
@@ -7093,9 +7075,6 @@ sub,tayla001,"Aaron Taylor",1,0,1
 play,8,0,hernr002,02,..FSX,4!/P
 play,8,1,boonb002,00,,NP
 sub,rincr001,"Ricardo Rincon",0,0,1
-com,"ej,johnl101,C,cuzzp901,Balls and strikes"
-com,"Mariners Coach Lamar Johnson ejected by HP umpire Phil Cuzzi"
-com,"for arguing balls and strikes"
 play,8,1,boonb002,11,.CB.X,8/F
 play,8,1,marte001,32,CBFFBFBB,W
 play,8,1,olerj001,10,BX,7/L
@@ -8424,7 +8403,6 @@ sub,mclem001,"Mark McLemore",1,9,4
 play,9,0,alomr001,00,,NP
 sub,loopa001,"Aaron Looper",1,0,1
 play,9,0,alomr001,32,.....BBCFBB,W
-com,"Debut game for Aaron Looper"
 play,9,0,lee-c001,12,CFBC,K
 play,9,0,thomf001,00,,NP
 sub,daubb001,"Brian Daubach",0,3,11
@@ -8493,7 +8471,6 @@ play,1,1,boonb002,12,BCFS,K
 play,2,0,everc001,22,CFBFBFFFX,S8/L
 play,2,0,daubb001,32,CBFBFBB,W.1-2
 play,2,0,valej003,01,CX,6/P
-com,"Infield Fly rule"
 play,2,0,rowaa001,22,BCBCS,K
 play,2,0,olivm001,22,CBBFFS,K
 play,2,1,marte001,22,BCBCX,8/F
@@ -8704,7 +8681,6 @@ play,6,1,wilsd001,00,X,13/G
 play,7,0,hinse001,00,,NP
 sub,putzj001,"J.J. Putz",1,0,1
 play,7,0,hinse001,32,.BBFCBX,43/G
-com,"Debut game for J.J. Putz"
 play,7,0,wellv001,12,FFFBS,K
 play,7,0,delgc001,22,CFFBBX,43/G
 play,7,1,bloow001,30,BBBB,W
@@ -9281,7 +9257,6 @@ sub,jackd003,"Damian Jackson",0,1,8
 play,3,1,sancr001,00,.X,63/G
 play,3,1,boonb002,32,BBBCSX,HR/9/F
 play,3,1,marte001,32,CBBFBX,D7/L
-com,"Red Sox Johnny Damon left the game due to an injured leg"
 play,3,1,olerj001,02,.CCC,K
 play,3,1,winnr001,11,CBX,4/P
 play,4,0,garcn001,22,BBFSX,5!3/G
@@ -9306,7 +9281,6 @@ play,6,0,ramim002,32,CBBCB>B,W.1-2
 play,6,0,ortid001,11,BSX,D9/G.2-H;1-3
 play,6,0,varij001,32,BCBFBB,W
 play,6,0,nixot001,11,*BFX,5/P
-com,"Infield Fly rule"
 play,6,0,walkt002,10,BX,7/SF.3-H
 play,6,0,kaplg001,00,,NP
 sub,matej001,"Julio Mateo",1,0,1
@@ -9461,11 +9435,7 @@ play,6,0,kaplg001,01,CX,S8/G.2-3
 play,6,0,walkt002,22,1*BBCFX,36(1)/FO/G.3-H
 play,6,0,jackd003,00,,NP
 sub,sweeb001,"Brian Sweeney",1,0,1
-com,"ej,melvb001,M,mealj901,Call at 1B"
-com,"Mariners Manager Bob Melvin ejected by 1B umpire Jerry Meals"
-com,"for arguing that Joel Pineiro's foot was on the bag at 1B"
 play,6,0,jackd003,20,..BBX,64(1)/FO/G
-com,"Debut game for Brian Sweeney"
 play,6,1,winnr001,12,BSSX,7/L
 play,6,1,marte001,32,CBBBFB,W
 play,6,1,olerj001,20,BBX,46(1)3/GDP
@@ -9871,7 +9841,6 @@ play,5,1,boonb002,01,SX,S7/L.3-H;2-H(UR);1-2
 play,5,1,marte001,00,,NP
 sub,waecd001,"Doug Waechter",0,0,1
 play,5,1,marte001,32,.BBS*BCS,K
-com,"Debut game for Doug Waechter"
 play,5,1,olerj001,32,BBBCF>B,W.2-3;1-2
 play,5,1,camem001,12,FFBX,2/P2F
 play,6,0,lee-t002,10,BX,8/F
@@ -10735,10 +10704,6 @@ play,3,1,suzui001,32,BBFBFX,53/G
 play,4,0,palmr001,22,CBFFFBS,K
 play,4,0,teixm001,11,BFX,63/G
 play,4,0,spens001,22,CBCBS,K
-com,"34 minute delay when the lights went out due"
-com,"to a truck hitting a pole near Safeco Field;"
-com,"the first pitch after the blackout was"
-com,"Guillen's single"
 play,4,1,guilc001,22,BCFFFBFX,S7/F-
 play,4,1,boonb002,22,BCF*BX,HR/7/F.1-H
 play,4,1,marte001,32,BFBBSX,7/L

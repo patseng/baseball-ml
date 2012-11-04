@@ -381,7 +381,6 @@ play,5,1,diaze002,00,,BK.2-3
 play,5,1,diaze002,31,BBBCB,W
 play,5,1,cruzj003,00,X,8/F8
 play,5,1,vizqo001,01,CX,3/G
-com,"fog delay for 8 minutes in 6th"
 play,6,0,segud001,12,BFCX,3/G
 play,6,0,conij001,00,X,9/F9
 play,6,0,moram002,12,CCBS,K
@@ -433,7 +432,6 @@ play,9,0,ripkc001,22,CSBBFC,K/C
 play,9,0,fordb001,00,,NP
 sub,gibbj002,"Jay Gibbons",0,8,11
 play,9,0,gibbj002,11,FBX,6/P6
-com,"Debut game for Jay Gibbons"
 data,er,mercj001,4
 data,er,ryanb001,0
 data,er,maduc001,0
@@ -585,8 +583,6 @@ play,10,1,cruzj003,00,,NP
 sub,cabrj002,"Jolbert Cabrera",1,1,11
 play,10,1,cabrj002,00,,NP
 sub,tromm001,"Mike Trombley",0,0,1
-com,"$RF Anderson shifted to shallow LF, LF DeShields behind 2B on edge of dirt"
-com,"and CF Mora to RCF for Cabrera"
 play,10,1,cabrj002,22,BBFSX,9/FDP/F7LS.3XH(92)
 play,11,0,conij001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",1,1,8
@@ -666,7 +662,6 @@ start,branr001,"Russell Branyan",1,8,5
 start,diaze002,"Einar Diaz",1,9,2
 start,sabac001,"C.C. Sabathia",1,0,1
 play,1,0,andeb001,02,CSFX,7/F7
-com,"Debut game for C.C. Sabathia"
 play,1,0,bordm001,22,CCBBFX,D8/8D
 play,1,0,deshd001,31,BBFBB,W
 play,1,0,conij001,01,FB,WP.2-3;1-2
@@ -2165,8 +2160,6 @@ sub,portb001,"Bo Porter",0,1,9
 play,8,1,loftk001,00,X,31/G
 play,8,1,vizqo001,00,X,3/G
 play,8,1,alomr001,02,CFFFC,K/C
-com,"ej,alomr001,P,schrp901,Balls and strikes"
-com,"Roberto Alomar ejected by HP umpire Paul Schrieber"
 play,9,0,galaa001,00,,NP
 sub,branr001,"Russell Branyan",1,3,5
 play,9,0,galaa001,00,,NP
@@ -2819,9 +2812,6 @@ start,cordm001,"Marty Cordova",1,7,7
 start,branr001,"Russell Branyan",1,8,5
 start,diaze002,"Einar Diaz",1,9,2
 start,finlc001,"Chuck Finley",1,0,1
-com,"ej,mcrah001,M,wintm901,Before game; continued yesterday's argument"
-com,"$Devil Rays Hal McRae ejected by 3B umpire Mike Winters before game starts"
-com,"at pregame plate meeting (argument left over from previous day)"
 play,1,0,winnr001,32,BBCFBC,K/C
 play,1,0,johnr006,10,BX,S/89
 play,1,0,grieb001,12,CBFFS,K
@@ -3038,7 +3028,6 @@ sub,baezd001,"Danys Baez",1,0,1
 play,7,0,johnr006,00,,NP
 sub,cruzj003,"Jacob Cruz",1,6,7
 play,7,0,johnr006,32,BFBFBX,9/F9
-com,"Debut game for Danys Baez"
 play,7,0,flahj001,10,BX,2/FL
 play,7,0,martf001,32,CBBFBF,FLE7
 play,7,0,martf001,32,CBBFBF.C,K/C
@@ -3149,7 +3138,6 @@ play,2,1,cabrj002,22,CBSBX,S/78.1-2
 play,2,1,cruzj003,12,CFBS,K
 play,2,1,burke001,22,CBCBX,S.2-3;1-2
 play,2,1,alomr001,22,CBBSX,6/F6
-com,"$left fielder and shortstop collide, both OK"
 play,3,0,easld001,20,BBX,8/F8
 play,3,0,jackr004,31,BBBCX,3/G
 play,3,0,ceder001,02,CCX,43/G
@@ -3313,9 +3301,6 @@ play,6,0,clart002,22,BSBSX,8/F8
 play,6,0,palmd002,21,BSBX,D7.1-3
 play,6,0,cruzd001,22,SCBBS,K
 play,6,1,burke001,32,BFBBFFX,7/F7
-com,"ej,manuc101,M,herna901,Fair/foul on HR"
-com,"$foul ball originally ruled HR; Indians Manager Charlie Manuel"
-com,"ejected by HP umpire Angel Hernandez"
 play,6,1,cordw001,11,BFX,S7
 play,6,1,branr001,11,SBX,31/G.1-2
 play,6,1,diaze002,21,BCBX,53/G
@@ -3367,7 +3352,6 @@ play,9,1,branr001,02,CCS,K
 play,9,1,diaze002,00,,NP
 sub,cruzj003,"Jacob Cruz",1,9,11
 play,9,1,cruzj003,01,CX,1/G
-com,"$Cruz collided with Jones at base, near fight"
 play,9,1,cabrj002,00,,NP
 sub,taube001,"Eddie Taubensee",1,1,11
 play,9,1,taube001,10,BX,HR/9
@@ -3462,7 +3446,6 @@ play,2,0,macij001,00,X,5/FL
 play,2,0,fickr001,11,CBX,31/G
 play,2,1,thomj002,31,BBSBX,5/FL
 play,2,1,burke001,32,BBBCFX,13/INT
-com,"$Burks out on 'runner's interference;"
 play,2,1,cordw001,20,BBX,HR/7
 play,2,1,branr001,22,SFBBFS,K
 play,3,0,clart002,10,BX,S9/9S
@@ -3754,7 +3737,6 @@ play,1,1,cruzj003,22,CBFBFFX,D8/8D
 play,1,1,vizqo001,11,BCX,23/SH.2-3
 play,1,1,alomr001,00,X,7/SF.3-H
 play,1,1,gonzj002,12,CBFFX,7/F7D
-com,"59 minute rain delay in the 2nd"
 play,2,0,willb002,12,BFCS,K
 play,2,0,martt002,12,CBFFFX,7/F7
 play,2,0,posaj001,11,BSX,D7
@@ -3796,7 +3778,6 @@ play,5,0,justd001,22,FBFBX,S7
 play,5,0,bross001,00,,NP
 sub,smitr004,"Roy Smith",1,0,1
 play,5,0,bross001,31,CBBBB,W.1-2
-com,"Debut game for Roy Smith"
 play,5,0,soria001,12,BFFX,8/F8
 play,5,1,cruzj003,12,BFFS,K
 play,5,1,vizqo001,30,BBBB,W
@@ -3826,7 +3807,6 @@ play,7,0,posaj001,12,CBSFS,K
 play,7,1,branr001,21,BBFX,HR/9
 play,7,1,taube001,21,CBBX,13/G
 play,7,1,cruzj003,22,SBBSC,K/C
-com,"Clemens passes Don Sutton for 5th on the strikeout list with #3575"
 play,7,1,vizqo001,01,CX,8/F8
 play,8,0,justd001,00,,NP
 sub,rodrr004,"Rich Rodriguez",1,0,1
@@ -3958,8 +3938,6 @@ play,6,0,oneip001,20,BBX,53/G
 play,6,1,gonzj002,00,X,3/P3
 play,6,1,burke001,21,CBBX,31/G
 play,6,1,cordw001,32,BCBBFS,K
-com,"ej,zimmd101,C,clara901,Bench jockeying"
-com,"Yankees coach Don Zimmer ejected by Al Clark in 7th"
 play,7,0,willb002,30,BBBB,W
 play,7,0,martt002,32,CCFBBFBB,W.1-2
 play,7,0,justd001,00,,NP
@@ -4406,7 +4384,6 @@ play,2,0,tuckm001,32,BCBBFX,D/89D.2-3
 play,2,0,ochoa001,00,,NP
 sub,woods001,"Steve Woodard",1,0,1
 play,2,0,ochoa001,01,SX,E1/TH.3-H(NR)(UR);2-H(NR);B-2
-com,"Elias wrongly charged the third run to Wright."
 play,2,0,cases001,31,BBFBX,S9.2-H(UR);BX2(926)
 play,2,0,cromd001,00,X,8/F8
 play,2,1,gonzj002,22,BCBFX,63/G
@@ -4727,9 +4704,6 @@ play,4,1,frymt001,00,X,S8/8S
 play,4,1,branr001,32,SBBBFB,W.1-2
 play,4,1,diaze002,11,BFX,3/BP3
 play,4,1,loftk001,11,CBX,S7.2-3;1X3(4);B-2
-com,"$Jenkins' throw home got by Blanco then Levrault threw to"
-com,"no one around the mound which was retrieved by Lopez,"
-com,"who ran Branyan down between the bases"
 play,4,1,vizqo001,32,CBBCBFX,63/G
 play,5,0,lopel002,10,BX,43/G
 play,5,0,blanh001,22,CCBBFFC,K/C
@@ -4881,7 +4855,6 @@ play,3,1,burke001,32,BBBCCFFFX,63/G
 play,3,1,thomj002,21,CBBX,HR/8
 play,3,1,frymt001,00,,NP
 sub,cabrj002,"Jolbert Cabrera",1,7,11
-com,"$Fryman left with strained left groin"
 play,3,1,cabrj002,00,X,63/G
 play,3,1,branr001,22,BBSCC,K/C
 play,4,0,jenkg001,00,,NP
@@ -5085,7 +5058,6 @@ play,8,0,buchb002,22,BCBFX,63/G
 play,8,0,piera001,01,FX,S7
 play,8,0,rival001,21,BCBX,8/L8
 play,8,1,burke001,00,X,HR/9L
-com,"$off the pole"
 play,8,1,alomr001,22,CFBBS,K
 play,8,1,gonzj002,12,SCFBX,D/89D
 play,8,1,frymt001,00,,NP
@@ -5129,8 +5101,6 @@ play,9,1,cordm001,31,BBSBB,W.2-3;1-2
 play,9,1,thomj002,12,FBFS,K
 play,9,1,loftk001,30,BBBB,W.3-H;2-3;1-2
 play,9,1,diaze002,21,BBCX,64(1)/FO
-com,"ej,hawkl001,P,scotd901,Balls and strikes"
-com,"LaTroy Hawkins ejected by HP umpire Dale Scott as he left the field"
 play,10,0,rival001,00,,NP
 sub,karss001,"Steve Karsay",1,0,1
 play,10,0,rival001,11,FBX,43/G
@@ -5261,8 +5231,6 @@ play,4,1,burke001,02,FFX,53/G
 play,4,1,thomj002,20,BBX,S9/9S
 play,4,1,frymt001,22,FBSBX,5/L5
 play,4,1,cordm001,32,BCBSBS,K
-com,"ej,uhlat101,C,fleta901,Call at 1B"
-com,"Indians coach Ted Uhlaender ejected by 1B umpire Andy Fletcher in 5th"
 play,5,0,print001,32,FBFBFBB,W
 play,5,0,rival001,00,X,6/P6
 play,5,0,blakc001,10,BX,13/G.1-2
@@ -5390,7 +5358,6 @@ start,thomj002,"Jim Thome",1,7,3
 start,cordm001,"Marty Cordova",1,8,7
 start,diaze002,"Einar Diaz",1,9,2
 start,wrigj002,"Jaret Wright",1,0,1
-com,"2 rain delays during game totaling 1:42 in the 2nd and 7th"
 play,1,0,jonej003,12,CFBS,K
 play,1,0,guzmc001,01,CX,43/G
 play,1,0,lawtm002,11,CBX,3/G
@@ -5464,7 +5431,6 @@ play,7,0,guzmc001,12,BFFS,K
 play,7,0,lawtm002,11,FBX,8/F8
 play,7,0,buchb002,00,,NP
 sub,reeds001,"Steve Reed",1,0,1
-com,"game called for rain"
 data,er,romej001,6
 data,er,santj003,2
 data,er,wrigj002,5
@@ -6017,7 +5983,6 @@ play,4,0,alicl001,31,CBBBX,8/F8
 play,4,0,sancr001,12,FBFX,63/G
 play,4,0,sweem002,32,BBBCFB,W
 play,4,0,randj002,00,X,S4.1-2
-com,"originally scored as E4"
 play,4,0,dye-j001,31,BBSBB,W.2-3;1-2
 play,4,0,beltc001,12,CBSS,K
 play,4,1,gonzj002,22,BFFBFX,4/P4
@@ -7528,7 +7493,6 @@ play,1,0,durhr001,22,CCBBX,63/G
 play,1,0,rowaa001,32,BSSBFBFFB,W
 play,1,0,lee-c001,12,CBSX,S7/7D.1-2
 play,1,0,ordom001,11,CBX,15(2)3/GDP.1-2
-com,"off pitcher's shins"
 play,1,1,cabrj002,11,BCX,8/F8
 play,1,1,vizqo001,11,CBX,5/L5
 play,1,1,alomr001,01,CX,53/BG
@@ -7610,8 +7574,6 @@ play,9,0,konep001,01,CX,S/78
 play,9,0,perrh001,00,,NP
 sub,valej003,"Jose Valentin",0,7,11
 play,9,0,valej003,12,BCFFC,K/C
-com,"ej,valej003,P,barrt901,Balls and strikes"
-com,"Jose Valentin ejected by HP umpire Ted Barrett"
 play,9,0,aloms001,00,,NP
 sub,liefj001,"Jeff Liefer",0,8,11
 play,9,0,liefj001,02,CCC,K/C
@@ -7874,7 +7836,6 @@ play,7,1,gonzj002,10,BX,8/F8D
 play,7,1,thomj002,00,,NP
 sub,embra001,"Alan Embree",0,0,1
 play,7,1,thomj002,02,1SC11,POCS2(136)
-com,"Original pitches 1SB; corrected per FP"
 play,7,1,thomj002,32,SB1BFFFBX,43/G
 play,8,0,liefj001,00,,NP
 sub,perrh001,"Herbert Perry",0,6,11
@@ -8452,8 +8413,6 @@ play,3,0,longt002,10,B1,POCS2(13)
 play,3,1,frymt001,10,BX,13/G
 play,3,1,cabrj002,12,BSFFS,K
 play,3,1,taube001,22,CCBBS,K
-com,"ej,manuc101,M,coope901,Bench jockeying"
-com,"Indians Manager Charlie Manuel ejected by 3B umpire Eric Cooper in 4th"
 play,4,0,longt002,02,SFX,S9
 play,4,0,gantr001,21,BBSX,S8/8S.1-2
 play,4,0,saeno001,12,BFS,NP
@@ -8614,8 +8573,6 @@ play,3,0,olerj001,01,CX,7/F7
 play,3,1,frymt001,21,BCBX,53/G
 play,3,1,cordw001,20,BBX,53/G
 play,3,1,taube001,12,CBCFS,K
-com,"ej,perrg001,C,reynj901,Balls and strikes"
-com,"Mariners coach Gerald Perry ejected by HP umpire Jim Reynolds in 4th"
 play,4,0,boonb002,22,BCBFC,K/C
 play,4,0,marta001,12,FBCC,K/C
 play,4,0,guilc001,12,BFSC,K/C
@@ -8925,7 +8882,6 @@ play,3,0,marta001,31,BBFBX,S9.2-3;1-2
 play,3,0,camem001,00,,NP
 sub,bacsm001,"Mike Bacsik",1,0,1
 play,3,0,camem001,32,SCBBBX,D/78D.3-H;2-H;1-3
-com,"Debut game for Mike Bacsik"
 play,3,0,guilc001,01,CX,S7/7S.3-H;2-H
 play,3,0,belld002,21,FBBX,S7/7S.1-2
 play,3,0,lampt001,00,H,HP.2-3;1-2
@@ -9066,8 +9022,6 @@ play,11,1,diaze002,00,X,6/P6
 play,11,1,loftk001,10,BX,S8
 play,11,1,vizqo001,20,BBX,S9.1-2
 play,11,1,cabrj002,00,X,S7.2-H;1-2
-com,"$Indians first time since 1925 A's to come back"
-com,"from a 12-run deficit"
 data,er,selea001,5
 data,er,halaj001,4
 data,er,charn001,2
@@ -9411,8 +9365,6 @@ play,11,0,jonej003,00,X,64(1)3/GDP
 play,11,0,hockd001,11,CBX,S8
 play,11,0,piera001,02,CSX,43/G
 play,11,1,loftk001,00,X,T9/9D
-com,"$Allen's cleat caught in the grass while chasing Lofton's hit; Allen"
-com,"limped to the ball, holding Lofton to a triple"
 play,11,1,vizqo001,00,,NP
 sub,buchb002,"Brian Buchanan",0,2,9
 play,11,1,vizqo001,32,BBCBFB,W
@@ -9496,8 +9448,6 @@ play,2,1,frymt001,30,BBBX,4/P4
 play,2,1,diaze002,31,BBBCB,W
 play,2,1,loftk001,10,BX,HR/9.2-H;1-H
 play,2,1,vizqo001,11,BCX,3/G
-com,"ej,molip001,C,diazl901,Call at 1B"
-com,"Twins coach Paul Molitor ejected by 1B umpire Laz Diaz in 3rd"
 play,3,0,hockd001,32,BCBFFFBB,W
 play,3,0,rival001,11,CBX,46(1)3/GDP
 play,3,0,barnj001,11,BCX,63/G
@@ -10164,8 +10114,6 @@ start,branr001,"Russell Branyan",1,7,7
 start,frymt001,"Travis Fryman",1,8,5
 start,taube001,"Eddie Taubensee",1,9,2
 start,burbd001,"Dave Burba",1,0,1
-com,"$Cle Mgr Manuel has abdominal surgery to remove scar tissue from colon;"
-com,"bench coach Grady Little running club"
 play,1,0,nixot001,22,BCFBX,7/F7
 play,1,0,offej001,32,BBCFBX,S7/7S
 play,1,0,everc001,00,X,3/G.1-2
@@ -10476,8 +10424,6 @@ play,3,1,vizqo001,11,BCX,S7/7S
 play,3,1,alomr001,31,BCBBX,HR/89.1-H
 play,3,1,gonzj002,02,CSS,K
 play,3,1,thomj002,00,X,53/G
-com,"ej,coned001,P,randt901,Bench jockeying"
-com,"David Cone ejected from bench by HP umpire Tony Randazzo"
 play,4,0,oleat001,21,BBCX,43/G
 play,4,0,hills002,12,BCFX,D9/9D.BX3(945)
 play,4,0,hatts001,22,CBFFBX,S7
@@ -11154,7 +11100,6 @@ play,2,0,johnm003,21,BCBX,23/SH.2-H
 play,2,0,durhr001,22,CCBBFX,9/F9
 play,2,1,thomj002,00,,NP
 sub,liefj001,"Jeff Liefer",0,3,9
-com,"$Ordonez hurt left wrist on check swing strikeout in 1st"
 play,2,1,thomj002,01,CX,HR/8
 play,2,1,burke001,01,SX,43/G
 play,2,1,garck002,00,X,7/F7
@@ -11307,7 +11252,6 @@ play,1,1,gonzj002,11,CBX,9/F9
 play,2,0,randj002,21,CBBX,9/FL
 play,2,0,quinm001,00,X,8/F8D
 play,2,0,harvk001,12,CSBFS,K
-com,"Debut game for Kevin Harvey"
 play,2,1,thomj002,32,BSBCFBFFX,463/G
 play,2,1,burke001,21,BBSX,63/G
 play,2,1,cordm001,32,BBBCFB,W
@@ -11382,7 +11326,6 @@ play,7,0,feblc001,02,FCS,K
 play,7,1,diaze002,00,,NP
 sub,berra001,"Angel M. Berroa",0,2,6
 play,7,1,diaze002,22,BBCFFX,7/F7
-com,"Debut game for Angel M. Berroa"
 play,7,1,loftk001,12,CBCC,K/C
 play,7,1,mcdoj003,21,CBBX,63/G
 play,8,0,berra001,00,,NP
@@ -11486,7 +11429,6 @@ play,2,0,quinm001,01,CX,53/G
 play,2,1,cordm001,11,CBX,4/L4
 play,2,1,frymt001,12,CCBX,63/G
 play,2,1,diaze002,01,CX,31/G
-com,"45 minute rain delay in 3rd"
 play,3,0,maynb001,12,CFFBC,K/C
 play,3,0,alicl001,21,FBBX,6/P6
 play,3,0,peren001,02,CFFFS,K
@@ -11945,8 +11887,6 @@ start,branr001,"Russell Branyan",1,7,7
 start,cabrj002,"Jolbert Cabrera",1,8,5
 start,mcdoj003,"John McDonald",1,9,6
 start,dresr001,"Ryan Drese",1,0,1
-com,"$Cle Mgr Manuel hospitalized with stomach inflammation; Grady"
-com,"Little running club"
 play,1,0,cruzj004,32,CBBFBX,S9
 play,1,0,gonza001,22,CBCBX,S9.1-3
 play,1,0,stews002,32,BBBCFS,K+SB2
@@ -12028,7 +11968,6 @@ play,7,0,mondr002,00,,NP
 sub,lathc001,"Chris Latham",0,5,11
 play,7,0,lathc001,31,BBCBX,4(1)/FO.2-3
 play,7,0,fullb001,00,B,CSH(2E6).3-H(UR);1-2
-com,"attempted 262 play with bad throw; terrible scoring decision."
 play,7,0,fullb001,32,BBSFBX,5/FL
 play,7,1,diaze002,00,,NP
 sub,lathc001,"Chris Latham",0,5,9
@@ -12379,8 +12318,6 @@ play,7,1,branr001,12,CCBX,HR/9.1-H
 play,7,1,frymt001,00,,NP
 sub,jonet003,"Todd Jones",0,0,1
 play,7,1,frymt001,12,CBFFX,63/G
-com,"ej,molip001,C,hirsm901,Balls and strikes"
-com,"Twins coach Paul Molitor ejected by HP umpire Mark Hirschbeck in 8th"
 play,8,0,koskc001,00,,NP
 sub,rockj001,"John Rocker",1,0,1
 play,8,0,koskc001,22,CBCBFS,K
@@ -12469,8 +12406,6 @@ start,frymt001,"Travis Fryman",1,7,5
 start,diaze002,"Einar Diaz",1,8,2
 start,cabrj002,"Jolbert Cabrera",1,9,9
 start,colob001,"Bartolo Colon",1,0,1
-com,"ej,molip001,C,kulpr901,Balls and strikes"
-com,"Twins coach Paul Molitor ejected by HP umpire ROn Kulpa sometime in game"
 play,1,0,jonej003,32,BSFBBB,W
 play,1,0,rival001,12,CBFFS,K
 play,1,0,miend001,22,BCFFFBFC,K/C

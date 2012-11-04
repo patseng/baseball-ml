@@ -420,7 +420,6 @@ play,3,1,tulot001,10,BX,S8/L.3-H;2-H;1-3
 play,3,1,hawpb001,12,1FF1B1,POCS2(13634)
 play,4,0,hairj002,00,,NP
 sub,fowld001,"Dexter Fowler",1,1,8
-com,"Rockies left fielder Carlos Gonzalez left the game due to an injured leg"
 play,4,0,hairj002,02,.CFX,S8/F
 play,4,0,gonza003,32,CB*BBFFF>B,W.1-2
 play,4,0,headc001,20,*B22BX,64(1)3/GDP.2-3
@@ -555,7 +554,6 @@ play,1,1,hawpb001,00,X,D9/G.2-H;1-H
 play,1,1,olivm001,32,FF*B*BFFBFS,K
 play,2,0,franj004,00,,NP
 sub,spilr001,"Ryan Spilborghs",1,5,9
-com,"Rockies right fielder Brad Hawpe left the game due to an injured leg"
 play,2,0,franj004,00,.X,8/F
 play,2,0,tatif001,12,CCBX,9/F
 play,2,0,barar001,21,BCBX,8/F
@@ -740,11 +738,6 @@ play,4,1,barmc001,12,BCFS,K
 play,4,1,cooka002,12,BCCX,D9/L
 play,4,1,smits002,11,CBX,7/L
 play,4,1,fowld001,01,FX,S9/L.2-H(TH2)(NR);B-2
-com,"$the throw in by RF Jeff Francoeur was to 1B Mike Jacobs standing on"
-com,"the grass in the infield; batter Dexter Fowler rounded 1B and headed"
-com,"for 2B when he saw the throw; Jacobs threw to 2B to get Fowler but"
-com,"his throw was late; Aaron Cook, who had stopped at 3B, ran home"
-com,"when he saw Jacobs turn to throw to 2B"
 play,4,1,heltt001,21,BCBX,7/F
 play,5,0,castl001,32,CBBBCX,43/G
 play,5,0,wrigd002,12,CBSS,K
@@ -1028,7 +1021,6 @@ start,iannc001,"Chris Iannetta",1,6,2
 start,stewi001,"Ian Stewart",1,7,5
 start,barmc001,"Clint Barmes",1,8,4
 start,smitg002,"Greg Smith",1,9,1
-com,"Debut for umpire Cory Blaser"
 play,1,0,maybc001,01,CX,S1/BG
 play,1,0,sancg001,02,C11F1X,6/LDP.1X1(643)
 play,1,0,ramih003,00,X,8/F
@@ -1502,7 +1494,6 @@ play,3,1,heltt001,22,1CBB>F>T,K+SB2
 play,3,1,tulot001,00,X,3/P
 play,4,0,snydc002,00,,NP
 sub,corpm001,"Manuel Corpas",1,9,1
-com,"Rockies pitcher Jason Hammel left the game due to an injured groin"
 play,4,0,snydc002,21,.BBCX,63/G
 play,4,0,hared001,12,CBCX,S8/G
 play,4,0,johnk003,10,BX,6/P
@@ -1625,7 +1616,6 @@ play,1,1,heltt001,21,CB11B1X,6/P
 play,1,1,tulot001,01,C1X,D7/L+.1-3
 play,1,1,gonzc001,11,CBX,D9/G+.3-H;2-H
 play,1,1,olivm001,00,X,DGR/7.2-H
-com,"fan interference"
 play,1,1,stewi001,21,BCBX,8/F
 play,2,0,reynm001,32,CBCBBX,3/P
 play,2,0,laroa001,00,X,7/F
@@ -1910,11 +1900,6 @@ play,9,0,parrg001,00,,NP
 sub,snydc002,"Chris Snyder",0,7,11
 play,9,0,snydc002,32,.CBBBFB,W.2-3;1-2
 play,9,0,hestj001,12,FFBX,52(3)/FO/G.2-3;1-2
-com,"ej,hinca001,M,hudsm901,Call at HP"
-com,"$3B Ian Stewart's throw home was high but catcher Miguel Olivo appeared"
-com,"to keep his foot on the plate as he caught the ball; after the runner was"
-com,"called out, DBacks manager A.J. Hinch ran out and argued with HP umpire"
-com,"Marvin Hudson, who eventually ejected Hinch"
 play,9,0,drews001,00,.X,7/F
 play,9,1,stewi001,00,,NP
 sub,ryalr001,"Rusty Ryal",0,7,7
@@ -2277,9 +2262,6 @@ play,9,0,utlec001,00,.X,9/F
 play,9,1,youne003,00,,NP
 sub,durbc001,"Chad Durbin",0,9,1
 play,9,1,youne003,32,.BBCBFX,63/G
-com,"ej,tracj101,M,blasc901,Call at 1B"
-com,"$Rockies Manager Jim Tracy ejected by 1B umpire Cory Blaser for arguing"
-com,"that Eric Young was safe"
 play,9,1,hawpb001,21,.BBFX,3/G
 play,9,1,heltt001,31,BBBCB,W
 play,9,1,stewi001,32,SBBCFB>S,K
@@ -2341,7 +2323,6 @@ start,olivm001,"Miguel Olivo",1,6,2
 start,stewi001,"Ian Stewart",1,7,5
 start,barmc001,"Clint Barmes",1,8,4
 start,chacj001,"Jhoulys Chacin",1,9,1
-com,"$37 minute delay before game due to impending storm"
 play,1,0,morgn001,02,CCX,3/G
 play,1,0,kenna001,12,CBSX,S9/L
 play,1,0,zimmr001,22,BBC1SX,HR/7/F.1-H
@@ -2456,7 +2437,6 @@ sub,guzmc001,"Cristian Guzman",0,9,4
 play,8,1,gonzc001,02,.....CCS,K
 play,8,1,fowld001,22,BBSCFX,3/G
 play,8,1,hawpb001,02,FFFFS,K
-com,"$Game called after 40 minute rain delay"
 data,er,lannj001,4
 data,er,batim001,2
 data,er,slatd001,0
@@ -3401,10 +3381,6 @@ play,4,0,ramim002,10,BX,53/G
 play,4,1,olivm001,01,FX,T8/L
 play,4,1,stewi001,12,CFBX,9/SF/F.3-H
 play,4,1,barmc001,01,FX,HR/78/F
-com,"$the fly ball by Clint Barmes was caught by a fan in the front row in"
-com,"left center; Dodgers CF Matt Kemp immediately began signaling that the"
-com,"fan reached over the fence; crew chief Dale Scott watched the replay and"
-com,"upheld the call of home run"
 play,4,1,franj003,31,CBBBX,63/G-
 play,4,1,gonzc001,12,BCSX,43/G
 play,5,0,kempm001,21,SBBX,HR/8/F
@@ -4519,7 +4495,6 @@ play,6,1,smits002,00,,NP
 sub,tallb001,"Brian Tallet",0,9,1
 play,6,1,smits002,01,..SX,9/SF/F.3-H;2-3
 play,6,1,gonzc001,12,CBSFS,K
-com,"$Game called for rain"
 data,er,romer002,4
 data,er,frasj002,1
 data,er,tallb001,0
@@ -4886,12 +4861,6 @@ play,3,1,hawpb001,10,BX,53/G
 play,4,0,mcgec001,21,BBFX,4/P
 play,4,0,lucrj001,00,X,S7/L
 play,4,0,gomec002,00,X,3/SH/BG.1-2
-com,"ej,machk101,M,vanol901,Call at 1B"
-com,"$Carlos Gomez ran around Todd Helton to 1B and no umpire appeared"
-com,"to signal safe or out on the play; the Rockies complained and the"
-com,"umpires huddled; HP umpire Mark Carlson signaled that Gomez was"
-com,"out; Brewers manager Ken Macha came out and was angry about the"
-com,"way that was handled and was ejected by 1B umpire Larry Vanover"
 play,4,0,escoa003,01,.CX,S16/G.2-3
 play,4,0,parrm001,01,S*B,SB2
 play,4,0,parrm001,32,S*B.FBFBX,7/L
@@ -5079,7 +5048,6 @@ play,8,1,hawpb001,22,CBSBX,D8/F
 play,8,1,belim001,00,,NP
 sub,nelsc001,"Chris Nelson",1,5,11
 play,8,1,nelsc001,11,.BCX,FC1/SH/BG.2-3
-com,"Debut game for Chris Nelson"
 play,8,1,stewi001,31,BSBBB,W.1-2
 play,8,1,olivm001,00,,NP
 sub,loe-k001,"Kameron Loe",0,9,1
@@ -6183,7 +6151,6 @@ play,6,1,jimeu001,00,,NP
 sub,hawpb001,"Brad Hawpe",1,9,11
 play,6,1,hawpb001,00,,NP
 sub,runzd001,"Dan Runzler",0,9,1
-com,"Rockies third baseman Ian Stewart left the game due to an injured elbow"
 play,6,1,hawpb001,11,..FBX,D7/L.2-H;1-3
 play,6,1,fowld001,00,,NP
 sub,torra001,"Andres Torres",0,1,8
@@ -6193,9 +6160,6 @@ play,6,1,fowld001,00,,NP
 sub,schin001,"Nate Schierholtz",0,9,9
 play,6,1,fowld001,10,...BX,S8/L-.3-H;2-H
 play,6,1,herrj002,00,1X,S1/BG.1-2
-com,"ej,bochb002,M,nauep901,Call at 1B"
-com,"$Giants Manager Bruce Bochy ejected by 1B umpire Paul Nauert for arguing"
-com,"the close play at first on the bunt"
 play,6,1,gonzc001,00,.S,WP.2-3;1-2
 play,6,1,gonzc001,11,.S.BX,7/SF/L.3-H
 play,6,1,moram002,31,B*BF*BX,6/P
@@ -6853,7 +6817,6 @@ play,9,0,moliy001,12,BSSX,43/G
 play,9,1,iannc001,00,,NP
 sub,macle001,"Evan MacLane",0,8,1
 play,9,1,iannc001,32,.BBCBSX,HR/7/F
-com,"Debut game for Evan MacLane"
 data,er,garcj004,2
 data,er,mcclk001,0
 data,er,boggm001,1
@@ -8085,7 +8048,6 @@ play,8,1,gonzc001,00,,NP
 sub,schlb001,"Brian Schlitter",0,8,1
 play,8,1,gonzc001,01,.CX,S8/G.1-2
 play,8,1,tulot001,12,CCFBX,D8/L.2-H;1-H
-com,"$11 consecutive hits for Rockies, announced as ML record"
 play,8,1,hawpb001,30,BBBB,W
 play,8,1,iannc001,32,FFBBB>B,W.2-3;1-2
 play,8,1,stewi001,21,CBBX,8/F
@@ -8407,9 +8369,6 @@ play,9,0,lee-d002,32,FBBFFBB,W
 play,9,0,sotog001,32,BFBFBB,W.1-2
 play,9,0,byrdm001,01,CX,T9/L.2-H;1-H
 play,9,0,soria001,10,BX,8!/SF/F.3-H
-com,"$Dester Fowler caught Alfonso Soriano's fly at the top of the wall, possibly"
-com,"taking a home run away; he crashed into the wall with his entire left side,"
-com,"and was bruised; he was to be examined the next day"
 play,9,0,bakej001,00,,NP
 sub,spilr001,"Ryan Spilborghs",1,1,7
 play,9,0,bakej001,00,,NP
@@ -9005,7 +8964,6 @@ play,6,0,inglj001,02,..SCX,D87/L.2-H;1XH(72)
 play,6,1,tulot001,00,,NP
 sub,mcclm001,"Mike McClendon",0,9,1
 play,6,1,tulot001,32,.CBFBBFC,K
-com,"Debut game for Mike McClendon"
 play,6,1,spilr001,00,X,7/F
 play,6,1,stewi001,00,X,43/G
 play,7,0,weekr001,00,,NP
@@ -9582,7 +9540,6 @@ play,2,0,jurrj001,12,BOLL,K/BF
 play,2,0,infao001,02,CFS,K
 play,2,0,heywj001,30,BBBB,W
 play,2,0,pradm001,32,BFBFB>X,DGR/9.2-H;1-H
-com,"fan interference"
 play,2,0,mccab002,11,BCX,S8/L.2-H
 play,2,0,lee-d002,32,BBSFB>X,D7/G.1-H
 play,2,0,cabrm002,00,,NP
@@ -9604,7 +9561,6 @@ play,3,1,fowld001,12,CCBX,43/G
 play,4,0,mccab002,11,BFX,D7/L
 play,4,0,lee-d002,00,,NP
 sub,reynm002,"Matt Reynolds",1,9,1
-com,"Rockies pitcher Manuel Corpas left the game due to an injured elbow"
 play,4,0,lee-d002,22,.CBBFX,63/G
 play,4,0,cabrm002,32,BBBCFX,3/G.2-3
 play,4,0,gonza002,31,*BCBBB,W
@@ -9827,7 +9783,6 @@ play,9,0,ethia001,32,N.BSBFBB,W
 play,9,0,kempm001,00,,NP
 sub,dedus001,"Samuel Deduno",1,9,1
 play,9,0,kempm001,12,.CBCX,S7/L.2-H;1-3
-com,"Debut game for Samuel Deduno"
 play,9,0,lonej001,00,X,43/G
 play,9,1,spilr001,31,BBCBX,8/F
 play,9,1,olivm001,32,BBBCCX,9/F9LF
@@ -9952,9 +9907,6 @@ play,7,1,youne003,00,X,36(1)/FO/BG
 play,7,1,fowld001,10,1BX,7/F7LF
 play,7,1,gonzc001,00,X,HR/89/F.1-H
 play,7,1,tulot001,01,LH,HP
-com,"ej,belir001,P,fostm901,Intentional HBP"
-com,"$the pitch hit Troy Tulowitzki on the thigh; pitcher Ronald Belisario ejected"
-com,"by HP umpire Marty Foster; Foster warned both teams"
 play,7,1,heltt001,00,,NP
 sub,sherg001,"George Sherrill",0,9,1
 play,7,1,heltt001,12,..BCCS,K
@@ -10103,10 +10055,6 @@ sub,reynm002,"Matt Reynolds",1,9,1
 play,6,0,ausmb001,32,.BCSFBBB,W.1-2
 play,6,0,belir001,00,,NP
 sub,ramim002,"Manny Ramirez",0,9,11
-com,"ej,ramim002,P,cedeg901,Balls and strikes"
-com,"$Manny Ramirez objected when the first pitch was called a strike"
-com,"by HP umpire Gary Cederstrom; Ramirez thought it was outside and"
-com,"was ejected by Cederstrom"
 play,6,0,ramim002,01,C,NP
 sub,johnr008,"Reed Johnson",0,9,11
 play,6,0,johnr008,11,.C..BX,4(1)3/GDP
@@ -10282,11 +10230,6 @@ play,6,0,schnb001,30,.*BB>B.B,W
 play,6,0,hernd003,00,,NP
 sub,sweem002,"Mike Sweeney",0,9,11
 play,6,0,sweem002,12,.BFFH,HP.3-H;2-3;1-2
-com,"ej,tracj101,M,emmep901,Checked swing"
-com,"$Rockies pinch hitter Mike Sweeney was hit on the right hand as he started"
-com,"to swing at the pitch; 1B umpire Bill Hohn ruled no swing on the play and"
-com,"Sweeney was awarded first; Rockies Manager Jim Tracy argued that Sweeney"
-com,"swung and was ejected by HP umpire Paul Emmel"
 play,6,0,rollj001,12,.CCFBX,6(1)3/GDP
 play,6,1,belim001,00,,NP
 sub,basta001,"Antonio Bastardo",0,9,1
@@ -10818,8 +10761,6 @@ play,6,0,philb001,02,CFX,S9/L
 play,6,0,vottj001,10,BX,S12/L.1-2
 play,6,0,roles001,00,,NP
 sub,rogee002,"Esmil Rogers",1,9,1
-com,"$Joey Votto's line drive hit pitcher Aaron Cook on the lower right"
-com,"leg; he suffered a broken right fibula and left the game"
 play,6,0,roles001,32,.FBBBFX,8/L
 play,6,0,gomej001,10,BX,54(1)3/GDP
 play,6,1,gonzc001,00,,NP
@@ -10847,7 +10788,6 @@ play,7,1,herrj002,32,...CBFBBX,7/F
 play,7,1,rogee002,00,,NP
 sub,mckem001,"Michael McKenry",1,9,11
 play,7,1,mckem001,32,.BBCBFFX,8/F
-com,"Debut game for Michael McKenry"
 play,7,1,youne003,10,BX,6/P
 play,8,0,vottj001,00,,NP
 sub,paytj001,"Jay Payton",1,2,8
@@ -11020,9 +10960,6 @@ sub,nelsc001,"Chris Nelson",1,5,12
 play,8,1,moram002,10,.B>X,E3/TH/G.1-3
 play,8,1,spilr001,22,CFB*BS,K
 play,8,1,olivm001,11,BFN,SBH(UR)
-com,"$Rockies pinch runner Chris Nelson ran for the plate; someone on the field"
-com,"yelled to pitcher Nick Masset, who turned to second base; apparently, he"
-com,"did not know where the runner was"
 play,8,1,olivm001,11,BFN.X,7!/F
 play,8,1,belim001,00,,NP
 sub,smits002,"Seth Smith",1,9,11
@@ -11149,7 +11086,6 @@ play,5,0,ryalr001,22,BSFB.X,7/F
 play,5,1,spilr001,00,,NP
 sub,kroez001,"Zach Kroenke",0,9,1
 play,5,1,spilr001,11,.CBX,S9/G
-com,"Debut game for Zach Kroenke"
 play,5,1,olivm001,10,BX,6/P
 play,5,1,delaj001,00,X,53/SH/BG.1-2
 play,5,1,youne003,00,X,S8/G.2-H
@@ -11199,7 +11135,6 @@ sub,iannc001,"Chris Iannetta",1,6,3
 play,8,0,ojeda001,00,,NP
 sub,philp001,"Paul Phillips",1,8,2
 play,8,0,ojeda001,01,....CX,7/F
-com,"Debut game for Edgmer Escalona"
 play,8,0,hestj001,12,SBCX,5/P5F
 play,8,0,ryalr001,10,BX,8/F
 play,8,1,escae001,00,,NP
@@ -11451,7 +11386,6 @@ play,1,1,heltt001,30,BBBB,W.2-3;1-2
 play,1,1,moram002,02,SFX,13/G
 play,2,0,montm001,00,,NP
 sub,olivm001,"Miguel Olivo",1,8,2
-com,"Rockies catcher Chris Iannetta left the game due to an injured leg"
 play,2,0,montm001,32,.BBCBFB,W
 play,2,0,reynm001,00,X,6/P
 play,2,0,alleb001,22,BBCSX,6/P
@@ -11503,9 +11437,6 @@ play,7,0,montm001,21,SBBX,43/G
 play,7,0,reynm001,00,,NP
 sub,belim001,"Matt Belisle",1,9,1
 play,7,0,reynm001,22,.BSBFFC,K
-com,"ej,reynm001,P,davig901,Called third strike"
-com,"$D-backs third baseman Mark Reynolds dropped his bat at the plate and then slammed"
-com,"his helmet down as he walked away; he was ejected by HP umpire Gerry Davis"
 play,7,1,heltt001,00,,NP
 sub,boyeb001,"Blaine Boyer",0,6,1
 play,7,1,heltt001,00,,NP
@@ -11835,7 +11766,6 @@ play,4,1,fowld001,00,1X,S8/L+.1-3(E8);B-2(TH)
 play,4,1,gonzc001,01,CX,D39/G+.3-H(UR);2-H
 play,4,1,tulot001,02,CSX,S6/G-.2-3
 play,4,1,heltt001,01,F1X,8/SF/F.3-H
-com,"run originally scored as unearned, changed to earned next day"
 play,4,1,moram002,01,111SX,64(1)3/GDP
 play,5,0,gonza003,00,,NP
 sub,delcm001,"Manny Delcarmen",1,9,1
@@ -12163,8 +12093,6 @@ play,5,0,guilj001,00,,NP
 sub,stewi001,"Ian Stewart",1,6,5
 play,5,0,guilj001,21,.FBBX,S8/L
 play,5,0,uribj002,11,FBX,9/FDP.1X1(13)
-com,"$after the catch, Jose Guillen tagged up and ran to second; the Rockies"
-com,"appealed the play and Guillen was called out by HP umpire Laz Diaz"
 play,5,0,rossc001,20,BBX,S8/G+
 play,5,0,linct001,12,CSBC,K
 play,5,1,tulot001,01,CX,63/G
@@ -12282,7 +12210,6 @@ play,1,1,heltt001,32,BSBBFFB,W
 play,1,1,spilr001,22,CCBBC,K
 play,2,0,uribj002,00,,NP
 sub,herrj002,"Jonathan Herrera",1,1,4
-com,"Rockies left fielder Eric Young left the game due to an injured neck"
 play,2,0,uribj002,00,.X,4/P
 play,2,0,fontm001,10,BX,43/G
 play,2,0,zitob001,11,BCX,7/F
@@ -12314,7 +12241,6 @@ play,5,0,burrp001,00,X,S9/F-.2-H;B-2(E9)
 play,5,0,guilj001,12,BFCC,K
 play,5,1,herrj002,00,,NP
 sub,rossc001,"Cody Ross",0,1,8
-com,"Giants center fielder Andres Torres left the game due to an injured side"
 play,5,1,herrj002,11,.CBX,43/G
 play,5,1,paytj001,01,FX,T9/L
 play,5,1,gonzc001,00,X,T9/F.3-H
