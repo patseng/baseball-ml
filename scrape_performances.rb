@@ -34,9 +34,8 @@ def parseEVA(file_path)
       when 'id'
         if !playerToPerformanceHash.empty?
           # save all of the performances
-          debugger
           playerToPerformanceHash.each_value do |performance|
-            # performance.save
+            performance.save
           end
         end
         playerToPerformanceHash = {}
@@ -181,7 +180,7 @@ def parseEVA(file_path)
   end
   
   playerToPerformanceHash.each_value do |performance|
-    # performance.save
+    performance.save
   end
   
 end
