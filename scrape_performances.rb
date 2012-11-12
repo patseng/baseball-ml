@@ -59,16 +59,40 @@ def parseEVA(file_path)
         case option
         when 'S'
           # single
-          # increment at bats, hits, total_bases
-          performance.at_bats += 1
-          performance.hits += 1
-          performance.total_bases += 1
-          
+          if at_bat_performance >= 2
+            second_option = at_bat_performance[1]
+            case second_option
+            when 'B'
+              # stolen base, do nothing
+            else
+              # single
+              performance.at_bats += 1
+              performance.hits += 1
+              performance.total_bases += 1
+            end
+          else
+            performance.at_bats += 1
+            performance.hits += 1
+            performance.total_bases += 1
+          end
         when 'D'
-          # double
-          performance.at_bats += 1
-          performance.hits += 1
-          performance.total_bases += 2
+
+          if at_bat_performance >= 2
+            second_option = at_bat_performance[1]
+            case second_option
+            when 'I'
+              # defensive interference, do nothing
+            else
+              # double
+              performance.at_bats += 1
+              performance.hits += 1
+              performance.total_bases += 2
+            end
+          else
+            performance.at_bats += 1
+            performance.hits += 1
+            performance.total_bases += 2
+          end
           
         when 'T'
           # triple
@@ -97,8 +121,20 @@ def parseEVA(file_path)
             performance.total_bases += 4
           end  
         when 'W'
-          # intentional walk
-          performance.walks += 1
+          # walk
+          if at_bat_performance >= 2
+            second_option = at_bat_performance[1]
+            case second_option
+            when 'P'
+              # wild pitch, do nothing
+            else
+              # walk
+              performance.walks += 1
+            end
+          else
+            performance.walks += 1
+          end
+
         when 'I'
           # intentional walk
           performance.walks += 1          
