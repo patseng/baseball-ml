@@ -58,7 +58,7 @@ def parseEVA(file_path)
         case option
         when 'S'
           # single
-          if at_bat_performance >= 2
+          if at_bat_performance.length >= 2
             second_option = at_bat_performance[1]
             case second_option
             when 'B'
@@ -76,7 +76,7 @@ def parseEVA(file_path)
           end
         when 'D'
 
-          if at_bat_performance >= 2
+          if at_bat_performance.length >= 2
             second_option = at_bat_performance[1]
             case second_option
             when 'I'
@@ -121,7 +121,7 @@ def parseEVA(file_path)
           end  
         when 'W'
           # walk
-          if at_bat_performance >= 2
+          if at_bat_performance.length >= 2
             second_option = at_bat_performance[1]
             case second_option
             when 'P'
@@ -169,7 +169,7 @@ def parseEVA(file_path)
         playerToPerformanceHash[playerName] ||= Performance.new
         # performance is a reference not a copy
         performance = playerToPerformanceHash[playerName]
-        performance[:did_start] = true
+        performance[:did_start] = false
         performance[:player_id] = Player.find_by_retrosheet_id(playerName).id
         performance[:game_id] = current_game.id
       else
@@ -191,7 +191,7 @@ Dir.entries('./raw_data').each do |dir|
   file_names = Dir.entries("./raw_data/#{dir}")
   file_names.each do |file_name|
     if file_name =~ /.*\.EV(A|N)/
-      # puts "./raw_data/#{dir}/#{file_name}"
+      puts "./raw_data/#{dir}/#{file_name}"
       parseEVA("./raw_data/#{dir}/#{file_name}")
     end
   end
