@@ -12,3 +12,5 @@
 /tmp
 
 raw_data/.DS_Store
+raw_data/play_by_play/.DS_Store
+raw_data/game_logs/.DS_Store
