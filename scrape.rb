@@ -37,14 +37,14 @@ def parseROS(file_path)
 end
 
 # this iterates over every file/directory in raw_data (which we know is a directory)
-Dir.entries('./raw_data').each do |dir|
+Dir.entries('./raw_data/play_by_play').each do |dir|
   # grabs all the files (.ROS, .EVA, .EVN) in the subdirectory
-  file_names = Dir.entries("./raw_data/#{dir}")
+  file_names = Dir.entries("./raw_data/play_by_play/#{dir}")
   
   # 
   file_names.each do |file_name|
     if file_name =~ /.*\.ROS/
-      parseROS("./raw_data/#{dir}/#{file_name}")
+      parseROS("./raw_data/play_by_play/#{dir}/#{file_name}")
     end
   end
 end
