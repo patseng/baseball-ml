@@ -19,6 +19,7 @@ def parseGameLog(file_path)
   CSV.foreach(file_path) do |row|
     home_runs = row[10].to_i
     away_runs = row[9].to_i
+    home_team = TeamMap.teamNamesToInt[row[6]]
     
     date = DateTime.parse(row[0])
     number = row[1]
@@ -31,7 +32,7 @@ def parseGameLog(file_path)
 
     number = number.to_i
 
-    game = Game.find_by_game_date_and_game_number(date, number)
+    game = Game.find_by_home_team_and_game_date_and_game_number(home_team, date, number)
 
     game.home_team_runs = home_runs
     game.away_team_runs = away_runs
