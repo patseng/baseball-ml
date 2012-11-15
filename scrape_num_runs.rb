@@ -38,7 +38,6 @@ def parseGameLog(file_path)
 
     game.home_team_won = (home_runs > away_runs)
 
-    debugger
     game.save
   end
 end
