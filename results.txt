@@ -1,0 +1,9 @@
+SVM Test Results
+
+Feature Set #1
+C = 0;	# WE CAN'T DO THIS. DON'T DO IT PLEASE.
+C = 1;	accuracy = 0.5578673602080624
+C = 5;	accuracy = 0.5578673602080624
+C = 10;	accuracy = 0.5578673602080624
+C = 15;	accuracy = 0.5578673602080624
+C = 50;	accuracy = 0.5578673602080624
