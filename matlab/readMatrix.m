@@ -1,4 +1,4 @@
-function [matrix, tokenlist, category] = readMatrix(filename)
+function [matrix, category] = readMatrix(filename)
 
 fid = fopen(filename);
 
