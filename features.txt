@@ -1,0 +1,7 @@
+Each training vector represents the upcoming match up for Team A (home) vs Team B (away)
+
+Feature Set #1
+
+0: Run differential in most recent head-to-head match up (A's score - B's score)
+1: Run differential in 2nd most recent head-to-head match up (A's score - B's score) 
+2: Run differential in 3rd most recent head-to-head match up (A's score - B's score)
