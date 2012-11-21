@@ -20,8 +20,8 @@ ActiveRecord::Base.establish_connection(dbconfig)
 # =============================================================================
 
 def addFeaturesAndLabel(game, examples, labels)
-  home_faceoffs = Game.where("home_team = ? and away_team = ?", game.home_team, game.away_team).order("game_date desc").limit(3)
-  away_faceoffs = Game.where("home_team = ? and away_team = ?", game.away_team, game.home_team).order("game_date desc").limit(3)
+  home_faceoffs = Game.where("home_team = ? and away_team = ? and game_date <= ?", game.home_team, game.away_team, game.game_date - 1).order("game_date desc").limit(3)
+  away_faceoffs = Game.where("home_team = ? and away_team = ? and game_date <= ?", game.away_team, game.home_team, game.game_date - 1).order("game_date desc").limit(3)
   past_games = home_faceoffs.concat(away_faceoffs)
   past_games = past_games.sort {|game1, game2| game2.game_date <=> game1.game_date }
 
