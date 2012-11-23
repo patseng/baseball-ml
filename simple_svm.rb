@@ -53,6 +53,66 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
       feature_set << feature.h2h_diff_3
     end
 
+    if feature.run_differentials_1 == nil
+      next
+    else
+      feature_set << feature.run_differentials_1
+    end
+
+    if feature.run_differentials_2 == nil
+      next
+    else
+      feature_set << feature.run_differentials_2
+    end
+
+    if feature.run_differentials_5 == nil
+      next
+    else
+      feature_set << feature.run_differentials_5
+    end
+
+    if feature.run_differentials_10 == nil
+      next
+    else
+      feature_set << feature.run_differentials_10
+    end
+
+    if feature.run_differentials_20 == nil
+      next
+    else
+      feature_set << feature.run_differentials_20
+    end
+
+    if feature.opp_differentials_1 == nil
+      next
+    else
+      feature_set << feature.opp_differentials_1
+    end
+
+    if feature.opp_differentials_2 == nil
+      next
+    else
+      feature_set << feature.opp_differentials_2
+    end
+
+    if feature.opp_differentials_5 == nil
+      next
+    else
+      feature_set << feature.opp_differentials_5
+    end
+
+    if feature.opp_differentials_10 == nil
+      next
+    else
+      feature_set << feature.opp_differentials_10
+    end
+
+    if feature.opp_differentials_20 == nil
+      next
+    else
+      feature_set << feature.opp_differentials_20
+    end
+
     examples << feature_set
     labels << (feature.home_team_won ? 1 : -1)
   end
