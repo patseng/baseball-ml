@@ -129,6 +129,9 @@ parameter.cache_size = 1
 parameter.eps = 0.001
 parameter.c = 10
 
+# Type can be LINEAR, POLY, RBF, SIGMOID
+parameter.kernel_type = Libsvm::KernelType::LINEAR
+
 training_examples = training_examples.map {|ary| Libsvm::Node.features(ary) }
 problem.set_examples(training_labels, training_examples)
 
