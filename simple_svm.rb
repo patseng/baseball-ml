@@ -53,64 +53,64 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
       feature_set << feature.h2h_diff_3
     end
 
-    if feature.run_differentials_1 == nil
+    if feature.run_differentials_1 == nil or feature.opp_differentials_1 == nil
       next
     else
-      feature_set << feature.run_differentials_1
+      feature_set << feature.run_differentials_1 - feature.opp_differentials_1
     end
 
-    if feature.run_differentials_2 == nil
+    if feature.run_differentials_2 == nil or feature.opp_differentials_2 == nil
       next
     else
-      feature_set << feature.run_differentials_2
+      feature_set << feature.run_differentials_2 - feature.opp_differentials_2
     end
 
-    if feature.run_differentials_5 == nil
+    if feature.run_differentials_5 == nil or feature.opp_differentials_5 == nil
       next
     else
-      feature_set << feature.run_differentials_5
+      feature_set << feature.run_differentials_5 - feature.opp_differentials_5
     end
 
-    if feature.run_differentials_10 == nil
+    if feature.run_differentials_10 == nil or feature.opp_differentials_10 == nil
       next
     else
-      feature_set << feature.run_differentials_10
+      feature_set << feature.run_differentials_10 - feature.opp_differentials_10
     end
 
-    if feature.run_differentials_20 == nil
+    if feature.run_differentials_20 == nil or feature.opp_differentials_20 == nil
       next
     else
-      feature_set << feature.run_differentials_20
+      feature_set << feature.run_differentials_20 - feature.opp_differentials_20
     end
 
-    if feature.opp_differentials_1 == nil
+    if feature.win_differentials_1 == nil or feature.opp_win_differentials_1 == nil
       next
     else
-      feature_set << feature.opp_differentials_1
+      feature_set << feature.win_differentials_1 - feature.opp_win_differentials_1
     end
 
-    if feature.opp_differentials_2 == nil
+    if feature.win_differentials_2 == nil or feature.opp_win_differentials_2 == nil
       next
     else
-      feature_set << feature.opp_differentials_2
+      feature_set << feature.win_differentials_2 - feature.opp_win_differentials_2
     end
 
-    if feature.opp_differentials_5 == nil
+    if feature.win_differentials_5 == nil or feature.opp_win_differentials_5 == nil
       next
     else
-      feature_set << feature.opp_differentials_5
+      feature_set << feature.win_differentials_5 - feature.opp_win_differentials_5
     end
 
-    if feature.opp_differentials_10 == nil
+    if feature.win_differentials_10 == nil or feature.opp_win_differentials_10 == nil
       next
     else
-      feature_set << feature.opp_differentials_10
+      feature_set << feature.win_differentials_10 - feature.opp_win_differentials_10
     end
 
-    if feature.opp_differentials_20 == nil
+    if feature.win_differentials_20 == nil or feature.opp_win_differentials_20 == nil
       next
     else
-      feature_set << feature.opp_differentials_20
+      feature_set << feature.win_differentials_20 - feature.opp_win_differentials_20
     end
 
     examples << feature_set
