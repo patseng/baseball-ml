@@ -9,6 +9,7 @@ require 'libsvm'
 require './models/game.rb'
 require './models/player.rb'
 require './models/performance.rb'
+require './models/feature.rb'
 
 require './teamMap.rb'
 
@@ -19,40 +20,41 @@ ActiveRecord::Base.establish_connection(dbconfig)
 # helper function
 # =============================================================================
 
-def addFeaturesAndLabel(home_team, away_team, earliest_date, latest_date, examples, labels)
-  home_faceoffs = Game.where("home_team = ? and away_team = ? and game_date > ? and game_date <= ?", home_team, away_team, earliest_date, latest_date).order("game_date desc")
-  away_faceoffs = Game.where("home_team = ? and away_team = ? and game_date > ? and game_date <= ?", away_team, home_team, earliest_date, latest_date).order("game_date desc")
-  past_games = home_faceoffs.concat(away_faceoffs)
-  past_games = past_games.sort {|game1, game2| game1.game_date <=> game2.game_date }
+def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
+  all_games = Game.where("game_date > ? AND game_date < ?", earliest_date, latest_date)
 
-  if past_games.size < 3
-    return
-  end
-
-  run_differentials = []
-  past_games.each_with_index do |past_game, index|
-    if past_game.home_team == home_team
-      run_differentials << past_game.home_team_runs - past_game.away_team_runs
-    else 
-      run_differentials << past_game.away_team_runs - past_game.home_team_runs      
+  all_games.each do |game|
+    feature = Feature.find_by_game_id(game.id)
+    if feature == nil
+      feature = Feature.new
+      feature.game_id = game.id
+      feature.home_team_won = game.home_team_won
+      feature.save
     end
 
-    if run_differentials.size > 3
-      run_differentials.shift
+    feature_set = []
+
+    # Add in individual features
+    if feature.h2h_diff_1 == nil
+      next
+    else
+      feature_set << feature.h2h_diff_1
     end
 
-    if past_games.size == index + 1
-      return
+    if feature.h2h_diff_2 == nil
+      next
+    else
+      feature_set << feature.h2h_diff_2
+    end
+    
+    if feature.h2h_diff_3 == nil
+      next
+    else
+      feature_set << feature.h2h_diff_3
     end
 
-    game = past_games[index + 1]
-
-    if game.home_team_runs > game.away_team_runs then y = 1 else y = -1 end
-
-    if run_differentials.size == 3
-      examples << run_differentials
-      labels << y
-    end
+    examples << feature_set
+    labels << (feature.home_team_won ? 1 : -1)
   end
 end
 
@@ -63,59 +65,12 @@ end
 puts "generating training set...."
 training_examples = []
 training_labels = []
-#=begin
-File.open("features/1_run_differentials/training_examples.yaml", "r") do |object|
-  training_examples = YAML::load(object)
-end
-File.open("features/1_run_differentials/training_labels.yaml", "r") do |object|
-  training_labels = YAML::load(object)
-end
-#=end
-
-=begin
-(1 .. 30).each do |i|
-  (i + 1 .. 30).each do |j|
-    addFeaturesAndLabel(i, j, DateTime.parse("20010101"), DateTime.parse("20110101"), training_examples, training_labels)
-  end
-end
-
-
-puts "writing training set to file..."
-File.open("features/1_run_differentials/training_examples.yaml", "w") do |file|
-  file.puts YAML::dump(training_examples)
-end
-File.open("features/1_run_differentials/training_labels.yaml", "w") do |file|
-  file.puts YAML::dump(training_labels)
-end
-=end
+addFeaturesAndLabel(DateTime.parse("20010101"), DateTime.parse("20110101"), training_examples, training_labels)
 
 puts "generating testing set...."
 testing_examples = []
 testing_labels = []
-#=begin
-File.open("features/1_run_differentials/testing_examples.yaml", "r") do |object|
-  testing_examples = YAML::load(object)
-end
-File.open("features/1_run_differentials/testing_labels.yaml", "r") do |object|
-  testing_labels = YAML::load(object)
-end
-#=end
-
-=begin
-(1 .. 30).each do |i|
-  (i + 1 .. 30).each do |j|
-    addFeaturesAndLabel(i, j, DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
-  end
-end
-
-puts "writing testing set to file..."
-File.open("features/1_run_differentials/testing_examples.yaml", "w") do |file|
-  file.puts YAML::dump(testing_examples)
-end
-File.open("features/1_run_differentials/testing_labels.yaml", "w") do |file|
-  file.puts YAML::dump(testing_labels)
-end
-=end
+addFeaturesAndLabel(DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
 
 # =============================================================================
 # train svm
