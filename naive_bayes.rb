@@ -139,3 +139,25 @@ puts "generating testing set...."
 testing_examples = []
 testing_labels = []
 addFeaturesAndLabel(DateTime.parse("20100101"), DateTime.parse("20110101"), testing_examples, testing_labels)
+
+File.open("train_matrix.out", 'w') do |f|
+  training_examples.each_with_index do |example, i|
+    f.write(training_labels[i])
+    example.each do |feature|
+      f.write(',')
+      f.write(feature)
+    end
+    f.write("\n")
+  end
+end
+
+File.open("test_matrix.out", 'w') do |f|
+  testing_examples.each_with_index do |example, i|
+    f.write(testing_labels[i])
+    example.each do |feature|
+      f.write(',')
+      f.write(feature)
+    end
+    f.write("\n")
+  end
+end
