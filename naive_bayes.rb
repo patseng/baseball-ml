@@ -121,7 +121,7 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     #feature_set << (feature.home_team_won ? 1 : -1)
 
     examples << feature_set
-    labels << (feature.home_team_won ? 1 : -1)
+    labels << (feature.home_team_won ? 1 : 0)
   end
 end
 
@@ -133,6 +133,7 @@ puts "generating training set...."
 training_examples = []
 training_labels = []
 addFeaturesAndLabel(DateTime.parse("20080101"), DateTime.parse("20100101"), training_examples, training_labels)
+
 
 puts "generating testing set...."
 testing_examples = []
