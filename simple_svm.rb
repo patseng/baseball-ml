@@ -134,15 +134,13 @@ parameter.svm_type = Libsvm::SvmType::C_SVC
 parameter.nu = 0.5
 parameter.gamma = 1.0/training_examples[0].size
 
-parameter.kernel_type = Libsvm::KernelType::RBF
-
 parameter.cache_size = 100
 
 parameter.eps = 0.001
 parameter.c = 10
 
 # Type can be LINEAR, POLY, RBF, SIGMOID
-parameter.kernel_type = Libsvm::KernelType::LINEAR
+parameter.kernel_type = Libsvm::KernelType::RBF
 
 training_examples = training_examples.map {|ary| Libsvm::Node.features(ary) }
 problem.set_examples(training_labels, training_examples)
