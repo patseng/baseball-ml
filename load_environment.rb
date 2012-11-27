@@ -5,9 +5,7 @@ require 'CSV'
 require 'debugger'
 require 'date'
 
-require './models/player.rb'
-require './models/game.rb'
-require './models/performance.rb'
+Dir["./models/*.rb"].each {|file| require file }
 
 dbconfig = YAML::load(File.open('database.yml'))
 ActiveRecord::Base.establish_connection(dbconfig)
