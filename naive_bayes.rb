@@ -118,7 +118,7 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     end
 
 
-    #feature_set << (feature.home_team_won ? 1 : -1)
+    #feature_set << (feature.home_team_won ? 1 : 0)
 
     examples << feature_set
     labels << (feature.home_team_won ? 1 : 0)
@@ -132,7 +132,7 @@ end
 puts "generating training set...."
 training_examples = []
 training_labels = []
-addFeaturesAndLabel(DateTime.parse("20080101"), DateTime.parse("20100101"), training_examples, training_labels)
+addFeaturesAndLabel(DateTime.parse("20010101"), DateTime.parse("20100101"), training_examples, training_labels)
 
 
 puts "generating testing set...."
@@ -140,24 +140,61 @@ testing_examples = []
 testing_labels = []
 addFeaturesAndLabel(DateTime.parse("20100101"), DateTime.parse("20110101"), testing_examples, testing_labels)
 
-File.open("train_matrix.out", 'w') do |f|
-  training_examples.each_with_index do |example, i|
-    f.write(training_labels[i])
-    example.each do |feature|
-      f.write(',')
-      f.write(feature)
+
+num_wins = training_labels.reduce(:+).to_f
+prior = training_labels.reduce(:+).to_f / training_labels.size
+
+num_features = (training_examples[0].size - 1)
+
+x_count_win = []
+x_count_loss = []
+(0..(num_features)).each do |i|
+  x_count_win << 1
+  x_count_loss << 1
+end
+
+
+(0..num_features).each do |i|
+  (0..training_examples.size - 1).each do |j|
+    if training_examples[j][i] == 1
+      if training_labels[j] == 1
+        x_count_win[i] += 1
+      else
+        x_count_loss[i] += 1
+      end
     end
-    f.write("\n")
   end
 end
 
-File.open("test_matrix.out", 'w') do |f|
-  testing_examples.each_with_index do |example, i|
-    f.write(testing_labels[i])
-    example.each do |feature|
-      f.write(',')
-      f.write(feature)
-    end
-    f.write("\n")
-  end
+x_prob_win = x_count_win
+x_prob_loss = x_count_loss
+
+errors = 0
+(0..num_features).each do |i|
+  x_prob_win[i] = x_count_win[i]/(num_wins + 2)
+  x_prob_loss[i] = x_count_loss[i]/(training_examples.size - num_wins + 2)
 end
+
+testing_examples.each_with_index do |test_vector, index|
+  p_win = Math.log(prior)
+  p_loss = Math.log(1 - prior)
+
+  (0..num_features).each do |i|
+    p_win += Math.log(test_vector[i] == 1 ? x_prob_win[i] : 1 - x_prob_win[i])
+    p_loss += Math.log(test_vector[i] == 1 ? x_prob_loss[i] : 1 - x_prob_loss[i])
+  end
+
+  guess = 0
+  if p_win > p_loss
+    guess = 1
+  end
+
+  if guess != testing_labels[index]
+    errors += 1
+  end
+
+end
+puts "Errors: #{errors}"
+puts "Error rate: #{(testing_labels.size - errors).to_f / testing_labels.size}"
+
+
