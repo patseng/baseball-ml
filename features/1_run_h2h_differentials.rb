@@ -18,6 +18,7 @@ ActiveRecord::Base.establish_connection(dbconfig)
 
 # =============================================================================
 # helper function
+# creates head to head run differential
 # =============================================================================
 
 def addFeaturesAndLabel(home_team, away_team, earliest_date, latest_date)

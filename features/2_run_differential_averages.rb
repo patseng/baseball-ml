@@ -17,7 +17,8 @@ dbconfig = YAML::load(File.open('database.yml'))
 ActiveRecord::Base.establish_connection(dbconfig)
 
 # =============================================================================
-# helper function
+# helper function 
+# These are general run diffferentials not head to head
 # =============================================================================
 
 # Adding last 1, 2, 5, 10, and 20 games
