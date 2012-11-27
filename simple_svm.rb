@@ -35,83 +35,50 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     feature_set = []
 
     # Add in individual features
-    if feature.h2h_diff_1 == nil
-      next
-    else
-      feature_set << feature.h2h_diff_1
-    end
-
-    if feature.h2h_diff_2 == nil
-      next
-    else
-      feature_set << feature.h2h_diff_2
-    end
+    feature_set << feature.h2h_diff_1
+    feature_set << feature.h2h_diff_2
+    feature_set << feature.h2h_diff_3
     
-    if feature.h2h_diff_3 == nil
-      next
-    else
-      feature_set << feature.h2h_diff_3
-    end
+=begin
+    feature_set << feature.run_differentials_1
+    feature_set << feature.opp_differentials_1
+    feature_set << feature.run_differentials_2
+    feature_set << feature.opp_differentials_2
+    feature_set << feature.run_differentials_5
+    feature_set << feature.opp_differentials_5
+    feature_set << feature.run_differentials_10
+    feature_set << feature.opp_differentials_10
+    feature_set << feature.run_differentials_20
+    feature_set << feature.opp_differentials_20
 
-    if feature.run_differentials_1 == nil or feature.opp_differentials_1 == nil
-      next
-    else
-      feature_set << feature.run_differentials_1 - feature.opp_differentials_1
-    end
+    feature_set << feature.win_differentials_1
+    feature_set << feature.opp_win_differentials_1
+    feature_set << feature.win_differentials_2
+    feature_set << feature.opp_win_differentials_2
+    feature_set << feature.win_differentials_5
+    feature_set << feature.opp_win_differentials_5
+    feature_set << feature.win_differentials_10
+    feature_set << feature.opp_win_differentials_10
+    feature_set << feature.win_differentials_20
+    feature_set << feature.opp_win_differentials_20
+=end
 
-    if feature.run_differentials_2 == nil or feature.opp_differentials_2 == nil
-      next
-    else
-      feature_set << feature.run_differentials_2 - feature.opp_differentials_2
-    end
+#=begin
+    # Add in the differences between features. Could be preferable?
+    feature_set << feature.run_differentials_1 - feature.opp_differentials_1
+    feature_set << feature.run_differentials_2 - feature.opp_differentials_2
+    feature_set << feature.run_differentials_5 - feature.opp_differentials_5
+    feature_set << feature.run_differentials_10 - feature.opp_differentials_10
+    feature_set << feature.run_differentials_20 - feature.opp_differentials_20
+    
+    feature_set << feature.win_differentials_1 - feature.opp_win_differentials_1
+    feature_set << feature.win_differentials_2 - feature.opp_win_differentials_2
+    feature_set << feature.win_differentials_5 - feature.opp_win_differentials_5
+    feature_set << feature.win_differentials_10 - feature.opp_win_differentials_10
+    feature_set << feature.win_differentials_20 - feature.opp_win_differentials_20
+#=end
 
-    if feature.run_differentials_5 == nil or feature.opp_differentials_5 == nil
-      next
-    else
-      feature_set << feature.run_differentials_5 - feature.opp_differentials_5
-    end
-
-    if feature.run_differentials_10 == nil or feature.opp_differentials_10 == nil
-      next
-    else
-      feature_set << feature.run_differentials_10 - feature.opp_differentials_10
-    end
-
-    if feature.run_differentials_20 == nil or feature.opp_differentials_20 == nil
-      next
-    else
-      feature_set << feature.run_differentials_20 - feature.opp_differentials_20
-    end
-
-    if feature.win_differentials_1 == nil or feature.opp_win_differentials_1 == nil
-      next
-    else
-      feature_set << feature.win_differentials_1 - feature.opp_win_differentials_1
-    end
-
-    if feature.win_differentials_2 == nil or feature.opp_win_differentials_2 == nil
-      next
-    else
-      feature_set << feature.win_differentials_2 - feature.opp_win_differentials_2
-    end
-
-    if feature.win_differentials_5 == nil or feature.opp_win_differentials_5 == nil
-      next
-    else
-      feature_set << feature.win_differentials_5 - feature.opp_win_differentials_5
-    end
-
-    if feature.win_differentials_10 == nil or feature.opp_win_differentials_10 == nil
-      next
-    else
-      feature_set << feature.win_differentials_10 - feature.opp_win_differentials_10
-    end
-
-    if feature.win_differentials_20 == nil or feature.opp_win_differentials_20 == nil
-      next
-    else
-      feature_set << feature.win_differentials_20 - feature.opp_win_differentials_20
-    end
+    #feature_set << (feature.home_team_won ? 1 : -1)
 
     examples << feature_set
     labels << (feature.home_team_won ? 1 : -1)
@@ -125,12 +92,36 @@ end
 puts "generating training set...."
 training_examples = []
 training_labels = []
-addFeaturesAndLabel(DateTime.parse("20010101"), DateTime.parse("20110101"), training_examples, training_labels)
+addFeaturesAndLabel(DateTime.parse("20080101"), DateTime.parse("20100101"), training_examples, training_labels)
 
 puts "generating testing set...."
 testing_examples = []
 testing_labels = []
-addFeaturesAndLabel(DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
+addFeaturesAndLabel(DateTime.parse("20100101"), DateTime.parse("20110101"), testing_examples, testing_labels)
+
+=begin
+File.open("train_matrix.out", 'w') do |f|
+  training_examples.each_with_index do |example, i|
+    f.write(training_labels[i])
+    example.each do |feature|
+      f.write(',')
+      f.write(feature)
+    end
+    f.write("\n")
+  end
+end
+
+File.open("test_matrix.out", 'w') do |f|
+  testing_examples.each_with_index do |example, i|
+    f.write(testing_labels[i])
+    example.each do |feature|
+      f.write(',')
+      f.write(feature)
+    end
+    f.write("\n")
+  end
+end
+=end
 
 # =============================================================================
 # train svm
@@ -139,7 +130,13 @@ addFeaturesAndLabel(DateTime.parse("20110101"), DateTime.parse("20120101"), test
 problem = Libsvm::Problem.new
 parameter = Libsvm::SvmParameter.new
 
-parameter.cache_size = 1
+parameter.svm_type = Libsvm::SvmType::C_SVC
+parameter.nu = 0.5
+parameter.gamma = 1.0/training_examples[0].size
+
+parameter.kernel_type = Libsvm::KernelType::RBF
+
+parameter.cache_size = 100
 
 parameter.eps = 0.001
 parameter.c = 10
@@ -160,9 +157,13 @@ model = Libsvm::Model.train(problem, parameter)
 puts "testing..."
 hits = 0.0
 misses = 0
+ones = 0
 testing_examples.each_with_index do |testing_example, i|
   test_example = Libsvm::Node.features(testing_example)
   pred = model.predict(test_example)
+  if pred == 1
+    ones += 1
+  end
   if pred == testing_labels[i]
     hits += 1
   else
@@ -171,4 +172,6 @@ testing_examples.each_with_index do |testing_example, i|
 end
 
 error = hits / (hits + misses)
-puts error
+puts "Accuracy: #{error}"
+puts "1s: #{ones}"
+puts "Total examples: #{hits + misses}"
