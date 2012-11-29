@@ -18,6 +18,7 @@ def parseEVA(file_path)
   # this opens the csv at the file path at iterates over the rows
   current_game = nil
   game_date = nil
+  home_team = nil
   
   playerToPerformanceHash = {}
   begin    
@@ -28,8 +29,10 @@ def parseEVA(file_path)
         second_token = row[1]
         if second_token == 'date'
           game_date = DateTime.parse(row[2])
+        elsif second_token == 'hometeam'
+          home_team = TeamMap.teamNamesToInt[row[2]]
         elsif second_token == 'number'
-          current_game = Game.find_by_game_date_and_game_number(game_date, row[2].to_i)
+          current_game = Game.find_by_home_team_and_game_date_and_game_number(home_team, game_date, row[2].to_i)
         end
       when 'id'
         if !playerToPerformanceHash.empty?
