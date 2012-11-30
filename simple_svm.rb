@@ -39,7 +39,7 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     feature_set << feature.h2h_diff_2
     feature_set << feature.h2h_diff_3
     
-=begin
+#=begin
     feature_set << feature.run_differentials_1
     feature_set << feature.opp_differentials_1
     feature_set << feature.run_differentials_2
@@ -61,9 +61,9 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     feature_set << feature.opp_win_differentials_10
     feature_set << feature.win_differentials_20
     feature_set << feature.opp_win_differentials_20
-=end
+#=end
 
-#=begin
+=begin
     # Add in the differences between features. Could be preferable?
     feature_set << feature.run_differentials_1 - feature.opp_differentials_1
     feature_set << feature.run_differentials_2 - feature.opp_differentials_2
@@ -76,7 +76,436 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     feature_set << feature.win_differentials_5 - feature.opp_win_differentials_5
     feature_set << feature.win_differentials_10 - feature.opp_win_differentials_10
     feature_set << feature.win_differentials_20 - feature.opp_win_differentials_20
+=end
+
+#=begin
+    feature_set << feature.home_batting_spot_1_walks_last_1_game
+    feature_set << feature.home_batting_spot_2_walks_last_1_game
+    feature_set << feature.home_batting_spot_3_walks_last_1_game
+    feature_set << feature.home_batting_spot_4_walks_last_1_game
+    feature_set << feature.home_batting_spot_5_walks_last_1_game
+    feature_set << feature.home_batting_spot_6_walks_last_1_game
+    feature_set << feature.home_batting_spot_7_walks_last_1_game
+    feature_set << feature.home_batting_spot_8_walks_last_1_game
+    feature_set << feature.home_batting_spot_9_walks_last_1_game
+
+    feature_set << feature.away_batting_spot_1_walks_last_1_game
+    feature_set << feature.away_batting_spot_2_walks_last_1_game
+    feature_set << feature.away_batting_spot_3_walks_last_1_game
+    feature_set << feature.away_batting_spot_4_walks_last_1_game
+    feature_set << feature.away_batting_spot_5_walks_last_1_game
+    feature_set << feature.away_batting_spot_6_walks_last_1_game
+    feature_set << feature.away_batting_spot_7_walks_last_1_game
+    feature_set << feature.away_batting_spot_8_walks_last_1_game
+    feature_set << feature.away_batting_spot_9_walks_last_1_game
+
+    feature_set << feature.home_batting_spot_1_walks_last_2_games
+    feature_set << feature.home_batting_spot_2_walks_last_2_games
+    feature_set << feature.home_batting_spot_3_walks_last_2_games
+    feature_set << feature.home_batting_spot_4_walks_last_2_games
+    feature_set << feature.home_batting_spot_5_walks_last_2_games
+    feature_set << feature.home_batting_spot_6_walks_last_2_games
+    feature_set << feature.home_batting_spot_7_walks_last_2_games
+    feature_set << feature.home_batting_spot_8_walks_last_2_games
+    feature_set << feature.home_batting_spot_9_walks_last_2_games
+
+    feature_set << feature.away_batting_spot_1_walks_last_2_games
+    feature_set << feature.away_batting_spot_2_walks_last_2_games
+    feature_set << feature.away_batting_spot_3_walks_last_2_games
+    feature_set << feature.away_batting_spot_4_walks_last_2_games
+    feature_set << feature.away_batting_spot_5_walks_last_2_games
+    feature_set << feature.away_batting_spot_6_walks_last_2_games
+    feature_set << feature.away_batting_spot_7_walks_last_2_games
+    feature_set << feature.away_batting_spot_8_walks_last_2_games
+    feature_set << feature.away_batting_spot_9_walks_last_2_games
+
+    feature_set << feature.home_batting_spot_1_walks_last_5_games
+    feature_set << feature.home_batting_spot_2_walks_last_5_games
+    feature_set << feature.home_batting_spot_3_walks_last_5_games
+    feature_set << feature.home_batting_spot_4_walks_last_5_games
+    feature_set << feature.home_batting_spot_5_walks_last_5_games
+    feature_set << feature.home_batting_spot_6_walks_last_5_games
+    feature_set << feature.home_batting_spot_7_walks_last_5_games
+    feature_set << feature.home_batting_spot_8_walks_last_5_games
+    feature_set << feature.home_batting_spot_9_walks_last_5_games
+
+    feature_set << feature.away_batting_spot_1_walks_last_5_games
+    feature_set << feature.away_batting_spot_2_walks_last_5_games
+    feature_set << feature.away_batting_spot_3_walks_last_5_games
+    feature_set << feature.away_batting_spot_4_walks_last_5_games
+    feature_set << feature.away_batting_spot_5_walks_last_5_games
+    feature_set << feature.away_batting_spot_6_walks_last_5_games
+    feature_set << feature.away_batting_spot_7_walks_last_5_games
+    feature_set << feature.away_batting_spot_8_walks_last_5_games
+    feature_set << feature.away_batting_spot_9_walks_last_5_games
+
+    feature_set << feature.home_batting_spot_1_walks_last_10_games
+    feature_set << feature.home_batting_spot_2_walks_last_10_games
+    feature_set << feature.home_batting_spot_3_walks_last_10_games
+    feature_set << feature.home_batting_spot_4_walks_last_10_games
+    feature_set << feature.home_batting_spot_5_walks_last_10_games
+    feature_set << feature.home_batting_spot_6_walks_last_10_games
+    feature_set << feature.home_batting_spot_7_walks_last_10_games
+    feature_set << feature.home_batting_spot_8_walks_last_10_games
+    feature_set << feature.home_batting_spot_9_walks_last_10_games
+
+    feature_set << feature.away_batting_spot_1_walks_last_10_games
+    feature_set << feature.away_batting_spot_2_walks_last_10_games
+    feature_set << feature.away_batting_spot_3_walks_last_10_games
+    feature_set << feature.away_batting_spot_4_walks_last_10_games
+    feature_set << feature.away_batting_spot_5_walks_last_10_games
+    feature_set << feature.away_batting_spot_6_walks_last_10_games
+    feature_set << feature.away_batting_spot_7_walks_last_10_games
+    feature_set << feature.away_batting_spot_8_walks_last_10_games
+    feature_set << feature.away_batting_spot_9_walks_last_10_games
+
+    feature_set << feature.home_batting_spot_1_walks_last_20_games
+    feature_set << feature.home_batting_spot_2_walks_last_20_games
+    feature_set << feature.home_batting_spot_3_walks_last_20_games
+    feature_set << feature.home_batting_spot_4_walks_last_20_games
+    feature_set << feature.home_batting_spot_5_walks_last_20_games
+    feature_set << feature.home_batting_spot_6_walks_last_20_games
+    feature_set << feature.home_batting_spot_7_walks_last_20_games
+    feature_set << feature.home_batting_spot_8_walks_last_20_games
+    feature_set << feature.home_batting_spot_9_walks_last_20_games
+
+    feature_set << feature.away_batting_spot_1_walks_last_20_games
+    feature_set << feature.away_batting_spot_2_walks_last_20_games
+    feature_set << feature.away_batting_spot_3_walks_last_20_games
+    feature_set << feature.away_batting_spot_4_walks_last_20_games
+    feature_set << feature.away_batting_spot_5_walks_last_20_games
+    feature_set << feature.away_batting_spot_6_walks_last_20_games
+    feature_set << feature.away_batting_spot_7_walks_last_20_games
+    feature_set << feature.away_batting_spot_8_walks_last_20_games
+    feature_set << feature.away_batting_spot_9_walks_last_20_games
+
+    feature_set << feature.home_batting_spot_1_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_2_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_3_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_4_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_5_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_6_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_7_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_8_batting_percentage_last_1_game
+    feature_set << feature.home_batting_spot_9_batting_percentage_last_1_game
+
+    feature_set << feature.away_batting_spot_1_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_2_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_3_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_4_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_5_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_6_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_7_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_8_batting_percentage_last_1_game
+    feature_set << feature.away_batting_spot_9_batting_percentage_last_1_game
+
+    feature_set << feature.home_batting_spot_1_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_2_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_3_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_4_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_5_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_6_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_7_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_8_batting_percentage_last_2_games
+    feature_set << feature.home_batting_spot_9_batting_percentage_last_2_games
+
+    feature_set << feature.away_batting_spot_1_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_2_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_3_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_4_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_5_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_6_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_7_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_8_batting_percentage_last_2_games
+    feature_set << feature.away_batting_spot_9_batting_percentage_last_2_games
+
+    feature_set << feature.home_batting_spot_1_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_2_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_3_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_4_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_5_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_6_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_7_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_8_batting_percentage_last_5_games
+    feature_set << feature.home_batting_spot_9_batting_percentage_last_5_games
+
+    feature_set << feature.away_batting_spot_1_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_2_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_3_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_4_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_5_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_6_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_7_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_8_batting_percentage_last_5_games
+    feature_set << feature.away_batting_spot_9_batting_percentage_last_5_games
+
+    feature_set << feature.home_batting_spot_1_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_2_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_3_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_4_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_5_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_6_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_7_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_8_batting_percentage_last_10_games
+    feature_set << feature.home_batting_spot_9_batting_percentage_last_10_games
+
+    feature_set << feature.away_batting_spot_1_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_2_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_3_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_4_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_5_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_6_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_7_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_8_batting_percentage_last_10_games
+    feature_set << feature.away_batting_spot_9_batting_percentage_last_10_games
+
+    feature_set << feature.home_batting_spot_1_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_2_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_3_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_4_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_5_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_6_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_7_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_8_batting_percentage_last_20_games
+    feature_set << feature.home_batting_spot_9_batting_percentage_last_20_games
+
+    feature_set << feature.away_batting_spot_1_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_2_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_3_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_4_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_5_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_6_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_7_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_8_batting_percentage_last_20_games
+    feature_set << feature.away_batting_spot_9_batting_percentage_last_20_games
+
+    feature_set << feature.home_batting_spot_1_OPS_last_1_game
+    feature_set << feature.home_batting_spot_2_OPS_last_1_game
+    feature_set << feature.home_batting_spot_3_OPS_last_1_game
+    feature_set << feature.home_batting_spot_4_OPS_last_1_game
+    feature_set << feature.home_batting_spot_5_OPS_last_1_game
+    feature_set << feature.home_batting_spot_6_OPS_last_1_game
+    feature_set << feature.home_batting_spot_7_OPS_last_1_game
+    feature_set << feature.home_batting_spot_8_OPS_last_1_game
+    feature_set << feature.home_batting_spot_9_OPS_last_1_game
+
+    feature_set << feature.away_batting_spot_1_OPS_last_1_game
+    feature_set << feature.away_batting_spot_2_OPS_last_1_game
+    feature_set << feature.away_batting_spot_3_OPS_last_1_game
+    feature_set << feature.away_batting_spot_4_OPS_last_1_game
+    feature_set << feature.away_batting_spot_5_OPS_last_1_game
+    feature_set << feature.away_batting_spot_6_OPS_last_1_game
+    feature_set << feature.away_batting_spot_7_OPS_last_1_game
+    feature_set << feature.away_batting_spot_8_OPS_last_1_game
+    feature_set << feature.away_batting_spot_9_OPS_last_1_game
+
+    feature_set << feature.home_batting_spot_1_OPS_last_2_games
+    feature_set << feature.home_batting_spot_2_OPS_last_2_games
+    feature_set << feature.home_batting_spot_3_OPS_last_2_games
+    feature_set << feature.home_batting_spot_4_OPS_last_2_games
+    feature_set << feature.home_batting_spot_5_OPS_last_2_games
+    feature_set << feature.home_batting_spot_6_OPS_last_2_games
+    feature_set << feature.home_batting_spot_7_OPS_last_2_games
+    feature_set << feature.home_batting_spot_8_OPS_last_2_games
+    feature_set << feature.home_batting_spot_9_OPS_last_2_games
+
+    feature_set << feature.away_batting_spot_1_OPS_last_2_games
+    feature_set << feature.away_batting_spot_2_OPS_last_2_games
+    feature_set << feature.away_batting_spot_3_OPS_last_2_games
+    feature_set << feature.away_batting_spot_4_OPS_last_2_games
+    feature_set << feature.away_batting_spot_5_OPS_last_2_games
+    feature_set << feature.away_batting_spot_6_OPS_last_2_games
+    feature_set << feature.away_batting_spot_7_OPS_last_2_games
+    feature_set << feature.away_batting_spot_8_OPS_last_2_games
+    feature_set << feature.away_batting_spot_9_OPS_last_2_games
+
+    feature_set << feature.home_batting_spot_1_OPS_last_5_games
+    feature_set << feature.home_batting_spot_2_OPS_last_5_games
+    feature_set << feature.home_batting_spot_3_OPS_last_5_games
+    feature_set << feature.home_batting_spot_4_OPS_last_5_games
+    feature_set << feature.home_batting_spot_5_OPS_last_5_games
+    feature_set << feature.home_batting_spot_6_OPS_last_5_games
+    feature_set << feature.home_batting_spot_7_OPS_last_5_games
+    feature_set << feature.home_batting_spot_8_OPS_last_5_games
+    feature_set << feature.home_batting_spot_9_OPS_last_5_games
+
+    feature_set << feature.away_batting_spot_1_OPS_last_5_games
+    feature_set << feature.away_batting_spot_2_OPS_last_5_games
+    feature_set << feature.away_batting_spot_3_OPS_last_5_games
+    feature_set << feature.away_batting_spot_4_OPS_last_5_games
+    feature_set << feature.away_batting_spot_5_OPS_last_5_games
+    feature_set << feature.away_batting_spot_6_OPS_last_5_games
+    feature_set << feature.away_batting_spot_7_OPS_last_5_games
+    feature_set << feature.away_batting_spot_8_OPS_last_5_games
+    feature_set << feature.away_batting_spot_9_OPS_last_5_games
+
+    feature_set << feature.home_batting_spot_1_OPS_last_10_games
+    feature_set << feature.home_batting_spot_2_OPS_last_10_games
+    feature_set << feature.home_batting_spot_3_OPS_last_10_games
+    feature_set << feature.home_batting_spot_4_OPS_last_10_games
+    feature_set << feature.home_batting_spot_5_OPS_last_10_games
+    feature_set << feature.home_batting_spot_6_OPS_last_10_games
+    feature_set << feature.home_batting_spot_7_OPS_last_10_games
+    feature_set << feature.home_batting_spot_8_OPS_last_10_games
+    feature_set << feature.home_batting_spot_9_OPS_last_10_games
+
+    feature_set << feature.away_batting_spot_1_OPS_last_10_games
+    feature_set << feature.away_batting_spot_2_OPS_last_10_games
+    feature_set << feature.away_batting_spot_3_OPS_last_10_games
+    feature_set << feature.away_batting_spot_4_OPS_last_10_games
+    feature_set << feature.away_batting_spot_5_OPS_last_10_games
+    feature_set << feature.away_batting_spot_6_OPS_last_10_games
+    feature_set << feature.away_batting_spot_7_OPS_last_10_games
+    feature_set << feature.away_batting_spot_8_OPS_last_10_games
+    feature_set << feature.away_batting_spot_9_OPS_last_10_games
+
+    feature_set << feature.home_batting_spot_1_OPS_last_20_games
+    feature_set << feature.home_batting_spot_2_OPS_last_20_games
+    feature_set << feature.home_batting_spot_3_OPS_last_20_games
+    feature_set << feature.home_batting_spot_4_OPS_last_20_games
+    feature_set << feature.home_batting_spot_5_OPS_last_20_games
+    feature_set << feature.home_batting_spot_6_OPS_last_20_games
+    feature_set << feature.home_batting_spot_7_OPS_last_20_games
+    feature_set << feature.home_batting_spot_8_OPS_last_20_games
+    feature_set << feature.home_batting_spot_9_OPS_last_20_games
+
+    feature_set << feature.away_batting_spot_1_OPS_last_20_games
+    feature_set << feature.away_batting_spot_2_OPS_last_20_games
+    feature_set << feature.away_batting_spot_3_OPS_last_20_games
+    feature_set << feature.away_batting_spot_4_OPS_last_20_games
+    feature_set << feature.away_batting_spot_5_OPS_last_20_games
+    feature_set << feature.away_batting_spot_6_OPS_last_20_games
+    feature_set << feature.away_batting_spot_7_OPS_last_20_games
+    feature_set << feature.away_batting_spot_8_OPS_last_20_games
+    feature_set << feature.away_batting_spot_9_OPS_last_20_games
+
+    feature_set << feature.home_batting_spot_1_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_2_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_3_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_4_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_5_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_6_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_7_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_8_strikeout_rate_last_1_game
+    feature_set << feature.home_batting_spot_9_strikeout_rate_last_1_game
+
+    feature_set << feature.away_batting_spot_1_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_2_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_3_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_4_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_5_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_6_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_7_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_8_strikeout_rate_last_1_game
+    feature_set << feature.away_batting_spot_9_strikeout_rate_last_1_game
+
+    feature_set << feature.home_batting_spot_1_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_2_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_3_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_4_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_5_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_6_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_7_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_8_strikeout_rate_last_2_games
+    feature_set << feature.home_batting_spot_9_strikeout_rate_last_2_games
+
+    feature_set << feature.away_batting_spot_1_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_2_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_3_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_4_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_5_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_6_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_7_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_8_strikeout_rate_last_2_games
+    feature_set << feature.away_batting_spot_9_strikeout_rate_last_2_games
+
+    feature_set << feature.home_batting_spot_1_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_2_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_3_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_4_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_5_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_6_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_7_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_8_strikeout_rate_last_5_games
+    feature_set << feature.home_batting_spot_9_strikeout_rate_last_5_games
+
+    feature_set << feature.away_batting_spot_1_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_2_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_3_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_4_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_5_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_6_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_7_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_8_strikeout_rate_last_5_games
+    feature_set << feature.away_batting_spot_9_strikeout_rate_last_5_games
+
+    feature_set << feature.home_batting_spot_1_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_2_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_3_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_4_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_5_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_6_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_7_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_8_strikeout_rate_last_10_games
+    feature_set << feature.home_batting_spot_9_strikeout_rate_last_10_games
+
+    feature_set << feature.away_batting_spot_1_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_2_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_3_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_4_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_5_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_6_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_7_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_8_strikeout_rate_last_10_games
+    feature_set << feature.away_batting_spot_9_strikeout_rate_last_10_games
+
+    feature_set << feature.home_batting_spot_1_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_2_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_3_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_4_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_5_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_6_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_7_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_8_strikeout_rate_last_20_games
+    feature_set << feature.home_batting_spot_9_strikeout_rate_last_20_games
+
+    feature_set << feature.away_batting_spot_1_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_2_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_3_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_4_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_5_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_6_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_7_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_8_strikeout_rate_last_20_games
+    feature_set << feature.away_batting_spot_9_strikeout_rate_last_20_games
 #=end
+
+=begin
+    feature_set << feature.home_batting_spot_1_walks_last_1_game - feature.away_batting_spot_1_walks_last_1_game
+    feature_set << feature.home_batting_spot_2_walks_last_1_game - feature.away_batting_spot_2_walks_last_1_game
+    feature_set << feature.home_batting_spot_3_walks_last_1_game - feature.away_batting_spot_3_walks_last_1_game
+    feature_set << feature.home_batting_spot_4_walks_last_1_game - feature.away_batting_spot_4_walks_last_1_game
+    feature_set << feature.home_batting_spot_5_walks_last_1_game - feature.away_batting_spot_5_walks_last_1_game
+    feature_set << feature.home_batting_spot_6_walks_last_1_game - feature.away_batting_spot_6_walks_last_1_game
+    feature_set << feature.home_batting_spot_7_walks_last_1_game - feature.away_batting_spot_7_walks_last_1_game
+    feature_set << feature.home_batting_spot_8_walks_last_1_game - feature.away_batting_spot_8_walks_last_1_game
+    feature_set << feature.home_batting_spot_9_walks_last_1_game - feature.away_batting_spot_9_walks_last_1_game
+=end
+
+=begin
+    walk_diff = 0
+    walk_diff += feature.home_batting_spot_1_walks_last_1_game - feature.away_batting_spot_1_walks_last_1_game
+    walk_diff += feature.home_batting_spot_2_walks_last_1_game - feature.away_batting_spot_2_walks_last_1_game
+    walk_diff += feature.home_batting_spot_3_walks_last_1_game - feature.away_batting_spot_3_walks_last_1_game
+    walk_diff += feature.home_batting_spot_4_walks_last_1_game - feature.away_batting_spot_4_walks_last_1_game
+    walk_diff += feature.home_batting_spot_5_walks_last_1_game - feature.away_batting_spot_5_walks_last_1_game
+    walk_diff += feature.home_batting_spot_6_walks_last_1_game - feature.away_batting_spot_6_walks_last_1_game
+    walk_diff += feature.home_batting_spot_7_walks_last_1_game - feature.away_batting_spot_7_walks_last_1_game
+    walk_diff += feature.home_batting_spot_8_walks_last_1_game - feature.away_batting_spot_8_walks_last_1_game
+    walk_diff += feature.home_batting_spot_9_walks_last_1_game - feature.away_batting_spot_9_walks_last_1_game
+    feature_set << walk_diff
+=end
+    
 
     #feature_set << (feature.home_team_won ? 1 : -1)
 
