@@ -649,7 +649,7 @@ parameter.c = 10
 
 # Type can be LINEAR, POLY, RBF, SIGMOID
 parameter.kernel_type = Libsvm::KernelType::RBF
-
+ 
 training_examples = training_examples.map {|ary| Libsvm::Node.features(ary) }
 problem.set_examples(training_labels, training_examples)
 
