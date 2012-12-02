@@ -32,25 +32,26 @@ def parseGameLog(file_path)
 
     game = Game.find_by_home_team_and_game_date_and_game_number(home_team, date, number)
 
-    game.home_batting_spot_1 = row[105]
-    game.home_batting_spot_2 = row[108]
-    game.home_batting_spot_3 = row[111]
-    game.home_batting_spot_4 = row[114]
-    game.home_batting_spot_5 = row[117]
-    game.home_batting_spot_6 = row[120]
-    game.home_batting_spot_7 = row[123]
-    game.home_batting_spot_8 = row[126]
-    game.home_batting_spot_9 = row[129]
+    game.away_batting_spot_1 = row[105]
+    game.away_batting_spot_2 = row[108]
+    game.away_batting_spot_3 = row[111]
+    game.away_batting_spot_4 = row[114]
+    game.away_batting_spot_5 = row[117]
+    game.away_batting_spot_6 = row[120]
+    game.away_batting_spot_7 = row[123]
+    game.away_batting_spot_8 = row[126]
+    game.away_batting_spot_9 = row[129]
     
-    game.away_batting_spot_1 = row[132]
-    game.away_batting_spot_2 = row[135]
-    game.away_batting_spot_3 = row[138]
-    game.away_batting_spot_4 = row[141]
-    game.away_batting_spot_5 = row[144]
-    game.away_batting_spot_6 = row[147]
-    game.away_batting_spot_7 = row[150]
-    game.away_batting_spot_8 = row[153]
-    game.away_batting_spot_9 = row[156]
+    game.home_batting_spot_1 = row[132]
+    game.home_batting_spot_2 = row[135]
+    game.home_batting_spot_3 = row[138]
+    game.home_batting_spot_4 = row[141]
+    game.home_batting_spot_5 = row[144]
+    game.home_batting_spot_6 = row[147]
+    game.home_batting_spot_7 = row[150]
+    game.home_batting_spot_8 = row[153]
+    game.home_batting_spot_9 = row[156]
+
 
     game.save
   end
