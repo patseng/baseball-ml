@@ -571,7 +571,6 @@ def addFeaturesAndLabel(team, earliest_date, latest_date, examples, labels)
       feature_set.away_batting_spot_9_strikeout_rate_career = player_performances[past_game.away_batting_spot_9]["career_games"] == 0 ? 0 : player_performances[past_game.away_batting_spot_9]["career_strikeouts"] / player_performances[past_game.away_batting_spot_9]["career_games"]
     end
 
-    debugger
     feature_set.save
 
     performances.each do |perf|
@@ -656,9 +655,10 @@ training_examples = []
 training_labels = []
 
 (1 .. 30).each do |i|
-  addFeaturesAndLabel(i, DateTime.parse("20010101"), DateTime.parse("20110101"), training_examples, training_labels)
+  addFeaturesAndLabel(i, DateTime.parse("20010101"), DateTime.parse("20120101"), training_examples, training_labels)
+  puts "#{i}..."
 end
-
+=begin
 puts "generating testing set...."
 testing_examples = []
 testing_labels = []
@@ -666,3 +666,4 @@ testing_labels = []
 (1 .. 30).each do |i|
   addFeaturesAndLabel(i, DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
 end
+=end
