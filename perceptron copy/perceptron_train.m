@@ -10,7 +10,7 @@ numTokens = size(trainMatrix, 2);
 % 1st column of the matrix in train_matrix.out
 
 LEARNING_RATE = 0.02;
-THRESHOLD = 0;
+THRESHOLD = 0.5;
 theta = zeros(numTokens, 1);
 for i = 1:numTrainDocs
     x_i = trainMatrix(i,:)'; % current training vector

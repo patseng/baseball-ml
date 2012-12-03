@@ -478,6 +478,86 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     feature_set << feature.away_batting_spot_7_strikeout_rate_last_20_games
     feature_set << feature.away_batting_spot_8_strikeout_rate_last_20_games
     feature_set << feature.away_batting_spot_9_strikeout_rate_last_20_games
+    
+    feature_set << feature.home_batting_spot_1_walks_per_game_career
+    feature_set << feature.home_batting_spot_2_walks_per_game_career
+    feature_set << feature.home_batting_spot_3_walks_per_game_career
+    feature_set << feature.home_batting_spot_4_walks_per_game_career
+    feature_set << feature.home_batting_spot_5_walks_per_game_career
+    feature_set << feature.home_batting_spot_6_walks_per_game_career
+    feature_set << feature.home_batting_spot_7_walks_per_game_career
+    feature_set << feature.home_batting_spot_8_walks_per_game_career
+    feature_set << feature.home_batting_spot_9_walks_per_game_career
+    
+    feature_set << feature.away_batting_spot_1_walks_per_game_career
+    feature_set << feature.away_batting_spot_2_walks_per_game_career
+    feature_set << feature.away_batting_spot_3_walks_per_game_career
+    feature_set << feature.away_batting_spot_4_walks_per_game_career
+    feature_set << feature.away_batting_spot_5_walks_per_game_career
+    feature_set << feature.away_batting_spot_6_walks_per_game_career
+    feature_set << feature.away_batting_spot_7_walks_per_game_career
+    feature_set << feature.away_batting_spot_8_walks_per_game_career
+    feature_set << feature.away_batting_spot_9_walks_per_game_career
+    
+    feature_set << feature.home_batting_spot_1_batting_percentage_career
+    feature_set << feature.home_batting_spot_2_batting_percentage_career
+    feature_set << feature.home_batting_spot_3_batting_percentage_career
+    feature_set << feature.home_batting_spot_4_batting_percentage_career
+    feature_set << feature.home_batting_spot_5_batting_percentage_career
+    feature_set << feature.home_batting_spot_6_batting_percentage_career
+    feature_set << feature.home_batting_spot_7_batting_percentage_career
+    feature_set << feature.home_batting_spot_8_batting_percentage_career
+    feature_set << feature.home_batting_spot_9_batting_percentage_career
+    
+    feature_set << feature.away_batting_spot_1_batting_percentage_career
+    feature_set << feature.away_batting_spot_2_batting_percentage_career
+    feature_set << feature.away_batting_spot_3_batting_percentage_career
+    feature_set << feature.away_batting_spot_4_batting_percentage_career
+    feature_set << feature.away_batting_spot_5_batting_percentage_career
+    feature_set << feature.away_batting_spot_6_batting_percentage_career
+    feature_set << feature.away_batting_spot_7_batting_percentage_career
+    feature_set << feature.away_batting_spot_8_batting_percentage_career
+    feature_set << feature.away_batting_spot_9_batting_percentage_career
+    
+    feature_set << feature.home_batting_spot_1_OPS_career
+    feature_set << feature.home_batting_spot_2_OPS_career
+    feature_set << feature.home_batting_spot_3_OPS_career
+    feature_set << feature.home_batting_spot_4_OPS_career
+    feature_set << feature.home_batting_spot_5_OPS_career
+    feature_set << feature.home_batting_spot_6_OPS_career
+    feature_set << feature.home_batting_spot_7_OPS_career
+    feature_set << feature.home_batting_spot_8_OPS_career
+    feature_set << feature.home_batting_spot_9_OPS_career
+    
+    feature_set << feature.away_batting_spot_1_OPS_career
+    feature_set << feature.away_batting_spot_2_OPS_career
+    feature_set << feature.away_batting_spot_3_OPS_career
+    feature_set << feature.away_batting_spot_4_OPS_career
+    feature_set << feature.away_batting_spot_5_OPS_career
+    feature_set << feature.away_batting_spot_6_OPS_career
+    feature_set << feature.away_batting_spot_7_OPS_career
+    feature_set << feature.away_batting_spot_8_OPS_career
+    feature_set << feature.away_batting_spot_9_OPS_career
+    
+    feature_set << feature.home_batting_spot_1_strikeout_rate_career
+    feature_set << feature.home_batting_spot_2_strikeout_rate_career
+    feature_set << feature.home_batting_spot_3_strikeout_rate_career
+    feature_set << feature.home_batting_spot_4_strikeout_rate_career
+    feature_set << feature.home_batting_spot_5_strikeout_rate_career
+    feature_set << feature.home_batting_spot_6_strikeout_rate_career
+    feature_set << feature.home_batting_spot_7_strikeout_rate_career
+    feature_set << feature.home_batting_spot_8_strikeout_rate_career
+    feature_set << feature.home_batting_spot_9_strikeout_rate_career
+    
+    feature_set << feature.away_batting_spot_1_strikeout_rate_career
+    feature_set << feature.away_batting_spot_2_strikeout_rate_career
+    feature_set << feature.away_batting_spot_3_strikeout_rate_career
+    feature_set << feature.away_batting_spot_4_strikeout_rate_career
+    feature_set << feature.away_batting_spot_5_strikeout_rate_career
+    feature_set << feature.away_batting_spot_6_strikeout_rate_career
+    feature_set << feature.away_batting_spot_7_strikeout_rate_career
+    feature_set << feature.away_batting_spot_8_strikeout_rate_career
+    feature_set << feature.away_batting_spot_9_strikeout_rate_career    
 #=end
 
 =begin
