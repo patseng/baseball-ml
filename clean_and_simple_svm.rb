@@ -45,7 +45,7 @@ addFeaturesAndLabel(DateTime.parse("20100101"), DateTime.parse("20110101"), test
 # TODO - modify gamma values
 # gammas = [2^-15, 2^-13, ..., 2^3]
 peter_gamma_exponents = (-15..3).step(2) 
-peter_gammas = gamma_exponents.collect { |x| 2**x } # 
+peter_gammas = peter_gamma_exponents.collect { |x| 2**x } # 
 
 # TODO - modify C values
 # C = [2^-5, 2^-3,..., 2^15]
