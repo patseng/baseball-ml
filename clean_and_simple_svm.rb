@@ -55,10 +55,6 @@ best_accuracy = 0.0
 best_gamma = nil
 best_c = nil
 
-while true
-  
-end
-
 # perform grid search
 File.open("peter-gridsearch.out", 'w') do |f|  
   peter_gammas.each do |gamma|
