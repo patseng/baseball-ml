@@ -14,6 +14,9 @@ module MLHelper
       end
 
       feature_set = feature.attributes
+      
+      # keep the feature if it doesn't match the regular expression
+      feature.attributes.keep_if {|key, value| !(key =~ /.*last.*/)}
 
       # Add in individual features
       excluding = ['game_id','home_team_won', 'created_at', 'updated_at']
@@ -22,6 +25,60 @@ module MLHelper
       examples << feature_set
       labels << (feature.home_team_won ? 1 : 0)
     end
+  end
+  
+  def linearAccuracyGivenDataAndParameters(training_labels, training_examples, testing_labels, testing_examples, c)
+    puts "C = #{c}"
+    # =============================================================================
+    # train svm
+    # =============================================================================
+
+    problem = Libsvm::Problem.new
+    parameter = Libsvm::SvmParameter.new
+
+    parameter.svm_type = Libsvm::SvmType::C_SVC
+    parameter.nu = 0.5
+    parameter.eps = 0.001
+
+    parameter.cache_size = 100
+
+    parameter.c = c.to_f
+
+    # Type can be LINEAR, POLY, RBF, SIGMOID
+    parameter.kernel_type = Libsvm::KernelType::LINEAR
+
+    training_examples = training_examples.map {|ary| Libsvm::Node.features(ary) }
+    problem.set_examples(training_labels, training_examples)
+
+    puts "\ttraining..."
+    model = Libsvm::Model.train(problem, parameter)
+
+    # =============================================================================
+    # find estimated error
+    # =============================================================================
+
+    puts "\ttesting..."
+    hits = 0.0
+    misses = 0
+    ones = 0
+    testing_examples.each_with_index do |testing_example, i|
+      test_example = Libsvm::Node.features(testing_example)
+      pred = model.predict(test_example)
+      if pred == 1
+        ones += 1
+      end
+      if pred == testing_labels[i]
+        hits += 1
+      else
+        misses += 1
+      end
+    end
+
+    accuracy = hits / (hits + misses)
+    puts "\tAccuracy: #{accuracy}"
+    puts "\t1s: #{ones}"
+    puts "\tTotal examples: #{hits + misses}"
+    return accuracy
   end
   
   def rbfAccuracyGivenDataAndParameters(training_labels, training_examples, testing_labels, testing_examples, gamma, c)
