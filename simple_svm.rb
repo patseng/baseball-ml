@@ -85,6 +85,63 @@ def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
   end
 end
 
+
+
+def rbfAccuracyGivenDataAndParameters(training_labels, training_examples, testing_labels, testing_examples, gamma, c)
+  puts "Gamma = #{gamma}, C = #{c}"
+  # =============================================================================
+  # train svm
+  # =============================================================================
+
+  problem = Libsvm::Problem.new
+  parameter = Libsvm::SvmParameter.new
+
+  parameter.svm_type = Libsvm::SvmType::C_SVC
+  parameter.nu = 0.5
+  parameter.eps = 0.001
+
+  parameter.cache_size = 100
+  
+  parameter.gamma = gamma.to_f
+  parameter.c = c.to_f
+
+  # Type can be LINEAR, POLY, RBF, SIGMOID
+  parameter.kernel_type = Libsvm::KernelType::RBF
+
+  training_examples = training_examples.map {|ary| Libsvm::Node.features(ary) }
+  problem.set_examples(training_labels, training_examples)
+
+  puts "\ttraining..."
+  model = Libsvm::Model.train(problem, parameter)
+  
+  # =============================================================================
+  # find estimated error
+  # =============================================================================
+  
+  puts "\ttesting..."
+  hits = 0.0
+  misses = 0
+  ones = 0
+  testing_examples.each_with_index do |testing_example, i|
+    test_example = Libsvm::Node.features(testing_example)
+    pred = model.predict(test_example)
+    if pred == 1
+      ones += 1
+    end
+    if pred == testing_labels[i]
+      hits += 1
+    else
+      misses += 1
+    end
+  end
+  
+  accuracy = hits / (hits + misses)
+  puts "\tAccuracy: #{accuracy}"
+  puts "\t1s: #{ones}"
+  puts "\tTotal examples: #{hits + misses}"
+  return accuracy
+end
+
 # =============================================================================
 # Obtain training and testing set
 # =============================================================================
@@ -124,52 +181,33 @@ end
 =end
 
 # =============================================================================
-# train svm
+# Grid Search:
+# for RBF we do not know which (C, gamma) are best
 # =============================================================================
 
-problem = Libsvm::Problem.new
-parameter = Libsvm::SvmParameter.new
+# gammas = [2^-15, 2^-13, ..., 2^3]
+gamma_exponents = (-15..3).step(2) 
+gammas = gamma_exponents.collect { |x| 2**x } # 
 
-parameter.svm_type = Libsvm::SvmType::C_SVC
-parameter.nu = 0.5
-parameter.gamma = 1.0/training_examples[0].size
+# C = [2^-5, 2^-3,..., 2^15]
+cs = (-5..15).step(2).collect { |x| 2**x }
 
-parameter.cache_size = 100
+best_accuracy = 0.0
+best_gamma = nil
+best_c = nil
 
-parameter.eps = 0.001
-parameter.c = 10
-
-# Type can be LINEAR, POLY, RBF, SIGMOID
-parameter.kernel_type = Libsvm::KernelType::RBF
-
-training_examples = training_examples.map {|ary| Libsvm::Node.features(ary) }
-problem.set_examples(training_labels, training_examples)
-
-puts "training..."
-model = Libsvm::Model.train(problem, parameter)
-
-# =============================================================================
-# find estimated error
-# =============================================================================
-
-puts "testing..."
-hits = 0.0
-misses = 0
-ones = 0
-testing_examples.each_with_index do |testing_example, i|
-  test_example = Libsvm::Node.features(testing_example)
-  pred = model.predict(test_example)
-  if pred == 1
-    ones += 1
-  end
-  if pred == testing_labels[i]
-    hits += 1
-  else
-    misses += 1
+File.open("gridsearch.out", 'w') do |f|  
+  gammas.each do |gamma|
+    cs.each do |c|
+      accuracy = rbfAccuracyGivenDataAndParameters(training_labels, training_examples, testing_labels, testing_examples, gamma, c)
+      f.write("#{gamma}, #{c}, #{accuracy}\n")    
+      if accuracy > best_accuracy
+        best_accuracy = accuracy
+        best_gamma = gamma
+        best_c = c
+      end
+    end
   end
 end
 
-error = hits / (hits + misses)
-puts "Accuracy: #{error}"
-puts "1s: #{ones}"
-puts "Total examples: #{hits + misses}"
+puts "#{best_accuracy} achieved with gamme = #{best_gamma} C=#{best_c}"
