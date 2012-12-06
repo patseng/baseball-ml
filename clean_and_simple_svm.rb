@@ -31,6 +31,8 @@ testing_labels = []
 # this method is in ml_helper
 addFeaturesAndLabel(DateTime.parse("20100101"), DateTime.parse("20110101"), testing_examples, testing_labels)
 
+puts "feature_set size: #{testing_examples.first.size}"
+
 # =============================================================================
 # Grid Search: 
 # *****************************************************************************
@@ -63,7 +65,7 @@ File.open("peter-gridsearch.out", 'w') do |f|
       accuracy = rbfAccuracyGivenDataAndParameters(training_labels, training_examples, 
                                           testing_labels, testing_examples, gamma, c)
                                           
-      f.write("#{gamma}, #{c}, #{accuracy}\n")    
+      f.write("#{gamma.to_f},#{c.to_f},#{accuracy.to_f}\n")    
       if accuracy > best_accuracy
         best_accuracy = accuracy
         best_gamma = gamma

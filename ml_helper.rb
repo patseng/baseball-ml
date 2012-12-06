@@ -13,10 +13,11 @@ module MLHelper
         feature.save
       end
 
-      feature_set = feature.attributes
-
+      # keep the feature if it doesn't match the regular expression
+      feature_set = feature.attributes.keep_if {|key, value| !(key =~ /.*last.*/) }
+      
       # Add in individual features
-      excluding = ['game_id','home_team_won', 'created_at', 'updated_at']
+      excluding = ['id','game_id','home_team_won', 'created_at', 'updated_at']
       feature_set = feature.attributes.except(*excluding)
       
       examples << feature_set
