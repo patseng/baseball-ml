@@ -45,20 +45,20 @@ puts "feature_set size: #{testing_examples.first.size}"
 
 
 # TODO - modify gamma values
-# gammas = [2^-15, 2^-13, ..., 2^3]
-peter_gamma_exponents = (-15..3).step(2) 
+# gammas = [2^-11, 2^10.5-, ..., 2^-9]
+peter_gamma_exponents = (-11..-9).step(0.5) 
 peter_gammas = peter_gamma_exponents.collect { |x| 2**x } # 
 
 # TODO - modify C values
-# C = [2^-5, 2^-3,..., 2^15]
-peter_cs = (-5..15).step(2).collect { |x| 2**x }
+# C = [2^-2, 2^-1.5,..., 2^2]
+peter_cs = (-2..2).step(0.5).collect { |x| 2**x }
 
 best_accuracy = 0.0
 best_gamma = nil
 best_c = nil
 
 # perform grid search
-File.open("peter-gridsearch.out", 'w') do |f|  
+File.open("peter-all-narrow-gridsearch.out", 'w') do |f|  
   peter_gammas.each do |gamma|
     peter_cs.each do |c|
       # this method is in ml_helper
