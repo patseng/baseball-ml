@@ -185,20 +185,18 @@ end
 # for RBF we do not know which (C, gamma) are best
 # =============================================================================
 
-# gammas = [2^-15, 2^-13, ..., 2^3]
-gamma_exponents = (-15..3).step(2) 
+gamma_exponents = (-10..-1).step(1) 
 gammas = gamma_exponents.collect { |x| 2**x } # 
 
-# C = [2^-5, 2^-3,..., 2^15]
-cs = (-5..15).step(2).collect { |x| 2**x }
+cs = (-3..1).step(0.5).collect { |x| 2**x }
 
 best_accuracy = 0.0
 best_gamma = nil
 best_c = nil
 
-File.open("gridsearch.out", 'w') do |f|  
+File.open("peter-13-narrow-gridsearch.out", 'w') do |f|  
   gammas.each do |gamma|
-    cs.each do |c|
+    cs.each do |c|  
       accuracy = rbfAccuracyGivenDataAndParameters(training_labels, training_examples, testing_labels, testing_examples, gamma, c)
       f.write("#{gamma}, #{c}, #{accuracy}\n")    
       if accuracy > best_accuracy

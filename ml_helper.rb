@@ -1,7 +1,37 @@
 require 'active_support/core_ext/hash'
 
 module MLHelper
-  def addFeaturesAndLabel(earliest_date, latest_date, examples, labels)
+  def addThirteenFeaturesAndLabel(earliest_date, latest_date, examples, labels)
+    all_games = Game.where("game_date > ? AND game_date < ?", earliest_date, latest_date)
+
+    all_games.each do |game|
+      feature = Feature.find_by_game_id(game.id)
+      if feature == nil
+        feature = Feature.new
+        feature.game_id = game.id
+        feature.home_team_won = game.home_team_won
+        feature.save
+      end
+
+      attributes = []
+      (1..3).each do |i|
+        attributes << "h2h_diff_#{i}"
+      end
+      [1,2,5,10,20].each do |i|
+        attributes << "run_differentials_#{i}"
+        attributes << "win_differentials_#{i}"        
+      end
+      
+      # keep only certain features
+      feature_set = feature.attributes.keep_if {|key,value| attributes.include?(key)}
+      
+      examples << feature_set
+      labels << (feature.home_team_won ? 1 : 0)
+    end
+  end
+  
+  
+  def addMomentumLessFeaturesAndLabel(earliest_date, latest_date, examples, labels)
     all_games = Game.where("game_date > ? AND game_date < ?", earliest_date, latest_date)
 
     all_games.each do |game|
