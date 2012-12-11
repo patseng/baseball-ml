@@ -26,15 +26,15 @@ puts "generating training set...."
 training_examples = []
 training_labels = []
 # update this method if you want to train over a different set of features
-addThirteenFeaturesAndLabel(DateTime.parse("20090101"), DateTime.parse("20110101"), training_examples, training_labels)
+addAllFeaturesAndLabel(DateTime.parse("20090101"), DateTime.parse("20110101"), training_examples, training_labels)
 
 puts "generating testing set...."
 testing_examples = []
 testing_labels = []
 # update this method if you want to test over a different set of features
-addThirteenFeaturesAndLabel(DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
+addAllFeaturesAndLabel(DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
 
-File.open("13_train_matrix-final.out", 'w') do |f|
+File.open("train_matrix-final.out", 'w') do |f|
   training_examples.each_with_index do |example, i|
     f.write(training_labels[i])
     example.each do |feature|
@@ -45,7 +45,7 @@ File.open("13_train_matrix-final.out", 'w') do |f|
   end
 end
 
-File.open("13_test_matrix-final.out", 'w') do |f|
+File.open("test_matrix-final.out", 'w') do |f|
   testing_examples.each_with_index do |example, i|
     f.write(testing_labels[i])
     example.each do |feature|

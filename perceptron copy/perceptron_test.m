@@ -1,4 +1,4 @@
-testMatrix = csvread('13_test_matrix-final.out');
+testMatrix = csvread('test_matrix-final.out');
 testCategory = testMatrix(:,1)';
 testMatrix(:,1) = 1; % replace test labels with intercept term
 numTestDocs = size(testMatrix, 1);
