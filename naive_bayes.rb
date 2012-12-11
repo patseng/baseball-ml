@@ -132,13 +132,13 @@ end
 puts "generating training set...."
 training_examples = []
 training_labels = []
-addFeaturesAndLabel(DateTime.parse("20010101"), DateTime.parse("20100101"), training_examples, training_labels)
+addFeaturesAndLabel(DateTime.parse("20010101"), DateTime.parse("20110101"), training_examples, training_labels)
 
 
 puts "generating testing set...."
 testing_examples = []
 testing_labels = []
-addFeaturesAndLabel(DateTime.parse("20100101"), DateTime.parse("20110101"), testing_examples, testing_labels)
+addFeaturesAndLabel(DateTime.parse("20110101"), DateTime.parse("20120101"), testing_examples, testing_labels)
 
 
 num_wins = training_labels.reduce(:+).to_f
@@ -175,6 +175,18 @@ errors = 0
   x_prob_loss[i] = x_count_loss[i]/(training_examples.size - num_wins + 2)
 end
 
+hits = 0.0
+misses = 0
+ones = 0
+
+# true positive
+tp = 0.0
+# false positive
+fp = 0.0
+# false negative
+fn = 0.0
+# true negative
+tn = 0.0
 testing_examples.each_with_index do |test_vector, index|
   p_win = Math.log(prior)
   p_loss = Math.log(1 - prior)
@@ -184,17 +196,41 @@ testing_examples.each_with_index do |test_vector, index|
     p_loss += Math.log(test_vector[i] == 1 ? x_prob_loss[i] : 1 - x_prob_loss[i])
   end
 
-  guess = 0
+  pred = 0
   if p_win > p_loss
-    guess = 1
+    pred = 1
   end
 
-  if guess != testing_labels[index]
-    errors += 1
+  if pred == 1
+    ones += 1
   end
-
+  if pred == testing_labels[index]
+    hits += 1
+    if pred == 1 # update the true positive
+      tp += 1
+    else # update the true negative
+      tn += 1
+    end
+  else
+    misses += 1
+    if pred == 1 
+      fp += 1 # update the false positive
+    else
+      fn += 1 # update the false negative
+    end
+    
+  end
 end
-puts "Errors: #{errors}"
-puts "Error rate: #{(testing_labels.size - errors).to_f / testing_labels.size}"
+
+accuracy = hits / (hits + misses)
+precision = tp / (tp + fp)
+recall = tp / (tp + fn)
+f1 = 2 * precision * recall / (precision + recall)
+puts "\tAccuracy: #{accuracy}"
+puts "\t1s: #{ones}"
+puts "\tTotal examples: #{hits + misses}"
+puts "\tPrecision: #{precision}"
+puts "\tRecall: #{recall}"
+puts "\tF1 score:#{f1}"
 
 
