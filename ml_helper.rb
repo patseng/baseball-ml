@@ -55,7 +55,7 @@ module MLHelper
         thirteen_feature_set = feature.attributes.keep_if {|key,value| attributes.include?(key)}
 
         # keep the feature if it does match the regular expression
-        career_feature_set = feature.attributes.keep_if {|key, value| (key =~ /.*career.*/) }
+        career_feature_set = feature.attributes.keep_if {|key, value| (key =~ /.*career.*/) && !(key =~ /.*walks_per_game_career.*/) }
 
         # Add in individual features
         excluding = ['id','game_id','home_team_won', 'created_at', 'updated_at']

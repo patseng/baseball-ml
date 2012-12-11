@@ -1,4 +1,4 @@
-testMatrix = csvread('test_matrix.out');
+testMatrix = csvread('13_and_career_test_matrix.out');
 testCategory = testMatrix(:,1)';
 testMatrix(:,1) = 1; % replace test labels with intercept term
 numTestDocs = size(testMatrix, 1);
@@ -19,10 +19,9 @@ for i=1:numTestDocs
     else
         hypothesis = 0;
     end
-    hypothesis
     if testCategory(i) ~= hypothesis
         numWrongAnswers = numWrongAnswers + 1;
     end
 end
 
-error = numWrongAnswers/numTestDocs
+accuracy = 1 - numWrongAnswers/numTestDocs

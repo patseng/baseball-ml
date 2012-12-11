@@ -1,17 +1,16 @@
 %{}
 % training
-trainMatrix = csvread('train_matrix.out');
+trainMatrix = csvread('13_and_career_train_matrix.out');
 D = trainMatrix(:,1)';
 trainMatrix(:,1) = []; % remove labels from training set
 X = trainMatrix';
-% X = [X(1:41,:); X(114:132,:)];
 p = size(X, 1);
-H = 70; %floor((p+1)/2);
+H = 7; %floor((p+1)/2);
 m = 1;
 
 mu = 2.75;
 alpha = 0 %0.001;
-epoch = 100;
+epoch = 5000;
 MSEmin = 1e-20;
  
 [Wx,Wy,MSE]=trainMLP(p,H,m,mu,alpha,X,D,epoch,MSEmin);
@@ -20,11 +19,10 @@ semilogy(MSE);
 %}
 
 % testing
-testMatrix = csvread('test_matrix.out');
+testMatrix = csvread('13_and_career_test_matrix.out');
 testLabels = testMatrix(:,1)';
 testMatrix(:,1) = []; % remove labels from matrix
 X = testMatrix';
-% X = [X(1:41,:); X(114:132,:)];
 
 Y = runMLP(X,Wx,Wy);
 

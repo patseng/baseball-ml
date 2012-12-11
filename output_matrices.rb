@@ -39,7 +39,7 @@ File.open("13_and_career_train_matrix.out", 'w') do |f|
     f.write(training_labels[i])
     example.each do |feature|
       f.write(',')
-      f.write(feature)
+      f.write(feature[1])
     end
     f.write("\n")
   end
@@ -50,7 +50,7 @@ File.open("13_and_career_test_matrix.out", 'w') do |f|
     f.write(testing_labels[i])
     example.each do |feature|
       f.write(',')
-      f.write(feature)
+      f.write(feature[1])
     end
     f.write("\n")
   end

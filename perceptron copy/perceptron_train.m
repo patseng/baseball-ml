@@ -1,4 +1,4 @@
-trainMatrix = csvread('train_matrix.out');
+trainMatrix = csvread('13_and_career_train_matrix.out');
 trainCategory = trainMatrix(:,1)';
 trainMatrix(:,1) = 1; % replace training labels with intercept term
 numTrainDocs = size(trainMatrix, 1);
@@ -9,7 +9,7 @@ numTokens = size(trainMatrix, 2);
 % labels for the training vectors just read in. It is represented as the 
 % 1st column of the matrix in train_matrix.out
 
-LEARNING_RATE = 0.02;
+LEARNING_RATE = 0.03;
 THRESHOLD = 0.5;
 theta = zeros(numTokens, 1);
 for i = 1:numTrainDocs
