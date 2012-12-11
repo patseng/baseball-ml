@@ -1,4 +1,4 @@
-trainMatrix = csvread('13_and_career_train_matrix.out');
+trainMatrix = csvread('13_train_matrix-final.out');
 trainCategory = trainMatrix(:,1)';
 trainMatrix(:,1) = 1; % replace training labels with intercept term
 numTrainDocs = size(trainMatrix, 1);

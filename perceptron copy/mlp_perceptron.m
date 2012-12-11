@@ -1,6 +1,6 @@
 %{}
 % training
-trainMatrix = csvread('13_and_career_train_matrix.out');
+trainMatrix = csvread('13_train_matrix-final.out');
 D = trainMatrix(:,1)';
 trainMatrix(:,1) = []; % remove labels from training set
 X = trainMatrix';
@@ -19,7 +19,7 @@ semilogy(MSE);
 %}
 
 % testing
-testMatrix = csvread('13_and_career_test_matrix.out');
+testMatrix = csvread('13_test_matrix-final.out');
 testLabels = testMatrix(:,1)';
 testMatrix(:,1) = []; % remove labels from matrix
 X = testMatrix';
