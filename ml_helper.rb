@@ -145,14 +145,6 @@ module MLHelper
     # =============================================================================
 
     puts "\ttesting..."
-    # true positive
-    tp = 0.0
-    # false positive
-    fp = 0.0
-    # false negative
-    fn = 0.0
-    # true negative
-    tn = 0.0
 
     hits = 0.0
     misses = 0
@@ -212,6 +204,15 @@ module MLHelper
     # =============================================================================
 
     puts "\ttesting..."
+    # true positive
+    tp = 0.0
+    # false positive
+    fp = 0.0
+    # false negative
+    fn = 0.0
+    # true negative
+    tn = 0.0
+    
     hits = 0.0
     misses = 0
     ones = 0
