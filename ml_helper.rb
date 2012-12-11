@@ -124,6 +124,15 @@ module MLHelper
     # =============================================================================
 
     puts "\ttesting..."
+    # true positive
+    tp = 0.0
+    # false positive
+    fp = 0.0
+    # false negative
+    fn = 0.0
+    # true negative
+    tn = 0.0
+
     hits = 0.0
     misses = 0
     ones = 0
@@ -133,8 +142,11 @@ module MLHelper
       if pred == 1
         ones += 1
       end
+      
+      # if our guess is correct
       if pred == testing_labels[i]
         hits += 1
+      # if our guess is incorrect
       else
         misses += 1
       end
@@ -190,15 +202,32 @@ module MLHelper
       end
       if pred == testing_labels[i]
         hits += 1
+        if pred == 1 # update the true positive
+          tp += 1
+        else # update the true negative
+          tn += 1
+        end
       else
         misses += 1
+        if pred == 1 
+          fp += 1 # update the false positive
+        else
+          fn += 1 # update the false negative
+        end
+        
       end
     end
 
     accuracy = hits / (hits + misses)
+    precision = tp / (tp + fp)
+    recall = tp / (tp + fn)
+    f1 = 2 * precision * recall / (precision + recall)
     puts "\tAccuracy: #{accuracy}"
     puts "\t1s: #{ones}"
     puts "\tTotal examples: #{hits + misses}"
+    puts "\tPrecision: #{precision}"
+    puts "\tRecall: #{recall}"
+    puts "\tF1 score:#{f1}"
     return accuracy
   end
 end
